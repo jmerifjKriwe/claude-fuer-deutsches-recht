@@ -7,7 +7,7 @@ description: "Juristisches Schreiben JUS im Jurastudium: prüft konkret Lernprof
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Juristisches Schreiben JUS** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Lernprofil im Jurastudium anpassen und aktualisieren, Juristisches Schreiben trainieren für Klausur und, Leitfaden Klausurtraining. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Juristisches Schreiben JUS** ordnet den Fall über die tragenden Prüffelder: Lernprofil im Jurastudium anpassen und aktualisieren, Juristisches Schreiben trainieren für Klausur und, Leitfaden Klausurtraining. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

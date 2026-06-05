@@ -7,7 +7,7 @@ description: "Steuerliche Folgen Unterhalt Selbstaendige im Plugin Fachanwalt Fa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuerliche Folgen Unterhalt Selbstaendige** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Steuerliche Folgen externe Teilung, Unterhalt bei Selbstständigen, Abänderung Versorgungsausgleich § 51 VersAusglG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuerliche Folgen Unterhalt Selbstaendige** ordnet den Fall über die tragenden Prüffelder: Steuerliche Folgen externe Teilung, Unterhalt bei Selbstständigen, Abänderung Versorgungsausgleich § 51 VersAusglG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -103,6 +103,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `verbot-beschraenkung-verkehr-rettungswege` | Verbot Beschraenkung Verkehr Rettungswege im Versammlungsrecht: prüft konkret Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschnei, Bearbeitet Verkehr, ÖPNV. Liefert priorisierten Output mit Norm-Pinpoints, Ri... |
 | `versammlungskonzept-wahlkampf-politische` | Versammlungskonzept Wahlkampf Politische im Versammlungsrecht: prüft konkret Erstellt ein belastbares Versammlungskonzept als Anlage zur, Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen. Liefert priorisierten Output mit... |
 | `versammlungsrecht-kaltstart-triage` | Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen. |
-| `widerspruch-klage` | Widerspruch Klage im Versammlungsrecht: Dieser Skill arbeitet Widerspruch Klage als zusammenhängenden Arbeitsgang im Plugin Versammlungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `widerspruch-klage` | Widerspruch Klage im Versammlungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

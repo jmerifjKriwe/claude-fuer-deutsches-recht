@@ -7,7 +7,7 @@ description: "Anlagenverzeichnis Kanzlei Grundaufbau BEA im Plugin Anlagen Zu Sc
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anlagenverzeichnis Kanzlei Grundaufbau BEA** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Erstellt getrennte Anlagenverzeichnisse, Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen, Plant elektronische Anlagenpakete für beA/ERV und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anlagenverzeichnis Kanzlei Grundaufbau BEA** ordnet den Fall über die tragenden Prüffelder: Erstellt getrennte Anlagenverzeichnisse, Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen, Plant elektronische Anlagenpakete für beA/ERV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

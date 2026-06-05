@@ -7,7 +7,7 @@ description: "Rechtsbeschwerde Owig Schlussmemo Lessons im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsbeschwerde Owig Schlussmemo Lessons** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Rechtsbeschwerde § 79 OWiG, Schlussmemo und Lessons Learned, Scope Cut Behördenfragen einhegen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsbeschwerde Owig Schlussmemo Lessons** ordnet den Fall über die tragenden Prüffelder: Rechtsbeschwerde § 79 OWiG, Schlussmemo und Lessons Learned, Scope Cut Behördenfragen einhegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

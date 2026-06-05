@@ -7,7 +7,7 @@ description: "KI Nutzung Plagiat Hausarbeit Klassenbildung im Schulrecht der Lä
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Nutzung Plagiat Hausarbeit Klassenbildung** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen, Prüft KI-Nutzung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Nutzung Plagiat Hausarbeit Klassenbildung** ordnet den Fall über die tragenden Prüffelder: Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen, Prüft KI-Nutzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

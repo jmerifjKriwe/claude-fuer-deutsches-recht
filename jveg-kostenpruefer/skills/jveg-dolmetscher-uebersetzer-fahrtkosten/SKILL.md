@@ -7,7 +7,7 @@ description: "Dolmetscher Uebersetzer Fahrtkosten im JVEG-Kostenprüfung: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dolmetscher Uebersetzer Fahrtkosten** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Spezialfall Dolmetscher- und Uebersetzerverguetung JVEG, Fahrtkosten nach JVEG berechnen, Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dolmetscher Uebersetzer Fahrtkosten** ordnet den Fall über die tragenden Prüffelder: Spezialfall Dolmetscher- und Uebersetzerverguetung JVEG, Fahrtkosten nach JVEG berechnen, Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

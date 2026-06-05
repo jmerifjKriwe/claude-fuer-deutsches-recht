@@ -7,7 +7,7 @@ description: "Massnahmenplan Tage Maturity Assessment im NIS2-Cybersecurity-Comp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Massnahmenplan Tage Maturity Assessment** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Baut 100-Tage-Programm für Cyber-Compliance, Bewertet Reifegrad von IT-Sicherheit und digitaler, Prüft Messenger und Chatkanäle für interne und externe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Massnahmenplan Tage Maturity Assessment** ordnet den Fall über die tragenden Prüffelder: Baut 100-Tage-Programm für Cyber-Compliance, Bewertet Reifegrad von IT-Sicherheit und digitaler, Prüft Messenger und Chatkanäle für interne und externe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "RAK Ruege Unsachlichkeit Verteidigung im Berufsgerichtliche Verfah
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **RAK Ruege Unsachlichkeit Verteidigung** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von RAK-Rüge wegen Unsachlichkeit (Präventions- und, RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und, Rechtsmittel im Berufsgericht (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**RAK Ruege Unsachlichkeit Verteidigung** ordnet den Fall über die tragenden Prüffelder: RAK-Rüge wegen Unsachlichkeit (Präventions- und, RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und, Rechtsmittel im Berufsgericht (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

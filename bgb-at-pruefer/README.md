@@ -154,7 +154,7 @@ Automatisch generierte Komplett-Liste aller 80 Skills in diesem Plugin. Beschrei
 | `willenserklaerung-wucher-ausbeutung-zugang` | Willenserklaerung Wucher Ausbeutung Zugang im Plugin Bgb At Pruefer: prüft konkret Klausurfall zum Tatbestand der Willenserklärung, Klausurfall zu Wucher und wucherähnlichen Geschäften nach §, Klausurfall zum Zugang empfangsbedürftiger.... |
 | `wucher-und-ausbeutung-paragraph-138-2` | Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrig... |
 | `zugang-paragraph-130` | Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich des Empfängers, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf vor oder gleichzeitig mit Zugang, Empfangsbote, digitale Postfächer und Zugangsvere... |
-| `zugangsvereitelung-annahmeverweigerung` | Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer: Dieser Skill arbeitet Zugangsvereitelung Annahmeverweigerung als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislas... |
+| `zugangsvereitelung-annahmeverweigerung` | Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `zugangsvereitelung-und-annahmeverweigerung` | Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

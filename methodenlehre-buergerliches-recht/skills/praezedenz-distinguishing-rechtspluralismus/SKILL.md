@@ -7,7 +7,7 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Praezedenz Distinguishing Rechtspluralismus** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Praezedenz Distinguishing Rechtspluralismus** ordnet den Fall über die tragenden Prüffelder: Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

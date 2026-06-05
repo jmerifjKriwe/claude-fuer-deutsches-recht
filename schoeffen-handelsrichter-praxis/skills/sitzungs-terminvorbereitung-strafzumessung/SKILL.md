@@ -7,7 +7,7 @@ description: "Sitzungs Terminvorbereitung Strafzumessung im Schöffen- und Hande
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sitzungs Terminvorbereitung Strafzumessung** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Sitzungs- und Terminvorbereitung, Strafzumessung für Schöffen, Strafzumessung für Schöffen (Orientierung). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sitzungs Terminvorbereitung Strafzumessung** ordnet den Fall über die tragenden Prüffelder: Sitzungs- und Terminvorbereitung, Strafzumessung für Schöffen, Strafzumessung für Schöffen (Orientierung). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

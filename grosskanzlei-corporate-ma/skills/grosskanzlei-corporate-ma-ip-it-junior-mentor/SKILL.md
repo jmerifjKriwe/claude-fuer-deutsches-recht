@@ -7,7 +7,7 @@ description: "IP IT Junior Mentor im Corporate/M&A (Großkanzlei-Praxis): prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IP IT Junior Mentor** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Insurance Risk DD und Policies Check, IT und Data Assets Due Diligence, Junior-Mentor fuer Corporate/M&A und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IP IT Junior Mentor** ordnet den Fall über die tragenden Prüffelder: Insurance Risk DD und Policies Check, IT und Data Assets Due Diligence, Junior-Mentor fuer Corporate/M&A. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

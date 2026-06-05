@@ -7,7 +7,7 @@ description: "Strafbarkeit 266a Teammeetings Agile im Sozialversicherungsstatus-
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafbarkeit 266a Teammeetings Agile** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft strafrechtliches Risiko wegen Vorenthaltens von, Prüft Dailies, Sprint Planning und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafbarkeit 266a Teammeetings Agile** ordnet den Fall über die tragenden Prüffelder: Prüft strafrechtliches Risiko wegen Vorenthaltens von, Prüft Dailies, Sprint Planning. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

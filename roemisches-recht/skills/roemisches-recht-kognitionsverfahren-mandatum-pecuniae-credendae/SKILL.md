@@ -7,7 +7,7 @@ description: "Kognitionsverfahren Mandatum Pecuniae Credendae im Römisches Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kognitionsverfahren Mandatum Pecuniae Credendae** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Römisches Recht, Mandatum pecuniae credendae und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kognitionsverfahren Mandatum Pecuniae Credendae** ordnet den Fall über die tragenden Prüffelder: Römisches Recht, Mandatum pecuniae credendae. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

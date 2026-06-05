@@ -7,7 +7,7 @@ description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Sch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Glaeubigerliste Richtig Hausrat** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Glaeubigerliste Richtig Hausrat** ordnet den Fall über die tragenden Prüffelder: Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

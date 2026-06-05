@@ -7,7 +7,7 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kostenrisiko Streitwert Ladung Termin** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüffelder: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

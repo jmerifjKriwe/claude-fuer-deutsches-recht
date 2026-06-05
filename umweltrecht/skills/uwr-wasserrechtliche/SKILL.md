@@ -1,13 +1,13 @@
 ---
 name: uwr-wasserrechtliche
-description: "UWR Wasserrechtliche im Plugin Umweltrecht: Dieser Skill arbeitet UWR Wasserrechtliche als zusammenhängenden Arbeitsgang im Plugin Umweltrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "UWR Wasserrechtliche im Plugin Umweltrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # UWR Wasserrechtliche
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **UWR Wasserrechtliche** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**UWR Wasserrechtliche** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

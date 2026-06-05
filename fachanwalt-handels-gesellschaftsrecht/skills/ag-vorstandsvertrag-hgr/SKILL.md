@@ -7,7 +7,7 @@ description: "AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschafts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AG Vorstandsvertrag HGR** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AG Vorstandsvertrag HGR** ordnet den Fall über die tragenden Prüffelder: Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

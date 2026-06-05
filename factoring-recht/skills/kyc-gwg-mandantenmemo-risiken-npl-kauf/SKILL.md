@@ -7,7 +7,7 @@ description: "KYC GWG Mandantenmemo Risiken NPL Kauf im Plugin Factoring Recht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KYC GWG Mandantenmemo Risiken NPL Kauf** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von KYC GwG Factoringinstitut wirtschaftlich Berechtigte, Mandantenmemo Factoring-Risiken Vorstandsvorlage, NPL Kauf Servicing und Factoring-Abgrenzung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KYC GWG Mandantenmemo Risiken NPL Kauf** ordnet den Fall über die tragenden Prüffelder: KYC GwG Factoringinstitut wirtschaftlich Berechtigte, Mandantenmemo Factoring-Risiken Vorstandsvorlage, NPL Kauf Servicing und Factoring-Abgrenzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

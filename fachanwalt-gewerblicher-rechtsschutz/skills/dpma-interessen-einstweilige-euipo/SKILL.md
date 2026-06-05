@@ -7,7 +7,7 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dpma Interessen Einstweilige Euipo** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von DPMA-Mehrparteienverfahren, Mandantenkommunikation im Eilverfahren, EUIPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dpma Interessen Einstweilige Euipo** ordnet den Fall über die tragenden Prüffelder: DPMA-Mehrparteienverfahren, Mandantenkommunikation im Eilverfahren, EUIPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Wartungs Servicevertrag Beweislast im Robotik- und KI-Recht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wartungs Servicevertrag Beweislast** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft Wartungs-, Kalibrierungs- und Serviceverträge, Prüft Beweislast. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wartungs Servicevertrag Beweislast** ordnet den Fall über die tragenden Prüffelder: Prüft Wartungs-, Kalibrierungs- und Serviceverträge, Prüft Beweislast. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

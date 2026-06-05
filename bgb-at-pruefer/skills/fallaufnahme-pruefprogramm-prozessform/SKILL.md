@@ -7,7 +7,7 @@ description: "Fallaufnahme Pruefprogramm Prozessform im Plugin Bgb At Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fallaufnahme Pruefprogramm Prozessform** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Strukturiertes Fallaufnahme- und Prüfprogramm für, Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und, Klausurhilfe zu häufigen Fehlsubsumtionen bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fallaufnahme Pruefprogramm Prozessform** ordnet den Fall über die tragenden Prüffelder: Strukturiertes Fallaufnahme- und Prüfprogramm für, Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und, Klausurhilfe zu häufigen Fehlsubsumtionen bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

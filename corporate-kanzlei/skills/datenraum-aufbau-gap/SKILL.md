@@ -7,7 +7,7 @@ description: "Datenraum Aufbau GAP im Corporate-Kanzlei-Praxis: prüft konkret V
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenraum Aufbau GAP** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Virtuellen Datenraum strukturieren und befuellen für, Public M&A, Gap-Analyse des Datenraums und Clean-Room-Protokoll für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenraum Aufbau GAP** ordnet den Fall über die tragenden Prüffelder: Virtuellen Datenraum strukturieren und befuellen für, Public M&A, Gap-Analyse des Datenraums und Clean-Room-Protokoll für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

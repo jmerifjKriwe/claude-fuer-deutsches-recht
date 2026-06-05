@@ -7,7 +7,7 @@ description: "China Software Source Code Data Localization AND Cybersecurity im 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Software Source Code Data Localization AND Cybersecurity** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Software, Source Code und SaaS im China-Geschaeft, Datenlokalisierung und grenzüberschreitender Datentransfer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Software Source Code Data Localization AND Cybersecurity** ordnet den Fall über die tragenden Prüffelder: Software, Source Code und SaaS im China-Geschaeft, Datenlokalisierung und grenzüberschreitender Datentransfer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

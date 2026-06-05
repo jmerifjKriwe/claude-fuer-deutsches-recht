@@ -7,7 +7,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kontaminierter Baugrund Orientierung VOB** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kontaminierter Baugrund Orientierung VOB** ordnet den Fall über die tragenden Prüffelder: Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

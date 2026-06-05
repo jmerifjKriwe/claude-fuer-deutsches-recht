@@ -7,7 +7,7 @@ description: "Betreuer Registrierung Betreuung im Plugin Betreuungsrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuer Registrierung Betreuung** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für betreuer als erbe, Erklärt die Abgrenzung beruflicher / ehrenamtlicher, Anwaltskosten im Betreuungsverfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuer Registrierung Betreuung** ordnet den Fall über die tragenden Prüffelder: Prüffeld für betreuer als erbe, Erklärt die Abgrenzung beruflicher / ehrenamtlicher, Anwaltskosten im Betreuungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

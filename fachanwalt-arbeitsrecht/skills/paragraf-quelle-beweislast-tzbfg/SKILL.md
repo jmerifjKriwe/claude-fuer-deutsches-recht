@@ -7,7 +7,7 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Paragraf Quelle Beweislast Tzbfg** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Paragraf Quelle Beweislast Tzbfg** ordnet den Fall über die tragenden Prüffelder: Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

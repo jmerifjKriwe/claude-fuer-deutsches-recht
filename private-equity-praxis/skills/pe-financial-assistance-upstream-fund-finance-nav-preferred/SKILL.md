@@ -7,7 +7,7 @@ description: "PE Financial Assistance Upstream Fund Finance NAV Preferred im Pri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Financial Assistance Upstream Fund Finance NAV Preferred** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Financial Assistance Upstream Fund Finance NAV Preferred** ordnet den Fall über die tragenden Prüffelder: Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

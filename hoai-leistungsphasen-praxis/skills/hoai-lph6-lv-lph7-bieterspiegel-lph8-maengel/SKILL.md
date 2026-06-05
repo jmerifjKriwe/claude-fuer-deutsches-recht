@@ -7,7 +7,7 @@ description: "Lph6 LV Lph7 Bieterspiegel Lph8 Maengel im HOAI-Leistungsphasen: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lph6 LV Lph7 Bieterspiegel Lph8 Maengel** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI-Fachfrage LPH 6, HOAI-Fachfrage LPH 7, HOAI-Fachfrage LPH 8 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lph6 LV Lph7 Bieterspiegel Lph8 Maengel** ordnet den Fall über die tragenden Prüffelder: HOAI-Fachfrage LPH 6, HOAI-Fachfrage LPH 7, HOAI-Fachfrage LPH 8. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Dienstaufsicht Notar Beschwerde Verteidigung im Berufsgerichtliche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dienstaufsicht Notar Beschwerde Verteidigung** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Dienstaufsicht Notar Beschwerde (Präventions- und, Dienstaufsicht Notar Beschwerde (Verteidigungs- und, Fremdgeld und Anderkonto (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dienstaufsicht Notar Beschwerde Verteidigung** ordnet den Fall über die tragenden Prüffelder: Dienstaufsicht Notar Beschwerde (Präventions- und, Dienstaufsicht Notar Beschwerde (Verteidigungs- und, Fremdgeld und Anderkonto (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

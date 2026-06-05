@@ -7,7 +7,7 @@ description: "Anwendungsbereich Berufliche Abweichende im Plugin Goae Gebuehreno
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anwendungsbereich Berufliche Abweichende** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von GOÄ § 1 Anwendungsbereich berufliche Leistungen, GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung, GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anwendungsbereich Berufliche Abweichende** ordnet den Fall über die tragenden Prüffelder: GOÄ § 1 Anwendungsbereich berufliche Leistungen, GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung, GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

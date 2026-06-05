@@ -7,7 +7,7 @@ description: "Redaction Confidentiality Regulatory Matter im Plugin Kanzlei Mand
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Redaction Confidentiality Regulatory Matter** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Redaction und Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Redaction Confidentiality Regulatory Matter** ordnet den Fall über die tragenden Prüffelder: Redaction und Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

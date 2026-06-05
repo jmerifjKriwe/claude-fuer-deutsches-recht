@@ -7,7 +7,7 @@ description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Staat Usbekistan Migrationscheck Vanuatu** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Staat Usbekistan Migrationscheck Vanuatu** ordnet den Fall über die tragenden Prüffelder: Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

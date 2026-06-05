@@ -7,7 +7,7 @@ description: "Abschnitt B C Abtretung Factoring im Plugin Goae Gebuehrenordnung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abschnitt B C Abtretung Factoring** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von Abschnitt B Grundleistungen Zuschläge, Abschnitt C nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abschnitt B C Abtretung Factoring** ordnet den Fall über die tragenden Prüffelder: Abschnitt B Grundleistungen Zuschläge, Abschnitt C nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

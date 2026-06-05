@@ -7,7 +7,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klageschrift Anschreiben AN Antrag Bestimmt** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klageschrift Anschreiben AN Antrag Bestimmt** ordnet den Fall über die tragenden Prüffelder: Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Joiner Mover KI Incident Tools Shadow im NIS2-Cybersecurity-Compli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Joiner Mover KI Incident Tools Shadow** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Baut Joiner-Mover-Leaver-Kontrollen, Prüft KI-gestützte Incident Detection und ihre Grenzen, Prüft Shadow-IT durch KI-Tools und Browser-Plugins und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Joiner Mover KI Incident Tools Shadow** ordnet den Fall über die tragenden Prüffelder: Baut Joiner-Mover-Leaver-Kontrollen, Prüft KI-gestützte Incident Detection und ihre Grenzen, Prüft Shadow-IT durch KI-Tools und Browser-Plugins. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

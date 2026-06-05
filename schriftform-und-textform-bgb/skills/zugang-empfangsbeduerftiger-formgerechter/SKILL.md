@@ -7,7 +7,7 @@ description: "Zugang Empfangsbeduerftiger Formgerechter im Plugin Schriftform Un
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zugang Empfangsbeduerftiger Formgerechter** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Mandant fragt, Prüffeld für zugang formgerechter erklaerung bgh viii zr. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zugang Empfangsbeduerftiger Formgerechter** ordnet den Fall über die tragenden Prüffelder: Mandant fragt, Prüffeld für zugang formgerechter erklaerung bgh viii zr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

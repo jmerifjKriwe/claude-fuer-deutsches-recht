@@ -7,7 +7,7 @@ description: "Bundesland Datenerhebung Grossstadt im Plugin Mietrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bundesland Datenerhebung Grossstadt** als zusammenhängenden Arbeitsgang im Plugin Mietrecht. Im Mittelpunkt steht die Prüfung von Bundesland, Datenerhebung, Großstadt-Mietspiegel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bundesland Datenerhebung Grossstadt** ordnet den Fall über die tragenden Prüffelder: Bundesland, Datenerhebung, Großstadt-Mietspiegel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

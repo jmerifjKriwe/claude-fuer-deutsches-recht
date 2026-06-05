@@ -7,7 +7,7 @@ description: "Beratungshaftung Haftung Beweislast BK CUM im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beratungshaftung Haftung Beweislast BK CUM** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beratungshaftung Haftung Beweislast BK CUM** ordnet den Fall über die tragenden Prüffelder: Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

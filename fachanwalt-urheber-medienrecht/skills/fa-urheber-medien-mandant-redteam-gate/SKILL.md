@@ -7,7 +7,7 @@ description: "FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urhebe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FA Urheber Medien Mandant Redteam Gate** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Lizenzvertrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FA Urheber Medien Mandant Redteam Gate** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Lizenzvertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

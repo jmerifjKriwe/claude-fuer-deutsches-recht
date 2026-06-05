@@ -7,7 +7,7 @@ description: "Behoerdenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Behoerdenpaket Datenpanne Datenschutzrecht** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Behoerdenpaket, Datenpanne, Datenschutzrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Behoerdenpaket Datenpanne Datenschutzrecht** ordnet den Fall über die tragenden Prüffelder: Behoerdenpaket, Datenpanne, Datenschutzrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

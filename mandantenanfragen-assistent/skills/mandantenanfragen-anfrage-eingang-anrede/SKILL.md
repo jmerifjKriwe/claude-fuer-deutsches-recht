@@ -7,7 +7,7 @@ description: "Anfrage Eingang Anrede im Mandantenanfragen-Triage: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfrage Eingang Anrede** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Mandantenanfragen, Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines, Antwort-E-Mail soll mit exakt richtiger Anrede des. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfrage Eingang Anrede** ordnet den Fall über die tragenden Prüffelder: Mandantenanfragen, Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines, Antwort-E-Mail soll mit exakt richtiger Anrede des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Luft Ersatzteillager Drohne Luftfracht Acc3 im Plugin Luftrecht Fl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Ersatzteillager Drohne Luftfracht Acc3** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Ersatzteillager fuer Luftfahrzeuge, Drohnen-Mandat, Luftfracht-Mandat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Ersatzteillager Drohne Luftfracht Acc3** ordnet den Fall über die tragenden Prüffelder: Ersatzteillager fuer Luftfahrzeuge, Drohnen-Mandat, Luftfracht-Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

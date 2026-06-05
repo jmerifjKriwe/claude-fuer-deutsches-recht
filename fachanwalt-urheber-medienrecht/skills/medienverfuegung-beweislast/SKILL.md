@@ -7,7 +7,7 @@ description: "Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Medienverfuegung Beweislast** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Medienverfuegung, Persönlichkeitsrecht, Medienverfügung und Abmahnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Medienverfuegung Beweislast** ordnet den Fall über die tragenden Prüffelder: Medienverfuegung, Persönlichkeitsrecht, Medienverfügung und Abmahnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

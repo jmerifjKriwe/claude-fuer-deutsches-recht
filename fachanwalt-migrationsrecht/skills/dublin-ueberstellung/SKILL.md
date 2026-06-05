@@ -1,13 +1,13 @@
 ---
 name: dublin-ueberstellung
-description: "Dublin Ueberstellung im Migrationsrecht: Dieser Skill behandelt Dublin Ueberstellung als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Dublin-Fristen/Überstellung."
+description: "Dublin Ueberstellung im Migrationsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Dublin Ueberstellung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dublin Ueberstellung** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Dublin-Fristen/Überstellung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dublin Ueberstellung** ordnet den Fall über die tragenden Prüffelder: Dublin-Fristen/Überstellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Bafin Laufender Beschwerde Anhoerung im Plugin Factoring Recht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bafin Laufender Beschwerde Anhoerung** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von BaFin Tatbestand Factoring laufender Forderungsankauf, Beschwerde und Anhörung BaFin Factoring, Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bafin Laufender Beschwerde Anhoerung** ordnet den Fall über die tragenden Prüffelder: BaFin Tatbestand Factoring laufender Forderungsankauf, Beschwerde und Anhörung BaFin Factoring, Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "INV Monitor Privilege im Internal Investigations: prüft konkret S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Monitor Privilege** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Strukturiert das Reporting an einen externen, Erstellt und verwaltet das Privilege-Log für privilegierte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Monitor Privilege** ordnet den Fall über die tragenden Prüffelder: Strukturiert das Reporting an einen externen, Erstellt und verwaltet das Privilege-Log für privilegierte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

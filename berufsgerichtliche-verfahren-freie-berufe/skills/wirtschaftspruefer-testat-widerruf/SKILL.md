@@ -7,7 +7,7 @@ description: "Wirtschaftspruefer Testat Widerruf im Berufsgerichtliche Verfahren
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wirtschaftspruefer Testat Widerruf** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und, Wirtschaftsprüfer Unabhängigkeit (Präventions- und, Wirtschaftsprüfer Unabhängigkeit (Verteidigungs- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wirtschaftspruefer Testat Widerruf** ordnet den Fall über die tragenden Prüffelder: Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und, Wirtschaftsprüfer Unabhängigkeit (Präventions- und, Wirtschaftsprüfer Unabhängigkeit (Verteidigungs- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

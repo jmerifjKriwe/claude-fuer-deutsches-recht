@@ -7,7 +7,7 @@ description: "Governing LAW Hearing Script im Commercial Courts in Deutschland: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Governing LAW Hearing Script** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Prüft anwendbares Recht, Erstellt englische Hearing Scripts für deutsche Anwälte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Governing LAW Hearing Script** ordnet den Fall über die tragenden Prüffelder: Prüft anwendbares Recht, Erstellt englische Hearing Scripts für deutsche Anwälte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

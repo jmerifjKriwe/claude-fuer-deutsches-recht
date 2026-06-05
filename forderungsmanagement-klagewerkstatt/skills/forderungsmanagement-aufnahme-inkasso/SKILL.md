@@ -7,7 +7,7 @@ description: "Aufnahme Inkasso im Plugin Forderungsmanagement Klagewerkstatt: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufnahme Inkasso** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement Klagewerkstatt. Im Mittelpunkt steht die Prüfung von Forderung systematisch aufnehmen, Gläubiger hat offene Forderung die er vor Gericht einklagen, Kanzlei will einmalig ihre eigenen Klagemuster in ein. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufnahme Inkasso** ordnet den Fall über die tragenden Prüffelder: Forderung systematisch aufnehmen, Gläubiger hat offene Forderung die er vor Gericht einklagen, Kanzlei will einmalig ihre eigenen Klagemuster in ein. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

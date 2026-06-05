@@ -7,7 +7,7 @@ description: "Fran Kuendigung Wichtigem Ordentliche im Franchiserecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Kuendigung Wichtigem Ordentliche** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Ausserordentliche Kündigung eines Franchisevertrags prüfen, Ordentliche Kündigung und automatische Verlängerung von, Abwicklung und Rückbau nach Beendigung eines. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Kuendigung Wichtigem Ordentliche** ordnet den Fall über die tragenden Prüffelder: Ausserordentliche Kündigung eines Franchisevertrags prüfen, Ordentliche Kündigung und automatische Verlängerung von, Abwicklung und Rückbau nach Beendigung eines. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

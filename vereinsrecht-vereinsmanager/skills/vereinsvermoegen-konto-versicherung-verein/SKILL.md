@@ -7,7 +7,7 @@ description: "Vereinsvermoegen Konto Versicherung Verein im Plugin Vereinsrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vereinsvermoegen Konto Versicherung Verein** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vereinsvermoegen Konto Versicherung Verein** ordnet den Fall über die tragenden Prüffelder: Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

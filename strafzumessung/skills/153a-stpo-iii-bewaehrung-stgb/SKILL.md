@@ -7,7 +7,7 @@ description: "153a Stpo III Bewaehrung Stgb im Plugin Strafzumessung: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **153a Stpo III Bewaehrung Stgb** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Einstellung gegen Auflage nach § 153a StPO, Begruendungsanforderungen an die Strafzumessung im, Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**153a Stpo III Bewaehrung Stgb** ordnet den Fall über die tragenden Prüffelder: Einstellung gegen Auflage nach § 153a StPO, Begruendungsanforderungen an die Strafzumessung im, Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

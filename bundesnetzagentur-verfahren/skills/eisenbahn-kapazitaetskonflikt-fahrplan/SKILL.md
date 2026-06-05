@@ -7,7 +7,7 @@ description: "Eisenbahn Kapazitaetskonflikt Fahrplan im Bundesnetzagentur-Verfah
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eisenbahn Kapazitaetskonflikt Fahrplan** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Eisenbahn / Kapazitätskonflikt Fahrplan, Eisenbahn / Netznutzungsbedingungen, Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eisenbahn Kapazitaetskonflikt Fahrplan** ordnet den Fall über die tragenden Prüffelder: Eisenbahn / Kapazitätskonflikt Fahrplan, Eisenbahn / Netznutzungsbedingungen, Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

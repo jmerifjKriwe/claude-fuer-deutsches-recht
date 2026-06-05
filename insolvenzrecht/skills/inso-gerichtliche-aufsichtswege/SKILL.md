@@ -7,7 +7,7 @@ description: "Inso Gerichtliche Aufsichtswege im Plugin Insolvenzrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Gerichtliche Aufsichtswege** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Rechtsdurchsetzung gegen Auskunfteien, Glaeubigerausschuss in der Praxis, Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Gerichtliche Aufsichtswege** ordnet den Fall über die tragenden Prüffelder: Rechtsdurchsetzung gegen Auskunfteien, Glaeubigerausschuss in der Praxis, Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "E Mail Fernabsatzvertrag 312c im Plugin Ecommerce Recht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **E Mail Fernabsatzvertrag 312c** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von E-Mail Bestellbestätigung Vertragsschluss, Fernabsatzvertrag § 312c BGB, Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**E Mail Fernabsatzvertrag 312c** ordnet den Fall über die tragenden Prüffelder: E-Mail Bestellbestätigung Vertragsschluss, Fernabsatzvertrag § 312c BGB, Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

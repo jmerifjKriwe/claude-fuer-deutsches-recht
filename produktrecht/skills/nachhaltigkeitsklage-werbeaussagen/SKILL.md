@@ -7,7 +7,7 @@ description: "Nachhaltigkeitsklage Werbeaussagen im Plugin Produktrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachhaltigkeitsklage Werbeaussagen** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie, Prüft die Einhaltung der Preisangabenverordnung 2022, Spezialfall GPSR und CRA Fitness-Check digitale Produkte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachhaltigkeitsklage Werbeaussagen** ordnet den Fall über die tragenden Prüffelder: Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie, Prüft die Einhaltung der Preisangabenverordnung 2022, Spezialfall GPSR und CRA Fitness-Check digitale Produkte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

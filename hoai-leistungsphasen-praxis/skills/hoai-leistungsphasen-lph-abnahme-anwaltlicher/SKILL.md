@@ -7,7 +7,7 @@ description: "LPH Abnahme Anwaltlicher im HOAI-Leistungsphasen: prüft konkret H
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **LPH Abnahme Anwaltlicher** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI-Praxis, HOAI LPH 1 Grundlagenermittlung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**LPH Abnahme Anwaltlicher** ordnet den Fall über die tragenden Prüffelder: HOAI-Praxis, HOAI LPH 1 Grundlagenermittlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

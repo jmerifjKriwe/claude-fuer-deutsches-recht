@@ -7,7 +7,7 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AR Kuendigungspruefung Fazugang Arbeitgeber** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Kündigungsprüfung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AR Kuendigungspruefung Fazugang Arbeitgeber** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Kündigungsprüfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: zweigniederlassung-auslaendische
-description: "Zweigniederlassung Auslaendische im Handelsregister-Praxis: Dieser Skill arbeitet Zweigniederlassung Auslaendische als zusammenhängenden Arbeitsgang im Plugin Handelsregister Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zweigniederlassung Auslaendische im Handelsregister-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zweigniederlassung Auslaendische
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zweigniederlassung Auslaendische** als zusammenhängenden Arbeitsgang im Plugin Handelsregister Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zweigniederlassung Auslaendische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

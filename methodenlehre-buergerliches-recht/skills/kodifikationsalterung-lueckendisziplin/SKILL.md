@@ -7,7 +7,7 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kodifikationsalterung Lueckendisziplin** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kodifikationsalterung Lueckendisziplin** ordnet den Fall über die tragenden Prüffelder: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

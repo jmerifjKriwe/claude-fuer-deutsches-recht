@@ -7,7 +7,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Urteil Rechtskraft Urteilsverkuendung ZPO** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüffelder: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

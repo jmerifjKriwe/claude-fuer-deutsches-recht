@@ -7,7 +7,7 @@ description: "Bverwg Sanitaetsdienst Innere Umkehr im Kriegsdienstverweigerung u
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bverwg Sanitaetsdienst Innere Umkehr** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an, Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an, Bereitet persönliche gerichtliche Befragung nach BVerwG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bverwg Sanitaetsdienst Innere Umkehr** ordnet den Fall über die tragenden Prüffelder: Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an, Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an, Bereitet persönliche gerichtliche Befragung nach BVerwG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

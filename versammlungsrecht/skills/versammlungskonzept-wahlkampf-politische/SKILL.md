@@ -7,7 +7,7 @@ description: "Versammlungskonzept Wahlkampf Politische im Versammlungsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versammlungskonzept Wahlkampf Politische** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Erstellt ein belastbares Versammlungskonzept als Anlage zur, Prüft Wahlkampfstände, Kandidatenauftritte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versammlungskonzept Wahlkampf Politische** ordnet den Fall über die tragenden Prüffelder: Erstellt ein belastbares Versammlungskonzept als Anlage zur, Prüft Wahlkampfstände, Kandidatenauftritte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

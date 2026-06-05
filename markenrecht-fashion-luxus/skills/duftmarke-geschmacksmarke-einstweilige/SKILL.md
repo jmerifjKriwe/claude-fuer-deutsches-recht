@@ -7,7 +7,7 @@ description: "Duftmarke Geschmacksmarke Einstweilige im Plugin Markenrecht Fashi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Duftmarke Geschmacksmarke Einstweilige** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Duftmarken und Geschmacksmarken realistisch prüfen, Einstweilige Verfügung im Markenrecht vorbereiten oder, Erschöpfung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Duftmarke Geschmacksmarke Einstweilige** ordnet den Fall über die tragenden Prüffelder: Duftmarken und Geschmacksmarken realistisch prüfen, Einstweilige Verfügung im Markenrecht vorbereiten oder, Erschöpfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

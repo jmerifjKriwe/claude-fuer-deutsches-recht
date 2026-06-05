@@ -7,7 +7,7 @@ description: "Schutz Missbrauch Seelsorgegesprach im Römisch-katholischen Kirch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schutz Missbrauch Seelsorgegesprach** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Schutz, Missbrauch und Meldepflichten, Seelsorgegespräch als Skript und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schutz Missbrauch Seelsorgegesprach** ordnet den Fall über die tragenden Prüffelder: Schutz, Missbrauch und Meldepflichten, Seelsorgegespräch als Skript. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

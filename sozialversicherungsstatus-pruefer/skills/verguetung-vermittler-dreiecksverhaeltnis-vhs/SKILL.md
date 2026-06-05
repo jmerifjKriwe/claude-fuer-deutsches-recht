@@ -7,7 +7,7 @@ description: "Verguetung Vermittler Dreiecksverhaeltnis VHS im Sozialversicherun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verguetung Vermittler Dreiecksverhaeltnis VHS** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft Stundenhonorar, Pauschale, Erfolgshonorar und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verguetung Vermittler Dreiecksverhaeltnis VHS** ordnet den Fall über die tragenden Prüffelder: Prüft Stundenhonorar, Pauschale, Erfolgshonorar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

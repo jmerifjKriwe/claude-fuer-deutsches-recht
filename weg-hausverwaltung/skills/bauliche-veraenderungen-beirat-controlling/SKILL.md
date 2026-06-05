@@ -7,7 +7,7 @@ description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bauliche Veraenderungen Beirat Controlling** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand, Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bauliche Veraenderungen Beirat Controlling** ordnet den Fall über die tragenden Prüffelder: Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand, Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

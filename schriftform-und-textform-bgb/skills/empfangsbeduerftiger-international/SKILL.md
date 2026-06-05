@@ -7,7 +7,7 @@ description: "Empfangsbeduerftiger International im Plugin Schriftform Und Textf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Empfangsbeduerftiger International** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Dokumentation, Empfangsbeduerftiger, Formerfordernisse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Empfangsbeduerftiger International** ordnet den Fall über die tragenden Prüffelder: Dokumentation, Empfangsbeduerftiger, Formerfordernisse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

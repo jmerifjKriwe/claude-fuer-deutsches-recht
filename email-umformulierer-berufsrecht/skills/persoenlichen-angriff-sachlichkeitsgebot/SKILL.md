@@ -7,7 +7,7 @@ description: "Persoenlichen Angriff Sachlichkeitsgebot im Plugin Email Umformuli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Persoenlichen Angriff Sachlichkeitsgebot** als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht. Im Mittelpunkt steht die Prüfung von Persoenliche Angriffe und Beleidigungen in, Sachlichkeitsgebot nach § 26 BORA auf konkrete, Sachverhalt in Anwaltskorrespondenz neutral und ohne. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Persoenlichen Angriff Sachlichkeitsgebot** ordnet den Fall über die tragenden Prüffelder: Persoenliche Angriffe und Beleidigungen in, Sachlichkeitsgebot nach § 26 BORA auf konkrete, Sachverhalt in Anwaltskorrespondenz neutral und ohne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

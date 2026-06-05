@@ -7,7 +7,7 @@ description: "Cotif Fachanwalt Haager im Plugin Fachanwalt Transport Speditionsr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cotif Fachanwalt Haager** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Cotif, Fachanwalt, Haager. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cotif Fachanwalt Haager** ordnet den Fall über die tragenden Prüffelder: Cotif, Fachanwalt, Haager. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

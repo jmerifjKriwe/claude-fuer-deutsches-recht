@@ -7,7 +7,7 @@ description: "BTM Methadon Therapiepfad Erlaubnis Bauen im Betäubungsmittelrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BTM Methadon Therapiepfad Erlaubnis Bauen** als zusammenhängenden Arbeitsgang im Betäubungsmittelrecht. Im Mittelpunkt steht die Prüfung von Betäubungsmittelrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BTM Methadon Therapiepfad Erlaubnis Bauen** ordnet den Fall über die tragenden Prüffelder: Betäubungsmittelrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

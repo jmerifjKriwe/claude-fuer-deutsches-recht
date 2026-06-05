@@ -7,7 +7,7 @@ description: "Output Waehlen Workflow Redteam Interessen im Plugin Gesellschafts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Output Waehlen Workflow Redteam Interessen** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Output wählen im Plugin gesellschaftsrecht, Red-Team Qualitygate im Plugin gesellschaftsrecht, Fristen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Output Waehlen Workflow Redteam Interessen** ordnet den Fall über die tragenden Prüffelder: Output wählen im Plugin gesellschaftsrecht, Red-Team Qualitygate im Plugin gesellschaftsrecht, Fristen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

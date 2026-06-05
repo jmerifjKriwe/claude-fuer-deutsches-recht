@@ -7,7 +7,7 @@ description: "Nebenkostenabrechnung Erstellen Faktenbank im Plugin Mietrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nebenkostenabrechnung Erstellen Faktenbank** als zusammenhängenden Arbeitsgang im Plugin Mietrecht. Im Mittelpunkt steht die Prüfung von Betriebskostenabrechnung erstellen aus Vermieter- und, Betriebskostenabrechnung prüfen aus Mietersicht, Faktenbank und Quellen-Gate für aktuelle mietrechtliche und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nebenkostenabrechnung Erstellen Faktenbank** ordnet den Fall über die tragenden Prüffelder: Betriebskostenabrechnung erstellen aus Vermieter- und, Betriebskostenabrechnung prüfen aus Mietersicht, Faktenbank und Quellen-Gate für aktuelle mietrechtliche und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

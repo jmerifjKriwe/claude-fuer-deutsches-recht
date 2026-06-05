@@ -7,7 +7,7 @@ description: "Markenmonitoring Watchlist Markenuebertragung im Plugin Markenrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Markenmonitoring Watchlist Markenuebertragung** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Markenmonitoring und Watchlist-Dienste einrichten, Markenübertragung und Chain-of-Title prüfen, Marketplace-Enforcement nach MarkenG und Digital Services und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Markenmonitoring Watchlist Markenuebertragung** ordnet den Fall über die tragenden Prüffelder: Markenmonitoring und Watchlist-Dienste einrichten, Markenübertragung und Chain-of-Title prüfen, Marketplace-Enforcement nach MarkenG und Digital Services. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

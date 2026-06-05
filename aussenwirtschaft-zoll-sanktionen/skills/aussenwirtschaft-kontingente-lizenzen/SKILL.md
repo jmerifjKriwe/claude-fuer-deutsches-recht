@@ -7,7 +7,7 @@ description: "Kontingente Lizenzen im Außenwirtschaftsrecht, Zoll und Sanktione
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kontingente Lizenzen** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Verwaltung von Zollkontingenten und Tariff-Rate-Quotas, Investitionspruefung bei Erwerb kritischer Infrastruktur, Rechtliche Anforderungen bei grenzueberschreitender und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kontingente Lizenzen** ordnet den Fall über die tragenden Prüffelder: Verwaltung von Zollkontingenten und Tariff-Rate-Quotas, Investitionspruefung bei Erwerb kritischer Infrastruktur, Rechtliche Anforderungen bei grenzueberschreitender. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

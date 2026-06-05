@@ -7,7 +7,7 @@ description: "Reseller OEM Sbom Software Scraping API im Softwarerecht (DE/EU/US
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Reseller OEM Sbom Software Scraping API** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Reseller OEM Sbom Software Scraping API** ordnet den Fall über die tragenden Prüffelder: Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

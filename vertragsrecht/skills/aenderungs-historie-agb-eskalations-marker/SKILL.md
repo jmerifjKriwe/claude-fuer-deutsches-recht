@@ -7,7 +7,7 @@ description: "Aenderungs Historie AGB Eskalations Marker im Plugin Vertragsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aenderungs Historie AGB Eskalations Marker** als zusammenhängenden Arbeitsgang im Plugin Vertragsrecht. Im Mittelpunkt steht die Prüfung von Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge, Unterstützt bei der rechtlichen Prüfung von Allgemeinen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aenderungs Historie AGB Eskalations Marker** ordnet den Fall über die tragenden Prüffelder: Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge, Unterstützt bei der rechtlichen Prüfung von Allgemeinen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

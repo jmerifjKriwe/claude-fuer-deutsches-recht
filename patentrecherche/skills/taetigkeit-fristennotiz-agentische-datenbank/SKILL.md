@@ -7,7 +7,7 @@ description: "Taetigkeit Fristennotiz Agentische Datenbank im Plugin Patentreche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Taetigkeit Fristennotiz Agentische Datenbank** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche. Im Mittelpunkt steht die Prüfung von Taetigkeit, Agentische Patentdatenbank-Recherche, EPO-Einspruch (Opposition) Strategie. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Taetigkeit Fristennotiz Agentische Datenbank** ordnet den Fall über die tragenden Prüffelder: Taetigkeit, Agentische Patentdatenbank-Recherche, EPO-Einspruch (Opposition) Strategie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

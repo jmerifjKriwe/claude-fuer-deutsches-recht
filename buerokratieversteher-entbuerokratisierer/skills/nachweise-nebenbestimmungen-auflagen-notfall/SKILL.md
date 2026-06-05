@@ -7,7 +7,7 @@ description: "Nachweise Nebenbestimmungen Auflagen Notfall im Bürokratieabbau-P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachweise Nebenbestimmungen Auflagen Notfall** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachweise Nebenbestimmungen Auflagen Notfall** ordnet den Fall über die tragenden Prüffelder: Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "BGB Btog Demenz im Plugin Betreuungsrecht: prüft konkret BGB, Bto
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BGB Btog Demenz** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von BGB, Btog, Demenz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BGB Btog Demenz** ordnet den Fall über die tragenden Prüffelder: BGB, Btog, Demenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

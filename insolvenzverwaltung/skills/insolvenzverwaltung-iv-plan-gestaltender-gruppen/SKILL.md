@@ -7,7 +7,7 @@ description: "IV Plan Gestaltender Gruppen im Plugin Insolvenzverwaltung: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Plan Gestaltender Gruppen** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Gestaltenden Teil des Insolvenzplans mit konkreten, Abstimmungsgruppen nach InsO und Klassen nach StaRUG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Plan Gestaltender Gruppen** ordnet den Fall über die tragenden Prüffelder: Gestaltenden Teil des Insolvenzplans mit konkreten, Abstimmungsgruppen nach InsO und Klassen nach StaRUG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

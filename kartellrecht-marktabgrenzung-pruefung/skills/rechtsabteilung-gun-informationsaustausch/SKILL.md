@@ -7,7 +7,7 @@ description: "Rechtsabteilung GUN Informationsaustausch im Kartellrecht (Marktab
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung GUN Informationsaustausch** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Gun-Jumping im, Rechtsabteilungs-Fachmodul für Informationsaustausch im, Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung GUN Informationsaustausch** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Gun-Jumping im, Rechtsabteilungs-Fachmodul für Informationsaustausch im, Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

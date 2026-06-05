@@ -7,7 +7,7 @@ description: "Inso P290 Versagung P291 Weggefallen P292 im Insolvenz- und Sanier
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P290 Versagung P291 Weggefallen P292** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 290 InsO (Versagung der Restschuldbefreiung) im Mandat, § 291 InsO ist im aktuellen Normtext weggefallen, Altakten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P290 Versagung P291 Weggefallen P292** ordnet den Fall über die tragenden Prüffelder: § 290 InsO (Versagung der Restschuldbefreiung) im Mandat, § 291 InsO ist im aktuellen Normtext weggefallen, Altakten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "BSI C5 Cloud Grundschutz Schutzbedarf im NIS2-Cybersecurity-Compli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BSI C5 Cloud Grundschutz Schutzbedarf** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Cloudanbieter und SaaS nach BSI C5 und, Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine, Bereitet Meldungen an BSI und parallele Stellen vor und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BSI C5 Cloud Grundschutz Schutzbedarf** ordnet den Fall über die tragenden Prüffelder: Prüft Cloudanbieter und SaaS nach BSI C5 und, Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine, Bereitet Meldungen an BSI und parallele Stellen vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

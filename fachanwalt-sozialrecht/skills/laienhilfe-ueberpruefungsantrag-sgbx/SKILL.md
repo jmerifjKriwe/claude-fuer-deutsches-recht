@@ -7,7 +7,7 @@ description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Laienhilfe Ueberpruefungsantrag Sgbx** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Vergleich und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Laienhilfe Ueberpruefungsantrag Sgbx** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Vergleich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

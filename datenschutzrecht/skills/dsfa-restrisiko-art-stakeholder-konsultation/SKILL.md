@@ -7,7 +7,7 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dsfa Restrisiko ART Stakeholder Konsultation** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dsfa Restrisiko ART Stakeholder Konsultation** ordnet den Fall über die tragenden Prüffelder: Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

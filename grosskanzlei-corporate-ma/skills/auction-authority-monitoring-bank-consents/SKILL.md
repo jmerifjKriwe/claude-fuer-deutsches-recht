@@ -7,7 +7,7 @@ description: "Auction Authority Monitoring Bank Consents im Corporate/M&A (Groß
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Auction Authority Monitoring Bank Consents** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Auction Process Letter Generator, Authority Matrix und Approvals Skill, Monitoring und Automatisierungen für laufende M&A-Mandate und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Auction Authority Monitoring Bank Consents** ordnet den Fall über die tragenden Prüffelder: Auction Process Letter Generator, Authority Matrix und Approvals Skill, Monitoring und Automatisierungen für laufende M&A-Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

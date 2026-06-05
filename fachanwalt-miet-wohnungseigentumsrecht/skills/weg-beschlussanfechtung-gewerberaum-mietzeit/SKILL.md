@@ -7,7 +7,7 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **WEG Beschlussanfechtung Gewerberaum Mietzeit** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Wohnungseigentuemer will Beschluss der, Gewerberaum-Spezial, KI-gestuetzte qualifizierte Mietspiegel und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**WEG Beschlussanfechtung Gewerberaum Mietzeit** ordnet den Fall über die tragenden Prüffelder: Wohnungseigentuemer will Beschluss der, Gewerberaum-Spezial, KI-gestuetzte qualifizierte Mietspiegel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

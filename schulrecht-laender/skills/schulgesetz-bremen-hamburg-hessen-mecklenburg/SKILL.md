@@ -7,7 +7,7 @@ description: "Schulgesetz Bremen Hamburg Hessen Mecklenburg im Schulrecht der L�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schulgesetz Bremen Hamburg Hessen Mecklenburg** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Schulrecht in Bremen mit Landes-Schulgesetz, Verordnungen, Erlassen und Sc und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schulgesetz Bremen Hamburg Hessen Mecklenburg** ordnet den Fall über die tragenden Prüffelder: Prüft Schulrecht in Bremen mit Landes-Schulgesetz, Verordnungen, Erlassen und Sc. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

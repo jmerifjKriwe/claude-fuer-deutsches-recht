@@ -7,7 +7,7 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klage Vereinfachtes Klageerwiderung ZPO** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klage Vereinfachtes Klageerwiderung ZPO** ordnet den Fall über die tragenden Prüffelder: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

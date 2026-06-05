@@ -7,7 +7,7 @@ description: "Geldwaesche Verdachtsmeldung Verpflichteten im Plugin Geldwaeschep
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche Verdachtsmeldung Verpflichteten** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Vorbereitung und Einreichung von Verdachtsmeldungen nach §, Prüft ob und in welcher Rolle ein Unternehmen oder, Awareness. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche Verdachtsmeldung Verpflichteten** ordnet den Fall über die tragenden Prüffelder: Vorbereitung und Einreichung von Verdachtsmeldungen nach §, Prüft ob und in welcher Rolle ein Unternehmen oder, Awareness. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

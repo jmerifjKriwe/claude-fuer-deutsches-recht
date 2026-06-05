@@ -7,7 +7,7 @@ description: "Logfiles Beweisfuehrung Newsletter Double ODR im Plugin Ecommerce 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Logfiles Beweisfuehrung Newsletter Double ODR** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Logfiles Beweisführung Checkout, Newsletter Double-Opt-In Einwilligung, ODR Verbraucherstreitbeilegung Hinweis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Logfiles Beweisfuehrung Newsletter Double ODR** ordnet den Fall über die tragenden Prüffelder: Logfiles Beweisführung Checkout, Newsletter Double-Opt-In Einwilligung, ODR Verbraucherstreitbeilegung Hinweis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

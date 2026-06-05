@@ -7,7 +7,7 @@ description: "Geldwaesche PEP Hochrisikoland Risikoanalyse im Plugin Geldwaesche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche PEP Hochrisikoland Risikoanalyse** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Verstaerkte KYC-Prüfung für PEP politisch exponierte, Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für, Zielgruppengerechte AML/KYC-Schulungen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche PEP Hochrisikoland Risikoanalyse** ordnet den Fall über die tragenden Prüffelder: Verstaerkte KYC-Prüfung für PEP politisch exponierte, Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für, Zielgruppengerechte AML/KYC-Schulungen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

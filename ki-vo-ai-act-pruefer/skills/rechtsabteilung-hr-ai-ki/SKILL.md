@@ -7,7 +7,7 @@ description: "Rechtsabteilung HR AI KI im EU KI-VO (AI Act): prüft konkret Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung HR AI KI** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem, Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung, Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung HR AI KI** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem, Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung, Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Surety Guarantee UCC Sales US VS im Common Law (Orientierung): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Surety Guarantee UCC Sales US VS** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Anwalt prüft Sicherheitenklausel und muss zwischen, Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods, Anwalt muss zwischen British English English Law US. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Surety Guarantee UCC Sales US VS** ordnet den Fall über die tragenden Prüffelder: Anwalt prüft Sicherheitenklausel und muss zwischen, Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods, Anwalt muss zwischen British English English Law US. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

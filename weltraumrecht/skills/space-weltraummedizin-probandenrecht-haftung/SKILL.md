@@ -7,7 +7,7 @@ description: "Space Weltraummedizin Probandenrecht Haftung im Plugin Weltraumrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Weltraummedizin Probandenrecht Haftung** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medi und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Weltraummedizin Probandenrecht Haftung** ordnet den Fall über die tragenden Prüffelder: Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

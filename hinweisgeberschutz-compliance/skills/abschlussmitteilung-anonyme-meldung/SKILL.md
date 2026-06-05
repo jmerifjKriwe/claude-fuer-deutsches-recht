@@ -7,7 +7,7 @@ description: "Abschlussmitteilung Anonyme Meldung im Hinweisgeberschutz und Comp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abschlussmitteilung Anonyme Meldung** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Formuliert Abschlussmitteilung an Hinweisgeber, Bewertet anonyme Meldungen und freiwillige Annahmeprozesse, Formuliert Antworten an Hinweisgeber rechtssicher und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abschlussmitteilung Anonyme Meldung** ordnet den Fall über die tragenden Prüffelder: Formuliert Abschlussmitteilung an Hinweisgeber, Bewertet anonyme Meldungen und freiwillige Annahmeprozesse, Formuliert Antworten an Hinweisgeber rechtssicher. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

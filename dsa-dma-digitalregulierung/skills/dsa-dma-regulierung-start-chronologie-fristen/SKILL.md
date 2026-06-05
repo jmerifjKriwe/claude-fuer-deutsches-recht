@@ -7,7 +7,7 @@ description: "Regulierung Start Chronologie Fristen im DSA/DMA-Digitalregulierun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Regulierung Start Chronologie Fristen** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Einstieg, Schnelltriage und Fallrouting im DSA DMA, Chronologie und Belegmatrix im Plugin. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Regulierung Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im DSA DMA, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

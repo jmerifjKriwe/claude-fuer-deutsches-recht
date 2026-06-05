@@ -7,7 +7,7 @@ description: "Verifikation Fristennotiz Abtretung AN im Fluggastrechte: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verifikation Fristennotiz Abtretung AN** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Verifikation, Abtretung an Fluggastrechte-Portale (Flightright, EUclaim. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verifikation Fristennotiz Abtretung AN** ordnet den Fall über die tragenden Prüffelder: Verifikation, Abtretung an Fluggastrechte-Portale (Flightright, EUclaim. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

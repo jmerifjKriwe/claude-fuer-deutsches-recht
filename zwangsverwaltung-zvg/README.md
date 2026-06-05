@@ -148,6 +148,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `zwangsverwaltung-zvg-start-chronologie-fristen` | Start Chronologie Fristen im Zwangsverwaltung (ZVG): prüft konkret Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin, Chronologie und Belegmatrix im Plugin zwangsverwaltung-zvg, Fristen- und Risikoampel im Plugin zwa... |
 | `zwangsverwaltung-zvg-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `zwvw-anordnung-zwangsverwaltung` | Zwvw Anordnung Zwangsverwaltung im Zwangsverwaltung (ZVG): prüft konkret Bauleiter Anordnung Zwangsverwaltung ZVG, Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV, Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung. Liefer... |
-| `zwvw-versteigerung` | Zwvw Versteigerung im Zwangsverwaltung (ZVG): Dieser Skill arbeitet Zwvw Versteigerung als zusammenhängenden Arbeitsgang im Plugin Zwangsverwaltung (ZVG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priori... |
+| `zwvw-versteigerung` | Zwvw Versteigerung im Zwangsverwaltung (ZVG): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -7,7 +7,7 @@ description: "Anspruchsgrundlage Rechtsfolgen B2B VS im Word-Legal-AI für Anwä
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anspruchsgrundlage Rechtsfolgen B2B VS** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen, Strategisches Drafting in zwei Vertragswelten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anspruchsgrundlage Rechtsfolgen B2B VS** ordnet den Fall über die tragenden Prüffelder: Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen, Strategisches Drafting in zwei Vertragswelten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

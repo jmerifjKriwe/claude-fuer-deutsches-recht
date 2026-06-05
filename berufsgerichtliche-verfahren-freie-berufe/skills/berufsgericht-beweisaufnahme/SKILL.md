@@ -7,7 +7,7 @@ description: "Berufsgericht Beweisaufnahme im Berufsgerichtliche Verfahren freie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berufsgericht Beweisaufnahme** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Berufsgericht Beweisaufnahme (Präventions- und, Berufsgericht Beweisaufnahme (Verteidigungs- und, Berufsgesellschaft Compliance (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berufsgericht Beweisaufnahme** ordnet den Fall über die tragenden Prüffelder: Berufsgericht Beweisaufnahme (Präventions- und, Berufsgericht Beweisaufnahme (Verteidigungs- und, Berufsgesellschaft Compliance (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

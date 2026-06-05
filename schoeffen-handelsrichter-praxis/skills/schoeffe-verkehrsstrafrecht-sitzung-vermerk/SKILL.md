@@ -7,7 +7,7 @@ description: "Schoeffe Verkehrsstrafrecht Sitzung Vermerk im Schöffen- und Hand
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schoeffe Verkehrsstrafrecht Sitzung Vermerk** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Verkehrsstrafrecht für Schöffen (Orientierung), Verkehrsstrafrecht für Schöffen (Sitzungspraxis), Schriftsatz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schoeffe Verkehrsstrafrecht Sitzung Vermerk** ordnet den Fall über die tragenden Prüffelder: Verkehrsstrafrecht für Schöffen (Orientierung), Verkehrsstrafrecht für Schöffen (Sitzungspraxis), Schriftsatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

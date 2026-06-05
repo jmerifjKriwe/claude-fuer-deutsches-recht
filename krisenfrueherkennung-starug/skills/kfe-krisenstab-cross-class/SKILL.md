@@ -7,7 +7,7 @@ description: "KFE Krisenstab Cross Class im Plugin Krisenfrueherkennung Starug: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KFE Krisenstab Cross Class** als zusammenhängenden Arbeitsgang im Plugin Krisenfrueherkennung Starug. Im Mittelpunkt steht die Prüfung von Leitfaden Krisenstab und Sofortmassnahmen, Cross-Class-Cram-Down und Absolute-Priority-Rule im, Krisenprotokollierung der Geschäftsführung für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KFE Krisenstab Cross Class** ordnet den Fall über die tragenden Prüffelder: Leitfaden Krisenstab und Sofortmassnahmen, Cross-Class-Cram-Down und Absolute-Priority-Rule im, Krisenprotokollierung der Geschäftsführung für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

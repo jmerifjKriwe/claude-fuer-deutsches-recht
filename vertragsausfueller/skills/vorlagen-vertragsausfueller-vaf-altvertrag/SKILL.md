@@ -7,7 +7,7 @@ description: "Vorlagen Vertragsausfueller VAF Altvertrag im Plugin Vertragsausfu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorlagen Vertragsausfueller VAF Altvertrag** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von Vorlagen, Vertragsausfueller, Altvertrag auf neue Vorlage nachziehen und aktualisieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorlagen Vertragsausfueller VAF Altvertrag** ordnet den Fall über die tragenden Prüffelder: Vorlagen, Vertragsausfueller, Altvertrag auf neue Vorlage nachziehen und aktualisieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

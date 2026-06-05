@@ -7,7 +7,7 @@ description: "DUE Diligence Urheberrechtliche im Plugin Urheberrecht De Eu: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DUE Diligence Urheberrechtliche** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Rechteportfolio bei Verlag, Label, Softwarehaus. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DUE Diligence Urheberrechtliche** ordnet den Fall über die tragenden Prüffelder: Prueft Rechteportfolio bei Verlag, Label, Softwarehaus. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

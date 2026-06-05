@@ -7,7 +7,7 @@ description: "Vowi Bussgeldbescheid Verkehrsowi Quality im Plugin Verkehrsowi Ve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vowi Bussgeldbescheid Verkehrsowi Quality** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Bauleiter Pruefung Bussgeldbescheid OWiG, Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger, Quality-Gate-Checkliste OWi-Mandat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vowi Bussgeldbescheid Verkehrsowi Quality** ordnet den Fall über die tragenden Prüffelder: Bauleiter Pruefung Bussgeldbescheid OWiG, Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger, Quality-Gate-Checkliste OWi-Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

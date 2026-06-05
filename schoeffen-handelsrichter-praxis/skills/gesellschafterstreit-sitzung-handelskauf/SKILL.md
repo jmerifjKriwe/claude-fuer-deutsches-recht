@@ -7,7 +7,7 @@ description: "Gesellschafterstreit Sitzung Handelskauf im Schöffen- und Handels
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesellschafterstreit Sitzung Handelskauf** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Handelsrichter Gesellschafterstreit (Sitzungspraxis), Handelsrichter Handelskauf (Orientierung), Handelsrichter Handelskauf (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesellschafterstreit Sitzung Handelskauf** ordnet den Fall über die tragenden Prüffelder: Handelsrichter Gesellschafterstreit (Sitzungspraxis), Handelsrichter Handelskauf (Orientierung), Handelsrichter Handelskauf (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

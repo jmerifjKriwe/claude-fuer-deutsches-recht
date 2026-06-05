@@ -7,7 +7,7 @@ description: "IPS Gruppen Klassenbildung im Plugin Insolvenzplan Starug Planwerk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IPS Gruppen Klassenbildung** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Abstimmungsgruppen nach InsO und Klassen nach StaRUG, Vollständigen Insolvenzplan nach §§ 217 ff, Integrierte Planrechnung aus GuV Liquiditaet und Bilanz für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IPS Gruppen Klassenbildung** ordnet den Fall über die tragenden Prüffelder: Abstimmungsgruppen nach InsO und Klassen nach StaRUG, Vollständigen Insolvenzplan nach §§ 217 ff, Integrierte Planrechnung aus GuV Liquiditaet und Bilanz für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

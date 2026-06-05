@@ -98,6 +98,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `verfassungsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verfassungsrecht-verfassung-abstrakte-bund` | Verfassung Abstrakte Bund im Plugin Verfassungsrecht: prüft konkret Verfassungsrecht, Abstrakte Normenkontrolle Art, §§ 76 ff, Bund-Laender-Streit Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vfgr-bundestreue-foederalismus` | Vfgr Bundestreue Foederalismus im Plugin Verfassungsrecht: prüft konkret Spezialfall Bundestreue und Foederalismus, Bauleiter Grundrechtspruefung, Leitfaden Organstreit Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel un... |
-| `vfgr-verfassungsbeschwerde` | Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht: Dieser Skill arbeitet Vfgr Verfassungsbeschwerde als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Ou... |
+| `vfgr-verfassungsbeschwerde` | Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

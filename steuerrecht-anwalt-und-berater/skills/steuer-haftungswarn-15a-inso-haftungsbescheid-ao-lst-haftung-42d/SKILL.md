@@ -7,7 +7,7 @@ description: "Steuer Haftungswarn 15A Inso Haftungsbescheid AO LST Haftung 42D i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Haftungswarn 15A Inso Haftungsbescheid AO LST Haftung 42D** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Anwaltliche Beratung und Warnschreiben an, Materielle Pruefung und Abwehr von Haftungsbescheiden —, Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Haftungswarn 15A Inso Haftungsbescheid AO LST Haftung 42D** ordnet den Fall über die tragenden Prüffelder: Anwaltliche Beratung und Warnschreiben an, Materielle Pruefung und Abwehr von Haftungsbescheiden —, Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

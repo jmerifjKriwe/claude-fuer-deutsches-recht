@@ -7,7 +7,7 @@ description: "Anhoerung Verkehrsowi Einspruch Messverfahren im Plugin Verkehrsow
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anhoerung Verkehrsowi Einspruch Messverfahren** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Anhoerung, Einspruchsfrist im OWi-Verfahren berechnen und wahren, Prüffeld für verkehrsowi messverfahren geschwindigkeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anhoerung Verkehrsowi Einspruch Messverfahren** ordnet den Fall über die tragenden Prüffelder: Anhoerung, Einspruchsfrist im OWi-Verfahren berechnen und wahren, Prüffeld für verkehrsowi messverfahren geschwindigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

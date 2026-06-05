@@ -75,7 +75,7 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `kv-familienversicherung-kv-statusfeststellung` | KV Familienversicherung KV Statusfeststellung im Krankenkassenrecht / Krankenversicherung: prüft konkret Familienversicherung nach § 10 SGB V, Statusfeststellungsverfahren nach § 7a SGB IV, Krankenversicherung bei Arbeitslosigkeit und Sp... |
 | `kv-kinderwunschbehandlung-ehe` | KV Kinderwunschbehandlung EHE im Krankenkassenrecht / Krankenversicherung: prüft konkret GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V), GKV-Leistungen im Ausland, Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsvero... |
 | `kv-mutterschaftsgeld` | KV Mutterschaftsgeld im Krankenkassenrecht / Krankenversicherung: prüft konkret GKV-Leistungen für Schwangere und Mütter, Kinderkrankengeld nach § 45 SGB V, Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV. Liefert prior... |
-| `kv-qualitaetsgate` | KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung: Dieser Skill arbeitet KV Qualitaetsgate als zusammenhängenden Arbeitsgang im Plugin Krankenkassenrecht Krankenversicherung ab — nach Aktenlage, Frist, Zuständigkeit, Beweisla... |
+| `kv-qualitaetsgate` | KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `kv-rueckforderung-unrecht-erstattungsstreit` | KV Rueckforderung Unrecht Erstattungsstreit im Krankenkassenrecht / Krankenversicherung: prüft konkret Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50, Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung.... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -7,7 +7,7 @@ description: "Inso P061 Nichterfullung P062 Verjahrung P063 im Insolvenz- und Sa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P061 Nichterfullung P062 Verjahrung P063** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 61 InsO (Nichterfüllung von Masseverbindlichkeiten) im, § 62 InsO (Verjährung) im Mandat prüfen, § 63 InsO (Vergütung des Insolvenzverwalters) im Mandat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P061 Nichterfullung P062 Verjahrung P063** ordnet den Fall über die tragenden Prüffelder: § 61 InsO (Nichterfüllung von Masseverbindlichkeiten) im, § 62 InsO (Verjährung) im Mandat prüfen, § 63 InsO (Vergütung des Insolvenzverwalters) im Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

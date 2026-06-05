@@ -7,7 +7,7 @@ description: "Presse Oeffentlichkeitsarbeit Privat im Versammlungsrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Presse Oeffentlichkeitsarbeit Privat** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunika. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Presse Oeffentlichkeitsarbeit Privat** ordnet den Fall über die tragenden Prüffelder: Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunika. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

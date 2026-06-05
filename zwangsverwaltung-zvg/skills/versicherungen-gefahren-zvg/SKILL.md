@@ -7,7 +7,7 @@ description: "Versicherungen Gefahren ZVG im Zwangsverwaltung (ZVG): prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versicherungen Gefahren ZVG** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Versicherungsschutz und Gefahrenabwehr am, Vorbereitung der Teilnahme am Zwangsversteigerungstermin, Verteilungsplan nach § 155 ZVG für die Auszahlung von. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versicherungen Gefahren ZVG** ordnet den Fall über die tragenden Prüffelder: Versicherungsschutz und Gefahrenabwehr am, Vorbereitung der Teilnahme am Zwangsversteigerungstermin, Verteilungsplan nach § 155 ZVG für die Auszahlung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

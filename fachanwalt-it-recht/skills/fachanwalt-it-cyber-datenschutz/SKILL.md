@@ -7,7 +7,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cyber Datenschutz** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cyber Datenschutz** ordnet den Fall über die tragenden Prüffelder: Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

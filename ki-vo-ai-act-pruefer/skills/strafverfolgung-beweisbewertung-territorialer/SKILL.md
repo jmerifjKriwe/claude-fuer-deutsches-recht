@@ -7,7 +7,7 @@ description: "Strafverfolgung Beweisbewertung Territorialer im EU KI-VO (AI Act)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafverfolgung Beweisbewertung Territorialer** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von KI in Strafverfolgung und Beweisbewertung, Nicht-EU-Unternehmen oder Exporteur fragt, Training generativer Modelle mit Text und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafverfolgung Beweisbewertung Territorialer** ordnet den Fall über die tragenden Prüffelder: KI in Strafverfolgung und Beweisbewertung, Nicht-EU-Unternehmen oder Exporteur fragt, Training generativer Modelle mit Text. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

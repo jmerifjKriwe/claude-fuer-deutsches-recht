@@ -7,7 +7,7 @@ description: "Folgenabschaetzung KI Governance Mandat im KI-Governance: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Folgenabschaetzung KI Governance Mandat** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von KI-Folgenabschätzung (FRIA nach Art, Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine, Mandats-Arbeitsbereiche verwalten – neu. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Folgenabschaetzung KI Governance Mandat** ordnet den Fall über die tragenden Prüffelder: KI-Folgenabschätzung (FRIA nach Art, Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine, Mandats-Arbeitsbereiche verwalten – neu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Copyleft Data License Protection DPA im Softwarerecht (DE/EU/US): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Copyleft Data License Protection DPA** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Copyleft Data License Protection DPA** ordnet den Fall über die tragenden Prüffelder: Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

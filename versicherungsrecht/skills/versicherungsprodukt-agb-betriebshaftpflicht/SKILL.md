@@ -7,7 +7,7 @@ description: "Versicherungsprodukt AGB Betriebshaftpflicht im Plugin Versicherun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versicherungsprodukt AGB Betriebshaftpflicht** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versicherungsprodukt AGB Betriebshaftpflicht** ordnet den Fall über die tragenden Prüffelder: AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

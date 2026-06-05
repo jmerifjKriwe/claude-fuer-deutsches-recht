@@ -7,7 +7,7 @@ description: "Datenraum Dokumentenintake Aktenlog im Berufsrecht der Notare: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenraum Dokumentenintake Aktenlog** als zusammenhängenden Arbeitsgang im Berufsrecht der Notare. Im Mittelpunkt steht die Prüfung von Datenraum, Dokumentenintake und Aktenlog, Entscheidungsvorlage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenraum Dokumentenintake Aktenlog** ordnet den Fall über die tragenden Prüffelder: Datenraum, Dokumentenintake und Aktenlog, Entscheidungsvorlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: franchise-warenbezugsbindung
-description: "Franchise Warenbezugsbindung im Franchiserecht: Dieser Skill arbeitet Franchise Warenbezugsbindung als zusammenhängenden Arbeitsgang im Plugin Franchiserecht Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Franchise Warenbezugsbindung im Franchiserecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Franchise Warenbezugsbindung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Franchise Warenbezugsbindung** als zusammenhängenden Arbeitsgang im Plugin Franchiserecht Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Franchise Warenbezugsbindung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

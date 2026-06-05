@@ -7,7 +7,7 @@ description: "Gegenseite Status Mahnbescheid Mahnschreiben im Plugin Prozessrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gegenseite Status Mahnbescheid Mahnschreiben** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Prozessualen Status der Gegenseite erfassen, Mahnbescheid im gerichtlichen Mahnverfahren beantragen, Erhaltenes Mahnschreiben der Gegenseite aufnehmen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gegenseite Status Mahnbescheid Mahnschreiben** ordnet den Fall über die tragenden Prüffelder: Prozessualen Status der Gegenseite erfassen, Mahnbescheid im gerichtlichen Mahnverfahren beantragen, Erhaltenes Mahnschreiben der Gegenseite aufnehmen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

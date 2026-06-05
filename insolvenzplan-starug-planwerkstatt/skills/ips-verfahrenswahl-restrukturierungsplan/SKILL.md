@@ -7,7 +7,7 @@ description: "IPS Verfahrenswahl Restrukturierungsplan im Plugin Insolvenzplan S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IPS Verfahrenswahl Restrukturierungsplan** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Passenden Sanierungsrahmen auswaehlen und Insolvenzplan, Restrukturierungsplan, Darstellenden Teil des Insolvenzplans oder StaRUG-Plans. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IPS Verfahrenswahl Restrukturierungsplan** ordnet den Fall über die tragenden Prüffelder: Passenden Sanierungsrahmen auswaehlen und Insolvenzplan, Restrukturierungsplan, Darstellenden Teil des Insolvenzplans oder StaRUG-Plans. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

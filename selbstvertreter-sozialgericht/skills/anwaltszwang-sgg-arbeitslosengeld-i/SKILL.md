@@ -7,7 +7,7 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anwaltszwang SGG Arbeitslosengeld I** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anwaltszwang SGG Arbeitslosengeld I** ordnet den Fall über die tragenden Prüffelder: Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

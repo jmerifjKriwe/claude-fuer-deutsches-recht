@@ -7,7 +7,7 @@ description: "Arbeitsrechtliche Ueberzahlung Ausschluss BGB im Plugin Bereicheru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitsrechtliche Ueberzahlung Ausschluss BGB** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfrist, Bereicherungsanspruch scheitert an § 814 BGB wegen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitsrechtliche Ueberzahlung Ausschluss BGB** ordnet den Fall über die tragenden Prüffelder: Dieses Fachmodul greift, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfrist, Bereicherungsanspruch scheitert an § 814 BGB wegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

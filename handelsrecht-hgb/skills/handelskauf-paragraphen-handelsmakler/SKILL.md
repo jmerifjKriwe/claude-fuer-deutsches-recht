@@ -7,7 +7,7 @@ description: "Handelskauf Paragraphen Handelsmakler im Handelsrecht (HGB): prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelskauf Paragraphen Handelsmakler** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelskauf Paragraphen Handelsmakler** ordnet den Fall über die tragenden Prüffelder: Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

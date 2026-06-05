@@ -7,7 +7,7 @@ description: "Telefonat Behoerde Unterschrift Vollmacht im Bereich Juristische S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Telefonat Behoerde Unterschrift Vollmacht** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Telefonat Mit Behoerde Vorbereiten fuer Menschen, Hilft bei Unterschrift Vollmacht fuer Menschen mit Deutsch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Telefonat Behoerde Unterschrift Vollmacht** ordnet den Fall über die tragenden Prüffelder: Hilft bei Telefonat Mit Behoerde Vorbereiten fuer Menschen, Hilft bei Unterschrift Vollmacht fuer Menschen mit Deutsch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

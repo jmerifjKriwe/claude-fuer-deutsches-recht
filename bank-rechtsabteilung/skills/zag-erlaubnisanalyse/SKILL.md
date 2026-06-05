@@ -7,7 +7,7 @@ description: "ZAG Erlaubnisanalyse im Plugin Bank Rechtsabteilung: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZAG Erlaubnisanalyse** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von ZAG-Erlaubnisanalyse für Zahlungsinstitute, Finanztransfergeschäft und Money Remittance nach ZAG prüfen, Kontoinformationsdienst nach ZAG und PSD2 prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZAG Erlaubnisanalyse** ordnet den Fall über die tragenden Prüffelder: ZAG-Erlaubnisanalyse für Zahlungsinstitute, Finanztransfergeschäft und Money Remittance nach ZAG prüfen, Kontoinformationsdienst nach ZAG und PSD2 prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

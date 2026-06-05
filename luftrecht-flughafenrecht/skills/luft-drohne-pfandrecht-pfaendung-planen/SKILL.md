@@ -7,7 +7,7 @@ description: "Luft Drohne Pfandrecht Pfaendung Planen im Plugin Luftrecht Flugha
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Drohne Pfandrecht Pfaendung Planen** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Kreditgeber will Pfandrecht an teurer Drohne oder, Glaeubiger will gewerbliche Drohne oder Drohnenflotte, Drohnenbetreiber braucht Genehmigung fuer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Drohne Pfandrecht Pfaendung Planen** ordnet den Fall über die tragenden Prüffelder: Kreditgeber will Pfandrecht an teurer Drohne oder, Glaeubiger will gewerbliche Drohne oder Drohnenflotte, Drohnenbetreiber braucht Genehmigung fuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

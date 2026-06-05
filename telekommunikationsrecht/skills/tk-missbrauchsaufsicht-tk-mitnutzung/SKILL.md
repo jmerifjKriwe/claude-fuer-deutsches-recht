@@ -7,7 +7,7 @@ description: "TK Missbrauchsaufsicht TK Mitnutzung im Telekommunikationsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Missbrauchsaufsicht TK Mitnutzung** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Missbrauchsaufsicht im TK-Recht, Mitnutzung von Gebäudenetzen, Leerrohren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Missbrauchsaufsicht TK Mitnutzung** ordnet den Fall über die tragenden Prüffelder: Missbrauchsaufsicht im TK-Recht, Mitnutzung von Gebäudenetzen, Leerrohren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

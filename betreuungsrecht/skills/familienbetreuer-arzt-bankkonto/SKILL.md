@@ -7,7 +7,7 @@ description: "Familienbetreuer Arzt Bankkonto im Plugin Betreuungsrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Familienbetreuer Arzt Bankkonto** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Kommunikation mit Ärzten, Krankenhaus, Heim. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Familienbetreuer Arzt Bankkonto** ordnet den Fall über die tragenden Prüffelder: Kommunikation mit Ärzten, Krankenhaus, Heim. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Posteingang Ausgang Sekretariats Tagesbrief im Plugin Kanzlei Allg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Posteingang Ausgang Sekretariats Tagesbrief** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Postein- und Postausgangsbuch führen, Erzeugt morgens den Tagesbrief der Kanzlei mit allen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Posteingang Ausgang Sekretariats Tagesbrief** ordnet den Fall über die tragenden Prüffelder: Postein- und Postausgangsbuch führen, Erzeugt morgens den Tagesbrief der Kanzlei mit allen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

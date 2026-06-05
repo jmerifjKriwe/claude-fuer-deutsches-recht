@@ -7,7 +7,7 @@ description: "INS Insiderinformation Zwischenschritte im Insiderrecht und Compli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Insiderinformation Zwischenschritte** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft alle vier Tatbestandsmerkmale der Insiderinformation, Analysiert Insiderinformation bei mehrstufigen Prozessen, Restrukturierung). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Insiderinformation Zwischenschritte** ordnet den Fall über die tragenden Prüffelder: Prueft alle vier Tatbestandsmerkmale der Insiderinformation, Analysiert Insiderinformation bei mehrstufigen Prozessen, Restrukturierung). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

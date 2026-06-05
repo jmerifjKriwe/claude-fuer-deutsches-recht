@@ -7,7 +7,7 @@ description: "DB AGB Auskunft Rechnungslegung im Plugin Datenbankrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB AGB Auskunft Rechnungslegung** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Gestaltung und Prüfung datenbankrechtsrelevanter, Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB AGB Auskunft Rechnungslegung** ordnet den Fall über die tragenden Prüffelder: Gestaltung und Prüfung datenbankrechtsrelevanter, Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

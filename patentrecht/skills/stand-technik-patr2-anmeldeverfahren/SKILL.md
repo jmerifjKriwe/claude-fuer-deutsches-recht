@@ -7,7 +7,7 @@ description: "Stand Technik Patr2 Anmeldeverfahren im Patentrecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stand Technik Patr2 Anmeldeverfahren** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Plant eine Stand-der-Technik-Recherche, Bauleiter Patentanmeldeverfahren DPMA und EPA, Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stand Technik Patr2 Anmeldeverfahren** ordnet den Fall über die tragenden Prüffelder: Plant eine Stand-der-Technik-Recherche, Bauleiter Patentanmeldeverfahren DPMA und EPA, Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

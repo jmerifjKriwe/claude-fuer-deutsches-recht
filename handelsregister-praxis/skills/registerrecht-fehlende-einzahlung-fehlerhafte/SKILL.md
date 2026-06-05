@@ -7,7 +7,7 @@ description: "Registerrecht Fehlende Einzahlung Fehlerhafte im Handelsregister-P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Registerrecht Fehlende Einzahlung Fehlerhafte** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Registerrecht Fehlende Einzahlung Fehlerhafte** ordnet den Fall über die tragenden Prüffelder: Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

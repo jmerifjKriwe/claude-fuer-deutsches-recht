@@ -7,7 +7,7 @@ description: "Oeffentliche Auftraggeber im Plugin Factoring Recht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Oeffentliche Auftraggeber** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten MaRisk BAIT DORA Schnittstellen, zur strukturierten Aufnahme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Oeffentliche Auftraggeber** ordnet den Fall über die tragenden Prüffelder: Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten MaRisk BAIT DORA Schnittstellen, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

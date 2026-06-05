@@ -7,7 +7,7 @@ description: "NPL Distressed Outside Target im Corporate-Kanzlei-Praxis: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **NPL Distressed Outside Target** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Prüft Erwerb/Verkauf notleidender Darlehen im, Outside-In-Zielunternehmen-Screening aus öffentlichen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**NPL Distressed Outside Target** ordnet den Fall über die tragenden Prüffelder: Prüft Erwerb/Verkauf notleidender Darlehen im, Outside-In-Zielunternehmen-Screening aus öffentlichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

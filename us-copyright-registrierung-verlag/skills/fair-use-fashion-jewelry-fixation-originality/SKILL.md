@@ -7,7 +7,7 @@ description: "Fair USE Fashion Jewelry Fixation Originality im Plugin Us Copyrig
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fair USE Fashion Jewelry Fixation Originality** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Marktef und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fair USE Fashion Jewelry Fixation Originality** ordnet den Fall über die tragenden Prüffelder: Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Marktef. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

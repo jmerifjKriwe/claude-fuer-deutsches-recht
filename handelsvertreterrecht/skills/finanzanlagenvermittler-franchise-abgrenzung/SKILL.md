@@ -7,7 +7,7 @@ description: "Finanzanlagenvermittler Franchise Abgrenzung im Handelsvertreterre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Finanzanlagenvermittler Franchise Abgrenzung** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Analysiert die Stellung des Finanzanlagenvermittlers als, Prüft die Abgrenzung zwischen Franchise und, Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Finanzanlagenvermittler Franchise Abgrenzung** ordnet den Fall über die tragenden Prüffelder: Analysiert die Stellung des Finanzanlagenvermittlers als, Prüft die Abgrenzung zwischen Franchise und, Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

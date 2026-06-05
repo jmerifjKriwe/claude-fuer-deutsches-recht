@@ -7,7 +7,7 @@ description: "Nichtpraeferenzieller Ursprung Ofac SDN Post im Außenwirtschaftsr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nichtpraeferenzieller Ursprung Ofac SDN Post** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Nichtpraeferenzieller Ursprung nach UZK Art, US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen, Integration des Internal Compliance Programme nach M&A und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nichtpraeferenzieller Ursprung Ofac SDN Post** ordnet den Fall über die tragenden Prüffelder: Nichtpraeferenzieller Ursprung nach UZK Art, US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen, Integration des Internal Compliance Programme nach M&A. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

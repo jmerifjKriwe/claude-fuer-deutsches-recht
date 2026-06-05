@@ -7,7 +7,7 @@ description: "Alternativen Keine Aufgabe Kompetenz im Plugin Normenkontrollrat N
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Alternativen Keine Aufgabe Kompetenz** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Systematische Pruefung von Alternativen zur geplanten, Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Alternativen Keine Aufgabe Kompetenz** ordnet den Fall über die tragenden Prüffelder: Systematische Pruefung von Alternativen zur geplanten, Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

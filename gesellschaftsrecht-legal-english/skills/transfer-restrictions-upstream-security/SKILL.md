@@ -7,7 +7,7 @@ description: "Transfer Restrictions Upstream Security im Plugin Gesellschaftsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Transfer Restrictions Upstream Security** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Erklaert Transfer Restrictions, Vinkulierung, ROFR. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Transfer Restrictions Upstream Security** ordnet den Fall über die tragenden Prüffelder: Erklaert Transfer Restrictions, Vinkulierung, ROFR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Am
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **130a ZPO FAX Grenzen Mein Justizpostfach** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Elektronische Einreichung nach § 130a ZPO für Buerger, Einreichung per Fax und ihre verbleibenden Grenzen, Einrichtung und Nutzung von Mein Justizpostfach (MJP) für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**130a ZPO FAX Grenzen Mein Justizpostfach** ordnet den Fall über die tragenden Prüffelder: Elektronische Einreichung nach § 130a ZPO für Buerger, Einreichung per Fax und ihre verbleibenden Grenzen, Einrichtung und Nutzung von Mein Justizpostfach (MJP) für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

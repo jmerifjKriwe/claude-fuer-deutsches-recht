@@ -7,7 +7,7 @@ description: "DMA Gatekeeper Einkaufskooperation im Kartellrecht (Marktabgrenzun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DMA Gatekeeper Einkaufskooperation** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Digital Markets Act (VO 2022/1925), Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DMA Gatekeeper Einkaufskooperation** ordnet den Fall über die tragenden Prüffelder: Digital Markets Act (VO 2022/1925), Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

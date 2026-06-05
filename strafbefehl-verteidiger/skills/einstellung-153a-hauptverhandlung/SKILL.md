@@ -7,7 +7,7 @@ description: "Einstellung 153a Hauptverhandlung im Plugin Strafbefehl Verteidige
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einstellung 153a Hauptverhandlung** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Einstellung im Strafbefehlsverfahren, Hauptverhandlung nach § 411 StPO bei Einspruch, Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einstellung 153a Hauptverhandlung** ordnet den Fall über die tragenden Prüffelder: Einstellung im Strafbefehlsverfahren, Hauptverhandlung nach § 411 StPO bei Einspruch, Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

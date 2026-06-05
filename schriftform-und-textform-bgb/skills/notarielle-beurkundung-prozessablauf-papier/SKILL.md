@@ -7,7 +7,7 @@ description: "Notarielle Beurkundung Prozessablauf Papier im Plugin Schriftform 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notarielle Beurkundung Prozessablauf Papier** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Mandant muss einen Vertrag notar-beurkunden lassen, Kanzlei oder Mandant muss zwischen Papier, qES. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notarielle Beurkundung Prozessablauf Papier** ordnet den Fall über die tragenden Prüffelder: Mandant muss einen Vertrag notar-beurkunden lassen, Kanzlei oder Mandant muss zwischen Papier, qES. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Anforderungsprofil Konstitutiv im Beamtenrecht: prüft konkret Ski
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anforderungsprofil Konstitutiv** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zur Unterscheidung konstitutives Anforderungsprofil, Klaert das Verhaeltnis von Regelbeurteilung und, Skill zur Anrechnungsregelung von Renten auf die. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anforderungsprofil Konstitutiv** ordnet den Fall über die tragenden Prüffelder: Skill zur Unterscheidung konstitutives Anforderungsprofil, Klaert das Verhaeltnis von Regelbeurteilung und, Skill zur Anrechnungsregelung von Renten auf die. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

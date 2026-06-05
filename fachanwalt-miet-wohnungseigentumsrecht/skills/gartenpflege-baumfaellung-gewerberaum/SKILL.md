@@ -7,7 +7,7 @@ description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gartenpflege Baumfaellung Gewerberaum** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gartenpflege Baumfaellung Gewerberaum** ordnet den Fall über die tragenden Prüffelder: Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

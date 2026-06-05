@@ -7,7 +7,7 @@ description: "Anspruchsberechtigung Antragsgenerator im JVEG-Kostenprüfung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anspruchsberechtigung Antragsgenerator** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Anspruchsberechtigung nach JVEG prüfen, Antrag auf gerichtliche Kostenfestsetzung nach JVEG, Verguetung für gerichtliche Dolmetscher und Übersetzer nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anspruchsberechtigung Antragsgenerator** ordnet den Fall über die tragenden Prüffelder: Anspruchsberechtigung nach JVEG prüfen, Antrag auf gerichtliche Kostenfestsetzung nach JVEG, Verguetung für gerichtliche Dolmetscher und Übersetzer nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Litigation Eilverfahren Produkthaftung im Fashion Law (Moderecht):
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Litigation Eilverfahren Produkthaftung** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Litigation und Eilverfahren im Fashion-Bereich, Produkthaftung und Haftung für mangelhafte Modeartikel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Litigation Eilverfahren Produkthaftung** ordnet den Fall über die tragenden Prüffelder: Litigation und Eilverfahren im Fashion-Bereich, Produkthaftung und Haftung für mangelhafte Modeartikel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

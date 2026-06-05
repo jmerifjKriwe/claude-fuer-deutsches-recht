@@ -7,7 +7,7 @@ description: "TK Zivilklage TK Abhoerschnittstellen im Telekommunikationsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Zivilklage TK Abhoerschnittstellen** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Zivilrechtliche TK-Klagen, TK-Überwachung, Schnittstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Zivilklage TK Abhoerschnittstellen** ordnet den Fall über die tragenden Prüffelder: Zivilrechtliche TK-Klagen, TK-Überwachung, Schnittstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

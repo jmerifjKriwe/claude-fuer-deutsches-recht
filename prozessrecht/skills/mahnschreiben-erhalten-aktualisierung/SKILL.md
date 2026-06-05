@@ -7,7 +7,7 @@ description: "Mahnschreiben Erhalten Aktualisierung im Plugin Prozessrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mahnschreiben Erhalten Aktualisierung** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Auf erhaltenes Mahnschreiben der Gegenseite reagieren, Laufendes Prozessmandat aktualisieren, Prozessmandat aufnehmen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mahnschreiben Erhalten Aktualisierung** ordnet den Fall über die tragenden Prüffelder: Auf erhaltenes Mahnschreiben der Gegenseite reagieren, Laufendes Prozessmandat aktualisieren, Prozessmandat aufnehmen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

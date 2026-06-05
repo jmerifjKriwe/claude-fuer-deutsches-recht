@@ -7,7 +7,7 @@ description: "Datenraum Aufbau GAP Deal Intake Team im Plugin Mittelstand Corpor
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenraum Aufbau GAP Deal Intake Team** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Datenraum-Aufbau, Datenraum-Gap-Analyse und Clean Room, Deal-Intake und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenraum Aufbau GAP Deal Intake Team** ordnet den Fall über die tragenden Prüffelder: Datenraum-Aufbau, Datenraum-Gap-Analyse und Clean Room, Deal-Intake. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

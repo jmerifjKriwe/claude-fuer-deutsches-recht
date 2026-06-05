@@ -180,7 +180,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `umform-vertraulichkeitshinweise-leitfaden` | Leitfaden Vertraulichkeits- und Geheimnishinweise in Anwalts-E-Mails: Mandantengeheimnis, Datenschutz, Disclaimer. Pruefraster fuer Standardsignatur. |
 | `unfreundliche-unsachliche-umform-anwaltsbrief` | Unfreundliche Unsachliche Umform Anwaltsbrief im Plugin Email Umformulierer Berufsrecht: prüft konkret Unfreundliche, Unsachliche, Spezialfall Anwaltsbrief an Gegner. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächs... |
 | `varianten-fehlerkatalog` | Varianten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `vorher-nachher` | Vorher Nachher im Plugin Email Umformulierer Berufsrecht: Dieser Skill arbeitet Vorher Nachher als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünsch... |
+| `vorher-nachher` | Vorher Nachher im Plugin Email Umformulierer Berufsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbei... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

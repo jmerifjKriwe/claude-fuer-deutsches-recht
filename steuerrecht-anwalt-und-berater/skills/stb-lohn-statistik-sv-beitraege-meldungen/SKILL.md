@@ -7,7 +7,7 @@ description: "STB Lohn Statistik SV Beitraege Meldungen im Steuerrecht (Anwalt/B
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Lohn Statistik SV Beitraege Meldungen** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Statistik-Meldungen Verdienststatistik Destatis, Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen, SV-Meldungen über sv.net oder DAKOTA und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Lohn Statistik SV Beitraege Meldungen** ordnet den Fall über die tragenden Prüffelder: Statistik-Meldungen Verdienststatistik Destatis, Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen, SV-Meldungen über sv.net oder DAKOTA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

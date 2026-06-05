@@ -7,7 +7,7 @@ description: "Gegen Gelb Gleicht im NDA-Abgleich: prüft konkret Gegen, Gelb, Gl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gegen Gelb Gleicht** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von Gegen, Gelb, Gleicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gegen Gelb Gleicht** ordnet den Fall über die tragenden Prüffelder: Gegen, Gelb, Gleicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

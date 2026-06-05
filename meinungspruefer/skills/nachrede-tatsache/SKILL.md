@@ -7,7 +7,7 @@ description: "Nachrede Tatsache im Plugin Meinungspruefer: prüft konkret Nachre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachrede Tatsache** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Nachrede, Tatsache. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachrede Tatsache** ordnet den Fall über die tragenden Prüffelder: Nachrede, Tatsache. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

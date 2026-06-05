@@ -7,7 +7,7 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Koerperverletzung Stgb Todesfolge** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüffelder: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

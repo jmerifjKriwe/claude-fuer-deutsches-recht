@@ -7,7 +7,7 @@ description: "Stornoreserve Training Material im Handelsvertreterrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stornoreserve Training Material** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Prüft Zulässigkeit und Umfang von Stornoreserven im, Erstellt und prüft Schulungs- und Trainingsunterlagen für, Prüft Rechtsverhältnisse beim Einsatz von Untervertretern und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stornoreserve Training Material** ordnet den Fall über die tragenden Prüffelder: Prüft Zulässigkeit und Umfang von Stornoreserven im, Erstellt und prüft Schulungs- und Trainingsunterlagen für, Prüft Rechtsverhältnisse beim Einsatz von Untervertretern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

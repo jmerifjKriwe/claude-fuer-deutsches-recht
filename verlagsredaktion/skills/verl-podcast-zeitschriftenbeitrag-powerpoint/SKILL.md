@@ -7,7 +7,7 @@ description: "Verl Podcast Zeitschriftenbeitrag Powerpoint im Verlagsredaktion (
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Podcast Zeitschriftenbeitrag Powerpoint** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Nutzt einen juristischen Podcast als Zitat- und, Macht aus einer schlechten Vortrags-PPT einen, Pressetext zu Rechtsthemen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Podcast Zeitschriftenbeitrag Powerpoint** ordnet den Fall über die tragenden Prüffelder: Nutzt einen juristischen Podcast als Zitat- und, Macht aus einer schlechten Vortrags-PPT einen, Pressetext zu Rechtsthemen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

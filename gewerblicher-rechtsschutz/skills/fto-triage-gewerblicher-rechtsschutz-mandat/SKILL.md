@@ -7,7 +7,7 @@ description: "FTO Triage Gewerblicher Rechtsschutz Mandat im Plugin Gewerblicher
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FTO Triage Gewerblicher Rechtsschutz Mandat** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Unternehmen will Produkt einführen oder Technologie, Anpassung und Konfiguration des Plugins, Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FTO Triage Gewerblicher Rechtsschutz Mandat** ordnet den Fall über die tragenden Prüffelder: Unternehmen will Produkt einführen oder Technologie, Anpassung und Konfiguration des Plugins, Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

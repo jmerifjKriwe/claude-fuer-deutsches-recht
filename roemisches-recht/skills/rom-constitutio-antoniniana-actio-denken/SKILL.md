@@ -7,7 +7,7 @@ description: "ROM Constitutio Antoniniana Actio Denken im Römisches Recht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ROM Constitutio Antoniniana Actio Denken** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Constitutio Antoniniana 212 n, Römisches Recht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ROM Constitutio Antoniniana Actio Denken** ordnet den Fall über die tragenden Prüffelder: Constitutio Antoniniana 212 n, Römisches Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

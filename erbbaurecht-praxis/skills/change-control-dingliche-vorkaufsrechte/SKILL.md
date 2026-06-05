@@ -7,7 +7,7 @@ description: "Change Control Dingliche Vorkaufsrechte im Plugin Erbbaurecht Prax
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Change Control Dingliche Vorkaufsrechte** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Prüft, ob Anteilsübertragung, Verschmelzung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Change Control Dingliche Vorkaufsrechte** ordnet den Fall über die tragenden Prüffelder: Prüft, ob Anteilsübertragung, Verschmelzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

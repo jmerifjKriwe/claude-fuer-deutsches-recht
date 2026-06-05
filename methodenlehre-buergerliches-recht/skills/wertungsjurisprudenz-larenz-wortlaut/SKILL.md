@@ -7,7 +7,7 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wertungsjurisprudenz Larenz Wortlaut** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wertungsjurisprudenz Larenz Wortlaut** ordnet den Fall über die tragenden Prüffelder: Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

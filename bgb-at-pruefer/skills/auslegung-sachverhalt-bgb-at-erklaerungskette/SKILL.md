@@ -7,7 +7,7 @@ description: "Auslegung Sachverhalt BGB AT Erklaerungskette im Plugin Bgb At Pru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Auslegung Sachverhalt BGB AT Erklaerungskette** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in, Klausurmethodik, Tableau zur Darstellung von Erklärungsketten im BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Auslegung Sachverhalt BGB AT Erklaerungskette** ordnet den Fall über die tragenden Prüffelder: Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in, Klausurmethodik, Tableau zur Darstellung von Erklärungsketten im BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

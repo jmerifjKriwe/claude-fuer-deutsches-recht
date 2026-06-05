@@ -7,7 +7,7 @@ description: "Klausurkorrektur Lernplanung RED im Jurastudium: prüft konkret Ju
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klausurkorrektur Lernplanung RED** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Jurastudium, Klausurkorrektur, Lernplanung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klausurkorrektur Lernplanung RED** ordnet den Fall über die tragenden Prüffelder: Jurastudium, Klausurkorrektur, Lernplanung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

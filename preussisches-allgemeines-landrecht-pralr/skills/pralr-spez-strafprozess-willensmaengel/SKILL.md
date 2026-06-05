@@ -7,7 +7,7 @@ description: "Spez Strafprozess Willensmaengel im Preußisches Allgemeines Landr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spez Strafprozess Willensmaengel** als zusammenhängenden Arbeitsgang im Preußisches Allgemeines Landrecht. Im Mittelpunkt steht die Prüfung von Strafprozess im ALR — Inquisitionsverfahren, Willensmaengel im ALR — Arglist Irrtum Zwang, Zinsobergrenze und Wuchertatbestand im ALR und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spez Strafprozess Willensmaengel** ordnet den Fall über die tragenden Prüffelder: Strafprozess im ALR — Inquisitionsverfahren, Willensmaengel im ALR — Arglist Irrtum Zwang, Zinsobergrenze und Wuchertatbestand im ALR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Arbitration Clause BEA ERV im Commercial Courts in Deutschland: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbitration Clause BEA ERV** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Prüft Konflikte zwischen Schieds-, Gerichtsstands-, Escalation- und Commercial-C. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbitration Clause BEA ERV** ordnet den Fall über die tragenden Prüffelder: Prüft Konflikte zwischen Schieds-, Gerichtsstands-, Escalation- und Commercial-C. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

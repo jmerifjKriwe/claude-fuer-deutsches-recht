@@ -7,7 +7,7 @@ description: "Literatur Live Beweislast Lizenziertem im Zitierweise im deutschen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Literatur Live Beweislast Lizenziertem** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Literatur, Live, Lizenziertem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Literatur Live Beweislast Lizenziertem** ordnet den Fall über die tragenden Prüffelder: Literatur, Live, Lizenziertem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

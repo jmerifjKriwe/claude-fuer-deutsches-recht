@@ -7,7 +7,7 @@ description: "Umwelt Umweltrecht Umwrg im Plugin Umweltrecht: prüft konkret Umw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Umwelt Umweltrecht Umwrg** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Umwelt, Umweltrecht, Umwrg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Umwelt Umweltrecht Umwrg** ordnet den Fall über die tragenden Prüffelder: Umwelt, Umweltrecht, Umwrg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

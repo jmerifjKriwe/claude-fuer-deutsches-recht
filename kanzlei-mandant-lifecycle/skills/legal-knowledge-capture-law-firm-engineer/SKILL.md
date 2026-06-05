@@ -7,7 +7,7 @@ description: "Legal Knowledge Capture LAW Firm Engineer im Plugin Kanzlei Mandan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legal Knowledge Capture LAW Firm Engineer** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Knowledge Capture, Kanzlei-interne Sprache, Legal Engineer Dashboard und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legal Knowledge Capture LAW Firm Engineer** ordnet den Fall über die tragenden Prüffelder: Knowledge Capture, Kanzlei-interne Sprache, Legal Engineer Dashboard. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

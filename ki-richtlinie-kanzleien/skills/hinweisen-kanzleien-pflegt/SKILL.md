@@ -7,7 +7,7 @@ description: "Hinweisen Kanzleien Pflegt im Plugin Ki Richtlinie Kanzleien: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hinweisen Kanzleien Pflegt** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von Hinweisen, Kanzleien, Pflegt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hinweisen Kanzleien Pflegt** ordnet den Fall über die tragenden Prüffelder: Hinweisen, Kanzleien, Pflegt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

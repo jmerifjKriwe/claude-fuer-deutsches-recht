@@ -7,7 +7,7 @@ description: "Passive Veredelung Rueckwaren Erlass im Außenwirtschaftsrecht, Zo
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Passive Veredelung Rueckwaren Erlass** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Passive Veredelung nach UZK Art, Zollerlass und -erstattung fuer Rueckwaren nach UZK Art, Exportkontrolle fuer Technologietransfer durch und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Passive Veredelung Rueckwaren Erlass** ordnet den Fall über die tragenden Prüffelder: Passive Veredelung nach UZK Art, Zollerlass und -erstattung fuer Rueckwaren nach UZK Art, Exportkontrolle fuer Technologietransfer durch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

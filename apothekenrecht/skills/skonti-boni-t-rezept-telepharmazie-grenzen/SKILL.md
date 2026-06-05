@@ -7,7 +7,7 @@ description: "Skonti Boni T Rezept Telepharmazie Grenzen im Plugin Apothekenrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Skonti Boni T Rezept Telepharmazie Grenzen** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Skonti Boni Rabatte Zuweisungsverbot, T-Rezept besondere Arzneimittel, Telepharmazie Grenzen Chancen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Skonti Boni T Rezept Telepharmazie Grenzen** ordnet den Fall über die tragenden Prüffelder: Skonti Boni Rabatte Zuweisungsverbot, T-Rezept besondere Arzneimittel, Telepharmazie Grenzen Chancen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

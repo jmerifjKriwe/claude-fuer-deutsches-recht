@@ -7,7 +7,7 @@ description: "DSV Dsfa Update Erstgespraech Vorfallmeldung im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSV Dsfa Update Erstgespraech Vorfallmeldung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Aktualisiert die Datenschutz-Folgenabschätzung nach Art, Führt das anwaltliche oder DSB-Erstgespräch nach einem, Definiert eine Eskalationsmatrix vom Erstmelder über und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSV Dsfa Update Erstgespraech Vorfallmeldung** ordnet den Fall über die tragenden Prüffelder: Aktualisiert die Datenschutz-Folgenabschätzung nach Art, Führt das anwaltliche oder DSB-Erstgespräch nach einem, Definiert eine Eskalationsmatrix vom Erstmelder über. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

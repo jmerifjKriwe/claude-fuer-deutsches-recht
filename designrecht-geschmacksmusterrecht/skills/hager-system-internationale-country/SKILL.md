@@ -7,7 +7,7 @@ description: "Hager System Internationale Country im Designrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hager System Internationale Country** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Internationale Designregistrierung über das WIPO Hague, Internationale Designstrategie für USA, China. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hager System Internationale Country** ordnet den Fall über die tragenden Prüffelder: Internationale Designregistrierung über das WIPO Hague, Internationale Designstrategie für USA, China. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

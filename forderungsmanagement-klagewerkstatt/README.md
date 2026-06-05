@@ -180,6 +180,6 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `werden-zahlungsklage-urkundenprozess` | Werden Zahlungsklage Urkundenprozess im Plugin Forderungsmanagement Klagewerkstatt: prüft konkret Werden, Zahlungsklage, Urkundenprozess §§ 592-605 ZPO pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Sc... |
 | `zahlungsklage-erstellen` | Zahlungsklage erstellen: Klageschrift §§ 253 ff. ZPO, Klageantrag, Tatbestand, Beweismittel, Anlagenverzeichnis. Streitwertangabe, Belehrung Rechtsanwaltszwang, Anschrift Schuldner. Output: Klageschrift-Geruest fuer das LG/AG. |
 | `zinsberechnung-288-bgb` | Zinsberechnung § 288 BGB: Verbraucherzinsen 5 Prozentpunkte ueber Basiszins, B2B 9 Prozentpunkte. Verzugseintritt § 286 BGB. Pauschale 40 EUR § 288 Abs. 5 BGB im B2B-Geschaeft. Output: Zinsberechnungs-Tabelle. |
-| `zinsberechnung-bgb` | Zinsberechnung BGB im Plugin Forderungsmanagement Klagewerkstatt: Dieser Skill arbeitet Zinsberechnung BGB als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement / Klagewerkstatt ab — nach Aktenlage, Frist, Zuständigkeit, Bewei... |
+| `zinsberechnung-bgb` | Zinsberechnung BGB im Plugin Forderungsmanagement Klagewerkstatt: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

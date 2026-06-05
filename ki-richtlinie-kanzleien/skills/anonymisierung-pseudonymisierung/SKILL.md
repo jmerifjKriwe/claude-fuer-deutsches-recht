@@ -7,7 +7,7 @@ description: "Anonymisierung Pseudonymisierung im Plugin Ki Richtlinie Kanzleien
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anonymisierung Pseudonymisierung** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von Anonymisierung und Pseudonymisierung von Mandatsdaten vor, Automatisierte Einzelentscheidungen nach Art, Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anonymisierung Pseudonymisierung** ordnet den Fall über die tragenden Prüffelder: Anonymisierung und Pseudonymisierung von Mandatsdaten vor, Automatisierte Einzelentscheidungen nach Art, Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

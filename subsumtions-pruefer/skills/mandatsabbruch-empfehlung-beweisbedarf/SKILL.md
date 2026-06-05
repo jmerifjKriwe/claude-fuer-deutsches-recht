@@ -7,7 +7,7 @@ description: "Mandatsabbruch Empfehlung Beweisbedarf im Plugin Subsumtions Pruef
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandatsabbruch Empfehlung Beweisbedarf** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Erkennt Indikatoren für Komplexitaetsgrenzen des, Erfasst pro Tatbestandsmerkmal den Beweisbedarf, Verteilt Darlegungs- und Beweislast nach Grundregel (wer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandatsabbruch Empfehlung Beweisbedarf** ordnet den Fall über die tragenden Prüffelder: Erkennt Indikatoren für Komplexitaetsgrenzen des, Erfasst pro Tatbestandsmerkmal den Beweisbedarf, Verteilt Darlegungs- und Beweislast nach Grundregel (wer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

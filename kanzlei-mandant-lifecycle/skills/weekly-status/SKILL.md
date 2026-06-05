@@ -1,13 +1,13 @@
 ---
 name: weekly-status
-description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle: Dieser Skill arbeitet Weekly Status als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Weekly Status
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Weekly Status** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Weekly Status** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Reserve Litigation RFP Kanzleiauswahl Risk im Plugin Kanzlei Manda
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Reserve Litigation RFP Kanzleiauswahl Risk** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Reserve Litigation Risk, RFP Kanzleiauswahl, Risk Register und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Reserve Litigation RFP Kanzleiauswahl Risk** ordnet den Fall über die tragenden Prüffelder: Reserve Litigation Risk, RFP Kanzleiauswahl, Risk Register. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Verl Vorschuss AI Einsatz im Verlagsredaktion (Recht): prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Vorschuss AI Einsatz** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Vorschusspruefung fuer Buchprojekte, Dokumentiert KI-Einsatz, Vertraulichkeit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Vorschuss AI Einsatz** ordnet den Fall über die tragenden Prüffelder: Vorschusspruefung fuer Buchprojekte, Dokumentiert KI-Einsatz, Vertraulichkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

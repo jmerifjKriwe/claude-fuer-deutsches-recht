@@ -7,7 +7,7 @@ description: "Inso Verteidigung Vorsatzanfechtung im Plugin Bereicherungs Und An
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Verteidigung Vorsatzanfechtung** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Verteidigung des Anfechtungsgegners gegen, Vorsatzanfechtung nach § 133 InsO prüfen, Dieses Fachmodul greift und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Verteidigung Vorsatzanfechtung** ordnet den Fall über die tragenden Prüffelder: Verteidigung des Anfechtungsgegners gegen, Vorsatzanfechtung nach § 133 InsO prüfen, Dieses Fachmodul greift. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

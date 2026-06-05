@@ -7,7 +7,7 @@ description: "Auskunft Einsicht Auslaendischer Principal im Handelsvertreterrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Auskunft Einsicht Auslaendischer Principal** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Unterstützt Handelsvertreter bei Auskunfts- und, Analysiert Handelsvertreterverträge mit ausländischem, Prüft Ausgleichsansprüche und Provisionsfragen im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Auskunft Einsicht Auslaendischer Principal** ordnet den Fall über die tragenden Prüffelder: Unterstützt Handelsvertreter bei Auskunfts- und, Analysiert Handelsvertreterverträge mit ausländischem, Prüft Ausgleichsansprüche und Provisionsfragen im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Elan Ethik Finanzplan im DFG-Förderantragstellung: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elan Ethik Finanzplan** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Elan, Ethik, Finanzplan. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elan Ethik Finanzplan** ordnet den Fall über die tragenden Prüffelder: Elan, Ethik, Finanzplan. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Deutsches Englische Drag TAG im Plugin Gesellschaftsrecht Legal En
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Deutsches Englische Drag TAG** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercia. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Deutsches Englische Drag TAG** ordnet den Fall über die tragenden Prüffelder: Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercia. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

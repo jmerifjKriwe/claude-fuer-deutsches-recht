@@ -7,7 +7,7 @@ description: "Datenschutz Bankgeheimnis Depotrecht im Plugin Bank Rechtsabteilun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Bankgeheimnis Depotrecht** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank, Depotrecht und tokenisierte Wertpapiere prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Bankgeheimnis Depotrecht** ordnet den Fall über die tragenden Prüffelder: Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank, Depotrecht und tokenisierte Wertpapiere prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Claims Trading Confirmation Contested Matters im Plugin Us Bankrup
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Claims Trading Confirmation Contested Matters** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft assignment/transfer of claims, notice, evidence und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Claims Trading Confirmation Contested Matters** ordnet den Fall über die tragenden Prüffelder: Prueft assignment/transfer of claims, notice, evidence. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

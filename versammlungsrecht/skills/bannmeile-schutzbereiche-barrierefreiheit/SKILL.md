@@ -7,7 +7,7 @@ description: "Bannmeile Schutzbereiche Barrierefreiheit im Versammlungsrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bannmeile Schutzbereiche Barrierefreiheit** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Prüft befriedete Bezirke, Bannmeilen und Schutzbereiche um Bundestag, Bundesrat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bannmeile Schutzbereiche Barrierefreiheit** ordnet den Fall über die tragenden Prüffelder: Prüft befriedete Bezirke, Bannmeilen und Schutzbereiche um Bundestag, Bundesrat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

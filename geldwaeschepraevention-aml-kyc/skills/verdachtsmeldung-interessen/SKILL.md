@@ -1,13 +1,13 @@
 ---
 name: verdachtsmeldung-interessen
-description: "Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc: Dieser Skill arbeitet Verdachtsmeldung Interessen als zusammenhängenden Arbeitsgang im Plugin Geldwäscheprävention (AML/KYC) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Verdachtsmeldung Interessen
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Verdachtsmeldung Interessen** als zusammenhängenden Arbeitsgang im Plugin Geldwäscheprävention (AML/KYC) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Verdachtsmeldung Interessen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

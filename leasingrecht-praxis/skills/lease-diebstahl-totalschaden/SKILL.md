@@ -7,7 +7,7 @@ description: "Lease Diebstahl Totalschaden im Plugin Leasingrecht Praxis: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Diebstahl Totalschaden** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Diebstahl und Totalschaden im Leasing, Systematische Einordnung, IT-Leasing. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Diebstahl Totalschaden** ordnet den Fall über die tragenden Prüffelder: Diebstahl und Totalschaden im Leasing, Systematische Einordnung, IT-Leasing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

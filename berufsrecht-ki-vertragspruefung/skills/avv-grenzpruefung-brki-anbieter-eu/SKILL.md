@@ -7,7 +7,7 @@ description: "AVV Grenzpruefung Brki Anbieter EU im Plugin Berufsrecht Ki Vertra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AVV Grenzpruefung Brki Anbieter EU** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art, Anbieter-Due-Diligence beim Einsatz von KI in der Kanzlei, Spezialfall Transfer nach USA unter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AVV Grenzpruefung Brki Anbieter EU** ordnet den Fall über die tragenden Prüffelder: Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art, Anbieter-Due-Diligence beim Einsatz von KI in der Kanzlei, Spezialfall Transfer nach USA unter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

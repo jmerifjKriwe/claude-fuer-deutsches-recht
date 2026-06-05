@@ -7,7 +7,7 @@ description: "Kernplattformdienste Sonderfall Klagewege im DSA/DMA-Digitalreguli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kernplattformdienste Sonderfall Klagewege** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Kernplattformdienste, Klagewege, Risikobewertung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kernplattformdienste Sonderfall Klagewege** ordnet den Fall über die tragenden Prüffelder: Kernplattformdienste, Klagewege, Risikobewertung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

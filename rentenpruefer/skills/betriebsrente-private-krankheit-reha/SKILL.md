@@ -7,7 +7,7 @@ description: "Betriebsrente Private Krankheit Reha im Plugin Rentenpruefer: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betriebsrente Private Krankheit Reha** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Betriebsrente und private Vorsorge als Schnittstelle zur, Krankheit, Reha und Übergangsgeld im Rentenkonto. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betriebsrente Private Krankheit Reha** ordnet den Fall über die tragenden Prüffelder: Betriebsrente und private Vorsorge als Schnittstelle zur, Krankheit, Reha und Übergangsgeld im Rentenkonto. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

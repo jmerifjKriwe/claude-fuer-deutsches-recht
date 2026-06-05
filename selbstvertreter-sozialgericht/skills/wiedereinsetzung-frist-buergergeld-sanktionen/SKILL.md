@@ -7,7 +7,7 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wiedereinsetzung Frist Buergergeld Sanktionen** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wiedereinsetzung Frist Buergergeld Sanktionen** ordnet den Fall über die tragenden Prüffelder: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Blutprodukte Transfusionsrecht System Klinik im Plugin Krankenhaus
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Blutprodukte Transfusionsrecht System Klinik** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Blutprodukte Transfusionsrecht Dokumentation, Compliance-System Klinik Einkauf Forschung Spenden, Datenschutz im Krankenhaus. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Blutprodukte Transfusionsrecht System Klinik** ordnet den Fall über die tragenden Prüffelder: Blutprodukte Transfusionsrecht Dokumentation, Compliance-System Klinik Einkauf Forschung Spenden, Datenschutz im Krankenhaus. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

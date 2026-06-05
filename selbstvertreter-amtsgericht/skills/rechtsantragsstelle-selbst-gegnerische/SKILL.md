@@ -7,7 +7,7 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsantragsstelle Selbst Gegnerische** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsantragsstelle Selbst Gegnerische** ordnet den Fall über die tragenden Prüffelder: Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

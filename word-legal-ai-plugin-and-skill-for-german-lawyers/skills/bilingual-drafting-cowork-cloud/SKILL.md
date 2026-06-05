@@ -7,7 +7,7 @@ description: "Bilingual Drafting Cowork Cloud im Word-Legal-AI für Anwälte: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bilingual Drafting Cowork Cloud** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Drafting deutsch-englischer Vertraege in Side-by-Side- oder, Mandantengeheimnis-konformes Drafting in der Cloud (Claude. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bilingual Drafting Cowork Cloud** ordnet den Fall über die tragenden Prüffelder: Drafting deutsch-englischer Vertraege in Side-by-Side- oder, Mandantengeheimnis-konformes Drafting in der Cloud (Claude. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

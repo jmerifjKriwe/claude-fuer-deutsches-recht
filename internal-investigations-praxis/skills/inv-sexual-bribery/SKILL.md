@@ -7,7 +7,7 @@ description: "INV Sexual Bribery im Internal Investigations: prüft konkret Leit
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Sexual Bribery** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Leitet Untersuchungen bei sexueller Belästigung am, Schutzpfl, Identifiziert Bestechungs-Red-Flags in Transaktionen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Sexual Bribery** ordnet den Fall über die tragenden Prüffelder: Leitet Untersuchungen bei sexueller Belästigung am, Schutzpfl, Identifiziert Bestechungs-Red-Flags in Transaktionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

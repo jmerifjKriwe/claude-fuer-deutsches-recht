@@ -7,7 +7,7 @@ description: "Familienbetreuer Entlastung Erste im Plugin Betreuungsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Familienbetreuer Entlastung Erste** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Entlastung ehrenamtlicher Betreuer, Erste 48 Stunden nach Betreuerbestellung, Jahresbericht für das Betreuungsgericht aus Alltagsnotizen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Familienbetreuer Entlastung Erste** ordnet den Fall über die tragenden Prüffelder: Entlastung ehrenamtlicher Betreuer, Erste 48 Stunden nach Betreuerbestellung, Jahresbericht für das Betreuungsgericht aus Alltagsnotizen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

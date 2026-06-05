@@ -7,7 +7,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berechnen BGB Buch Fuehren Fristverlaengerung** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berechnen BGB Buch Fuehren Fristverlaengerung** ordnet den Fall über die tragenden Prüffelder: Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

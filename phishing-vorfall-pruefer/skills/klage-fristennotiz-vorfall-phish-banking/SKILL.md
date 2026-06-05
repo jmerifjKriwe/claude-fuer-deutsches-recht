@@ -7,7 +7,7 @@ description: "Klage Fristennotiz Vorfall Phish Banking im Plugin Phishing Vorfal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klage Fristennotiz Vorfall Phish Banking** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von Klage, Vorfall, Spezialfall Banking-Trojaner und Haftung bei nicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klage Fristennotiz Vorfall Phish Banking** ordnet den Fall über die tragenden Prüffelder: Klage, Vorfall, Spezialfall Banking-Trojaner und Haftung bei nicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

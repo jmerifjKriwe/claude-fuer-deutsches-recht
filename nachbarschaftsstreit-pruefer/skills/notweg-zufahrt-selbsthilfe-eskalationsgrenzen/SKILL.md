@@ -7,7 +7,7 @@ description: "Notweg Zufahrt Selbsthilfe Eskalationsgrenzen im Nachbarschaftsstr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notweg Zufahrt Selbsthilfe Eskalationsgrenzen** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Notweg, Zufahrt und Wegerecht prüfen, Selbsthilfe im Nachbarrecht prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notweg Zufahrt Selbsthilfe Eskalationsgrenzen** ordnet den Fall über die tragenden Prüffelder: Notweg, Zufahrt und Wegerecht prüfen, Selbsthilfe im Nachbarrecht prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

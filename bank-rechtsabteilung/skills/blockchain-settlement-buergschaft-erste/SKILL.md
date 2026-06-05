@@ -7,7 +7,7 @@ description: "Blockchain Settlement Buergschaft Erste im Plugin Bank Rechtsabtei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Blockchain Settlement Buergschaft Erste** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Blockchain-Settlement und Delivery-versus-Payment prüfen, Bürgschaft oder Garantie auf erste Anforderung aus, Privatpersonen- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Blockchain Settlement Buergschaft Erste** ordnet den Fall über die tragenden Prüffelder: Blockchain-Settlement und Delivery-versus-Payment prüfen, Bürgschaft oder Garantie auf erste Anforderung aus, Privatpersonen-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

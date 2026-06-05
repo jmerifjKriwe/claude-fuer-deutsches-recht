@@ -1,13 +1,13 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG): Dieser Skill arbeitet Zwvw Versteigerung als zusammenhängenden Arbeitsgang im Plugin Zwangsverwaltung (ZVG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zwvw Versteigerung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zwvw Versteigerung** als zusammenhängenden Arbeitsgang im Plugin Zwangsverwaltung (ZVG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zwvw Versteigerung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

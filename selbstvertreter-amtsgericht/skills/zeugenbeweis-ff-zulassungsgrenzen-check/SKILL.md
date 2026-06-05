@@ -7,7 +7,7 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zeugenbeweis FF Zulassungsgrenzen Check** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüffelder: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Immissionsschutz Laerm Mandat Erstgespraech im Plugin Normenkontro
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immissionsschutz Laerm Mandat Erstgespraech** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Mandant greift Bebauungsplan wegen unzureichendem, Grundstueckseigentuemer oder Nachbar kommt wegen, Normenkontrollantrag steht vor muendlicher Verhandlung am. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immissionsschutz Laerm Mandat Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Mandant greift Bebauungsplan wegen unzureichendem, Grundstueckseigentuemer oder Nachbar kommt wegen, Normenkontrollantrag steht vor muendlicher Verhandlung am. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

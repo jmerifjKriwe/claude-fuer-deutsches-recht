@@ -7,7 +7,7 @@ description: "Mandantenkommunikation Redteam Qualitygate Hoeferecht im Agrarrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandantenkommunikation Redteam Qualitygate Hoeferecht** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandantenkommunikation Redteam Qualitygate Hoeferecht** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

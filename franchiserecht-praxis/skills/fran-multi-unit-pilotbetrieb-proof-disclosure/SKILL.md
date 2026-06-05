@@ -7,7 +7,7 @@ description: "Fran Multi Unit Pilotbetrieb Proof Disclosure im Franchiserecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Multi Unit Pilotbetrieb Proof Disclosure** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Multi-Unit-Franchise und Area-Developer-Strukturen, Pilotbetrieb vor Franchisesystemstart rechtlich absichern, Disclosure-Dokument für internationale Franchiseinvestoren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Multi Unit Pilotbetrieb Proof Disclosure** ordnet den Fall über die tragenden Prüffelder: Multi-Unit-Franchise und Area-Developer-Strukturen, Pilotbetrieb vor Franchisesystemstart rechtlich absichern, Disclosure-Dokument für internationale Franchiseinvestoren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

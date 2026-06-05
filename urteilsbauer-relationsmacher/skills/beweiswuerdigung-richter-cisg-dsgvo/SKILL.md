@@ -7,7 +7,7 @@ description: "Beweiswuerdigung Richter CISG DSGVO im Plugin Urteilsbauer Relatio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beweiswuerdigung Richter CISG DSGVO** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Strukturierte Beweiswürdigung nach § 286 ZPO schreiben, UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen, Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beweiswuerdigung Richter CISG DSGVO** ordnet den Fall über die tragenden Prüffelder: Strukturierte Beweiswürdigung nach § 286 ZPO schreiben, UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen, Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

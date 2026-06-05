@@ -7,7 +7,7 @@ description: "Open Source Post Market Presse im Robotik- und KI-Recht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Open Source Post Market Presse** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Sammelt FOSS, SBOM, Lizenzen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Open Source Post Market Presse** ordnet den Fall über die tragenden Prüffelder: Sammelt FOSS, SBOM, Lizenzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

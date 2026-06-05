@@ -7,7 +7,7 @@ description: "Sortiert Stempelt Word im Plugin Anlagen Zu Schriftsaetzen: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sortiert Stempelt Word** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Schriftsatz, Sortiert, Stempelt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sortiert Stempelt Word** ordnet den Fall über die tragenden Prüffelder: Schriftsatz, Sortiert, Stempelt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

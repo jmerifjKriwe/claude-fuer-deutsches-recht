@@ -7,7 +7,7 @@ description: "Anlagenband Strukturieren Anlagenbezug im Plugin Anlagen Zu Schrif
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anlagenband Strukturieren Anlagenbezug** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Anlagenband strukturieren, Wie Anlagen im Schriftsatz richtig eingefuehrt werden, Anlagenkonvolut aus Mandanten-ZIP konsolidieren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anlagenband Strukturieren Anlagenbezug** ordnet den Fall über die tragenden Prüffelder: Anlagenband strukturieren, Wie Anlagen im Schriftsatz richtig eingefuehrt werden, Anlagenkonvolut aus Mandanten-ZIP konsolidieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

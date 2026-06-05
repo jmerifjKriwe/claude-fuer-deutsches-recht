@@ -7,7 +7,7 @@ description: "Plattformsales DSA Pricing Sales im Fashion Law (Moderecht): prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Plattformsales DSA Pricing Sales** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Plattformverkauf und DSA für Fashion prüfen, Rabatte, Sales. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Plattformsales DSA Pricing Sales** ordnet den Fall über die tragenden Prüffelder: Plattformverkauf und DSA für Fashion prüfen, Rabatte, Sales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Betreuung Grenzueberschreitend Betreuungsantrag im Plugin Betreuun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuung Grenzueberschreitend Betreuungsantrag** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Grenzueberschreitende Betreuung, Betreuungsantrag § 1814 BGB, Kommunikation mit dem Betreuungsgericht für Angehörige und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuung Grenzueberschreitend Betreuungsantrag** ordnet den Fall über die tragenden Prüffelder: Grenzueberschreitende Betreuung, Betreuungsantrag § 1814 BGB, Kommunikation mit dem Betreuungsgericht für Angehörige und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

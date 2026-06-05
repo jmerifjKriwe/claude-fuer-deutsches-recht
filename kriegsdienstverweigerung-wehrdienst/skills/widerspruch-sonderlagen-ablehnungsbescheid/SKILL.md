@@ -7,7 +7,7 @@ description: "Widerspruch Sonderlagen Ablehnungsbescheid im Kriegsdienstverweige
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Widerspruch Sonderlagen Ablehnungsbescheid** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG, Analysiert Tenor und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Widerspruch Sonderlagen Ablehnungsbescheid** ordnet den Fall über die tragenden Prüffelder: Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG, Analysiert Tenor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

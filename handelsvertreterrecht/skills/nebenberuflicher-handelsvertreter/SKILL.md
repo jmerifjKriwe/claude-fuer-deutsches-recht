@@ -7,7 +7,7 @@ description: "Nebenberuflicher Handelsvertreter im Handelsvertreterrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nebenberuflicher Handelsvertreter** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Analysiert die Rechtsstellung des nebenberuflichen, Prüft das Risiko der Scheinselbständigkeit des, Prüft Aufwendungsersatz und Spesenabrechnungen im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nebenberuflicher Handelsvertreter** ordnet den Fall über die tragenden Prüffelder: Analysiert die Rechtsstellung des nebenberuflichen, Prüft das Risiko der Scheinselbständigkeit des, Prüft Aufwendungsersatz und Spesenabrechnungen im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

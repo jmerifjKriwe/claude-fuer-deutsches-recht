@@ -1,13 +1,13 @@
 ---
 name: migr-aufenthaltstitel
-description: "Migr Aufenthaltstitel im Migrationsrecht: Dieser Skill behandelt Migr Aufenthaltstitel als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Uebersicht Aufenthaltstitel AufenthG."
+description: "Migr Aufenthaltstitel im Migrationsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Migr Aufenthaltstitel
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Migr Aufenthaltstitel** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Uebersicht Aufenthaltstitel AufenthG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Migr Aufenthaltstitel** ordnet den Fall über die tragenden Prüffelder: Uebersicht Aufenthaltstitel AufenthG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

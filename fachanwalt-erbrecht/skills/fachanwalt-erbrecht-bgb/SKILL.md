@@ -7,7 +7,7 @@ description: "BGB im Plugin Fachanwalt Erbrecht: prüft konkret Mandantenkommuni
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BGB** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin fachanwalt-erbrecht, Red-Team Qualitygate im Plugin fachanwalt-erbrecht, BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BGB** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-erbrecht, Red-Team Qualitygate im Plugin fachanwalt-erbrecht, BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

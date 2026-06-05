@@ -94,6 +94,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `service-level-settlement-authority` | Service Level Settlement Authority im Plugin Kanzlei Mandant Lifecycle: prüft konkret Service Level Agreement, Settlement Authority, Settlement Implementation, Staffing Pyramide. Liefert priorisierten Output mit Norm-Pinpoints, Risikoamp... |
 | `subsidiary-parent-success-fee-probability` | Subsidiary Parent Success FEE Probability im Plugin Kanzlei Mandant Lifecycle: prüft konkret Konzernmandat Mutter/Tochter, Success Fee Compliance, Erfolgsaussichten Alignment, Template Library Governance. Liefert priorisierten Output mit... |
 | `third-party-time-entry-translation-management` | Third Party Time Entry Translation Management im Plugin Kanzlei Mandant Lifecycle: prüft konkret Third Party Funding, Time Entry Hygiene, Translation Management, Umsatzsteuer bei Legal Fees. Liefert priorisierten Output mit Norm-Pinpoint... |
-| `weekly-status` | Weekly Status im Plugin Kanzlei Mandant Lifecycle: Dieser Skill arbeitet Weekly Status als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output pri... |
+| `weekly-status` | Weekly Status im Plugin Kanzlei Mandant Lifecycle: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

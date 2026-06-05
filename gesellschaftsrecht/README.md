@@ -180,6 +180,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `mandat-arbeitsbereich-gesr-corporate` | Mandat Arbeitsbereich Gesr Corporate im Plugin Gesellschaftsrecht: prüft konkret Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem S... |
 | `output-waehlen-workflow-redteam-interessen` | Output Waehlen Workflow Redteam Interessen im Plugin Gesellschaftsrecht: prüft konkret Output wählen im Plugin gesellschaftsrecht, Red-Team Qualitygate im Plugin gesellschaftsrecht, Fristen, Handelsregisteranmeldung. Liefert priorisierte... |
 | `rechtsabteilung-gesellschafterliste` | Rechtsabteilung Gesellschafterliste im Plugin Gesellschaftsrecht: prüft konkret Rechtsabteilungs-Fachmodul für Gesellschafterliste und, Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit, Rechtsabteilungs-Fachmodul für Stimmbindung und,... |
-| `wesentliche-vertraege` | Wesentliche Vertraege im Plugin Gesellschaftsrecht: Dieser Skill arbeitet Wesentliche Vertraege als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output p... |
+| `wesentliche-vertraege` | Wesentliche Vertraege im Plugin Gesellschaftsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

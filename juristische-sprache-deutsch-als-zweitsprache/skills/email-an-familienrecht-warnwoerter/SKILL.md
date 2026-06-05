@@ -7,7 +7,7 @@ description: "Email AN Familienrecht Warnwoerter im Bereich Juristische Sprache 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Email AN Familienrecht Warnwoerter** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Email An Behoerde fuer Menschen mit Deutsch als, Hilft bei Familienrecht Warnwoerter fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Email AN Familienrecht Warnwoerter** ordnet den Fall über die tragenden Prüffelder: Hilft bei Email An Behoerde fuer Menschen mit Deutsch als, Hilft bei Familienrecht Warnwoerter fuer Menschen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

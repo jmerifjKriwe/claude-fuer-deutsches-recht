@@ -7,7 +7,7 @@ description: "Pharmazeutische Dienstleistungen Preisangaben im Plugin Apothekenr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pharmazeutische Dienstleistungen Preisangaben** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Pharmazeutische Dienstleistungen Vergütung, Preisangaben E-Commerce Apotheke, Preisbindung Arzneimittel AMPreisV. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pharmazeutische Dienstleistungen Preisangaben** ordnet den Fall über die tragenden Prüffelder: Pharmazeutische Dienstleistungen Vergütung, Preisangaben E-Commerce Apotheke, Preisbindung Arzneimittel AMPreisV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: common-law-wirtschaftsjuristen-terms
-description: "Wirtschaftsjuristen Terms im Common Law (Orientierung): Dieser Skill arbeitet Wirtschaftsjuristen Terms als zusammenhängenden Arbeitsgang im Plugin Common Law Kompass ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wirtschaftsjuristen Terms im Common Law (Orientierung): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wirtschaftsjuristen Terms
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wirtschaftsjuristen Terms** als zusammenhängenden Arbeitsgang im Plugin Common Law Kompass ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wirtschaftsjuristen Terms** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

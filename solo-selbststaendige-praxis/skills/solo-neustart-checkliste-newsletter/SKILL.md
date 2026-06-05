@@ -7,7 +7,7 @@ description: "Neustart Checkliste Newsletter im Solo-Selbstständigen-Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Neustart Checkliste Newsletter** als zusammenhängenden Arbeitsgang im Solo-Selbstständigen-Praxis. Im Mittelpunkt steht die Prüfung von Solo-Selbstständige und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Neustart Checkliste Newsletter** ordnet den Fall über die tragenden Prüffelder: Solo-Selbstständige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

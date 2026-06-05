@@ -7,7 +7,7 @@ description: "Koselleck 500k Praeregistrierung im DFG-Förderantragstellung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Koselleck 500k Praeregistrierung** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Reinhart-Koselleck-Projekt prüfen und entwerfen, Praeregistrierung und Replikationsstudien im DFG-Antrag, DFG-Projektbeschreibung und Arbeitsprogramm ausarbeiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Koselleck 500k Praeregistrierung** ordnet den Fall über die tragenden Prüffelder: Reinhart-Koselleck-Projekt prüfen und entwerfen, Praeregistrierung und Replikationsstudien im DFG-Antrag, DFG-Projektbeschreibung und Arbeitsprogramm ausarbeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

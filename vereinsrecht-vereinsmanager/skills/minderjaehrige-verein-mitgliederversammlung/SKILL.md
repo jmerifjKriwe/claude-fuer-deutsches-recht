@@ -7,7 +7,7 @@ description: "Minderjaehrige Verein Mitgliederversammlung im Plugin Vereinsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Minderjaehrige Verein Mitgliederversammlung** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Minderjaehrige Verein Mitgliederversammlung** ordnet den Fall über die tragenden Prüffelder: Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Promotion Promotionsordnung im Hochschulrecht der Länder: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Promotion Promotionsordnung** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Promotion, Annahme, Betreuung und Entzug und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Promotion Promotionsordnung** ordnet den Fall über die tragenden Prüffelder: Prüft Promotion, Annahme, Betreuung und Entzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: zeitschriften-heftplanung
-description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht): Dieser Skill arbeitet Zeitschriften Heftplanung als zusammenhängenden Arbeitsgang im Plugin Verlagsredaktion ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zeitschriften Heftplanung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zeitschriften Heftplanung** als zusammenhängenden Arbeitsgang im Plugin Verlagsredaktion ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zeitschriften Heftplanung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

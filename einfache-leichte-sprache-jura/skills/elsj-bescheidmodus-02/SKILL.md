@@ -7,7 +7,7 @@ description: "Elsj Bescheidmodus 02 im Einfache und leichte Sprache im Recht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Bescheidmodus 02** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Einfache, Bescheide einfach erlaeutern, Kanzlei oder Behoerde startet Vereinfachungs-Projekt für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Bescheidmodus 02** ordnet den Fall über die tragenden Prüffelder: Einfache, Bescheide einfach erlaeutern, Kanzlei oder Behoerde startet Vereinfachungs-Projekt für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

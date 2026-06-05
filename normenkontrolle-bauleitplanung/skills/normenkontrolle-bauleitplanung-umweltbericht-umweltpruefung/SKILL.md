@@ -7,7 +7,7 @@ description: "Umweltbericht Umweltpruefung im Plugin Normenkontrolle Bauleitplan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Umweltbericht Umweltpruefung** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Mandant greift Bebauungsplan wegen unzureichender, Bauherr oder Investor hat Bauantrag eingereicht aber, Prüffeld für vorhabenbezogener bebauungsplan 12 baugb. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Umweltbericht Umweltpruefung** ordnet den Fall über die tragenden Prüffelder: Mandant greift Bebauungsplan wegen unzureichender, Bauherr oder Investor hat Bauantrag eingereicht aber, Prüffeld für vorhabenbezogener bebauungsplan 12 baugb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

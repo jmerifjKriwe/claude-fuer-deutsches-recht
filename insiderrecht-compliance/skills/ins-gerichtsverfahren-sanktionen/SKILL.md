@@ -7,7 +7,7 @@ description: "INS Gerichtsverfahren Sanktionen im Insiderrecht und Compliance: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Gerichtsverfahren Sanktionen** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft Insiderinformations-Qualitaet laufender, Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und st. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Gerichtsverfahren Sanktionen** ordnet den Fall über die tragenden Prüffelder: Prueft Insiderinformations-Qualitaet laufender, Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und st. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

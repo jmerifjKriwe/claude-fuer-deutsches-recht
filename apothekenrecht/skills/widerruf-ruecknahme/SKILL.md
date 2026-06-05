@@ -1,13 +1,13 @@
 ---
 name: widerruf-ruecknahme
-description: "Widerruf Ruecknahme im Plugin Apothekenrecht: Dieser Skill arbeitet Widerruf Ruecknahme als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Widerruf Ruecknahme im Plugin Apothekenrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Widerruf Ruecknahme
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Widerruf Ruecknahme** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Widerruf Ruecknahme** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "IP License Landlord Tenant Mass Tort Means im Plugin Us Bankruptcy
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IP License Landlord Tenant Mass Tort Means** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft licensee rights after rejection, election, royalties und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IP License Landlord Tenant Mass Tort Means** ordnet den Fall über die tragenden Prüffelder: Prueft licensee rights after rejection, election, royalties. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

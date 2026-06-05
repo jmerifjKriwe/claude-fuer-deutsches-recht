@@ -7,7 +7,7 @@ description: "Supplementary Registration Templates Open im Plugin Us Copyright R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Supplementary Registration Templates Open** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Fehlerkorrektur und Supplementary Registration, Templates und Open Cases im eCO-Prozess, Prueft US-Termination und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Supplementary Registration Templates Open** ordnet den Fall über die tragenden Prüffelder: Fehlerkorrektur und Supplementary Registration, Templates und Open Cases im eCO-Prozess, Prueft US-Termination. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

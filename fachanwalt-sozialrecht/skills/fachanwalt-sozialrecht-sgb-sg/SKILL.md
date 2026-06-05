@@ -7,7 +7,7 @@ description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkret Prüffeld 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SGB SG** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SGB SG** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

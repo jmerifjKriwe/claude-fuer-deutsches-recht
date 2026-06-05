@@ -7,7 +7,7 @@ description: "Laenge Formate Mandantenfreundliche Fassung im Memorandum-Erstellu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Laenge Formate Mandantenfreundliche Fassung** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Memo-Laenge an Komplexitaet anpassen, Spezialfall mandantenfreundliche Fassung eines juristischen, Bauleiter Memo-Typen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Laenge Formate Mandantenfreundliche Fassung** ordnet den Fall über die tragenden Prüffelder: Memo-Laenge an Komplexitaet anpassen, Spezialfall mandantenfreundliche Fassung eines juristischen, Bauleiter Memo-Typen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

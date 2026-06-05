@@ -7,7 +7,7 @@ description: "Inventar Marketing Werbung Rote Linien im KI-Governance: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inventar Marketing Werbung Rote Linien** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst, KI im Marketing und Werbung, Verbotene KI-Praktiken Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inventar Marketing Werbung Rote Linien** ordnet den Fall über die tragenden Prüffelder: KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst, KI im Marketing und Werbung, Verbotene KI-Praktiken Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Klageantrag Zahlung Kondiktion Schwarzarbeit im Plugin Bereicherun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klageantrag Zahlung Kondiktion Schwarzarbeit** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut, wenn illegale Austauschverhältnisse bereicherungsrechtl und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klageantrag Zahlung Kondiktion Schwarzarbeit** ordnet den Fall über die tragenden Prüffelder: Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut, wenn illegale Austauschverhältnisse bereicherungsrechtl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

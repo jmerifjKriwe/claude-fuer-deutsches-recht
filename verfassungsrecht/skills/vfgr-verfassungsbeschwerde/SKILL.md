@@ -1,13 +1,13 @@
 ---
 name: vfgr-verfassungsbeschwerde
-description: "Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht: Dieser Skill arbeitet Vfgr Verfassungsbeschwerde als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Vfgr Verfassungsbeschwerde
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Vfgr Verfassungsbeschwerde** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Vfgr Verfassungsbeschwerde** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Steuerluecke Erkennen Steuernummer UST im Solo-Selbstständigen-Pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuerluecke Erkennen Steuernummer UST** als zusammenhängenden Arbeitsgang im Solo-Selbstständigen-Praxis. Im Mittelpunkt steht die Prüfung von Solo-Selbstständige und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuerluecke Erkennen Steuernummer UST** ordnet den Fall über die tragenden Prüffelder: Solo-Selbstständige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

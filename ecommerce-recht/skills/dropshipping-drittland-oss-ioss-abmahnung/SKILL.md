@@ -7,7 +7,7 @@ description: "Dropshipping Drittland OSS Ioss Abmahnung im Plugin Ecommerce Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dropshipping Drittland OSS Ioss Abmahnung** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Dropshipping Drittland Zoll Einfuhrumsatzsteuer, OSS/IOSS Umsatzsteuer E-Commerce, zur strukturierten Aufnahme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dropshipping Drittland OSS Ioss Abmahnung** ordnet den Fall über die tragenden Prüffelder: Dropshipping Drittland Zoll Einfuhrumsatzsteuer, OSS/IOSS Umsatzsteuer E-Commerce, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Dokumentationspflichten Protokoll DSGVO im Plugin Ki Richtlinie Ka
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dokumentationspflichten Protokoll DSGVO** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von Dokumentationspflichten und beweissichere Protokollierung, DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien, Executive Summary der KI-Nutzungsrichtlinie für Kanzleien. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dokumentationspflichten Protokoll DSGVO** ordnet den Fall über die tragenden Prüffelder: Dokumentationspflichten und beweissichere Protokollierung, DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien, Executive Summary der KI-Nutzungsrichtlinie für Kanzleien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

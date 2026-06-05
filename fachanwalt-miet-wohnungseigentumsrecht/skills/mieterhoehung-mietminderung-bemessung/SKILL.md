@@ -7,7 +7,7 @@ description: "Mieterhoehung Mietminderung Bemessung im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mieterhoehung Mietminderung Bemessung** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Mieterhoehung, Mietminderung Bemessung, Mietpreisbremse Rüge/Rückforderung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mieterhoehung Mietminderung Bemessung** ordnet den Fall über die tragenden Prüffelder: Mieterhoehung, Mietminderung Bemessung, Mietpreisbremse Rüge/Rückforderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

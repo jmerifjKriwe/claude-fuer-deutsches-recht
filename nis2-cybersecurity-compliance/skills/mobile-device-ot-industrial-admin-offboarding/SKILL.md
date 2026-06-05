@@ -7,7 +7,7 @@ description: "Mobile Device OT Industrial Admin Offboarding im NIS2-Cybersecurit
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mobile Device OT Industrial Admin Offboarding** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Steuert verlorene Geräte und gestohlene Laptops, Prüft OT, SPS und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mobile Device OT Industrial Admin Offboarding** ordnet den Fall über die tragenden Prüffelder: Steuert verlorene Geräte und gestohlene Laptops, Prüft OT, SPS. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

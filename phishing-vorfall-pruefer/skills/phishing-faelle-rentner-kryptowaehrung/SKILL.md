@@ -7,7 +7,7 @@ description: "Faelle Rentner Kryptowaehrung im Plugin Phishing Vorfall Pruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Faelle Rentner Kryptowaehrung** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von Phishing bei aelteren Mandanten, Phishing mit Kryptowaehrung, Phishing gegen Geschaeftskonto. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Faelle Rentner Kryptowaehrung** ordnet den Fall über die tragenden Prüffelder: Phishing bei aelteren Mandanten, Phishing mit Kryptowaehrung, Phishing gegen Geschaeftskonto. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

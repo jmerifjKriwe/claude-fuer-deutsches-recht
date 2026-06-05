@@ -7,7 +7,7 @@ description: "Arbeitnehmer Haftung BGB 675u Phish CEO im Plugin Phishing Vorfall
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitnehmer Haftung BGB 675u Phish CEO** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von Phishing am Arbeitsplatz, § 675u BGB Haftung des Zahlungsdienstleisters bei nicht, Spezialfall CEO-Fraud im Konzern. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitnehmer Haftung BGB 675u Phish CEO** ordnet den Fall über die tragenden Prüffelder: Phishing am Arbeitsplatz, § 675u BGB Haftung des Zahlungsdienstleisters bei nicht, Spezialfall CEO-Fraud im Konzern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

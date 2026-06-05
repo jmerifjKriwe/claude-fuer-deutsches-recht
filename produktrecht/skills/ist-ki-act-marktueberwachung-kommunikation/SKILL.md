@@ -7,7 +7,7 @@ description: "IST KI ACT Marktueberwachung Kommunikation im Plugin Produktrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IST KI ACT Marktueberwachung Kommunikation** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle, KI-Verordnung-Integration in Produkte, Kommunikation mit Marktueberwachungsbehoerden (zentrale. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IST KI ACT Marktueberwachung Kommunikation** ordnet den Fall über die tragenden Prüffelder: Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle, KI-Verordnung-Integration in Produkte, Kommunikation mit Marktueberwachungsbehoerden (zentrale. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

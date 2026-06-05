@@ -7,7 +7,7 @@ description: "Frist Eilversand Schiedsverfahren Anlagenband im Plugin Anlagen Zu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Frist Eilversand Schiedsverfahren Anlagenband** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Red-Team Qualitygate im Plugin anlagen-zu-schriftsaetzen, Minimalpfad bei drohender Frist, Plant Anlagenbände im Schiedsverfahren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Frist Eilversand Schiedsverfahren Anlagenband** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin anlagen-zu-schriftsaetzen, Minimalpfad bei drohender Frist, Plant Anlagenbände im Schiedsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

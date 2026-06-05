@@ -7,7 +7,7 @@ description: "Schulgesetz Niedersachsen Nordrhein Westfalen im Schulrecht der L�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schulgesetz Niedersachsen Nordrhein Westfalen** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schulgesetz Niedersachsen Nordrhein Westfalen** ordnet den Fall über die tragenden Prüffelder: Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

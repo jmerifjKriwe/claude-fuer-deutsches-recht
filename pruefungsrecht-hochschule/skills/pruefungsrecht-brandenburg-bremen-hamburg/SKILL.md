@@ -7,7 +7,7 @@ description: "Brandenburg Bremen Hamburg im Prüfungsrecht der Hochschule: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Brandenburg Bremen Hamburg** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft Hochschulprüfungsrecht in Brandenburg mit, Prüfungsordnung, Prüft Hochschulprüfungsrecht in Bremen mit Hochschulgesetz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Brandenburg Bremen Hamburg** ordnet den Fall über die tragenden Prüffelder: Prüft Hochschulprüfungsrecht in Brandenburg mit, Prüfungsordnung, Prüft Hochschulprüfungsrecht in Bremen mit Hochschulgesetz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

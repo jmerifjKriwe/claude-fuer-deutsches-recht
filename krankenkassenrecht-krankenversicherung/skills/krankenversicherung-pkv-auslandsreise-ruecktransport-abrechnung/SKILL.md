@@ -7,7 +7,7 @@ description: "PKV Auslandsreise Ruecktransport Abrechnung im Krankenkassenrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PKV Auslandsreise Ruecktransport Abrechnung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von PKV-Leistungen auf Auslandsreisen, Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung, Erstattung von Heilpraktiker-Behandlungen und alternativer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PKV Auslandsreise Ruecktransport Abrechnung** ordnet den Fall über die tragenden Prüffelder: PKV-Leistungen auf Auslandsreisen, Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung, Erstattung von Heilpraktiker-Behandlungen und alternativer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

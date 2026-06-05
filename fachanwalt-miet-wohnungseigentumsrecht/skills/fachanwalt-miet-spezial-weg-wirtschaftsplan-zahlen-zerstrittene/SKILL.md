@@ -7,7 +7,7 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spezial WEG Wirtschaftsplan Zahlen Zerstrittene** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spezial WEG Wirtschaftsplan Zahlen Zerstrittene** ordnet den Fall über die tragenden Prüffelder: WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

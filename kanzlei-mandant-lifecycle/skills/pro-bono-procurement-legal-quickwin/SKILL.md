@@ -7,7 +7,7 @@ description: "PRO Bono Procurement Legal Quickwin im Plugin Kanzlei Mandant Life
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PRO Bono Procurement Legal Quickwin** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Pro Bono und Low Bono, Procurement Legal Interface, Quickwin-Identifikation und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PRO Bono Procurement Legal Quickwin** ordnet den Fall über die tragenden Prüffelder: Pro Bono und Low Bono, Procurement Legal Interface, Quickwin-Identifikation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

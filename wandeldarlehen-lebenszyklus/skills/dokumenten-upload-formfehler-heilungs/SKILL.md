@@ -7,7 +7,7 @@ description: "Dokumenten Upload Formfehler Heilungs im Plugin Wandeldarlehen Leb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dokumenten Upload Formfehler Heilungs** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Hochgeladene Wandeldarlehens-Dokumente analysieren und, Formfehler in Wandeldarlehen oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dokumenten Upload Formfehler Heilungs** ordnet den Fall über die tragenden Prüffelder: Hochgeladene Wandeldarlehens-Dokumente analysieren und, Formfehler in Wandeldarlehen oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

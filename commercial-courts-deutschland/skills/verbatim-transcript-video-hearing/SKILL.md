@@ -7,7 +7,7 @@ description: "Verbatim Transcript Video Hearing im Commercial Courts in Deutschl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbatim Transcript Video Hearing** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Plant das Wortprotokoll/verbatim transcript, Prüft Videoverhandlung, hybride Beweisaufnahme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbatim Transcript Video Hearing** ordnet den Fall über die tragenden Prüffelder: Plant das Wortprotokoll/verbatim transcript, Prüft Videoverhandlung, hybride Beweisaufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

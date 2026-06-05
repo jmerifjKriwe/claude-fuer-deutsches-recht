@@ -7,7 +7,7 @@ description: "Recherche Strategie Tools Marktuebersicht im Plugin Patentrecherch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Recherche Strategie Tools Marktuebersicht** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche. Im Mittelpunkt steht die Prüfung von Recherche-Strategie Keywords und Klassifikationen, Marktuebersicht Recherche-Tools, Formaler Recherchebericht für den Mandanten oder die Akte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Recherche Strategie Tools Marktuebersicht** ordnet den Fall über die tragenden Prüffelder: Recherche-Strategie Keywords und Klassifikationen, Marktuebersicht Recherche-Tools, Formaler Recherchebericht für den Mandanten oder die Akte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

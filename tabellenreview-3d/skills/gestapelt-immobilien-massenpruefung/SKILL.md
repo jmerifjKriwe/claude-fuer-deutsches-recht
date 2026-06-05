@@ -7,7 +7,7 @@ description: "Gestapelt Immobilien Massenpruefung im Plugin Tabellenreview 3D: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gestapelt Immobilien Massenpruefung** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Gestapelt, Immobilien, Massenpruefung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gestapelt Immobilien Massenpruefung** ordnet den Fall über die tragenden Prüffelder: Gestapelt, Immobilien, Massenpruefung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Chemikalien Reach Cites im Außenwirtschaftsrecht, Zoll und Sankti
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Chemikalien Reach Cites** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von REACH-Konformitaet und PIC-Verfahren (Prior Informed, Artenschutz-Pflichten bei Im- und Export von, Exportkontrolle im Hochschul- und Forschungskontext und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Chemikalien Reach Cites** ordnet den Fall über die tragenden Prüffelder: REACH-Konformitaet und PIC-Verfahren (Prior Informed, Artenschutz-Pflichten bei Im- und Export von, Exportkontrolle im Hochschul- und Forschungskontext. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Sachliche GVG Verjaehrungsfrist BGB im Selbstvertretung am Amtsger
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachliche GVG Verjaehrungsfrist BGB** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachliche GVG Verjaehrungsfrist BGB** ordnet den Fall über die tragenden Prüffelder: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

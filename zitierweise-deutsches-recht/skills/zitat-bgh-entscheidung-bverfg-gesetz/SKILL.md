@@ -7,7 +7,7 @@ description: "Zitat BGH Entscheidung Bverfg Gesetz im Zitierweise im deutschen R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zitat BGH Entscheidung Bverfg Gesetz** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von BGH-Entscheidung korrekt zitieren, BVerfG-Entscheidung zitieren, Gesetz/Verordnung zitieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zitat BGH Entscheidung Bverfg Gesetz** ordnet den Fall über die tragenden Prüffelder: BGH-Entscheidung korrekt zitieren, BVerfG-Entscheidung zitieren, Gesetz/Verordnung zitieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

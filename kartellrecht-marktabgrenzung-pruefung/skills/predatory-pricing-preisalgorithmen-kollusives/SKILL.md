@@ -7,7 +7,7 @@ description: "Predatory Pricing Preisalgorithmen Kollusives im Kartellrecht (Mar
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Predatory Pricing Preisalgorithmen Kollusives** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Predatory Pricing Kampfpreise, Preisalgorithmen kollusives Risiko, Preisbindung der zweiten Hand RPM und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Predatory Pricing Preisalgorithmen Kollusives** ordnet den Fall über die tragenden Prüffelder: Predatory Pricing Kampfpreise, Preisalgorithmen kollusives Risiko, Preisbindung der zweiten Hand RPM. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

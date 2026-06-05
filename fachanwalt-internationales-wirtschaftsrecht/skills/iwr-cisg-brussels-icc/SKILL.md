@@ -7,7 +7,7 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IWR CISG Brussels ICC** als zusammenhängenden Arbeitsgang im Internationalen Wirtschaftsrecht. Im Mittelpunkt steht die Prüfung von Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüffelder: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

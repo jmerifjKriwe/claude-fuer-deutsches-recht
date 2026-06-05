@@ -7,7 +7,7 @@ description: "Beihilfe Einwendungen Belegarzt Konsiliararzt im Plugin Goae Gebue
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beihilfe Einwendungen Belegarzt Konsiliararzt** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von Beihilfe Einwendungen und Differenzbetrag, Belegarzt und Konsiliararzt Abrechnung, Berufsrecht überhöhte Liquidation. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beihilfe Einwendungen Belegarzt Konsiliararzt** ordnet den Fall über die tragenden Prüffelder: Beihilfe Einwendungen und Differenzbetrag, Belegarzt und Konsiliararzt Abrechnung, Berufsrecht überhöhte Liquidation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

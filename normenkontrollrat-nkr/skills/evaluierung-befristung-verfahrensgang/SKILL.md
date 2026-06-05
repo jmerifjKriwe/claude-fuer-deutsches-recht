@@ -7,7 +7,7 @@ description: "Evaluierung Befristung Verfahrensgang im Plugin Normenkontrollrat 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Evaluierung Befristung Verfahrensgang** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Praxis-Skill zur Empfehlung von Evaluierungsklauseln, Skizziert den Verfahrensgang eines Vorhabens von der. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Evaluierung Befristung Verfahrensgang** ordnet den Fall über die tragenden Prüffelder: Praxis-Skill zur Empfehlung von Evaluierungsklauseln, Skizziert den Verfahrensgang eines Vorhabens von der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Rettungsdienst Schnittstelle im Plugin Krankenhausrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rettungsdienst Schnittstelle** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung und Level Ii-Klinik nach, Strahlenschutz Radiologie Nuklearmedizin. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rettungsdienst Schnittstelle** ordnet den Fall über die tragenden Prüffelder: Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung und Level Ii-Klinik nach, Strahlenschutz Radiologie Nuklearmedizin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

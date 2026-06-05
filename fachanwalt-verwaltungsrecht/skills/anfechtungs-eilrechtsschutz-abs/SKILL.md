@@ -7,7 +7,7 @@ description: "Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfechtungs Eilrechtsschutz ABS** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Anfechtungs, Eilrechtsschutz nach § 80 Abs, Eilrechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfechtungs Eilrechtsschutz ABS** ordnet den Fall über die tragenden Prüffelder: Anfechtungs, Eilrechtsschutz nach § 80 Abs, Eilrechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Inso Tabelle Verbraucherinsolvenz Leitfaden im Plugin Insolvenzrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Tabelle Verbraucherinsolvenz Leitfaden** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Tabelle und Feststellung, Leitfaden Verbraucherinsolvenz §§ 304 ff, Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Tabelle Verbraucherinsolvenz Leitfaden** ordnet den Fall über die tragenden Prüffelder: Spezialfall Tabelle und Feststellung, Leitfaden Verbraucherinsolvenz §§ 304 ff, Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

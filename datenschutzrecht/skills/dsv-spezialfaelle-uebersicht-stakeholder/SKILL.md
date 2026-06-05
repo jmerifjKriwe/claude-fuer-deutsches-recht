@@ -7,7 +7,7 @@ description: "DSV Spezialfaelle Uebersicht Stakeholder im Datenschutzrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSV Spezialfaelle Uebersicht Stakeholder** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Liefert eine schnelle Übersicht über häufige Spezialfälle, Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSV Spezialfaelle Uebersicht Stakeholder** ordnet den Fall über die tragenden Prüffelder: Liefert eine schnelle Übersicht über häufige Spezialfälle, Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

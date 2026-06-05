@@ -7,7 +7,7 @@ description: "Kueschk Triage Laie Vergleichsverhandlung im Plugin Arbeitsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kueschk Triage Laie Vergleichsverhandlung** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von KERNEINSTIEG Kündigungsschutzklage, Checkliste für Kündigungsschutz-Vergleiche, Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kueschk Triage Laie Vergleichsverhandlung** ordnet den Fall über die tragenden Prüffelder: KERNEINSTIEG Kündigungsschutzklage, Checkliste für Kündigungsschutz-Vergleiche, Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

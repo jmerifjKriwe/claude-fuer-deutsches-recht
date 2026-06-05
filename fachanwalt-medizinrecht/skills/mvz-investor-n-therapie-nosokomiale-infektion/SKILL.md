@@ -7,7 +7,7 @@ description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **MVZ Investor N Therapie Nosokomiale Infektion** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**MVZ Investor N Therapie Nosokomiale Infektion** ordnet den Fall über die tragenden Prüffelder: Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

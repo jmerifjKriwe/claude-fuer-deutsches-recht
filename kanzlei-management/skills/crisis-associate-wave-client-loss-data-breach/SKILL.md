@@ -7,7 +7,7 @@ description: "Crisis Associate Wave Client Loss Data Breach im Kanzlei-Managemen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Crisis Associate Wave Client Loss Data Breach** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Reagiert auf mehrere Kündigungen mit Ursachenanalyse und, Analysiert Mandantenverlust, Cash-Auswirkung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Crisis Associate Wave Client Loss Data Breach** ordnet den Fall über die tragenden Prüffelder: Reagiert auf mehrere Kündigungen mit Ursachenanalyse und, Analysiert Mandantenverlust, Cash-Auswirkung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

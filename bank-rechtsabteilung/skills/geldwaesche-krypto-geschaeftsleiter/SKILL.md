@@ -7,7 +7,7 @@ description: "Geldwaesche Krypto Geschaeftsleiter im Plugin Bank Rechtsabteilung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche Krypto Geschaeftsleiter** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Krypto-AML und Wallet-Screening für Banken prüfen, Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche Krypto Geschaeftsleiter** ordnet den Fall über die tragenden Prüffelder: Krypto-AML und Wallet-Screening für Banken prüfen, Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

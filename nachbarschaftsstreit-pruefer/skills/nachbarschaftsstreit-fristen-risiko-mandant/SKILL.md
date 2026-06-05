@@ -7,7 +7,7 @@ description: "Fristen Risiko Mandant im Nachbarschaftsstreit: prüft konkret Fri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristen Risiko Mandant** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin nachbarschaftsstreit-pruefer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristen Risiko Mandant** ordnet den Fall über die tragenden Prüffelder: Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin nachbarschaftsstreit-pruefer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

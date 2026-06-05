@@ -7,7 +7,7 @@ description: "Grundrechtspruefung Acht Formelle Interessen im Plugin Verfassungs
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Grundrechtspruefung Acht Formelle Interessen** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen, Acht, Formelle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Grundrechtspruefung Acht Formelle Interessen** ordnet den Fall über die tragenden Prüffelder: Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen, Acht, Formelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Widerspruch Gegen Leistungsablehnung im Krankenkassenrecht / Krank
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Widerspruch Gegen Leistungsablehnung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Widerspruchsverfahren nach §§ 83 ff, Einstweiliger Rechtsschutz nach § 86b SGG, Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Widerspruch Gegen Leistungsablehnung** ordnet den Fall über die tragenden Prüffelder: Widerspruchsverfahren nach §§ 83 ff, Einstweiliger Rechtsschutz nach § 86b SGG, Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

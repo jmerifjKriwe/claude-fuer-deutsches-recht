@@ -7,7 +7,7 @@ description: "VO Hochrisiko Kirk Fortbildung Bauleiter im Plugin Ki Richtlinie K
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VO Hochrisiko Kirk Fortbildung Bauleiter** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von KI-VO Hochrisiko-Anforderungen für Personalwesen in, Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft, Bauleiter KI-Richtlinie fuer Kanzlei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VO Hochrisiko Kirk Fortbildung Bauleiter** ordnet den Fall über die tragenden Prüffelder: KI-VO Hochrisiko-Anforderungen für Personalwesen in, Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft, Bauleiter KI-Richtlinie fuer Kanzlei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

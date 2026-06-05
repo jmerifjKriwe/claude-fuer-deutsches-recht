@@ -7,7 +7,7 @@ description: "KI VO Laienmodus Robotikrecht Litigation im Robotik- und KI-Recht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI VO Laienmodus Robotikrecht Litigation** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI VO Laienmodus Robotikrecht Litigation** ordnet den Fall über die tragenden Prüffelder: Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

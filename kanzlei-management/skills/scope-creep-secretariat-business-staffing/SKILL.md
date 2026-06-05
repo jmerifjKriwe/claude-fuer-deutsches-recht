@@ -7,7 +7,7 @@ description: "Scope Creep Secretariat Business Staffing im Kanzlei-Management: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Scope Creep Secretariat Business Staffing** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Erkennt kriechende Mandatserweiterung und erzeugt, Stärkt Assistenz, Finance und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Scope Creep Secretariat Business Staffing** ordnet den Fall über die tragenden Prüffelder: Erkennt kriechende Mandatserweiterung und erzeugt, Stärkt Assistenz, Finance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Buergergeld Rentner im Krankenkassenrecht / Krankenversicherung: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Buergergeld Rentner** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Krankenversicherung bei Bürgergeld-Bezug (SGB II) und, Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Buergergeld Rentner** ordnet den Fall über die tragenden Prüffelder: Krankenversicherung bei Bürgergeld-Bezug (SGB II) und, Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

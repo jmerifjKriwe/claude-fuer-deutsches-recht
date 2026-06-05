@@ -7,7 +7,7 @@ description: "Fran USA Franchise EU Vertikal im Franchiserecht: prüft konkret U
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran USA Franchise EU Vertikal** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von US-Franchise-Disclosure-Dokument (FDD) mit deutschem, EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden, Informationsaustausch im Franchisesystem kartellrechtlich. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran USA Franchise EU Vertikal** ordnet den Fall über die tragenden Prüffelder: US-Franchise-Disclosure-Dokument (FDD) mit deutschem, EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden, Informationsaustausch im Franchisesystem kartellrechtlich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

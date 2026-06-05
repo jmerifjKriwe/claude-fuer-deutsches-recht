@@ -7,7 +7,7 @@ description: "Schuelerzeitung Pressefreiheit Schulaufnahme im Schulrecht der Lä
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schuelerzeitung Pressefreiheit Schulaufnahme** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schuelerzeitung Pressefreiheit Schulaufnahme** ordnet den Fall über die tragenden Prüffelder: Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

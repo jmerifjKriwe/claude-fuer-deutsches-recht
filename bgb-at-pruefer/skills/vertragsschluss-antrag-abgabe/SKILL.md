@@ -7,7 +7,7 @@ description: "Vertragsschluss Antrag Abgabe im Plugin Bgb At Pruefer: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertragsschluss Antrag Abgabe** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zum Vertragsschluss durch Antrag und Annahme, Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff, Klausurfall zur Abgrenzung von Angebot und invitatio ad. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertragsschluss Antrag Abgabe** ordnet den Fall über die tragenden Prüffelder: Klausurfall zum Vertragsschluss durch Antrag und Annahme, Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff, Klausurfall zur Abgrenzung von Angebot und invitatio ad. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -103,7 +103,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `umweltrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `umweltrecht-uwr-bundesnaturschutzgesetz-eingriff-co2` | UWR Bundesnaturschutzgesetz Eingriff CO2 im Plugin Umweltrecht: prüft konkret Spezialfall Eingriff in Natur und Landschaft §§ 14 ff, Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform, Immissionsschutzrecht Praxis. Liefert priorisi... |
 | `uwr-einfuehrung-rechtsquellen` | Umweltrecht einfuehrend: BImSchG, BNatSchG, WHG, KrWG, BBodSchG, USchadG, EU-IED, REACH. Pro Norm Anwendungsbereich, Aufsicht, typische Mandantenfragen. Entscheidungstabelle. |
-| `uwr-wasserrechtliche` | UWR Wasserrechtliche im Plugin Umweltrecht: Dieser Skill arbeitet UWR Wasserrechtliche als zusammenhängenden Arbeitsgang im Plugin Umweltrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `uwr-wasserrechtliche` | UWR Wasserrechtliche im Plugin Umweltrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `wasser-abfall-circular-umweltrecht-schulung` | Wasser Abfall Circular Umweltrecht Schulung im Plugin Umweltrecht: prüft konkret Wasser, Unternehmen oder Anlagenbetreiber hat Abfall-Frage, Anlagenbetreiber muss Umwelt-Compliance-Schulungen und. Liefert priorisierten Output mit Norm-Pi... |
 | `wasser-bodenschutz-uwr-altlasten-bimschg` | Wasser Bodenschutz UWR Altlasten Bimschg im Plugin Umweltrecht: prüft konkret Unternehmen beantragt WHG-Erlaubnis oder hat, Spezialfall Altlastenpruefung, Bauleiter BImSchG-Genehmigung. Liefert priorisierten Output mit Norm-Pinpoints, Ri... |
 

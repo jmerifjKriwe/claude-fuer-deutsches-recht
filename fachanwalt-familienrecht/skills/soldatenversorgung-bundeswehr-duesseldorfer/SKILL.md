@@ -7,7 +7,7 @@ description: "Soldatenversorgung Bundeswehr Duesseldorfer im Plugin Fachanwalt F
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Soldatenversorgung Bundeswehr Duesseldorfer** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer, Eingetragene und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Soldatenversorgung Bundeswehr Duesseldorfer** ordnet den Fall über die tragenden Prüffelder: Soldatenversorgung Bundeswehr Schnittstelle, Duesseldorfer, Eingetragene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

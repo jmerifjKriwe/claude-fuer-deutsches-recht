@@ -102,6 +102,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `verkehrsplanung-verkehrswende` | Verkehrsplanung Verkehrswende im Verkehrs- und Infrastrukturrecht: prüft konkret Verkehrsplanung rechtlich begleiten, Verkehrswende-Massnahmen rechtssicher gestalten, Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich. Liefert p... |
 | `vi-rechtsquellen-uebersicht` | Rechtsquellen Verkehrs- und Infrastrukturrecht: BFStrG, PBefG, AEG, EnWG-Trasse, BImSchG, BNatSchG, WHG, VwVfG, UVPG. Pro Norm: Anwendungsbereich, Verfahrensart, Aufsicht. Entscheidungstabelle fuer ein konkretes Infrastrukturvorhaben. |
 | `vifr-aeg-bahnrecht-deutschlandticket` | Vifr AEG Bahnrecht Deutschlandticket im Verkehrs- und Infrastrukturrecht: prüft konkret Leitfaden AEG und Bahnrecht, Spezialfall Deutschlandticket und Tarifrecht OePNV, Spezialfall Luftverkehrsrecht und Flughafenausbau. Liefert priorisie... |
-| `vifr-planfeststellung` | Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht: Dieser Skill arbeitet Vifr Planfeststellung als zusammenhängenden Arbeitsgang im Plugin Verkehr-/Infrastrukturrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewü... |
+| `vifr-planfeststellung` | Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

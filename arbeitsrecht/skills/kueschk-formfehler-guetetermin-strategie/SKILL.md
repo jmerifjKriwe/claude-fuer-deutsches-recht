@@ -7,7 +7,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kueschk Formfehler Guetetermin Strategie** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Formfehler-Prüfung bei Kündigungen, Guetetermin nach § 54 ArbGG, Kammertermin Hauptverhandlung im Kündigungsschutzprozess und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kueschk Formfehler Guetetermin Strategie** ordnet den Fall über die tragenden Prüffelder: Formfehler-Prüfung bei Kündigungen, Guetetermin nach § 54 ArbGG, Kammertermin Hauptverhandlung im Kündigungsschutzprozess. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

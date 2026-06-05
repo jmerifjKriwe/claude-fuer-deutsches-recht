@@ -86,6 +86,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `vlop-quellenkarte` | Vlop Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `werbearchiv-aufbauen-klage-gegen-account` | Werbearchiv Aufbauen Klage Gegen Account im DSA/DMA-Digitalregulierung: prüft konkret Werbearchiv nach Art, Nichtigkeitsklage gegen Designations-Beschluss der, Account. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und näc... |
 | `zustellung-fehlerkatalog` | Zustellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `zustellung-vertreter` | Zustellung Vertreter im DSA/DMA-Digitalregulierung: Dieser Skill arbeitet Zustellung Vertreter als zusammenhängenden Arbeitsgang im Plugin DSA/DMA Digitalregulierung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem O... |
+| `zustellung-vertreter` | Zustellung Vertreter im DSA/DMA-Digitalregulierung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

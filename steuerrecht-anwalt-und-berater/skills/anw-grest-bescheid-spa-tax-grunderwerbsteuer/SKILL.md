@@ -7,7 +7,7 @@ description: "ANW Grest Bescheid SPA TAX Grunderwerbsteuer im Steuerrecht (Anwal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ANW Grest Bescheid SPA TAX Grunderwerbsteuer** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von GrESt-Bescheid prüfen und angreifen, GrESt im SPA vertraglich absichern, Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ANW Grest Bescheid SPA TAX Grunderwerbsteuer** ordnet den Fall über die tragenden Prüffelder: GrESt-Bescheid prüfen und angreifen, GrESt im SPA vertraglich absichern, Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

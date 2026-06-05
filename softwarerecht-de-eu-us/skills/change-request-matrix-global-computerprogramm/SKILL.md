@@ -7,7 +7,7 @@ description: "Change Request Matrix Global Computerprogramm im Softwarerecht (DE
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Change Request Matrix Global Computerprogramm** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Kontrolliert Change Requests, Scope Creep, Mehrvergütung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Change Request Matrix Global Computerprogramm** ordnet den Fall über die tragenden Prüffelder: Kontrolliert Change Requests, Scope Creep, Mehrvergütung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

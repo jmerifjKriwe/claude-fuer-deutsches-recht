@@ -7,7 +7,7 @@ description: "Rechtsabteilung Scheinselbststaendigkeit im Handelsvertreterrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Scheinselbststaendigkeit** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des, Analysiert Berichts- und Informationspflichten des, Prüft Auswirkungen von Retouren und Reklamationen auf den und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Scheinselbststaendigkeit** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des, Analysiert Berichts- und Informationspflichten des, Prüft Auswirkungen von Retouren und Reklamationen auf den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

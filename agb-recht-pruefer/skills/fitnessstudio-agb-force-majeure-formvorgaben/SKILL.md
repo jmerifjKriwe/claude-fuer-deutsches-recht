@@ -7,7 +7,7 @@ description: "Fitnessstudio AGB Force Majeure Formvorgaben im AGB-Recht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fitnessstudio AGB Force Majeure Formvorgaben** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Branchen-Fachmodul für Fitnessstudio AGB, Force Majeure Höhere Gewalt, Formvorgaben Anzeigen Erklärungen 309 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fitnessstudio AGB Force Majeure Formvorgaben** ordnet den Fall über die tragenden Prüffelder: Branchen-Fachmodul für Fitnessstudio AGB, Force Majeure Höhere Gewalt, Formvorgaben Anzeigen Erklärungen 309. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

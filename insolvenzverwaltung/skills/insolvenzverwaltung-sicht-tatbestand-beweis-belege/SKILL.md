@@ -1,13 +1,13 @@
 ---
 name: insolvenzverwaltung-sicht-tatbestand-beweis-belege
-description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung: Dieser Skill arbeitet Sicht Tatbestand Beweis Belege als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Sicht Tatbestand Beweis Belege
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Sicht Tatbestand Beweis Belege** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Sicht Tatbestand Beweis Belege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Delikt Organisationspflicht Psychische im Plugin Bgb Bt Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Delikt Organisationspflicht Psychische** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Organisationspflichten im Deliktsrecht, Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht, Prüft Verkehrssicherungspflichten im digitalen Raum. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Delikt Organisationspflicht Psychische** ordnet den Fall über die tragenden Prüffelder: Prüft Organisationspflichten im Deliktsrecht, Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht, Prüft Verkehrssicherungspflichten im digitalen Raum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

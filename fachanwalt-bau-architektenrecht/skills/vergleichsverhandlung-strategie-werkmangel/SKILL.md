@@ -7,7 +7,7 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vergleichsverhandlung Strategie Werkmangel** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vergleichsverhandlung Strategie Werkmangel** ordnet den Fall über die tragenden Prüffelder: Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

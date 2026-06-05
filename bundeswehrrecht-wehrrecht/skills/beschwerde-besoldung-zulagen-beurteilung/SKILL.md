@@ -7,7 +7,7 @@ description: "Beschwerde Besoldung Zulagen Beurteilung im Bundeswehrrecht / Wehr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beschwerde Besoldung Zulagen Beurteilung** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Beschwerde gegen Beurteilung und Laufbahnentscheidung, Besoldung, Zulagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beschwerde Besoldung Zulagen Beurteilung** ordnet den Fall über die tragenden Prüffelder: Beschwerde gegen Beurteilung und Laufbahnentscheidung, Besoldung, Zulagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

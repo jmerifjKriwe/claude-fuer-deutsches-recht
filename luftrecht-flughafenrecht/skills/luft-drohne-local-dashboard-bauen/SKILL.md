@@ -7,7 +7,7 @@ description: "Luft Drohne Local Dashboard Bauen im Plugin Luftrecht Flughafenrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Drohne Local Dashboard Bauen** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Drohnenbetreiber oder Regulierer braucht Dashboard fuer, Anwalt schreibt Mandantenmemo fuer Drohnenbetreiber zu und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Drohne Local Dashboard Bauen** ordnet den Fall über die tragenden Prüffelder: Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Drohnenbetreiber oder Regulierer braucht Dashboard fuer, Anwalt schreibt Mandantenmemo fuer Drohnenbetreiber zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

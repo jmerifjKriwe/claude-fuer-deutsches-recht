@@ -74,6 +74,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `telefonat-behoerde-unterschrift-vollmacht` | Telefonat Behoerde Unterschrift Vollmacht im Bereich Juristische Sprache (DaZ): prüft konkret Hilft bei Telefonat Mit Behoerde Vorbereiten fuer Menschen, Hilft bei Unterschrift Vollmacht fuer Menschen mit Deutsch. Liefert priorisierten O... |
 | `vertrag-einfach-aktenzeichen-betreff` | Vertrag Einfach Aktenzeichen Betreff im Bereich Juristische Sprache (DaZ): prüft konkret Hilft bei Vertrag Einfach Verstehen fuer Menschen mit, Hilft bei Aktenzeichen Und Betreff fuer Menschen mit. Liefert priorisierten Output mit Norm-P... |
 | `widerspruch-einfach-zivilprozess-warnwoerter` | Widerspruch Einfach Zivilprozess Warnwoerter im Bereich Juristische Sprache (DaZ): prüft konkret Hilft bei Widerspruch Einfach Formulieren fuer Menschen mit, Hilft bei Zivilprozess Warnwoerter fuer Menschen mit. Liefert priorisierten Out... |
-| `zustellung-postfach` | Zustellung Postfach im Bereich Juristische Sprache (DaZ): Dieser Skill arbeitet Zustellung Postfach als zusammenhängenden Arbeitsgang im Plugin Juristische Sprache Deutsch Als Zweitsprache ab — nach Aktenlage, Frist, Zuständigkeit, Bewei... |
+| `zustellung-postfach` | Zustellung Postfach im Bereich Juristische Sprache (DaZ): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

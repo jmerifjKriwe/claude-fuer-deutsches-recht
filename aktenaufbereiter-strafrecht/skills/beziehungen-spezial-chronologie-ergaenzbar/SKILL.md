@@ -7,7 +7,7 @@ description: "Beziehungen Spezial Chronologie Ergaenzbar im Strafakten-Aufbereit
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beziehungen Spezial Chronologie Ergaenzbar** als zusammenhängenden Arbeitsgang im Strafakten-Aufbereitung. Im Mittelpunkt steht die Prüfung von Beziehungen, Chronologie, Ergaenzbar. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beziehungen Spezial Chronologie Ergaenzbar** ordnet den Fall über die tragenden Prüffelder: Beziehungen, Chronologie, Ergaenzbar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

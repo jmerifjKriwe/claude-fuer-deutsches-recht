@@ -7,7 +7,7 @@ description: "IV Regelverfahren Insolvenzverwalter im Plugin Insolvenzverwaltung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Regelverfahren Insolvenzverwalter** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen, Insolvenzverwalter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Regelverfahren Insolvenzverwalter** ordnet den Fall über die tragenden Prüffelder: Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen, Insolvenzverwalter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Strukturierter Strafprozess Modus im Aktenauszug-Praxis: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strukturierter Strafprozess Modus** als zusammenhängenden Arbeitsgang im Aktenauszug-Praxis. Im Mittelpunkt steht die Prüfung von Strukturierter, Aktenauszug für StPO-Verfahren erstellen, Aktenauszug für VwGO-Verfahren erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strukturierter Strafprozess Modus** ordnet den Fall über die tragenden Prüffelder: Strukturierter, Aktenauszug für StPO-Verfahren erstellen, Aktenauszug für VwGO-Verfahren erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

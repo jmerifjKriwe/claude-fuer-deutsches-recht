@@ -7,7 +7,7 @@ description: "KI Service Kollisionsrecht IPR Konto im AGB-Recht: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Service Kollisionsrecht IPR Konto** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Branchen-Fachmodul für KI Service AGB, Einstiegs- und Prüffeld für Kollisionsrecht IPR AGB, Konto Kündigung Sperre und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Service Kollisionsrecht IPR Konto** ordnet den Fall über die tragenden Prüffelder: Branchen-Fachmodul für KI Service AGB, Einstiegs- und Prüffeld für Kollisionsrecht IPR AGB, Konto Kündigung Sperre. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

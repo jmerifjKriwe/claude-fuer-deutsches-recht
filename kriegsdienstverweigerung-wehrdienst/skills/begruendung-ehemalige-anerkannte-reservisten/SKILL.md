@@ -7,7 +7,7 @@ description: "Begruendung Ehemalige Anerkannte Reservisten im Kriegsdienstverwei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Begruendung Ehemalige Anerkannte Reservisten** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft Widerspruch zwischen alter Anerkennung und späterer, Spezialwerkstatt für Reservisten mit früherem Dienst und, Spezialwerkstatt für ungediente Antragsteller ohne und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Begruendung Ehemalige Anerkannte Reservisten** ordnet den Fall über die tragenden Prüffelder: Prüft Widerspruch zwischen alter Anerkennung und späterer, Spezialwerkstatt für Reservisten mit früherem Dienst und, Spezialwerkstatt für ungediente Antragsteller ohne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

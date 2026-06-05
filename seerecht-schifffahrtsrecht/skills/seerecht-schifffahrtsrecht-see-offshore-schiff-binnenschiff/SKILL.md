@@ -7,7 +7,7 @@ description: "SEE Offshore Schiff Binnenschiff im Plugin Seerecht Schifffahrtsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SEE Offshore Schiff Binnenschiff** als zusammenhängenden Arbeitsgang im Plugin Seerecht Schifffahrtsrecht. Im Mittelpunkt steht die Prüfung von Offshore-Schiff, Binnenschiff, Kreuzfahrtschiff und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SEE Offshore Schiff Binnenschiff** ordnet den Fall über die tragenden Prüffelder: Offshore-Schiff, Binnenschiff, Kreuzfahrtschiff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

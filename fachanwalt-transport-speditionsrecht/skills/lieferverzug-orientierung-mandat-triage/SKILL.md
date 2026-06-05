@@ -7,7 +7,7 @@ description: "Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Trans
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lieferverzug Orientierung Mandat Triage** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lieferverzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

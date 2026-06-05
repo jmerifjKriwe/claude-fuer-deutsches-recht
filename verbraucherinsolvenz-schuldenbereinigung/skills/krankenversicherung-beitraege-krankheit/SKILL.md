@@ -7,7 +7,7 @@ description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsol
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Krankenversicherung Beitraege Krankheit** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Krankenversicherung und Beiträge, Krankheit, Pflege. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Krankenversicherung Beitraege Krankheit** ordnet den Fall über die tragenden Prüffelder: Krankenversicherung und Beiträge, Krankheit, Pflege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

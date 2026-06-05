@@ -7,7 +7,7 @@ description: "INS Guidance Analystencall im Insiderrecht und Compliance: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Guidance Analystencall** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft wann ein Guidance-Update (Prognoseaenderung) zur, Sichert Analysten-Calls und Investorenkommunikation gegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Guidance Analystencall** ordnet den Fall über die tragenden Prüffelder: Prueft wann ein Guidance-Update (Prognoseaenderung) zur, Sichert Analysten-Calls und Investorenkommunikation gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

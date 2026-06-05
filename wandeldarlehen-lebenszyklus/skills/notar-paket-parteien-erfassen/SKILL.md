@@ -7,7 +7,7 @@ description: "Notar Paket Parteien Erfassen im Plugin Wandeldarlehen Lebenszyklu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notar Paket Parteien Erfassen** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Notarpaket für Beurkundungstermin bei Kapitalerhohung durch, Vertragsparteien eines Wandeldarlehens vollständig. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notar Paket Parteien Erfassen** ordnet den Fall über die tragenden Prüffelder: Notarpaket für Beurkundungstermin bei Kapitalerhohung durch, Vertragsparteien eines Wandeldarlehens vollständig. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

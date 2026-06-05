@@ -7,7 +7,7 @@ description: "Gewissensentscheidung Massstab Glossar KDV im Kriegsdienstverweige
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gewissensentscheidung Massstab Glossar KDV** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im K, Erklärt Wehrpflicht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gewissensentscheidung Massstab Glossar KDV** ordnet den Fall über die tragenden Prüffelder: Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im K, Erklärt Wehrpflicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

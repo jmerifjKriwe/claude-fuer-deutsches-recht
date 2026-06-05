@@ -7,7 +7,7 @@ description: "Vorkasse Abschlag Wartung Maintenance Website im AGB-Recht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorkasse Abschlag Wartung Maintenance Website** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Vorkasse Abschlag Sicherheit, Branchen-Fachmodul für Wartung Maintenance, Website Update Check und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorkasse Abschlag Wartung Maintenance Website** ordnet den Fall über die tragenden Prüffelder: Vorkasse Abschlag Sicherheit, Branchen-Fachmodul für Wartung Maintenance, Website Update Check. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

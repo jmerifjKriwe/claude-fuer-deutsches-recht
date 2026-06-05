@@ -7,7 +7,7 @@ description: "Notfallplan BCM Open Source Patch Management im NIS2-Cybersecurity
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notfallplan BCM Open Source Patch Management** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Notfallmanagement und Business Continuity für echte, Prüft Open-Source-Sicherheitslücken in Produkten und, Prüft Patch-Management bei Servern und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notfallplan BCM Open Source Patch Management** ordnet den Fall über die tragenden Prüffelder: Prüft Notfallmanagement und Business Continuity für echte, Prüft Open-Source-Sicherheitslücken in Produkten und, Prüft Patch-Management bei Servern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

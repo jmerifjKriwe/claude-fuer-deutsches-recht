@@ -7,7 +7,7 @@ description: "TK Regulierungsakte TK Akteneinsicht im Bundesnetzagentur-Verfahre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Regulierungsakte TK Akteneinsicht** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Nummernverwaltung, Rufnummernmissbrauch, Verfahren / Akteneinsicht Drittbeteiligte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Regulierungsakte TK Akteneinsicht** ordnet den Fall über die tragenden Prüffelder: Nummernverwaltung, Rufnummernmissbrauch, Verfahren / Akteneinsicht Drittbeteiligte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

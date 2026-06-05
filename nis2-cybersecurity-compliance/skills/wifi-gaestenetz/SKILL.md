@@ -1,13 +1,13 @@
 ---
 name: wifi-gaestenetz
-description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance: Dieser Skill arbeitet Wifi Gaestenetz als zusammenhängenden Arbeitsgang im Plugin Nis2 Cybersecurity Compliance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wifi Gaestenetz
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wifi Gaestenetz** als zusammenhängenden Arbeitsgang im Plugin Nis2 Cybersecurity Compliance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wifi Gaestenetz** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

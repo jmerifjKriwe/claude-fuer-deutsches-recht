@@ -7,7 +7,7 @@ description: "Immo Grundschuld Bestellung Makler Honorar im Plugin Immobilienrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immo Grundschuld Bestellung Makler Honorar** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Grundschuldbestellung, Maklervertrag und Honorar, Wohnungseigentumsrecht Grundlagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immo Grundschuld Bestellung Makler Honorar** ordnet den Fall über die tragenden Prüffelder: Grundschuldbestellung, Maklervertrag und Honorar, Wohnungseigentumsrecht Grundlagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

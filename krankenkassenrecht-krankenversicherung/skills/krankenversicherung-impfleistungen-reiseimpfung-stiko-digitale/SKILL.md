@@ -7,7 +7,7 @@ description: "Impfleistungen Reiseimpfung Stiko Digitale im Krankenkassenrecht /
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Impfleistungen Reiseimpfung Stiko Digitale** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von GKV-Impfleistungen, GKV-Leistungsanspruch auf DiGA (§ 33a SGB V), Digitalisierung im Gesundheitswesen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Impfleistungen Reiseimpfung Stiko Digitale** ordnet den Fall über die tragenden Prüffelder: GKV-Impfleistungen, GKV-Leistungsanspruch auf DiGA (§ 33a SGB V), Digitalisierung im Gesundheitswesen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Minderheitenrechte Partei Mitgliederdaten im Parteienrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Minderheitenrechte Partei Mitgliederdaten** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Minderheitenrechte Partei Mitgliederdaten** ordnet den Fall über die tragenden Prüffelder: Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

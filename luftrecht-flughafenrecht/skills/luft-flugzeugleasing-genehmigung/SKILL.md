@@ -7,7 +7,7 @@ description: "Luft Flugzeugleasing Genehmigung im Plugin Luftrecht Flughafenrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Flugzeugleasing Genehmigung** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Genehmigungsstand fuer geleastes Flugzeug pruefen, Geleaste Flugzeuge unterliegen Sicherheitsauflagen die, Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Flugzeugleasing Genehmigung** ordnet den Fall über die tragenden Prüffelder: Genehmigungsstand fuer geleastes Flugzeug pruefen, Geleaste Flugzeuge unterliegen Sicherheitsauflagen die, Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P109 Schuldner P110 P111 Verausserung** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, § 110 InsO (Schuldner als Vermieter oder Verpächter) im, § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P109 Schuldner P110 P111 Verausserung** ordnet den Fall über die tragenden Prüffelder: § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, § 110 InsO (Schuldner als Vermieter oder Verpächter) im, § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

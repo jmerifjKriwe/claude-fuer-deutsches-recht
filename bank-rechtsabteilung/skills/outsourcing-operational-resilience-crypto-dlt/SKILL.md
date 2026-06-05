@@ -7,7 +7,7 @@ description: "Outsourcing Operational Resilience Crypto DLT im Plugin Bank Recht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Outsourcing Operational Resilience Crypto DLT** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Operational Resilience und Konzentrationsrisiken bei, Crypto-/DLT-Dienstleister und Node Provider auslagern, Externe Dienstleister außerhalb reiner IKT prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Outsourcing Operational Resilience Crypto DLT** ordnet den Fall über die tragenden Prüffelder: Operational Resilience und Konzentrationsrisiken bei, Crypto-/DLT-Dienstleister und Node Provider auslagern, Externe Dienstleister außerhalb reiner IKT prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

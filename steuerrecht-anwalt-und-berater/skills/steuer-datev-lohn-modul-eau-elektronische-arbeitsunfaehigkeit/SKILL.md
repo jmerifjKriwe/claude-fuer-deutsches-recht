@@ -7,7 +7,7 @@ description: "Steuer Datev Lohn Modul EAU Elektronische Arbeitsunfaehigkeit im S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Datev Lohn Modul EAU Elektronische Arbeitsunfaehigkeit** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von DATEV LODAS und Lohn und Gehalt LUG, eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023, eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Datev Lohn Modul EAU Elektronische Arbeitsunfaehigkeit** ordnet den Fall über die tragenden Prüffelder: DATEV LODAS und Lohn und Gehalt LUG, eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023, eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

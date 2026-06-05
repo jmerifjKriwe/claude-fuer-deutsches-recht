@@ -7,7 +7,7 @@ description: "Forderungen Interessen Forderungsmanagement im Plugin Forderungsma
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Forderungen Interessen Forderungsmanagement** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement Klagewerkstatt. Im Mittelpunkt steht die Prüfung von Forderungen, Forderungsmanagement, Gatekeeper. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Forderungen Interessen Forderungsmanagement** ordnet den Fall über die tragenden Prüffelder: Forderungen, Forderungsmanagement, Gatekeeper. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

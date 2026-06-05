@@ -7,7 +7,7 @@ description: "STR Tunnel Unterhaltung Dokumente im Straßenrecht und Infrastrukt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STR Tunnel Unterhaltung Dokumente** als zusammenhängenden Arbeitsgang im Straßenrecht und Infrastruktur. Im Mittelpunkt steht die Prüfung von Straßenrecht und Infrastruktur. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STR Tunnel Unterhaltung Dokumente** ordnet den Fall über die tragenden Prüffelder: Straßenrecht und Infrastruktur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

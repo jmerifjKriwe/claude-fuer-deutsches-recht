@@ -7,7 +7,7 @@ description: "Erbbauzinsrang Finanzierungsbank Erbbaurecht im Plugin Erbbaurecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erbbauzinsrang Finanzierungsbank Erbbaurecht** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung, wie Rang. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erbbauzinsrang Finanzierungsbank Erbbaurecht** ordnet den Fall über die tragenden Prüffelder: Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung, wie Rang. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

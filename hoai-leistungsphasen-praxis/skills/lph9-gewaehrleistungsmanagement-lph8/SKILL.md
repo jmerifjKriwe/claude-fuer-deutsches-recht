@@ -7,7 +7,7 @@ description: "Lph9 Gewaehrleistungsmanagement Lph8 im HOAI-Leistungsphasen: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lph9 Gewaehrleistungsmanagement Lph8** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI-Fachfrage LPH 9, Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung fuer, Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lph9 Gewaehrleistungsmanagement Lph8** ordnet den Fall über die tragenden Prüffelder: HOAI-Fachfrage LPH 9, Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung fuer, Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

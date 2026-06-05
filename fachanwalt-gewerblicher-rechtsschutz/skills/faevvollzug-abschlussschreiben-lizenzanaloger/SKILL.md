@@ -7,7 +7,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Faevvollzug Abschlussschreiben Lizenzanaloger** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Faevvollzug Abschlussschreiben Lizenzanaloger** ordnet den Fall über die tragenden Prüffelder: Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

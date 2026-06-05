@@ -7,7 +7,7 @@ description: "Document Production Earn OUT im Commercial Courts in Deutschland: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Document Production Earn OUT** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Prüft Urkundenvorlage und Dokumentenherausgabe nach, Strukturiert Earn-out- und Kaufpreisanpassungsstreitigkeiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Document Production Earn OUT** ordnet den Fall über die tragenden Prüffelder: Prüft Urkundenvorlage und Dokumentenherausgabe nach, Strukturiert Earn-out- und Kaufpreisanpassungsstreitigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

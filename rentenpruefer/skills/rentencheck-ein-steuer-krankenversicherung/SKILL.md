@@ -7,7 +7,7 @@ description: "Rentencheck EIN Steuer Krankenversicherung im Plugin Rentenpruefer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rentencheck EIN Steuer Krankenversicherung** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Rentencheck ein Jahr vorher, Steuer, Kranken- und Pflegeversicherung der Rentner. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rentencheck EIN Steuer Krankenversicherung** ordnet den Fall über die tragenden Prüffelder: Rentencheck ein Jahr vorher, Steuer, Kranken- und Pflegeversicherung der Rentner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

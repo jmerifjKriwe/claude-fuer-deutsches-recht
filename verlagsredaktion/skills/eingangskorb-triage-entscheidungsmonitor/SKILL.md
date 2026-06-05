@@ -7,7 +7,7 @@ description: "Eingangskorb Triage Entscheidungsmonitor im Verlagsredaktion (Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eingangskorb Triage Entscheidungsmonitor** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eingangskorb Triage Entscheidungsmonitor** ordnet den Fall über die tragenden Prüffelder: Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

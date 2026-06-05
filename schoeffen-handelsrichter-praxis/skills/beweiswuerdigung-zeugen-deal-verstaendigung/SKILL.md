@@ -7,7 +7,7 @@ description: "Beweiswuerdigung Zeugen Deal Verstaendigung im Schöffen- und Hand
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beweiswuerdigung Zeugen Deal Verstaendigung** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Beweiswürdigung von Zeugen, Verständigung im Strafverfahren (Orientierung), Verständigung im Strafverfahren (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beweiswuerdigung Zeugen Deal Verstaendigung** ordnet den Fall über die tragenden Prüffelder: Beweiswürdigung von Zeugen, Verständigung im Strafverfahren (Orientierung), Verständigung im Strafverfahren (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

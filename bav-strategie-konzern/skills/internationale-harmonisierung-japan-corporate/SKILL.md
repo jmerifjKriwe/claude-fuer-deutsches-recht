@@ -7,7 +7,7 @@ description: "Internationale Harmonisierung Japan Corporate im betriebliche Alte
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Internationale Harmonisierung Japan Corporate** als zusammenhängenden Arbeitsgang im betriebliche Altersversorgung (bAV). Im Mittelpunkt steht die Prüfung von Internationale bAV-Systeme im Konzern harmonisieren, Japanisches betriebliches Altersversorgungssystem und, Kollektivrechtliche Lösungen für bAV-Einschnitte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Internationale Harmonisierung Japan Corporate** ordnet den Fall über die tragenden Prüffelder: Internationale bAV-Systeme im Konzern harmonisieren, Japanisches betriebliches Altersversorgungssystem und, Kollektivrechtliche Lösungen für bAV-Einschnitte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

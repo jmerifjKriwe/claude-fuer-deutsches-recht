@@ -1,13 +1,13 @@
 ---
 name: zusammenarbeit-bundesregierung
-description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: Dieser Skill arbeitet Zusammenarbeit Bundesregierung als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat (NKR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zusammenarbeit Bundesregierung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zusammenarbeit Bundesregierung** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat (NKR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zusammenarbeit Bundesregierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

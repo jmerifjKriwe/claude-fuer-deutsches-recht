@@ -7,7 +7,7 @@ description: "Egmr ART Eugh Grch im Plugin Meinungspruefer: prüft konkret Prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Egmr ART Eugh Grch** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK, Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Egmr ART Eugh Grch** ordnet den Fall über die tragenden Prüffelder: Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK, Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

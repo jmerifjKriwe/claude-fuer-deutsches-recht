@@ -7,7 +7,7 @@ description: "Force Majeure Geheimhaltung NDA im Word-Legal-AI für Anwälte: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Force Majeure Geheimhaltung NDA** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Drafting und Abgrenzung von Force-Majeure-Klauseln und §, Drafting eines stand-alone NDA und einer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Force Majeure Geheimhaltung NDA** ordnet den Fall über die tragenden Prüffelder: Drafting und Abgrenzung von Force-Majeure-Klauseln und §, Drafting eines stand-alone NDA und einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

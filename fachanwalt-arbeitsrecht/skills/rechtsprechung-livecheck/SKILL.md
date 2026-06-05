@@ -7,7 +7,7 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Livecheck** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Red-Team Qualitätsgate, Internationaler Bezug im Arbeitsrecht, Live-Check für arbeitsrechtliche Rechtsprechung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Livecheck** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitätsgate, Internationaler Bezug im Arbeitsrecht, Live-Check für arbeitsrechtliche Rechtsprechung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

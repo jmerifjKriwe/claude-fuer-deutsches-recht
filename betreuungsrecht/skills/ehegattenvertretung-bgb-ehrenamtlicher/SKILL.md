@@ -7,7 +7,7 @@ description: "Ehegattenvertretung BGB Ehrenamtlicher im Plugin Betreuungsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ehegattenvertretung BGB Ehrenamtlicher** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023, Start-für ehrenamtliche und familiäre Betreuer in den, Alltags-Cockpit für Familienbetreuer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ehegattenvertretung BGB Ehrenamtlicher** ordnet den Fall über die tragenden Prüffelder: Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023, Start-für ehrenamtliche und familiäre Betreuer in den, Alltags-Cockpit für Familienbetreuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

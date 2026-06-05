@@ -7,7 +7,7 @@ description: "Sachlicher Ausschluss Schwerwiegender Vorfall im EU KI-VO (AI Act)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachlicher Ausschluss Schwerwiegender Vorfall** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Unternehmen fragt, Schwerwiegender KI-Vorfall nach Art, Shadow-AI und Off-label-Nutzung beherrschen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachlicher Ausschluss Schwerwiegender Vorfall** ordnet den Fall über die tragenden Prüffelder: Unternehmen fragt, Schwerwiegender KI-Vorfall nach Art, Shadow-AI und Off-label-Nutzung beherrschen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

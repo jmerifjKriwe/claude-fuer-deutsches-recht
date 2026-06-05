@@ -7,7 +7,7 @@ description: "Luft Bodenabfertigung Register Pfandrecht im Plugin Luftrecht Flug
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Bodenabfertigung Register Pfandrecht** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Mandant will Zulassungsstatus und Entgelt-Tarife von, Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment, Glaeubiger will Bodenabfertigungs-Equipment oder und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Bodenabfertigung Register Pfandrecht** ordnet den Fall über die tragenden Prüffelder: Mandant will Zulassungsstatus und Entgelt-Tarife von, Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment, Glaeubiger will Bodenabfertigungs-Equipment oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

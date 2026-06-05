@@ -7,7 +7,7 @@ description: "Sachverhalt Fixieren Vier Teile im Memorandum-Erstellung: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachverhalt Fixieren Vier Teile** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Sachverhalt sauber fixieren, Vier-Teile-Memo aufbauen, Memo zu grenzueberschreitenden Faellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachverhalt Fixieren Vier Teile** ordnet den Fall über die tragenden Prüffelder: Sachverhalt sauber fixieren, Vier-Teile-Memo aufbauen, Memo zu grenzueberschreitenden Faellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

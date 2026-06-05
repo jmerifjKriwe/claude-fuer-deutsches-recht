@@ -7,7 +7,7 @@ description: "Registerpublizitaet Paragraph Scheinkaufmann im Handelsrecht (HGB)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Registerpublizitaet Paragraph Scheinkaufmann** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft negative und positive Publizität des Handelsregisters, Prüft Rechtsschein kaufmännischen Auftretens und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Registerpublizitaet Paragraph Scheinkaufmann** ordnet den Fall über die tragenden Prüffelder: Prüft negative und positive Publizität des Handelsregisters, Prüft Rechtsschein kaufmännischen Auftretens und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

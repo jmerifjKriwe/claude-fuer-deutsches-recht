@@ -7,7 +7,7 @@ description: "Sachbeihilfe BIS 200k Eigenanteil im DFG-Förderantragstellung: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachbeihilfe BIS 200k Eigenanteil** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Sachbeihilfe, Kleine und mittlere DFG-Anträge bis 200.000 Euro, Eigenanteil und Grundausstattung der Hochschule sauber von. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachbeihilfe BIS 200k Eigenanteil** ordnet den Fall über die tragenden Prüffelder: Sachbeihilfe, Kleine und mittlere DFG-Anträge bis 200.000 Euro, Eigenanteil und Grundausstattung der Hochschule sauber von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

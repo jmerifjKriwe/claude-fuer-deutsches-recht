@@ -7,7 +7,7 @@ description: "Entscheidungsbaum Gesamt OWI Verfahren im EU KI-VO (AI Act): prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entscheidungsbaum Gesamt OWI Verfahren** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Master-fuer die vollstaendige KI-VO-Pruefung, KI-VO-Ordnungswidrigkeiten und interne Untersuchung, Compliance-Beauftragter oder Unternehmen fragt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entscheidungsbaum Gesamt OWI Verfahren** ordnet den Fall über die tragenden Prüffelder: Master-fuer die vollstaendige KI-VO-Pruefung, KI-VO-Ordnungswidrigkeiten und interne Untersuchung, Compliance-Beauftragter oder Unternehmen fragt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

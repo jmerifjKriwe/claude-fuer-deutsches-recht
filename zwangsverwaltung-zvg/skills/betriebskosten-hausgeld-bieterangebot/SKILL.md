@@ -7,7 +7,7 @@ description: "Betriebskosten Hausgeld Bieterangebot im Zwangsverwaltung (ZVG): p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betriebskosten Hausgeld Bieterangebot** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Betriebskosten Hausgeld und laufende Objektkosten in der, Bewertet Zwangsversteigerungsobjekte aus Investorensicht, Schriftwechsel in der Zwangsverwaltung mit Schuldner. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betriebskosten Hausgeld Bieterangebot** ordnet den Fall über die tragenden Prüffelder: Betriebskosten Hausgeld und laufende Objektkosten in der, Bewertet Zwangsversteigerungsobjekte aus Investorensicht, Schriftwechsel in der Zwangsverwaltung mit Schuldner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

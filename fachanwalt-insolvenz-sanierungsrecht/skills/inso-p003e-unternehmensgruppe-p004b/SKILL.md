@@ -7,7 +7,7 @@ description: "Inso P003e Unternehmensgruppe P004b im Insolvenz- und Sanierungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P003e Unternehmensgruppe P004b** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 3e InsO (Unternehmensgruppe) im Mandat prüfen, § 4b InsO (Rückzahlung und Anpassung der gestundeten, § 4c InsO (Aufhebung der Stundung) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P003e Unternehmensgruppe P004b** ordnet den Fall über die tragenden Prüffelder: § 3e InsO (Unternehmensgruppe) im Mandat prüfen, § 4b InsO (Rückzahlung und Anpassung der gestundeten, § 4c InsO (Aufhebung der Stundung) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kein Folgen Klage Streitwert Zusammenstellen** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüffelder: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

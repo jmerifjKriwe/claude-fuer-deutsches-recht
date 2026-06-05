@@ -7,7 +7,7 @@ description: "Jurisdiktion Armenien Aserbaidschan im Kartellrecht (Marktabgrenzu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Jurisdiktion Armenien Aserbaidschan** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Jurisdiktionsskill Armenien, Jurisdiktionsskill Aserbaidschan. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Jurisdiktion Armenien Aserbaidschan** ordnet den Fall über die tragenden Prüffelder: Jurisdiktionsskill Armenien, Jurisdiktionsskill Aserbaidschan. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Panel Management Partner Dashboard Post im Plugin Kanzlei Mandant 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Panel Management Partner Dashboard Post** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Panel Management, Partner Dashboard, Post-Mortem Retrospective und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Panel Management Partner Dashboard Post** ordnet den Fall über die tragenden Prüffelder: Panel Management, Partner Dashboard, Post-Mortem Retrospective. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

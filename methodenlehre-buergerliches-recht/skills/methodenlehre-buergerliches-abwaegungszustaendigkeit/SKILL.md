@@ -7,7 +7,7 @@ description: "Abwaegungszustaendigkeit im Plugin Methodenlehre Buergerliches Rec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abwaegungszustaendigkeit** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Klärt, welche Institution im Rechtssystem für eine konkrete, Dieses Skill systematisiert die wichtigsten Fristen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abwaegungszustaendigkeit** ordnet den Fall über die tragenden Prüffelder: Klärt, welche Institution im Rechtssystem für eine konkrete, Dieses Skill systematisiert die wichtigsten Fristen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: werbung-beweislast
-description: "Werbung Beweislast im KI-Governance: Dieser Skill arbeitet Werbung Beweislast als zusammenhängenden Arbeitsgang im Plugin KI-Governance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Werbung Beweislast im KI-Governance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Werbung Beweislast
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Werbung Beweislast** als zusammenhängenden Arbeitsgang im Plugin KI-Governance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Werbung Beweislast** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

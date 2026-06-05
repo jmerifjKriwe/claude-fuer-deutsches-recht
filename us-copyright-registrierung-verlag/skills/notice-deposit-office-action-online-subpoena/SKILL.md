@@ -7,7 +7,7 @@ description: "Notice Deposit Office Action Online Subpoena im Plugin Us Copyrigh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notice Deposit Office Action Online Subpoena** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Verbindet Notice, Deposit, Registration und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notice Deposit Office Action Online Subpoena** ordnet den Fall über die tragenden Prüffelder: Verbindet Notice, Deposit, Registration. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

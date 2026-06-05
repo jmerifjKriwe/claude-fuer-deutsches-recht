@@ -7,7 +7,7 @@ description: "Richtlinie Umsetzung Simulation im Europarecht: prüft konkret EU-
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Richtlinie Umsetzung Simulation** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von EU-Richtlinie in nationales Recht umsetzen oder, Verhandlung vor EU-Behoerde oder nationalem Gericht mit, EU-Verordnungen Beschluesse und Soft-Law-Instrumente. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Richtlinie Umsetzung Simulation** ordnet den Fall über die tragenden Prüffelder: EU-Richtlinie in nationales Recht umsetzen oder, Verhandlung vor EU-Behoerde oder nationalem Gericht mit, EU-Verordnungen Beschluesse und Soft-Law-Instrumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

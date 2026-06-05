@@ -7,7 +7,7 @@ description: "Saarland Sachsen Anhalt im Prüfungsrecht der Hochschule: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Saarland Sachsen Anhalt** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung un, Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Saarland Sachsen Anhalt** ordnet den Fall über die tragenden Prüffelder: Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung un, Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

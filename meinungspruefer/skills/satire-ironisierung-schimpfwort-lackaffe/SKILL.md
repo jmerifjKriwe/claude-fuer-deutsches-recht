@@ -7,7 +7,7 @@ description: "Satire Ironisierung Schimpfwort Lackaffe im Plugin Meinungspruefer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satire Ironisierung Schimpfwort Lackaffe** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft satirische, ironische und bildhafte Äußerungen wie Pinocchio-Vergleiche, Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satire Ironisierung Schimpfwort Lackaffe** ordnet den Fall über die tragenden Prüffelder: Prüft satirische, ironische und bildhafte Äußerungen wie Pinocchio-Vergleiche, Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

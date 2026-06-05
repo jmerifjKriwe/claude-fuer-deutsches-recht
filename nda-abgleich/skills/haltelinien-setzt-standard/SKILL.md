@@ -7,7 +7,7 @@ description: "Haltelinien Setzt Standard im NDA-Abgleich: prüft konkret Halteli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Haltelinien Setzt Standard** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von Haltelinien, Setzt, Standard. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Haltelinien Setzt Standard** ordnet den Fall über die tragenden Prüffelder: Haltelinien, Setzt, Standard. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

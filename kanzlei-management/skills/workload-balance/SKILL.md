@@ -1,13 +1,13 @@
 ---
 name: workload-balance
-description: "Workload Balance im Kanzlei-Management: Dieser Skill arbeitet Workload Balance als zusammenhängenden Arbeitsgang im Plugin Kanzlei Management ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Workload Balance im Kanzlei-Management: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Workload Balance
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Workload Balance** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Management ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Workload Balance** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

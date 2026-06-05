@@ -7,7 +7,7 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anspruchsgrundlage Finden Anwaltszwang ZPO** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüffelder: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "W Besoldung Zulassung NC im Hochschulrecht der Länder: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **W Besoldung Zulassung NC** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen, Prüft Zulassung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**W Besoldung Zulassung NC** ordnet den Fall über die tragenden Prüffelder: Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen, Prüft Zulassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

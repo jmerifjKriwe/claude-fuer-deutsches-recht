@@ -7,7 +7,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Subventionsbetrug Stgb Toetung Verlangen** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüffelder: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

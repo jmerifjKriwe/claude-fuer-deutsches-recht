@@ -7,7 +7,7 @@ description: "Vorlage MA Arbeitsblatt Perspektiven Audit im Plugin Tabellenrevie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorlage MA Arbeitsblatt Perspektiven Audit** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format, Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview, Audit-Trail aller Review-Schritte protokollieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorlage MA Arbeitsblatt Perspektiven Audit** ordnet den Fall über die tragenden Prüffelder: Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format, Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview, Audit-Trail aller Review-Schritte protokollieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

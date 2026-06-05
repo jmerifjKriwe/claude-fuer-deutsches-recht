@@ -7,7 +7,7 @@ description: "Franchise Shop Green Claims im Fashion Law (Moderecht): prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Franchise Shop Green Claims** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen, Green Claims und Nachhaltigkeitskommunikation für Mode. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Franchise Shop Green Claims** ordnet den Fall über die tragenden Prüffelder: Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen, Green Claims und Nachhaltigkeitskommunikation für Mode. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

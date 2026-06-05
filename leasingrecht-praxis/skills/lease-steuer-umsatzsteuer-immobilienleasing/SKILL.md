@@ -7,7 +7,7 @@ description: "Lease Steuer Umsatzsteuer Immobilienleasing im Plugin Leasingrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Steuer Umsatzsteuer Immobilienleasing** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Umsatzsteuer im Leasingrecht, Immobilienleasing, Grenzüberschreitendes Leasing. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Steuer Umsatzsteuer Immobilienleasing** ordnet den Fall über die tragenden Prüffelder: Umsatzsteuer im Leasingrecht, Immobilienleasing, Grenzüberschreitendes Leasing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

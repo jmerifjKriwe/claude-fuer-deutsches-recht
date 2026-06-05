@@ -7,7 +7,7 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Presse Gegendarstellung Schiedsstelle Dpma** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Presse Gegendarstellung Schiedsstelle Dpma** ordnet den Fall über die tragenden Prüffelder: Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

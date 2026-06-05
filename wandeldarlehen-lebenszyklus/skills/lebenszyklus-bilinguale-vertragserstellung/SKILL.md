@@ -7,7 +7,7 @@ description: "Bilinguale Vertragserstellung im Plugin Wandeldarlehen Lebenszyklu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bilinguale Vertragserstellung** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Lebenszyklus, Wandeldarlehensvertrag zweisprachig deutsch und englisch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bilinguale Vertragserstellung** ordnet den Fall über die tragenden Prüffelder: Lebenszyklus, Wandeldarlehensvertrag zweisprachig deutsch und englisch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

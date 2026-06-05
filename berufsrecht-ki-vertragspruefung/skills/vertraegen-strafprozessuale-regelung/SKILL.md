@@ -7,7 +7,7 @@ description: "Vertraegen Strafprozessuale Regelung im Plugin Berufsrecht Ki Vert
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertraegen Strafprozessuale Regelung** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Verträgen, Prüfe die strafprozessuale Absicherung des, Prüfe die strafrechtliche Belehrung des Dienstleisters nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertraegen Strafprozessuale Regelung** ordnet den Fall über die tragenden Prüffelder: Verträgen, Prüfe die strafprozessuale Absicherung des, Prüfe die strafrechtliche Belehrung des Dienstleisters nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

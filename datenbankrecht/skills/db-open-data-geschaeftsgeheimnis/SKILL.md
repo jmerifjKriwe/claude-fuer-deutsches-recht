@@ -7,7 +7,7 @@ description: "DB Open Data Geschaeftsgeheimnis im Plugin Datenbankrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Open Data Geschaeftsgeheimnis** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Rechtliche Bewertung von Open-Data-Portalen, Analysiert das Verhältnis zwischen Datenbankherstellerrecht, Analysiert das Verhältnis von Datenbankherstellerrecht (§§. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Open Data Geschaeftsgeheimnis** ordnet den Fall über die tragenden Prüffelder: Rechtliche Bewertung von Open-Data-Portalen, Analysiert das Verhältnis zwischen Datenbankherstellerrecht, Analysiert das Verhältnis von Datenbankherstellerrecht (§§. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

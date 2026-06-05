@@ -7,7 +7,7 @@ description: "Hammerschlagsrecht Hecke Immissionen im Nachbarschaftsstreit: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hammerschlagsrecht Hecke Immissionen** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Hammerschlagsrecht, Hecke, Immissionen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hammerschlagsrecht Hecke Immissionen** ordnet den Fall über die tragenden Prüffelder: Hammerschlagsrecht, Hecke, Immissionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

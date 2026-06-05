@@ -76,6 +76,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `pe-warranty-claims-notices-leakage-claim-locked-earn-out-dispute` | PE Warranty Claims Notices Leakage Claim Locked Earn OUT Dispute im Private Equity Praxis: prüft konkret Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `pe-wi-insurance-underwriting-merger-control-fdi-closing-cp-funds` | PE WI Insurance Underwriting Merger Control FDI Closing CP Funds im Private Equity Praxis: prüft konkret Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Proz. Liefert priorisierten Output mit Norm-Pinpoints, R... |
 | `rechtsabteilung-pe-closing-continuation-fund` | Rechtsabteilung PE Closing Continuation Fund im Private Equity Praxis: prüft konkret Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `rechtsabteilung-w` | Rechtsabteilung W im Private Equity Praxis: Dieser Skill arbeitet Rechtsabteilung W als zusammenhängenden Arbeitsgang im Plugin Private-Equity-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `rechtsabteilung-w` | Rechtsabteilung W im Private Equity Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

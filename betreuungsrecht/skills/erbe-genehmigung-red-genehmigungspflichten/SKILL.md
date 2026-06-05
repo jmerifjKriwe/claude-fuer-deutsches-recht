@@ -7,7 +7,7 @@ description: "Erbe Genehmigung RED Genehmigungspflichten im Plugin Betreuungsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erbe Genehmigung RED Genehmigungspflichten** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Erbe, Genehmigung, Genehmigungspflichten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erbe Genehmigung RED Genehmigungspflichten** ordnet den Fall über die tragenden Prüffelder: Erbe, Genehmigung, Genehmigungspflichten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

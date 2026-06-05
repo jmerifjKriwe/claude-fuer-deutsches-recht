@@ -7,7 +7,7 @@ description: "Bescheid Frist Fristenbuch Sozialrecht im Plugin Fachanwalt Sozial
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bescheid Frist Fristenbuch Sozialrecht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen, Anwalt oder Sekretariat muss Fristen in, Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bescheid Frist Fristenbuch Sozialrecht** ordnet den Fall über die tragenden Prüffelder: 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen, Anwalt oder Sekretariat muss Fristen in, Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

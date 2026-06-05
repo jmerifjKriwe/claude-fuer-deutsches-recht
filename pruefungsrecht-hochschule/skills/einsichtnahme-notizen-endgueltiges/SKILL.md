@@ -7,7 +7,7 @@ description: "Einsichtnahme Notizen Endgueltiges im Prüfungsrecht der Hochschul
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einsichtnahme Notizen Endgueltiges** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einsichtnahme Notizen Endgueltiges** ordnet den Fall über die tragenden Prüffelder: Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

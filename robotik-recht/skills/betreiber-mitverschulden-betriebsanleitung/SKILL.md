@@ -7,7 +7,7 @@ description: "Betreiber Mitverschulden Betriebsanleitung im Robotik- und KI-Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreiber Mitverschulden Betriebsanleitung** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft Betreiber-Mitverschulden, Prüft Betriebsanleitung, Sicherheitsinformationen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreiber Mitverschulden Betriebsanleitung** ordnet den Fall über die tragenden Prüffelder: Prüft Betreiber-Mitverschulden, Prüft Betriebsanleitung, Sicherheitsinformationen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

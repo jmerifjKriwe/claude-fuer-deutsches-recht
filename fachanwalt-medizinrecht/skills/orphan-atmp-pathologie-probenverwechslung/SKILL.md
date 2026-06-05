@@ -7,7 +7,7 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Orphan Atmp Pathologie Probenverwechslung** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Orphan Atmp Pathologie Probenverwechslung** ordnet den Fall über die tragenden Prüffelder: Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

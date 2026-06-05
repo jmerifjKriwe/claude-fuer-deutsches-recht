@@ -7,7 +7,7 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Faevvollzug Parteibetrieb Gerichtsvollzieher** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Faevvollzug Parteibetrieb Gerichtsvollzieher** ordnet den Fall über die tragenden Prüffelder: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Band Titel Rechtsfortwirkung Praxis im Preußisches Allgemeines La
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Band Titel Rechtsfortwirkung Praxis** als zusammenhängenden Arbeitsgang im Preußisches Allgemeines Landrecht. Im Mittelpunkt steht die Prüfung von PrALR und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Band Titel Rechtsfortwirkung Praxis** ordnet den Fall über die tragenden Prüffelder: PrALR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

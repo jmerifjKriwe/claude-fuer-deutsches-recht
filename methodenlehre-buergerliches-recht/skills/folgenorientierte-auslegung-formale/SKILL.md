@@ -7,7 +7,7 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Folgenorientierte Auslegung Formale** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Folgenorientierte Auslegung Formale** ordnet den Fall über die tragenden Prüffelder: Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: vkr-einfuehrung
-description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht: Dieser Skill arbeitet VKR Einfuehrung als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # VKR Einfuehrung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **VKR Einfuehrung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**VKR Einfuehrung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

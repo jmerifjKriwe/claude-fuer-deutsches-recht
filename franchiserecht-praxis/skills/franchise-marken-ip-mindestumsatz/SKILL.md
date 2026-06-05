@@ -7,7 +7,7 @@ description: "Franchise Marken IP Mindestumsatz im Franchiserecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Franchise Marken IP Mindestumsatz** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Franchise. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Franchise Marken IP Mindestumsatz** ordnet den Fall über die tragenden Prüffelder: Franchise. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

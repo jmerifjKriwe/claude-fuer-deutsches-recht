@@ -7,7 +7,7 @@ description: "Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bescheidanalyse Eilantrag Sozialrecht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bescheidanalyse Eilantrag Sozialrecht** ordnet den Fall über die tragenden Prüffelder: Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

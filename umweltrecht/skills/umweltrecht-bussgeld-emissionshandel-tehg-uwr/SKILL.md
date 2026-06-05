@@ -7,7 +7,7 @@ description: "Bussgeld Emissionshandel Tehg UWR im Plugin Umweltrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bussgeld Emissionshandel Tehg UWR** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen, Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring, Spezialfall EU-Emissionshandel ETS. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bussgeld Emissionshandel Tehg UWR** ordnet den Fall über die tragenden Prüffelder: Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen, Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring, Spezialfall EU-Emissionshandel ETS. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

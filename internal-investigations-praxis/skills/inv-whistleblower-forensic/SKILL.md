@@ -7,7 +7,7 @@ description: "INV Whistleblower Forensic im Internal Investigations: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Whistleblower Forensic** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019, Leitet forensische Sicherung von IT-Systemen an –. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Whistleblower Forensic** ordnet den Fall über die tragenden Prüffelder: Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019, Leitet forensische Sicherung von IT-Systemen an –. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

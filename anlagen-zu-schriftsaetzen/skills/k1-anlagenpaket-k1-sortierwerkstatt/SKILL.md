@@ -7,7 +7,7 @@ description: "K1 Anlagenpaket K1 Sortierwerkstatt im Plugin Anlagen Zu Schriftsa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **K1 Anlagenpaket K1 Sortierwerkstatt** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Aus einem Mandantenordner mit beliebigen Dateinamen die, K1-Leitanlage sortieren, Hilft bei Tausenden gleichartiger Dokumente und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**K1 Anlagenpaket K1 Sortierwerkstatt** ordnet den Fall über die tragenden Prüffelder: Aus einem Mandantenordner mit beliebigen Dateinamen die, K1-Leitanlage sortieren, Hilft bei Tausenden gleichartiger Dokumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

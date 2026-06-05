@@ -7,7 +7,7 @@ description: "Rechnungslegung Simulation Training im Zwangsverwaltung (ZVG): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechnungslegung Simulation Training** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Jahresrechnung und Schlussrechnung des Zwangsverwalters, Simulation und Training für Zwangsverwaltung mit einem, Schnittstelle zwischen laufender Zwangsverwaltung und dem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechnungslegung Simulation Training** ordnet den Fall über die tragenden Prüffelder: Jahresrechnung und Schlussrechnung des Zwangsverwalters, Simulation und Training für Zwangsverwaltung mit einem, Schnittstelle zwischen laufender Zwangsverwaltung und dem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

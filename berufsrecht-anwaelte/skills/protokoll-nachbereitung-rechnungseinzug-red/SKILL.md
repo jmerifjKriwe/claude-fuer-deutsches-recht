@@ -7,7 +7,7 @@ description: "Protokoll Nachbereitung Rechnungseinzug RED im Berufsrecht der Anw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Protokoll Nachbereitung Rechnungseinzug RED** als zusammenhängenden Arbeitsgang im Berufsrecht der Anwälte. Im Mittelpunkt steht die Prüfung von Protokoll und Nachbereitung, Rechnungseinzug, Red-Team-Qualitygate und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Protokoll Nachbereitung Rechnungseinzug RED** ordnet den Fall über die tragenden Prüffelder: Protokoll und Nachbereitung, Rechnungseinzug, Red-Team-Qualitygate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

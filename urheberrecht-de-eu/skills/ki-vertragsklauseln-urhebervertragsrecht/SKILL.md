@@ -7,7 +7,7 @@ description: "KI Vertragsklauseln Urhebervertragsrecht im Plugin Urheberrecht De
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Vertragsklauseln Urhebervertragsrecht** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Vertragsklauseln Urhebervertragsrecht** ordnet den Fall über die tragenden Prüffelder: Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

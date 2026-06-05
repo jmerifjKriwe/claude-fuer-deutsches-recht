@@ -7,7 +7,7 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versr Deckungsprozess VVG Einfuehrung Themen** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versr Deckungsprozess VVG Einfuehrung Themen** ordnet den Fall über die tragenden Prüffelder: Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

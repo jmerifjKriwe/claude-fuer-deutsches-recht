@@ -7,7 +7,7 @@ description: "Verjaehrung Grundschema Vertreter Ohne im Plugin Bgb At Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verjaehrung Grundschema Vertreter Ohne** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB, Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis, Klausurfall zu Vollmachtserteilung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verjaehrung Grundschema Vertreter Ohne** ordnet den Fall über die tragenden Prüffelder: Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB, Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis, Klausurfall zu Vollmachtserteilung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "TK Routerfreiheit TK Rufnummernmissbrauch im Telekommunikationsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Routerfreiheit TK Rufnummernmissbrauch** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Routerfreiheit TK Rufnummernmissbrauch** ordnet den Fall über die tragenden Prüffelder: Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

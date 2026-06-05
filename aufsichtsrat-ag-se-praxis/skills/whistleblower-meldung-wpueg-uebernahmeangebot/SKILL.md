@@ -7,7 +7,7 @@ description: "Whistleblower Meldung Wpueg Uebernahmeangebot im Aufsichtsrat AG/S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Whistleblower Meldung Wpueg Uebernahmeangebot** als zusammenhängenden Arbeitsgang im Aufsichtsrat AG/SE. Im Mittelpunkt steht die Prüfung von AG/SE-Aufsichtsrat Praxis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Whistleblower Meldung Wpueg Uebernahmeangebot** ordnet den Fall über die tragenden Prüffelder: AG/SE-Aufsichtsrat Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Instandhaltung Versicherung Investoren Q im Plugin Erbbaurecht Pra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Instandhaltung Versicherung Investoren Q** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Instandhaltung Versicherung Investoren Q** ordnet den Fall über die tragenden Prüffelder: Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Sanktionen ART Bussgeldverteidigung Bildung im EU KI-VO (AI Act): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sanktionen ART Bussgeldverteidigung Bildung** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Unternehmen moechte die Kostenrisiken einer, Art, Anhang III KI-VO fuer Bildung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sanktionen ART Bussgeldverteidigung Bildung** ordnet den Fall über die tragenden Prüffelder: Unternehmen moechte die Kostenrisiken einer, Art, Anhang III KI-VO fuer Bildung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

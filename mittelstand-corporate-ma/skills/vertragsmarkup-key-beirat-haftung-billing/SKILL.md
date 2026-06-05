@@ -7,7 +7,7 @@ description: "Vertragsmarkup KEY Beirat Haftung Billing im Plugin Mittelstand Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertragsmarkup KEY Beirat Haftung Billing** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Markup und Key Issues, GmbH-Beirat im Plugin mittelstand-corporate-ma, Kanzlei erstellt Rechnung für M&A-Mandat und braucht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertragsmarkup KEY Beirat Haftung Billing** ordnet den Fall über die tragenden Prüffelder: Markup und Key Issues, GmbH-Beirat im Plugin mittelstand-corporate-ma, Kanzlei erstellt Rechnung für M&A-Mandat und braucht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

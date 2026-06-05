@@ -7,7 +7,7 @@ description: "Rechtsmittelbelehrung Zivil Relation im Plugin Urteilsbauer Relati
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsmittelbelehrung Zivil Relation** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Prüffeld für rechtsmittelbelehrung zivil, Zivilrechtliche Relation nach klassischer Relationstechnik, Prüfung gegen Aufhebung in der Revision. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsmittelbelehrung Zivil Relation** ordnet den Fall über die tragenden Prüffelder: Prüffeld für rechtsmittelbelehrung zivil, Zivilrechtliche Relation nach klassischer Relationstechnik, Prüfung gegen Aufhebung in der Revision. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

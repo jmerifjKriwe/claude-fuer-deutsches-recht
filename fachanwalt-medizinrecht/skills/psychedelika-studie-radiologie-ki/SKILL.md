@@ -7,7 +7,7 @@ description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Psychedelika Studie Radiologie KI** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Psychedelika Studie Radiologie KI** ordnet den Fall über die tragenden Prüffelder: Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

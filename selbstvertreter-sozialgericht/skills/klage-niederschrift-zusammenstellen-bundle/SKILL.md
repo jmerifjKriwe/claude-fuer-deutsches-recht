@@ -7,7 +7,7 @@ description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klage Niederschrift Zusammenstellen Bundle** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klage Niederschrift Zusammenstellen Bundle** ordnet den Fall über die tragenden Prüffelder: Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

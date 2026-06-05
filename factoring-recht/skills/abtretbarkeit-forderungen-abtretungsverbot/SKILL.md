@@ -7,7 +7,7 @@ description: "Abtretbarkeit Forderungen Abtretungsverbot im Plugin Factoring Rec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abtretbarkeit Forderungen Abtretungsverbot** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote, Abtretungsverbot § 354a HGB Handelsgeschäft, Auditrechte Stichproben Forderungsprüfung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abtretbarkeit Forderungen Abtretungsverbot** ordnet den Fall über die tragenden Prüffelder: Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote, Abtretungsverbot § 354a HGB Handelsgeschäft, Auditrechte Stichproben Forderungsprüfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

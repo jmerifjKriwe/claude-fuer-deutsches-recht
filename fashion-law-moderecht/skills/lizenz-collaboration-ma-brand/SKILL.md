@@ -7,7 +7,7 @@ description: "Lizenz Collaboration MA Brand im Fashion Law (Moderecht): prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lizenz Collaboration MA Brand** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Collaboration, Capsule Collection und Co-Branding vertraglich gestalten, M&A und Brand Acquisition im Fashion-Bereich prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lizenz Collaboration MA Brand** ordnet den Fall über die tragenden Prüffelder: Collaboration, Capsule Collection und Co-Branding vertraglich gestalten, M&A und Brand Acquisition im Fashion-Bereich prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

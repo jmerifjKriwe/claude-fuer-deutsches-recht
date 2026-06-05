@@ -7,7 +7,7 @@ description: "IV Plan Starug Vergleichsrechnung im Plugin Insolvenzverwaltung: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Plan Starug Vergleichsrechnung** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von StaRUG-Restrukturierungsplan vollständig strukturieren von, Vergleichsrechnung als Herzstück des Insolvenzplans oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Plan Starug Vergleichsrechnung** ordnet den Fall über die tragenden Prüffelder: StaRUG-Restrukturierungsplan vollständig strukturieren von, Vergleichsrechnung als Herzstück des Insolvenzplans oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

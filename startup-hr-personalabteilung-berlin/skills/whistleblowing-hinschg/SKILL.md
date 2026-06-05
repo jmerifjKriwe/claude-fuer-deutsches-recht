@@ -1,13 +1,13 @@
 ---
 name: whistleblowing-hinschg
-description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin: Dieser Skill arbeitet Whistleblowing Hinschg als zusammenhängenden Arbeitsgang im Plugin Startup Hr Personalabteilung Berlin ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Whistleblowing Hinschg
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Whistleblowing Hinschg** als zusammenhängenden Arbeitsgang im Plugin Startup Hr Personalabteilung Berlin ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Whistleblowing Hinschg** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

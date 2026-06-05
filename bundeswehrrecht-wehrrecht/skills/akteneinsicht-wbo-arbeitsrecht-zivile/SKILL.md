@@ -7,7 +7,7 @@ description: "Akteneinsicht WBO Arbeitsrecht Zivile im Bundeswehrrecht / Wehrrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Akteneinsicht WBO Arbeitsrecht Zivile** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Akteneinsicht WBO und WDO, Arbeitsrecht zivile Bundeswehrbeschäftigte, Rückforderung Ausbildungskosten Bundeswehr. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Akteneinsicht WBO Arbeitsrecht Zivile** ordnet den Fall über die tragenden Prüffelder: Akteneinsicht WBO und WDO, Arbeitsrecht zivile Bundeswehrbeschäftigte, Rückforderung Ausbildungskosten Bundeswehr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

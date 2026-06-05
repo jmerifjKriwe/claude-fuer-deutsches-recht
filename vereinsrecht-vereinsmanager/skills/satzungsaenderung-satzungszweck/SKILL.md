@@ -7,7 +7,7 @@ description: "Satzungsaenderung Satzungszweck im Plugin Vereinsrecht Vereinsmana
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satzungsaenderung Satzungszweck** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Plant Satzungsänderung, Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satzungsaenderung Satzungszweck** ordnet den Fall über die tragenden Prüffelder: Plant Satzungsänderung, Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

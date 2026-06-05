@@ -7,7 +7,7 @@ description: "Egbr Mopeg Gesellschaftsgruender im Plugin Gesellschaftsgruender: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Egbr Mopeg Gesellschaftsgruender** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von GbR nach MoPeG 2024 und Eintragung ins, Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Egbr Mopeg Gesellschaftsgruender** ordnet den Fall über die tragenden Prüffelder: GbR nach MoPeG 2024 und Eintragung ins, Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

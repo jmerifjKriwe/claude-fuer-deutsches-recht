@@ -1,13 +1,13 @@
 ---
 name: phishing-spoofing-internationaler-bezug-schnittstellen
-description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer: Dieser Skill arbeitet Spoofing Internationaler Bezug Schnittstellen als zusammenhängenden Arbeitsgang im Plugin Phishing-Vorfall ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Spoofing Internationaler Bezug Schnittstellen
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Spoofing Internationaler Bezug Schnittstellen** als zusammenhängenden Arbeitsgang im Plugin Phishing-Vorfall ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Spoofing Internationaler Bezug Schnittstellen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

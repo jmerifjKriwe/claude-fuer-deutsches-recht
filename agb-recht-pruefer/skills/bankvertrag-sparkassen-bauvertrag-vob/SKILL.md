@@ -7,7 +7,7 @@ description: "Bankvertrag Sparkassen Bauvertrag VOB im AGB-Recht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bankvertrag Sparkassen Bauvertrag VOB** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von AGB-Kontrolle im Bankvertrag, AGB-Kontrolle der VOB-B im Bauvertrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bankvertrag Sparkassen Bauvertrag VOB** ordnet den Fall über die tragenden Prüffelder: AGB-Kontrolle im Bankvertrag, AGB-Kontrolle der VOB-B im Bauvertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

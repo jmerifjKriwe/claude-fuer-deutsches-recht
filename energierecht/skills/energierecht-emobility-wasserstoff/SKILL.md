@@ -7,7 +7,7 @@ description: "Emobility Wasserstoff im Plugin Energierecht: prüft konkret Recht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Emobility Wasserstoff** als zusammenhängenden Arbeitsgang im Plugin Energierecht. Im Mittelpunkt steht die Prüfung von Rechtliche Rahmenbedingungen für Elektromobilitaet und, Energieliefervertraege prüfen und entwerfen, Sonderregelungen für Industriekunden im Energierecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Emobility Wasserstoff** ordnet den Fall über die tragenden Prüffelder: Rechtliche Rahmenbedingungen für Elektromobilitaet und, Energieliefervertraege prüfen und entwerfen, Sonderregelungen für Industriekunden im Energierecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Schulgesetz Sachsen Anhalt Schleswig Holstein im Schulrecht der L�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schulgesetz Sachsen Anhalt Schleswig Holstein** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und S und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schulgesetz Sachsen Anhalt Schleswig Holstein** ordnet den Fall über die tragenden Prüffelder: Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und S. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

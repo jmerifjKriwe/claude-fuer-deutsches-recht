@@ -7,7 +7,7 @@ description: "STB Lohn Kurzarbeit Lohnsteuer Anmeldung im Steuerrecht (Anwalt/Be
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Lohn Kurzarbeit Lohnsteuer Anmeldung** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Kurzarbeitergeld KUG Anmeldung Berechnung, Elektronische Lohnsteuer-Anmeldung über ELSTER, Monatlicher Lohnsteuer-Monatsabschluss und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Lohn Kurzarbeit Lohnsteuer Anmeldung** ordnet den Fall über die tragenden Prüffelder: Kurzarbeitergeld KUG Anmeldung Berechnung, Elektronische Lohnsteuer-Anmeldung über ELSTER, Monatlicher Lohnsteuer-Monatsabschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Beirat Datenschutz KI Deadlock Mechanik im Plugin Mittelstand Corp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beirat Datenschutz KI Deadlock Mechanik** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von GmbH-Beirat im Plugin mittelstand-corporate-ma und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beirat Datenschutz KI Deadlock Mechanik** ordnet den Fall über die tragenden Prüffelder: GmbH-Beirat im Plugin mittelstand-corporate-ma. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

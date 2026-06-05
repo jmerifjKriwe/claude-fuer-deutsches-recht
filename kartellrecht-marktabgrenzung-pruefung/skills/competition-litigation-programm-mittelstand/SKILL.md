@@ -7,7 +7,7 @@ description: "Competition Litigation Programm Mittelstand im Kartellrecht (Markt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Competition Litigation Programm Mittelstand** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Kartellprozess Strategie, Compliance-Programm Kartellrecht Mittelstand, zur strukturierten Aufnahme und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Competition Litigation Programm Mittelstand** ordnet den Fall über die tragenden Prüffelder: Kartellprozess Strategie, Compliance-Programm Kartellrecht Mittelstand, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

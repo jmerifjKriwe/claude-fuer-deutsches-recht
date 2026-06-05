@@ -1,13 +1,13 @@
 ---
 name: widerrufsrecht-verbraucher
-description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: Dieser Skill arbeitet Widerrufsrecht Verbraucher als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Widerrufsrecht Verbraucher
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Widerrufsrecht Verbraucher** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

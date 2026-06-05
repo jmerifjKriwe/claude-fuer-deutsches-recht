@@ -7,7 +7,7 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BAD Umbau Barrierefreie Einladung Bauliche** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BAD Umbau Barrierefreie Einladung Bauliche** ordnet den Fall über die tragenden Prüffelder: Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

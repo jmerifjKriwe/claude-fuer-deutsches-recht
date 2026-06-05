@@ -7,7 +7,7 @@ description: "PKV Ombudsmann Beschwerdestrategie im Krankenkassenrecht / Kranken
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PKV Ombudsmann Beschwerdestrategie** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von PKV-Ombudsmann, Krankenversicherungspflicht für ausländische Studierende in, Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PKV Ombudsmann Beschwerdestrategie** ordnet den Fall über die tragenden Prüffelder: PKV-Ombudsmann, Krankenversicherungspflicht für ausländische Studierende in, Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

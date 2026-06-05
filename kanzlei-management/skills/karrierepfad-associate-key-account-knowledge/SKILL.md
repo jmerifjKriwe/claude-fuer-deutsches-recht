@@ -7,7 +7,7 @@ description: "Karrierepfad Associate KEY Account Knowledge im Kanzlei-Management
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Karrierepfad Associate KEY Account Knowledge** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Karrierepfad Associate KEY Account Knowledge** ordnet den Fall über die tragenden Prüffelder: Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

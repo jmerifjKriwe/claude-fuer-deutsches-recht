@@ -7,7 +7,7 @@ description: "Lph8 Bauueberwachung Bueroneubau Dachdeckung im HOAI-Leistungsphas
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lph8 Bauueberwachung Bueroneubau Dachdeckung** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von Bauueberwachung nach HOAI LPH 8 fuer Bueroneubau mit, Bauueberwachung HOAI LPH 8 fuer Flachdach- und, Bauueberwachung HOAI LPH 8 fuer Deichbauten und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lph8 Bauueberwachung Bueroneubau Dachdeckung** ordnet den Fall über die tragenden Prüffelder: Bauueberwachung nach HOAI LPH 8 fuer Bueroneubau mit, Bauueberwachung HOAI LPH 8 fuer Flachdach- und, Bauueberwachung HOAI LPH 8 fuer Deichbauten und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

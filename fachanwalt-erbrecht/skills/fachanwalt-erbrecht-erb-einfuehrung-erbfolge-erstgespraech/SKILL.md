@@ -7,7 +7,7 @@ description: "ERB Einfuehrung Erbfolge Erstgespraech im Plugin Fachanwalt Erbrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ERB Einfuehrung Erbfolge Erstgespraech** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Erbfolge-System einfuehrend, Erstgespraechs-Checkliste Erbrecht, Spezialfall internationales Erbrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ERB Einfuehrung Erbfolge Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Erbfolge-System einfuehrend, Erstgespraechs-Checkliste Erbrecht, Spezialfall internationales Erbrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

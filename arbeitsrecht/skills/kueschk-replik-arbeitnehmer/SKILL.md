@@ -7,7 +7,7 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kueschk Replik Arbeitnehmer** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Reaktion auf die Klageerwiderung des Arbeitgebers, Checkliste Sonderkündigungsschutz, Streitwert nach § 42 GKG drei Bruttomonatsgehaelter und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kueschk Replik Arbeitnehmer** ordnet den Fall über die tragenden Prüffelder: Reaktion auf die Klageerwiderung des Arbeitgebers, Checkliste Sonderkündigungsschutz, Streitwert nach § 42 GKG drei Bruttomonatsgehaelter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

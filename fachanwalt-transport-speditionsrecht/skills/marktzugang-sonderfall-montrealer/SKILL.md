@@ -7,7 +7,7 @@ description: "Marktzugang Sonderfall Montrealer im Plugin Fachanwalt Transport S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Marktzugang Sonderfall Montrealer** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Marktzugang, Montrealer, Pruefen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Marktzugang Sonderfall Montrealer** ordnet den Fall über die tragenden Prüffelder: Marktzugang, Montrealer, Pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

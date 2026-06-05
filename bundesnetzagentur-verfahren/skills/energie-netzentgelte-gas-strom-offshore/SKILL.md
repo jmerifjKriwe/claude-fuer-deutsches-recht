@@ -7,7 +7,7 @@ description: "Energie Netzentgelte GAS Strom Offshore im Bundesnetzagentur-Verfa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Energie Netzentgelte GAS Strom Offshore** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Energie / Netzentgelte Gas, Energie / Netzentgelte Strom, Energie / Offshore-Netzanbindung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Energie Netzentgelte GAS Strom Offshore** ordnet den Fall über die tragenden Prüffelder: Energie / Netzentgelte Gas, Energie / Netzentgelte Strom, Energie / Offshore-Netzanbindung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

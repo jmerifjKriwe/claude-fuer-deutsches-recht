@@ -7,7 +7,7 @@ description: "Bonus Versetzung Case Management Cloud im Hinweisgeberschutz und C
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bonus Versetzung Case Management Cloud** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis, Prüft technisches Case-Management für Hinweisfälle und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bonus Versetzung Case Management Cloud** ordnet den Fall über die tragenden Prüffelder: Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis, Prüft technisches Case-Management für Hinweisfälle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

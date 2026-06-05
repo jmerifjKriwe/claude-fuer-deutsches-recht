@@ -7,7 +7,7 @@ description: "DB Data ACT bei Backup Export im Plugin Datenbankrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Data ACT bei Backup Export** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im, Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen, Datenbankrecht bei Backup-Rechten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Data ACT bei Backup Export** ordnet den Fall über die tragenden Prüffelder: Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im, Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen, Datenbankrecht bei Backup-Rechten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

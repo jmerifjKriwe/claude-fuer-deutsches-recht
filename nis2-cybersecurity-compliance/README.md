@@ -85,6 +85,6 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | `tabletop-exercise-third-party-tls-pki-usb` | Tabletop Exercise Third Party TLS PKI USB im NIS2-Cybersecurity-Compliance: prüft konkret Plant Tabletop-Übungen für Cyberkrisen, Prüft Fernwartung durch Lieferanten und Dienstleister, Kontrolliert TLS, PKI und Zertifikatslebenszyklen. L... |
 | `verschluesselung-key-vorfall-krisenstab-vpn` | Verschluesselung KEY Vorfall Krisenstab VPN im NIS2-Cybersecurity-Compliance: prüft konkret Prüft Verschlüsselung und Key Management, Baut Krisenstab und Entscheidungsmatrix für Cybervorfälle, Prüft Reisen, Auslandszugriffe und Hochrisik... |
 | `vorstand-ciso-kaltstart` | Führt Vorstand und CISO durch den ersten strukturierten Cyber-Compliance-Kaltstart. |
-| `wifi-gaestenetz` | Wifi Gaestenetz im NIS2-Cybersecurity-Compliance: Dieser Skill arbeitet Wifi Gaestenetz als zusammenhängenden Arbeitsgang im Plugin Nis2 Cybersecurity Compliance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Outpu... |
+| `wifi-gaestenetz` | Wifi Gaestenetz im NIS2-Cybersecurity-Compliance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

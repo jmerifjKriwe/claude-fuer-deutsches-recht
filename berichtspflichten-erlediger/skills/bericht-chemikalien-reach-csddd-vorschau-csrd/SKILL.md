@@ -7,7 +7,7 @@ description: "Bericht Chemikalien Reach Csddd Vorschau CSRD im Berichtspflichten
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Chemikalien Reach Csddd Vorschau CSRD** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Chemikalienrecht, CSDDD-Vorschau, Nachhaltigkeitsberichterstattung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Chemikalien Reach Csddd Vorschau CSRD** ordnet den Fall über die tragenden Prüffelder: Chemikalienrecht, CSDDD-Vorschau, Nachhaltigkeitsberichterstattung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

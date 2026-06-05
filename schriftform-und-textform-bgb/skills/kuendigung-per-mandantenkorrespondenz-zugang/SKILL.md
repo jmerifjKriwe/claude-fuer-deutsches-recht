@@ -7,7 +7,7 @@ description: "Kuendigung PER Mandantenkorrespondenz Zugang im Plugin Schriftform
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kuendigung PER Mandantenkorrespondenz Zugang** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Anwalt versendet oder empfängt eine Kündigung per, Prüffeld für mandantenkorrespondenz form und zugang, Prüffeld für mandantenwarnung qes per email whatsapp und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kuendigung PER Mandantenkorrespondenz Zugang** ordnet den Fall über die tragenden Prüffelder: Anwalt versendet oder empfängt eine Kündigung per, Prüffeld für mandantenkorrespondenz form und zugang, Prüffeld für mandantenwarnung qes per email whatsapp und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

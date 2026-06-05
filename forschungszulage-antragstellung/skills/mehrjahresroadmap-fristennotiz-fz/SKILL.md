@@ -7,7 +7,7 @@ description: "Mehrjahresroadmap Fristennotiz FZ im Forschungszulage-Antragstellu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mehrjahresroadmap Fristennotiz FZ** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Mehrjahresroadmap, Auftragsforschung im Sinne § 3 Abs, Spezialfall BSFZ-Pruefung und Nachfragen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mehrjahresroadmap Fristennotiz FZ** ordnet den Fall über die tragenden Prüffelder: Mehrjahresroadmap, Auftragsforschung im Sinne § 3 Abs, Spezialfall BSFZ-Pruefung und Nachfragen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

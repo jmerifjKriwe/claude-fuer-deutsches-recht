@@ -7,7 +7,7 @@ description: "Look Feel Matter File im Corporate-Kanzlei-Praxis: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Look Feel Matter File** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Corporate-Cowork-Design, Transaktionsakte strukturieren und verwalten für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Look Feel Matter File** ordnet den Fall über die tragenden Prüffelder: Corporate-Cowork-Design, Transaktionsakte strukturieren und verwalten für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

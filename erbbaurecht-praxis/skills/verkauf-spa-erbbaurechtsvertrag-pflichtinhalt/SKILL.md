@@ -7,7 +7,7 @@ description: "Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt im Plugin Erbbaurech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verkauf SPA Erbbaurechtsvertrag Pflichtinhalt** ordnet den Fall über die tragenden Prüffelder: Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

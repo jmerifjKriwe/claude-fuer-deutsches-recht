@@ -7,7 +7,7 @@ description: "Richtlinien Skelett Update Schatten im Plugin Ki Richtlinie Kanzle
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Richtlinien Skelett Update Schatten** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen, KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren, Schatten-KI in Kanzleien erkennen und konstruktiv umgehen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Richtlinien Skelett Update Schatten** ordnet den Fall über die tragenden Prüffelder: KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen, KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren, Schatten-KI in Kanzleien erkennen und konstruktiv umgehen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

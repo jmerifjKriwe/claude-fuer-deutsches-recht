@@ -7,7 +7,7 @@ description: "Verl Fussnoten Quellen Glossar Konsistenz im Verlagsredaktion (Rec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Fussnoten Quellen Glossar Konsistenz** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Konsolidiert den Fussnotenapparat eines Manuskripts, Prueft Glossar und Begriffskonsistenz quer durch Reihen, Prueft Grammatik und Stilkonsistenz im Manuskript und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Fussnoten Quellen Glossar Konsistenz** ordnet den Fall über die tragenden Prüffelder: Konsolidiert den Fussnotenapparat eines Manuskripts, Prueft Glossar und Begriffskonsistenz quer durch Reihen, Prueft Grammatik und Stilkonsistenz im Manuskript. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

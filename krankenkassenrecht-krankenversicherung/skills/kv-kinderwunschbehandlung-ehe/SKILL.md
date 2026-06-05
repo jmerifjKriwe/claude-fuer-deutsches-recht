@@ -7,7 +7,7 @@ description: "KV Kinderwunschbehandlung EHE im Krankenkassenrecht / Krankenversi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KV Kinderwunschbehandlung EHE** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V), GKV-Leistungen im Ausland, Krankenversicherungsrecht für Grenzgänger. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KV Kinderwunschbehandlung EHE** ordnet den Fall über die tragenden Prüffelder: GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V), GKV-Leistungen im Ausland, Krankenversicherungsrecht für Grenzgänger. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Grundbuch Vollzugslog Amtswiderspruch im Plugin Grundbuchamt Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Grundbuch Vollzugslog Amtswiderspruch** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Grundbuch Vollzugslog Amtswiderspruch** ordnet den Fall über die tragenden Prüffelder: Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "OLG KG Rechtsprechungsbank Verifiziert im Plugin Meinungspruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OLG KG Rechtsprechungsbank Verifiziert** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Nutzt obergerichtliche Praxis zu Äußerungen, Enthält eine verifizierte Rechtsprechungsbank zur. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OLG KG Rechtsprechungsbank Verifiziert** ordnet den Fall über die tragenden Prüffelder: Nutzt obergerichtliche Praxis zu Äußerungen, Enthält eine verifizierte Rechtsprechungsbank zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

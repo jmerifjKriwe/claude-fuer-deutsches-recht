@@ -7,7 +7,7 @@ description: "Abteilung II III Grundschuld Auflassung im Plugin Grundbuchamt Pra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abteilung II III Grundschuld Auflassung** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Analysiert Wegerecht, Leitungsrecht, Nießbrauch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abteilung II III Grundschuld Auflassung** ordnet den Fall über die tragenden Prüffelder: Analysiert Wegerecht, Leitungsrecht, Nießbrauch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

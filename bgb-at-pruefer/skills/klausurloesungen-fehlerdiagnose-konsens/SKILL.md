@@ -7,7 +7,7 @@ description: "Klausurloesungen Fehlerdiagnose Konsens im Plugin Bgb At Pruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klausurloesungen Fehlerdiagnose Konsens** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner, Prüft offenen und versteckten Dissens nach §§ 154 und 155, Klausurfall zum Missbrauch der Vertretungsmacht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klausurloesungen Fehlerdiagnose Konsens** ordnet den Fall über die tragenden Prüffelder: Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner, Prüft offenen und versteckten Dissens nach §§ 154 und 155, Klausurfall zum Missbrauch der Vertretungsmacht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

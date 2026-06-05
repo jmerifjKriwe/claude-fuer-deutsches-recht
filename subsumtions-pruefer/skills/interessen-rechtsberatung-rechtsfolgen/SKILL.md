@@ -7,7 +7,7 @@ description: "Interessen Rechtsberatung Rechtsfolgen im Plugin Subsumtions Pruef
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Interessen Rechtsberatung Rechtsfolgen** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Pruefen, Rechtsberatung, Rechtsfolgen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Interessen Rechtsberatung Rechtsfolgen** ordnet den Fall über die tragenden Prüffelder: Pruefen, Rechtsberatung, Rechtsfolgen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Feedback System Mandantenfeedback im Kanzlei-Management: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Feedback System Mandantenfeedback** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Baut kurze konkrete Feedbackroutinen mit Lernertrag, Manag, Holt Feedback zu Tempo und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Feedback System Mandantenfeedback** ordnet den Fall über die tragenden Prüffelder: Baut kurze konkrete Feedbackroutinen mit Lernertrag, Manag, Holt Feedback zu Tempo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

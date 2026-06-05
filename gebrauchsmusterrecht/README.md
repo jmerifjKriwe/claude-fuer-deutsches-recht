@@ -83,6 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `technische-laborbuch-teilloeschung` | Technische Laborbuch Teilloeschung im Gebrauchsmusterrecht: prüft konkret Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten, Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen. Liefert priorisierten Output mit... |
 | `uebertragung-sicherheit-us-provisional` | Uebertragung Sicherheit US Provisional im Gebrauchsmusterrecht: prüft konkret Übertragung, Sicherheiten und Registerumschreibung prüfen, US-Provisional, Design Patent und deutsches Gebrauchsmuster vergleichen. Liefert priorisierten Outpu... |
 | `vernichtung-rueckruf-vorbenutzungsrecht` | Vernichtung Rueckruf Vorbenutzungsrecht im Gebrauchsmusterrecht: prüft konkret Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen, Vorbenutzungsrecht und gutgläubige Nutzung prüfen. Liefert priorisierten Output mit Norm-Pinpoi... |
-| `zoll-plattformdurchsetzung` | Zoll Plattformdurchsetzung im Gebrauchsmusterrecht: Dieser Skill arbeitet Zoll Plattformdurchsetzung als zusammenhängenden Arbeitsgang im Plugin Gebrauchsmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem O... |
+| `zoll-plattformdurchsetzung` | Zoll Plattformdurchsetzung im Gebrauchsmusterrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

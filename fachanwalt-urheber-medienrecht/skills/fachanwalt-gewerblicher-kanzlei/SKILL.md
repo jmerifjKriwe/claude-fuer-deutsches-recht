@@ -7,7 +7,7 @@ description: "Gewerblicher Kanzlei im Plugin Fachanwalt Urheber Medienrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gewerblicher Kanzlei** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Fachanwalt, Gewerblicher, Kanzlei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gewerblicher Kanzlei** ordnet den Fall über die tragenden Prüffelder: Fachanwalt, Gewerblicher, Kanzlei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

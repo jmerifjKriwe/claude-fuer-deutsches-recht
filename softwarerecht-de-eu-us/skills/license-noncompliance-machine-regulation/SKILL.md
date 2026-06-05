@@ -7,7 +7,7 @@ description: "License Noncompliance Machine Regulation im Softwarerecht (DE/EU/U
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **License Noncompliance Machine Regulation** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**License Noncompliance Machine Regulation** ordnet den Fall über die tragenden Prüffelder: Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "APP Fraud Aufsichtsrat Vorlage im Plugin Bank Rechtsabteilung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **APP Fraud Aufsichtsrat Vorlage** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen, Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**APP Fraud Aufsichtsrat Vorlage** ordnet den Fall über die tragenden Prüffelder: APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen, Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

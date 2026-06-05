@@ -7,7 +7,7 @@ description: "Rueckforderung Aufhebung Rundfunkbeitrag im Bürokratieabbau-Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rueckforderung Aufhebung Rundfunkbeitrag** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung u und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rueckforderung Aufhebung Rundfunkbeitrag** ordnet den Fall über die tragenden Prüffelder: Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung u. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

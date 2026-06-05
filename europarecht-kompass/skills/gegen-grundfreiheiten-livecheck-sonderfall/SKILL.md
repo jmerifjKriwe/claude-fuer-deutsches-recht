@@ -7,7 +7,7 @@ description: "Gegen Grundfreiheiten Livecheck Sonderfall im Europarecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gegen Grundfreiheiten Livecheck Sonderfall** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Gegen, Grundfreiheiten, Livecheck. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gegen Grundfreiheiten Livecheck Sonderfall** ordnet den Fall über die tragenden Prüffelder: Gegen, Grundfreiheiten, Livecheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

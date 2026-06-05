@@ -7,7 +7,7 @@ description: "Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbere
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Privatdarlehen Familie** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Privatdarlehen in Familie und Freundeskreis, Restschuldbefreiungsantrag, SCHUFA/Auskunfteien nach Insolvenz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Privatdarlehen Familie** ordnet den Fall über die tragenden Prüffelder: Privatdarlehen in Familie und Freundeskreis, Restschuldbefreiungsantrag, SCHUFA/Auskunfteien nach Insolvenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

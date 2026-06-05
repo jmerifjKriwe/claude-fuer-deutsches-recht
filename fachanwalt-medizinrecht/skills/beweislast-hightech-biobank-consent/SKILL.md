@@ -7,7 +7,7 @@ description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beweislast Hightech Biobank Consent** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beweislast Hightech Biobank Consent** ordnet den Fall über die tragenden Prüffelder: Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

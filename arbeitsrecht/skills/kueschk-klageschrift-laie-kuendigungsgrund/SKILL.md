@@ -7,7 +7,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kueschk Klageschrift Laie Kuendigungsgrund** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Bauklastenartige Klageschrift für Laien, Drei Kündigungsgründe nach § 1 Abs, Praxistipps für Laien in der muendlichen Verhandlung beim und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kueschk Klageschrift Laie Kuendigungsgrund** ordnet den Fall über die tragenden Prüffelder: Bauklastenartige Klageschrift für Laien, Drei Kündigungsgründe nach § 1 Abs, Praxistipps für Laien in der muendlichen Verhandlung beim. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

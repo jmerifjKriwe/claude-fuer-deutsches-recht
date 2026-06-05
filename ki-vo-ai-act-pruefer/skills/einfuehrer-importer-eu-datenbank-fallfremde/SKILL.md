@@ -7,7 +7,7 @@ description: "Einfuehrer Importer EU Datenbank Fallfremde im EU KI-VO (AI Act): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einfuehrer Importer EU Datenbank Fallfremde** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Importeur von KI-Systemen aus Drittstaaten fragt, Anbieter oder Betreiber von Hochrisiko-KI fragt, Fallfremde KI-Textbausteine erkennen und entschärfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einfuehrer Importer EU Datenbank Fallfremde** ordnet den Fall über die tragenden Prüffelder: Importeur von KI-Systemen aus Drittstaaten fragt, Anbieter oder Betreiber von Hochrisiko-KI fragt, Fallfremde KI-Textbausteine erkennen und entschärfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

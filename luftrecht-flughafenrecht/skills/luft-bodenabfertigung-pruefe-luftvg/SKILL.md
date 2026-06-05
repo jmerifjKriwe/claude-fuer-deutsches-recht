@@ -7,7 +7,7 @@ description: "Luft Bodenabfertigung Pruefe Luftvg im Plugin Luftrecht Flughafenr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Bodenabfertigung Pruefe Luftvg** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Bodenabfertigungs-Mandat, Mandant fragt ob LuftVG gilt, Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Bodenabfertigung Pruefe Luftvg** ordnet den Fall über die tragenden Prüffelder: Bodenabfertigungs-Mandat, Mandant fragt ob LuftVG gilt, Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

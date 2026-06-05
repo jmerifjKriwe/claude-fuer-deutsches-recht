@@ -7,7 +7,7 @@ description: "Board Paper Closing Bible im Corporate-Kanzlei-Praxis: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Board Paper Closing Bible** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen, Closing Bible und Deal-Archiv nach M&A-Closing erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Board Paper Closing Bible** ordnet den Fall über die tragenden Prüffelder: Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen, Closing Bible und Deal-Archiv nach M&A-Closing erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

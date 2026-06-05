@@ -7,7 +7,7 @@ description: "China Importeur EU Compliance Exporteur Deutschland Nach im Plugin
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Importeur EU Compliance Exporteur Deutschland Nach** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von EU-Compliance-Pflichten für Importeure von Waren aus VR, Exportkontrolle für Lieferungen aus Deutschland nach VR, Markteintrittsoptionen für ausländische Investoren in VR und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Importeur EU Compliance Exporteur Deutschland Nach** ordnet den Fall über die tragenden Prüffelder: EU-Compliance-Pflichten für Importeure von Waren aus VR, Exportkontrolle für Lieferungen aus Deutschland nach VR, Markteintrittsoptionen für ausländische Investoren in VR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

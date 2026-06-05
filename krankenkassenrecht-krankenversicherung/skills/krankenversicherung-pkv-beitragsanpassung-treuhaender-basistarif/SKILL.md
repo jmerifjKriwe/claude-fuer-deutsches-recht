@@ -7,7 +7,7 @@ description: "PKV Beitragsanpassung Treuhaender Basistarif im Krankenkassenrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PKV Beitragsanpassung Treuhaender Basistarif** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von PKV-Beitragserhöhungen nach § 203 VVG, Auffangsysteme in der PKV, PKV-Krankentagegeld nach § 192 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PKV Beitragsanpassung Treuhaender Basistarif** ordnet den Fall über die tragenden Prüffelder: PKV-Beitragserhöhungen nach § 203 VVG, Auffangsysteme in der PKV, PKV-Krankentagegeld nach § 192 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

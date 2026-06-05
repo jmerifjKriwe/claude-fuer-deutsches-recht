@@ -7,7 +7,7 @@ description: "Schulung Legistik Aenderungs Fraktionen im Legistik (Gesetzgebungs
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schulung Legistik Aenderungs Fraktionen** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte, Aenderungs, Fraktionen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schulung Legistik Aenderungs Fraktionen** ordnet den Fall über die tragenden Prüffelder: Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte, Aenderungs, Fraktionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

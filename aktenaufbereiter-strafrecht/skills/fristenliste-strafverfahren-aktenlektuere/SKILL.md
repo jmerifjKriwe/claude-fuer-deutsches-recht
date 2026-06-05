@@ -7,7 +7,7 @@ description: "Fristenliste Strafverfahren Aktenlektuere im Strafakten-Aufbereitu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristenliste Strafverfahren Aktenlektuere** als zusammenhängenden Arbeitsgang im Strafakten-Aufbereitung. Im Mittelpunkt steht die Prüfung von Fristenliste fuer ein Strafverfahren, Aktenlektuere, Fristen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristenliste Strafverfahren Aktenlektuere** ordnet den Fall über die tragenden Prüffelder: Fristenliste fuer ein Strafverfahren, Aktenlektuere, Fristen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Insurance Notice Investigation Governance im Plugin Kanzlei Mandan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insurance Notice Investigation Governance** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Insurance Notice, Investigation Governance, Invoice Review Narratives und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insurance Notice Investigation Governance** ordnet den Fall über die tragenden Prüffelder: Insurance Notice, Investigation Governance, Invoice Review Narratives. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

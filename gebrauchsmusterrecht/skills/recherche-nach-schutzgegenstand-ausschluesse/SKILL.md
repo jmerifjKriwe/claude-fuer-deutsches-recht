@@ -7,7 +7,7 @@ description: "Recherche Nach Schutzgegenstand Ausschluesse im Gebrauchsmusterrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Recherche Nach Schutzgegenstand Ausschluesse** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Recherche nach § 7 GebrMG vorbereiten und auswerten, Schutzgegenstand und Ausschlüsse prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Recherche Nach Schutzgegenstand Ausschluesse** ordnet den Fall über die tragenden Prüffelder: Recherche nach § 7 GebrMG vorbereiten und auswerten, Schutzgegenstand und Ausschlüsse prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

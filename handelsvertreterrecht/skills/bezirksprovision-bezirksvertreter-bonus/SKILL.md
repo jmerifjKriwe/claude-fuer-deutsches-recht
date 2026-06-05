@@ -7,7 +7,7 @@ description: "Bezirksprovision Bezirksvertreter Bonus im Handelsvertreterrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bezirksprovision Bezirksvertreter Bonus** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Prüft den Anspruch auf Bezirksprovision nach § 87 Abs, Prüft Rechte und Pflichten des Bezirksvertreters nach § 87, Prüft Bonuszahlungen und leistungsbezogene und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bezirksprovision Bezirksvertreter Bonus** ordnet den Fall über die tragenden Prüffelder: Prüft den Anspruch auf Bezirksprovision nach § 87 Abs, Prüft Rechte und Pflichten des Bezirksvertreters nach § 87, Prüft Bonuszahlungen und leistungsbezogene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

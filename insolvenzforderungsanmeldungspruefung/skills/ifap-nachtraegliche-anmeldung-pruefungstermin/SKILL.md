@@ -7,7 +7,7 @@ description: "Ifap Nachtraegliche Anmeldung Pruefungstermin im Plugin Insolvenzf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Nachtraegliche Anmeldung Pruefungstermin** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Verspätete und nachträgliche Forderungsanmeldungen nach §, Prüfungstermin nach § 176 InsO vorbereiten, Qualitätsgate vor Tabelleneintrag Prüfungstermin und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Nachtraegliche Anmeldung Pruefungstermin** ordnet den Fall über die tragenden Prüffelder: Verspätete und nachträgliche Forderungsanmeldungen nach §, Prüfungstermin nach § 176 InsO vorbereiten, Qualitätsgate vor Tabelleneintrag Prüfungstermin und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

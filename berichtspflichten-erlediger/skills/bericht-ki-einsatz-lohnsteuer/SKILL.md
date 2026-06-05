@@ -7,7 +7,7 @@ description: "Bericht KI Einsatz Lohnsteuer im Berichtspflichten-Praxis: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht KI Einsatz Lohnsteuer** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von KI-gestützte Berichtserstellung, Lohnsteueranmeldung, DEÜV-Meldungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht KI Einsatz Lohnsteuer** ordnet den Fall über die tragenden Prüffelder: KI-gestützte Berichtserstellung, Lohnsteueranmeldung, DEÜV-Meldungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

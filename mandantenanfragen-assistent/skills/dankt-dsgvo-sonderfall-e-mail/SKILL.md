@@ -7,7 +7,7 @@ description: "Dankt DSGVO Sonderfall E Mail im Mandantenanfragen-Triage: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dankt DSGVO Sonderfall E Mail** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Dankt, DSGVO, E-Mail-Erstantwort. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dankt DSGVO Sonderfall E Mail** ordnet den Fall über die tragenden Prüffelder: Dankt, DSGVO, E-Mail-Erstantwort. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

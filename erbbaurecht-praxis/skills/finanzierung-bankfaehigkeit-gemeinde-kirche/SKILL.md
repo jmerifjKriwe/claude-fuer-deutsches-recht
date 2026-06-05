@@ -7,7 +7,7 @@ description: "Finanzierung Bankfaehigkeit Gemeinde Kirche im Plugin Erbbaurecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Finanzierung Bankfaehigkeit Gemeinde Kirche** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Prüft Beleihbarkeit, Rang, Laufzeitrest. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Finanzierung Bankfaehigkeit Gemeinde Kirche** ordnet den Fall über die tragenden Prüffelder: Prüft Beleihbarkeit, Rang, Laufzeitrest. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

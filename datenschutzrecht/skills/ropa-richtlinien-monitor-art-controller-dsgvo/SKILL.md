@@ -7,7 +7,7 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ropa Richtlinien Monitor ART Controller DSGVO** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage fuer das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüffelder: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage fuer das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

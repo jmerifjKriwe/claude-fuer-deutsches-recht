@@ -7,7 +7,7 @@ description: "Uebertragende Sanierung Auslaendischer Office im Plugin Insolvenzr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Uebertragende Sanierung Auslaendischer Office** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Insolvenzverwalter will Geschäftsbetrieb verkaufen oder, Prüft, ob und wie ein US debtor in possession und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Uebertragende Sanierung Auslaendischer Office** ordnet den Fall über die tragenden Prüffelder: Insolvenzverwalter will Geschäftsbetrieb verkaufen oder, Prüft, ob und wie ein US debtor in possession. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

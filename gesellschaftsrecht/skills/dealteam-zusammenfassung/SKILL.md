@@ -7,7 +7,7 @@ description: "Dealteam Zusammenfassung im Plugin Gesellschaftsrecht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dealteam Zusammenfassung** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitst, Erstellung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dealteam Zusammenfassung** ordnet den Fall über die tragenden Prüffelder: Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitst, Erstellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

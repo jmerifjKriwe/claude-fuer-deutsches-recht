@@ -7,7 +7,7 @@ description: "Familiennachzug Start Fiktionswirkung First im Migrationsrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Familiennachzug Start Fiktionswirkung First** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Familiennachzug Start Fiktionswirkung First** ordnet den Fall über die tragenden Prüffelder: Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

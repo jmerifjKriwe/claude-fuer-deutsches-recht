@@ -7,7 +7,7 @@ description: "Europarecht Emrk Gegendarstellung im Plugin Meinungspruefer: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Europarecht Emrk Gegendarstellung** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Ordnet Art 10 EMRK und Art 11 GRCh in die Äußerungsprüfung, Entwickelt Reaktionsoptionen bei eskalierten Äußerungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Europarecht Emrk Gegendarstellung** ordnet den Fall über die tragenden Prüffelder: Ordnet Art 10 EMRK und Art 11 GRCh in die Äußerungsprüfung, Entwickelt Reaktionsoptionen bei eskalierten Äußerungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Qualitaetsmanagement QMS Raeume Ausstattung im Plugin Apothekenrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Qualitaetsmanagement QMS Raeume Ausstattung** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Qualitätsmanagement QMS SOPs, Räume Ausstattung Rezeptur Defektur Labor, Rechnung Retaxation Krankenkasse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Qualitaetsmanagement QMS Raeume Ausstattung** ordnet den Fall über die tragenden Prüffelder: Qualitätsmanagement QMS SOPs, Räume Ausstattung Rezeptur Defektur Labor, Rechnung Retaxation Krankenkasse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "KV Familienversicherung KV Statusfeststellung im Krankenkassenrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KV Familienversicherung KV Statusfeststellung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Familienversicherung nach § 10 SGB V, Statusfeststellungsverfahren nach § 7a SGB IV, Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KV Familienversicherung KV Statusfeststellung** ordnet den Fall über die tragenden Prüffelder: Familienversicherung nach § 10 SGB V, Statusfeststellungsverfahren nach § 7a SGB IV, Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

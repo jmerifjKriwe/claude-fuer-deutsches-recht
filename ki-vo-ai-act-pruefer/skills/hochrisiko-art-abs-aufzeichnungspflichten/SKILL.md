@@ -7,7 +7,7 @@ description: "Hochrisiko ART ABS Aufzeichnungspflichten im EU KI-VO (AI Act): pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hochrisiko ART ABS Aufzeichnungspflichten** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Vertiefter Hochrisiko-Checker fuer Art, Anbieter von Hochrisiko-KI fragt, Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hochrisiko ART ABS Aufzeichnungspflichten** ordnet den Fall über die tragenden Prüffelder: Vertiefter Hochrisiko-Checker fuer Art, Anbieter von Hochrisiko-KI fragt, Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

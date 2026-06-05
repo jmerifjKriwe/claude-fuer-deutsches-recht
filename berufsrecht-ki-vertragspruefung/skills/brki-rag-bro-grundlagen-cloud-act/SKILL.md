@@ -7,7 +7,7 @@ description: "Brki RAG BRO Grundlagen Cloud ACT im Plugin Berufsrecht Ki Vertrag
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Brki RAG BRO Grundlagen Cloud ACT** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Spezialfall RAG-Architekturen mit Mandantenakten, BRAO-Grundlagen fuer KI-Einsatz in der Kanzlei einfuehrend, Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Brki RAG BRO Grundlagen Cloud ACT** ordnet den Fall über die tragenden Prüffelder: Spezialfall RAG-Architekturen mit Mandantenakten, BRAO-Grundlagen fuer KI-Einsatz in der Kanzlei einfuehrend, Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DB M A Open Source Kollektive Datensammlung im Plugin Datenbankrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB M A Open Source Kollektive Datensammlung** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht bei M&A-Transaktionen und virtuellen, Datenbankrecht für Open-Source-Datenbanken und, Datenbankrecht bei kollektiven und arbeitsteilig erstellten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB M A Open Source Kollektive Datensammlung** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht bei M&A-Transaktionen und virtuellen, Datenbankrecht für Open-Source-Datenbanken und, Datenbankrecht bei kollektiven und arbeitsteilig erstellten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TOP Generator Verwalterpflichten WEG Wegh** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und V. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TOP Generator Verwalterpflichten WEG Wegh** ordnet den Fall über die tragenden Prüffelder: Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

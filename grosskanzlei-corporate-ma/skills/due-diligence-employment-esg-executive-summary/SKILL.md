@@ -7,7 +7,7 @@ description: "DUE Diligence Employment ESG Executive Summary im Corporate/M&A (G
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DUE Diligence Employment ESG Executive Summary** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Commercial Contracts Due Diligence im M&A-Datenraum, Legal Due Diligence im M&A-Prozess, Due Diligence Report erstellen und strukturieren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DUE Diligence Employment ESG Executive Summary** ordnet den Fall über die tragenden Prüffelder: Commercial Contracts Due Diligence im M&A-Datenraum, Legal Due Diligence im M&A-Prozess, Due Diligence Report erstellen und strukturieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

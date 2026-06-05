@@ -1,13 +1,13 @@
 ---
 name: nda-abgleich-word
-description: "Word im NDA-Abgleich: Dieser Skill arbeitet Word als zusammenhängenden Arbeitsgang im Plugin NDA-Abgleich ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Word im NDA-Abgleich: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Word
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Word** als zusammenhängenden Arbeitsgang im Plugin NDA-Abgleich ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Word** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

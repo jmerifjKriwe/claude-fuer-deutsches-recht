@@ -7,7 +7,7 @@ description: "Neuheit Erfinderische Patentprozess im Patentrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Neuheit Erfinderische Patentprozess** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Prüft Patentfähigkeit mit Merkmalsgliederung, Neuheit nach § 3 PatG/Art, Strukturiert Besichtigung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Neuheit Erfinderische Patentprozess** ordnet den Fall über die tragenden Prüffelder: Prüft Patentfähigkeit mit Merkmalsgliederung, Neuheit nach § 3 PatG/Art, Strukturiert Besichtigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

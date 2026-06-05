@@ -7,7 +7,7 @@ description: "Ifap Rang Nachrang Schuldnerwiderspruch im Plugin Insolvenzforderu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Rang Nachrang Schuldnerwiderspruch** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Rang Nachrang Absonderung und Aussonderung bei, Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen, Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Rang Nachrang Schuldnerwiderspruch** ordnet den Fall über die tragenden Prüffelder: Rang Nachrang Absonderung und Aussonderung bei, Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen, Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

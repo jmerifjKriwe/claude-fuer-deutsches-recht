@@ -7,7 +7,7 @@ description: "Foerderantragssteller Formalia RED Fuehrung im DFG-Förderantragst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Foerderantragssteller Formalia RED Fuehrung** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Foerderantragssteller, Formalia, Fuehrung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Foerderantragssteller Formalia RED Fuehrung** ordnet den Fall über die tragenden Prüffelder: Foerderantragssteller, Formalia, Fuehrung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

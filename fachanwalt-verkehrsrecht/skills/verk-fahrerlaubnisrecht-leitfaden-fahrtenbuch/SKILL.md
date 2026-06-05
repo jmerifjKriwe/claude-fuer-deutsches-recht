@@ -7,7 +7,7 @@ description: "Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht. Im Mittelpunkt steht die Prüfung von Leitfaden Fahrerlaubnisrecht, Spezialfall Fahrtenbuchanordnung § 31a StVZO, Spezialfall Trunkenheits- und Drogenfahrt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch** ordnet den Fall über die tragenden Prüffelder: Leitfaden Fahrerlaubnisrecht, Spezialfall Fahrtenbuchanordnung § 31a StVZO, Spezialfall Trunkenheits- und Drogenfahrt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

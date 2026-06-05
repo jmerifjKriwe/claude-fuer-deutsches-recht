@@ -7,7 +7,7 @@ description: "Kirchensteuer Staatskirchenrecht im Römisch-katholischen Kirchenr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kirchensteuer Staatskirchenrecht** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Kirchensteuer und Staatskirchenrecht, Aktenaufnahme in Pfarrei, Ordinariat und Offizialat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kirchensteuer Staatskirchenrecht** ordnet den Fall über die tragenden Prüffelder: Kirchensteuer und Staatskirchenrecht, Aktenaufnahme in Pfarrei, Ordinariat und Offizialat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

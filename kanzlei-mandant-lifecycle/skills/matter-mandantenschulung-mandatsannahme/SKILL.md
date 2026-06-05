@@ -7,7 +7,7 @@ description: "Matter Mandantenschulung Mandatsannahme im Plugin Kanzlei Mandant 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Matter Mandantenschulung Mandatsannahme** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Mandantenschulung, Mandatsannahme, Conflict und GwG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Matter Mandantenschulung Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Mandantenschulung, Mandatsannahme, Conflict und GwG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

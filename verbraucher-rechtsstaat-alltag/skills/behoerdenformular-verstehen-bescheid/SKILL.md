@@ -7,7 +7,7 @@ description: "Behoerdenformular Verstehen Bescheid im Plugin Verbraucher Rechtss
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Behoerdenformular Verstehen Bescheid** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Behördenformular verstehen, Bescheid oder Brief verstehen, Datenschutz Auskunft und Löschung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Behoerdenformular Verstehen Bescheid** ordnet den Fall über die tragenden Prüffelder: Behördenformular verstehen, Bescheid oder Brief verstehen, Datenschutz Auskunft und Löschung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

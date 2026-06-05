@@ -7,7 +7,7 @@ description: "RED Team Rentenluecke Rentnerfall Beide im Plugin Fachanwalt Famil
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **RED Team Rentenluecke Rentnerfall Beide** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Red-Team VA-Beschluss rechnerisch, Rentenlücke nach Scheidung Handlungsoptionen, Rentnerfall beide beziehen Rente und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**RED Team Rentenluecke Rentnerfall Beide** ordnet den Fall über die tragenden Prüffelder: Red-Team VA-Beschluss rechnerisch, Rentenlücke nach Scheidung Handlungsoptionen, Rentnerfall beide beziehen Rente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

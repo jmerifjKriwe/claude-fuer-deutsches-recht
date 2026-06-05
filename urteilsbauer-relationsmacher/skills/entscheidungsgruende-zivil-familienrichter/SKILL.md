@@ -7,7 +7,7 @@ description: "Entscheidungsgruende Zivil Familienrichter im Plugin Urteilsbauer 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entscheidungsgruende Zivil Familienrichter** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Entscheidungsgründe eines Zivilurteils im Urteilsstil, FamFG-Spezifika für Familienrichter anwenden, Incoterms-Klausel und Gefahruebergang in internationalem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entscheidungsgruende Zivil Familienrichter** ordnet den Fall über die tragenden Prüffelder: Entscheidungsgründe eines Zivilurteils im Urteilsstil, FamFG-Spezifika für Familienrichter anwenden, Incoterms-Klausel und Gefahruebergang in internationalem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

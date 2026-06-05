@@ -7,7 +7,7 @@ description: "Verdeckte Sacheinlage Vesting Leaver im Plugin Gesellschaftsrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verdeckte Sacheinlage Vesting Leaver** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Erkennt und prueft verdeckte Sacheinlage und, Erklaert Vesting, Cliff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verdeckte Sacheinlage Vesting Leaver** ordnet den Fall über die tragenden Prüffelder: Erkennt und prueft verdeckte Sacheinlage und, Erklaert Vesting, Cliff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

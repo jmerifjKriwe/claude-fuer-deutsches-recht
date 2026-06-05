@@ -7,7 +7,7 @@ description: "Satzbau Juristendeutsch Sozialrecht im Bereich Juristische Sprache
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satzbau Juristendeutsch Sozialrecht** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Satzbau Juristendeutsch fuer Menschen mit Deutsch, Hilft bei Sozialrecht Warnwoerter fuer Menschen mit Deutsch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satzbau Juristendeutsch Sozialrecht** ordnet den Fall über die tragenden Prüffelder: Hilft bei Satzbau Juristendeutsch fuer Menschen mit Deutsch, Hilft bei Sozialrecht Warnwoerter fuer Menschen mit Deutsch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

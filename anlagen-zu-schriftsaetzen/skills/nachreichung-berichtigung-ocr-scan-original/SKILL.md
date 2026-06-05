@@ -7,7 +7,7 @@ description: "Nachreichung Berichtigung OCR Scan Original im Plugin Anlagen Zu S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachreichung Berichtigung OCR Scan Original** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Plant die Reparatur eines Anlagenpakets nach gerichtlichem, Rüge der Geg, Prüft gescannte Anlagen auf Lesbarkeit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachreichung Berichtigung OCR Scan Original** ordnet den Fall über die tragenden Prüffelder: Plant die Reparatur eines Anlagenpakets nach gerichtlichem, Rüge der Geg, Prüft gescannte Anlagen auf Lesbarkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

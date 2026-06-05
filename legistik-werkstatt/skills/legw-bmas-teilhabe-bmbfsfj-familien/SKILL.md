@@ -7,7 +7,7 @@ description: "Legw Bmas Teilhabe Bmbfsfj Familien im Legistik (Gesetzgebungstech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Bmas Teilhabe Bmbfsfj Familien** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS, Sachbereich Familien- und Elterngeldrecht im, Sachbereich Gleichstellungs- und Antidiskriminierungsrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Bmas Teilhabe Bmbfsfj Familien** ordnet den Fall über die tragenden Prüffelder: Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS, Sachbereich Familien- und Elterngeldrecht im, Sachbereich Gleichstellungs- und Antidiskriminierungsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

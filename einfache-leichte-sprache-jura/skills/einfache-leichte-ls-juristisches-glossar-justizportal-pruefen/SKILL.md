@@ -7,7 +7,7 @@ description: "LS Juristisches Glossar Justizportal Pruefen im Einfache und leich
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **LS Juristisches Glossar Justizportal Pruefen** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Juristisches Glossar fuer Einfache und Leichte Sprache, Spezialfall Justizportal in Leichte Sprache pruefen, Spezialfall Strafprozess-Rechte in Leichte Sprache erklaeren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**LS Juristisches Glossar Justizportal Pruefen** ordnet den Fall über die tragenden Prüffelder: Juristisches Glossar fuer Einfache und Leichte Sprache, Spezialfall Justizportal in Leichte Sprache pruefen, Spezialfall Strafprozess-Rechte in Leichte Sprache erklaeren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

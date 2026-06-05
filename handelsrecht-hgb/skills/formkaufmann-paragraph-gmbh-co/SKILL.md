@@ -7,7 +7,7 @@ description: "Formkaufmann Paragraph Gmbh CO im Handelsrecht (HGB): prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Formkaufmann Paragraph Gmbh CO** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft Kaufmannseigenschaft kraft Rechtsform bei, Prüft HGB-Struktur der GmbH & Co. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Formkaufmann Paragraph Gmbh CO** ordnet den Fall über die tragenden Prüffelder: Prüft Kaufmannseigenschaft kraft Rechtsform bei, Prüft HGB-Struktur der GmbH & Co. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

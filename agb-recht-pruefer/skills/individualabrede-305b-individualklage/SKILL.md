@@ -7,7 +7,7 @@ description: "Individualabrede 305b Individualklage im AGB-Recht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Individualabrede 305b Individualklage** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Individualabrede 305b, Individualklage Verteidigung, Branchen-Fachmodul für Insolvenzverkauf AGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Individualabrede 305b Individualklage** ordnet den Fall über die tragenden Prüffelder: Individualabrede 305b, Individualklage Verteidigung, Branchen-Fachmodul für Insolvenzverkauf AGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

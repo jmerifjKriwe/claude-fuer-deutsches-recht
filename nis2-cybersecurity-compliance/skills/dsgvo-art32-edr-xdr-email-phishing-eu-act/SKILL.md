@@ -7,7 +7,7 @@ description: "DSGVO Art32 EDR XDR Email Phishing EU ACT im NIS2-Cybersecurity-Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSGVO Art32 EDR XDR Email Phishing EU ACT** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Verknüpft IT-Sicherheit mit Datenschutz und Art, Prüft EDR/XDR auf Endpoints und Servern, Prüft Phishing-Abwehr und E-Mail-Sicherheit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSGVO Art32 EDR XDR Email Phishing EU ACT** ordnet den Fall über die tragenden Prüffelder: Verknüpft IT-Sicherheit mit Datenschutz und Art, Prüft EDR/XDR auf Endpoints und Servern, Prüft Phishing-Abwehr und E-Mail-Sicherheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

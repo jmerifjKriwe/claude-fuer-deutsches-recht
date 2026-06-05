@@ -7,7 +7,7 @@ description: "Games Software Gebuehren Paygov Government im Plugin Us Copyright 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Games Software Gebuehren Paygov Government** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Prueft Games als Bündel aus Code, Audio, Grafik und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Games Software Gebuehren Paygov Government** ordnet den Fall über die tragenden Prüffelder: Prueft Games als Bündel aus Code, Audio, Grafik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

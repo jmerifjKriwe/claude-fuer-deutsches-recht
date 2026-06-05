@@ -7,7 +7,7 @@ description: "Space Mondvertrag Ressourcen im Plugin Weltraumrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Mondvertrag Ressourcen** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenr, Astronautenausbildungsverträge – Arbeitsrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Mondvertrag Ressourcen** ordnet den Fall über die tragenden Prüffelder: Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenr, Astronautenausbildungsverträge – Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

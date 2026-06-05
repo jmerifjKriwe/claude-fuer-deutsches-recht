@@ -7,7 +7,7 @@ description: "Stakeholder Mapping Tonfall Krisenkommunikation im Plugin Fachanwa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stakeholder Mapping Tonfall Krisenkommunikation** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in, Bewertet und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stakeholder Mapping Tonfall Krisenkommunikation** ordnet den Fall über die tragenden Prüffelder: Kartiert alle internen und externen Stakeholder eines, Bestimmt den richtigen Tonfall und die Sprachregelung in, Bewertet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Gerichtsschreiben Kuerzung Wegfall im JVEG-Kostenprüfung: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gerichtsschreiben Kuerzung Wegfall** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen, Navigationszentrum für alle JVEG-Kostenprüfer-Skills, Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gerichtsschreiben Kuerzung Wegfall** ordnet den Fall über die tragenden Prüffelder: Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen, Navigationszentrum für alle JVEG-Kostenprüfer-Skills, Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

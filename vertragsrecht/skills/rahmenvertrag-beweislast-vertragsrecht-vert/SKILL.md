@@ -7,7 +7,7 @@ description: "Rahmenvertrag Beweislast Vertragsrecht Vert im Plugin Vertragsrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rahmenvertrag Beweislast Vertragsrecht Vert** als zusammenhängenden Arbeitsgang im Plugin Vertragsrecht. Im Mittelpunkt steht die Prüfung von Rahmenvertrag, Vertragsrecht, Spezialfall Rahmenvertrag und Einzelabrufe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rahmenvertrag Beweislast Vertragsrecht Vert** ordnet den Fall über die tragenden Prüffelder: Rahmenvertrag, Vertragsrecht, Spezialfall Rahmenvertrag und Einzelabrufe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: upc-unified
-description: "UPC Unified im Plugin Patentrecherche: Dieser Skill arbeitet UPC Unified als zusammenhängenden Arbeitsgang im Plugin Patentrecherche (FTO, Validity) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "UPC Unified im Plugin Patentrecherche: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # UPC Unified
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **UPC Unified** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche (FTO, Validity) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**UPC Unified** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beschlusssammlung Protokoll Beschlussvorlagen** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beschlusssammlung Protokoll Beschlussvorlagen** ordnet den Fall über die tragenden Prüffelder: Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

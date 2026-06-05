@@ -7,7 +7,7 @@ description: "Produktfreigabe NEW Restrukturierung im Plugin Bank Rechtsabteilun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Produktfreigabe NEW Restrukturierung** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von New Product Process einer Bank, Restrukturierung eines Kreditengagements steuern, Anwaltliche Rechnungen und Kanzlei-Budgets reviewen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Produktfreigabe NEW Restrukturierung** ordnet den Fall über die tragenden Prüffelder: New Product Process einer Bank, Restrukturierung eines Kreditengagements steuern, Anwaltliche Rechnungen und Kanzlei-Budgets reviewen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

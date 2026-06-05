@@ -7,7 +7,7 @@ description: "ER Bess Kritis Marktrollen Bilanzkreis im Plugin Energierecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ER Bess Kritis Marktrollen Bilanzkreis** als zusammenhängenden Arbeitsgang im Plugin Energierecht. Im Mittelpunkt steht die Prüfung von Prüft, ob Speicher, Leitwarte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ER Bess Kritis Marktrollen Bilanzkreis** ordnet den Fall über die tragenden Prüffelder: Prüft, ob Speicher, Leitwarte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

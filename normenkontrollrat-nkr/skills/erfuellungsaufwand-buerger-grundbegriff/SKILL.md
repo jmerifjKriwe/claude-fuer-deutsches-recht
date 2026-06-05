@@ -7,7 +7,7 @@ description: "Erfuellungsaufwand Buerger Grundbegriff im Plugin Normenkontrollra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erfuellungsaufwand Buerger Grundbegriff** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Trennt den Erfuellungsaufwand methodisch nach den drei, Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erfuellungsaufwand Buerger Grundbegriff** ordnet den Fall über die tragenden Prüffelder: Trennt den Erfuellungsaufwand methodisch nach den drei, Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

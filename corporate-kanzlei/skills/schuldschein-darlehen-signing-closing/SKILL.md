@@ -7,7 +7,7 @@ description: "Schuldschein Darlehen Signing Closing im Corporate-Kanzlei-Praxis:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schuldschein Darlehen Signing Closing** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades, Signing und Closing Conditions verwalten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schuldschein Darlehen Signing Closing** ordnet den Fall über die tragenden Prüffelder: Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades, Signing und Closing Conditions verwalten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

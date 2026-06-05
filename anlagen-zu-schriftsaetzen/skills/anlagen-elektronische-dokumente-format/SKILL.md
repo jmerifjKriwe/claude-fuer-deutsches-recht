@@ -7,7 +7,7 @@ description: "Elektronische Dokumente Format im Plugin Anlagen Zu Schriftsaetzen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elektronische Dokumente Format** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Spezialfall elektronische Dokumente als Anlage, Format und Dateinamen fuer Anlagen, Anlagen fuer beA-Versand vorbereiten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elektronische Dokumente Format** ordnet den Fall über die tragenden Prüffelder: Spezialfall elektronische Dokumente als Anlage, Format und Dateinamen fuer Anlagen, Anlagen fuer beA-Versand vorbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

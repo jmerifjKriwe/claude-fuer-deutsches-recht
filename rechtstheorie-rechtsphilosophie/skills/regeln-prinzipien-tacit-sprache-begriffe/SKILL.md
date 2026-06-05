@@ -7,7 +7,7 @@ description: "Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Regeln Prinzipien Tacit Sprache Begriffe** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Regeln Prinzipien Tacit Sprache Begriffe** ordnet den Fall über die tragenden Prüffelder: Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "CHN Contract Language Arbitration HK im Plugin Festlandchina Wirts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CHN Contract Language Arbitration HK** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Vertragssprache und anwendbares Recht bei China-Verträgen, Schiedsgerichtsbarkeit für China-Streitigkeiten, Vollstreckung von Schieds- und Gerichtsurteilen in VR China und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CHN Contract Language Arbitration HK** ordnet den Fall über die tragenden Prüffelder: Vertragssprache und anwendbares Recht bei China-Verträgen, Schiedsgerichtsbarkeit für China-Streitigkeiten, Vollstreckung von Schieds- und Gerichtsurteilen in VR China. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

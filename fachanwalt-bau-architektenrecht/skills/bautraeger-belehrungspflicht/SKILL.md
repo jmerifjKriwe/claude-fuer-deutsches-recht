@@ -7,7 +7,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bautraeger Belehrungspflicht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bautraeger Belehrungspflicht** ordnet den Fall über die tragenden Prüffelder: Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

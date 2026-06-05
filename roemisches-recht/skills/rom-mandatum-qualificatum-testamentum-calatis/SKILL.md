@@ -7,7 +7,7 @@ description: "ROM Mandatum Qualificatum Testamentum Calatis im Römisches Recht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ROM Mandatum Qualificatum Testamentum Calatis** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Mandatum qualificatum, Testamentum calatis comitiis und in procinctu, Testamentum per aes et libram und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ROM Mandatum Qualificatum Testamentum Calatis** ordnet den Fall über die tragenden Prüffelder: Mandatum qualificatum, Testamentum calatis comitiis und in procinctu, Testamentum per aes et libram. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

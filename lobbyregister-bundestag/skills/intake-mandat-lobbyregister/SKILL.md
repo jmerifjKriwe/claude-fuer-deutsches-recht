@@ -7,7 +7,7 @@ description: "Intake Mandat Lobbyregister im Lobbyregister Bundestag: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Intake Mandat Lobbyregister** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Erfasst Ausgangslage, Organisation, Kontaktplaene. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Intake Mandat Lobbyregister** ordnet den Fall über die tragenden Prüffelder: Erfasst Ausgangslage, Organisation, Kontaktplaene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

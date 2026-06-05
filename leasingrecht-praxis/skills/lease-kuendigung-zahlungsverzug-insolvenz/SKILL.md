@@ -7,7 +7,7 @@ description: "Lease Kuendigung Zahlungsverzug Insolvenz im Plugin Leasingrecht P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Kuendigung Zahlungsverzug Insolvenz** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Kündigung des Leasingvertrags, Insolvenz des Leasingnehmers, Insolvenz des Leasinggebers. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Kuendigung Zahlungsverzug Insolvenz** ordnet den Fall über die tragenden Prüffelder: Kündigung des Leasingvertrags, Insolvenz des Leasingnehmers, Insolvenz des Leasinggebers. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Anfechtungsrechte Antragspflicht 15A im Plugin Insolvenzrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfechtungsrechte Antragspflicht 15A** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor, Analysiert die Insolvenzantragspflicht des Geschäftsleiters, die und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfechtungsrechte Antragspflicht 15A** ordnet den Fall über die tragenden Prüffelder: Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor, Analysiert die Insolvenzantragspflicht des Geschäftsleiters, die. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

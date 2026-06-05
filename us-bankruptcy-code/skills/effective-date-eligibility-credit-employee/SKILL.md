@@ -7,7 +7,7 @@ description: "Effective Date Eligibility Credit Employee im Plugin Us Bankruptcy
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Effective Date Eligibility Credit Employee** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft effective date conditions, funding, releases und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Effective Date Eligibility Credit Employee** ordnet den Fall über die tragenden Prüffelder: Prueft effective date conditions, funding, releases. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

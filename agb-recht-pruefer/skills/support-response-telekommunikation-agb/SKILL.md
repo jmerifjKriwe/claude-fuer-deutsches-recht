@@ -7,7 +7,7 @@ description: "Support Response Telekommunikation AGB im AGB-Recht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Support Response Telekommunikation AGB** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Support Response Times, Branchen-Fachmodul für Telekommunikation AGB, Transparenzgebot 307 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Support Response Telekommunikation AGB** ordnet den Fall über die tragenden Prüffelder: Support Response Times, Branchen-Fachmodul für Telekommunikation AGB, Transparenzgebot 307. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

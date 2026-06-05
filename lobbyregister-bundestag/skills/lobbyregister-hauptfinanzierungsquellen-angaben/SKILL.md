@@ -7,7 +7,7 @@ description: "Hauptfinanzierungsquellen Angaben im Lobbyregister Bundestag: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hauptfinanzierungsquellen Angaben** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und, Bei, Prüft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hauptfinanzierungsquellen Angaben** ordnet den Fall über die tragenden Prüffelder: Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und, Bei, Prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

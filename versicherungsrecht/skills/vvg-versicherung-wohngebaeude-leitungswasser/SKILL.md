@@ -7,7 +7,7 @@ description: "VVG Versicherung Wohngebaeude Leitungswasser im Plugin Versicherun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VVG Versicherung Wohngebaeude Leitungswasser** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Versicherung für fremde Rechnung, Wohngebäudeversicherung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VVG Versicherung Wohngebaeude Leitungswasser** ordnet den Fall über die tragenden Prüffelder: Versicherung für fremde Rechnung, Wohngebäudeversicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

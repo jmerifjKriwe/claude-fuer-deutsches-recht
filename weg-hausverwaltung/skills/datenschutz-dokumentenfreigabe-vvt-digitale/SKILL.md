@@ -7,7 +7,7 @@ description: "Datenschutz Dokumentenfreigabe VVT Digitale im Plugin Weg Hausverw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Dokumentenfreigabe VVT Digitale** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Prüft Datenschutz und Dokumentenfreigaben in der, VVT nach Art, TOM nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Dokumentenfreigabe VVT Digitale** ordnet den Fall über die tragenden Prüffelder: Prüft Datenschutz und Dokumentenfreigaben in der, VVT nach Art, TOM nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

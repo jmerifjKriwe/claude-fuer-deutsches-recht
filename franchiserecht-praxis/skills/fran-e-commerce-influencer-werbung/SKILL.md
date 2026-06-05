@@ -7,7 +7,7 @@ description: "Fran E Commerce Influencer Werbung im Franchiserecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran E Commerce Influencer Werbung** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von E-Commerce im Franchisesystem regeln, Influencer-Werbung im Franchisesystem rechtlich gestalten, Online-Bewertungen im Franchisesystem managen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran E Commerce Influencer Werbung** ordnet den Fall über die tragenden Prüffelder: E-Commerce im Franchisesystem regeln, Influencer-Werbung im Franchisesystem rechtlich gestalten, Online-Bewertungen im Franchisesystem managen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "INV Sanctions Cartel im Internal Investigations: prüft konkret Re
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Sanctions Cartel** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Reagiert auf einen Sanktionstreffer –, OFAC, Einfrierun. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Sanctions Cartel** ordnet den Fall über die tragenden Prüffelder: Reagiert auf einen Sanktionstreffer –, OFAC, Einfrierun. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

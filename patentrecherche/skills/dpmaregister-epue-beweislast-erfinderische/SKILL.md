@@ -7,7 +7,7 @@ description: "Dpmaregister Epue Beweislast Erfinderische im Plugin Patentrecherc
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dpmaregister Epue Beweislast Erfinderische** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche. Im Mittelpunkt steht die Prüfung von Dpmaregister, Epue, Erfinderische. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dpmaregister Epue Beweislast Erfinderische** ordnet den Fall über die tragenden Prüffelder: Dpmaregister, Epue, Erfinderische. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "TBM Grundrechte Grch Kandidatenloesung im Plugin Subsumtions Pruef
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TBM Grundrechte Grch Kandidatenloesung** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Ei, Prüft Grundrechte nach GG (Drei-Schritt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TBM Grundrechte Grch Kandidatenloesung** ordnet den Fall über die tragenden Prüffelder: Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Ei, Prüft Grundrechte nach GG (Drei-Schritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

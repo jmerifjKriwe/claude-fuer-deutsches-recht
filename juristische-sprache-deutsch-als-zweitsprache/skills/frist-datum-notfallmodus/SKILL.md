@@ -7,7 +7,7 @@ description: "Frist Datum Notfallmodus im Bereich Juristische Sprache (DaZ): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Frist Datum Notfallmodus** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Frist Und Datum Verstehen fuer Menschen mit, Hilft bei Notfallmodus Frist Heute fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Frist Datum Notfallmodus** ordnet den Fall über die tragenden Prüffelder: Hilft bei Frist Und Datum Verstehen fuer Menschen mit, Hilft bei Notfallmodus Frist Heute fuer Menschen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

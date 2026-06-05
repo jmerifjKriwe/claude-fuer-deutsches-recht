@@ -7,7 +7,7 @@ description: "DMS Eakten Equity Partner ESG im Kanzlei-Management: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DMS Eakten Equity Partner ESG** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Regelt Aktenstruktur, Versionen, Zugriffe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DMS Eakten Equity Partner ESG** ordnet den Fall über die tragenden Prüffelder: Regelt Aktenstruktur, Versionen, Zugriffe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

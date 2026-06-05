@@ -7,7 +7,7 @@ description: "Quellen Rspr Fristen im Schöffen- und Handelsrichter-Praxis: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Quellen Rspr Fristen** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Quellen- und Rechtsprechungscheck, Fristen- und Zuständigkeitscockpit, Ermüdung im Komplexverfahren (Orientierung). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Quellen Rspr Fristen** ordnet den Fall über die tragenden Prüffelder: Quellen- und Rechtsprechungscheck, Fristen- und Zuständigkeitscockpit, Ermüdung im Komplexverfahren (Orientierung). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

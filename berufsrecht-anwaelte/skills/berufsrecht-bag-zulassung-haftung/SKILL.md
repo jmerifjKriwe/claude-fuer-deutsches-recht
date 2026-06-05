@@ -7,7 +7,7 @@ description: "BAG Zulassung Haftung im Berufsrecht der Anwälte: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BAG Zulassung Haftung** als zusammenhängenden Arbeitsgang im Berufsrecht der Anwälte. Im Mittelpunkt steht die Prüfung von Berufsausübungsgesellschaft, Berufshaftpflicht, Berufspflichtverletzung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BAG Zulassung Haftung** ordnet den Fall über die tragenden Prüffelder: Berufsausübungsgesellschaft, Berufshaftpflicht, Berufspflichtverletzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

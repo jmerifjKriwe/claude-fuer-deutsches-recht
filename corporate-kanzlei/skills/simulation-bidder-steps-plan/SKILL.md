@@ -7,7 +7,7 @@ description: "Simulation Bidder Steps Plan im Corporate-Kanzlei-Praxis: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Simulation Bidder Steps Plan** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen, Steps Plan und Transaktions-PMO für M&A-Mandate erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Simulation Bidder Steps Plan** ordnet den Fall über die tragenden Prüffelder: Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen, Steps Plan und Transaktions-PMO für M&A-Mandate erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

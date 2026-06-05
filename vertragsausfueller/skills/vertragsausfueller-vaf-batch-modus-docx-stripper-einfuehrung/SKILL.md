@@ -7,7 +7,7 @@ description: "VAF Batch Modus Docx Stripper Einfuehrung im Plugin Vertragsausfue
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VAF Batch Modus Docx Stripper Einfuehrung** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von Batch-Modus fuer Konzernvertraege, DOCX-Vorlage in strukturierten Text zerlegen, Einfuehrung Prozess Vertragsausfueller. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VAF Batch Modus Docx Stripper Einfuehrung** ordnet den Fall über die tragenden Prüffelder: Batch-Modus fuer Konzernvertraege, DOCX-Vorlage in strukturierten Text zerlegen, Einfuehrung Prozess Vertragsausfueller. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

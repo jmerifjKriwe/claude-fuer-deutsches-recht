@@ -7,7 +7,7 @@ description: "Wasser Abfall Circular Umweltrecht Schulung im Plugin Umweltrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wasser Abfall Circular Umweltrecht Schulung** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Wasser, Unternehmen oder Anlagenbetreiber hat Abfall-Frage, Anlagenbetreiber muss Umwelt-Compliance-Schulungen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wasser Abfall Circular Umweltrecht Schulung** ordnet den Fall über die tragenden Prüffelder: Wasser, Unternehmen oder Anlagenbetreiber hat Abfall-Frage, Anlagenbetreiber muss Umwelt-Compliance-Schulungen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

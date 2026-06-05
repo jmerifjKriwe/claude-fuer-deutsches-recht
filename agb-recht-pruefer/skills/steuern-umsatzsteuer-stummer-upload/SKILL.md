@@ -7,7 +7,7 @@ description: "Steuern Umsatzsteuer Stummer Upload im AGB-Recht: prüft konkret S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuern Umsatzsteuer Stummer Upload** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Steürn Umsatzsteür, Einstiegs- und Prüffeld für Stummer Upload AGB Dokumente, Branchen-Fachmodul für Subscription Abonnement und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuern Umsatzsteuer Stummer Upload** ordnet den Fall über die tragenden Prüffelder: Steürn Umsatzsteür, Einstiegs- und Prüffeld für Stummer Upload AGB Dokumente, Branchen-Fachmodul für Subscription Abonnement. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

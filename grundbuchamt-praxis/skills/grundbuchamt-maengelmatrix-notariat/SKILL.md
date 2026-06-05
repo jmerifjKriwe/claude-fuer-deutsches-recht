@@ -7,7 +7,7 @@ description: "Maengelmatrix Notariat im Plugin Grundbuchamt Praxis: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Maengelmatrix Notariat** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Klassifiziert jedes Hindernis nach Form, Berechtigung, Genehmigung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Maengelmatrix Notariat** ordnet den Fall über die tragenden Prüffelder: Klassifiziert jedes Hindernis nach Form, Berechtigung, Genehmigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

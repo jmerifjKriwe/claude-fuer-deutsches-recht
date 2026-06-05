@@ -7,7 +7,7 @@ description: "DB Agrar Logistik Cyberincident im Plugin Datenbankrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Agrar Logistik Cyberincident** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht für Agrar- und Sensordaten, Datenbankrecht für Logistik-Tracking-Datenbanken, Beratung bei Cyberangriffen und Datenbankexfiltration. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Agrar Logistik Cyberincident** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für Agrar- und Sensordaten, Datenbankrecht für Logistik-Tracking-Datenbanken, Beratung bei Cyberangriffen und Datenbankexfiltration. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Secure Configuration Development Ssdcl im NIS2-Cybersecurity-Compl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Secure Configuration Development Ssdcl** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Hardening und sichere Konfiguration, Prüft Secure Development Lifecycle für eigene Software, Baut oder prüft ein ISMS als juristisch verwertbares und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Secure Configuration Development Ssdcl** ordnet den Fall über die tragenden Prüffelder: Prüft Hardening und sichere Konfiguration, Prüft Secure Development Lifecycle für eigene Software, Baut oder prüft ein ISMS als juristisch verwertbares. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

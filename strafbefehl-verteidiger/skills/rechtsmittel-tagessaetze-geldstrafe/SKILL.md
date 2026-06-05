@@ -7,7 +7,7 @@ description: "Rechtsmittel Tagessaetze Geldstrafe im Plugin Strafbefehl Verteidi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsmittel Tagessaetze Geldstrafe** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Rechtsmittel nach Urteil in der Hauptverhandlung nach, Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB, Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsmittel Tagessaetze Geldstrafe** ordnet den Fall über die tragenden Prüffelder: Rechtsmittel nach Urteil in der Hauptverhandlung nach, Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB, Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

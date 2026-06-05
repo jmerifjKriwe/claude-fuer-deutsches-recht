@@ -7,7 +7,7 @@ description: "Beweisangebot Anlage Emails Chats Excel im Plugin Anlagen Zu Schri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beweisangebot Anlage Emails Chats Excel** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Zeugenbeweis korrekt ueber Anlagen unterstuetzen, Macht aus EML/MSG, Chatverläufen und Screenshots gerichtstaugliche Anlagen mit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beweisangebot Anlage Emails Chats Excel** ordnet den Fall über die tragenden Prüffelder: Zeugenbeweis korrekt ueber Anlagen unterstuetzen, Macht aus EML/MSG, Chatverläufen und Screenshots gerichtstaugliche Anlagen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Miturheber Mehrere Model Weights Nearshore im Softwarerecht (DE/EU
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Miturheber Mehrere Model Weights Nearshore** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft Teams, Co-Authors, Modulbeiträge und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Miturheber Mehrere Model Weights Nearshore** ordnet den Fall über die tragenden Prüffelder: Prüft Teams, Co-Authors, Modulbeiträge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

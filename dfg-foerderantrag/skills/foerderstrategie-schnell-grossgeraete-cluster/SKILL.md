@@ -7,7 +7,7 @@ description: "Foerderstrategie Schnell Grossgeraete Cluster im DFG-Förderantrag
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Foerderstrategie Schnell Grossgeraete Cluster** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Strategischer DFG-Router, Grossgeraete und Cluster-Geraete in DFG-Antrag, Grundsystem der DFG-Foerderlinien einfuehrend erklaeren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Foerderstrategie Schnell Grossgeraete Cluster** ordnet den Fall über die tragenden Prüffelder: Strategischer DFG-Router, Grossgeraete und Cluster-Geraete in DFG-Antrag, Grundsystem der DFG-Foerderlinien einfuehrend erklaeren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

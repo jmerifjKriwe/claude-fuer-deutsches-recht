@@ -7,7 +7,7 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **GR Einfuehrung Saeulen** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**GR Einfuehrung Saeulen** ordnet den Fall über die tragenden Prüffelder: Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

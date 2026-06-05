@@ -7,7 +7,7 @@ description: "Terms Term Sheet im Plugin Gesellschaftsrecht Legal English: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Terms Term Sheet** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Terms, Fuehrt durch Term Sheet, Investment Agreement. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Terms Term Sheet** ordnet den Fall über die tragenden Prüffelder: Terms, Fuehrt durch Term Sheet, Investment Agreement. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BAG Equal Mindesturlaub Kein Betriebsrat** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BAG Equal Mindesturlaub Kein Betriebsrat** ordnet den Fall über die tragenden Prüffelder: Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

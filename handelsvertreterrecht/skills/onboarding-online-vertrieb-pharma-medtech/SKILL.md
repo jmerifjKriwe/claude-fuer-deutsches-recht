@@ -7,7 +7,7 @@ description: "Onboarding Online Vertrieb Pharma Medtech im Handelsvertreterrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Onboarding Online Vertrieb Pharma Medtech** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Unterstützt beim Start einer Handelsvertretung, Prüft Konflikte zwischen stationärem, Analysiert Besonderheiten des Handelsvertreterrechts in der und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Onboarding Online Vertrieb Pharma Medtech** ordnet den Fall über die tragenden Prüffelder: Unterstützt beim Start einer Handelsvertretung, Prüft Konflikte zwischen stationärem, Analysiert Besonderheiten des Handelsvertreterrechts in der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

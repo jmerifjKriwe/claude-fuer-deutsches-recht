@@ -7,7 +7,7 @@ description: "Space Satellitenbetrieb Deutschland im Plugin Weltraumrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Satellitenbetrieb Deutschland** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Genehmigungsverfahren für Satellitenbetrieb aus Deutschland, Mega-Konstellationen (Starlink, OneWeb und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Satellitenbetrieb Deutschland** ordnet den Fall über die tragenden Prüffelder: Genehmigungsverfahren für Satellitenbetrieb aus Deutschland, Mega-Konstellationen (Starlink, OneWeb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

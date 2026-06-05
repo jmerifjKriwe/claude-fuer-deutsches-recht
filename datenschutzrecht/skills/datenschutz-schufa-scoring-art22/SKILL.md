@@ -7,7 +7,7 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Schufa Scoring Art22** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüffelder: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

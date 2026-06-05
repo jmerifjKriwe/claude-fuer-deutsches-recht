@@ -7,7 +7,7 @@ description: "Fusionskontrolle Modus Geoblocking im Kartellrecht (Marktabgrenzun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fusionskontrolle Modus Geoblocking** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle, Geoblocking und Kartellrecht Schnittstelle, Gesamturteil zur Tragfähigkeit einer Marktabgrenzung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fusionskontrolle Modus Geoblocking** ordnet den Fall über die tragenden Prüffelder: Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle, Geoblocking und Kartellrecht Schnittstelle, Gesamturteil zur Tragfähigkeit einer Marktabgrenzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

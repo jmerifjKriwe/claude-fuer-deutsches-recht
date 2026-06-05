@@ -7,7 +7,7 @@ description: "Rechtstexte Versionierung Retourenmanagement im Plugin Ecommerce R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtstexte Versionierung Retourenmanagement** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Rechtstexte-Versionierung Deployment, Retourenmanagement Wertersatz, Security Incident Shop Datenschutzmeldung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtstexte Versionierung Retourenmanagement** ordnet den Fall über die tragenden Prüffelder: Rechtstexte-Versionierung Deployment, Retourenmanagement Wertersatz, Security Incident Shop Datenschutzmeldung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Betreuungsverein Behoerde BTR Aufgabenkreise im Plugin Betreuungsr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuungsverein Behoerde BTR Aufgabenkreise** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Hilfe holen für ehrenamtliche Betreuer, Aufgabenkreise praezise formulieren, Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuungsverein Behoerde BTR Aufgabenkreise** ordnet den Fall über die tragenden Prüffelder: Hilfe holen für ehrenamtliche Betreuer, Aufgabenkreise praezise formulieren, Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

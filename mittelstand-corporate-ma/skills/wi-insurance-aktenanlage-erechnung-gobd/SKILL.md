@@ -7,7 +7,7 @@ description: "WI Insurance Aktenanlage Erechnung Gobd im Plugin Mittelstand Corp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **WI Insurance Aktenanlage Erechnung Gobd** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von W&I-Versicherung, Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat, Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**WI Insurance Aktenanlage Erechnung Gobd** ordnet den Fall über die tragenden Prüffelder: W&I-Versicherung, Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat, Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

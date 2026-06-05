@@ -7,7 +7,7 @@ description: "TK Datacenter TK Eilrechtsschutz im Telekommunikationsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Datacenter TK Eilrechtsschutz** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Rechenzentrumskonnektivität, Eilrechtsschutz bei Frequenz-, Entgelt-. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Datacenter TK Eilrechtsschutz** ordnet den Fall über die tragenden Prüffelder: Rechenzentrumskonnektivität, Eilrechtsschutz bei Frequenz-, Entgelt-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

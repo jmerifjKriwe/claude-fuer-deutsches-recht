@@ -7,7 +7,7 @@ description: "Inso Kongruente Deckung Rechtsfolge im Plugin Bereicherungs Und An
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Kongruente Deckung Rechtsfolge** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Kongruente Deckungsanfechtung nach § 130 InsO prüfen, Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO, Anfechtung unentgeltlicher Leistungen in der Insolvenz nach und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Kongruente Deckung Rechtsfolge** ordnet den Fall über die tragenden Prüffelder: Kongruente Deckungsanfechtung nach § 130 InsO prüfen, Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO, Anfechtung unentgeltlicher Leistungen in der Insolvenz nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

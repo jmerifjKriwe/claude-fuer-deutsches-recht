@@ -7,7 +7,7 @@ description: "FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FA Transport Spedition Mandant Redteam** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FA Transport Spedition Mandant Redteam** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

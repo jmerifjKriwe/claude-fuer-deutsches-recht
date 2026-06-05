@@ -7,7 +7,7 @@ description: "INS Datenraum Kapitalerh im Insiderrecht und Compliance: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Datenraum Kapitalerh** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) geg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Datenraum Kapitalerh** ordnet den Fall über die tragenden Prüffelder: Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) geg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

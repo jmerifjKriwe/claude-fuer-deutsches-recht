@@ -7,7 +7,7 @@ description: "Verein Dokumentenpaket Politik Social Media im Plugin Vereinsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verein Dokumentenpaket Politik Social Media** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Baut aus Auftrag komplette Dokumente, Warnt bei politischer Betätigung, Gemeinnützigkeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verein Dokumentenpaket Politik Social Media** ordnet den Fall über die tragenden Prüffelder: Baut aus Auftrag komplette Dokumente, Warnt bei politischer Betätigung, Gemeinnützigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

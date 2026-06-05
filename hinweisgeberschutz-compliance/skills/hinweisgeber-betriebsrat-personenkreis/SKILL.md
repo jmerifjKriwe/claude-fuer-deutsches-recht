@@ -7,7 +7,7 @@ description: "Hinweisgeber Betriebsrat Personenkreis im Hinweisgeberschutz und C
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hinweisgeber Betriebsrat Personenkreis** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft Betriebsratsmitglieder als Hinweisgeber oder, Prüft, ob die meldende Person geschützt ist und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hinweisgeber Betriebsrat Personenkreis** ordnet den Fall über die tragenden Prüffelder: Prüft Betriebsratsmitglieder als Hinweisgeber oder, Prüft, ob die meldende Person geschützt ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: versorgungsordnung-betriebsvereinbarung
-description: "Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV): Dieser Skill arbeitet Versorgungsordnung Betriebsvereinbarung als zusammenhängenden Arbeitsgang im Plugin Bav Strategie Konzern ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Versorgungsordnung Betriebsvereinbarung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Versorgungsordnung Betriebsvereinbarung** als zusammenhängenden Arbeitsgang im Plugin Bav Strategie Konzern ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Versorgungsordnung Betriebsvereinbarung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

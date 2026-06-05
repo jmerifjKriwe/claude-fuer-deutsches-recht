@@ -7,7 +7,7 @@ description: "Zwangsbehandlung Beweislast Ueberforderung im Plugin Betreuungsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zwangsbehandlung Beweislast Ueberforderung** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Zwangsbehandlung, Überforderungsschutz für ehrenamtliche Betreuer, Vermögensverzeichnis für Betreuung prüfen und erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zwangsbehandlung Beweislast Ueberforderung** ordnet den Fall über die tragenden Prüffelder: Zwangsbehandlung, Überforderungsschutz für ehrenamtliche Betreuer, Vermögensverzeichnis für Betreuung prüfen und erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

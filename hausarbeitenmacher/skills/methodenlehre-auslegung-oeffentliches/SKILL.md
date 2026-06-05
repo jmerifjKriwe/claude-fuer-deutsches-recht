@@ -7,7 +7,7 @@ description: "Methodenlehre Auslegung Oeffentliches im Juristische Hausarbeit: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Methodenlehre Auslegung Oeffentliches** als zusammenhängenden Arbeitsgang im Juristische Hausarbeit. Im Mittelpunkt steht die Prüfung von Student braucht Anleitung zu den vier Auslegungsmethoden, Student bearbeitet öffentlich-rechtliche Klage in der, Student fragt sich ob er der Lehrmeinung des Professors. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Methodenlehre Auslegung Oeffentliches** ordnet den Fall über die tragenden Prüffelder: Student braucht Anleitung zu den vier Auslegungsmethoden, Student bearbeitet öffentlich-rechtliche Klage in der, Student fragt sich ob er der Lehrmeinung des Professors. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

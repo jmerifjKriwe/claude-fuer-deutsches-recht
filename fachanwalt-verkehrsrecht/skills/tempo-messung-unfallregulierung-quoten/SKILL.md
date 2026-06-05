@@ -7,7 +7,7 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tempo Messung Unfallregulierung Quoten** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht. Im Mittelpunkt steht die Prüfung von Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüffelder: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

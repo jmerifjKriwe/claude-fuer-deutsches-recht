@@ -7,7 +7,7 @@ description: "Abgabe Frist Fristverlaengerung im Prüfungsrecht der Hochschule: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abgabe Frist Fristverlaengerung** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft Abgabe, Frist, Upload und Zugang und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abgabe Frist Fristverlaengerung** ordnet den Fall über die tragenden Prüffelder: Prüft Abgabe, Frist, Upload und Zugang. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

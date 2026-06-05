@@ -7,7 +7,7 @@ description: "Lagergeschaeft Paragraphen Maengelruege im Handelsrecht (HGB): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lagergeschaeft Paragraphen Maengelruege** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft Lagerhalter, Lagerschein, Haftung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lagergeschaeft Paragraphen Maengelruege** ordnet den Fall über die tragenden Prüffelder: Prüft Lagerhalter, Lagerschein, Haftung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

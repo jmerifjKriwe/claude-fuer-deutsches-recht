@@ -7,7 +7,7 @@ description: "VVG Gefahrerhoehung Mehrfachversicherung im Plugin Versicherungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VVG Gefahrerhoehung Mehrfachversicherung** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Gefahrerhöhung vor und nach Vertragsschluss, Mehrfachversicherung und Doppelversicherung, § 28 VVG nach Eintritt des Versicherungsfalls. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VVG Gefahrerhoehung Mehrfachversicherung** ordnet den Fall über die tragenden Prüffelder: Gefahrerhöhung vor und nach Vertragsschluss, Mehrfachversicherung und Doppelversicherung, § 28 VVG nach Eintritt des Versicherungsfalls. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

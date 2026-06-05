@@ -7,7 +7,7 @@ description: "Ersatz Auslagen Faelligkeit Rechnungspflicht im Plugin Goae Gebueh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ersatz Auslagen Faelligkeit Rechnungspflicht** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von GOÄ § 10 Ersatz von Auslagen, GOÄ § 12 Fälligkeit und Rechnungspflicht, GOÄ § 14 Zahlung durch öffentliche Leistungsträger. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ersatz Auslagen Faelligkeit Rechnungspflicht** ordnet den Fall über die tragenden Prüffelder: GOÄ § 10 Ersatz von Auslagen, GOÄ § 12 Fälligkeit und Rechnungspflicht, GOÄ § 14 Zahlung durch öffentliche Leistungsträger. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

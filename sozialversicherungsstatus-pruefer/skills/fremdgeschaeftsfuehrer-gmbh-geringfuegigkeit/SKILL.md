@@ -7,7 +7,7 @@ description: "Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit im Sozialversicherung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft Sozialversicherungsstatus eines, Prüft geringfügige Beschäftigung als Alternative oder, Prüft beherrschenden Gesellschafter-Geschäftsführer mit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit** ordnet den Fall über die tragenden Prüffelder: Prüft Sozialversicherungsstatus eines, Prüft geringfügige Beschäftigung als Alternative oder, Prüft beherrschenden Gesellschafter-Geschäftsführer mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

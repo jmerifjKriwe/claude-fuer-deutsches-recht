@@ -7,7 +7,7 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sportr Athletenvertrag** als zusammenhängenden Arbeitsgang im Sportrecht. Im Mittelpunkt steht die Prüfung von Profi-Sportler will Verein wechseln und braucht Prüfung von, Bauleiter Athletenvertrag, eSports-Organisator oder Verein fragt ob DOSB-Anerkennung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sportr Athletenvertrag** ordnet den Fall über die tragenden Prüffelder: Profi-Sportler will Verein wechseln und braucht Prüfung von, Bauleiter Athletenvertrag, eSports-Organisator oder Verein fragt ob DOSB-Anerkennung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

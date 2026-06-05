@@ -7,7 +7,7 @@ description: "Patent Software Saas Terms Trade Secret im Softwarerecht (DE/EU/US
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Patent Software Saas Terms Trade Secret** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft Neuheit, obviousness, written description und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Patent Software Saas Terms Trade Secret** ordnet den Fall über die tragenden Prüffelder: Prüft Neuheit, obviousness, written description. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "OWI Verkehrsowi Vorlage AN im Plugin Staatsanwaltschaft Praxis Ein
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OWI Verkehrsowi Vorlage AN** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Verkehrsordnungswidrigkeiten, Vorlage der OWi-Akte an das Amtsgericht, Pflichtverteidigung aus Sicht der Staatsanwaltschaft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OWI Verkehrsowi Vorlage AN** ordnet den Fall über die tragenden Prüffelder: Verkehrsordnungswidrigkeiten, Vorlage der OWi-Akte an das Amtsgericht, Pflichtverteidigung aus Sicht der Staatsanwaltschaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

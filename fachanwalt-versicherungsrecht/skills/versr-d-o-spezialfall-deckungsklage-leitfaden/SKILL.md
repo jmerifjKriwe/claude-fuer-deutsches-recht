@@ -7,7 +7,7 @@ description: "Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versr D O Spezialfall Deckungsklage Leitfaden** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht. Im Mittelpunkt steht die Prüfung von D&O-Deckung bei Organhaftung, Spezialfall D-and-O-Versicherung, Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versr D O Spezialfall Deckungsklage Leitfaden** ordnet den Fall über die tragenden Prüffelder: D&O-Deckung bei Organhaftung, Spezialfall D-and-O-Versicherung, Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

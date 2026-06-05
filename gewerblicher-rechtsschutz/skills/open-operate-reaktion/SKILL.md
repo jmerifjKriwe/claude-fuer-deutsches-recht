@@ -7,7 +7,7 @@ description: "Open Operate Reaktion im Plugin Gewerblicher Rechtsschutz: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Open Operate Reaktion** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Formulare und Portale im gewerblichen Rechtsschutz, Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Open Operate Reaktion** ordnet den Fall über die tragenden Prüffelder: Formulare und Portale im gewerblichen Rechtsschutz, Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

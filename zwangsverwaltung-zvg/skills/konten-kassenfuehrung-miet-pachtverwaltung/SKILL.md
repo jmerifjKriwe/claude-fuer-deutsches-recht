@@ -7,7 +7,7 @@ description: "Konten Kassenfuehrung Miet Pachtverwaltung im Zwangsverwaltung (ZV
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Konten Kassenfuehrung Miet Pachtverwaltung** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Kontenführung und Buchführung des Treuhandkontos in der, Miet- und Pachtverwaltung in der Zwangsverwaltung, Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Konten Kassenfuehrung Miet Pachtverwaltung** ordnet den Fall über die tragenden Prüffelder: Kontenführung und Buchführung des Treuhandkontos in der, Miet- und Pachtverwaltung in der Zwangsverwaltung, Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

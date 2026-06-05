@@ -7,7 +7,7 @@ description: "Versorgung Ruhegehalt Versorgungsabschlag im Beamtenrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versorgung Ruhegehalt Versorgungsabschlag** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Versorgung und Ruhegehalt, Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in, Skill zur Versorgungslastenteilung bei Dienstherrenwechsel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versorgung Ruhegehalt Versorgungsabschlag** ordnet den Fall über die tragenden Prüffelder: Versorgung und Ruhegehalt, Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in, Skill zur Versorgungslastenteilung bei Dienstherrenwechsel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

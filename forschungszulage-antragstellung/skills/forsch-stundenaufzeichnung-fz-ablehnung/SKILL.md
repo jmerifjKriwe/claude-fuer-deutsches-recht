@@ -7,7 +7,7 @@ description: "Forsch Stundenaufzeichnung FZ Ablehnung im Forschungszulage-Antrag
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Forsch Stundenaufzeichnung FZ Ablehnung** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Leitfaden Stundenaufzeichnung FZulG, Ablehnung oder Nachforderung bei Forschungszulage, Bemessungsgrundlage Forschungszulage ab 2026 belastbar. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Forsch Stundenaufzeichnung FZ Ablehnung** ordnet den Fall über die tragenden Prüffelder: Leitfaden Stundenaufzeichnung FZulG, Ablehnung oder Nachforderung bei Forschungszulage, Bemessungsgrundlage Forschungszulage ab 2026 belastbar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

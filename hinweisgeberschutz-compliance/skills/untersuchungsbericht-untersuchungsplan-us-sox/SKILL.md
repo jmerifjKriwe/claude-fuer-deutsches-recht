@@ -7,7 +7,7 @@ description: "Untersuchungsbericht Untersuchungsplan US SOX im Hinweisgeberschut
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Untersuchungsbericht Untersuchungsplan US SOX** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Erstellt Untersuchungsbericht ohne Quellenpreisgabe, Baut Untersuchungsplan mit Hypothesen und Beweisen, Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Untersuchungsbericht Untersuchungsplan US SOX** ordnet den Fall über die tragenden Prüffelder: Erstellt Untersuchungsbericht ohne Quellenpreisgabe, Baut Untersuchungsplan mit Hypothesen und Beweisen, Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

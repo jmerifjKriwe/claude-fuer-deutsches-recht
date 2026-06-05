@@ -1,13 +1,13 @@
 ---
 name: team-sonderfall
-description: "Team Sonderfall im DFG-Förderantragstellung: Dieser Skill arbeitet Team Sonderfall als zusammenhängenden Arbeitsgang im Plugin DFG-Förderantrag ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Team Sonderfall im DFG-Förderantragstellung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Team Sonderfall
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Team Sonderfall** als zusammenhängenden Arbeitsgang im Plugin DFG-Förderantrag ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Team Sonderfall** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

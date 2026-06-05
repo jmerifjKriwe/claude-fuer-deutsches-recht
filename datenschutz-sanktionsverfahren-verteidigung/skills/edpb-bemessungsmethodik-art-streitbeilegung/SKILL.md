@@ -7,7 +7,7 @@ description: "Edpb Bemessungsmethodik ART Streitbeilegung im Datenschutz-Sanktio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Edpb Bemessungsmethodik ART Streitbeilegung** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von EDPB 04/2022 Bemessungsmethodik, EDPB-Streitbeilegung Art, EDPB und DSK Praxis Livecheck und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Edpb Bemessungsmethodik ART Streitbeilegung** ordnet den Fall über die tragenden Prüffelder: EDPB 04/2022 Bemessungsmethodik, EDPB-Streitbeilegung Art, EDPB und DSK Praxis Livecheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

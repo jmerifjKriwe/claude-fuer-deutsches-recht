@@ -7,7 +7,7 @@ description: "Rentenversicherungspflicht Selbststaendige im Sozialversicherungss
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rentenversicherungspflicht Selbststaendige** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft selbständige Tätigkeiten mit, insbesondere Lehr, Prüft Berichte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rentenversicherungspflicht Selbststaendige** ordnet den Fall über die tragenden Prüffelder: Prüft selbständige Tätigkeiten mit, insbesondere Lehr, Prüft Berichte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

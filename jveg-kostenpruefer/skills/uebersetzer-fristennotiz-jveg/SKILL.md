@@ -7,7 +7,7 @@ description: "Uebersetzer Fristennotiz Jveg im JVEG-Kostenprüfung: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Uebersetzer Fristennotiz Jveg** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Uebersetzer, Bauleiter Sachverstaendigenrechnung JVEG, JVEG-relevante Daten aus Gerichtsakten und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Uebersetzer Fristennotiz Jveg** ordnet den Fall über die tragenden Prüffelder: Uebersetzer, Bauleiter Sachverstaendigenrechnung JVEG, JVEG-relevante Daten aus Gerichtsakten und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

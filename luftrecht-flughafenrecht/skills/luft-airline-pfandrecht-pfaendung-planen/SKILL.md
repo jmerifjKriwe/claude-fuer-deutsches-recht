@@ -7,7 +7,7 @@ description: "Luft Airline Pfandrecht Pfaendung Planen im Plugin Luftrecht Flugh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Airline Pfandrecht Pfaendung Planen** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen, Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug, Airline-Genehmigungsstand ist unklar und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Airline Pfandrecht Pfaendung Planen** ordnet den Fall über die tragenden Prüffelder: Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen, Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug, Airline-Genehmigungsstand ist unklar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

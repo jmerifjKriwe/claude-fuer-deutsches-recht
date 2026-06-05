@@ -7,7 +7,7 @@ description: "LMA Facility im Corporate-Kanzlei-Praxis: prüft konkret Deal-Komm
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **LMA Facility** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Deal-Kommandocenter Corporate/M&A, Prüft hochgeladene LMA-basierte Kreditverträge aus. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**LMA Facility** ordnet den Fall über die tragenden Prüffelder: Deal-Kommandocenter Corporate/M&A, Prüft hochgeladene LMA-basierte Kreditverträge aus. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

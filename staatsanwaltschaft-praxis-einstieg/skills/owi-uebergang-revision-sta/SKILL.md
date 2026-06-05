@@ -7,7 +7,7 @@ description: "OWI Uebergang Revision STA im Plugin Staatsanwaltschaft Praxis Ein
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OWI Uebergang Revision STA** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Übergang zwischen Bußgeld- und Strafverfahren, Revision der Staatsanwaltschaft, Sicherungsverfahren und Maßregelantrag und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OWI Uebergang Revision STA** ordnet den Fall über die tragenden Prüffelder: Übergang zwischen Bußgeld- und Strafverfahren, Revision der Staatsanwaltschaft, Sicherungsverfahren und Maßregelantrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

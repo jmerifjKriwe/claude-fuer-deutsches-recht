@@ -7,7 +7,7 @@ description: "TK Netzneutralitaet TK Nis2 im Telekommunikationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Netzneutralitaet TK Nis2** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Netzneutralität, NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Netzneutralitaet TK Nis2** ordnet den Fall über die tragenden Prüffelder: Netzneutralität, NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

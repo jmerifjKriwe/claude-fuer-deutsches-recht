@@ -7,7 +7,7 @@ description: "Legw Bmds IT KI Verordnung im Legistik (Gesetzgebungstechnik): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Bmds IT KI Verordnung** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS, Sachbereich KI-Verordnung und Aufsichtsstruktur im, Sachbereich Verwaltungsdigitalisierung und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Bmds IT KI Verordnung** ordnet den Fall über die tragenden Prüffelder: Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS, Sachbereich KI-Verordnung und Aufsichtsstruktur im, Sachbereich Verwaltungsdigitalisierung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

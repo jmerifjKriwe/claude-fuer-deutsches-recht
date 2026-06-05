@@ -7,7 +7,7 @@ description: "Verl Redaktionsmemo Jahresplanung im Verlagsredaktion (Recht): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Redaktionsmemo Jahresplanung** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Erstellt das Jahresheft-Planungsmemo einer juristischen, Bereitet eine juristische Redaktionssitzung vor, Prueft die logischen Relationslinien eines juristischen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Redaktionsmemo Jahresplanung** ordnet den Fall über die tragenden Prüffelder: Erstellt das Jahresheft-Planungsmemo einer juristischen, Bereitet eine juristische Redaktionssitzung vor, Prueft die logischen Relationslinien eines juristischen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

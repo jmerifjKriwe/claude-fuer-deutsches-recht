@@ -7,7 +7,7 @@ description: "Ustva Aufsichtskommunikation Grundregeln Dora im Plugin Regulatori
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ustva Aufsichtskommunikation Grundregeln Dora** als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht. Im Mittelpunkt steht die Prüfung von Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen, Grundregeln Aufsichtskommunikation, DORA-Spezial. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ustva Aufsichtskommunikation Grundregeln Dora** ordnet den Fall über die tragenden Prüffelder: Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen, Grundregeln Aufsichtskommunikation, DORA-Spezial. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

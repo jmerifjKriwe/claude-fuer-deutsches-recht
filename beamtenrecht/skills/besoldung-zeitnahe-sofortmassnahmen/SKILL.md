@@ -7,7 +7,7 @@ description: "Besoldung Zeitnahe Sofortmassnahmen im Beamtenrecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Besoldung Zeitnahe Sofortmassnahmen** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Besoldungsnachzahlung praktisch sichern, Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Besoldung Zeitnahe Sofortmassnahmen** ordnet den Fall über die tragenden Prüffelder: Besoldungsnachzahlung praktisch sichern, Fristen- und Sofortmaßnahmencheck für Widerspruch, Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Seltene Erkrankung Einzelfallentscheidung im Krankenkassenrecht / 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Seltene Erkrankung Einzelfallentscheidung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von GKV-Leistungsanspruch bei seltenen Erkrankungen, Kostenerstattungsverfahren nach § 13 SGB V, Krankenversicherung für im Ausland lebende Rentner mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Seltene Erkrankung Einzelfallentscheidung** ordnet den Fall über die tragenden Prüffelder: GKV-Leistungsanspruch bei seltenen Erkrankungen, Kostenerstattungsverfahren nach § 13 SGB V, Krankenversicherung für im Ausland lebende Rentner mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

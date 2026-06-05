@@ -7,7 +7,7 @@ description: "Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels G
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hgesr Handelsvertreterausgleich MBG** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hgesr Handelsvertreterausgleich MBG** ordnet den Fall über die tragenden Prüffelder: Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

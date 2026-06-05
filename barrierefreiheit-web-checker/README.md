@@ -86,6 +86,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `screenreader-quellenkarte` | Screenreader Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `sonderfall-edge-roadmap-rolle` | Sonderfall Edge Roadmap Rolle im Plugin Barrierefreiheit Web Checker: prüft konkret Pruefung, Roadmap, Rolle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `tastatur-fokus-ueberwachungsstelle` | Tastatur Fokus Ueberwachungsstelle im Plugin Barrierefreiheit Web Checker: prüft konkret Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächste... |
-| `wcag-vs` | WCAG VS im Plugin Barrierefreiheit Web Checker: Dieser Skill arbeitet WCAG VS als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web (BFSG/WCAG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output prior... |
+| `wcag-vs` | WCAG VS im Plugin Barrierefreiheit Web Checker: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

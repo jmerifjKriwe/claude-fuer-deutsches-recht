@@ -7,7 +7,7 @@ description: "EU Produktsicherheitsverordnung Feature im Plugin Produktrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **EU Produktsicherheitsverordnung Feature** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in, Tiefgehende Risikobewertung für ein einzelnes Feature oder, Prüft die Impressumspflicht für Websites. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**EU Produktsicherheitsverordnung Feature** ordnet den Fall über die tragenden Prüffelder: EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in, Tiefgehende Risikobewertung für ein einzelnes Feature oder, Prüft die Impressumspflicht für Websites. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

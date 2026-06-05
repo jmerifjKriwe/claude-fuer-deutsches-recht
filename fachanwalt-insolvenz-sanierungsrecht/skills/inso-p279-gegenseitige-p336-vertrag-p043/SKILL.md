@@ -7,7 +7,7 @@ description: "Inso P279 Gegenseitige P336 Vertrag P043 im Insolvenz- und Sanieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P279 Gegenseitige P336 Vertrag P043** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 279 InsO (Gegenseitige Verträge) im Mandat prüfen, § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P279 Gegenseitige P336 Vertrag P043** ordnet den Fall über die tragenden Prüffelder: § 279 InsO (Gegenseitige Verträge) im Mandat prüfen, § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

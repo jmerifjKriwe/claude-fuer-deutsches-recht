@@ -7,7 +7,7 @@ description: "Hinzuverdienst Teilrente Datenaustausch im Plugin Rentenpruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hinzuverdienst Teilrente Datenaustausch** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Hinzuverdienst und Teilrente, Internationaler Datenaustausch und Formulare. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hinzuverdienst Teilrente Datenaustausch** ordnet den Fall über die tragenden Prüffelder: Hinzuverdienst und Teilrente, Internationaler Datenaustausch und Formulare. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

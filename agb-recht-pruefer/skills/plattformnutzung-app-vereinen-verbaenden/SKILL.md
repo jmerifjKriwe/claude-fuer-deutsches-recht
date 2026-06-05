@@ -7,7 +7,7 @@ description: "Plattformnutzung APP Vereinen Verbaenden im AGB-Recht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Plattformnutzung APP Vereinen Verbaenden** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von AGB bei Plattformnutzung App Stores Apple Google Steam, AGB bei Vereinen und Verbaenden. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Plattformnutzung APP Vereinen Verbaenden** ordnet den Fall über die tragenden Prüffelder: AGB bei Plattformnutzung App Stores Apple Google Steam, AGB bei Vereinen und Verbaenden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

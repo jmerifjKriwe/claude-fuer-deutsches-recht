@@ -7,7 +7,7 @@ description: "Backup Ransomware Banking Dual Besonders im NIS2-Cybersecurity-Com
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Backup Ransomware Banking Dual Besonders** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Backup-Strategie gegen Ransomware, Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Backup Ransomware Banking Dual Besonders** ordnet den Fall über die tragenden Prüffelder: Prüft Backup-Strategie gegen Ransomware, Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

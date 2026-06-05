@@ -7,7 +7,7 @@ description: "Betreuerpflichten Genehmigung Betreuung im Plugin Betreuungsrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuerpflichten Genehmigung Betreuung** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Betreuerpflichten, Genehmigung und Berichtswesen, Betreuung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuerpflichten Genehmigung Betreuung** ordnet den Fall über die tragenden Prüffelder: Betreuerpflichten, Genehmigung und Berichtswesen, Betreuung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

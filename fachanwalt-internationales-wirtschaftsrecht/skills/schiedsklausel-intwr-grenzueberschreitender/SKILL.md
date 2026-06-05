@@ -7,7 +7,7 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schiedsklausel Intwr Grenzueberschreitender** als zusammenhängenden Arbeitsgang im Internationalen Wirtschaftsrecht. Im Mittelpunkt steht die Prüfung von Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schiedsklausel Intwr Grenzueberschreitender** ordnet den Fall über die tragenden Prüffelder: Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

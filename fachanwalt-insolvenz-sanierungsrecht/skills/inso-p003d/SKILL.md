@@ -1,13 +1,13 @@
 ---
 name: inso-p003d
-description: "Inso P003d im Insolvenz- und Sanierungsrecht: Dieser Skill arbeitet Inso P003d als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Inso P003d im Insolvenz- und Sanierungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Inso P003d
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Inso P003d** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Inso P003d** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

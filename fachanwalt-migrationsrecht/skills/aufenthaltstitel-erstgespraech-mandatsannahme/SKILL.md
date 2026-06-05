@@ -7,7 +7,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufenthaltstitel Erstgespraech Mandatsannahme** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufenthaltstitel Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

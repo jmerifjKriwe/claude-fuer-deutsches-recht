@@ -7,7 +7,7 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klageschrift Pflichtbestandteile** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüffelder: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

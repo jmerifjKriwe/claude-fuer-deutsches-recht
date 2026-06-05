@@ -7,7 +7,7 @@ description: "Betreuung Demenz Erbe Werden Erwachsene im Plugin Betreuungsrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuung Demenz Erbe Werden Erwachsene** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Betreuung bei Demenz, Betreuer als Erbe oder Beschenkter, Betreuung fuer erwachsene Kinder mit Behinderung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuung Demenz Erbe Werden Erwachsene** ordnet den Fall über die tragenden Prüffelder: Betreuung bei Demenz, Betreuer als Erbe oder Beschenkter, Betreuung fuer erwachsene Kinder mit Behinderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

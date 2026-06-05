@@ -103,7 +103,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `rueckfragen-mandant-depatisnet` | Rueckfragen Mandant Depatisnet im Plugin Patentrecherche: prüft konkret Prüft Rechtsstand eines Patents oder einer Anmeldung im, Generiert Rückfragen an den Mandanten wenn das vorgelegte, Depatisnet. Liefert priorisierten Output mit Norm... |
 | `stand-technik-uspto-interessen` | Stand Technik Uspto Interessen im Plugin Patentrecherche: prüft konkret Stand, Technik, USPTO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `taetigkeit-fristennotiz-agentische-datenbank` | Taetigkeit Fristennotiz Agentische Datenbank im Plugin Patentrecherche: prüft konkret Taetigkeit, Agentische Patentdatenbank-Recherche, EPO-Einspruch (Opposition) Strategie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel un... |
-| `upc-unified` | UPC Unified im Plugin Patentrecherche: Dieser Skill arbeitet UPC Unified als zusammenhängenden Arbeitsgang im Plugin Patentrecherche (FTO, Validity) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `upc-unified` | UPC Unified im Plugin Patentrecherche: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `wipo-stand-technik-ueberwachung-konkurrenten` | Wipo Stand Technik Ueberwachung Konkurrenten im Plugin Patentrecherche: prüft konkret Wipo, Recherche Stand der Technik vor eigener Patentanmeldung, Laufende Überwachung neuer Patentanmeldungen von. Liefert priorisierten Output mit Norm-... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -7,7 +7,7 @@ description: "TK Regulierungsakte TK Aktenzugang im Bundesnetzagentur-Verfahren:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Regulierungsakte TK Aktenzugang** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Nummernverwaltung, Rufnummernmissbrauch, zur strukturierten Aufnahme und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Regulierungsakte TK Aktenzugang** ordnet den Fall über die tragenden Prüffelder: Nummernverwaltung, Rufnummernmissbrauch, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Quality Gate Akteneinsicht im Plugin Strafbefehl Verteidiger: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Quality Gate Akteneinsicht** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose, Vor dem Einspruch-Versand vor der Hauptverhandlung oder, Akteneinsicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Quality Gate Akteneinsicht** ordnet den Fall über die tragenden Prüffelder: Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose, Vor dem Einspruch-Versand vor der Hauptverhandlung oder, Akteneinsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Dashboard Executive Cockpit Partner Scorecard im Kanzlei-Managemen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dashboard Executive Cockpit Partner Scorecard** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Baut Cockpit mit Cash, WIP, Utilization und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dashboard Executive Cockpit Partner Scorecard** ordnet den Fall über die tragenden Prüffelder: Baut Cockpit mit Cash, WIP, Utilization. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stgb Easy Social Media Amtsdelikte** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüffelder: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

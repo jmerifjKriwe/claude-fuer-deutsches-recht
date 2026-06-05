@@ -7,7 +7,7 @@ description: "Notweg Ueberhang Sonderfall Edge im Nachbarschaftsstreit: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notweg Ueberhang Sonderfall Edge** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Notweg, Ueberhang, Vergleich. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notweg Ueberhang Sonderfall Edge** ordnet den Fall über die tragenden Prüffelder: Notweg, Ueberhang, Vergleich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucheri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insolvenzeroeffnung Wirkungen Kommunikation** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Eröffnung des Insolvenzverfahrens, Gläubigerkommunikation, Kontosperre und Sozialleistungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insolvenzeroeffnung Wirkungen Kommunikation** ordnet den Fall über die tragenden Prüffelder: Eröffnung des Insolvenzverfahrens, Gläubigerkommunikation, Kontosperre und Sozialleistungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Sitzungs Terminvorbereitung Strom GAS Telefon im Plugin Verbrauche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sitzungs Terminvorbereitung Strom GAS Telefon** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Sitzungs- und Terminvorbereitung, Strom- und Gaspreiserhöhung, Telefon und Internet Störung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sitzungs Terminvorbereitung Strom GAS Telefon** ordnet den Fall über die tragenden Prüffelder: Sitzungs- und Terminvorbereitung, Strom- und Gaspreiserhöhung, Telefon und Internet Störung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

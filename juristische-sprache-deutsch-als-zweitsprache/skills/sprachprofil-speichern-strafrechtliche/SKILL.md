@@ -7,7 +7,7 @@ description: "Sprachprofil Speichern Strafrechtliche im Bereich Juristische Spra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sprachprofil Speichern Strafrechtliche** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Sprachprofil Speichern Ohne Stigma fuer Menschen, Hilft bei Strafrechtliche Warnwoerter fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sprachprofil Speichern Strafrechtliche** ordnet den Fall über die tragenden Prüffelder: Hilft bei Sprachprofil Speichern Ohne Stigma fuer Menschen, Hilft bei Strafrechtliche Warnwoerter fuer Menschen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Textilkennzeichnung EU Upcycling Repair im Fashion Law (Moderecht)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Textilkennzeichnung EU Upcycling Repair** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Textilkennzeichnung nach VO (EU) 1007/2011 prüfen, Upcycling, Reparatur und Alteration prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Textilkennzeichnung EU Upcycling Repair** ordnet den Fall über die tragenden Prüffelder: Textilkennzeichnung nach VO (EU) 1007/2011 prüfen, Upcycling, Reparatur und Alteration prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

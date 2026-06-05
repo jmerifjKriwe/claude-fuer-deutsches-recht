@@ -7,7 +7,7 @@ description: "Satzungsnormenkontrolle im Plugin Normenkontrolle Bauleitplanung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satzungsnormenkontrolle** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Allgemeine Satzungsnormenkontrolle nach § 47 VwGO, Mandant greift Bebauungsplan an weil er nicht aus dem, Grundstueckseigentuemer oder Nachbar moechte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satzungsnormenkontrolle** ordnet den Fall über die tragenden Prüffelder: Allgemeine Satzungsnormenkontrolle nach § 47 VwGO, Mandant greift Bebauungsplan an weil er nicht aus dem, Grundstueckseigentuemer oder Nachbar moechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Lebensversicherung Abgrenzung Mandantenblatt im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lebensversicherung Abgrenzung Mandantenblatt** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Lebensversicherung Abgrenzung Zugewinn VA, Mandantenblatt Versorgungsausgleich in einfacher Sprache, zur strukturierten Aufnahme und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lebensversicherung Abgrenzung Mandantenblatt** ordnet den Fall über die tragenden Prüffelder: Lebensversicherung Abgrenzung Zugewinn VA, Mandantenblatt Versorgungsausgleich in einfacher Sprache, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

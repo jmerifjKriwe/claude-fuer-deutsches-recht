@@ -7,7 +7,7 @@ description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einbuergerung Start Fachkraefte** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Einbürgerung Start, Fachkräfte-Start. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einbuergerung Start Fachkraefte** ordnet den Fall über die tragenden Prüffelder: Einbürgerung Start, Fachkräfte-Start. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Kommunale Beschlussvorlage Erbbaurecht im Plugin Erbbaurecht Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kommunale Beschlussvorlage Erbbaurecht** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfal. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kommunale Beschlussvorlage Erbbaurecht** ordnet den Fall über die tragenden Prüffelder: Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

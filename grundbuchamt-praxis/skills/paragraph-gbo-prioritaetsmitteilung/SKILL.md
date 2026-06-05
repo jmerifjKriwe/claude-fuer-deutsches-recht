@@ -7,7 +7,7 @@ description: "Paragraph GBO Prioritaetsmitteilung im Plugin Grundbuchamt Praxis:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Paragraph GBO Prioritaetsmitteilung** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Paragraph GBO Prioritaetsmitteilung** ordnet den Fall über die tragenden Prüffelder: Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

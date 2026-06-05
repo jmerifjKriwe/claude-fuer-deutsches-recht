@@ -7,7 +7,7 @@ description: "Anwalt Steuerberater Personalakte im Plugin Startup Hr Personalabt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anwalt Steuerberater Personalakte** als zusammenhängenden Arbeitsgang im Plugin Startup Hr Personalabteilung Berlin. Im Mittelpunkt steht die Prüfung von Berliner Start-up-HR und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anwalt Steuerberater Personalakte** ordnet den Fall über die tragenden Prüffelder: Berliner Start-up-HR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

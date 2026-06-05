@@ -7,7 +7,7 @@ description: "Fragerecht Ohne Freispruch Zweifel im Schöffen- und Handelsrichte
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fragerecht Ohne Freispruch Zweifel** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Fragerecht ohne Vorwegnahme, Freispruch bei Zweifel (Orientierung), Freispruch bei Zweifel (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fragerecht Ohne Freispruch Zweifel** ordnet den Fall über die tragenden Prüffelder: Fragerecht ohne Vorwegnahme, Freispruch bei Zweifel (Orientierung), Freispruch bei Zweifel (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

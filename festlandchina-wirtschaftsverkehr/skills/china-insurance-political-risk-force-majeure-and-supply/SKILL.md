@@ -7,7 +7,7 @@ description: "China Insurance Political Risk Force Majeure AND Supply im Plugin 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Insurance Political Risk Force Majeure AND Supply** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Versicherung politischer Risiken im China-Geschaeft, Force Majeure und Change-in-Law-Klauseln im China-Kontext, Supply-Disruption-Playbook China und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Insurance Political Risk Force Majeure AND Supply** ordnet den Fall über die tragenden Prüffelder: Versicherung politischer Risiken im China-Geschaeft, Force Majeure und Change-in-Law-Klauseln im China-Kontext, Supply-Disruption-Playbook China. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

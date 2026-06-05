@@ -7,7 +7,7 @@ description: "China Csddd Readiness Whistleblower Channel im Plugin Festlandchin
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Csddd Readiness Whistleblower Channel** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von EU CSDDD-Readiness für China-Lieferketten, Whistleblower-Kanäle für China-Lieferketten, Politisch sensible Produkte im China-Geschaeft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Csddd Readiness Whistleblower Channel** ordnet den Fall über die tragenden Prüffelder: EU CSDDD-Readiness für China-Lieferketten, Whistleblower-Kanäle für China-Lieferketten, Politisch sensible Produkte im China-Geschaeft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

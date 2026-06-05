@@ -7,7 +7,7 @@ description: "Pflicht Treuen Politische Betaetigung im Bundeswehrrecht / Wehrrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflicht Treuen Politische Betaetigung** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Pflicht zum treuen Dienen § 7 SG, Politische Betätigung Mäßigung Neutralität, Presseäußerung Meinungsfreiheit Soldat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflicht Treuen Politische Betaetigung** ordnet den Fall über die tragenden Prüffelder: Pflicht zum treuen Dienen § 7 SG, Politische Betätigung Mäßigung Neutralität, Presseäußerung Meinungsfreiheit Soldat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

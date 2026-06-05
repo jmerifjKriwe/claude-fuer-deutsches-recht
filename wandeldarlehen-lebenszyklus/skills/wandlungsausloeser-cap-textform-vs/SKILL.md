@@ -7,7 +7,7 @@ description: "Wandlungsausloeser CAP Textform VS im Plugin Wandeldarlehen Lebens
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wandlungsausloeser CAP Textform VS** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Wandlungsauslöser, Cap und Discount sauber berechnen, Formerfordernis für einzelne Wandeldarlehens-Dokumente. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wandlungsausloeser CAP Textform VS** ordnet den Fall über die tragenden Prüffelder: Wandlungsauslöser, Cap und Discount sauber berechnen, Formerfordernis für einzelne Wandeldarlehens-Dokumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

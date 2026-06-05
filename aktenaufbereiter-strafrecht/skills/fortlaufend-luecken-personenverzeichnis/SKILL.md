@@ -7,7 +7,7 @@ description: "Fortlaufend Luecken Personenverzeichnis im Strafakten-Aufbereitung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fortlaufend Luecken Personenverzeichnis** als zusammenhängenden Arbeitsgang im Strafakten-Aufbereitung. Im Mittelpunkt steht die Prüfung von Fortlaufend, Luecken, Personenverzeichnis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fortlaufend Luecken Personenverzeichnis** ordnet den Fall über die tragenden Prüffelder: Fortlaufend, Luecken, Personenverzeichnis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

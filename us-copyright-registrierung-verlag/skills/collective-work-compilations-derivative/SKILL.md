@@ -7,7 +7,7 @@ description: "Collective Work Compilations Derivative im Plugin Us Copyright Reg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Collective Work Compilations Derivative** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Sammelwerke, Beiträge, Periodika und Herausgeberbände und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Collective Work Compilations Derivative** ordnet den Fall über die tragenden Prüffelder: Sammelwerke, Beiträge, Periodika und Herausgeberbände. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

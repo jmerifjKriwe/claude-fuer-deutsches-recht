@@ -7,7 +7,7 @@ description: "Pilotbetrieb Beta Prodhaftg PLD im Robotik- und KI-Recht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pilotbetrieb Beta Prodhaftg PLD** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft Pilot-/Beta-Betrieb mit Kunden, Vergleicht deutsches ProdHaftG mit neuer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pilotbetrieb Beta Prodhaftg PLD** ordnet den Fall über die tragenden Prüffelder: Prüft Pilot-/Beta-Betrieb mit Kunden, Vergleicht deutsches ProdHaftG mit neuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

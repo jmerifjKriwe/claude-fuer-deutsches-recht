@@ -7,7 +7,7 @@ description: "Sicherungsrechte SLA Service Social Media im AGB-Recht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sicherungsrechte SLA Service Social Media** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Sicherungsrechte, SLA Service Credits, Branchen-Fachmodul für Social Media AGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sicherungsrechte SLA Service Social Media** ordnet den Fall über die tragenden Prüffelder: Sicherungsrechte, SLA Service Credits, Branchen-Fachmodul für Social Media AGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

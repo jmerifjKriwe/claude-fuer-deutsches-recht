@@ -7,7 +7,7 @@ description: "Englische Verfahrenssprache Late Submissions im Commercial Courts 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Englische Verfahrenssprache Late Submissions** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Prüft und gestaltet die englische Verfahrenssprache, Steuert verspätetes Vorbringen, Präklusion. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Englische Verfahrenssprache Late Submissions** ordnet den Fall über die tragenden Prüffelder: Prüft und gestaltet die englische Verfahrenssprache, Steuert verspätetes Vorbringen, Präklusion. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abwaegung Material Abwaegungslast NON** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüffelder: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

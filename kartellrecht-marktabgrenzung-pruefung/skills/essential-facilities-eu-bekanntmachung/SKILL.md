@@ -7,7 +7,7 @@ description: "Essential Facilities EU Bekanntmachung im Kartellrecht (Marktabgre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Essential Facilities EU Bekanntmachung** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Essential Facilities und Refusal to Deal, Skill zur neuen EU-Kommissions-Bekanntmachung zur, Bewertet die Qualitaet und Belastbarkeit der vorgelegten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Essential Facilities EU Bekanntmachung** ordnet den Fall über die tragenden Prüffelder: Essential Facilities und Refusal to Deal, Skill zur neuen EU-Kommissions-Bekanntmachung zur, Bewertet die Qualitaet und Belastbarkeit der vorgelegten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

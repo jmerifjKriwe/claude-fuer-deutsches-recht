@@ -7,7 +7,7 @@ description: "Proz Beweismittel Leitfaden Mediationsklage im Plugin Prozessrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Proz Beweismittel Leitfaden Mediationsklage** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Leitfaden Beweismittel ZPO, Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und, Spezialfall Prozessfinanzierung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Proz Beweismittel Leitfaden Mediationsklage** ordnet den Fall über die tragenden Prüffelder: Leitfaden Beweismittel ZPO, Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und, Spezialfall Prozessfinanzierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

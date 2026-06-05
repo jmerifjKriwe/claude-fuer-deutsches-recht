@@ -7,7 +7,7 @@ description: "Wasser Bodenschutz UWR Altlasten Bimschg im Plugin Umweltrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wasser Bodenschutz UWR Altlasten Bimschg** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Unternehmen beantragt WHG-Erlaubnis oder hat, Spezialfall Altlastenpruefung, Bauleiter BImSchG-Genehmigung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wasser Bodenschutz UWR Altlasten Bimschg** ordnet den Fall über die tragenden Prüffelder: Unternehmen beantragt WHG-Erlaubnis oder hat, Spezialfall Altlastenpruefung, Bauleiter BImSchG-Genehmigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

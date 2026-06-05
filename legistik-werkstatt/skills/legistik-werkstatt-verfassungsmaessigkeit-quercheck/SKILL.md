@@ -7,7 +7,7 @@ description: "Verfassungsmaessigkeit Quercheck im Legistik (Gesetzgebungstechnik
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verfassungsmaessigkeit Quercheck** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Querschnittsprüfung Verfassungsmäßigkeit eines, Verordnungsermaechtigung nach Art, Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verfassungsmaessigkeit Quercheck** ordnet den Fall über die tragenden Prüffelder: Querschnittsprüfung Verfassungsmäßigkeit eines, Verordnungsermaechtigung nach Art, Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

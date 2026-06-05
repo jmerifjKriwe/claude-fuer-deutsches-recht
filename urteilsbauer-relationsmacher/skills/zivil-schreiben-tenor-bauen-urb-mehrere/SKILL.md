@@ -7,7 +7,7 @@ description: "Zivil Schreiben Tenor Bauen URB Mehrere im Plugin Urteilsbauer Rel
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zivil Schreiben Tenor Bauen URB Mehrere** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Tatbestand eines Zivilurteils nach § 313 Abs, Tenor eines Zivilurteils konstruieren, Spezialfall mehrere Streitgegenstaende und Eventualantraege. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zivil Schreiben Tenor Bauen URB Mehrere** ordnet den Fall über die tragenden Prüffelder: Tatbestand eines Zivilurteils nach § 313 Abs, Tenor eines Zivilurteils konstruieren, Spezialfall mehrere Streitgegenstaende und Eventualantraege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

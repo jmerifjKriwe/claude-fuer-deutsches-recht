@@ -1,13 +1,13 @@
 ---
 name: widerspruch-klage
-description: "Widerspruch Klage im Versammlungsrecht: Dieser Skill arbeitet Widerspruch Klage als zusammenhängenden Arbeitsgang im Plugin Versammlungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Widerspruch Klage im Versammlungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Widerspruch Klage
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Widerspruch Klage** als zusammenhängenden Arbeitsgang im Plugin Versammlungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Widerspruch Klage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Steuer Routine Monatsabschluss Tage Quartalsabschluss Prozess im S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Routine Monatsabschluss Tage Quartalsabschluss Prozess** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Routine Monatsabschluss im 30-Tage-Zyklus, Routine Quartalsabschluss-Prozess, § 3c Absatz 4 EStG Verlustreihenfolge und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Routine Monatsabschluss Tage Quartalsabschluss Prozess** ordnet den Fall über die tragenden Prüffelder: Routine Monatsabschluss im 30-Tage-Zyklus, Routine Quartalsabschluss-Prozess, § 3c Absatz 4 EStG Verlustreihenfolge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

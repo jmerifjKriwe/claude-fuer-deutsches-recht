@@ -7,7 +7,7 @@ description: "Sftf Formvorgaben BGB Interessen Checklisten im Plugin Schriftform
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sftf Formvorgaben BGB Interessen Checklisten** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Bauleiter Formvorgaben BGB § 126 sowie § 126a sowie § 126b, BGB, Checklisten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sftf Formvorgaben BGB Interessen Checklisten** ordnet den Fall über die tragenden Prüffelder: Bauleiter Formvorgaben BGB § 126 sowie § 126a sowie § 126b, BGB, Checklisten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

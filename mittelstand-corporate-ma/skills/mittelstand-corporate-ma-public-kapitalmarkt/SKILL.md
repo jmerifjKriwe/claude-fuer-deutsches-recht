@@ -7,7 +7,7 @@ description: "Public Kapitalmarkt im Plugin Mittelstand Corporate Ma: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Public Kapitalmarkt** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Post-Closing Integration, Public M&A Kapitalmarkt und MAR, DD-Team verwaltet Q&A-Prozess im Datenraum und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Public Kapitalmarkt** ordnet den Fall über die tragenden Prüffelder: Post-Closing Integration, Public M&A Kapitalmarkt und MAR, DD-Team verwaltet Q&A-Prozess im Datenraum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

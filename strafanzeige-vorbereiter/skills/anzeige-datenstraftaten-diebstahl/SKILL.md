@@ -7,7 +7,7 @@ description: "Anzeige Datenstraftaten Diebstahl im Strafanzeigen-Vorbereitung: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anzeige Datenstraftaten Diebstahl** als zusammenhängenden Arbeitsgang im Strafanzeigen-Vorbereitung. Im Mittelpunkt steht die Prüfung von Ausspähen, Abfangen, Datenveränderung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anzeige Datenstraftaten Diebstahl** ordnet den Fall über die tragenden Prüffelder: Ausspähen, Abfangen, Datenveränderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

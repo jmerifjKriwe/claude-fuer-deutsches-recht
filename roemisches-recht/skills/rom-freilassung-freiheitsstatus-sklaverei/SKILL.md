@@ -7,7 +7,7 @@ description: "ROM Freilassung Freiheitsstatus Sklaverei im Römisches Recht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ROM Freilassung Freiheitsstatus Sklaverei** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Römisches Recht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ROM Freilassung Freiheitsstatus Sklaverei** ordnet den Fall über die tragenden Prüffelder: Römisches Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

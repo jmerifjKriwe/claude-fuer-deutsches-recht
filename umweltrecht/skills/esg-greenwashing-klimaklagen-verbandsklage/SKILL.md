@@ -7,7 +7,7 @@ description: "ESG Greenwashing Klimaklagen Verbandsklage im Plugin Umweltrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ESG Greenwashing Klimaklagen Verbandsklage** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für esg greenwashing csrd, Prüffeld für klimaklagen verbandsklage umwrg, Unternehmen ab 1000 Mitarbeitern muss. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ESG Greenwashing Klimaklagen Verbandsklage** ordnet den Fall über die tragenden Prüffelder: Prüffeld für esg greenwashing csrd, Prüffeld für klimaklagen verbandsklage umwrg, Unternehmen ab 1000 Mitarbeitern muss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

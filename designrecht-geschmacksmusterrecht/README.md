@@ -84,6 +84,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `sammelanmeldung-locarno-schutzgegenstand` | Sammelanmeldung Locarno Schutzgegenstand im Designrecht: prüft konkret Sammelanmeldung und Locarno-Klassifikation planen, Schutzgegenstand im Designrecht präzisieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächs... |
 | `schadensersatz-auskunft-abmahnung-designrecht` | Schadensersatz Auskunft Abmahnung Designrecht im Designrecht: prüft konkret Folgeansprüche nach Designverletzung prüfen, Designrechtliche Abmahnung erstellen oder verteidigen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel... |
 | `schutzschrift-gegenangriff-ui-icons` | Schutzschrift Gegenangriff UI Icons im Designrecht: prüft konkret Schutzschrift und Gegenangriff im Designrecht, UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risiko... |
-| `wiedergabe-ansichten` | Wiedergabe Ansichten im Designrecht: Dieser Skill arbeitet Wiedergabe Ansichten als zusammenhängenden Arbeitsgang im Plugin Designrecht / Geschmacksmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output... |
+| `wiedergabe-ansichten` | Wiedergabe Ansichten im Designrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

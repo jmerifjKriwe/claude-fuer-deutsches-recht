@@ -7,7 +7,7 @@ description: "Turbo Zeitnarrative im Plugin Kanzlei Allgemein: prüft konkret Er
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Turbo Zeitnarrative** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Erstellt schnell Klage Replik Antrag Klageerwiderung oder, Zeiterfassung mit abrechenbaren Narrativen für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Turbo Zeitnarrative** ordnet den Fall über die tragenden Prüffelder: Erstellt schnell Klage Replik Antrag Klageerwiderung oder, Zeiterfassung mit abrechenbaren Narrativen für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

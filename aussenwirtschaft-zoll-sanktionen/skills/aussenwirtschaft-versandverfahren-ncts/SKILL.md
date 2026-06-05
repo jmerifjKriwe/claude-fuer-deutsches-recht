@@ -7,7 +7,7 @@ description: "Versandverfahren Ncts im Außenwirtschaftsrecht, Zoll und Sanktion
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versandverfahren Ncts** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New, Zollverfahren und Bewilligungen nach UZK Art, Exportkontrollklauseln in Distributor- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versandverfahren Ncts** ordnet den Fall über die tragenden Prüffelder: Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New, Zollverfahren und Bewilligungen nach UZK Art, Exportkontrollklauseln in Distributor- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Erklaerung Interessen Formulare Pdfs im Plugin Barrierefreiheit We
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erklaerung Interessen Formulare Pdfs** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von Erklaerung, Formulare, Pdfs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erklaerung Interessen Formulare Pdfs** ordnet den Fall über die tragenden Prüffelder: Erklaerung, Formulare, Pdfs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

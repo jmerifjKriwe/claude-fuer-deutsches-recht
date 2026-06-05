@@ -7,7 +7,7 @@ description: "Strukturpruefung OPS Telemedizin Krankenhaus im Plugin Krankenhaus
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strukturpruefung OPS Telemedizin Krankenhaus** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Strukturprüfung OPS und MD, Telemedizin im Krankenhaus und Fernbehandlung, Transplantationsrecht Koordination. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strukturpruefung OPS Telemedizin Krankenhaus** ordnet den Fall über die tragenden Prüffelder: Strukturprüfung OPS und MD, Telemedizin im Krankenhaus und Fernbehandlung, Transplantationsrecht Koordination. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Akte Anlegen und Aktenzeichen Zuordnen im Plugin Kanzlei Allgemein
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Akte Anlegen und Aktenzeichen Zuordnen** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Anlage oder Zuordnung einer Kanzleiakte bei neuer, Erkennung Normalisierung und Verknuepfung von Aktenzeichen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Akte Anlegen und Aktenzeichen Zuordnen** ordnet den Fall über die tragenden Prüffelder: Anlage oder Zuordnung einer Kanzleiakte bei neuer, Erkennung Normalisierung und Verknuepfung von Aktenzeichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

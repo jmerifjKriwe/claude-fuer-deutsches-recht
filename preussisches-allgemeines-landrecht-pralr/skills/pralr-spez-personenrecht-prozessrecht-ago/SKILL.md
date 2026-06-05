@@ -7,7 +7,7 @@ description: "Spez Personenrecht Prozessrecht AGO im Preußisches Allgemeines La
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spez Personenrecht Prozessrecht AGO** als zusammenhängenden Arbeitsgang im Preußisches Allgemeines Landrecht. Im Mittelpunkt steht die Prüfung von ALR-Personenrecht — Kuriositaeten und ihre, Preussisches Prozessrecht und Allgemeine Gerichtsordnung, Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spez Personenrecht Prozessrecht AGO** ordnet den Fall über die tragenden Prüffelder: ALR-Personenrecht — Kuriositaeten und ihre, Preussisches Prozessrecht und Allgemeine Gerichtsordnung, Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSV Pressemitteilung Krisenkommunikation** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichnisses von und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSV Pressemitteilung Krisenkommunikation** ordnet den Fall über die tragenden Prüffelder: Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichnisses von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

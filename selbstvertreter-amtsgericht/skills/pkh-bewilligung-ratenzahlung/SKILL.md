@@ -7,7 +7,7 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PKH Bewilligung Ratenzahlung** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PKH Bewilligung Ratenzahlung** ordnet den Fall über die tragenden Prüffelder: Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

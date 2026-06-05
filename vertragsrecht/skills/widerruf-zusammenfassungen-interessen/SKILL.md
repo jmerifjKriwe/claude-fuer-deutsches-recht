@@ -7,7 +7,7 @@ description: "Widerruf Zusammenfassungen Interessen im Plugin Vertragsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Widerruf Zusammenfassungen Interessen** als zusammenhängenden Arbeitsgang im Plugin Vertragsrecht. Im Mittelpunkt steht die Prüfung von Widerruf, Zusammenfassungen, Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Widerruf Zusammenfassungen Interessen** ordnet den Fall über die tragenden Prüffelder: Widerruf, Zusammenfassungen, Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

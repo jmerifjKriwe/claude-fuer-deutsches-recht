@@ -7,7 +7,7 @@ description: "Umfassende Sperrminoritaet Unternehmerisches im Sozialversicherung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Umfassende Sperrminoritaet Unternehmerisches** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Vertieft die Anforderungen an eine umfassende, Prüft echtes Unternehmerrisiko, Kapitaleinsatz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Umfassende Sperrminoritaet Unternehmerisches** ordnet den Fall über die tragenden Prüffelder: Vertieft die Anforderungen an eine umfassende, Prüft echtes Unternehmerrisiko, Kapitaleinsatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

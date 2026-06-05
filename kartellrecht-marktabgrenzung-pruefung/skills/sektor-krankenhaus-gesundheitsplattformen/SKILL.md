@@ -7,7 +7,7 @@ description: "Sektor Krankenhaus Gesundheitsplattformen im Kartellrecht (Marktab
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sektor Krankenhaus Gesundheitsplattformen** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Sektor Krankenhaus, Gesundheitsplattformen und Versorgung, Sektor Lebensmittelhandel und Einkaufsallianzen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sektor Krankenhaus Gesundheitsplattformen** ordnet den Fall über die tragenden Prüffelder: Sektor Krankenhaus, Gesundheitsplattformen und Versorgung, Sektor Lebensmittelhandel und Einkaufsallianzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

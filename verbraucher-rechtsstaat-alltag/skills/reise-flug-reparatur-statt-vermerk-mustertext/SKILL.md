@@ -7,7 +7,7 @@ description: "Reise Flug Reparatur Statt Vermerk Mustertext im Plugin Verbrauche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Reise Flug Reparatur Statt Vermerk Mustertext** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Reise, Flug und Zug Problem, Reparatur statt Neukauf und Right to Repair. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Reise Flug Reparatur Statt Vermerk Mustertext** ordnet den Fall über die tragenden Prüffelder: Reise, Flug und Zug Problem, Reparatur statt Neukauf und Right to Repair. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

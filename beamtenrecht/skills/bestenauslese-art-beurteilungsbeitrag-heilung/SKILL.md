@@ -7,7 +7,7 @@ description: "Bestenauslese ART Beurteilungsbeitrag Heilung im Beamtenrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bestenauslese ART Beurteilungsbeitrag Heilung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Bestenauslese nach Art, Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen, Skill zur Bindungswirkung des rechtskraeftigen Strafurteils und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bestenauslese ART Beurteilungsbeitrag Heilung** ordnet den Fall über die tragenden Prüffelder: Bestenauslese nach Art, Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen, Skill zur Bindungswirkung des rechtskraeftigen Strafurteils. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

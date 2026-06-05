@@ -7,7 +7,7 @@ description: "Klageschrift English Limitation Tolling im Commercial Courts in De
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klageschrift English Limitation Tolling** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Erstellt eine englische Commercial-Court-Klageschrift mit, Prüft Verjährung, Hemmung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klageschrift English Limitation Tolling** ordnet den Fall über die tragenden Prüffelder: Erstellt eine englische Commercial-Court-Klageschrift mit, Prüft Verjährung, Hemmung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandat Triage Plaedoyer Vorbereitung** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandat Triage Plaedoyer Vorbereitung** ordnet den Fall über die tragenden Prüffelder: Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

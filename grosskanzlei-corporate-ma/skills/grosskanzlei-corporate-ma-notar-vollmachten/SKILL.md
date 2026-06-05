@@ -7,7 +7,7 @@ description: "Notar Vollmachten im Corporate/M&A (Großkanzlei-Praxis): prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notar Vollmachten** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notar Vollmachten** ordnet den Fall über die tragenden Prüffelder: Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

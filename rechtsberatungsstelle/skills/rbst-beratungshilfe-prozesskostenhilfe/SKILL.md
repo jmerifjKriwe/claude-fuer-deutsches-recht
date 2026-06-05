@@ -7,7 +7,7 @@ description: "Rbst Beratungshilfe Prozesskostenhilfe im Plugin Rechtsberatungsst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rbst Beratungshilfe Prozesskostenhilfe** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Leitfaden Beratungshilfe und Prozesskostenhilfe, Spezialfall niedrigschwellige Onlineberatung mit, Spezialfall RDG-Grenzen fuer Nichtanwaelte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rbst Beratungshilfe Prozesskostenhilfe** ordnet den Fall über die tragenden Prüffelder: Leitfaden Beratungshilfe und Prozesskostenhilfe, Spezialfall niedrigschwellige Onlineberatung mit, Spezialfall RDG-Grenzen fuer Nichtanwaelte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Paragraph Verjaehrung Werk Dienst im Plugin Bgb Bt Pruefer: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Paragraph Verjaehrung Werk Dienst** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Vergleich § 779 BGB, Verjährung im BGB BT, Werk-Dienst-Abgrenzung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Paragraph Verjaehrung Werk Dienst** ordnet den Fall über die tragenden Prüffelder: Vergleich § 779 BGB, Verjährung im BGB BT, Werk-Dienst-Abgrenzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

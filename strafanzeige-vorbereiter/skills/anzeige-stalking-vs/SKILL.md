@@ -7,7 +7,7 @@ description: "Anzeige Stalking VS im Strafanzeigen-Vorbereitung: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anzeige Stalking VS** als zusammenhängenden Arbeitsgang im Strafanzeigen-Vorbereitung. Im Mittelpunkt steht die Prüfung von Nachstellung anzeigen, Unterscheidet Strafanzeige, Strafantrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anzeige Stalking VS** ordnet den Fall über die tragenden Prüffelder: Nachstellung anzeigen, Unterscheidet Strafanzeige, Strafantrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

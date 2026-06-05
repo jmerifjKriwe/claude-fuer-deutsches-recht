@@ -7,7 +7,7 @@ description: "Einspruch Aktenanlage im Plugin Strafbefehl Verteidiger: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einspruch Aktenanlage** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Gegen, Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab, Neues Strafbefehl-Mandat anlegen und Mandatsakte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einspruch Aktenanlage** ordnet den Fall über die tragenden Prüffelder: Gegen, Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab, Neues Strafbefehl-Mandat anlegen und Mandatsakte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

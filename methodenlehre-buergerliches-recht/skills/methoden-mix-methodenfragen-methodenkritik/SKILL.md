@@ -7,7 +7,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Methoden MIX Methodenfragen Methodenkritik** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Pragmatischer Methoden-Mix im Anwaltsschriftsatz, System, Hist und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Methoden MIX Methodenfragen Methodenkritik** ordnet den Fall über die tragenden Prüffelder: Pragmatischer Methoden-Mix im Anwaltsschriftsatz, System, Hist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

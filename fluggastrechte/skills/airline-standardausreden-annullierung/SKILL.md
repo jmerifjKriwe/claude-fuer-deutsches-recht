@@ -7,7 +7,7 @@ description: "Airline Standardausreden Annullierung im Fluggastrechte: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Airline Standardausreden Annullierung** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Katalog typischer Standardausreden der Fluggesellschaften, Prüffeld für annullierung oder verspaetung einordnen, Prüffeld für anschlussflug und reiseplan. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Airline Standardausreden Annullierung** ordnet den Fall über die tragenden Prüffelder: Katalog typischer Standardausreden der Fluggesellschaften, Prüffeld für annullierung oder verspaetung einordnen, Prüffeld für anschlussflug und reiseplan. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

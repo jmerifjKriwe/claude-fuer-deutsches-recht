@@ -7,7 +7,7 @@ description: "Bericht Saisonkalender Mittelstand Stichprobe im Berichtspflichten
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Saisonkalender Mittelstand Stichprobe** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Jahresrhythmus typischer Berichtspflichten im Mittelstand, Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Saisonkalender Mittelstand Stichprobe** ordnet den Fall über die tragenden Prüffelder: Jahresrhythmus typischer Berichtspflichten im Mittelstand, Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

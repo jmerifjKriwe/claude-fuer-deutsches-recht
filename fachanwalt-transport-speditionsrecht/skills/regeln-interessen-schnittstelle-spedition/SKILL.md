@@ -7,7 +7,7 @@ description: "Regeln Interessen Schnittstelle Spedition im Plugin Fachanwalt Tra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Regeln Interessen Schnittstelle Spedition** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Regeln, Schnittstelle, Spedition. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Regeln Interessen Schnittstelle Spedition** ordnet den Fall über die tragenden Prüffelder: Regeln, Schnittstelle, Spedition. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

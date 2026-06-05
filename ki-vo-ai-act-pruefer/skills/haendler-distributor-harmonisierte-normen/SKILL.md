@@ -7,7 +7,7 @@ description: "Haendler Distributor Harmonisierte Normen im EU KI-VO (AI Act): pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Haendler Distributor Harmonisierte Normen** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Distributeur oder Grosshaendler von KI-Systemen fragt, Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Haendler Distributor Harmonisierte Normen** ordnet den Fall über die tragenden Prüffelder: Distributeur oder Grosshaendler von KI-Systemen fragt, Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

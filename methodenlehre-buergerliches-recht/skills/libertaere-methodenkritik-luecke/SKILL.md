@@ -7,7 +7,7 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Libertaere Methodenkritik Luecke** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Analysiert die libertäre Methodenkritik an staatlichen und, Klärt die methodisch entscheidende Unterscheidung zwischen, Leitet durch die methodisch korrekte Aufbereitung und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Libertaere Methodenkritik Luecke** ordnet den Fall über die tragenden Prüffelder: Analysiert die libertäre Methodenkritik an staatlichen und, Klärt die methodisch entscheidende Unterscheidung zwischen, Leitet durch die methodisch korrekte Aufbereitung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

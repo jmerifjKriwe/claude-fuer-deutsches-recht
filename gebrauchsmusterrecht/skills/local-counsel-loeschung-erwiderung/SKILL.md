@@ -7,7 +7,7 @@ description: "Local Counsel Loeschung Erwiderung im Gebrauchsmusterrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Local Counsel Loeschung Erwiderung** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Local-Counsel-Briefing für ausländische, Erwiderung des Inhabers im Löschungsverfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Local Counsel Loeschung Erwiderung** ordnet den Fall über die tragenden Prüffelder: Local-Counsel-Briefing für ausländische, Erwiderung des Inhabers im Löschungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

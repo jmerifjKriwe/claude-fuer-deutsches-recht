@@ -7,7 +7,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elterngeld Elterngeldstellen EM Rente** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elterngeld Elterngeldstellen EM Rente** ordnet den Fall über die tragenden Prüffelder: Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

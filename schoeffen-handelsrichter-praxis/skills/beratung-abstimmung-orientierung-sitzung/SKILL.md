@@ -7,7 +7,7 @@ description: "Beratung Abstimmung Orientierung Sitzung im Schöffen- und Handels
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beratung Abstimmung Orientierung Sitzung** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Beratung und Abstimmung, Beratung und Abstimmung (Orientierung), Beratung und Abstimmung (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beratung Abstimmung Orientierung Sitzung** ordnet den Fall über die tragenden Prüffelder: Beratung und Abstimmung, Beratung und Abstimmung (Orientierung), Beratung und Abstimmung (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

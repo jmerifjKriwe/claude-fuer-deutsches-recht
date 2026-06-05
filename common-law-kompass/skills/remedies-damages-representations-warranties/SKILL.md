@@ -7,7 +7,7 @@ description: "Remedies Damages Representations Warranties im Common Law (Orienti
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Remedies Damages Representations Warranties** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und, Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen, Anwalt oder Mandant will UK/US-Vertragsverhandlung oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Remedies Damages Representations Warranties** ordnet den Fall über die tragenden Prüffelder: Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und, Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen, Anwalt oder Mandant will UK/US-Vertragsverhandlung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

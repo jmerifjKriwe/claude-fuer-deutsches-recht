@@ -7,7 +7,7 @@ description: "M A Aenderungsmodus Ampelmatrix im NDA-Abgleich: prüft konkret ND
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **M A Aenderungsmodus Ampelmatrix** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von NDA vor M&A-Data-Room, Aenderungsmodus, Ampelmatrix. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**M A Aenderungsmodus Ampelmatrix** ordnet den Fall über die tragenden Prüffelder: NDA vor M&A-Data-Room, Aenderungsmodus, Ampelmatrix. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -121,6 +121,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `pensionsmodelle-fuenf-bav-cta-pensionsfond` | Pensionsmodelle Fuenf BAV CTA Pensionsfond im betriebliche Altersversorgung (bAV): prüft konkret Fuenf Durchführungswege der betrieblichen Altersversorgung, Spezialfall Contractual Trust Arrangement CTA, Spezialfall Pensionsfonds mit Rue... |
 | `restrukturierung-beweislast-stil-strategische` | Restrukturierung Beweislast Stil Strategische im betriebliche Altersversorgung (bAV): prüft konkret Restrukturierung, Stil, Strategische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `stufen-theorie-interessen-versorgungssystem` | Stufen Theorie Interessen Versorgungssystem im betriebliche Altersversorgung (bAV): prüft konkret Stufen, Theorie, Versorgungssystem. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `versorgungsordnung-betriebsvereinbarung` | Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV): Dieser Skill arbeitet Versorgungsordnung Betriebsvereinbarung als zusammenhängenden Arbeitsgang im Plugin Bav Strategie Konzern ab — nach Aktenlage, Frist, Z... |
+| `versorgungsordnung-betriebsvereinbarung` | Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

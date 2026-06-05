@@ -7,7 +7,7 @@ description: "Internationales Drittstaaten Konzerninsolvenz im Plugin Insolvenzr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Internationales Drittstaaten Konzerninsolvenz** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Drittstaatliche Insolvenzverfahren in Deutschland prüfen, Mehrere Gesellschaften eines Konzerns sind insolvent und, Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Internationales Drittstaaten Konzerninsolvenz** ordnet den Fall über die tragenden Prüffelder: Drittstaatliche Insolvenzverfahren in Deutschland prüfen, Mehrere Gesellschaften eines Konzerns sind insolvent und, Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

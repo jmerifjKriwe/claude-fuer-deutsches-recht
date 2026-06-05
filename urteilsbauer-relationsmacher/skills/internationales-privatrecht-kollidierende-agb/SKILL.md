@@ -7,7 +7,7 @@ description: "Internationales Privatrecht Kollidierende AGB im Plugin Urteilsbau
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Internationales Privatrecht Kollidierende AGB** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Anwendbares Recht bei grenzüberschreitenden Vertraegen und, Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen, Kostenentscheidung nach §§ 91 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Internationales Privatrecht Kollidierende AGB** ordnet den Fall über die tragenden Prüffelder: Anwendbares Recht bei grenzüberschreitenden Vertraegen und, Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen, Kostenentscheidung nach §§ 91 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

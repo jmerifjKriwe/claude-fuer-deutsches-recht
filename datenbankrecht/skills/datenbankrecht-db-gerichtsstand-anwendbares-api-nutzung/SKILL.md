@@ -7,7 +7,7 @@ description: "DB Gerichtsstand Anwendbares API Nutzung im Plugin Datenbankrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Gerichtsstand Anwendbares API Nutzung** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Gerichtsstand und anwendbares Recht im Datenbankrecht, Prüft die rechtliche Bewertung von API-Nutzung im, Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Gerichtsstand Anwendbares API Nutzung** ordnet den Fall über die tragenden Prüffelder: Gerichtsstand und anwendbares Recht im Datenbankrecht, Prüft die rechtliche Bewertung von API-Nutzung im, Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Klageantraege Auskunft Madrid Protokoll im Plugin Markenrecht Fash
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klageantraege Auskunft Madrid Protokoll** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Klageanträge im Markenrecht bauen, Madrid-Protokoll WIPO und internationale Registrierung von, Marken als Vermögensgegenstand bewerten und in Asset Deal und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klageantraege Auskunft Madrid Protokoll** ordnet den Fall über die tragenden Prüffelder: Klageanträge im Markenrecht bauen, Madrid-Protokoll WIPO und internationale Registrierung von, Marken als Vermögensgegenstand bewerten und in Asset Deal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSV Kinderdaten Besondere** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSV Kinderdaten Besondere** ordnet den Fall über die tragenden Prüffelder: Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

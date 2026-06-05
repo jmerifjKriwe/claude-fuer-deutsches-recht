@@ -7,7 +7,7 @@ description: "Paket Verloren Plattformkonto Sperre Probeabo im Plugin Verbrauche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Paket Verloren Plattformkonto Sperre Probeabo** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Paket verloren oder beim Nachbarn, Plattformkonto gesperrt, Probeabo. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Paket Verloren Plattformkonto Sperre Probeabo** ordnet den Fall über die tragenden Prüffelder: Paket verloren oder beim Nachbarn, Plattformkonto gesperrt, Probeabo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

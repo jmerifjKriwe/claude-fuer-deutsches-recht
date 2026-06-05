@@ -7,7 +7,7 @@ description: "Bwbes Dienstzeitversorgung im Bundeswehrrecht / Wehrrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bwbes Dienstzeitversorgung** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Dienstzeitversorgung und BFD, Dienstunfall und WDB, Heilfürsorge. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bwbes Dienstzeitversorgung** ordnet den Fall über die tragenden Prüffelder: Dienstzeitversorgung und BFD, Dienstunfall und WDB, Heilfürsorge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

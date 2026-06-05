@@ -7,7 +7,7 @@ description: "Partgg Pilotregime Sonderfall im Plugin Fachanwalt Handels Gesells
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Partgg Pilotregime Sonderfall** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Partgg, Pilotregime, Schnittstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Partgg Pilotregime Sonderfall** ordnet den Fall über die tragenden Prüffelder: Partgg, Pilotregime, Schnittstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Fran RS KPI Lieferbindung Eigenmarken im Franchiserecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran RS KPI Lieferbindung Eigenmarken** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife, Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran RS KPI Lieferbindung Eigenmarken** ordnet den Fall über die tragenden Prüffelder: Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife, Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Attest Anforderungen Auslandsanerkennung im Prüfungsrecht der Hoc
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Attest Anforderungen Auslandsanerkennung** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft formale und materielle Anforderungen an Atteste in, Prüft Anerkennung ausländischer Leistungen, Learning Agreement und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Attest Anforderungen Auslandsanerkennung** ordnet den Fall über die tragenden Prüffelder: Prüft formale und materielle Anforderungen an Atteste in, Prüft Anerkennung ausländischer Leistungen, Learning Agreement. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

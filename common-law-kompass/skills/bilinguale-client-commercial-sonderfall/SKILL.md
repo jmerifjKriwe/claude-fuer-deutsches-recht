@@ -7,7 +7,7 @@ description: "Bilinguale Client Commercial Sonderfall im Common Law (Orientierun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bilinguale Client Commercial Sonderfall** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Bilinguale, Client, Commercial. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bilinguale Client Commercial Sonderfall** ordnet den Fall über die tragenden Prüffelder: Bilinguale, Client, Commercial. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

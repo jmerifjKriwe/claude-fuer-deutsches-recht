@@ -7,7 +7,7 @@ description: "Ifap Intake Kanalcheck Masseverbindlichkeit im Plugin Insolvenzfor
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Intake Kanalcheck Masseverbindlichkeit** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Eingehende Forderungsanmeldungen kanalübergreifend erfassen, Masseverbindlichkeiten von Insolvenzforderungen abgrenzen, Mängel- und Nachforderungsschreiben bei unvollständigen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Intake Kanalcheck Masseverbindlichkeit** ordnet den Fall über die tragenden Prüffelder: Eingehende Forderungsanmeldungen kanalübergreifend erfassen, Masseverbindlichkeiten von Insolvenzforderungen abgrenzen, Mängel- und Nachforderungsschreiben bei unvollständigen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

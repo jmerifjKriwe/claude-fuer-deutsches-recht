@@ -7,7 +7,7 @@ description: "Review Engagement Rotation Cooling Sanktionen im Berufsrecht der W
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Review Engagement Rotation Cooling Sanktionen** als zusammenhängenden Arbeitsgang im Berufsrecht der Wirtschaftsprüfer. Im Mittelpunkt steht die Prüfung von Wirtschaftsprüfer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Review Engagement Rotation Cooling Sanktionen** ordnet den Fall über die tragenden Prüffelder: Wirtschaftsprüfer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

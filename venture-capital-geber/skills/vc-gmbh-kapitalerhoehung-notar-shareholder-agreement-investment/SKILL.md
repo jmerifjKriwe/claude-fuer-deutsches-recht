@@ -7,7 +7,7 @@ description: "VC Gmbh Kapitalerhoehung Notar Shareholder Agreement Investment im
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Gmbh Kapitalerhoehung Notar Shareholder Agreement Investment** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Gmbh Kapitalerhoehung Notar Shareholder Agreement Investment** ordnet den Fall über die tragenden Prüffelder: Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

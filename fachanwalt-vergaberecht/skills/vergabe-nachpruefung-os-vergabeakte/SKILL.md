@@ -7,7 +7,7 @@ description: "Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergabere
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vergabe Nachpruefung OS Vergabeakte** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS fuer Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk fuer Auftraggeber und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vergabe Nachpruefung OS Vergabeakte** ordnet den Fall über die tragenden Prüffelder: Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS fuer Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk fuer Auftraggeber. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

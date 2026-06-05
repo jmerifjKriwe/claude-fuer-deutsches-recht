@@ -7,7 +7,7 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Patg Verfuegung Beweislast Verletzungsklage** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von PatG, Einstweilige Verfügung, Verletzungsklage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Patg Verfuegung Beweislast Verletzungsklage** ordnet den Fall über die tragenden Prüffelder: PatG, Einstweilige Verfügung, Verletzungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

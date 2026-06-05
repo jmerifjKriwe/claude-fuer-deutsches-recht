@@ -7,7 +7,7 @@ description: "Zeugeninterviews Mitarbeiter Zwangsgeld im Datenschutz-Sanktionsve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zeugeninterviews Mitarbeiter Zwangsgeld** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Mitarbeiterinterviews im Sanktionsverfahren, Zwangsgeld und Vollstreckung der Aufsicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zeugeninterviews Mitarbeiter Zwangsgeld** ordnet den Fall über die tragenden Prüffelder: Mitarbeiterinterviews im Sanktionsverfahren, Zwangsgeld und Vollstreckung der Aufsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

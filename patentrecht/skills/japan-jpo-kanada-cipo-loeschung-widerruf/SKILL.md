@@ -7,7 +7,7 @@ description: "Japan JPO Kanada Cipo Loeschung Widerruf im Patentrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Japan JPO Kanada Cipo Loeschung Widerruf** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Strukturiert japanische Patentfragen, Prüft kanadische Patentfragen, Koordiniert Rechtsbestandsangriffe international. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Japan JPO Kanada Cipo Loeschung Widerruf** ordnet den Fall über die tragenden Prüffelder: Strukturiert japanische Patentfragen, Prüft kanadische Patentfragen, Koordiniert Rechtsbestandsangriffe international. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

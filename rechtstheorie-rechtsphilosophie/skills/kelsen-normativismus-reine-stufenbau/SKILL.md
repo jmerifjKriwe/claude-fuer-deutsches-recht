@@ -7,7 +7,7 @@ description: "Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsph
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kelsen Normativismus Reine Stufenbau** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kelsen Normativismus Reine Stufenbau** ordnet den Fall über die tragenden Prüffelder: Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

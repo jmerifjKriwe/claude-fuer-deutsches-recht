@@ -7,7 +7,7 @@ description: "Haftpflicht Versicherer Konvention K im Plugin Anlagen Zu Schrifts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Haftpflicht Versicherer Konvention K** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Anlagen-Pflicht gegenueber Haftpflichtversicherer, Hausratver, Konvention erklaert und korrekt eingesetzt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Haftpflicht Versicherer Konvention K** ordnet den Fall über die tragenden Prüffelder: Anlagen-Pflicht gegenueber Haftpflichtversicherer, Hausratver, Konvention erklaert und korrekt eingesetzt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ropa Processor Template KI Anwendungen** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüffelder: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

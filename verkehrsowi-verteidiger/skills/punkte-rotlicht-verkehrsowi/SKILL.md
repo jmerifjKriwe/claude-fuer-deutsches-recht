@@ -7,7 +7,7 @@ description: "Punkte Rotlicht Verkehrsowi im Plugin Verkehrsowi Verteidiger: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Punkte Rotlicht Verkehrsowi** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Punkte, Rotlicht, Verkehrsowi. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Punkte Rotlicht Verkehrsowi** ordnet den Fall über die tragenden Prüffelder: Punkte, Rotlicht, Verkehrsowi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

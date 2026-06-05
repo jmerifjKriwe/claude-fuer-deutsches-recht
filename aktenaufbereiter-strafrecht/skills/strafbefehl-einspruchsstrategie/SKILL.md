@@ -7,7 +7,7 @@ description: "Strafbefehl Einspruchsstrategie im Strafakten-Aufbereitung: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafbefehl Einspruchsstrategie** als zusammenhängenden Arbeitsgang im Strafakten-Aufbereitung. Im Mittelpunkt steht die Prüfung von Strafbefehl § 410 StPO, Strafzumessung § 46 StGB systematisch, Tatkomplexe einer Strafakte gliedern. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafbefehl Einspruchsstrategie** ordnet den Fall über die tragenden Prüffelder: Strafbefehl § 410 StPO, Strafzumessung § 46 StGB systematisch, Tatkomplexe einer Strafakte gliedern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

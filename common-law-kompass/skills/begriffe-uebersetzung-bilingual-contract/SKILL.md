@@ -7,7 +7,7 @@ description: "Begriffe Uebersetzung Bilingual Contract im Common Law (Orientieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Begriffe Uebersetzung Bilingual Contract** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe, Anwalt prüft deutschen und englischen Vertragstext auf, Mandant oder Business-Team versteht Common-Law-Konzepte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Begriffe Uebersetzung Bilingual Contract** ordnet den Fall über die tragenden Prüffelder: Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe, Anwalt prüft deutschen und englischen Vertragstext auf, Mandant oder Business-Team versteht Common-Law-Konzepte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

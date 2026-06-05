@@ -7,7 +7,7 @@ description: "Gebrauchsmuster Patent Patentrechts im Patentrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gebrauchsmuster Patent Patentrechts** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Prüft strategisch Patent, Gebrauchsmuster, EP/PCT. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gebrauchsmuster Patent Patentrechts** ordnet den Fall über die tragenden Prüffelder: Prüft strategisch Patent, Gebrauchsmuster, EP/PCT. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

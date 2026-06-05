@@ -7,7 +7,7 @@ description: "Garantie VS Gebrauchtkauf Privat im Plugin Verbraucher Rechtsstaat
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Garantie VS Gebrauchtkauf Privat** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Garantie versus Gewährleistung, Gebrauchtkauf privat mit Mängeln, Gerichtlicher Mahnbescheid für Laien. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Garantie VS Gebrauchtkauf Privat** ordnet den Fall über die tragenden Prüffelder: Garantie versus Gewährleistung, Gebrauchtkauf privat mit Mängeln, Gerichtlicher Mahnbescheid für Laien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

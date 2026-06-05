@@ -7,7 +7,7 @@ description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaets
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Interessen Verifikation Beweislast Vorschau** als zusammenhängenden Arbeitsgang im Plugin Liquiditaetsplanung. Im Mittelpunkt steht die Prüfung von Schnittstellen, Verifikation, Vorschau. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Interessen Verifikation Beweislast Vorschau** ordnet den Fall über die tragenden Prüffelder: Schnittstellen, Verifikation, Vorschau. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

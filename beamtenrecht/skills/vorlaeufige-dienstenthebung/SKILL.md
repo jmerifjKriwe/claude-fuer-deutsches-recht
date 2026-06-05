@@ -7,7 +7,7 @@ description: "Vorlaeufige Dienstenthebung im Beamtenrecht: prüft konkret Skill 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorlaeufige Dienstenthebung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt, Vorläufige Dienstenthebung und Einbehaltung von Bezügen im, Widerspruch und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorlaeufige Dienstenthebung** ordnet den Fall über die tragenden Prüffelder: Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt, Vorläufige Dienstenthebung und Einbehaltung von Bezügen im, Widerspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

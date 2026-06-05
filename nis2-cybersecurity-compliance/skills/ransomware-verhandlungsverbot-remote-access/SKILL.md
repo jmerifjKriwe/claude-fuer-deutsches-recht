@@ -7,7 +7,7 @@ description: "Ransomware Verhandlungsverbot Remote Access im NIS2-Cybersecurity-
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ransomware Verhandlungsverbot Remote Access** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen, Prüft VPN, Zero Trust und Remote Access und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ransomware Verhandlungsverbot Remote Access** ordnet den Fall über die tragenden Prüffelder: Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen, Prüft VPN, Zero Trust und Remote Access. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

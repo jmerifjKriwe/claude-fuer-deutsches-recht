@@ -7,7 +7,7 @@ description: "Beschwerdemanagement Patient Blutprodukte im Plugin Apothekenrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beschwerdemanagement Patient Blutprodukte** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Beschwerdemanagement Patient Kunden, Blutprodukte Hämophilie Registerpflicht, BtM-Rezept Betäubungsmittel Dokumentation. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beschwerdemanagement Patient Blutprodukte** ordnet den Fall über die tragenden Prüffelder: Beschwerdemanagement Patient Kunden, Blutprodukte Hämophilie Registerpflicht, BtM-Rezept Betäubungsmittel Dokumentation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

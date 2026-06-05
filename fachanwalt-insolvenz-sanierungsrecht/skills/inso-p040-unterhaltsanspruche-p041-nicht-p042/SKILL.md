@@ -7,7 +7,7 @@ description: "Inso P040 Unterhaltsanspruche P041 Nicht P042 im Insolvenz- und Sa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P040 Unterhaltsanspruche P041 Nicht P042** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 40 InsO (Unterhaltsansprüche) im Mandat prüfen, § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen, § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P040 Unterhaltsanspruche P041 Nicht P042** ordnet den Fall über die tragenden Prüffelder: § 40 InsO (Unterhaltsansprüche) im Mandat prüfen, § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen, § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -82,6 +82,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `pruefung-fehlerkatalog` | Prüfung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `sachverhaltsermittlung-verifikation` | Sachverhaltsermittlung Verifikation im Plugin Immobilienrechtspraxis: prüft konkret Sachverhaltsermittlung, Verifikation, Werkzeuge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vertragserstellung-musterbasiert` | Vertragserstellung Musterbasiert im Plugin Immobilienrechtspraxis: prüft konkret Immobilienrechtliche Vertraege auf Musterbasis erstellen, Immobilienrechtliche Vertraege nach standardisiertem, Immobilien Share Deal Grunderwerbsteuer §§ 1... |
-| `weg-abrechnung` | WEG Abrechnung im Plugin Immobilienrechtspraxis: Dieser Skill arbeitet WEG Abrechnung als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output prioris... |
+| `weg-abrechnung` | WEG Abrechnung im Plugin Immobilienrechtspraxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

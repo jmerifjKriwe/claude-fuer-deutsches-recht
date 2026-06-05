@@ -7,7 +7,7 @@ description: "BFSG Zeitleiste Ecommerce Checkout En301549 im Plugin Barrierefrei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BFSG Zeitleiste Ecommerce Checkout En301549** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und, Spezialpruefung E-Commerce-Checkout, Erstellt Prüfkatalog nach EN 301 549 und WCAG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BFSG Zeitleiste Ecommerce Checkout En301549** ordnet den Fall über die tragenden Prüffelder: Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und, Spezialpruefung E-Commerce-Checkout, Erstellt Prüfkatalog nach EN 301 549 und WCAG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verhandlungsverfahren Dialog** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verhandlungsverfahren Dialog** ordnet den Fall über die tragenden Prüffelder: Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "IV Sicherung IV Tabelle im Plugin Insolvenzverwaltung: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Sicherung IV Tabelle** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Betrieb in Insolvenz fortführen wenn Massemehrung oder, Insolvenztabelle konsolidieren und Prüfungstermin nach §§. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Sicherung IV Tabelle** ordnet den Fall über die tragenden Prüffelder: Betrieb in Insolvenz fortführen wenn Massemehrung oder, Insolvenztabelle konsolidieren und Prüfungstermin nach §§. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

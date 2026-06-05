@@ -7,7 +7,7 @@ description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P054 Kosten P088 Vollstreckung P095** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen, § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat, § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P054 Kosten P088 Vollstreckung P095** ordnet den Fall über die tragenden Prüffelder: § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen, § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat, § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

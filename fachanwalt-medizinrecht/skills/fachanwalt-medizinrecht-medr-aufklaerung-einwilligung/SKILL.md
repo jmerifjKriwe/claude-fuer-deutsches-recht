@@ -7,7 +7,7 @@ description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leit
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Medr Aufklaerung Einwilligung** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Medr Aufklaerung Einwilligung** ordnet den Fall über die tragenden Prüffelder: Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

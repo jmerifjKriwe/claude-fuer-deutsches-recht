@@ -7,7 +7,7 @@ description: "Datum Entscheidungsform Spezial Gericht im Zitierweise im deutsche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datum Entscheidungsform Spezial Gericht** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Datum, Entscheidungsform, Gericht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datum Entscheidungsform Spezial Gericht** ordnet den Fall über die tragenden Prüffelder: Datum, Entscheidungsform, Gericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

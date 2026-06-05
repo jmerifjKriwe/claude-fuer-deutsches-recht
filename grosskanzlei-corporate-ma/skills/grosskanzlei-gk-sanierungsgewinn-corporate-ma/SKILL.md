@@ -7,7 +7,7 @@ description: "GK Sanierungsgewinn Corporate MA im Corporate/M&A (Großkanzlei-Pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **GK Sanierungsgewinn Corporate MA** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Sanity-Check der Verlustvorträge im, Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate, KG und Personengesellschaften in M&A-Transaktionen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**GK Sanierungsgewinn Corporate MA** ordnet den Fall über die tragenden Prüffelder: Sanity-Check der Verlustvorträge im, Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate, KG und Personengesellschaften in M&A-Transaktionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

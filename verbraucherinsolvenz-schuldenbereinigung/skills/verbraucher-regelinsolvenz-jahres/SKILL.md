@@ -7,7 +7,7 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbraucher Regelinsolvenz Jahres** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbraucher Regelinsolvenz Jahres** ordnet den Fall über die tragenden Prüffelder: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

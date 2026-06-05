@@ -7,7 +7,7 @@ description: "Hausarbeit Start im Juristische Hausarbeit: prüft konkret Einstie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hausarbeit Start** als zusammenhängenden Arbeitsgang im Juristische Hausarbeit. Im Mittelpunkt steht die Prüfung von Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin, Student beginnt Hausarbeit und braucht vollständige. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hausarbeit Start** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin, Student beginnt Hausarbeit und braucht vollständige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

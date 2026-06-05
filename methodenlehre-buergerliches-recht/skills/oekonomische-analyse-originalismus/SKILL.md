@@ -7,7 +7,7 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Oekonomische Analyse Originalismus** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Oekonomische Analyse Originalismus** ordnet den Fall über die tragenden Prüffelder: Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

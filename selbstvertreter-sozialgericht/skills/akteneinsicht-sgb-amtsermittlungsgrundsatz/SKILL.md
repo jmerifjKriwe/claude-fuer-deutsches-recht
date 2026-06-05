@@ -7,7 +7,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Akteneinsicht SGB Amtsermittlungsgrundsatz** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Akteneinsicht SGB Amtsermittlungsgrundsatz** ordnet den Fall über die tragenden Prüffelder: Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

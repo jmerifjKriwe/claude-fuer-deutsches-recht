@@ -7,7 +7,7 @@ description: "Lease Mobile Work Verwertung im Plugin Leasingrecht Praxis: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Mobile Work Verwertung** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Leasing mobiler Arbeitsgeräte, Verwertung des Leasingobjekts nach Kündigung, Verbraucherleasing beweglicher Sachen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Mobile Work Verwertung** ordnet den Fall über die tragenden Prüffelder: Leasing mobiler Arbeitsgeräte, Verwertung des Leasingobjekts nach Kündigung, Verbraucherleasing beweglicher Sachen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

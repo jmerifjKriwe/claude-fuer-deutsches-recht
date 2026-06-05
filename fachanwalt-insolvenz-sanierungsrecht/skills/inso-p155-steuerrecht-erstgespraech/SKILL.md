@@ -7,7 +7,7 @@ description: "Inso P155 Steuerrecht Erstgespraech im Insolvenz- und Sanierungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P155 Steuerrecht Erstgespraech** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 155 InsO (Handels- und steuerrechtliche Rechnungslegung), Steuerrecht, Strukturierter Erstgespraechsleitfaden für Insolvenz- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P155 Steuerrecht Erstgespraech** ordnet den Fall über die tragenden Prüffelder: § 155 InsO (Handels- und steuerrechtliche Rechnungslegung), Steuerrecht, Strukturierter Erstgespraechsleitfaden für Insolvenz- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Mandantenbrief Memo RBS Beratungshilfe im Plugin Rechtsberatungsst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandantenbrief Memo RBS Beratungshilfe** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Mandantenbrief für Rechtsberatungsstelle verfassen, Erstellt ein Gutachten-Gerüst nach der deutschen, Beratungshilfe BerHG und PKH in der Praxis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandantenbrief Memo RBS Beratungshilfe** ordnet den Fall über die tragenden Prüffelder: Mandantenbrief für Rechtsberatungsstelle verfassen, Erstellt ein Gutachten-Gerüst nach der deutschen, Beratungshilfe BerHG und PKH in der Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

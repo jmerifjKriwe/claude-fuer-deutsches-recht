@@ -7,7 +7,7 @@ description: "MA Mandant Manda Erstgespraechsleitfaden im Mandantenanfragen-Tria
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **MA Mandant Manda Erstgespraechsleitfaden** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Spezialfall Mandant mit gesetzlicher Betreuung oder, Checkliste Erstgespraechsleitfaden, Bauleiter Triagebogen Erstkontakt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**MA Mandant Manda Erstgespraechsleitfaden** ordnet den Fall über die tragenden Prüffelder: Spezialfall Mandant mit gesetzlicher Betreuung oder, Checkliste Erstgespraechsleitfaden, Bauleiter Triagebogen Erstkontakt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

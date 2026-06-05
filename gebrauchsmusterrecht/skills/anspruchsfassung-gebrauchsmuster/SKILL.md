@@ -7,7 +7,7 @@ description: "Anspruchsfassung Gebrauchsmuster im Gebrauchsmusterrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anspruchsfassung Gebrauchsmuster** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Schutzansprüche für Gebrauchsmuster strukturieren, Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anspruchsfassung Gebrauchsmuster** ordnet den Fall über die tragenden Prüffelder: Schutzansprüche für Gebrauchsmuster strukturieren, Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

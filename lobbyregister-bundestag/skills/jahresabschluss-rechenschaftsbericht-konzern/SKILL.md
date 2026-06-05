@@ -7,7 +7,7 @@ description: "Jahresabschluss Rechenschaftsbericht Konzern im Lobbyregister Bund
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Jahresabschluss Rechenschaftsbericht Konzern** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Prüft Bereitstellung von Jahresabschluss oder, Umgang mit n, Strukturiert Lobbyregisterfragen bei Konzernen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Jahresabschluss Rechenschaftsbericht Konzern** ordnet den Fall über die tragenden Prüffelder: Prüft Bereitstellung von Jahresabschluss oder, Umgang mit n, Strukturiert Lobbyregisterfragen bei Konzernen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

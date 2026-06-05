@@ -7,7 +7,7 @@ description: "ZAG Vorstandsvorlage Gutachten Wpig im Plugin Bank Rechtsabteilung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZAG Vorstandsvorlage Gutachten Wpig** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Vorstandsvorlage und juristisches Gutachten für eine Bank, WpIG-Schnittstellen prüfen, wenn Bankgruppe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZAG Vorstandsvorlage Gutachten Wpig** ordnet den Fall über die tragenden Prüffelder: Vorstandsvorlage und juristisches Gutachten für eine Bank, WpIG-Schnittstellen prüfen, wenn Bankgruppe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

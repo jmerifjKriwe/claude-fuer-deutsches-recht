@@ -7,7 +7,7 @@ description: "Entscheidungsvorlage Frage Zeugen im Schöffen- und Handelsrichter
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entscheidungsvorlage Frage Zeugen** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Entscheidungsvorlage, Fragen an Zeugen stellen (Orientierung), Fragen an Zeugen stellen (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entscheidungsvorlage Frage Zeugen** ordnet den Fall über die tragenden Prüffelder: Entscheidungsvorlage, Fragen an Zeugen stellen (Orientierung), Fragen an Zeugen stellen (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

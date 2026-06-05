@@ -7,7 +7,7 @@ description: "Aufsicht Bafin Bank Strategie Banking APP im Plugin Phishing Vorfa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufsicht Bafin Bank Strategie Banking APP** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von BaFin-Beschwerde gegen Bank bei verweigerter Rueckbuchung, Anschreiben an Bank bei Phishing-Vorfall, Banking-App-Malware (Anubis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufsicht Bafin Bank Strategie Banking APP** ordnet den Fall über die tragenden Prüffelder: BaFin-Beschwerde gegen Bank bei verweigerter Rueckbuchung, Anschreiben an Bank bei Phishing-Vorfall, Banking-App-Malware (Anubis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

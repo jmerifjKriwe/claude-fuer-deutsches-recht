@@ -7,7 +7,7 @@ description: "US Trade Uspto Anmeldung Office Verfall im Plugin Markenrecht Fash
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **US Trade Uspto Anmeldung Office Verfall** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von US Trade Dress Protection für Produktaufmachung und, USPTO-Markenanmeldung nach Lanham Act durchführen, USPTO Office Actions beantworten und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**US Trade Uspto Anmeldung Office Verfall** ordnet den Fall über die tragenden Prüffelder: US Trade Dress Protection für Produktaufmachung und, USPTO-Markenanmeldung nach Lanham Act durchführen, USPTO Office Actions beantworten und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

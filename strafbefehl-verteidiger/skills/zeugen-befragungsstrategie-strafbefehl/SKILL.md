@@ -7,7 +7,7 @@ description: "Zeugen Befragungsstrategie Strafbefehl im Plugin Strafbefehl Verte
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zeugen Befragungsstrategie Strafbefehl** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen, Zulässigkeit des Strafbefehls nach § 407 StPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zeugen Befragungsstrategie Strafbefehl** ordnet den Fall über die tragenden Prüffelder: Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen, Zulässigkeit des Strafbefehls nach § 407 StPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

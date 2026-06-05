@@ -7,7 +7,7 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OLG Vergabesenat Resilienz Sicherheit** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OLG Vergabesenat Resilienz Sicherheit** ordnet den Fall über die tragenden Prüffelder: OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

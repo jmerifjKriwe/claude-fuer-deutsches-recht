@@ -7,7 +7,7 @@ description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesellschafterstreit Eilrechtsschutz** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesellschafterstreit Eilrechtsschutz** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

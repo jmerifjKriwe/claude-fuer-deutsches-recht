@@ -7,7 +7,7 @@ description: "Reverse Lieferantenfinanzierung Risikomatrix im Plugin Factoring R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Reverse Lieferantenfinanzierung Risikomatrix** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von Reverse Factoring Lieferantenfinanzierung und Abgrenzung, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Ins. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Reverse Lieferantenfinanzierung Risikomatrix** ordnet den Fall über die tragenden Prüffelder: Reverse Factoring Lieferantenfinanzierung und Abgrenzung, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Ins. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

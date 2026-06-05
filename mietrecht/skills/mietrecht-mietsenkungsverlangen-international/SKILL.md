@@ -7,7 +7,7 @@ description: "Mietsenkungsverlangen International im Plugin Mietrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mietsenkungsverlangen International** als zusammenhängenden Arbeitsgang im Plugin Mietrecht. Im Mittelpunkt steht die Prüfung von Mietrecht, Mietsenkungsverlangen, Mietspiegel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mietsenkungsverlangen International** ordnet den Fall über die tragenden Prüffelder: Mietrecht, Mietsenkungsverlangen, Mietspiegel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

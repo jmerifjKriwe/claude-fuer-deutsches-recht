@@ -7,7 +7,7 @@ description: "QA Kanzleiweit Templating Praxis Verwalter im Kanzlei-Aufbau: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **QA Kanzleiweit Templating Praxis Verwalter** als zusammenhängenden Arbeitsgang im Kanzlei-Aufbau. Im Mittelpunkt steht die Prüfung von Skills kanzleiweit unter QA-Kontrolle halten, Skill-Templating fuer kanzleieigene Vorlagen, Übersicht und Verwaltung aller installierten Skills. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**QA Kanzleiweit Templating Praxis Verwalter** ordnet den Fall über die tragenden Prüffelder: Skills kanzleiweit unter QA-Kontrolle halten, Skill-Templating fuer kanzleieigene Vorlagen, Übersicht und Verwaltung aller installierten Skills. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

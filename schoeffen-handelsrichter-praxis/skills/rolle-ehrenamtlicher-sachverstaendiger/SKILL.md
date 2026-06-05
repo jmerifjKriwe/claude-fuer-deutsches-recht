@@ -7,7 +7,7 @@ description: "Rolle Ehrenamtlicher Sachverstaendiger im Schöffen- und Handelsri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rolle Ehrenamtlicher Sachverstaendiger** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Rolle ehrenamtlicher Richter, Sachverständige verstehen (Orientierung), Sachverständige verstehen (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rolle Ehrenamtlicher Sachverstaendiger** ordnet den Fall über die tragenden Prüffelder: Rolle ehrenamtlicher Richter, Sachverständige verstehen (Orientierung), Sachverständige verstehen (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

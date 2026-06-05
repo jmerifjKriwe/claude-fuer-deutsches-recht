@@ -7,7 +7,7 @@ description: "Steuerberater Vorbehaltsaufgabe Kammer im Berufsgerichtliche Verfa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuerberater Vorbehaltsaufgabe Kammer** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Steuerberater Vorbehaltsaufgabe (Verteidigungs- und, Vergleich mit Kammer oder Aufsicht (Präventions- und, Vergleich mit Kammer oder Aufsicht (Verteidigungs- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuerberater Vorbehaltsaufgabe Kammer** ordnet den Fall über die tragenden Prüffelder: Steuerberater Vorbehaltsaufgabe (Verteidigungs- und, Vergleich mit Kammer oder Aufsicht (Präventions- und, Vergleich mit Kammer oder Aufsicht (Verteidigungs- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

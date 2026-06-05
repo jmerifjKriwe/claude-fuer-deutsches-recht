@@ -7,7 +7,7 @@ description: "Analoge Bewertung Abrechnung Telemedizin im Plugin Goae Gebuehreno
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Analoge Bewertung Abrechnung Telemedizin** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von Analoge Bewertung neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde GOÄ, Abschnitt A Beratungen und Untersuchungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Analoge Bewertung Abrechnung Telemedizin** ordnet den Fall über die tragenden Prüffelder: Analoge Bewertung neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde GOÄ, Abschnitt A Beratungen und Untersuchungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

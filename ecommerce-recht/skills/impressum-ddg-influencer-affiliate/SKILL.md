@@ -7,7 +7,7 @@ description: "Impressum DDG Influencer Affiliate im Plugin Ecommerce Recht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Impressum DDG Influencer Affiliate** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Impressum DDG Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung UWG, zur strukturierten Aufnahme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Impressum DDG Influencer Affiliate** ordnet den Fall über die tragenden Prüffelder: Impressum DDG Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung UWG, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Bericht Behoerdenkommunikation im Berichtspflichten-Praxis: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Behoerdenkommunikation** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Saubere Behördenkommunikation bei Berichtspflichten, Zentrales Fristen- und Zuständigkeitsboard für, Verspätete/falsche Meldungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Behoerdenkommunikation** ordnet den Fall über die tragenden Prüffelder: Saubere Behördenkommunikation bei Berichtspflichten, Zentrales Fristen- und Zuständigkeitsboard für, Verspätete/falsche Meldungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

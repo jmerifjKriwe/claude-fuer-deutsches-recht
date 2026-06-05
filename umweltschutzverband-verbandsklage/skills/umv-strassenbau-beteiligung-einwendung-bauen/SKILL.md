@@ -7,7 +7,7 @@ description: "UMV Strassenbau Beteiligung Einwendung Bauen im Plugin Umweltschut
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **UMV Strassenbau Beteiligung Einwendung Bauen** als zusammenhängenden Arbeitsgang im Plugin Umweltschutzverband Verbandsklage. Im Mittelpunkt steht die Prüfung von Umweltschutzverband Verbandsklage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**UMV Strassenbau Beteiligung Einwendung Bauen** ordnet den Fall über die tragenden Prüffelder: Umweltschutzverband Verbandsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

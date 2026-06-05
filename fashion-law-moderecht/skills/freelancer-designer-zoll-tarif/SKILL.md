@@ -7,7 +7,7 @@ description: "Freelancer Designer Zoll Tarif im Fashion Law (Moderecht): prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freelancer Designer Zoll Tarif** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Freelancer-Designer, Stylisten und Kreative rechtlich steuern, Zoll. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freelancer Designer Zoll Tarif** ordnet den Fall über die tragenden Prüffelder: Freelancer-Designer, Stylisten und Kreative rechtlich steuern, Zoll. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

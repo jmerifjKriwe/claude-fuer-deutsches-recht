@@ -7,7 +7,7 @@ description: "Heizkostenverordnung Heizung Warmwasser im Miet- und Wohnungseigen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Heizkostenverordnung Heizung Warmwasser** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Heizkostenverordnung, Heizung und Warmwasser, Indexmiete Anpassung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Heizkostenverordnung Heizung Warmwasser** ordnet den Fall über die tragenden Prüffelder: Heizkostenverordnung, Heizung und Warmwasser, Indexmiete Anpassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

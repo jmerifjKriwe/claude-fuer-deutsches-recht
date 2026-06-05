@@ -1,13 +1,13 @@
 ---
 name: verstaendigung-257c
-description: "Verstaendigung 257c im Plugin Strafzumessung: Dieser Skill arbeitet Verstaendigung 257c als zusammenhängenden Arbeitsgang im Plugin Strafzumessung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Verstaendigung 257c im Plugin Strafzumessung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Verstaendigung 257c
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Verstaendigung 257c** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Verstaendigung 257c** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

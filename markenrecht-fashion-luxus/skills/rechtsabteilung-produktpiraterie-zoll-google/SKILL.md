@@ -7,7 +7,7 @@ description: "Rechtsabteilung Produktpiraterie Zoll Google im Plugin Markenrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Produktpiraterie Zoll Google** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme, Rechtsabteilungs-Fachmodul für Google Ads und, Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Produktpiraterie Zoll Google** ordnet den Fall über die tragenden Prüffelder: Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme, Rechtsabteilungs-Fachmodul für Google Ads und, Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Arbeitsrecht AGB Architekten Ingenieur im AGB-Recht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitsrecht AGB Architekten Ingenieur** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Arbeitsrecht AGB 310 Abs, Branchen-Fachmodul für Architekten Ingenieur AGB, Auditrechte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitsrecht AGB Architekten Ingenieur** ordnet den Fall über die tragenden Prüffelder: Arbeitsrecht AGB 310 Abs, Branchen-Fachmodul für Architekten Ingenieur AGB, Auditrechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

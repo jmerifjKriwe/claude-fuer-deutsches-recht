@@ -7,7 +7,7 @@ description: "VC Data AI Cyber Open Source Software Fintech Crypto Regulated im 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Data AI Cyber Open Source Software Fintech Crypto Regulated** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Data AI Cyber Open Source Software Fintech Crypto Regulated** ordnet den Fall über die tragenden Prüffelder: Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Vermoegensverfall Zulassungswiderruf im Berufsgerichtliche Verfahr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vermoegensverfall Zulassungswiderruf** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Vermögensverfall und Zulassungswiderruf (Verteidigungs- und, Verschwiegenheit und Cloud-Dienstleister (Präventions- und, Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vermoegensverfall Zulassungswiderruf** ordnet den Fall über die tragenden Prüffelder: Vermögensverfall und Zulassungswiderruf (Verteidigungs- und, Verschwiegenheit und Cloud-Dienstleister (Präventions- und, Verschwiegenheit und Cloud-Dienstleister (Verteidigungs-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

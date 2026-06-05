@@ -1,13 +1,13 @@
 ---
 name: ein-wohnhaus
-description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht: Dieser Skill arbeitet EIN Wohnhaus als zusammenhängenden Arbeitsgang im Plugin Einigungsvertrag Vermoegensrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # EIN Wohnhaus
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **EIN Wohnhaus** als zusammenhängenden Arbeitsgang im Plugin Einigungsvertrag Vermoegensrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**EIN Wohnhaus** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

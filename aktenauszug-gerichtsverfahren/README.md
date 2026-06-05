@@ -125,6 +125,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `schwerpunktthemen-identifikation-akten` | Schwerpunktthemen Identifikation Akten im Aktenauszug-Praxis: prüft konkret Anwalt braucht schnellen Überblick über drei bis fuenf, Akten, Aktenauszug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `strukturierter-strafprozess-modus` | Strukturierter Strafprozess Modus im Aktenauszug-Praxis: prüft konkret Strukturierter, Aktenauszug für StPO-Verfahren erstellen, Aktenauszug für VwGO-Verfahren erstellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und n... |
 | `tabellarische-quellenkarte` | Tabellarische Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `zivilprozess-modus` | Zivilprozess Modus im Aktenauszug-Praxis: Dieser Skill arbeitet Zivilprozess Modus als zusammenhängenden Arbeitsgang im Plugin Aktenauszug zivilgerichtlicher Verfahren ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem... |
+| `zivilprozess-modus` | Zivilprozess Modus im Aktenauszug-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

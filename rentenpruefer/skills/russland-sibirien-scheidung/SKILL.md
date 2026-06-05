@@ -7,7 +7,7 @@ description: "Russland Sibirien Scheidung im Plugin Rentenpruefer: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Russland Sibirien Scheidung** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Russische oder sibirische Zeiten, Scheidung und Versorgungsausgleich. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Russland Sibirien Scheidung** ordnet den Fall über die tragenden Prüffelder: Russische oder sibirische Zeiten, Scheidung und Versorgungsausgleich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

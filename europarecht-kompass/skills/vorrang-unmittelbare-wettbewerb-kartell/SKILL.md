@@ -7,7 +7,7 @@ description: "Vorrang Unmittelbare Wettbewerb Kartell im Europarecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorrang Unmittelbare Wettbewerb Kartell** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Vorrang des EU-Rechts und unmittelbare Wirkung von, Kartell- und Wettbewerbsrecht nach Art, Anrufung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorrang Unmittelbare Wettbewerb Kartell** ordnet den Fall über die tragenden Prüffelder: Vorrang des EU-Rechts und unmittelbare Wirkung von, Kartell- und Wettbewerbsrecht nach Art, Anrufung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

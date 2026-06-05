@@ -7,7 +7,7 @@ description: "Modehaeuser Uspto Wort Interessen Ttab im Plugin Markenrecht Fashi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Modehaeuser Uspto Wort Interessen Ttab** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Modehaeuser, USPTO, Wort und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Modehaeuser Uspto Wort Interessen Ttab** ordnet den Fall über die tragenden Prüffelder: Modehaeuser, USPTO, Wort. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

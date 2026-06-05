@@ -7,7 +7,7 @@ description: "Erwerbsgeschaeft Dienst Formnichtigkeit im Plugin Bgb At Pruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erwerbsgeschaeft Dienst Formnichtigkeit** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zur Ermächtigung Minderjähriger zu, Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB, Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erwerbsgeschaeft Dienst Formnichtigkeit** ordnet den Fall über die tragenden Prüffelder: Klausurfall zur Ermächtigung Minderjähriger zu, Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB, Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

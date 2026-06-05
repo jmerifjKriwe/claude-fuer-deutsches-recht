@@ -7,7 +7,7 @@ description: "U Haft Umweltstrafrecht Behoerdenakten im Plugin Staatsanwaltschaf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **U Haft Umweltstrafrecht Behoerdenakten** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von U-Haft, Umweltstrafrecht, Untreue des Geschäftsführers und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**U Haft Umweltstrafrecht Behoerdenakten** ordnet den Fall über die tragenden Prüffelder: U-Haft, Umweltstrafrecht, Untreue des Geschäftsführers. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

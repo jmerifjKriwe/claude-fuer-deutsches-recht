@@ -7,7 +7,7 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüffelder: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

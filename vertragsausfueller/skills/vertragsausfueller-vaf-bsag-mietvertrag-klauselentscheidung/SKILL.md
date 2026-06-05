@@ -7,7 +7,7 @@ description: "VAF Bsag Mietvertrag Klauselentscheidung im Plugin Vertragsausfuel
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VAF Bsag Mietvertrag Klauselentscheidung** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von BSAG-Kiosk-Mietvertrag ausfüllen, Wahlklauseln und Klauselalternativen im Vertrag entscheiden, Spezialfall Rahmenvertrag im Konzern anpassen ohne. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VAF Bsag Mietvertrag Klauselentscheidung** ordnet den Fall über die tragenden Prüffelder: BSAG-Kiosk-Mietvertrag ausfüllen, Wahlklauseln und Klauselalternativen im Vertrag entscheiden, Spezialfall Rahmenvertrag im Konzern anpassen ohne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

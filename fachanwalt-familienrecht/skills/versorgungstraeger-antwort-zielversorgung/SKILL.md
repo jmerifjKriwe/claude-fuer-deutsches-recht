@@ -7,7 +7,7 @@ description: "Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Fam
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versorgungstraeger Antwort Zielversorgung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträge, Zielversorgung wählen externe Teilung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versorgungstraeger Antwort Zielversorgung** ordnet den Fall über die tragenden Prüffelder: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträge, Zielversorgung wählen externe Teilung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

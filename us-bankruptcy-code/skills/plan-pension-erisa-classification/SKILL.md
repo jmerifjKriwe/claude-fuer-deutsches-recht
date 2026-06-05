@@ -7,7 +7,7 @@ description: "Plan Pension Erisa Classification im Plugin Us Bankruptcy Code: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Plan Pension Erisa Classification** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft pension obligations, PBGC claims, retiree benefits und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Plan Pension Erisa Classification** ordnet den Fall über die tragenden Prüffelder: Prueft pension obligations, PBGC claims, retiree benefits. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

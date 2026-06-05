@@ -7,7 +7,7 @@ description: "Stammzellklinik Patientenschaden Telemedizin im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stammzellklinik Patientenschaden Telemedizin** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Stammzellklinik und Patientenschaden, Telemedizin Standardhaftung, Approbationswiderruf und Berufsrecht für Aerzte Apotheker und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stammzellklinik Patientenschaden Telemedizin** ordnet den Fall über die tragenden Prüffelder: Stammzellklinik und Patientenschaden, Telemedizin Standardhaftung, Approbationswiderruf und Berufsrecht für Aerzte Apotheker. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

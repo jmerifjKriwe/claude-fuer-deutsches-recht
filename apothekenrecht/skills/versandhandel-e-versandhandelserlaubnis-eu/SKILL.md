@@ -7,7 +7,7 @@ description: "Versandhandel E Versandhandelserlaubnis EU im Plugin Apothekenrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versandhandel E Versandhandelserlaubnis EU** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel un, Versandhandelserlaubnis EU Versandapotheke. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versandhandel E Versandhandelserlaubnis EU** ordnet den Fall über die tragenden Prüffelder: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel un, Versandhandelserlaubnis EU Versandapotheke. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

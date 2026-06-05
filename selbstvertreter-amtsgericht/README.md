@@ -185,7 +185,7 @@ Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschre
 | `zeugenbeweis-ff-zulassungsgrenzen-check` | Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amtsgericht: prüft konkret Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter, Risiko des Versands von Schriftsaetzen du... |
 | `zulassungsgrenzen-check-amtsgericht` | Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter vor dem Amtsgericht: § 23 GVG 10.000 EUR, Sonderzuständigkeiten, § 495a ZPO 1.000 EUR, § 511 ZPO Berufungsbeschwer 1.000 EUR, Übergangsfälle, Anwaltszwang und ro... |
 | `zurechnungsproblem-versand-durch-dritte` | Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen für S... |
-| `zwangsvollstreckung-querverweis` | Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: Dieser Skill arbeitet Zwangsvollstreckung Querverweis als zusammenhängenden Arbeitsgang im Plugin Selbstvertretung vor dem Amtsgericht ab — nach Aktenlage, Frist, Zustän... |
+| `zwangsvollstreckung-querverweis` | Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `zwangsvollstreckung-querverweis-02` | Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen koennen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

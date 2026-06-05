@@ -7,7 +7,7 @@ description: "Elsj Familienrecht Erstgespraech Juristische im Einfache und leich
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Familienrecht Erstgespraech Juristische** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Familienrecht Erstgespraech in Einfacher Sprache, Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt, Mandantenkommunikation in Einfacher Sprache. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Familienrecht Erstgespraech Juristische** ordnet den Fall über die tragenden Prüffelder: Familienrecht Erstgespraech in Einfacher Sprache, Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt, Mandantenkommunikation in Einfacher Sprache. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

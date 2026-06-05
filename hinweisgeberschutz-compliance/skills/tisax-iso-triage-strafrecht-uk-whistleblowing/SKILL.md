@@ -7,7 +7,7 @@ description: "Tisax ISO Triage Strafrecht UK Whistleblowing im Hinweisgeberschut
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tisax ISO Triage Strafrecht UK Whistleblowing** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem, Routet Hinweise mit Strafrechtsbezug, Grenzt UK Whistleblowing bei Niederlassungen ab und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tisax ISO Triage Strafrecht UK Whistleblowing** ordnet den Fall über die tragenden Prüffelder: Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem, Routet Hinweise mit Strafrechtsbezug, Grenzt UK Whistleblowing bei Niederlassungen ab. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

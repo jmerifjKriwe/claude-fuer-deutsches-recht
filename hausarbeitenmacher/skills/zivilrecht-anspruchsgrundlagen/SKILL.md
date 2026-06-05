@@ -1,13 +1,13 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit: Dieser Skill arbeitet Zivilrecht Anspruchsgrundlagen als zusammenhängenden Arbeitsgang im Plugin Hausarbeitenmacher ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zivilrecht Anspruchsgrundlagen
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zivilrecht Anspruchsgrundlagen** als zusammenhängenden Arbeitsgang im Plugin Hausarbeitenmacher ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zivilrecht Anspruchsgrundlagen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

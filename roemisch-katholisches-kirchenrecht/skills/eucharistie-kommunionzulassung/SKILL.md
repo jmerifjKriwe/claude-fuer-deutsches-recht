@@ -7,7 +7,7 @@ description: "Eucharistie Kommunionzulassung im Römisch-katholischen Kirchenrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eucharistie Kommunionzulassung** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Eucharistie und Kommunionzulassung, Exkommunikation, Apostasie und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eucharistie Kommunionzulassung** ordnet den Fall über die tragenden Prüffelder: Eucharistie und Kommunionzulassung, Exkommunikation, Apostasie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

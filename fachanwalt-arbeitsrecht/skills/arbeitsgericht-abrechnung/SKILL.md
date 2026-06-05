@@ -7,7 +7,7 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitsgericht Abrechnung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitsgericht Abrechnung** ordnet den Fall über die tragenden Prüffelder: Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

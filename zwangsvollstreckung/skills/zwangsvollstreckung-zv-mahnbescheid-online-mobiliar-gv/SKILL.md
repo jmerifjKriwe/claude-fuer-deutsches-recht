@@ -7,7 +7,7 @@ description: "ZV Mahnbescheid Online Mobiliar GV im Plugin Zwangsvollstreckung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZV Mahnbescheid Online Mobiliar GV** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Gläubiger will Forderung ohne Klage per Mahnbescheid, Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung, Gläubiger hat notarielle Grundschuld-Urkunde und will. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZV Mahnbescheid Online Mobiliar GV** ordnet den Fall über die tragenden Prüffelder: Gläubiger will Forderung ohne Klage per Mahnbescheid, Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung, Gläubiger hat notarielle Grundschuld-Urkunde und will. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

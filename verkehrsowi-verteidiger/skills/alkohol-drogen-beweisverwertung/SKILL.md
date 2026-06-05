@@ -7,7 +7,7 @@ description: "Alkohol Drogen Beweisverwertung im Plugin Verkehrsowi Verteidiger:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Alkohol Drogen Beweisverwertung** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Alkohol- und Drogen-OWi verteidigen, Prüffeld für verkehrsowi beweisverwertung standardisiert, Fahreridentifizierung im OWi-Verfahren angreifen oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Alkohol Drogen Beweisverwertung** ordnet den Fall über die tragenden Prüffelder: Alkohol- und Drogen-OWi verteidigen, Prüffeld für verkehrsowi beweisverwertung standardisiert, Fahreridentifizierung im OWi-Verfahren angreifen oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

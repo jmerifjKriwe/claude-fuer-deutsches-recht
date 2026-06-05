@@ -7,7 +7,7 @@ description: "Staatsanwalt Rolle Staatsanwaltschaft im Plugin Staatsanwaltschaft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Staatsanwalt Rolle Staatsanwaltschaft** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Rolle der Staatsanwaltschaft, Dezernatsuebergabe in der Staatsanwaltschaft, Stalking § 238 StGB und GewSchG-Schnittstelle und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Staatsanwalt Rolle Staatsanwaltschaft** ordnet den Fall über die tragenden Prüffelder: Rolle der Staatsanwaltschaft, Dezernatsuebergabe in der Staatsanwaltschaft, Stalking § 238 StGB und GewSchG-Schnittstelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

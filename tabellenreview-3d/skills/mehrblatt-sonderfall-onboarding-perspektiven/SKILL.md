@@ -7,7 +7,7 @@ description: "Mehrblatt Sonderfall Onboarding Perspektiven im Plugin Tabellenrev
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mehrblatt Sonderfall Onboarding Perspektiven** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Mehrblatt, Onboarding, Perspektiven. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mehrblatt Sonderfall Onboarding Perspektiven** ordnet den Fall über die tragenden Prüffelder: Mehrblatt, Onboarding, Perspektiven. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

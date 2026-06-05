@@ -7,7 +7,7 @@ description: "Marktaufsicht Behoerdenkommunikation im EU KI-VO (AI Act): prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Marktaufsicht Behoerdenkommunikation** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Marktaufsicht und Behoerdenkommunikation, Anbieter oder Betreiber hat einen schwerwiegenden Vorfall, Prüfung hat ergeben und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Marktaufsicht Behoerdenkommunikation** ordnet den Fall über die tragenden Prüffelder: Marktaufsicht und Behoerdenkommunikation, Anbieter oder Betreiber hat einen schwerwiegenden Vorfall, Prüfung hat ergeben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

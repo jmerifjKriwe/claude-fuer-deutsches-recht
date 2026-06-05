@@ -71,6 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `orientierung-tierhaltung-genehmigung` | Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret Anwalt will ueberblicken welche Normen und Mandate das, Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab, Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe. Li... |
 | `pflanzenschutz-schnittstelle` | Pflanzenschutz Schnittstelle im Agrarrecht: prüft konkret Pflanzenschutz, Schnittstelle, Tierschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `sammelantrag-gap-schriftsatzkern` | Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel... |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Agrarrecht: Dieser Skill arbeitet Vergleichsverhandlung Strategie als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Agrarrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Agrarrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

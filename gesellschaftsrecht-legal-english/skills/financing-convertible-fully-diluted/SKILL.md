@@ -7,7 +7,7 @@ description: "Financing Convertible Fully Diluted im Plugin Gesellschaftsrecht L
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Financing Convertible Fully Diluted** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Erklaert Convertible Loan, Wandeldarlehen, SAFE. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Financing Convertible Fully Diluted** ordnet den Fall über die tragenden Prüffelder: Erklaert Convertible Loan, Wandeldarlehen, SAFE. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

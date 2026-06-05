@@ -7,7 +7,7 @@ description: "CAP Table Client Explainer im Plugin Gesellschaftsrecht Legal Engl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CAP Table Client Explainer** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CAP Table Client Explainer** ordnet den Fall über die tragenden Prüffelder: Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

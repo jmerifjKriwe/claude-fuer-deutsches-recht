@@ -7,7 +7,7 @@ description: "Satzungsaenderung Partei Satzungsautonomie im Parteienrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satzungsaenderung Partei Satzungsautonomie** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Prüft Satzungsänderung, Mehrheit, Antragsfrist. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satzungsaenderung Partei Satzungsautonomie** ordnet den Fall über die tragenden Prüffelder: Prüft Satzungsänderung, Mehrheit, Antragsfrist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

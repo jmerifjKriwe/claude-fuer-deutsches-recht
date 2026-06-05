@@ -7,7 +7,7 @@ description: "Lease Maschinenleasing Abnahme Medizintechnik im Plugin Leasingrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Maschinenleasing Abnahme Medizintechnik** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Maschinenleasing, Medizintechnik-Leasing, Verbraucherleasing. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Maschinenleasing Abnahme Medizintechnik** ordnet den Fall über die tragenden Prüffelder: Maschinenleasing, Medizintechnik-Leasing, Verbraucherleasing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

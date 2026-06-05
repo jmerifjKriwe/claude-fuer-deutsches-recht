@@ -7,7 +7,7 @@ description: "AN Assistenz Uebersetzungspflicht im Plugin Anlagen Zu Schriftsaet
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AN Assistenz Uebersetzungspflicht** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder ext und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AN Assistenz Uebersetzungspflicht** ordnet den Fall über die tragenden Prüffelder: Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder ext. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

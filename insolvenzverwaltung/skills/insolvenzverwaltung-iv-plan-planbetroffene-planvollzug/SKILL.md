@@ -7,7 +7,7 @@ description: "IV Plan Planbetroffene Planvollzug im Plugin Insolvenzverwaltung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Plan Planbetroffene Planvollzug** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen, Planvollzug nach Bestätigung ueberwachen Zahlungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Plan Planbetroffene Planvollzug** ordnet den Fall über die tragenden Prüffelder: Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen, Planvollzug nach Bestätigung ueberwachen Zahlungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

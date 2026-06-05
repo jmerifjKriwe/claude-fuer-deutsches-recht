@@ -7,7 +7,7 @@ description: "DUE Diligence Earn OUT im Plugin Gesellschaftsrecht Legal English:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DUE Diligence Earn OUT** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DUE Diligence Earn OUT** ordnet den Fall über die tragenden Prüffelder: Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

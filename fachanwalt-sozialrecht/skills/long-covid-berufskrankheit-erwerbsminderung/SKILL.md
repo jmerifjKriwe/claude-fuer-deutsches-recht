@@ -7,7 +7,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Long Covid Berufskrankheit Erwerbsminderung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Long Covid Berufskrankheit Erwerbsminderung** ordnet den Fall über die tragenden Prüffelder: Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

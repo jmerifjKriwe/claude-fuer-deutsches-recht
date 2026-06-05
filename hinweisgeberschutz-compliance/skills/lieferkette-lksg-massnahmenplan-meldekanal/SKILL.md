@@ -7,7 +7,7 @@ description: "Lieferkette Lksg Massnahmenplan Meldekanal im Hinweisgeberschutz u
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lieferkette Lksg Massnahmenplan Meldekanal** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Verknüpft Hinweise mit Lieferkette und Menschenrechten, Priorisiert Verbesserungen am HinSchG-System, Gestaltet Meldekanäle schriftlich und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lieferkette Lksg Massnahmenplan Meldekanal** ordnet den Fall über die tragenden Prüffelder: Verknüpft Hinweise mit Lieferkette und Menschenrechten, Priorisiert Verbesserungen am HinSchG-System, Gestaltet Meldekanäle schriftlich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

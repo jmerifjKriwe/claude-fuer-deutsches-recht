@@ -7,7 +7,7 @@ description: "Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage** als zusammenhängenden Arbeitsgang im Plugin Energierecht. Im Mittelpunkt steht die Prüfung von Netzentgelte aktuell, Spezialfall Redispatch 3.0, Anfrage-Routing im Energierecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Energie Netzentgelte Rechtsfragen Redispatch Spezial TYP Anfrage** ordnet den Fall über die tragenden Prüffelder: Netzentgelte aktuell, Spezialfall Redispatch 3.0, Anfrage-Routing im Energierecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

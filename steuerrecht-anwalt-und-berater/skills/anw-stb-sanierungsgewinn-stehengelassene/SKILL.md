@@ -7,7 +7,7 @@ description: "ANW STB Sanierungsgewinn Stehengelassene im Steuerrecht (Anwalt/Be
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ANW STB Sanierungsgewinn Stehengelassene** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Mandantenbrief-Mustertext zur frühen Sensibilisierung in, Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation, Sanity-Check für Verlustvorträge bei Sanierung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ANW STB Sanierungsgewinn Stehengelassene** ordnet den Fall über die tragenden Prüffelder: Mandantenbrief-Mustertext zur frühen Sensibilisierung in, Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation, Sanity-Check für Verlustvorträge bei Sanierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

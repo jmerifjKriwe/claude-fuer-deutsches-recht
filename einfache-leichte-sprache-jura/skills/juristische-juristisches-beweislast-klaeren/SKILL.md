@@ -7,7 +7,7 @@ description: "Juristische Juristisches Beweislast Klaeren im Einfache und leicht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Juristische Juristisches Beweislast Klaeren** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Juristische, Juristisches, Klaeren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Juristische Juristisches Beweislast Klaeren** ordnet den Fall über die tragenden Prüffelder: Juristische, Juristisches, Klaeren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

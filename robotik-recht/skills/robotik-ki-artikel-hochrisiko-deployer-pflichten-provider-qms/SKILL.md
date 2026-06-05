@@ -7,7 +7,7 @@ description: "KI Artikel Hochrisiko Deployer Pflichten Provider QMS im Robotik- 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Artikel Hochrisiko Deployer Pflichten Provider QMS** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft Hochrisiko-KI nach Art, Produktregime o, Prüft Betreiber-/Deployerpflichten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Artikel Hochrisiko Deployer Pflichten Provider QMS** ordnet den Fall über die tragenden Prüffelder: Prüft Hochrisiko-KI nach Art, Produktregime o, Prüft Betreiber-/Deployerpflichten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

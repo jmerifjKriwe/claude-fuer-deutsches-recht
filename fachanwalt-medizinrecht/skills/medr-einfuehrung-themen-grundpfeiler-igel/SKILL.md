@@ -7,7 +7,7 @@ description: "Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Medr Einfuehrung Themen Grundpfeiler Igel** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Medizinrecht einfuehrend, Spezialfall IGeL-Leistungen und Aerztewerbung, Spezialfall IGeL Individuelle Gesundheitsleistung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Medr Einfuehrung Themen Grundpfeiler Igel** ordnet den Fall über die tragenden Prüffelder: Medizinrecht einfuehrend, Spezialfall IGeL-Leistungen und Aerztewerbung, Spezialfall IGeL Individuelle Gesundheitsleistung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

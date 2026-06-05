@@ -7,7 +7,7 @@ description: "Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Hande
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hgesr Einfuehrung HGR DUE Erstgespraech** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Einfuehrung deutsche Rechtsformen fuer Handels- und, Due-Diligence-Checker light fuer kleinere Mandate, Strukturierter Erstgespraechsleitfaden für Handels- und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hgesr Einfuehrung HGR DUE Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Einfuehrung deutsche Rechtsformen fuer Handels- und, Due-Diligence-Checker light fuer kleinere Mandate, Strukturierter Erstgespraechsleitfaden für Handels- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

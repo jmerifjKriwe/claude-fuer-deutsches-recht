@@ -7,7 +7,7 @@ description: "DB Preisvergleich Crawler Lizenzanalogie im Plugin Datenbankrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Preisvergleich Crawler Lizenzanalogie** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht für Preisvergleichsportale und deren Crawler, Lizenzanalogie und Unterlassungsvertragsgestaltung im, Datenbankrecht im Urhebervertragsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Preisvergleich Crawler Lizenzanalogie** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für Preisvergleichsportale und deren Crawler, Lizenzanalogie und Unterlassungsvertragsgestaltung im, Datenbankrecht im Urhebervertragsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

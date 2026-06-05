@@ -7,7 +7,7 @@ description: "Mandat Briefing Schliessen Portfolio Status im Plugin Prozessrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandat Briefing Schliessen Portfolio Status** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Mandantenbriefing für Gerichtstermin erstellen, Mandat nach Prozessabschluss formal schließen, Statusuebersicht aller laufenden Prozessmandate. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandat Briefing Schliessen Portfolio Status** ordnet den Fall über die tragenden Prüffelder: Mandantenbriefing für Gerichtstermin erstellen, Mandat nach Prozessabschluss formal schließen, Statusuebersicht aller laufenden Prozessmandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

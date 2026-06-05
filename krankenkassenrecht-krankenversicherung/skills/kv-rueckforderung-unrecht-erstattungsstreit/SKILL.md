@@ -7,7 +7,7 @@ description: "KV Rueckforderung Unrecht Erstattungsstreit im Krankenkassenrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KV Rueckforderung Unrecht Erstattungsstreit** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50, Erstattungsansprüche zwischen GKV, Pflegeversicherung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KV Rueckforderung Unrecht Erstattungsstreit** ordnet den Fall über die tragenden Prüffelder: Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50, Erstattungsansprüche zwischen GKV, Pflegeversicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

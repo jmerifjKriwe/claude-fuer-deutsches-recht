@@ -7,7 +7,7 @@ description: "Rechtsprechung Grundbuch Aufgebotsverfahren im Plugin Grundbuchamt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Grundbuch Aufgebotsverfahren** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Verlangt bei jeder Entscheidung Gericht, Datum, Aktenzeichen und frei zugänglich. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Grundbuch Aufgebotsverfahren** ordnet den Fall über die tragenden Prüffelder: Verlangt bei jeder Entscheidung Gericht, Datum, Aktenzeichen und frei zugänglich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

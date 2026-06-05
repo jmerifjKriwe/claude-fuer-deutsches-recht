@@ -7,7 +7,7 @@ description: "Nationale Widerklage Neuheit Eigenart im Designrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nationale Widerklage Neuheit Eigenart** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Nichtigkeit als Einwand oder Widerklage im, Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nationale Widerklage Neuheit Eigenart** ordnet den Fall über die tragenden Prüffelder: Nichtigkeit als Einwand oder Widerklage im, Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

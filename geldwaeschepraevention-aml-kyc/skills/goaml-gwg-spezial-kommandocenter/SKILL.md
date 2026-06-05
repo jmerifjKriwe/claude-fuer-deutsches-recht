@@ -7,7 +7,7 @@ description: "Goaml GWG Spezial Kommandocenter im Plugin Geldwaeschepraevention 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Goaml GWG Spezial Kommandocenter** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Goaml, GwG, Kommandocenter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Goaml GWG Spezial Kommandocenter** ordnet den Fall über die tragenden Prüffelder: Goaml, GwG, Kommandocenter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

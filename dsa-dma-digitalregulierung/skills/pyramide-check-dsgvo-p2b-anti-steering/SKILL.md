@@ -7,7 +7,7 @@ description: "Pyramide Check DSGVO P2B Anti Steering im DSA/DMA-Digitalregulieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pyramide Check DSGVO P2B Anti Steering** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Sachverhalt den richtigen, Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pyramide Check DSGVO P2B Anti Steering** ordnet den Fall über die tragenden Prüffelder: Sachverhalt den richtigen, Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

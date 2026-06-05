@@ -7,7 +7,7 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuerstrafrecht AO Akteneinsicht Auswerten** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüffelder: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

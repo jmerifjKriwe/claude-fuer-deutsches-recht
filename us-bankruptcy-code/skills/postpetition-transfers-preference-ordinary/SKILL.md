@@ -7,7 +7,7 @@ description: "Postpetition Transfers Preference Ordinary im Plugin Us Bankruptcy
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Postpetition Transfers Preference Ordinary** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft unauthorized postpetition transfers, ordinary course, court authorization und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Postpetition Transfers Preference Ordinary** ordnet den Fall über die tragenden Prüffelder: Prueft unauthorized postpetition transfers, ordinary course, court authorization. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

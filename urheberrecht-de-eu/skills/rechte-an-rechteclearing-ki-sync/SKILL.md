@@ -7,7 +7,7 @@ description: "Rechte AN Rechteclearing KI Sync im Plugin Urheberrecht De Eu: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechte AN Rechteclearing KI Sync** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Schutz von Prompts, Promptketten, Systemanweisungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechte AN Rechteclearing KI Sync** ordnet den Fall über die tragenden Prüffelder: Prueft Schutz von Prompts, Promptketten, Systemanweisungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "675u 675w Banking im Plugin Phishing Vorfall Pruefer: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **675u 675w Banking** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von 675U, 675W, Banking. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**675u 675w Banking** ordnet den Fall über die tragenden Prüffelder: 675U, 675W, Banking. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

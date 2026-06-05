@@ -7,7 +7,7 @@ description: "Escrow Source AI ACT Computer Programs Cyber im Softwarerecht (DE/
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Escrow Source AI ACT Computer Programs Cyber** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Escrow Source AI ACT Computer Programs Cyber** ordnet den Fall über die tragenden Prüffelder: Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

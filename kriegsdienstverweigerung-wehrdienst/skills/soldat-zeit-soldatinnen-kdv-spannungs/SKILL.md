@@ -7,7 +7,7 @@ description: "Soldat Zeit Soldatinnen KDV Spannungs im Kriegsdienstverweigerung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Soldat Zeit Soldatinnen KDV Spannungs** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit, Stellt KDV-Rechte von Frauen dar und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Soldat Zeit Soldatinnen KDV Spannungs** ordnet den Fall über die tragenden Prüffelder: Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit, Stellt KDV-Rechte von Frauen dar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

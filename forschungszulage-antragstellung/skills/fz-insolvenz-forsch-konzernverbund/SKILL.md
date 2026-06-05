@@ -7,7 +7,7 @@ description: "FZ Insolvenz Forsch Konzernverbund im Forschungszulage-Antragstell
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FZ Insolvenz Forsch Konzernverbund** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nu, Spezialfall Konzernverbundforschung und verbundene. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FZ Insolvenz Forsch Konzernverbund** ordnet den Fall über die tragenden Prüffelder: Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nu, Spezialfall Konzernverbundforschung und verbundene. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bauablauf VBG** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bauablauf VBG** ordnet den Fall über die tragenden Prüffelder: Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

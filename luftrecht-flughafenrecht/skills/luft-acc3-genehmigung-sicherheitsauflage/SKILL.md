@@ -7,7 +7,7 @@ description: "Luft Acc3 Genehmigung Sicherheitsauflage im Plugin Luftrecht Flugh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Acc3 Genehmigung Sicherheitsauflage** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von ACC3-Carrier prueft Designierungsstatus und ob alle, ACC3-Carrier erhaelt Sicherheitsauflage nach, ACC3-Carrier zeigt Insolvenzzeichen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Acc3 Genehmigung Sicherheitsauflage** ordnet den Fall über die tragenden Prüffelder: ACC3-Carrier prueft Designierungsstatus und ob alle, ACC3-Carrier erhaelt Sicherheitsauflage nach, ACC3-Carrier zeigt Insolvenzzeichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

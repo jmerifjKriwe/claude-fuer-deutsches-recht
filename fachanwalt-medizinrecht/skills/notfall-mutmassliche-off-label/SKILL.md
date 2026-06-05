@@ -7,7 +7,7 @@ description: "Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Not
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notfall Mutmassliche OFF Label** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Notfall und mutmaßliche Einwilligung, Off-Label bei seltener Erkrankung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notfall Mutmassliche OFF Label** ordnet den Fall über die tragenden Prüffelder: Notfall und mutmaßliche Einwilligung, Off-Label bei seltener Erkrankung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

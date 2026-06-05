@@ -7,7 +7,7 @@ description: "Equitable Subordination Estate Property im Plugin Us Bankruptcy Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Equitable Subordination Estate Property** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft contractual subordination, equitable subordination, insider misconduct an und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Equitable Subordination Estate Property** ordnet den Fall über die tragenden Prüffelder: Prueft contractual subordination, equitable subordination, insider misconduct an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Strafrecht Beleidigung Testakte Auswertung im Plugin Meinungspruef
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafrecht Beleidigung Testakte Auswertung** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft § 185 StGB bei ehrverletzenden Werturteilen und, Wertet die Testakte meinungspruefer-grenzfaelle-alltag aus, LinkedIn. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafrecht Beleidigung Testakte Auswertung** ordnet den Fall über die tragenden Prüffelder: Prüft § 185 StGB bei ehrverletzenden Werturteilen und, Wertet die Testakte meinungspruefer-grenzfaelle-alltag aus, LinkedIn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

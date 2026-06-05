@@ -7,7 +7,7 @@ description: "Untaetigkeitsklage Krankenkasse im Krankenkassenrecht / Krankenver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Untaetigkeitsklage Krankenkasse** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Rechtsdurchsetzung bei untätiger Krankenkasse, Datenschutz im Krankenversicherungsrecht, Leistungspflicht in der PKV nach § 192 VVG und MB/KK. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Untaetigkeitsklage Krankenkasse** ordnet den Fall über die tragenden Prüffelder: Rechtsdurchsetzung bei untätiger Krankenkasse, Datenschutz im Krankenversicherungsrecht, Leistungspflicht in der PKV nach § 192 VVG und MB/KK. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

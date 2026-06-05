@@ -7,7 +7,7 @@ description: "CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CMR Haftung Ladungsschaden** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CMR Haftung Ladungsschaden** ordnet den Fall über die tragenden Prüffelder: CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

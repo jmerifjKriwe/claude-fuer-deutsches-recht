@@ -7,7 +7,7 @@ description: "Sachverstaendigenbriefing Musik Sampling im Plugin Urheberrecht De
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachverstaendigenbriefing Musik Sampling** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Erstellt ein präzises Briefing für Musiksachverständige mit, Audi, Prueft Sampling und kreative Nachnutzung nach Pelham. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachverstaendigenbriefing Musik Sampling** ordnet den Fall über die tragenden Prüffelder: Erstellt ein präzises Briefing für Musiksachverständige mit, Audi, Prueft Sampling und kreative Nachnutzung nach Pelham. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

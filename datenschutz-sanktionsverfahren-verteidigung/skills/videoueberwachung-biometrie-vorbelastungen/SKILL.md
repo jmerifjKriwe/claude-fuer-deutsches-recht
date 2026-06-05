@@ -7,7 +7,7 @@ description: "Videoueberwachung Biometrie Vorbelastungen im Datenschutz-Sanktion
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Videoueberwachung Biometrie Vorbelastungen** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Videoüberwachung und Biometrie, Vorbelastungen und Wiederholungstäter, Vorsatz und Fahrlässigkeit des Unternehmens und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Videoueberwachung Biometrie Vorbelastungen** ordnet den Fall über die tragenden Prüffelder: Videoüberwachung und Biometrie, Vorbelastungen und Wiederholungstäter, Vorsatz und Fahrlässigkeit des Unternehmens. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

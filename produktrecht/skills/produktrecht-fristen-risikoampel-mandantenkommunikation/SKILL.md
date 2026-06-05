@@ -7,7 +7,7 @@ description: "Fristen Risikoampel Mandantenkommunikation im Plugin Produktrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristen Risikoampel Mandantenkommunikation** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin produktrecht, Mandantenkommunikation im Plugin produktrecht, Red-Team Qualitygate im Plugin produktrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristen Risikoampel Mandantenkommunikation** ordnet den Fall über die tragenden Prüffelder: Fristen- und Risikoampel im Plugin produktrecht, Mandantenkommunikation im Plugin produktrecht, Red-Team Qualitygate im Plugin produktrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

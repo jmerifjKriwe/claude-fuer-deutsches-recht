@@ -7,7 +7,7 @@ description: "Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erwerbsminderungsrente** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren, Die Feststellungsklage nach § 55 SGG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erwerbsminderungsrente** ordnet den Fall über die tragenden Prüffelder: Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren, Die Feststellungsklage nach § 55 SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

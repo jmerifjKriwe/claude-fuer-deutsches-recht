@@ -7,7 +7,7 @@ description: "Nachversicherung Rueckabwicklung im Sozialversicherungsstatus-Prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachversicherung Rueckabwicklung** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach St und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachversicherung Rueckabwicklung** ordnet den Fall über die tragenden Prüffelder: Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach St. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

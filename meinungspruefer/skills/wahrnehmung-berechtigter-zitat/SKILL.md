@@ -7,7 +7,7 @@ description: "Wahrnehmung Berechtigter Zitat im Plugin Meinungspruefer: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wahrnehmung Berechtigter Zitat** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft § 193 StGB bei Beschwerde, Bewertung, Anzeige. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wahrnehmung Berechtigter Zitat** ordnet den Fall über die tragenden Prüffelder: Prüft § 193 StGB bei Beschwerde, Bewertung, Anzeige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Buchhaltung Konten Kanzlei Erechnung im Plugin Kanzlei Allgemein: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Buchhaltung Konten Kanzlei Erechnung** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten, Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Buchhaltung Konten Kanzlei Erechnung** ordnet den Fall über die tragenden Prüffelder: Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten, Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

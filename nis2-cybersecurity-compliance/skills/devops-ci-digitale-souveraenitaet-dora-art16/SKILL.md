@@ -7,7 +7,7 @@ description: "Devops CI Digitale Souveraenitaet Dora Art16 im NIS2-Cybersecurity
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Devops CI Digitale Souveraenitaet Dora Art16** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit, Bewertet Provider-Lock-in und digitale Souveränität und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Devops CI Digitale Souveraenitaet Dora Art16** ordnet den Fall über die tragenden Prüffelder: Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit, Bewertet Provider-Lock-in und digitale Souveränität. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

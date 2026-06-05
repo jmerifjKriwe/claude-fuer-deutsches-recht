@@ -7,7 +7,7 @@ description: "Handelsbuecher Paragraph Handelsgeschaefte im Handelsrecht (HGB): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsbuecher Paragraph Handelsgeschaefte** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsbuecher Paragraph Handelsgeschaefte** ordnet den Fall über die tragenden Prüffelder: Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

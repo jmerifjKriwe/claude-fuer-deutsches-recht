@@ -7,7 +7,7 @@ description: "Tabellenreview 3D Teaser Processdocs im Corporate-Kanzlei-Praxis: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tabellenreview 3D Teaser Processdocs** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Strukturierte Datentabellen aus M&A-Datenräumen prüfen und, Teaser, Information Memorandum und Prozessdokumente für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tabellenreview 3D Teaser Processdocs** ordnet den Fall über die tragenden Prüffelder: Strukturierte Datentabellen aus M&A-Datenräumen prüfen und, Teaser, Information Memorandum und Prozessdokumente für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

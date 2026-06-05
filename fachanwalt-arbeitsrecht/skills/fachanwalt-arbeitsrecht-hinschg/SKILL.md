@@ -7,7 +7,7 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hinschg** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Verteidigung von Hinweisgebern nach HinSchG gegen, Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist, Prüffeld für fachanwalt arbeitsrecht massenentlassung 17. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hinschg** ordnet den Fall über die tragenden Prüffelder: Verteidigung von Hinweisgebern nach HinSchG gegen, Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist, Prüffeld für fachanwalt arbeitsrecht massenentlassung 17. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Designverletzung Marken Widerspruch im Plugin Fachanwalt Gewerblic
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Designverletzung Marken Widerspruch** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Geschmacksmuster- oder Designverletzung prüfen und, Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO, Markenanmeldung beim DPMA oder EUIPO vorbereiten und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Designverletzung Marken Widerspruch** ordnet den Fall über die tragenden Prüffelder: Geschmacksmuster- oder Designverletzung prüfen und, Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO, Markenanmeldung beim DPMA oder EUIPO vorbereiten und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

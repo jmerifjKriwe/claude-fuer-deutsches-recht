@@ -7,7 +7,7 @@ description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Archi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bautraeger Rechtswidrige Bauvertrag** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Rechtswidrige Anpassungsklauseln im Bautraegervertrag, Bauvertrag, Vertragstypen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bautraeger Rechtswidrige Bauvertrag** ordnet den Fall über die tragenden Prüffelder: Rechtswidrige Anpassungsklauseln im Bautraegervertrag, Bauvertrag, Vertragstypen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

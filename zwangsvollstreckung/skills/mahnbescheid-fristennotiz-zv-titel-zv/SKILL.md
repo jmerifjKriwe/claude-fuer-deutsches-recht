@@ -7,7 +7,7 @@ description: "Mahnbescheid Fristennotiz ZV Titel ZV im Plugin Zwangsvollstreckun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mahnbescheid Fristennotiz ZV Titel ZV** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Mahnbescheid, Gläubiger hat Urteil oder sonstigen Titel und prüft vor, Gläubiger hat Urteil aber kein bekanntes Konto oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mahnbescheid Fristennotiz ZV Titel ZV** ordnet den Fall über die tragenden Prüffelder: Mahnbescheid, Gläubiger hat Urteil oder sonstigen Titel und prüft vor, Gläubiger hat Urteil aber kein bekanntes Konto oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

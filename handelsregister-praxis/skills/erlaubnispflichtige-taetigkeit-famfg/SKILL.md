@@ -7,7 +7,7 @@ description: "Erlaubnispflichtige Taetigkeit Famfg im Handelsregister-Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erlaubnispflichtige Taetigkeit Famfg** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Prüft KWG, ZAG, GewO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erlaubnispflichtige Taetigkeit Famfg** ordnet den Fall über die tragenden Prüffelder: Prüft KWG, ZAG, GewO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

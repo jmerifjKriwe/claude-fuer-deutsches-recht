@@ -7,7 +7,7 @@ description: "Formulare Checkout Kontrast Farbe Native Apps im Plugin Barrierefr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Formulare Checkout Kontrast Farbe Native Apps** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von Prüft Formulare, Login, Suche. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Formulare Checkout Kontrast Farbe Native Apps** ordnet den Fall über die tragenden Prüffelder: Prüft Formulare, Login, Suche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

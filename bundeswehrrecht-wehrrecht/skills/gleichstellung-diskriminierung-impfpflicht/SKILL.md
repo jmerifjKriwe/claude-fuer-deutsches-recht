@@ -7,7 +7,7 @@ description: "Gleichstellung Diskriminierung Impfpflicht im Bundeswehrrecht / We
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gleichstellung Diskriminierung Impfpflicht** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Gleichstellung und Diskriminierung Soldatinnen und Soldaten, Impfpflicht, Tauglichkeit und Musterung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gleichstellung Diskriminierung Impfpflicht** ordnet den Fall über die tragenden Prüffelder: Gleichstellung und Diskriminierung Soldatinnen und Soldaten, Impfpflicht, Tauglichkeit und Musterung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

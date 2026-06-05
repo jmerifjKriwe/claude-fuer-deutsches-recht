@@ -7,7 +7,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berufung ZPO Berufungs Zulassung Beweislast** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüffelder: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

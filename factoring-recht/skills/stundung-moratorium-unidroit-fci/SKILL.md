@@ -7,7 +7,7 @@ description: "Stundung Moratorium Unidroit FCI im Plugin Factoring Recht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stundung Moratorium Unidroit FCI** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von Stundung Moratorium Factoring und Sanierung, UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen, Verbraucherforderungen und besondere Schutzvorschriften. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stundung Moratorium Unidroit FCI** ordnet den Fall über die tragenden Prüffelder: Stundung Moratorium Factoring und Sanierung, UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen, Verbraucherforderungen und besondere Schutzvorschriften. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

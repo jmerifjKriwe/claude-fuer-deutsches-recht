@@ -7,7 +7,7 @@ description: "Gate Beweislast Jveg Quality im JVEG-Kostenprüfung: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gate Beweislast Jveg Quality** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Gate, JVEG, Quality. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gate Beweislast Jveg Quality** ordnet den Fall über die tragenden Prüffelder: Gate, JVEG, Quality. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

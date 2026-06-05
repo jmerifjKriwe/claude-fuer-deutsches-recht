@@ -7,7 +7,7 @@ description: "Cross Duengeverordnung Interessen Erbrecht im Agrarrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cross Duengeverordnung Interessen Erbrecht** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Cross, Duengeverordnung, Erbrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cross Duengeverordnung Interessen Erbrecht** ordnet den Fall über die tragenden Prüffelder: Cross, Duengeverordnung, Erbrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

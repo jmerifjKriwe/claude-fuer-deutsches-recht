@@ -7,7 +7,7 @@ description: "Schiedsstellen Krankenkassen Schweigepflicht im Plugin Apothekenre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schiedsstellen Krankenkassen Schweigepflicht** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht PTA Approbation, Securpharm Fälschungsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schiedsstellen Krankenkassen Schweigepflicht** ordnet den Fall über die tragenden Prüffelder: Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht PTA Approbation, Securpharm Fälschungsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

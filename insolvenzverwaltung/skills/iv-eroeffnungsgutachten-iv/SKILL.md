@@ -7,7 +7,7 @@ description: "IV Eroeffnungsgutachten IV im Plugin Insolvenzverwaltung: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Eroeffnungsgutachten IV** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger, Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Eroeffnungsgutachten IV** ordnet den Fall über die tragenden Prüffelder: Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger, Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

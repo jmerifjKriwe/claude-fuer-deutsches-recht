@@ -7,7 +7,7 @@ description: "Erstattung PKV Faelligkeit Verzug im Plugin Goae Gebuehrenordnung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erstattung PKV Faelligkeit Verzug** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von Erstattung PKV vs Honoraranspruch Patient, Fälligkeit Verzug Mahnung Honorarklage, zur strukturierten Aufnahme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erstattung PKV Faelligkeit Verzug** ordnet den Fall über die tragenden Prüffelder: Erstattung PKV vs Honoraranspruch Patient, Fälligkeit Verzug Mahnung Honorarklage, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

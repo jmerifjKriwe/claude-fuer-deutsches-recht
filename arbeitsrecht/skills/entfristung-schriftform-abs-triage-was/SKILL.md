@@ -7,7 +7,7 @@ description: "Entfristung Schriftform ABS Triage WAS im Plugin Arbeitsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entfristung Schriftform ABS Triage WAS** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von KERNSKILL, Einstieg Entfristungsklage-Workflow, Typische Vergleichsbausteine in der Entfristungsklage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entfristung Schriftform ABS Triage WAS** ordnet den Fall über die tragenden Prüffelder: KERNSKILL, Einstieg Entfristungsklage-Workflow, Typische Vergleichsbausteine in der Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

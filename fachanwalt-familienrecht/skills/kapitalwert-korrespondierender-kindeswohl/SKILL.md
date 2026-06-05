@@ -7,7 +7,7 @@ description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Fam
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kapitalwert Korrespondierender Kindeswohl** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kapitalwert Korrespondierender Kindeswohl** ordnet den Fall über die tragenden Prüffelder: Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

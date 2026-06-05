@@ -7,7 +7,7 @@ description: "Mandantenbrief Verstaendlich im Beamtenrecht: prüft konkret Verst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandantenbrief Verstaendlich** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Verständlicher Mandantenbrief, Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG, Skill zu Mobbing im oeffentlichen Dienst und zur und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandantenbrief Verstaendlich** ordnet den Fall über die tragenden Prüffelder: Verständlicher Mandantenbrief, Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG, Skill zu Mobbing im oeffentlichen Dienst und zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

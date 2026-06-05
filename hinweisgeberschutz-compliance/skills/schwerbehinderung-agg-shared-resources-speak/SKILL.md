@@ -7,7 +7,7 @@ description: "Schwerbehinderung AGG Shared Resources Speak im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schwerbehinderung AGG Shared Resources Speak** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen, Gestaltet geteilte Ressourcen mittelgroßer Unternehmen, Baut Speak-up-Kultur ohne Compliance-Theater und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schwerbehinderung AGG Shared Resources Speak** ordnet den Fall über die tragenden Prüffelder: Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen, Gestaltet geteilte Ressourcen mittelgroßer Unternehmen, Baut Speak-up-Kultur ohne Compliance-Theater. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Parallelverfahren ART Strafrecht BDSG im Datenschutz-Sanktionsverf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Parallelverfahren ART Strafrecht BDSG** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Parallelverfahren Art, Parallelverfahren § 42 BDSG und Strafrecht, Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Parallelverfahren ART Strafrecht BDSG** ordnet den Fall über die tragenden Prüffelder: Parallelverfahren Art, Parallelverfahren § 42 BDSG und Strafrecht, Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

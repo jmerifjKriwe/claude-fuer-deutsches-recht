@@ -7,7 +7,7 @@ description: "Intake Decision KG Gmbhcokg im Plugin Gesellschaftsgruender: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Intake Decision KG Gmbhcokg** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von Entscheidungsbaum für GmbH-Gründung, KG und GmbH und Co, Prüft Mitarbeiterbeteiligung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Intake Decision KG Gmbhcokg** ordnet den Fall über die tragenden Prüffelder: Entscheidungsbaum für GmbH-Gründung, KG und GmbH und Co, Prüft Mitarbeiterbeteiligung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

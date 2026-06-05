@@ -7,7 +7,7 @@ description: "Design Patent Urheberrecht im Designrecht: prüft konkret Design, 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Design Patent Urheberrecht** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Design, Patent und Gebrauchsmuster abgrenzen, Schnittstelle Designrecht und Urheberrecht bei angewandter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Design Patent Urheberrecht** ordnet den Fall über die tragenden Prüffelder: Design, Patent und Gebrauchsmuster abgrenzen, Schnittstelle Designrecht und Urheberrecht bei angewandter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

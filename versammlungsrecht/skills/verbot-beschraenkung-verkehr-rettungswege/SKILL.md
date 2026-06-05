@@ -7,7 +7,7 @@ description: "Verbot Beschraenkung Verkehr Rettungswege im Versammlungsrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbot Beschraenkung Verkehr Rettungswege** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschnei, Bearbeitet Verkehr. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbot Beschraenkung Verkehr Rettungswege** ordnet den Fall über die tragenden Prüffelder: Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschnei, Bearbeitet Verkehr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

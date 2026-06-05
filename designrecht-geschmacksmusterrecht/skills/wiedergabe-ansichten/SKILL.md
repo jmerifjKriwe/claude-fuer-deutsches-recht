@@ -1,13 +1,13 @@
 ---
 name: wiedergabe-ansichten
-description: "Wiedergabe Ansichten im Designrecht: Dieser Skill arbeitet Wiedergabe Ansichten als zusammenhängenden Arbeitsgang im Plugin Designrecht / Geschmacksmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wiedergabe Ansichten im Designrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wiedergabe Ansichten
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wiedergabe Ansichten** als zusammenhängenden Arbeitsgang im Plugin Designrecht / Geschmacksmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wiedergabe Ansichten** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

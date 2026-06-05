@@ -7,7 +7,7 @@ description: "Look Feel Mandatsannahme GWG im Plugin Kanzlei Allgemein: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Look Feel Mandatsannahme GWG** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig, Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Look Feel Mandatsannahme GWG** ordnet den Fall über die tragenden Prüffelder: Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig, Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

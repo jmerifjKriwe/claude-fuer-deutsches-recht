@@ -7,7 +7,7 @@ description: "Arbeitgeberzuschuss PKV Entgeltabrechnung im Krankenkassenrecht / 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitgeberzuschuss PKV Entgeltabrechnung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von AG-Zuschuss zur PKV nach § 257 SGB V, Pflichtversicherung in der KVdR (§ 5 Abs, Krankenversicherung für Mitglieder berufsständischer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitgeberzuschuss PKV Entgeltabrechnung** ordnet den Fall über die tragenden Prüffelder: AG-Zuschuss zur PKV nach § 257 SGB V, Pflichtversicherung in der KVdR (§ 5 Abs, Krankenversicherung für Mitglieder berufsständischer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

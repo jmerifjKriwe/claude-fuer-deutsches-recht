@@ -7,7 +7,7 @@ description: "Innenraum Versammlung Kooperationsgespraech im Versammlungsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Innenraum Versammlung Kooperationsgespraech** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Grenzt öffentliche und private Versammlungen in, Bereitet Kooperationsgespräche mit Versammlungsbehörde und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Innenraum Versammlung Kooperationsgespraech** ordnet den Fall über die tragenden Prüffelder: Grenzt öffentliche und private Versammlungen in, Bereitet Kooperationsgespräche mit Versammlungsbehörde und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

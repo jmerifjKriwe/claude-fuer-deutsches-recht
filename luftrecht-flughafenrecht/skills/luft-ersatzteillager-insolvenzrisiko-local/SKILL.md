@@ -7,7 +7,7 @@ description: "Luft Ersatzteillager Insolvenzrisiko Local im Plugin Luftrecht Flu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Ersatzteillager Insolvenzrisiko Local** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt, Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, MRO-Gesellschaft oder Airline braucht Inventar-Dashboard und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Ersatzteillager Insolvenzrisiko Local** ordnet den Fall über die tragenden Prüffelder: MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt, Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, MRO-Gesellschaft oder Airline braucht Inventar-Dashboard. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

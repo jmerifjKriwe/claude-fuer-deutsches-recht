@@ -7,7 +7,7 @@ description: "Verjaehrung Vollstreckungsbescheid Folgen im Plugin Forderungsmana
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verjaehrung Vollstreckungsbescheid Folgen** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement Klagewerkstatt. Im Mittelpunkt steht die Prüfung von Verjaehrung pruefen, Vollstreckungsbescheid §§ 699 und 700 ZPO, Zahlungsklage erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verjaehrung Vollstreckungsbescheid Folgen** ordnet den Fall über die tragenden Prüffelder: Verjaehrung pruefen, Vollstreckungsbescheid §§ 699 und 700 ZPO, Zahlungsklage erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

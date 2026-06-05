@@ -7,7 +7,7 @@ description: "Forced Labour Foto Video im Fashion Law (Moderecht): prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Forced Labour Foto Video** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette, Foto-. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Forced Labour Foto Video** ordnet den Fall über die tragenden Prüffelder: Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette, Foto-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

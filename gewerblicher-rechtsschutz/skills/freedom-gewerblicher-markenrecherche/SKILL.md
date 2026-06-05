@@ -7,7 +7,7 @@ description: "Freedom Gewerblicher Markenrecherche im Plugin Gewerblicher Rechts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freedom Gewerblicher Markenrecherche** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz, Erstprüfung und Mandatszielbestimmung im gewerblichen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freedom Gewerblicher Markenrecherche** ordnet den Fall über die tragenden Prüffelder: Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz, Erstprüfung und Mandatszielbestimmung im gewerblichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

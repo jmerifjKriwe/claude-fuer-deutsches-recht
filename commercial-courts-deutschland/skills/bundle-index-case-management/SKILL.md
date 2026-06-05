@@ -7,7 +7,7 @@ description: "Bundle Index Case Management im Commercial Courts in Deutschland: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bundle Index Case Management** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Organisiert elektronisches Bundle, Anlagenindex, beA/ERV-Dateinamen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bundle Index Case Management** ordnet den Fall über die tragenden Prüffelder: Organisiert elektronisches Bundle, Anlagenindex, beA/ERV-Dateinamen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

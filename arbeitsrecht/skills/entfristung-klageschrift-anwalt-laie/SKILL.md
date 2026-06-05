@@ -7,7 +7,7 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entfristung Klageschrift Anwalt Laie** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüffelder: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Konfliktverteidigung Sitzung Souveraen im Plugin Staatsanwaltschaf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Konfliktverteidigung Sitzung Souveraen** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Anstrengende Verteidigung in der Sitzung, Umgang mit harter Verteidigung, Korruption und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Konfliktverteidigung Sitzung Souveraen** ordnet den Fall über die tragenden Prüffelder: Anstrengende Verteidigung in der Sitzung, Umgang mit harter Verteidigung, Korruption. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

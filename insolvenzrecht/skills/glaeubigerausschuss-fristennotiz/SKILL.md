@@ -7,7 +7,7 @@ description: "Glaeubigerausschuss Fristennotiz im Plugin Insolvenzrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Glaeubigerausschuss Fristennotiz** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Glaeubigerausschuss, Ueberschuldung, Insolvenzverwalter verklagt Geschäftsführer und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Glaeubigerausschuss Fristennotiz** ordnet den Fall über die tragenden Prüffelder: Glaeubigerausschuss, Ueberschuldung, Insolvenzverwalter verklagt Geschäftsführer und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

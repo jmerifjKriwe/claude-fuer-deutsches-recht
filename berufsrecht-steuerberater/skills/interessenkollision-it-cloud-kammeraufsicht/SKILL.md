@@ -7,7 +7,7 @@ description: "Interessenkollision IT Cloud Kammeraufsicht im Berufsrecht der Ste
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Interessenkollision IT Cloud Kammeraufsicht** als zusammenhängenden Arbeitsgang im Berufsrecht der Steuerberater. Im Mittelpunkt steht die Prüfung von Interessenkollision, Cloud, KI und Outsourcing und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Interessenkollision IT Cloud Kammeraufsicht** ordnet den Fall über die tragenden Prüffelder: Interessenkollision, Cloud, KI und Outsourcing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

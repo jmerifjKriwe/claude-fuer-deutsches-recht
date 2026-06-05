@@ -7,7 +7,7 @@ description: "Vorsorgevollmacht Wunschermittlung im Plugin Betreuungsrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorsorgevollmacht Wunschermittlung** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Vorsorgevollmacht pruefen, Wunschermittlung und unterstützte Entscheidung nach § 1821, Zwangsbehandlung § 1832 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorsorgevollmacht Wunschermittlung** ordnet den Fall über die tragenden Prüffelder: Vorsorgevollmacht pruefen, Wunschermittlung und unterstützte Entscheidung nach § 1821, Zwangsbehandlung § 1832 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

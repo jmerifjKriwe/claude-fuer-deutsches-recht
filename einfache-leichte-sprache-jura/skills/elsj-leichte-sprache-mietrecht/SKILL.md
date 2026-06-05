@@ -7,7 +7,7 @@ description: "Elsj Leichte Sprache Mietrecht im Einfache und leichte Sprache im 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Leichte Sprache Mietrecht** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Kanzlei oder Behoerde will juristischen Text für Menschen, Wohnungsmietrecht in einfacher Sprache fuer Mieter, Qualitaetspruefung Einfache/Leichte Sprache. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Leichte Sprache Mietrecht** ordnet den Fall über die tragenden Prüffelder: Kanzlei oder Behoerde will juristischen Text für Menschen, Wohnungsmietrecht in einfacher Sprache fuer Mieter, Qualitaetspruefung Einfache/Leichte Sprache. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

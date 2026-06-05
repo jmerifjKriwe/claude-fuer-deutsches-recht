@@ -7,7 +7,7 @@ description: "Closing Handelregister Einstweiliger im Handelsregister-Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Closing Handelregister Einstweiliger** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Prüft CP/CS, Eintragungsabhängigkeiten, Vollzugsreihenfolge. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Closing Handelregister Einstweiliger** ordnet den Fall über die tragenden Prüffelder: Prüft CP/CS, Eintragungsabhängigkeiten, Vollzugsreihenfolge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

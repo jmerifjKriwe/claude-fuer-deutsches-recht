@@ -7,7 +7,7 @@ description: "Billing TO Blockbilling Detector Board im Plugin Kanzlei Mandant L
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Billing TO Blockbilling Detector Board** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Billing to XRechnung, Blockbilling Detector, Board Reporting und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Billing TO Blockbilling Detector Board** ordnet den Fall über die tragenden Prüffelder: Billing to XRechnung, Blockbilling Detector, Board Reporting. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

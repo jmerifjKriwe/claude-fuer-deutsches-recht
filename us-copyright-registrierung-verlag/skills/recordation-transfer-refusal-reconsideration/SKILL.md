@@ -7,7 +7,7 @@ description: "Recordation Transfer Refusal Reconsideration im Plugin Us Copyrigh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Recordation Transfer Refusal Reconsideration** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Recordation von Transfers und Dokumenten, Refusal, Reconsideration und Eskalation und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Recordation Transfer Refusal Reconsideration** ordnet den Fall über die tragenden Prüffelder: Recordation von Transfers und Dokumenten, Refusal, Reconsideration und Eskalation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

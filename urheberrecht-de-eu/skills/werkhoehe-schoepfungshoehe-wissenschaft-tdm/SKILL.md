@@ -7,7 +7,7 @@ description: "Werkhoehe Schoepfungshoehe Wissenschaft TDM im Plugin Urheberrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Werkhoehe Schoepfungshoehe Wissenschaft TDM** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und, Prueft Forschungsnutzung, digitale Lehre. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Werkhoehe Schoepfungshoehe Wissenschaft TDM** ordnet den Fall über die tragenden Prüffelder: Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und, Prueft Forschungsnutzung, digitale Lehre. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

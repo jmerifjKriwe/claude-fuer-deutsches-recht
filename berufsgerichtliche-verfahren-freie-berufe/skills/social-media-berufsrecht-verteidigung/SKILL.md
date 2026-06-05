@@ -7,7 +7,7 @@ description: "Social Media Berufsrecht Verteidigung im Berufsgerichtliche Verfah
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Social Media Berufsrecht Verteidigung** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Social Media Berufsrecht (Präventions- und, Social Media Berufsrecht (Verteidigungs- und Kammerantwort), Steuerberater § 153 AO Berichtigung (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Social Media Berufsrecht Verteidigung** ordnet den Fall über die tragenden Prüffelder: Social Media Berufsrecht (Präventions- und, Social Media Berufsrecht (Verteidigungs- und Kammerantwort), Steuerberater § 153 AO Berichtigung (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

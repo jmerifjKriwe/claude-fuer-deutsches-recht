@@ -7,7 +7,7 @@ description: "KI Virtual Kinderkleidung Besondere im Fashion Law (Moderecht): pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Virtual Kinderkleidung Besondere** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Virtual Try-On und digitale Models prüfen, Kinderkleidung und besondere Sicherheitsrisiken im Fashion. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Virtual Kinderkleidung Besondere** ordnet den Fall über die tragenden Prüffelder: Virtual Try-On und digitale Models prüfen, Kinderkleidung und besondere Sicherheitsrisiken im Fashion. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

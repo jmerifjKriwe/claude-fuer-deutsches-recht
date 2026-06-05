@@ -7,7 +7,7 @@ description: "Defensive Drafting Deutscher Kanzleistil im Word-Legal-AI für Anw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Defensive Drafting Deutscher Kanzleistil** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Defensives Drafting beim Review fremder Entwuerfe, Kalibriert juristische Texte auf den passenden deutschen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Defensive Drafting Deutscher Kanzleistil** ordnet den Fall über die tragenden Prüffelder: Defensives Drafting beim Review fremder Entwuerfe, Kalibriert juristische Texte auf den passenden deutschen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

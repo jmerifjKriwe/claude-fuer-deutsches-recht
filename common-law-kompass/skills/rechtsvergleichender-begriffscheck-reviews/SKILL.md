@@ -7,7 +7,7 @@ description: "Rechtsvergleichender Begriffscheck Reviews im Common Law (Orientie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsvergleichender Begriffscheck Reviews** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Rechtsvergleichender Begriffscheck für deutsche Juristinnen, Reviews, Suretyship. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsvergleichender Begriffscheck Reviews** ordnet den Fall über die tragenden Prüffelder: Rechtsvergleichender Begriffscheck für deutsche Juristinnen, Reviews, Suretyship. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

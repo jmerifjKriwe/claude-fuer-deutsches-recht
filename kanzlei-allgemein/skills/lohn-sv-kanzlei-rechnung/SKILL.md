@@ -7,7 +7,7 @@ description: "Lohn SV Kanzlei Rechnung im Plugin Kanzlei Allgemein: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lohn SV Kanzlei Rechnung** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Bereitet Lohnabrechnung Sozialversicherungsmeldungen und, Bereitet Kanzleirechnungen Vorschussrechnungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lohn SV Kanzlei Rechnung** ordnet den Fall über die tragenden Prüffelder: Bereitet Lohnabrechnung Sozialversicherungsmeldungen und, Bereitet Kanzleirechnungen Vorschussrechnungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

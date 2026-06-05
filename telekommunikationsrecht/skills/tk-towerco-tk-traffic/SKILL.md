@@ -7,7 +7,7 @@ description: "TK Towerco TK Traffic im Telekommunikationsrecht: prüft konkret M
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Towerco TK Traffic** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Mobilfunkstandorte, Verkehrsdaten, Standortdaten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Towerco TK Traffic** ordnet den Fall über die tragenden Prüffelder: Mobilfunkstandorte, Verkehrsdaten, Standortdaten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

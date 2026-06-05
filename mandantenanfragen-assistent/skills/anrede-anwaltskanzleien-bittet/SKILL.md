@@ -7,7 +7,7 @@ description: "Anrede Anwaltskanzleien Bittet im Mandantenanfragen-Triage: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anrede Anwaltskanzleien Bittet** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Anrede, Anwaltskanzleien, Bittet. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anrede Anwaltskanzleien Bittet** ordnet den Fall über die tragenden Prüffelder: Anrede, Anwaltskanzleien, Bittet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

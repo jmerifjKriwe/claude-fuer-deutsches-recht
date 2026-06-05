@@ -7,7 +7,7 @@ description: "Hauptverhandlung Owig Internationale im Datenschutz-Sanktionsverfa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hauptverhandlung Owig Internationale** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Hauptverhandlung § 71 OWiG, Internationale Datenpanne und Multi-Notification, Interne Untersuchung und Legal Hold und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hauptverhandlung Owig Internationale** ordnet den Fall über die tragenden Prüffelder: Hauptverhandlung § 71 OWiG, Internationale Datenpanne und Multi-Notification, Interne Untersuchung und Legal Hold. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

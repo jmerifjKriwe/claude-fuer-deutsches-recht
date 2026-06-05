@@ -7,7 +7,7 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erbschein Antrag Orientierung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Erbschein beantragen wenn Erbfolge nachgewiesen werden muss, Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und, Pflichtteilsanspruch berechnen wenn Erblasser nahe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erbschein Antrag Orientierung** ordnet den Fall über die tragenden Prüffelder: Erbschein beantragen wenn Erbfolge nachgewiesen werden muss, Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und, Pflichtteilsanspruch berechnen wenn Erblasser nahe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

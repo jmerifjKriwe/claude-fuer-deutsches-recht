@@ -7,7 +7,7 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **MPU Vorbereitung Orientierung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht. Im Mittelpunkt steht die Prüfung von Mandant muss MPU ablegen und fragt wie er sich vorbereiten, Einstieg in den Skill-Verbund Verkehrsrecht, Mandant hat Verkehrsunfall und fordert Schadensersatz vom. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**MPU Vorbereitung Orientierung** ordnet den Fall über die tragenden Prüffelder: Mandant muss MPU ablegen und fragt wie er sich vorbereiten, Einstieg in den Skill-Verbund Verkehrsrecht, Mandant hat Verkehrsunfall und fordert Schadensersatz vom. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

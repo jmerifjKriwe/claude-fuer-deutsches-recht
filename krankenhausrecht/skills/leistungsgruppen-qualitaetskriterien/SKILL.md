@@ -7,7 +7,7 @@ description: "Leistungsgruppen Qualitaetskriterien im Plugin Krankenhausrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Leistungsgruppen Qualitaetskriterien** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Leistungsgruppen und Qualitaetskriterien nach KHVVG, Medizinprodukterecht Betreiberpflichten MDR MPBetreibV, Mindestmengen nach § 136b SGB V und G-BA-Mm-R. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Leistungsgruppen Qualitaetskriterien** ordnet den Fall über die tragenden Prüffelder: Leistungsgruppen und Qualitaetskriterien nach KHVVG, Medizinprodukterecht Betreiberpflichten MDR MPBetreibV, Mindestmengen nach § 136b SGB V und G-BA-Mm-R. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

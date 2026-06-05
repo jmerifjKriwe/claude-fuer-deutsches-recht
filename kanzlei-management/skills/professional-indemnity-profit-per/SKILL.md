@@ -7,7 +7,7 @@ description: "Professional Indemnity Profit PER im Kanzlei-Management: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Professional Indemnity Profit PER** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Erfasst Beinahefehler, Anspruchsschreiben, Versicherungsanzeige und Lessons Lear und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Professional Indemnity Profit PER** ordnet den Fall über die tragenden Prüffelder: Erfasst Beinahefehler, Anspruchsschreiben, Versicherungsanzeige und Lessons Lear. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

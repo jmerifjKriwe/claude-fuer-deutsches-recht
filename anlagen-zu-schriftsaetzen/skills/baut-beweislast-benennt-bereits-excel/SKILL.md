@@ -7,7 +7,7 @@ description: "Baut Beweislast Benennt Bereits Excel im Plugin Anlagen Zu Schrift
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Baut Beweislast Benennt Bereits Excel** als zusammenhängenden Arbeitsgang im Plugin Anlagen Zu Schriftsaetzen. Im Mittelpunkt steht die Prüfung von Prüft, ob die Anlage eine konkrete Darlegung trägt oder nur einen, Benennt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Baut Beweislast Benennt Bereits Excel** ordnet den Fall über die tragenden Prüffelder: Prüft, ob die Anlage eine konkrete Darlegung trägt oder nur einen, Benennt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

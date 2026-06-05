@@ -7,7 +7,7 @@ description: "Umwandlungssteuerrecht Tabellenreview im Plugin Mittelstand Corpor
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Umwandlungssteuerrecht Tabellenreview** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Umwandlungssteuerrecht, Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte, Rechtsabteilungs-Fachmodul für Earn-out bei und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Umwandlungssteuerrecht Tabellenreview** ordnet den Fall über die tragenden Prüffelder: Umwandlungssteuerrecht, Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte, Rechtsabteilungs-Fachmodul für Earn-out bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

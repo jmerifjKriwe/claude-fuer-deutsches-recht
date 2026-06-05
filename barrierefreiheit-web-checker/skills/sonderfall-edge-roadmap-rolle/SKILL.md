@@ -7,7 +7,7 @@ description: "Sonderfall Edge Roadmap Rolle im Plugin Barrierefreiheit Web Check
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sonderfall Edge Roadmap Rolle** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von Pruefung, Roadmap, Rolle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sonderfall Edge Roadmap Rolle** ordnet den Fall über die tragenden Prüffelder: Pruefung, Roadmap, Rolle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

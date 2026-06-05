@@ -7,7 +7,7 @@ description: "Kanzlei Livecheck im Plugin Fachanwalt Erbrecht: prüft konkret Fa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kanzlei Livecheck** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Fachanwalt, Kanzlei, Livecheck. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kanzlei Livecheck** ordnet den Fall über die tragenden Prüffelder: Fachanwalt, Kanzlei, Livecheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

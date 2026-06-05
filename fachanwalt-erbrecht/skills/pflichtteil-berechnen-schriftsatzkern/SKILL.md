@@ -7,7 +7,7 @@ description: "Pflichtteil Berechnen Schriftsatzkern im Plugin Fachanwalt Erbrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflichtteil Berechnen Schriftsatzkern** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch, Erbrechtsklage oder erbrechtlichen Antrag substantiiert, Belegmatrix. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflichtteil Berechnen Schriftsatzkern** ordnet den Fall über die tragenden Prüffelder: Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch, Erbrechtsklage oder erbrechtlichen Antrag substantiiert, Belegmatrix. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

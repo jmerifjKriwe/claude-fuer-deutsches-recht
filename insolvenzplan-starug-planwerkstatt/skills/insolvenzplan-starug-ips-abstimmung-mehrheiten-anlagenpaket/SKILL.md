@@ -7,7 +7,7 @@ description: "IPS Abstimmung Mehrheiten Anlagenpaket im Plugin Insolvenzplan Sta
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IPS Abstimmung Mehrheiten Anlagenpaket** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Abstimmungsmehrheiten für Insolvenzplan nach InsO und, Pflichtanlagen für Insolvenzplan oder StaRUG-Plan, Asset-Deals im Insolvenzplan strukturieren wenn. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IPS Abstimmung Mehrheiten Anlagenpaket** ordnet den Fall über die tragenden Prüffelder: Abstimmungsmehrheiten für Insolvenzplan nach InsO und, Pflichtanlagen für Insolvenzplan oder StaRUG-Plan, Asset-Deals im Insolvenzplan strukturieren wenn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

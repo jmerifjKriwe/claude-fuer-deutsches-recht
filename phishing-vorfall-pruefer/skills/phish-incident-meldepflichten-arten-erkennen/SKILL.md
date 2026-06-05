@@ -7,7 +7,7 @@ description: "Phish Incident Meldepflichten Arten Erkennen im Plugin Phishing Vo
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Phish Incident Meldepflichten Arten Erkennen** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von Bauleiter Phishing-Incident-Triage, Leitfaden Meldepflichten Phishing, Phishing-Arten erkennen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Phish Incident Meldepflichten Arten Erkennen** ordnet den Fall über die tragenden Prüffelder: Bauleiter Phishing-Incident-Triage, Leitfaden Meldepflichten Phishing, Phishing-Arten erkennen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

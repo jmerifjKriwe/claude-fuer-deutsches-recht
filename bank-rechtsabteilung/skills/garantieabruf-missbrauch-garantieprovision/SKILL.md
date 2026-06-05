@@ -7,7 +7,7 @@ description: "Garantieabruf Missbrauch Garantieprovision im Plugin Bank Rechtsab
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Garantieabruf Missbrauch Garantieprovision** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall ste, Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Garantieabruf Missbrauch Garantieprovision** ordnet den Fall über die tragenden Prüffelder: Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall ste, Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

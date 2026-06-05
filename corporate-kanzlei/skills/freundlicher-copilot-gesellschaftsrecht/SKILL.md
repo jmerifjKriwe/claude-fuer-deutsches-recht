@@ -7,7 +7,7 @@ description: "Freundlicher Copilot Gesellschaftsrecht im Corporate-Kanzlei-Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freundlicher Copilot Gesellschaftsrecht** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Freundlicher Corporate-Copilot, Gesellschaftsrechtliche Registeranmeldungen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freundlicher Copilot Gesellschaftsrecht** ordnet den Fall über die tragenden Prüffelder: Freundlicher Corporate-Copilot, Gesellschaftsrechtliche Registeranmeldungen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

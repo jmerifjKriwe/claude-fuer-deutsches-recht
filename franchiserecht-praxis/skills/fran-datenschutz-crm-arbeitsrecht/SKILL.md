@@ -7,7 +7,7 @@ description: "Fran Datenschutz CRM Arbeitsrecht im Franchiserecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Datenschutz CRM Arbeitsrecht** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Datenschutz im Franchisesystem regeln, Scheinselbstständigkeit von Franchisenehmern prüfen, Ausgleichsanspruch des Franchisenehmers analog § 89b HGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Datenschutz CRM Arbeitsrecht** ordnet den Fall über die tragenden Prüffelder: Datenschutz im Franchisesystem regeln, Scheinselbstständigkeit von Franchisenehmern prüfen, Ausgleichsanspruch des Franchisenehmers analog § 89b HGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

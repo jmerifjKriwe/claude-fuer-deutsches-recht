@@ -7,7 +7,7 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Historie Lueckenfuellung Sonderfall** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Historie Lueckenfuellung Sonderfall** ordnet den Fall über die tragenden Prüffelder: Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

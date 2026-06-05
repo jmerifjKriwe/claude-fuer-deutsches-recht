@@ -7,7 +7,7 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zweckentfremdung WEG Kostenverteilung** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zweckentfremdung WEG Kostenverteilung** ordnet den Fall über die tragenden Prüffelder: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

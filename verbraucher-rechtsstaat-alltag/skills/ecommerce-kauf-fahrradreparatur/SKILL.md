@@ -7,7 +7,7 @@ description: "Ecommerce Kauf Fahrradreparatur im Plugin Verbraucher Rechtsstaat 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ecommerce Kauf Fahrradreparatur** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von E-Commerce Kauf und Widerruf, Entscheidungsvorlage, Fahrradreparatur und kleine Dienstleistungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ecommerce Kauf Fahrradreparatur** ordnet den Fall über die tragenden Prüffelder: E-Commerce Kauf und Widerruf, Entscheidungsvorlage, Fahrradreparatur und kleine Dienstleistungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

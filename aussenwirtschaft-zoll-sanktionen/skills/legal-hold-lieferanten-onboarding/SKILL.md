@@ -7,7 +7,7 @@ description: "Legal Hold Lieferanten Onboarding im Außenwirtschaftsrecht, Zoll 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legal Hold Lieferanten Onboarding** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Legal Hold und digitale Datenextraktion bei Exportkontroll-, Exportkontroll- und sanktionsrechtliches Onboarding neuer, Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legal Hold Lieferanten Onboarding** ordnet den Fall über die tragenden Prüffelder: Legal Hold und digitale Datenextraktion bei Exportkontroll-, Exportkontroll- und sanktionsrechtliches Onboarding neuer, Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

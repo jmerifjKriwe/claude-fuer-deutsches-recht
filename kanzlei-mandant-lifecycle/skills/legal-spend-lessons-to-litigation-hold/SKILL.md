@@ -7,7 +7,7 @@ description: "Legal Spend Lessons TO Litigation Hold im Plugin Kanzlei Mandant L
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legal Spend Lessons TO Litigation Hold** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Legal Spend und Accruals, Lessons to Playbook, Litigation Hold beim Mandanten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legal Spend Lessons TO Litigation Hold** ordnet den Fall über die tragenden Prüffelder: Legal Spend und Accruals, Lessons to Playbook, Litigation Hold beim Mandanten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

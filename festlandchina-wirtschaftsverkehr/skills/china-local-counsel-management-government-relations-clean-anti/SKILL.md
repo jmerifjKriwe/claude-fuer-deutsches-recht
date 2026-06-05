@@ -7,7 +7,7 @@ description: "China Local Counsel Management Government Relations Clean Anti im 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Local Counsel Management Government Relations Clean Anti** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Management chinesischer Rechtsanwälte und lokaler Berater, Government Relations in China, Anti-Korruption und Geschenke im China-Geschaeft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Local Counsel Management Government Relations Clean Anti** ordnet den Fall über die tragenden Prüffelder: Management chinesischer Rechtsanwälte und lokaler Berater, Government Relations in China, Anti-Korruption und Geschenke im China-Geschaeft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

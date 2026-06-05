@@ -7,7 +7,7 @@ description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Marketing Website Protokollwerkstatt TOP** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Verwalter-Website rechtssicher gestalten (Stand 06/2026), Erstellt und prüft Protokolle für lange, Rampe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Marketing Website Protokollwerkstatt TOP** ordnet den Fall über die tragenden Prüffelder: Verwalter-Website rechtssicher gestalten (Stand 06/2026), Erstellt und prüft Protokolle für lange, Rampe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

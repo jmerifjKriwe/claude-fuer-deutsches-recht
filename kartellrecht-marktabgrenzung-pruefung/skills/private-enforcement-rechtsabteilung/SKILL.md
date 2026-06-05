@@ -7,7 +7,7 @@ description: "Private Enforcement Rechtsabteilung im Kartellrecht (Marktabgrenzu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Private Enforcement Rechtsabteilung** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcem, Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Private Enforcement Rechtsabteilung** ordnet den Fall über die tragenden Prüffelder: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcem, Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

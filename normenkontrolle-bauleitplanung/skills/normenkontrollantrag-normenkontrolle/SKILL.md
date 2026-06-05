@@ -7,7 +7,7 @@ description: "Normenkontrollantrag Normenkontrolle im Plugin Normenkontrolle Bau
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Normenkontrollantrag Normenkontrolle** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu, Normenkontrolle oder Inzidentkontrolle, Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Normenkontrollantrag Normenkontrolle** ordnet den Fall über die tragenden Prüffelder: Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu, Normenkontrolle oder Inzidentkontrolle, Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

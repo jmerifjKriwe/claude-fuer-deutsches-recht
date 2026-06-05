@@ -7,7 +7,7 @@ description: "Aufgabenstellung Erfassen Fachgebiet im Juristische Hausarbeit: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufgabenstellung Erfassen Fachgebiet** als zusammenhängenden Arbeitsgang im Juristische Hausarbeit. Im Mittelpunkt steht die Prüfung von Student erhaelt Hausarbeit-Aufgabenstellung und will den, Student weiss nicht in welches Fachgebiet die Hausarbeit, Student erstellt Gliederung für juristische Hausarbeit mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufgabenstellung Erfassen Fachgebiet** ordnet den Fall über die tragenden Prüffelder: Student erhaelt Hausarbeit-Aufgabenstellung und will den, Student weiss nicht in welches Fachgebiet die Hausarbeit, Student erstellt Gliederung für juristische Hausarbeit mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

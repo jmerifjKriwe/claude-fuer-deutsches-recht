@@ -7,7 +7,7 @@ description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Krisenverfassung Permanenter** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Krisenverfassung Permanenter** ordnet den Fall über die tragenden Prüffelder: Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

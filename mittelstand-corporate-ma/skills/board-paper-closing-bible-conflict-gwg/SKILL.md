@@ -7,7 +7,7 @@ description: "Board Paper Closing Bible Conflict GWG im Plugin Mittelstand Corpo
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Board Paper Closing Bible Conflict GWG** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Vorstand GF oder Aufsichtsrat braucht, Transaktion vor Closing und Anwalt muss Closing Bible, Konflikt- GwG- und Sanktionscheck und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Board Paper Closing Bible Conflict GWG** ordnet den Fall über die tragenden Prüffelder: Vorstand GF oder Aufsichtsrat braucht, Transaktion vor Closing und Anwalt muss Closing Bible, Konflikt- GwG- und Sanktionscheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Mietpreisueberhoehung Wistrg im Plugin Mietrecht: prüft konkret P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mietpreisueberhoehung Wistrg** als zusammenhängenden Arbeitsgang im Plugin Mietrecht. Im Mittelpunkt steht die Prüfung von Prueft ueberhoehte Wohnraummiete dreistufig, Mietersicht — prüfe eine laufende oder bei Vertragsschluss, Operationalisiert die Prüfung der ortsueblichen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mietpreisueberhoehung Wistrg** ordnet den Fall über die tragenden Prüffelder: Prueft ueberhoehte Wohnraummiete dreistufig, Mietersicht — prüfe eine laufende oder bei Vertragsschluss, Operationalisiert die Prüfung der ortsueblichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

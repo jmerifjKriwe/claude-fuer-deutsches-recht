@@ -7,7 +7,7 @@ description: "Kaution Abrechnung Kuendigung Vollmacht Laerm im Miet- und Wohnung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kaution Abrechnung Kuendigung Vollmacht Laerm** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Kaution Abrechnung, Kündigungsform/Vollmacht/Zugang, Lärm/Geruch/Störung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kaution Abrechnung Kuendigung Vollmacht Laerm** ordnet den Fall über die tragenden Prüffelder: Kaution Abrechnung, Kündigungsform/Vollmacht/Zugang, Lärm/Geruch/Störung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

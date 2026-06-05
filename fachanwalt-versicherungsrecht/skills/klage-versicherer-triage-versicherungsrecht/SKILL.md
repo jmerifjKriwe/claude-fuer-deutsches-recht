@@ -7,7 +7,7 @@ description: "Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt V
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klage Versicherer Triage Versicherungsrecht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klage Versicherer Triage Versicherungsrecht** ordnet den Fall über die tragenden Prüffelder: Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

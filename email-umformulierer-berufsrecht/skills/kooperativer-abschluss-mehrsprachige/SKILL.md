@@ -7,7 +7,7 @@ description: "Kooperativer Abschluss Mehrsprachige im Plugin Email Umformulierer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kooperativer Abschluss Mehrsprachige** als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht. Im Mittelpunkt steht die Prüfung von E-Mail oder Schreiben mit kooperativem und, Anwaltskorrespondenz in einer anderen Sprache, Korrespondenz von Notaren und Notarinnen auf. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kooperativer Abschluss Mehrsprachige** ordnet den Fall über die tragenden Prüffelder: E-Mail oder Schreiben mit kooperativem und, Anwaltskorrespondenz in einer anderen Sprache, Korrespondenz von Notaren und Notarinnen auf. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

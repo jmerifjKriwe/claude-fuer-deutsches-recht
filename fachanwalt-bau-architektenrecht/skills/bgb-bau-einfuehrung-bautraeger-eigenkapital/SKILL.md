@@ -7,7 +7,7 @@ description: "BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt B
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BGB BAU Einfuehrung Bautraeger Eigenkapital** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von BGB, Bau- und Architektenrecht einfuehrend, Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BGB BAU Einfuehrung Bautraeger Eigenkapital** ordnet den Fall über die tragenden Prüffelder: BGB, Bau- und Architektenrecht einfuehrend, Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

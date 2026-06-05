@@ -7,7 +7,7 @@ description: "Stand Technik Uspto Interessen im Plugin Patentrecherche: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stand Technik Uspto Interessen** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche. Im Mittelpunkt steht die Prüfung von Stand, Technik, USPTO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stand Technik Uspto Interessen** ordnet den Fall über die tragenden Prüffelder: Stand, Technik, USPTO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

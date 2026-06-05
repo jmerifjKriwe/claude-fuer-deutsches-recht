@@ -7,7 +7,7 @@ description: "AGB Einbeziehung Amtlicher ZPO Anfechtung im Plugin Bgb At Pruefer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AGB Einbeziehung Amtlicher ZPO Anfechtung** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB, Amtlicher Normcheck für BGB-AT-Fälle, Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AGB Einbeziehung Amtlicher ZPO Anfechtung** ordnet den Fall über die tragenden Prüffelder: Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB, Amtlicher Normcheck für BGB-AT-Fälle, Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

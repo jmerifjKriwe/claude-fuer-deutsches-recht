@@ -7,7 +7,7 @@ description: "Selbststaendige Lehrer Sozialgericht Klage im Sozialversicherungss
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Selbststaendige Lehrer Sozialgericht Klage** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft rentenversicherungspflichtige selbständige Lehrer und, Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Ver und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Selbststaendige Lehrer Sozialgericht Klage** ordnet den Fall über die tragenden Prüffelder: Prüft rentenversicherungspflichtige selbständige Lehrer und, Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Ver. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

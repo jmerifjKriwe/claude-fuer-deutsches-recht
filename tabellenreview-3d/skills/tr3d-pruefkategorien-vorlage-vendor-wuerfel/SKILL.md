@@ -7,7 +7,7 @@ description: "Tr3d Pruefkategorien Vorlage Vendor Wuerfel im Plugin Tabellenrevi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tr3d Pruefkategorien Vorlage Vendor Wuerfel** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Bauleiter Pruefkategorien fuer Insolvenztabellenreview, Vorlagetabelle für Lieferanten-Onboarding-Review im, 3D-Wuerfelstruktur für den Tabellenreview aufbauen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tr3d Pruefkategorien Vorlage Vendor Wuerfel** ordnet den Fall über die tragenden Prüffelder: Bauleiter Pruefkategorien fuer Insolvenztabellenreview, Vorlagetabelle für Lieferanten-Onboarding-Review im, 3D-Wuerfelstruktur für den Tabellenreview aufbauen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

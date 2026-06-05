@@ -7,7 +7,7 @@ description: "Security Procurement Training Management im NIS2-Cybersecurity-Com
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Security Procurement Training Management** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von Sa, Prüft Security-Schulung der Leitung und Mitarbeitenden und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Security Procurement Training Management** ordnet den Fall über die tragenden Prüffelder: Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von Sa, Prüft Security-Schulung der Leitung und Mitarbeitenden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

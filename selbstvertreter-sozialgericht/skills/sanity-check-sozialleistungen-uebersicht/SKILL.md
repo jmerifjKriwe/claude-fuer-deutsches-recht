@@ -7,7 +7,7 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sanity Check Sozialleistungen Uebersicht** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sanity Check Sozialleistungen Uebersicht** ordnet den Fall über die tragenden Prüffelder: Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

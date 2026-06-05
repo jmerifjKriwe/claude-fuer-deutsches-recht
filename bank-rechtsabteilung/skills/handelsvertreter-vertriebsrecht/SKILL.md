@@ -7,7 +7,7 @@ description: "Handelsvertreter Vertriebsrecht im Plugin Bank Rechtsabteilung: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsvertreter Vertriebsrecht** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Handelsvertreter- und Vertriebsrecht für Banken, Hauptversammlung einer Bank rechtlich vorbereiten, Verification of Payee und IBAN-Name-Check prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsvertreter Vertriebsrecht** ordnet den Fall über die tragenden Prüffelder: Handelsvertreter- und Vertriebsrecht für Banken, Hauptversammlung einer Bank rechtlich vorbereiten, Verification of Payee und IBAN-Name-Check prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

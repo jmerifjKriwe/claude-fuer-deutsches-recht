@@ -7,7 +7,7 @@ description: "Insolvenz Schnittstelle Instandhaltung im Zwangsverwaltung (ZVG): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insolvenz Schnittstelle Instandhaltung** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz, Instandhaltung Sicherung und Gefahrenabwehr am, Kommandocenter für Zwangsverwaltung — Triage und Routing zu. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insolvenz Schnittstelle Instandhaltung** ordnet den Fall über die tragenden Prüffelder: Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz, Instandhaltung Sicherung und Gefahrenabwehr am, Kommandocenter für Zwangsverwaltung — Triage und Routing zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

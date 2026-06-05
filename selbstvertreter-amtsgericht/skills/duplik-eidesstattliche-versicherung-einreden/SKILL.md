@@ -7,7 +7,7 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Duplik Eidesstattliche Versicherung Einreden** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüffelder: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

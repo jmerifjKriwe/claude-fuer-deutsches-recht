@@ -7,7 +7,7 @@ description: "Rainmaker Abhaengigkeit Remote Hybrid im Kanzlei-Management: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rainmaker Abhaengigkeit Remote Hybrid** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Erkennt gefährliche Umsatzkonzentration und baut, Regelt Homeoffice, Präsenz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rainmaker Abhaengigkeit Remote Hybrid** ordnet den Fall über die tragenden Prüffelder: Erkennt gefährliche Umsatzkonzentration und baut, Regelt Homeoffice, Präsenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

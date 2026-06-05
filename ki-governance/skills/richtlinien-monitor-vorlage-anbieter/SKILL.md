@@ -7,7 +7,7 @@ description: "Richtlinien Monitor Vorlage Anbieter im KI-Governance: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Richtlinien Monitor Vorlage Anbieter** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von Überwacht die interne KI-Richtlinie auf Abweichungen von, Entwirft eine interne KI-Nutzungsrichtlinie auf Basis, Anbieter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Richtlinien Monitor Vorlage Anbieter** ordnet den Fall über die tragenden Prüffelder: Überwacht die interne KI-Richtlinie auf Abweichungen von, Entwirft eine interne KI-Nutzungsrichtlinie auf Basis, Anbieter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

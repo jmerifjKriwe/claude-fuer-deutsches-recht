@@ -7,7 +7,7 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafr Dysfunk Darlegungslast Empirie Nutzen** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Darlegungs- und Substantiierungslast fuer den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüffelder: Darlegungs- und Substantiierungslast fuer den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

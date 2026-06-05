@@ -7,7 +7,7 @@ description: "Vertrag Beauftragungsumfang Vertragliche im HOAI-Leistungsphasen: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertrag Beauftragungsumfang Vertragliche** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI LPH 8 Objektüberwachung - Bauüberwachung und, HOAI LPH 9 Objektbetreuung, HOAI-Praxis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertrag Beauftragungsumfang Vertragliche** ordnet den Fall über die tragenden Prüffelder: HOAI LPH 8 Objektüberwachung - Bauüberwachung und, HOAI LPH 9 Objektbetreuung, HOAI-Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

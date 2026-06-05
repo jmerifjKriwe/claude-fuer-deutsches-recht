@@ -7,7 +7,7 @@ description: "Cross Border Default Judgment im Commercial Courts in Deutschland:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cross Border Default Judgment** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cross Border Default Judgment** ordnet den Fall über die tragenden Prüffelder: Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

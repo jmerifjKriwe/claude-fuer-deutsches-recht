@@ -7,7 +7,7 @@ description: "Timesheet Aktenzeitung Umgang KI im Plugin Kanzlei Allgemein: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Timesheet Aktenzeitung Umgang KI** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Zeiterfassung pro Mandat (Aktenzeitung) — taegliche, Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutacht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Timesheet Aktenzeitung Umgang KI** ordnet den Fall über die tragenden Prüffelder: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche, Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutacht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

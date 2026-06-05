@@ -7,7 +7,7 @@ description: "Hauszitierweise Juristische Kommentar im Zitierweise im deutschen 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hauszitierweise Juristische Kommentar** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Hauszitierweise, Juristische, Kommentar. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hauszitierweise Juristische Kommentar** ordnet den Fall über die tragenden Prüffelder: Hauszitierweise, Juristische, Kommentar. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

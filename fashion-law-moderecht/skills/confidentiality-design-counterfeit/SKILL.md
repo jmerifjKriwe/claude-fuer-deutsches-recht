@@ -7,7 +7,7 @@ description: "Confidentiality Design Counterfeit im Fashion Law (Moderecht): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Confidentiality Design Counterfeit** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Design-Leak und Geheimhaltung in Modeprojekten behandeln, Counterfeit Investigation für Fashion Brands. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Confidentiality Design Counterfeit** ordnet den Fall über die tragenden Prüffelder: Design-Leak und Geheimhaltung in Modeprojekten behandeln, Counterfeit Investigation für Fashion Brands. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

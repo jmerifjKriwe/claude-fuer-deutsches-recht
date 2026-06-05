@@ -7,7 +7,7 @@ description: "Handelsregisteranmeldung Kapitalerhoehung KYC im Plugin Wandeldarl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsregisteranmeldung Kapitalerhoehung KYC** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Handelsregisteranmeldung nach Kapitalerhohung durch, KYC- und AML-Anforderungen bei Wandeldarlehensmandat prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsregisteranmeldung Kapitalerhoehung KYC** ordnet den Fall über die tragenden Prüffelder: Handelsregisteranmeldung nach Kapitalerhohung durch, KYC- und AML-Anforderungen bei Wandeldarlehensmandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Statusamt Funktionsamt Stufenfeststellung im Beamtenrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Statusamt Funktionsamt Stufenfeststellung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Statusamt, Funktionsamt und Dienstposten unterscheiden, Skill zur erstmaligen Stufenfeststellung in der und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Statusamt Funktionsamt Stufenfeststellung** ordnet den Fall über die tragenden Prüffelder: Statusamt, Funktionsamt und Dienstposten unterscheiden, Skill zur erstmaligen Stufenfeststellung in der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

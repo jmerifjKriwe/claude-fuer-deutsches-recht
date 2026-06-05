@@ -7,7 +7,7 @@ description: "Stellungnahme Stgb Strafrechtliche im Plugin Berufsrecht Ki Vertra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stellungnahme Stgb Strafrechtliche** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Stellungnahme, Stgb, Strafrechtliche. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stellungnahme Stgb Strafrechtliche** ordnet den Fall über die tragenden Prüffelder: Stellungnahme, Stgb, Strafrechtliche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

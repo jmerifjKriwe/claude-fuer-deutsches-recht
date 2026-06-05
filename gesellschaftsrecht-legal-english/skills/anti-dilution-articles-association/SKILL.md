@@ -7,7 +7,7 @@ description: "Anti Dilution Articles Association im Plugin Gesellschaftsrecht Le
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anti Dilution Articles Association** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht Legal English. Im Mittelpunkt steht die Prüfung von Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anti Dilution Articles Association** ordnet den Fall über die tragenden Prüffelder: Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

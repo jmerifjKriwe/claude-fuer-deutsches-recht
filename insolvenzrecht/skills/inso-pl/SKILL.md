@@ -7,7 +7,7 @@ description: "Inso PL im Plugin Insolvenzrecht: prüft konkret Mandantenkommunik
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso PL** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin insolvenzrecht, Red-Team Qualitygate im Plugin insolvenzrecht, Insolvenzrechtsverfahren einfuehrend und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso PL** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin insolvenzrecht, Red-Team Qualitygate im Plugin insolvenzrecht, Insolvenzrechtsverfahren einfuehrend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

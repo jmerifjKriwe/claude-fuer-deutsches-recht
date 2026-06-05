@@ -7,7 +7,7 @@ description: "Auslandszeiten EU Ohne im Plugin Rentenpruefer: prüft konkret Aus
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Auslandszeiten EU Ohne** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Auslandszeiten in EU, EWR und Schweiz, Auslandszeiten ohne Sozialversicherungsabkommen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Auslandszeiten EU Ohne** ordnet den Fall über die tragenden Prüffelder: Auslandszeiten in EU, EWR und Schweiz, Auslandszeiten ohne Sozialversicherungsabkommen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

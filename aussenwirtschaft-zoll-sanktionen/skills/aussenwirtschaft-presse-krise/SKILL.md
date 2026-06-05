@@ -7,7 +7,7 @@ description: "Presse Krise im Außenwirtschaftsrecht, Zoll und Sanktionen: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Presse Krise** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Krisenmanagement bei medialer Berichterstattung ueber, Schnittstelle zwischen Produktsicherheitsanforderungen und, Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Presse Krise** ordnet den Fall über die tragenden Prüffelder: Krisenmanagement bei medialer Berichterstattung ueber, Schnittstelle zwischen Produktsicherheitsanforderungen und, Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

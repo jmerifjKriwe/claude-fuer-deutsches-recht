@@ -7,7 +7,7 @@ description: "Mechanical Licensing Motion Picture Music im Plugin Us Copyright R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mechanical Licensing Motion Picture Music** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Prueft MLC-Prozesse, blanket license, unmatched royalties und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mechanical Licensing Motion Picture Music** ordnet den Fall über die tragenden Prüffelder: Prueft MLC-Prozesse, blanket license, unmatched royalties. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

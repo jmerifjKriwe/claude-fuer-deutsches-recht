@@ -7,7 +7,7 @@ description: "Immo Bauliche Veraenderung Energieausweis im Plugin Immobilienrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immo Bauliche Veraenderung Energieausweis** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020), Energieausweis, Gewerbliche Mieter in der Insolvenz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immo Bauliche Veraenderung Energieausweis** ordnet den Fall über die tragenden Prüffelder: Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020), Energieausweis, Gewerbliche Mieter in der Insolvenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

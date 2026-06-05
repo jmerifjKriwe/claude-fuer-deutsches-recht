@@ -7,7 +7,7 @@ description: "Geldwaesche Behoerdenverfahren im Plugin Geldwaeschepraevention Am
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche Behoerdenverfahren** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Red-Team Qualitygate im Plugin, Begleitung von Behoerdenverfahren BaFin-Prüfungen, Behoerdenverfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche Behoerdenverfahren** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin, Begleitung von Behoerdenverfahren BaFin-Prüfungen, Behoerdenverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

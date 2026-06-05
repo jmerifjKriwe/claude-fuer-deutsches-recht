@@ -7,7 +7,7 @@ description: "Associate Nicht Retention Radar BEA ERV im Kanzlei-Management: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Associate Nicht Retention Radar BEA ERV** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Schützt gute Associates vor Dauerbrand, schlechter Führung und falschem Staffing, Erkennt Kündigungsrisiken aus Auslastung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Associate Nicht Retention Radar BEA ERV** ordnet den Fall über die tragenden Prüffelder: Schützt gute Associates vor Dauerbrand, schlechter Führung und falschem Staffing, Erkennt Kündigungsrisiken aus Auslastung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

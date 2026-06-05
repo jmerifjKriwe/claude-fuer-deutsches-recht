@@ -7,7 +7,7 @@ description: "DB Metadaten Katalog Machine im Plugin Datenbankrecht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Metadaten Katalog Machine** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht für Metadatenkataloge und Thesauri, Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze, Datenbankrecht für Verlage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Metadaten Katalog Machine** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für Metadatenkataloge und Thesauri, Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze, Datenbankrecht für Verlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

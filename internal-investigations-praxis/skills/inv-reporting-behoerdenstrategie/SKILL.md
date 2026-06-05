@@ -7,7 +7,7 @@ description: "INV Reporting Behoerdenstrategie im Internal Investigations: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Reporting Behoerdenstrategie** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Strukturiert den Abschlussbericht einer Internal, Privile, Entwickelt die Behördenstrategie für Self-Reporting an BaFin. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Reporting Behoerdenstrategie** ordnet den Fall über die tragenden Prüffelder: Strukturiert den Abschlussbericht einer Internal, Privile, Entwickelt die Behördenstrategie für Self-Reporting an BaFin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

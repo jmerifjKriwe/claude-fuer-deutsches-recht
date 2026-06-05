@@ -7,7 +7,7 @@ description: "Insolvenzvermerk Registereintrag im Handelsregister-Praxis: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insolvenzvermerk Registereintrag** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Prüft Eintragung von Eröffnung, Eigenverwaltung, Aufhebung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insolvenzvermerk Registereintrag** ordnet den Fall über die tragenden Prüffelder: Prüft Eintragung von Eröffnung, Eigenverwaltung, Aufhebung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

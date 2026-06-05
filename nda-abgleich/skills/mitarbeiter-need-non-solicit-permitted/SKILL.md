@@ -7,7 +7,7 @@ description: "Mitarbeiter Need NON Solicit Permitted im NDA-Abgleich: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mitarbeiter Need NON Solicit Permitted** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von Mitarbeiter und Need-to-Know, Non-Solicit in NDA kartellrechtlich pruefen, Permitted Disclosure. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mitarbeiter Need NON Solicit Permitted** ordnet den Fall über die tragenden Prüffelder: Mitarbeiter und Need-to-Know, Non-Solicit in NDA kartellrechtlich pruefen, Permitted Disclosure. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Faevvollzug Gegnerische Grenzueberschreitende** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Faevvollzug Gegnerische Grenzueberschreitende** ordnet den Fall über die tragenden Prüffelder: Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

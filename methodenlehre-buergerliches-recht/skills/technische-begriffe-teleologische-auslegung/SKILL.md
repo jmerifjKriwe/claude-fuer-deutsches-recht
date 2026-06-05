@@ -7,7 +7,7 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Technische Begriffe Teleologische Auslegung** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Technische Begriffe Teleologische Auslegung** ordnet den Fall über die tragenden Prüffelder: Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

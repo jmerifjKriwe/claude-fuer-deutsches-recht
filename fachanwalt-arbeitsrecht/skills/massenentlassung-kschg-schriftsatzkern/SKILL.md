@@ -7,7 +7,7 @@ description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeit
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Massenentlassung Kschg Schriftsatzkern** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Massenentlassung, Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollkl. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Massenentlassung Kschg Schriftsatzkern** ordnet den Fall über die tragenden Prüffelder: Massenentlassung, Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollkl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

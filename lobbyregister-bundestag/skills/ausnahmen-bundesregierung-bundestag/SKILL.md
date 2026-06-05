@@ -7,7 +7,7 @@ description: "Ausnahmen Bundesregierung Bundestag im Lobbyregister Bundestag: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ausnahmen Bundesregierung Bundestag** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Prüft Ausnahmen bei Interessenvertretung gegenüber, Prüft die Ausnahmen von der Registrierungspflicht bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ausnahmen Bundesregierung Bundestag** ordnet den Fall über die tragenden Prüffelder: Prüft Ausnahmen bei Interessenvertretung gegenüber, Prüft die Ausnahmen von der Registrierungspflicht bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

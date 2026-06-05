@@ -7,7 +7,7 @@ description: "Steuer Sage Buchhalter BWA Sanierungsgewinn 3A Estg IV im Steuerre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Sage Buchhalter BWA Sanierungsgewinn 3A Estg IV** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Sage Buchhalter BWA-Konfiguration, Tatbestandsmerkmale des § 3a EStG, Abgrenzung unternehmensbezogene Sanierung gegen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Sage Buchhalter BWA Sanierungsgewinn 3A Estg IV** ordnet den Fall über die tragenden Prüffelder: Sage Buchhalter BWA-Konfiguration, Tatbestandsmerkmale des § 3a EStG, Abgrenzung unternehmensbezogene Sanierung gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

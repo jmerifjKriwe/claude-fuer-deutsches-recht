@@ -7,7 +7,7 @@ description: "Unfallversicherung Invaliditaet Vers im Plugin Versicherungsrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Unfallversicherung Invaliditaet Vers** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Private Unfallversicherung, Fristen und Ausschlussrisiken im Versicherungsrecht, Rechtsschutzversicherung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Unfallversicherung Invaliditaet Vers** ordnet den Fall über die tragenden Prüffelder: Private Unfallversicherung, Fristen und Ausschlussrisiken im Versicherungsrecht, Rechtsschutzversicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

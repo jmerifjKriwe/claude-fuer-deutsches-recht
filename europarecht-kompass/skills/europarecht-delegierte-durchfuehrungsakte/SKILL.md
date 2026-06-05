@@ -7,7 +7,7 @@ description: "Delegierte Durchfuehrungsakte im Europarecht: prüft konkret Deleg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Delegierte Durchfuehrungsakte** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Delegierte Rechtsakte und Durchführungsrechtsakte der EU, Typische deutsche Denkfehler im Umgang mit EU-Recht, Europaeisches Gesetzgebungsverfahren und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Delegierte Durchfuehrungsakte** ordnet den Fall über die tragenden Prüffelder: Delegierte Rechtsakte und Durchführungsrechtsakte der EU, Typische deutsche Denkfehler im Umgang mit EU-Recht, Europaeisches Gesetzgebungsverfahren und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

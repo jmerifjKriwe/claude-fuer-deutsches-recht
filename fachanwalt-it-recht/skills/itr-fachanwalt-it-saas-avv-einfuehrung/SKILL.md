@@ -7,7 +7,7 @@ description: "ITR Fachanwalt IT Saas AVV Einfuehrung im Plugin Fachanwalt It Rec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ITR Fachanwalt IT Saas AVV Einfuehrung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder, SaaS-Vertrag mit AVV nach Art, IT-Recht einfuehrend und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ITR Fachanwalt IT Saas AVV Einfuehrung** ordnet den Fall über die tragenden Prüffelder: Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder, SaaS-Vertrag mit AVV nach Art, IT-Recht einfuehrend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

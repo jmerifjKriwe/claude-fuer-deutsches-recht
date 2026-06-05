@@ -7,7 +7,7 @@ description: "Luft Airline Local Dashboard Bauen im Plugin Luftrecht Flughafenre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Airline Local Dashboard Bauen** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Kanzlei oder Mandant braucht operatives Airline-Dashboard, Anwalt schreibt Mandantenmemo fuer Airline zu komplexem und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Airline Local Dashboard Bauen** ordnet den Fall über die tragenden Prüffelder: Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Kanzlei oder Mandant braucht operatives Airline-Dashboard, Anwalt schreibt Mandantenmemo fuer Airline zu komplexem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

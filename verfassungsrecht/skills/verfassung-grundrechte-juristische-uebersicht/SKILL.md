@@ -7,7 +7,7 @@ description: "Verfassung Grundrechte Juristische Uebersicht im Plugin Verfassung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verfassung Grundrechte Juristische Uebersicht** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Grundrechtsfaehigkeit juristischer Personen Art, Grundrechte des GG Ueberblick, Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verfassung Grundrechte Juristische Uebersicht** ordnet den Fall über die tragenden Prüffelder: Grundrechtsfaehigkeit juristischer Personen Art, Grundrechte des GG Ueberblick, Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

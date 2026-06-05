@@ -1,13 +1,13 @@
 ---
 name: vorher-nachher
-description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht: Dieser Skill arbeitet Vorher Nachher als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Vorher Nachher
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Vorher Nachher** als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Vorher Nachher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

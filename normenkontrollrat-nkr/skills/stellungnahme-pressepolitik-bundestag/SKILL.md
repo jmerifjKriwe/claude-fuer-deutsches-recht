@@ -7,7 +7,7 @@ description: "Stellungnahme Pressepolitik Bundestag im Plugin Normenkontrollrat 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stellungnahme Pressepolitik Bundestag** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen, Vorbereitung einer Anhoerung im federfuehrenden Ausschuss. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stellungnahme Pressepolitik Bundestag** ordnet den Fall über die tragenden Prüffelder: Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen, Vorbereitung einer Anhoerung im federfuehrenden Ausschuss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Foreign Direct Freistellung ART im Kartellrecht (Marktabgrenzung):
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Foreign Direct Freistellung ART** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von FDI und Antitrust Schnittstelle, Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil, zur strukturierten Aufnahme und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Foreign Direct Freistellung ART** ordnet den Fall über die tragenden Prüffelder: FDI und Antitrust Schnittstelle, Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil, zur strukturierten Aufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

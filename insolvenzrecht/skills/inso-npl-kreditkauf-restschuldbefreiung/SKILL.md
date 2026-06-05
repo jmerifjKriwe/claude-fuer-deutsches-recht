@@ -7,7 +7,7 @@ description: "Inso NPL Kreditkauf Restschuldbefreiung im Plugin Insolvenzrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso NPL Kreditkauf Restschuldbefreiung** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Prüft Kreditkauf notleidender Darlehen vor und im, Restschuldbefreiung Verbraucher und Unternehmer, SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso NPL Kreditkauf Restschuldbefreiung** ordnet den Fall über die tragenden Prüffelder: Prüft Kreditkauf notleidender Darlehen vor und im, Restschuldbefreiung Verbraucher und Unternehmer, SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Externe Meldung Externes BFJ FAQ Mitarbeiter im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Externe Meldung Externes BFJ FAQ Mitarbeiter** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft externe Meldung beim Bundesamt für Justiz und andere, Bereitet Kommunikation mit externer Meldestelle vor, Schreibt verständliche Mitarbeiter-FAQ und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Externe Meldung Externes BFJ FAQ Mitarbeiter** ordnet den Fall über die tragenden Prüffelder: Prüft externe Meldung beim Bundesamt für Justiz und andere, Bereitet Kommunikation mit externer Meldestelle vor, Schreibt verständliche Mitarbeiter-FAQ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

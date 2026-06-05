@@ -7,7 +7,7 @@ description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spez
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Agrar Tierhaltung Erstgespraech** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Agrar Tierhaltung Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

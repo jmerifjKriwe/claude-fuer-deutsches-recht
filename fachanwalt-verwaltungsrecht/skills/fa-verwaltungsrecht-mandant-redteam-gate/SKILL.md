@@ -7,7 +7,7 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FA Verwaltungsrecht Mandant Redteam Gate** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FA Verwaltungsrecht Mandant Redteam Gate** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

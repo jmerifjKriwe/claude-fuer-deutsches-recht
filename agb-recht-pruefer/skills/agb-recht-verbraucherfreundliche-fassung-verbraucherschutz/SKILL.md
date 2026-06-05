@@ -7,7 +7,7 @@ description: "Verbraucherfreundliche Fassung Verbraucherschutz im AGB-Recht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbraucherfreundliche Fassung Verbraucherschutz** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Verbraucherfreundliche Fassung, Einstiegs- und Prüffeld für Verbraucherschutz Schnellcheck, Branchen-Fachmodul für Vereinsbedingungen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbraucherfreundliche Fassung Verbraucherschutz** ordnet den Fall über die tragenden Prüffelder: Verbraucherfreundliche Fassung, Einstiegs- und Prüffeld für Verbraucherschutz Schnellcheck, Branchen-Fachmodul für Vereinsbedingungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

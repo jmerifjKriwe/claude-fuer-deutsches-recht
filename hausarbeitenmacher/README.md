@@ -264,6 +264,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `strafrecht-zivilrecht-rechtswidrigkeit` | Strafrecht Zivilrecht Rechtswidrigkeit im Juristische Hausarbeit: prüft konkret Strafrecht, Zivilrecht, Student prüft Strafbarkeit in der Hausarbeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `strategie-fehlerkatalog` | Strategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `subsumtion-schritt-verfassungsrecht` | Subsumtion Schritt Verfassungsrecht im Juristische Hausarbeit: prüft konkret Student uebrt die Subsumtion Schritt für Schritt, Student prüft Grundrechte in der Hausarbeit, Zitierweise für juristische Hausarbeiten mit strikter. Liefert pr... |
-| `zivilrecht-anspruchsgrundlagen` | Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit: Dieser Skill arbeitet Zivilrecht Anspruchsgrundlagen als zusammenhängenden Arbeitsgang im Plugin Hausarbeitenmacher ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewün... |
+| `zivilrecht-anspruchsgrundlagen` | Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

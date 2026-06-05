@@ -7,7 +7,7 @@ description: "Risikoanalyse Geldwaesche Bussgeld im Plugin Geldwaeschepraeventio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Risikoanalyse Geldwaesche Bussgeld** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Risikoanalyse, Strukturierung von Bußgeldriskien Geschäftsleiterhaftung, Sanktionsscreening von Kunden Transaktionen und Beteiligten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Risikoanalyse Geldwaesche Bussgeld** ordnet den Fall über die tragenden Prüffelder: Risikoanalyse, Strukturierung von Bußgeldriskien Geschäftsleiterhaftung, Sanktionsscreening von Kunden Transaktionen und Beteiligten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

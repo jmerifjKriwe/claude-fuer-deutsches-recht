@@ -7,7 +7,7 @@ description: "Gmbh CO Gruppenfeststellung Gleichartige im Sozialversicherungssta
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gmbh CO Gruppenfeststellung Gleichartige** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft Status in GmbH & Co, Komplementär-GmbH, Kommanditistenrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gmbh CO Gruppenfeststellung Gleichartige** ordnet den Fall über die tragenden Prüffelder: Prüft Status in GmbH & Co, Komplementär-GmbH, Kommanditistenrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

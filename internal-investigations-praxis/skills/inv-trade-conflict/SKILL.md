@@ -7,7 +7,7 @@ description: "INV Trade Conflict im Internal Investigations: prüft konkret Unte
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Trade Conflict** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Untersucht Geheimnisverrat und Trade-Secret-Leaks –, § 17 UWG a.F, Untersucht Interessenkonflikte von Mitarbeitern und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Trade Conflict** ordnet den Fall über die tragenden Prüffelder: Untersucht Geheimnisverrat und Trade-Secret-Leaks –, § 17 UWG a.F, Untersucht Interessenkonflikte von Mitarbeitern und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

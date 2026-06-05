@@ -7,7 +7,7 @@ description: "Landesliste Bundestag Landesrecht im Parteienrecht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Landesliste Bundestag Landesrecht** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Begleitet Landeslistenaufstellung, Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesla. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Landesliste Bundestag Landesrecht** ordnet den Fall über die tragenden Prüffelder: Begleitet Landeslistenaufstellung, Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesla. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

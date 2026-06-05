@@ -7,7 +7,7 @@ description: "Fran Systemwechsel Rebranding Franchise M im Franchiserecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Systemwechsel Rebranding Franchise M** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Systemwechsel und Rebranding im Franchiserecht abwickeln, M-und-A-Due-Diligence für Franchisesysteme, Compliance-Dashboard für Franchisegeber aufbauen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Systemwechsel Rebranding Franchise M** ordnet den Fall über die tragenden Prüffelder: Systemwechsel und Rebranding im Franchiserecht abwickeln, M-und-A-Due-Diligence für Franchisesysteme, Compliance-Dashboard für Franchisegeber aufbauen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

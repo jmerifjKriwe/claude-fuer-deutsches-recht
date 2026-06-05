@@ -7,7 +7,7 @@ description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freiheit Privatautonomie Freund Feind** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freiheit Privatautonomie Freund Feind** ordnet den Fall über die tragenden Prüffelder: Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Dienstunfall Folgekosten Disziplinar im Beamtenrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dienstunfall Folgekosten Disziplinar** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Dienstunfall-Folgekosten und Unfallfürsorge, Maßnahmebemessung im Disziplinarrecht, Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dienstunfall Folgekosten Disziplinar** ordnet den Fall über die tragenden Prüffelder: Dienstunfall-Folgekosten und Unfallfürsorge, Maßnahmebemessung im Disziplinarrecht, Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

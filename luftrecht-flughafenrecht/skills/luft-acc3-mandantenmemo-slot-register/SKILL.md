@@ -7,7 +7,7 @@ description: "Luft Acc3 Mandantenmemo Slot Register im Plugin Luftrecht Flughafe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Acc3 Mandantenmemo Slot Register** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Anwalt schreibt Mandantenmemo fuer ACC3-Carrier zu, Mandant will Slot-Bestand einer Airline fuer Sommer- oder, Kreditgeber fragt ob Slots als Sicherheit dienen koennen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Acc3 Mandantenmemo Slot Register** ordnet den Fall über die tragenden Prüffelder: Anwalt schreibt Mandantenmemo fuer ACC3-Carrier zu, Mandant will Slot-Bestand einer Airline fuer Sommer- oder, Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

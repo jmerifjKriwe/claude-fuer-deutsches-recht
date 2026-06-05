@@ -7,7 +7,7 @@ description: "Aufsatz Interessen Beckrs Blindzitate im Zitierweise im deutschen 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufsatz Interessen Beckrs Blindzitate** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Aufsatz, Beckrs, Blindzitate. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufsatz Interessen Beckrs Blindzitate** ordnet den Fall über die tragenden Prüffelder: Aufsatz, Beckrs, Blindzitate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

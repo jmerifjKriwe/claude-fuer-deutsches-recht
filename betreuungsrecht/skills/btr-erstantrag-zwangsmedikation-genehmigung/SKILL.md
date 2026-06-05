@@ -7,7 +7,7 @@ description: "BTR Erstantrag Zwangsmedikation Genehmigung im Plugin Betreuungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BTR Erstantrag Zwangsmedikation Genehmigung** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Erstantrag auf Betreuung beim Amtsgericht, Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach, Scan- und Ablagefür Betreuungsakten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BTR Erstantrag Zwangsmedikation Genehmigung** ordnet den Fall über die tragenden Prüffelder: Erstantrag auf Betreuung beim Amtsgericht, Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach, Scan- und Ablagefür Betreuungsakten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

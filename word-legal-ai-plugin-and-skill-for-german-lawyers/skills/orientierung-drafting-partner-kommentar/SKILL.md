@@ -7,7 +7,7 @@ description: "Orientierung Drafting Partner Kommentar im Word-Legal-AI für Anw�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Orientierung Drafting Partner Kommentar** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Einstiegs- und Triage-Skill für juristisches Drafting, Stadiu, Setzt knappe Partnerkommentare und Randnotizen in echte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Orientierung Drafting Partner Kommentar** ordnet den Fall über die tragenden Prüffelder: Einstiegs- und Triage-Skill für juristisches Drafting, Stadiu, Setzt knappe Partnerkommentare und Randnotizen in echte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

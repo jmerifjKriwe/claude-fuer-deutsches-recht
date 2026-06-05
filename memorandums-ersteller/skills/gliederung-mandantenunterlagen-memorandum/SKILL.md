@@ -7,7 +7,7 @@ description: "Gliederung Mandantenunterlagen Memorandum im Memorandum-Erstellung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gliederung Mandantenunterlagen Memorandum** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Gliederung, Mandantenunterlagen, Memorandum. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gliederung Mandantenunterlagen Memorandum** ordnet den Fall über die tragenden Prüffelder: Gliederung, Mandantenunterlagen, Memorandum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Verspaetung Ticket Fluginformationen im Fluggastrechte: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verspaetung Ticket Fluginformationen** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Verspaetung, Erfasst die Falldaten aus hochgeladenen Tickets, Erzeugt Vollmachten für Mitreisende (Familienmitglieder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verspaetung Ticket Fluginformationen** ordnet den Fall über die tragenden Prüffelder: Verspaetung, Erfasst die Falldaten aus hochgeladenen Tickets, Erzeugt Vollmachten für Mitreisende (Familienmitglieder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

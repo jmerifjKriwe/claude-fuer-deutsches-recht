@@ -7,7 +7,7 @@ description: "Insol Sanierungsgewinn Uebertragende im Plugin Insolvenzrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insol Sanierungsgewinn Uebertragende** als zusammenhängenden Arbeitsgang im Plugin Insolvenzrecht. Im Mittelpunkt steht die Prüfung von Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff, Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als, Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insol Sanierungsgewinn Uebertragende** ordnet den Fall über die tragenden Prüffelder: Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff, Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als, Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

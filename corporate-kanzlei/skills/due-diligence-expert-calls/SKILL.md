@@ -7,7 +7,7 @@ description: "DUE Diligence Expert Calls im Corporate-Kanzlei-Praxis: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DUE Diligence Expert Calls** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von DD-Reporting, Expert Calls und Transkript-Auswertung in M&A-Due-Diligence. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DUE Diligence Expert Calls** ordnet den Fall über die tragenden Prüffelder: DD-Reporting, Expert Calls und Transkript-Auswertung in M&A-Due-Diligence. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

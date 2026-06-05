@@ -7,7 +7,7 @@ description: "China Incident Response Media AND Public im Plugin Festlandchina W
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **China Incident Response Media AND Public** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Incident Response bei Vorfällen in China-Betrieb, Medien und Public Affairs im China-Kontext, Verhandlungs-Playbook China und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**China Incident Response Media AND Public** ordnet den Fall über die tragenden Prüffelder: Incident Response bei Vorfällen in China-Betrieb, Medien und Public Affairs im China-Kontext, Verhandlungs-Playbook China. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

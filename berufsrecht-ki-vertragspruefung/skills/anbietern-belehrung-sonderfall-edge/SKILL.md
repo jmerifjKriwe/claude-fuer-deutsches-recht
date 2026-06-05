@@ -7,7 +7,7 @@ description: "Anbietern Belehrung Sonderfall Edge im Plugin Berufsrecht Ki Vertr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anbietern Belehrung Sonderfall Edge** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Anbietern, Belehrung, Berufsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anbietern Belehrung Sonderfall Edge** ordnet den Fall über die tragenden Prüffelder: Anbietern, Belehrung, Berufsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

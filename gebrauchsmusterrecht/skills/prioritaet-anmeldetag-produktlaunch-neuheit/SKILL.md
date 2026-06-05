@@ -7,7 +7,7 @@ description: "Prioritaet Anmeldetag Produktlaunch Neuheit im Gebrauchsmusterrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Prioritaet Anmeldetag Produktlaunch Neuheit** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen, Produktlaunch und Neuheit koordinieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Prioritaet Anmeldetag Produktlaunch Neuheit** ordnet den Fall über die tragenden Prüffelder: Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen, Produktlaunch und Neuheit koordinieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

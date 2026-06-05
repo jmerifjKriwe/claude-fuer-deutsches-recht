@@ -7,7 +7,7 @@ description: "Inso P020 Auskunfts P021 Anordnung P022 im Insolvenz- und Sanierun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P020 Auskunfts P021 Anordnung P022** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 20 InsO (Auskunfts- und Mitwirkungspflicht im, § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen, § 22 InsO (Rechtsstellung des vorläufigen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P020 Auskunfts P021 Anordnung P022** ordnet den Fall über die tragenden Prüffelder: § 20 InsO (Auskunfts- und Mitwirkungspflicht im, § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen, § 22 InsO (Rechtsstellung des vorläufigen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

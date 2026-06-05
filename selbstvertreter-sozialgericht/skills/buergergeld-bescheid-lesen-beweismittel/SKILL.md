@@ -7,7 +7,7 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Buergergeld Bescheid Lesen Beweismittel** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Buergergeld Bescheid Lesen Beweismittel** ordnet den Fall über die tragenden Prüffelder: Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

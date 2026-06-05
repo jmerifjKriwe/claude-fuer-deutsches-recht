@@ -7,7 +7,7 @@ description: "Vergleich Verjaehrung Vermittlungsvertreter im Handelsvertreterrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vergleich Verjaehrung Vermittlungsvertreter** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Unterstützt bei der Aushandlung und Gestaltung von, Prüft Verjährungsfristen im Handelsvertreterrecht, Analysiert die Rechtsstellung des reinen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vergleich Verjaehrung Vermittlungsvertreter** ordnet den Fall über die tragenden Prüffelder: Unterstützt bei der Aushandlung und Gestaltung von, Prüft Verjährungsfristen im Handelsvertreterrecht, Analysiert die Rechtsstellung des reinen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

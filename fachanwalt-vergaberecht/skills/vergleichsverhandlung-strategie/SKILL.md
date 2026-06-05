@@ -7,7 +7,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vergleichsverhandlung Strategie** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüffelder: Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

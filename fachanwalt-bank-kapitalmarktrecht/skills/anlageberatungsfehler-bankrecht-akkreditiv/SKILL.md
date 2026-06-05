@@ -7,7 +7,7 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anlageberatungsfehler Bankrecht Akkreditiv** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüffelder: Prüffeld für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

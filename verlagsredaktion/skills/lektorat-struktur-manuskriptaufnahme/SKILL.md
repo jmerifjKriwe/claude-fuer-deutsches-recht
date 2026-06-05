@@ -7,7 +7,7 @@ description: "Lektorat Struktur Manuskriptaufnahme im Verlagsredaktion (Recht): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lektorat Struktur Manuskriptaufnahme** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Redigiert Struktur, Argumentationsgang, Gliederung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lektorat Struktur Manuskriptaufnahme** ordnet den Fall über die tragenden Prüffelder: Redigiert Struktur, Argumentationsgang, Gliederung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

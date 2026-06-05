@@ -7,7 +7,7 @@ description: "Discounter Graumarkt Dpma Bpatg Widerspruch im Plugin Markenrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Discounter Graumarkt Dpma Bpatg Widerspruch** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen, DPMA- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Discounter Graumarkt Dpma Bpatg Widerspruch** ordnet den Fall über die tragenden Prüffelder: Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen, DPMA-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

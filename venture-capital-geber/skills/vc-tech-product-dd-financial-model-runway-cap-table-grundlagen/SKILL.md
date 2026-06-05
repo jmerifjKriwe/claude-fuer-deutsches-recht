@@ -7,7 +7,7 @@ description: "VC Tech Product DD Financial Model Runway CAP Table Grundlagen im 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Tech Product DD Financial Model Runway CAP Table Grundlagen** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Hilft jungen VCs, Produktreife, Roadmap und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Tech Product DD Financial Model Runway CAP Table Grundlagen** ordnet den Fall über die tragenden Prüffelder: Hilft jungen VCs, Produktreife, Roadmap. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

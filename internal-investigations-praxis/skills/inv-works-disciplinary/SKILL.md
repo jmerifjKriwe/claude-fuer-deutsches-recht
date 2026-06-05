@@ -7,7 +7,7 @@ description: "INV Works Disciplinary im Internal Investigations: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Works Disciplinary** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Löst Konflikte mit dem Betriebsrat während einer Internal, Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um –, Versetzun. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Works Disciplinary** ordnet den Fall über die tragenden Prüffelder: Löst Konflikte mit dem Betriebsrat während einer Internal, Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um –, Versetzun. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

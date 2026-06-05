@@ -7,7 +7,7 @@ description: "Spez Arbeitsrecht Aufopferung im Preußisches Allgemeines Landrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spez Arbeitsrecht Aufopferung** als zusammenhängenden Arbeitsgang im Preußisches Allgemeines Landrecht. Im Mittelpunkt steht die Prüfung von Vorlaeufer des modernen Arbeitsrechts im ALR, Aufopferungsanspruch — Fortwirkung im BGB und im modernen, Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spez Arbeitsrecht Aufopferung** ordnet den Fall über die tragenden Prüffelder: Vorlaeufer des modernen Arbeitsrechts im ALR, Aufopferungsanspruch — Fortwirkung im BGB und im modernen, Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Inso P270f Anordnung P270g Eigenverwaltung im Insolvenz- und Sanie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P270f Anordnung P270g Eigenverwaltung** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen, § 270g InsO (Eigenverwaltung bei gruppenangehörigen, § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P270f Anordnung P270g Eigenverwaltung** ordnet den Fall über die tragenden Prüffelder: § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen, § 270g InsO (Eigenverwaltung bei gruppenangehörigen, § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

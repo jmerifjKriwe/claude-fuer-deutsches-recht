@@ -7,7 +7,7 @@ description: "Verwr Verwaltungsverfahren Eilantrag ABS im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verwr Verwaltungsverfahren Eilantrag ABS** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verwr Verwaltungsverfahren Eilantrag ABS** ordnet den Fall über die tragenden Prüffelder: Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

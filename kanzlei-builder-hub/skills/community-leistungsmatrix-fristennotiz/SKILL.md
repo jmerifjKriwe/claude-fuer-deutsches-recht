@@ -7,7 +7,7 @@ description: "Community Leistungsmatrix Fristennotiz im Kanzlei-Aufbau: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Community Leistungsmatrix Fristennotiz** als zusammenhängenden Arbeitsgang im Kanzlei-Aufbau. Im Mittelpunkt steht die Prüfung von Community, Leistungsmatrix, Plugins und Skills in der KI-Anwaltskanzlei automatisch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Community Leistungsmatrix Fristennotiz** ordnet den Fall über die tragenden Prüffelder: Community, Leistungsmatrix, Plugins und Skills in der KI-Anwaltskanzlei automatisch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

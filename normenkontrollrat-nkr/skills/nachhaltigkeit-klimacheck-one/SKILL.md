@@ -7,7 +7,7 @@ description: "Nachhaltigkeit Klimacheck ONE im Plugin Normenkontrollrat Nkr: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachhaltigkeit Klimacheck ONE** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Fachmodul Nachhaltigkeitspruefung und Klimacheck, One-in-one-out-Regel der Bundesregierung 2015 als. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachhaltigkeit Klimacheck ONE** ordnet den Fall über die tragenden Prüffelder: Fachmodul Nachhaltigkeitspruefung und Klimacheck, One-in-one-out-Regel der Bundesregierung 2015 als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

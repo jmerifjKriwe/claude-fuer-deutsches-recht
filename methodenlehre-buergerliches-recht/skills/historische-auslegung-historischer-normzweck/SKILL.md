@@ -7,7 +7,7 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Historische Auslegung Historischer Normzweck** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Historische Auslegung im deutschen Zivilrecht, Leitet durch die historische Auslegung als notwendigen, Analysiert die institutionellen Folgen von und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Historische Auslegung Historischer Normzweck** ordnet den Fall über die tragenden Prüffelder: Historische Auslegung im deutschen Zivilrecht, Leitet durch die historische Auslegung als notwendigen, Analysiert die institutionellen Folgen von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "INV E Chat im Internal Investigations: prüft konkret Strukturiert
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV E Chat** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Strukturiert den E-Mail-Review in Internal Investigations –, TAR, Sichert und wertet Chat-Kommunikation (Teams. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV E Chat** ordnet den Fall über die tragenden Prüffelder: Strukturiert den E-Mail-Review in Internal Investigations –, TAR, Sichert und wertet Chat-Kommunikation (Teams. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

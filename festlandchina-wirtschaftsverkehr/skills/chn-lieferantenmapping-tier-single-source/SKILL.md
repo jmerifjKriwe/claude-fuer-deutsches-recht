@@ -7,7 +7,7 @@ description: "CHN Lieferantenmapping Tier Single Source im Plugin Festlandchina 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CHN Lieferantenmapping Tier Single Source** als zusammenhängenden Arbeitsgang im Plugin Festlandchina Wirtschaftsverkehr. Im Mittelpunkt steht die Prüfung von Systematisches Lieferantenmapping bis Tier-3/Tier-n für, Bewertung und Minderung von Single-Source-Risiken bei, Planung und Umsetzung von Dual-Sourcing-Strategien und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CHN Lieferantenmapping Tier Single Source** ordnet den Fall über die tragenden Prüffelder: Systematisches Lieferantenmapping bis Tier-3/Tier-n für, Bewertung und Minderung von Single-Source-Risiken bei, Planung und Umsetzung von Dual-Sourcing-Strategien und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgerich
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachgereichter 296a Orientierung** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachgereichter 296a Orientierung** ordnet den Fall über die tragenden Prüffelder: Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Praktikum Praxissemester Proctoring im Prüfungsrecht der Hochschu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Praktikum Praxissemester Proctoring** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft Praktikum, Praxissemester und Anerkennung, Prüft Online-Proctoring und Videoaufsicht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Praktikum Praxissemester Proctoring** ordnet den Fall über die tragenden Prüffelder: Prüft Praktikum, Praxissemester und Anerkennung, Prüft Online-Proctoring und Videoaufsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

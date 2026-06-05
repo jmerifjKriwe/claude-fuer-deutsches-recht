@@ -7,7 +7,7 @@ description: "DRV Selbstcheck Eigene Betriebsstaette im Sozialversicherungsstatu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DRV Selbstcheck Eigene Betriebsstaette** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Nutzt den DRV-Selbstcheck als strukturiertes, Prüft eigene Betriebsstätte, Büro und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DRV Selbstcheck Eigene Betriebsstaette** ordnet den Fall über die tragenden Prüffelder: Nutzt den DRV-Selbstcheck als strukturiertes, Prüft eigene Betriebsstätte, Büro. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "TK Universalservice TK Verwaltungsrecht im Telekommunikationsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Universalservice TK Verwaltungsrecht** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Universaldienst/Mindestversorgung mit, Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Universalservice TK Verwaltungsrecht** ordnet den Fall über die tragenden Prüffelder: Universaldienst/Mindestversorgung mit, Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

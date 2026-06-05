@@ -7,7 +7,7 @@ description: "Berufungsverfahren Professur Gute im Hochschulrecht der Länder: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berufungsverfahren Professur Gute** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Berufungsverfahren für Professuren, Prüft GWP-Verfahren, Ombudsperson und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berufungsverfahren Professur Gute** ordnet den Fall über die tragenden Prüffelder: Prüft Berufungsverfahren für Professuren, Prüft GWP-Verfahren, Ombudsperson. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

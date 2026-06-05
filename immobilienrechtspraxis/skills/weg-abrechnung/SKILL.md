@@ -1,13 +1,13 @@
 ---
 name: weg-abrechnung
-description: "WEG Abrechnung im Plugin Immobilienrechtspraxis: Dieser Skill arbeitet WEG Abrechnung als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "WEG Abrechnung im Plugin Immobilienrechtspraxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # WEG Abrechnung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **WEG Abrechnung** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**WEG Abrechnung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristverlaengerung Laien Oertliche SGG** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristverlaengerung Laien Oertliche SGG** ordnet den Fall über die tragenden Prüffelder: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

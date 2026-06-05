@@ -1,13 +1,13 @@
 ---
 name: wpig-zag
-description: "Wpig ZAG im Plugin Regulatorisches Recht: Dieser Skill arbeitet Wpig ZAG als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht (Sektoren) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wpig ZAG im Plugin Regulatorisches Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wpig ZAG
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wpig ZAG** als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht (Sektoren) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wpig ZAG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

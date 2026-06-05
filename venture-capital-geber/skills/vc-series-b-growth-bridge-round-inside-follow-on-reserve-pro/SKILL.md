@@ -7,7 +7,7 @@ description: "VC Series B Growth Bridge Round Inside Follow ON Reserve PRO im Ve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Series B Growth Bridge Round Inside Follow ON Reserve PRO** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft größere Runden, Internationalisierung, Venture Debt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Series B Growth Bridge Round Inside Follow ON Reserve PRO** ordnet den Fall über die tragenden Prüffelder: Prüft größere Runden, Internationalisierung, Venture Debt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

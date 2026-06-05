@@ -7,7 +7,7 @@ description: "Konkurrentenstreit Professur Kunst im Hochschulrecht der Länder: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Konkurrentenstreit Professur Kunst** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Konkurrentenstreit im Hochschulbereich, Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen, Routet Hochschulrecht in das richtige Bundesland und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Konkurrentenstreit Professur Kunst** ordnet den Fall über die tragenden Prüffelder: Prüft Konkurrentenstreit im Hochschulbereich, Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen, Routet Hochschulrecht in das richtige Bundesland. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

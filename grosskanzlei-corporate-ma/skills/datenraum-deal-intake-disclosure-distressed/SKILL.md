@@ -7,7 +7,7 @@ description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Gro�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenraum Deal Intake Disclosure Distressed** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenraum Deal Intake Disclosure Distressed** ordnet den Fall über die tragenden Prüffelder: KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

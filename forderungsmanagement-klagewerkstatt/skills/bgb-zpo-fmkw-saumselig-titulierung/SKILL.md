@@ -7,7 +7,7 @@ description: "BGB ZPO Fmkw Saumselig Titulierung im Plugin Forderungsmanagement 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BGB ZPO Fmkw Saumselig Titulierung** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement Klagewerkstatt. Im Mittelpunkt steht die Prüfung von BGB/ZPO-Forderungsnormcheck, Spezialfall saeumiges Verfahren und streitiges Verfahren, Leitfaden Titulierung mit Ratenzahlung und Streckung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BGB ZPO Fmkw Saumselig Titulierung** ordnet den Fall über die tragenden Prüffelder: BGB/ZPO-Forderungsnormcheck, Spezialfall saeumiges Verfahren und streitiges Verfahren, Leitfaden Titulierung mit Ratenzahlung und Streckung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

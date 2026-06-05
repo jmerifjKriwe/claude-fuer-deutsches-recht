@@ -135,6 +135,6 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `vorlage-vendor-onboarding-3d` | Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenz... |
 | `wirtschaft-wuerfel-zeilenprompts` | Wirtschaft Wuerfel Zeilenprompts im Plugin Tabellenreview 3D: prüft konkret Wirtschaft, Wuerfel, Zeilenprompts. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `wuerfel-aufbauen` | 3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Ab... |
-| `zeilenprompts-definieren` | Zeilenprompts Definieren im Plugin Tabellenreview 3D: Dieser Skill arbeitet Zeilenprompts Definieren als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Outp... |
+| `zeilenprompts-definieren` | Zeilenprompts Definieren im Plugin Tabellenreview 3D: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

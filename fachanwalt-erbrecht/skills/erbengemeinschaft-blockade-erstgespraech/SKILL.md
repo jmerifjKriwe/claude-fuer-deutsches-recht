@@ -7,7 +7,7 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erbengemeinschaft Blockade Erstgespraech** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Erbengemeinschaft, Erstgespraech im Erbrechtmandat strukturieren und, Erbschaftsausschlagung erlaeutern und Erklärung formulieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erbengemeinschaft Blockade Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Erbengemeinschaft, Erstgespraech im Erbrechtmandat strukturieren und, Erbschaftsausschlagung erlaeutern und Erklärung formulieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

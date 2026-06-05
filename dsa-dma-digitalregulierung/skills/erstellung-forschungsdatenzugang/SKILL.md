@@ -7,7 +7,7 @@ description: "Erstellung Forschungsdatenzugang im DSA/DMA-Digitalregulierung: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erstellung Forschungsdatenzugang** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Erstellung, Forschungsdatenzugang, Gatekeeper. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erstellung Forschungsdatenzugang** ordnet den Fall über die tragenden Prüffelder: Erstellung, Forschungsdatenzugang, Gatekeeper. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

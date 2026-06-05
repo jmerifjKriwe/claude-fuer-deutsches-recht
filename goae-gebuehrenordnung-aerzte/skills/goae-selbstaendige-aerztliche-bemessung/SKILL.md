@@ -7,7 +7,7 @@ description: "Selbstaendige Aerztliche Bemessung im Plugin Goae Gebuehrenordnung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Selbstaendige Aerztliche Bemessung** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip, GOÄ § 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15, GOÄ § 5a Bemessung im Basistarif. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Selbstaendige Aerztliche Bemessung** ordnet den Fall über die tragenden Prüffelder: GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip, GOÄ § 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15, GOÄ § 5a Bemessung im Basistarif. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

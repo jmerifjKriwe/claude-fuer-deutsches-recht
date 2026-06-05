@@ -7,7 +7,7 @@ description: "Tier Eilrechtsschutz Tierhalter im Plugin Tierschutzrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tier Eilrechtsschutz Tierhalter** als zusammenhängenden Arbeitsgang im Plugin Tierschutzrecht. Im Mittelpunkt steht die Prüfung von Tierschutzrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tier Eilrechtsschutz Tierhalter** ordnet den Fall über die tragenden Prüffelder: Tierschutzrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

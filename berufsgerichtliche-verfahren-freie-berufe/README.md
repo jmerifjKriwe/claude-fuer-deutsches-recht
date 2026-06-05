@@ -76,7 +76,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `steuerberater-vorbehaltsaufgabe-kammer` | Steuerberater Vorbehaltsaufgabe Kammer im Berufsgerichtliche Verfahren freier Berufe: prüft konkret Steuerberater Vorbehaltsaufgabe (Verteidigungs- und, Vergleich mit Kammer oder Aufsicht (Präventions- und, Vergleich mit Kammer oder Aufs... |
 | `vermoegensverfall-zulassungswiderruf` | Vermoegensverfall Zulassungswiderruf im Berufsgerichtliche Verfahren freier Berufe: prüft konkret Vermögensverfall und Zulassungswiderruf (Verteidigungs- und, Verschwiegenheit und Cloud-Dienstleister (Präventions- und, Verschwiegenheit u... |
 | `werbung-robe-wirtschaftspruefer` | Werbung Robe Wirtschaftspruefer im Berufsgerichtliche Verfahren freier Berufe: prüft konkret Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort), Wirtschaftsprüfer Qualitätskontrolle (Präventions- und, Wirtschaftsprüfer... |
-| `wirtschaftspruefer-berufsaufsicht` | Wirtschaftspruefer Berufsaufsicht im Berufsgerichtliche Verfahren freier Berufe: Dieser Skill arbeitet Wirtschaftspruefer Berufsaufsicht als zusammenhängenden Arbeitsgang im Plugin Berufsgerichtliche Verfahren Freie Berufe ab — nach Akte... |
+| `wirtschaftspruefer-berufsaufsicht` | Wirtschaftspruefer Berufsaufsicht im Berufsgerichtliche Verfahren freier Berufe: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `wirtschaftspruefer-testat-widerruf` | Wirtschaftspruefer Testat Widerruf im Berufsgerichtliche Verfahren freier Berufe: prüft konkret Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und, Wirtschaftsprüfer Unabhängigkeit (Präventions- und, Wirtschaftsprüfer Unabhängigkeit (... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

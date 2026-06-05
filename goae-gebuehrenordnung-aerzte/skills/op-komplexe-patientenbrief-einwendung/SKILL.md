@@ -7,7 +7,7 @@ description: "OP Komplexe Patientenbrief Einwendung im Plugin Goae Gebuehrenordn
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OP Komplexe Patientenbrief Einwendung** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von OP-Komplexe Narkose Assistenz Zuschläge, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief u. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OP Komplexe Patientenbrief Einwendung** ordnet den Fall über die tragenden Prüffelder: OP-Komplexe Narkose Assistenz Zuschläge, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief u. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Igel Aufklaerung Klageerwiderung im Plugin Goae Gebuehrenordnung A
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Igel Aufklaerung Klageerwiderung** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von IGeL Aufklärung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen medizinische Indikation. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Igel Aufklaerung Klageerwiderung** ordnet den Fall über die tragenden Prüffelder: IGeL Aufklärung Kosteninformation, Klageerwiderung Honorarprozess, Kosmetische Leistungen medizinische Indikation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

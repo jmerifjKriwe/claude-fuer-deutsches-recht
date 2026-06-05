@@ -7,7 +7,7 @@ description: "Extremismus Verdachtsfall Geheimschutz im Bundeswehrrecht / Wehrre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Extremismus Verdachtsfall Geheimschutz** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr, Geheimschutz und Sicherheitsüberprüfung SÜG, Gehorsam Befehl und rechtswidriger Befehl. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Extremismus Verdachtsfall Geheimschutz** ordnet den Fall über die tragenden Prüffelder: Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr, Geheimschutz und Sicherheitsüberprüfung SÜG, Gehorsam Befehl und rechtswidriger Befehl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

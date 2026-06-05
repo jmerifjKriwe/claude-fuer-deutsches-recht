@@ -7,7 +7,7 @@ description: "IPS Gerichtliche Schritte Kommandocenter im Plugin Insolvenzplan S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IPS Gerichtliche Schritte Kommandocenter** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Gerichtliche Verfahrensschritte für Insolvenzplan und, Insolvenzplan- oder StaRUG-Mandat starten und, Steuerliche und bilanzielle Folgen des Plans prüfen damit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IPS Gerichtliche Schritte Kommandocenter** ordnet den Fall über die tragenden Prüffelder: Gerichtliche Verfahrensschritte für Insolvenzplan und, Insolvenzplan- oder StaRUG-Mandat starten und, Steuerliche und bilanzielle Folgen des Plans prüfen damit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

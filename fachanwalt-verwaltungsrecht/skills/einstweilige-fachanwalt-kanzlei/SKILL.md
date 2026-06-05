@@ -7,7 +7,7 @@ description: "Einstweilige Fachanwalt Kanzlei im Plugin Fachanwalt Verwaltungsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einstweilige Fachanwalt Kanzlei** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Einstweilige, Fachanwalt, Kanzlei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einstweilige Fachanwalt Kanzlei** ordnet den Fall über die tragenden Prüffelder: Einstweilige, Fachanwalt, Kanzlei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

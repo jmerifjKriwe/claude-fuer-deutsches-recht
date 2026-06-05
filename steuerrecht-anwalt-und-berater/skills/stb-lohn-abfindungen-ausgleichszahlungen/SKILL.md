@@ -7,7 +7,7 @@ description: "STB Lohn Abfindungen Ausgleichszahlungen im Steuerrecht (Anwalt/Be
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Lohn Abfindungen Ausgleichszahlungen** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG, Altersteilzeit Block-Modell Gleichverteilungsmodell, Betriebliche Altersversorgung bAV Grundlagen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Lohn Abfindungen Ausgleichszahlungen** ordnet den Fall über die tragenden Prüffelder: Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG, Altersteilzeit Block-Modell Gleichverteilungsmodell, Betriebliche Altersversorgung bAV Grundlagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

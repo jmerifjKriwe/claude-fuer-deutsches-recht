@@ -7,7 +7,7 @@ description: "Ifap Dubletten Serienforderungen im Plugin Insolvenzforderungsanme
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Dubletten Serienforderungen** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Dubletten und Serienforderungen in Insolvenzanmeldungen, Formalprüfung Forderungsanmeldung nach § 174 InsO, Anspruchsgrund Betrag und Zinsen der Insolvenzforderung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Dubletten Serienforderungen** ordnet den Fall über die tragenden Prüffelder: Dubletten und Serienforderungen in Insolvenzanmeldungen, Formalprüfung Forderungsanmeldung nach § 174 InsO, Anspruchsgrund Betrag und Zinsen der Insolvenzforderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

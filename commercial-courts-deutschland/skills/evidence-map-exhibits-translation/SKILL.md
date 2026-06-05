@@ -7,7 +7,7 @@ description: "Evidence MAP Exhibits Translation im Commercial Courts in Deutschl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Evidence MAP Exhibits Translation** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Erklärt Mandanten den Unterschied zwischen deutscher, Plant Anlagen, Übersetzungen und Sprache. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Evidence MAP Exhibits Translation** ordnet den Fall über die tragenden Prüffelder: Erklärt Mandanten den Unterschied zwischen deutscher, Plant Anlagen, Übersetzungen und Sprache. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

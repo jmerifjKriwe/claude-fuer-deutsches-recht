@@ -7,7 +7,7 @@ description: "Arzneimittelrisiken Rueckruf Aufsicht im Plugin Apothekenrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arzneimittelrisiken Rueckruf Aufsicht** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Arzneimittelrisiken Rückruf Chargenrückverfolgung, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörun. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arzneimittelrisiken Rueckruf Aufsicht** ordnet den Fall über die tragenden Prüffelder: Arzneimittelrisiken Rückruf Chargenrückverfolgung, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörun. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

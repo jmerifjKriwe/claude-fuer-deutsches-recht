@@ -7,7 +7,7 @@ description: "INV Insurance Press im Internal Investigations: prüft konkret Koo
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Insurance Press** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Koordiniert die Versicherungsmeldung bei Internal, Crime-Ve, Entwickelt die Pressestrategie bei Internal Investigations. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Insurance Press** ordnet den Fall über die tragenden Prüffelder: Koordiniert die Versicherungsmeldung bei Internal, Crime-Ve, Entwickelt die Pressestrategie bei Internal Investigations. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

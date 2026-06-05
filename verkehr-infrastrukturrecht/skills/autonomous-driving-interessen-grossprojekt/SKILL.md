@@ -7,7 +7,7 @@ description: "Autonomous Driving Interessen Grossprojekt im Verkehrs- und Infras
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Autonomous Driving Interessen Grossprojekt** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Autonomous, Driving, Grossprojekt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Autonomous Driving Interessen Grossprojekt** ordnet den Fall über die tragenden Prüffelder: Autonomous, Driving, Grossprojekt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

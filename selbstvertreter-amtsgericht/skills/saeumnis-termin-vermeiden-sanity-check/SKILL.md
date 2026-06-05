@@ -7,7 +7,7 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Saeumnis Termin Vermeiden Sanity Check** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüffelder: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

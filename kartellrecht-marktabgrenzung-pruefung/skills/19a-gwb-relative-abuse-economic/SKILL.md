@@ -7,7 +7,7 @@ description: "19A GWB Relative Abuse Economic im Kartellrecht (Marktabgrenzung):
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **19A GWB Relative Abuse Economic** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von § 19a GWB überragende marktübergreifende Bedeutung, § 20 GWB relative Marktmacht, Relative Marktmacht und Economic Dependence und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**19A GWB Relative Abuse Economic** ordnet den Fall über die tragenden Prüffelder: § 19a GWB überragende marktübergreifende Bedeutung, § 20 GWB relative Marktmacht, Relative Marktmacht und Economic Dependence. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

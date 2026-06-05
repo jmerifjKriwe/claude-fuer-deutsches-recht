@@ -7,7 +7,7 @@ description: "Vertrieb Regulierte Vertriebsumstellung im Handelsvertreterrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertrieb Regulierte Vertriebsumstellung** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Prüft besondere Anforderungen bei der Vertretung, Prüft rechtliche Konsequenzen einer Vertriebsumstellung, Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertrieb Regulierte Vertriebsumstellung** ordnet den Fall über die tragenden Prüffelder: Prüft besondere Anforderungen bei der Vertretung, Prüft rechtliche Konsequenzen einer Vertriebsumstellung, Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

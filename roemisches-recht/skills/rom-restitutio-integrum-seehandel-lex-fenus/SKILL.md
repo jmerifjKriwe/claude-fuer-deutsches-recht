@@ -7,7 +7,7 @@ description: "ROM Restitutio Integrum Seehandel LEX Fenus im Römisches Recht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ROM Restitutio Integrum Seehandel LEX Fenus** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Restitutio in integrum ob aetatem, Lex Rhodia de iactu, Fenus nauticum und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ROM Restitutio Integrum Seehandel LEX Fenus** ordnet den Fall über die tragenden Prüffelder: Restitutio in integrum ob aetatem, Lex Rhodia de iactu, Fenus nauticum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

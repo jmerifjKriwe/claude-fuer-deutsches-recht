@@ -7,7 +7,7 @@ description: "Anfg Anfechtungszeitraum Verjaehrung im Plugin Bereicherungs Und A
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfg Anfechtungszeitraum Verjaehrung** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht, Verjährung und Anfechtungsfristen trennen, Verhältnis von Bereicherungsrecht zu vertraglichen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfg Anfechtungszeitraum Verjaehrung** ordnet den Fall über die tragenden Prüffelder: Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht, Verjährung und Anfechtungsfristen trennen, Verhältnis von Bereicherungsrecht zu vertraglichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

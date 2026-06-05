@@ -7,7 +7,7 @@ description: "Feststellung Forderungsgrund Rang Grund im Plugin Insolvenzforderu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Feststellung Forderungsgrund Rang Grund** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Feststellung, Forderungsgrund, Rang und Belegprüfung zur Tabelle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Feststellung Forderungsgrund Rang Grund** ordnet den Fall über die tragenden Prüffelder: Feststellung, Forderungsgrund, Rang und Belegprüfung zur Tabelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

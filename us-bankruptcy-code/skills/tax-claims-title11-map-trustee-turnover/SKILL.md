@@ -7,7 +7,7 @@ description: "TAX Claims Title11 MAP Trustee Turnover im Plugin Us Bankruptcy Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TAX Claims Title11 MAP Trustee Turnover** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft tax claims, priority, secured tax liens und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TAX Claims Title11 MAP Trustee Turnover** ordnet den Fall über die tragenden Prüffelder: Prueft tax claims, priority, secured tax liens. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

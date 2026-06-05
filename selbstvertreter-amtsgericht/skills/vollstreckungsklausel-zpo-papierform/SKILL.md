@@ -7,7 +7,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vollstreckungsklausel ZPO Papierform** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüffelder: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

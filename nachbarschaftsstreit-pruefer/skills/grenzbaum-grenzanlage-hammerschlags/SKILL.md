@@ -7,7 +7,7 @@ description: "Grenzbaum Grenzanlage Hammerschlags im Nachbarschaftsstreit: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Grenzbaum Grenzanlage Hammerschlags** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Grenzbaum, Grenzstrauch und gemeinschaftliche Grenzanlagen prüfen, Hammerschlags- und Leiterrecht prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Grenzbaum Grenzanlage Hammerschlags** ordnet den Fall über die tragenden Prüffelder: Grenzbaum, Grenzstrauch und gemeinschaftliche Grenzanlagen prüfen, Hammerschlags- und Leiterrecht prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

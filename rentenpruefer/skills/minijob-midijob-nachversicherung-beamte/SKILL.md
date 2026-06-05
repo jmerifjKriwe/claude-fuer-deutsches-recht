@@ -7,7 +7,7 @@ description: "Minijob Midijob Nachversicherung Beamte im Plugin Rentenpruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Minijob Midijob Nachversicherung Beamte** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Minijob, Midijob, Teilzeit und Pflegezeiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Minijob Midijob Nachversicherung Beamte** ordnet den Fall über die tragenden Prüffelder: Minijob, Midijob, Teilzeit und Pflegezeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

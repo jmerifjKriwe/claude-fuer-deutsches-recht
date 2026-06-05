@@ -7,7 +7,7 @@ description: "Kriegsdienstverweigerung Verfahren im Bundeswehrrecht / Wehrrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kriegsdienstverweigerung Verfahren** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Kriegsdienstverweigerung Verfahren, Rechtsbeistand im Disziplinarverfahren, Truppendienstgericht Zuständigkeit Verfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kriegsdienstverweigerung Verfahren** ordnet den Fall über die tragenden Prüffelder: Kriegsdienstverweigerung Verfahren, Rechtsbeistand im Disziplinarverfahren, Truppendienstgericht Zuständigkeit Verfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

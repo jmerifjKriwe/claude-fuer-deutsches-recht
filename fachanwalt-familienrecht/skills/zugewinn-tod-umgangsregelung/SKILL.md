@@ -7,7 +7,7 @@ description: "Zugewinn TOD Umgangsregelung im Plugin Fachanwalt Familienrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zugewinn TOD Umgangsregelung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Zugewinn, Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG, Tod nach Rechtskraft vor Umsetzung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zugewinn TOD Umgangsregelung** ordnet den Fall über die tragenden Prüffelder: Zugewinn, Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG, Tod nach Rechtskraft vor Umsetzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

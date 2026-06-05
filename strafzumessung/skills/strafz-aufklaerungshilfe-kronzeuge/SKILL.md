@@ -7,7 +7,7 @@ description: "Strafz Aufklaerungshilfe Kronzeuge im Plugin Strafzumessung: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafz Aufklaerungshilfe Kronzeuge** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB, Spezialfall Sicherungsverwahrung §§ 66 ff, Leitfaden Strafrahmenmilderung § 49 StGB und benannte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafz Aufklaerungshilfe Kronzeuge** ordnet den Fall über die tragenden Prüffelder: Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB, Spezialfall Sicherungsverwahrung §§ 66 ff, Leitfaden Strafrahmenmilderung § 49 StGB und benannte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

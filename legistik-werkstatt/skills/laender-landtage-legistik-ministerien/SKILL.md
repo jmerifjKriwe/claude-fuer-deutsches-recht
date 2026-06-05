@@ -7,7 +7,7 @@ description: "Laender Landtage Legistik Ministerien im Legistik (Gesetzgebungste
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Laender Landtage Legistik Ministerien** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Laender, Landtage, Legistik und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Laender Landtage Legistik Ministerien** ordnet den Fall über die tragenden Prüffelder: Laender, Landtage, Legistik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

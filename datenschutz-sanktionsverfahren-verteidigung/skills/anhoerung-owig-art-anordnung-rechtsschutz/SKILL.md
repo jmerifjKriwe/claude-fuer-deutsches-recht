@@ -7,7 +7,7 @@ description: "Anhoerung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktions
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anhoerung Owig ART Anordnung Rechtsschutz** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anhoerung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüffelder: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Humor Coach Interpretation Precedent Common im Common Law (Orienti
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Humor Coach Interpretation Precedent Common** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Common-Law-Erklärungen sollen für Mandanten oder Team, Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und, Kanzlei startet Common-Law- UK- US- oder bilinguales. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Humor Coach Interpretation Precedent Common** ordnet den Fall über die tragenden Prüffelder: Common-Law-Erklärungen sollen für Mandanten oder Team, Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und, Kanzlei startet Common-Law- UK- US- oder bilinguales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

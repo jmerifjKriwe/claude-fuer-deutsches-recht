@@ -7,7 +7,7 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CAS Berufung Erstgespraech Mandatsannahme** als zusammenhängenden Arbeitsgang im Sportrecht. Im Mittelpunkt steht die Prüfung von Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

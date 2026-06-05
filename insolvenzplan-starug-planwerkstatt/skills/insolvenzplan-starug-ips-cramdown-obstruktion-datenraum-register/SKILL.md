@@ -7,7 +7,7 @@ description: "IPS Cramdown Obstruktion Datenraum Register im Plugin Insolvenzpla
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IPS Cramdown Obstruktion Datenraum Register** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Obstruktionsverbot und gruppenuebergreifende, Planbegleitenden Datenraum aufbauen und Dokumentenregister, Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IPS Cramdown Obstruktion Datenraum Register** ordnet den Fall über die tragenden Prüffelder: Obstruktionsverbot und gruppenuebergreifende, Planbegleitenden Datenraum aufbauen und Dokumentenregister, Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

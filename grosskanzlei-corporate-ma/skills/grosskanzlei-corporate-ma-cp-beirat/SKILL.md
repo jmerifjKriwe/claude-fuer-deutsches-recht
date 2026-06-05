@@ -7,7 +7,7 @@ description: "CP Beirat im Corporate/M&A (Großkanzlei-Praxis): prüft konkret C
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CP Beirat** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Corporate und M&A Rechtsprechungsrecherche, Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate, GmbH-Beirat im Plugin grosskanzlei-corporate-ma und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CP Beirat** ordnet den Fall über die tragenden Prüffelder: Corporate und M&A Rechtsprechungsrecherche, Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate, GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

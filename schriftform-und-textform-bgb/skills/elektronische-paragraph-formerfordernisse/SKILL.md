@@ -7,7 +7,7 @@ description: "Elektronische Paragraph Formerfordernisse im Plugin Schriftform Un
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elektronische Paragraph Formerfordernisse** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Prüffeld für elektronische form paragraph 126a bgb qes, Systematik der Formerfordernisse im BGB, Gewerbemieter oder Vermieter fragt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elektronische Paragraph Formerfordernisse** ordnet den Fall über die tragenden Prüffelder: Prüffeld für elektronische form paragraph 126a bgb qes, Systematik der Formerfordernisse im BGB, Gewerbemieter oder Vermieter fragt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Forstrecht RED Hoefe Sonderfall im Agrarrecht: prüft konkret Fach
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Forstrecht RED Hoefe Sonderfall** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Fachanwalt, Forstrecht, Hoefe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Forstrecht RED Hoefe Sonderfall** ordnet den Fall über die tragenden Prüffelder: Fachanwalt, Forstrecht, Hoefe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Gpai Modelle KI Anbieter Arbeitsrecht im KI-Governance: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gpai Modelle KI Anbieter Arbeitsrecht** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von General-Purpose-AI-Modelle Art, Prüft KI-Anbieterverträge gegen die unternehmenseigenen, Arbeitsrechtliche Folgen des KI-Einsatzes. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gpai Modelle KI Anbieter Arbeitsrecht** ordnet den Fall über die tragenden Prüffelder: General-Purpose-AI-Modelle Art, Prüft KI-Anbieterverträge gegen die unternehmenseigenen, Arbeitsrechtliche Folgen des KI-Einsatzes. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

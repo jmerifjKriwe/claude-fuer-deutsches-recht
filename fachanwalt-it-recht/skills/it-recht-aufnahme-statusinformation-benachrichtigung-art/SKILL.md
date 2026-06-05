@@ -7,7 +7,7 @@ description: "Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufnahme Statusinformation Benachrichtigung ART** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufnahme Statusinformation Benachrichtigung ART** ordnet den Fall über die tragenden Prüffelder: Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

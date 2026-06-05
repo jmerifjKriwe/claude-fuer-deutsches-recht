@@ -7,7 +7,7 @@ description: "Gerichtliche KI Governance Aufsichtsbehoerden im EU KI-VO (AI Act)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gerichtliche KI Governance Aufsichtsbehoerden** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Justizielle KI als Hochrisiko-Kontext, Unternehmen oder Behoerde fragt, GPAI Code of Practice und Evidence-Logik und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gerichtliche KI Governance Aufsichtsbehoerden** ordnet den Fall über die tragenden Prüffelder: Justizielle KI als Hochrisiko-Kontext, Unternehmen oder Behoerde fragt, GPAI Code of Practice und Evidence-Logik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

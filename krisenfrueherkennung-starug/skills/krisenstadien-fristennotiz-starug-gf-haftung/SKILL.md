@@ -7,7 +7,7 @@ description: "Krisenstadien Fristennotiz Starug GF Haftung im Plugin Krisenfrueh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Krisenstadien Fristennotiz Starug GF Haftung** als zusammenhängenden Arbeitsgang im Plugin Krisenfrueherkennung Starug. Im Mittelpunkt steht die Prüfung von Krisenstadien, StaRUG, Geschäftsführerhaftung bei Krisenversagen prüfe und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Krisenstadien Fristennotiz Starug GF Haftung** ordnet den Fall über die tragenden Prüffelder: Krisenstadien, StaRUG, Geschäftsführerhaftung bei Krisenversagen prüfe und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

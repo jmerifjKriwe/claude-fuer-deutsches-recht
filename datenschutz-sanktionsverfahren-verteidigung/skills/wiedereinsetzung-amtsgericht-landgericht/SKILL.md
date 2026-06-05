@@ -7,7 +7,7 @@ description: "Wiedereinsetzung Amtsgericht Landgericht im Datenschutz-Sanktionsv
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wiedereinsetzung Amtsgericht Landgericht** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Wiedereinsetzung nach Fristversäumnis, Zuständigkeit Amtsgericht Landgericht § 41 BDSG, Zwischenverfahren § 69 OWiG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wiedereinsetzung Amtsgericht Landgericht** ordnet den Fall über die tragenden Prüffelder: Wiedereinsetzung nach Fristversäumnis, Zuständigkeit Amtsgericht Landgericht § 41 BDSG, Zwischenverfahren § 69 OWiG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

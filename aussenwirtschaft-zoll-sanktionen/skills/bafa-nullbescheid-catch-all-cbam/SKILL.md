@@ -7,7 +7,7 @@ description: "Bafa Nullbescheid Catch ALL Cbam im Außenwirtschaftsrecht, Zoll u
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bafa Nullbescheid Catch ALL Cbam** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Nullbescheid und Auskunfts-Zollanmeldung (AZG), Catch-All-Pruefung nach Art, CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bafa Nullbescheid Catch ALL Cbam** ordnet den Fall über die tragenden Prüffelder: Nullbescheid und Auskunfts-Zollanmeldung (AZG), Catch-All-Pruefung nach Art, CBAM-Berichtspflichten in der Uebergangsphase (2023-2025). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

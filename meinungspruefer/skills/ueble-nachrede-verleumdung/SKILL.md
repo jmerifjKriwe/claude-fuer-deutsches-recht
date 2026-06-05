@@ -7,7 +7,7 @@ description: "Ueble Nachrede Verleumdung im Plugin Meinungspruefer: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ueble Nachrede Verleumdung** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich w, Prüft § 187 StGB bei bewusst unwahren ehrverletzenden. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ueble Nachrede Verleumdung** ordnet den Fall über die tragenden Prüffelder: Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich w, Prüft § 187 StGB bei bewusst unwahren ehrverletzenden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

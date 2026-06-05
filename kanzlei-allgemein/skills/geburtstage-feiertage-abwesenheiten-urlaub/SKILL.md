@@ -7,7 +7,7 @@ description: "Geburtstage Feiertage Abwesenheiten Urlaub im Plugin Kanzlei Allge
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geburtstage Feiertage Abwesenheiten Urlaub** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Pflegt einen Mandanten- und, Verwaltung von Abwesenheiten in der Kanzlei — Urlaub. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geburtstage Feiertage Abwesenheiten Urlaub** ordnet den Fall über die tragenden Prüffelder: Pflegt einen Mandanten- und, Verwaltung von Abwesenheiten in der Kanzlei — Urlaub. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

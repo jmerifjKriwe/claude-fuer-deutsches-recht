@@ -1,13 +1,13 @@
 ---
 name: ins-incident
-description: "INS Incident im Insiderrecht und Compliance: Dieser Skill arbeitet INS Incident als zusammenhängenden Arbeitsgang im Plugin Insiderrecht / Compliance (WpHG, MAR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "INS Incident im Insiderrecht und Compliance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # INS Incident
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **INS Incident** als zusammenhängenden Arbeitsgang im Plugin Insiderrecht / Compliance (WpHG, MAR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**INS Incident** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

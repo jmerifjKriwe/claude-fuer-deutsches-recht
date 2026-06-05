@@ -7,7 +7,7 @@ description: "Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aerztewerbung Innovative Amnog Millionen** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Ärztewerbung innovative Therapie, AMNOG und Millionen-Therapie. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aerztewerbung Innovative Amnog Millionen** ordnet den Fall über die tragenden Prüffelder: Ärztewerbung innovative Therapie, AMNOG und Millionen-Therapie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

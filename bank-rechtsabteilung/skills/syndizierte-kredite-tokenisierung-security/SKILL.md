@@ -7,7 +7,7 @@ description: "Syndizierte Kredite Tokenisierung Security im Plugin Bank Rechtsab
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Syndizierte Kredite Tokenisierung Security** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Syndizierte Kredite, Facility Agent und Security Trustee prüfen, Tokenisierung und Security Token einordnen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Syndizierte Kredite Tokenisierung Security** ordnet den Fall über die tragenden Prüffelder: Syndizierte Kredite, Facility Agent und Security Trustee prüfen, Tokenisierung und Security Token einordnen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

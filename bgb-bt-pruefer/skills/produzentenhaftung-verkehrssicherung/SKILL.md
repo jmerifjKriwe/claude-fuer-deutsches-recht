@@ -7,7 +7,7 @@ description: "Produzentenhaftung Verkehrssicherung im Plugin Bgb Bt Pruefer: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Produzentenhaftung Verkehrssicherung** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Produzentenhaftung § 823 BGB und Produkthaftungsgesetz, Schadensrecht §§ 249-253 BGB, Prüft entgeltliche Geschäftsbesorgung § 675 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Produzentenhaftung Verkehrssicherung** ordnet den Fall über die tragenden Prüffelder: Produzentenhaftung § 823 BGB und Produkthaftungsgesetz, Schadensrecht §§ 249-253 BGB, Prüft entgeltliche Geschäftsbesorgung § 675 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

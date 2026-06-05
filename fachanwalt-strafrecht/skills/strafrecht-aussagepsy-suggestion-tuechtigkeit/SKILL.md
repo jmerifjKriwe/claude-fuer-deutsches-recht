@@ -7,7 +7,7 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aussagepsy Suggestion Tuechtigkeit** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüffelder: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

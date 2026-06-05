@@ -7,7 +7,7 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gewerblichen Markenanmeldung Markeng** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz, Markenanmeldung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gewerblichen Markenanmeldung Markeng** ordnet den Fall über die tragenden Prüffelder: Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz, Markenanmeldung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

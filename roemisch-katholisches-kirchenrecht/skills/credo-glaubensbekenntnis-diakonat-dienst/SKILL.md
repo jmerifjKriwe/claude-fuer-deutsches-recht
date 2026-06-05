@@ -7,7 +7,7 @@ description: "Credo Glaubensbekenntnis Diakonat Dienst im Römisch-katholischen 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Credo Glaubensbekenntnis Diakonat Dienst** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Credo und Glaubensbekenntnis, Diakonat und Dienst, Diözesanbischof und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Credo Glaubensbekenntnis Diakonat Dienst** ordnet den Fall über die tragenden Prüffelder: Credo und Glaubensbekenntnis, Diakonat und Dienst, Diözesanbischof. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

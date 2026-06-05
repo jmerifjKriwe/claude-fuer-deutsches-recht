@@ -7,7 +7,7 @@ description: "Immor Bodenrichtwert Betriebskostenabrechnung im Plugin Immobilien
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immor Bodenrichtwert Betriebskostenabrechnung** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Spezialfall Bodenrichtwert und Bewertung im Erb- und, Betriebskostenabrechnung im Asset- und Property-Management, Betriebskostenabrechnung im Immobilienportfolio prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immor Bodenrichtwert Betriebskostenabrechnung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Bodenrichtwert und Bewertung im Erb- und, Betriebskostenabrechnung im Asset- und Property-Management, Betriebskostenabrechnung im Immobilienportfolio prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

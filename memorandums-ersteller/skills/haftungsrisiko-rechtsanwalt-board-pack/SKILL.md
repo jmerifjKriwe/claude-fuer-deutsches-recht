@@ -7,7 +7,7 @@ description: "Haftungsrisiko Rechtsanwalt Board Pack im Memorandum-Erstellung: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Haftungsrisiko Rechtsanwalt Board Pack** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Internes Memo zur Haftungspruefung, Spezialfall Memo als Bestandteil eines Board-Packs, Internes Compliance-Vorfall-Memo. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Haftungsrisiko Rechtsanwalt Board Pack** ordnet den Fall über die tragenden Prüffelder: Internes Memo zur Haftungspruefung, Spezialfall Memo als Bestandteil eines Board-Packs, Internes Compliance-Vorfall-Memo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Norm Zerlegen Mandantenbrief im Plugin Subsumtions Pruefer: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Norm Zerlegen Mandantenbrief** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale, Erzeugt interne Aktennotiz (Rechtsmemo) oder externen, Erzeugt das vollständige Prüfungsdokument mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Norm Zerlegen Mandantenbrief** ordnet den Fall über die tragenden Prüffelder: Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale, Erzeugt interne Aktennotiz (Rechtsmemo) oder externen, Erzeugt das vollständige Prüfungsdokument mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

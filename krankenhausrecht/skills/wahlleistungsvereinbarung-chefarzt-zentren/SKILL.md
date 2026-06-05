@@ -7,7 +7,7 @@ description: "Wahlleistungsvereinbarung Chefarzt Zentren im Plugin Krankenhausre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wahlleistungsvereinbarung Chefarzt Zentren** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschläge besondere Aufgaben, Zuweiservergütung Antikorruption §§ 299a 299b StGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wahlleistungsvereinbarung Chefarzt Zentren** ordnet den Fall über die tragenden Prüffelder: Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschläge besondere Aufgaben, Zuweiservergütung Antikorruption §§ 299a 299b StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

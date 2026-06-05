@@ -7,7 +7,7 @@ description: "IV Berichte IV Masseunzulaenglichkeit im Plugin Insolvenzverwaltun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Berichte IV Masseunzulaenglichkeit** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Zwischenberichte Sachstandsberichte und Beschlussvorlagen, Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Berichte IV Masseunzulaenglichkeit** ordnet den Fall über die tragenden Prüffelder: Zwischenberichte Sachstandsberichte und Beschlussvorlagen, Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Prozessstrategie Klageerhebung Gutachtenstil im Memorandum-Erstell
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Prozessstrategie Klageerhebung Gutachtenstil** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Memo zur Prozessstrategie vor Klageerhebung, Pruefungsabschnitt im Gutachtenstil, Quellenzitate im Memo nach deutscher Hauszitierweise v4. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Prozessstrategie Klageerhebung Gutachtenstil** ordnet den Fall über die tragenden Prüffelder: Memo zur Prozessstrategie vor Klageerhebung, Pruefungsabschnitt im Gutachtenstil, Quellenzitate im Memo nach deutscher Hauszitierweise v4. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

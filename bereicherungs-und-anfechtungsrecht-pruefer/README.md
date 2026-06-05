@@ -357,7 +357,7 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 | `wertveraenderung-und-stichtag` | Bei wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor... |
 | `zahlstelle-bote-vertreter-und-treuhand` | Bei eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfäng... |
 | `zahlung-fremde-schuld-putativschuldner` | Bei jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wic... |
-| `zweckverfehlung-kondiktionszweck` | Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer: Dieser Skill arbeitet Zweckverfehlung Kondiktionszweck als zusammenhängenden Arbeitsgang im Plugin Bereicherungs- und Anfechtungsrecht ab — nach Akten... |
+| `zweckverfehlung-kondiktionszweck` | Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `zweckverfehlung-und-kondiktionszweck` | Zweckverfehlung, Wegfall des Leistungszwecks und kondiktionsrechtliche Zweckabreden prüfen. Normen: § 812 Abs. 1 S. 2 BGB. Output: Zweckkondiktions-Prüfbogen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

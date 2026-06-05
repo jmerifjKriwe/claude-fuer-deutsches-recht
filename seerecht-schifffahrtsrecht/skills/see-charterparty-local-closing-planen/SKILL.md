@@ -7,7 +7,7 @@ description: "SEE Charterparty Local Closing Planen im Plugin Seerecht Schifffah
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SEE Charterparty Local Closing Planen** als zusammenhängenden Arbeitsgang im Plugin Seerecht Schifffahrtsrecht. Im Mittelpunkt steht die Prüfung von Charterparty. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SEE Charterparty Local Closing Planen** ordnet den Fall über die tragenden Prüffelder: Charterparty. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

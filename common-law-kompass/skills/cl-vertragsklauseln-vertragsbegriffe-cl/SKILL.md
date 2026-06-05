@@ -7,7 +7,7 @@ description: "CL Vertragsklauseln Vertragsbegriffe CL im Common Law (Orientierun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CL Vertragsklauseln Vertragsbegriffe CL** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Typische Common-Law-Klauseln uebersichtlich erklaeren, Vertragsbegriffe, Spezialfall US-Discovery / E-Discovery und Document. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CL Vertragsklauseln Vertragsbegriffe CL** ordnet den Fall über die tragenden Prüffelder: Typische Common-Law-Klauseln uebersichtlich erklaeren, Vertragsbegriffe, Spezialfall US-Discovery / E-Discovery und Document. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

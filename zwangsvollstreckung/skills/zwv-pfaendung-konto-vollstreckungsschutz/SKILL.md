@@ -7,7 +7,7 @@ description: "ZWV Pfaendung Konto Vollstreckungsschutz im Plugin Zwangsvollstrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZWV Pfaendung Konto Vollstreckungsschutz** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff, Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel, Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZWV Pfaendung Konto Vollstreckungsschutz** ordnet den Fall über die tragenden Prüffelder: Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff, Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel, Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Geschgehg Halluzinations Handhabung Kanzlei im Plugin Ki Richtlini
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geschgehg Halluzinations Handhabung Kanzlei** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien, Halluzinationen von KI in juristischer Arbeit erkennen und, Kanzlei-Kontext erfassen für massgeschneiderte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geschgehg Halluzinations Handhabung Kanzlei** ordnet den Fall über die tragenden Prüffelder: GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien, Halluzinationen von KI in juristischer Arbeit erkennen und, Kanzlei-Kontext erfassen für massgeschneiderte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

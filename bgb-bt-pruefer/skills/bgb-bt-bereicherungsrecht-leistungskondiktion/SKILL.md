@@ -7,7 +7,7 @@ description: "Bereicherungsrecht Leistungskondiktion im Plugin Bgb Bt Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bereicherungsrecht Leistungskondiktion** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Leistungskondiktion §§ 812 ff, Prüft Nichtleistungskondiktion §§ 812 ff, Prüft Akzessorietät der Bürgschaft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bereicherungsrecht Leistungskondiktion** ordnet den Fall über die tragenden Prüffelder: Prüft Leistungskondiktion §§ 812 ff, Prüft Nichtleistungskondiktion §§ 812 ff, Prüft Akzessorietät der Bürgschaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

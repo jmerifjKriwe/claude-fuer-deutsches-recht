@@ -7,7 +7,7 @@ description: "Software IP Chain MNA DD Policy Legal Scope im Softwarerecht (DE/E
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Software IP Chain MNA DD Policy Legal Scope** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft die Rechtekette an Code, Dokumentation, APIs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Software IP Chain MNA DD Policy Legal Scope** ordnet den Fall über die tragenden Prüffelder: Prüft die Rechtekette an Code, Dokumentation, APIs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

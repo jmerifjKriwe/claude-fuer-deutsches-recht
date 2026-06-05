@@ -7,7 +7,7 @@ description: "Excel Multi Kreuzblatt Konsistenzpruefung PDF im Plugin Tabellenre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Excel Multi Kreuzblatt Konsistenzpruefung PDF** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von 3D-Review-Ergebnis als Excel-Datei mit mehreren, Kreuzblatt-Konsistenzprüfung, 3D-Review-Ergebnis als PDF-Bericht erzeugen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Excel Multi Kreuzblatt Konsistenzpruefung PDF** ordnet den Fall über die tragenden Prüffelder: 3D-Review-Ergebnis als Excel-Datei mit mehreren, Kreuzblatt-Konsistenzprüfung, 3D-Review-Ergebnis als PDF-Bericht erzeugen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

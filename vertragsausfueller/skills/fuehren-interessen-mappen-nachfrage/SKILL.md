@@ -7,7 +7,7 @@ description: "Fuehren Interessen Mappen Nachfrage im Plugin Vertragsausfueller: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fuehren Interessen Mappen Nachfrage** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von Fuehren, Mappen, Nachfrage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fuehren Interessen Mappen Nachfrage** ordnet den Fall über die tragenden Prüffelder: Fuehren, Mappen, Nachfrage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

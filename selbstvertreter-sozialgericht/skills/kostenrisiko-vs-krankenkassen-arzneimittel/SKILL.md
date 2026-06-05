@@ -7,7 +7,7 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kostenrisiko VS Krankenkassen Arzneimittel** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kostenrisiko VS Krankenkassen Arzneimittel** ordnet den Fall über die tragenden Prüffelder: Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

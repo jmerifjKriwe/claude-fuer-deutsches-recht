@@ -7,7 +7,7 @@ description: "Transparenzgebot BGB US UK im Word-Legal-AI für Anwälte: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Transparenzgebot BGB US UK** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Drafting nach dem Transparenzgebot des § 307 I S, Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Transparenzgebot BGB US UK** ordnet den Fall über die tragenden Prüffelder: Drafting nach dem Transparenzgebot des § 307 I S, Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

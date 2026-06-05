@@ -7,7 +7,7 @@ description: "ANW Grest Signing Insolvenzreife Inso Klage im Steuerrecht (Anwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ANW Grest Signing Insolvenzreife Inso Klage** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von GrESt Signing/Closing Fachmodul, Prüffeld für anw insolvenzreife pruefung 17 19 inso, Klageschrift zum Finanzgericht nach §§ 40 ff und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ANW Grest Signing Insolvenzreife Inso Klage** ordnet den Fall über die tragenden Prüffelder: GrESt Signing/Closing Fachmodul, Prüffeld für anw insolvenzreife pruefung 17 19 inso, Klageschrift zum Finanzgericht nach §§ 40 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

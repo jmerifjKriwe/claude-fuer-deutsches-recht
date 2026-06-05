@@ -7,7 +7,7 @@ description: "Confidentiality Trade Contract Interpretation im Commercial Courts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Confidentiality Trade Contract Interpretation** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Schützt Geschäftsgeheimnisse, Erklärt und prüft englische Vertragsbegriffe unter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Confidentiality Trade Contract Interpretation** ordnet den Fall über die tragenden Prüffelder: Schützt Geschäftsgeheimnisse, Erklärt und prüft englische Vertragsbegriffe unter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Maklervertrag Provision Mietvertrag im Plugin Bgb Bt Pruefer: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Maklervertrag Provision Mietvertrag** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Maklervertrag §§ 652 ff, Mietvertrag § 535 BGB, Reisevertrag §§ 651a ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Maklervertrag Provision Mietvertrag** ordnet den Fall über die tragenden Prüffelder: Maklervertrag §§ 652 ff, Mietvertrag § 535 BGB, Reisevertrag §§ 651a ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

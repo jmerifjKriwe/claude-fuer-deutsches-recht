@@ -7,7 +7,7 @@ description: "Polizei Feuerwehr Praesidialrat Mitwirkung im Beamtenrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Polizei Feuerwehr Praesidialrat Mitwirkung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Polizei Feuerwehr Praesidialrat Mitwirkung** ordnet den Fall über die tragenden Prüffelder: Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

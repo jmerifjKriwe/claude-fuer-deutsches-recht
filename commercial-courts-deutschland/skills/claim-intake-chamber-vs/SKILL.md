@@ -7,7 +7,7 @@ description: "Claim Intake Chamber VS im Commercial Courts in Deutschland: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Claim Intake Chamber VS** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Macht aus unordentlichen Deal-Unterlagen ein Claim Intake, Vergleicht Commercial Chamber beim Landgericht und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Claim Intake Chamber VS** ordnet den Fall über die tragenden Prüffelder: Macht aus unordentlichen Deal-Unterlagen ein Claim Intake, Vergleicht Commercial Chamber beim Landgericht und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

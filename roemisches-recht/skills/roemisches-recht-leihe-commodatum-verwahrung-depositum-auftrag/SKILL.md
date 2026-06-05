@@ -7,7 +7,7 @@ description: "Leihe Commodatum Verwahrung Depositum Auftrag im Römisches Recht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Leihe Commodatum Verwahrung Depositum Auftrag** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Römisches Recht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Leihe Commodatum Verwahrung Depositum Auftrag** ordnet den Fall über die tragenden Prüffelder: Römisches Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Testament Auslegung Pflichtteil Vaterschaft im Plugin Fachanwalt E
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Testament Auslegung Pflichtteil Vaterschaft** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Testament, Testamentsauslegung, Führt durch Pflichtteilsfälle mit später festgestellter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Testament Auslegung Pflichtteil Vaterschaft** ordnet den Fall über die tragenden Prüffelder: Testament, Testamentsauslegung, Führt durch Pflichtteilsfälle mit später festgestellter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Bericht Schwerbehindertenanzeige SGB Verpackg im Berichtspflichten
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Schwerbehindertenanzeige SGB Verpackg** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Jährliche Anzeige beschäftigter schwerbehinderter Menschen, Vollständigkeitserklärung nach VerpackG, Koordination mit Steuerberater. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Schwerbehindertenanzeige SGB Verpackg** ordnet den Fall über die tragenden Prüffelder: Jährliche Anzeige beschäftigter schwerbehinderter Menschen, Vollständigkeitserklärung nach VerpackG, Koordination mit Steuerberater. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

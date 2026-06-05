@@ -7,7 +7,7 @@ description: "Aussergewoehnliche Distanz Interessen im Fluggastrechte: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aussergewoehnliche Distanz Interessen** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Aussergewoehnliche, Distanz, Erfassen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aussergewoehnliche Distanz Interessen** ordnet den Fall über die tragenden Prüffelder: Aussergewoehnliche, Distanz, Erfassen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

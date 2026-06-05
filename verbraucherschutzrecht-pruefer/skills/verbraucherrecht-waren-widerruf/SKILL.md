@@ -7,7 +7,7 @@ description: "Verbraucherrecht Waren Widerruf im Verbraucherschutzrecht: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbraucherrecht Waren Widerruf** als zusammenhängenden Arbeitsgang im Verbraucherschutzrecht. Im Mittelpunkt steht die Prüfung von Waren mit digitalen Elementen, Widerruf im Fernabsatz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbraucherrecht Waren Widerruf** ordnet den Fall über die tragenden Prüffelder: Waren mit digitalen Elementen, Widerruf im Fernabsatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

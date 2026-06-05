@@ -7,7 +7,7 @@ description: "Litigation Discovery MA Commercial Quality im Common Law (Orientie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Litigation Discovery MA Commercial Quality** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will, Anwalt draftet oder prüft SPA APA NDA LOI Disclosure, Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Litigation Discovery MA Commercial Quality** ordnet den Fall über die tragenden Prüffelder: Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will, Anwalt draftet oder prüft SPA APA NDA LOI Disclosure, Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Schutzrechts Fristennotiz IP Klausel im Plugin Gewerblicher Rechts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schutzrechts Fristennotiz IP Klausel** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Schutzrechts-Fristennotiz und nächster Schritt, Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz, Beweislast und Darlegungslast im gewerblichen Rechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schutzrechts Fristennotiz IP Klausel** ordnet den Fall über die tragenden Prüffelder: Schutzrechts-Fristennotiz und nächster Schritt, Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz, Beweislast und Darlegungslast im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

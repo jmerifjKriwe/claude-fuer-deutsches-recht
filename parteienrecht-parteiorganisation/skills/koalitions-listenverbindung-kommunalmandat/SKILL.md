@@ -7,7 +7,7 @@ description: "Koalitions Listenverbindung Kommunalmandat im Parteienrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Koalitions Listenverbindung Kommunalmandat** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen un. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Koalitions Listenverbindung Kommunalmandat** ordnet den Fall über die tragenden Prüffelder: Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen un. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

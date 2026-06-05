@@ -7,7 +7,7 @@ description: "Luft LBA Airline Flughafen Flugzeugleasing im Plugin Luftrecht Flu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft LBA Airline Flughafen Flugzeugleasing** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder, Airline-Mandat, Flughafen-Mandat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft LBA Airline Flughafen Flugzeugleasing** ordnet den Fall über die tragenden Prüffelder: Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder, Airline-Mandat, Flughafen-Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

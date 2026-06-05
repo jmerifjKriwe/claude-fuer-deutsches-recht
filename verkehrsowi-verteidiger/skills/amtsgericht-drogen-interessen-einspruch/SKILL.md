@@ -7,7 +7,7 @@ description: "Amtsgericht Drogen Interessen Einspruch im Plugin Verkehrsowi Vert
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Amtsgericht Drogen Interessen Einspruch** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Amtsgericht, Drogen, Einspruch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Amtsgericht Drogen Interessen Einspruch** ordnet den Fall über die tragenden Prüffelder: Amtsgericht, Drogen, Einspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

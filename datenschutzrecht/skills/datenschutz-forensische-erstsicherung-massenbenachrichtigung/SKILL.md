@@ -7,7 +7,7 @@ description: "Datenschutz Forensische Erstsicherung Massenbenachrichtigung im Da
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Forensische Erstsicherung Massenbenachrichtigung** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Steuert die forensische Erstsicherung nach einem, Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Forensische Erstsicherung Massenbenachrichtigung** ordnet den Fall über die tragenden Prüffelder: Steuert die forensische Erstsicherung nach einem, Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

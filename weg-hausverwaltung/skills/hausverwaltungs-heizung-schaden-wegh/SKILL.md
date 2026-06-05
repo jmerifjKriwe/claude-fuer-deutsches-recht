@@ -7,7 +7,7 @@ description: "Hausverwaltungs Heizung Schaden Wegh im Plugin Weg Hausverwaltung:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hausverwaltungs Heizung Schaden Wegh** als zusammenhängenden Arbeitsgang im Plugin Weg Hausverwaltung. Im Mittelpunkt steht die Prüfung von Hausverwaltungs, Bearbeitet Heizungsstörungen, Wasserschäden. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hausverwaltungs Heizung Schaden Wegh** ordnet den Fall über die tragenden Prüffelder: Hausverwaltungs, Bearbeitet Heizungsstörungen, Wasserschäden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

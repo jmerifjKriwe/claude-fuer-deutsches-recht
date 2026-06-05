@@ -7,7 +7,7 @@ description: "Mandantenintake Mandatsuebergabe im Plugin Rechtsberatungsstelle: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandantenintake Mandatsuebergabe** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Mandantenintake, Mandatsuebergabe, Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandantenintake Mandatsuebergabe** ordnet den Fall über die tragenden Prüffelder: Mandantenintake, Mandatsuebergabe, Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

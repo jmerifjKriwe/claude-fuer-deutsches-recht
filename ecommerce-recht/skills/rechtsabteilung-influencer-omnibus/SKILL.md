@@ -7,7 +7,7 @@ description: "Rechtsabteilung Influencer Omnibus im Plugin Ecommerce Recht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Influencer Omnibus** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Influencer- und, Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und, Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Influencer Omnibus** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Influencer- und, Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und, Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

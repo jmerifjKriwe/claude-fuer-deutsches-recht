@@ -7,7 +7,7 @@ description: "Krankenhausreform Leistungsgruppen im Plugin Krankenhausrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Krankenhausreform Leistungsgruppen** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Routing-Skill fuer die Krankenhausreform 2024/2025 (KHVVG), Krankenhausseelsorge Besuchsrecht Hausrecht, KRITIS Krankenhaus BSI-Gesetz NIS2. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Krankenhausreform Leistungsgruppen** ordnet den Fall über die tragenden Prüffelder: Routing-Skill fuer die Krankenhausreform 2024/2025 (KHVVG), Krankenhausseelsorge Besuchsrecht Hausrecht, KRITIS Krankenhaus BSI-Gesetz NIS2. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

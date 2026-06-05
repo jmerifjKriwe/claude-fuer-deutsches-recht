@@ -7,7 +7,7 @@ description: "INV Geschaeftsgeheimnisse Stpo im Internal Investigations: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Geschaeftsgeheimnisse Stpo** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Schützt Untersuchungsergebnisse und Unternehmensinterna als, Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Geschaeftsgeheimnisse Stpo** ordnet den Fall über die tragenden Prüffelder: Schützt Untersuchungsergebnisse und Unternehmensinterna als, Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

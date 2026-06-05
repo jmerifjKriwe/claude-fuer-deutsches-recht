@@ -7,7 +7,7 @@ description: "Zeitplan Meilensteine Zwischen im DFG-Förderantragstellung: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zeitplan Meilensteine Zwischen** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Antragszeitplan vom ersten Skizzen-Entwurf bis zur, Zwischen- und Abschlussbericht systematisch vorbereiten, Adaptive. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zeitplan Meilensteine Zwischen** ordnet den Fall über die tragenden Prüffelder: Antragszeitplan vom ersten Skizzen-Entwurf bis zur, Zwischen- und Abschlussbericht systematisch vorbereiten, Adaptive. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

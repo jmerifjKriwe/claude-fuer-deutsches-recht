@@ -7,7 +7,7 @@ description: "Post Closing Umwandlungssteuerrecht im Corporate-Kanzlei-Praxis: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Post Closing Umwandlungssteuerrecht** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Post-Closing-Integration (PMI) rechtlich begleiten, Umwandlungssteuerrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Post Closing Umwandlungssteuerrecht** ordnet den Fall über die tragenden Prüffelder: Post-Closing-Integration (PMI) rechtlich begleiten, Umwandlungssteuerrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

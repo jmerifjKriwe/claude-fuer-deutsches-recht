@@ -7,7 +7,7 @@ description: "Fahrer Telematik Forensik Beweissicherung im NIS2-Cybersecurity-Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fahrer Telematik Forensik Beweissicherung** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Telematik in Fuhrpark und Logistik, Sichert digitale Beweise ohne Beweiswertverlust, Verknüpft IT-Security mit Geschäftsgeheimnisschutz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fahrer Telematik Forensik Beweissicherung** ordnet den Fall über die tragenden Prüffelder: Prüft Telematik in Fuhrpark und Logistik, Sichert digitale Beweise ohne Beweiswertverlust, Verknüpft IT-Security mit Geschäftsgeheimnisschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

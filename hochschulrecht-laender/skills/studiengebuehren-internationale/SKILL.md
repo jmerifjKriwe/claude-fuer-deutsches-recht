@@ -7,7 +7,7 @@ description: "Studiengebuehren Internationale im Hochschulrecht der Länder: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Studiengebuehren Internationale** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Studiengebuehren Internationale** ordnet den Fall über die tragenden Prüffelder: Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

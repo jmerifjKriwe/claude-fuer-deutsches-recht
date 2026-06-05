@@ -71,6 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `uefa-wada-sportr-anti` | Uefa Wada Sportr Anti im Sportrecht: prüft konkret Uefa, Wada, Anti-Doping in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `veranstalterhaftung-fehlerkatalog` | Veranstalterhaftung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `verbandsrecht-sportr-doping-spielervertrag` | Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft konkret Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüffeld für fachanwalt sportrecht spielervertrag. Liefert priorisierten Output mit Norm-Pinpoints... |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Sportrecht: Dieser Skill arbeitet Vergleichsverhandlung Strategie als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sportrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Sportrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

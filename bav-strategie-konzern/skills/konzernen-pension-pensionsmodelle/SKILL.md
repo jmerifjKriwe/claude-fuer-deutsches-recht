@@ -7,7 +7,7 @@ description: "Konzernen Pension Pensionsmodelle im betriebliche Altersversorgung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Konzernen Pension Pensionsmodelle** als zusammenhängenden Arbeitsgang im betriebliche Altersversorgung (bAV). Im Mittelpunkt steht die Prüfung von Konzernen, Pension, Pensionsmodelle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Konzernen Pension Pensionsmodelle** ordnet den Fall über die tragenden Prüffelder: Konzernen, Pension, Pensionsmodelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

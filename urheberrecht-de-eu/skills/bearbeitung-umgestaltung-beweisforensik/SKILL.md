@@ -7,7 +7,7 @@ description: "Bearbeitung Umgestaltung Beweisforensik im Plugin Urheberrecht De 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bearbeitung Umgestaltung Beweisforensik** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Bearbeitung, Adaption, Übersetzung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bearbeitung Umgestaltung Beweisforensik** ordnet den Fall über die tragenden Prüffelder: Prueft Bearbeitung, Adaption, Übersetzung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

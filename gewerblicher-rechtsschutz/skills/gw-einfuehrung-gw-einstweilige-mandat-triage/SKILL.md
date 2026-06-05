@@ -7,7 +7,7 @@ description: "GW Einfuehrung GW Einstweilige Mandat Triage im Plugin Gewerbliche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **GW Einfuehrung GW Einstweilige Mandat Triage** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Einführung in die Rechtsschutzwege des gewerblichen, Einstweilige Verfügung im gewerblichen Rechtsschutz, Neues Mandat im gewerblichen Rechtsschutz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**GW Einfuehrung GW Einstweilige Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Einführung in die Rechtsschutzwege des gewerblichen, Einstweilige Verfügung im gewerblichen Rechtsschutz, Neues Mandat im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

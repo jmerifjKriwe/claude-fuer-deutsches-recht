@@ -7,7 +7,7 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Laienhilfe Vollmacht Betreuung Widerspruch** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Laienverstaendlicher Sozialrechts-Skill zu Vollmacht, Laienverstaendlicher Sozialrechts-Skill zu Widerspruch, Laienverstaendlicher Sozialrechts-Skill zu Wohngeld und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Laienhilfe Vollmacht Betreuung Widerspruch** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Vollmacht, Laienverstaendlicher Sozialrechts-Skill zu Widerspruch, Laienverstaendlicher Sozialrechts-Skill zu Wohngeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

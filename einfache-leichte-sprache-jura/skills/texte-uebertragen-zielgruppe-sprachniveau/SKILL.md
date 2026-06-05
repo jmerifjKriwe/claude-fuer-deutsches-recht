@@ -7,7 +7,7 @@ description: "Texte Uebertragen Zielgruppe Sprachniveau im Einfache und leichte 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Texte Uebertragen Zielgruppe Sprachniveau** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Texte, Uebertragen, Zielgruppe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Texte Uebertragen Zielgruppe Sprachniveau** ordnet den Fall über die tragenden Prüffelder: Texte, Uebertragen, Zielgruppe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

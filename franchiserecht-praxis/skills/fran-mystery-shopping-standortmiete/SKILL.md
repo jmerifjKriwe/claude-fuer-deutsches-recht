@@ -7,7 +7,7 @@ description: "Fran Mystery Shopping Standortmiete im Franchiserecht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Mystery Shopping Standortmiete** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Mystery-Shopping im Franchisesystem rechtlich absichern, Standortmietvertrag im Franchiserecht absichern, Bau- und Ladenbau-Pflichten im Franchisesystem regeln. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Mystery Shopping Standortmiete** ordnet den Fall über die tragenden Prüffelder: Mystery-Shopping im Franchisesystem rechtlich absichern, Standortmietvertrag im Franchiserecht absichern, Bau- und Ladenbau-Pflichten im Franchisesystem regeln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

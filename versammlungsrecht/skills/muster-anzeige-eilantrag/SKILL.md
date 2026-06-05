@@ -7,7 +7,7 @@ description: "Muster Anzeige Eilantrag im Versammlungsrecht: prüft konkret Erst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Muster Anzeige Eilantrag** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Muster Anzeige Eilantrag** ordnet den Fall über die tragenden Prüffelder: Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

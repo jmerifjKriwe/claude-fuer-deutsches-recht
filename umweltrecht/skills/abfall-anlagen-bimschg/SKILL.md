@@ -7,7 +7,7 @@ description: "Abfall Anlagen Bimschg im Plugin Umweltrecht: prüft konkret Abfal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abfall Anlagen Bimschg** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Abfall, Anlagen, Bimschg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abfall Anlagen Bimschg** ordnet den Fall über die tragenden Prüffelder: Abfall, Anlagen, Bimschg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

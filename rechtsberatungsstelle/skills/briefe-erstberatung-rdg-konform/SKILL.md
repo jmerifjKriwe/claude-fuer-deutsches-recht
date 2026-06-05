@@ -7,7 +7,7 @@ description: "Briefe Erstberatung RDG Konform im Plugin Rechtsberatungsstelle: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Briefe Erstberatung RDG Konform** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Briefe, Erstberatung mit RDG-Grenzen und Triage, Konform. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Briefe Erstberatung RDG Konform** ordnet den Fall über die tragenden Prüffelder: Briefe, Erstberatung mit RDG-Grenzen und Triage, Konform. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

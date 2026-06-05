@@ -7,7 +7,7 @@ description: "Chapter13 Codebtor Stay Discharge Eligibility im Plugin Us Bankrup
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Chapter13 Codebtor Stay Discharge Eligibility** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer st und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Chapter13 Codebtor Stay Discharge Eligibility** ordnet den Fall über die tragenden Prüffelder: Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer st. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

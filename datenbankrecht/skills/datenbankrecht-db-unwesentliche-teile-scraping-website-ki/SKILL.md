@@ -7,7 +7,7 @@ description: "DB Unwesentliche Teile Scraping Website KI im Plugin Datenbankrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Unwesentliche Teile Scraping Website KI** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Analysiert den Kumulations-Tatbestand des § 87b Abs, Rechtliche Bewertung von Web-Scraping gegen Websites mit, Rechtliche Analyse des KI-Trainings mit Datenbankbeständen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Unwesentliche Teile Scraping Website KI** ordnet den Fall über die tragenden Prüffelder: Analysiert den Kumulations-Tatbestand des § 87b Abs, Rechtliche Bewertung von Web-Scraping gegen Websites mit, Rechtliche Analyse des KI-Trainings mit Datenbankbeständen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

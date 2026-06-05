@@ -7,7 +7,7 @@ description: "Green Claims Haptik Tastmarke Keyword im Plugin Markenrecht Fashio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Green Claims Haptik Tastmarke Keyword** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Nachhaltigkeitsmarken und Green Claims prüfen, Haptik- und Tastmarken prüfen, Keyword Advertising und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Green Claims Haptik Tastmarke Keyword** ordnet den Fall über die tragenden Prüffelder: Nachhaltigkeitsmarken und Green Claims prüfen, Haptik- und Tastmarken prüfen, Keyword Advertising. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

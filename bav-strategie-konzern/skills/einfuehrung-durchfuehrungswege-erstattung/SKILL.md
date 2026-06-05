@@ -7,7 +7,7 @@ description: "Einfuehrung Durchfuehrungswege Erstattung im betriebliche Altersve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einfuehrung Durchfuehrungswege Erstattung** als zusammenhängenden Arbeitsgang im betriebliche Altersversorgung (bAV). Im Mittelpunkt steht die Prüfung von Betriebliche Altersversorgung bAV einfuehrend, Auszahlung bAV und Steueroptimierung, Spezialfall grenzueberschreitende bAV bei Auslandsentsendung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einfuehrung Durchfuehrungswege Erstattung** ordnet den Fall über die tragenden Prüffelder: Betriebliche Altersversorgung bAV einfuehrend, Auszahlung bAV und Steueroptimierung, Spezialfall grenzueberschreitende bAV bei Auslandsentsendung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

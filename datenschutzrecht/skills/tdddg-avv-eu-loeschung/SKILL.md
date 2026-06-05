@@ -7,7 +7,7 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tdddg AVV EU Loeschung** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tdddg AVV EU Loeschung** ordnet den Fall über die tragenden Prüffelder: Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

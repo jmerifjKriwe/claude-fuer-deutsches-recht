@@ -7,7 +7,7 @@ description: "Recall Crisis Retail POP im Fashion Law (Moderecht): prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Recall Crisis Retail POP** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Rückruf- und Krisenmanagement für Fashion-Produkte, Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Recall Crisis Retail POP** ordnet den Fall über die tragenden Prüffelder: Rückruf- und Krisenmanagement für Fashion-Produkte, Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

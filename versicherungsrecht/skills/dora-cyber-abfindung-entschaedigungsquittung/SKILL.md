@@ -7,7 +7,7 @@ description: "Dora Cyber Abfindung Entschaedigungsquittung im Plugin Versicherun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dora Cyber Abfindung Entschaedigungsquittung** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von DORA-Compliance für Versicherer/Vermittler, Vergleich mit Versicherern, Abstrakte/konkrete Verweisung in der BU. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dora Cyber Abfindung Entschaedigungsquittung** ordnet den Fall über die tragenden Prüffelder: DORA-Compliance für Versicherer/Vermittler, Vergleich mit Versicherern, Abstrakte/konkrete Verweisung in der BU. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

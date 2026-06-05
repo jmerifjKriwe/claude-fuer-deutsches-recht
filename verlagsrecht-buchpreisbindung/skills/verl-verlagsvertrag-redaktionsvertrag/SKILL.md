@@ -7,7 +7,7 @@ description: "Verl Verlagsvertrag Redaktionsvertrag im Plugin Verlagsrecht Buchp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Verlagsvertrag Redaktionsvertrag** als zusammenhängenden Arbeitsgang im Plugin Verlagsrecht Buchpreisbindung. Im Mittelpunkt steht die Prüfung von Verlagsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Verlagsvertrag Redaktionsvertrag** ordnet den Fall über die tragenden Prüffelder: Verlagsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Artenschutz Naturschutz Aufstellungsbeschluss im Plugin Normenkont
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Artenschutz Naturschutz Aufstellungsbeschluss** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Buerger oder Naturschutzverband greift Bebauungsplan wegen, Mandant prüft ob ein Bebauungsplan an einem, Benutzungssatzungen kommunaler Einrichtungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Artenschutz Naturschutz Aufstellungsbeschluss** ordnet den Fall über die tragenden Prüffelder: Buerger oder Naturschutzverband greift Bebauungsplan wegen, Mandant prüft ob ein Bebauungsplan an einem, Benutzungssatzungen kommunaler Einrichtungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

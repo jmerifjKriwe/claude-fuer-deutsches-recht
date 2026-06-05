@@ -7,7 +7,7 @@ description: "Anzeige Druckmittel Falsche im Strafanzeigen-Vorbereitung: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anzeige Druckmittel Falsche** als zusammenhängenden Arbeitsgang im Strafanzeigen-Vorbereitung. Im Mittelpunkt steht die Prüfung von Prüft, ob Drohung mit Strafanzeige oder Anzeige selbst als, Warn- und Prüfskill zu § 164 StGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anzeige Druckmittel Falsche** ordnet den Fall über die tragenden Prüffelder: Prüft, ob Drohung mit Strafanzeige oder Anzeige selbst als, Warn- und Prüfskill zu § 164 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "WEG Teilungsgrundbuch Zwischenverfuegung im Plugin Grundbuchamt Pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **WEG Teilungsgrundbuch Zwischenverfuegung** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Prüft Teilungserklärung, Aufteilungsplan, Abgeschlossenheit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**WEG Teilungsgrundbuch Zwischenverfuegung** ordnet den Fall über die tragenden Prüffelder: Prüft Teilungserklärung, Aufteilungsplan, Abgeschlossenheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

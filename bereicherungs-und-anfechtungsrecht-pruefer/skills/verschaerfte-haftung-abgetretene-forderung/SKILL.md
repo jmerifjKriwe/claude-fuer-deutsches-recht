@@ -7,7 +7,7 @@ description: "Verschaerfte Haftung Abgetretene Forderung im Plugin Bereicherungs
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verschaerfte Haftung Abgetretene Forderung** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Verschärfte Bereicherungshaftung nach § 819 BGB bei, Dieses Fachmodul greift, wenn Abtretung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verschaerfte Haftung Abgetretene Forderung** ordnet den Fall über die tragenden Prüffelder: Verschärfte Bereicherungshaftung nach § 819 BGB bei, Dieses Fachmodul greift, wenn Abtretung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

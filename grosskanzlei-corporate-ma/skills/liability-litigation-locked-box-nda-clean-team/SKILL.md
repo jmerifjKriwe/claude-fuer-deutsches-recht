@@ -7,7 +7,7 @@ description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (G
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Liability Litigation Locked BOX NDA Clean Team** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Liability Limitations, Basket, De Minimis und Cap und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Liability Litigation Locked BOX NDA Clean Team** ordnet den Fall über die tragenden Prüffelder: Liability Limitations, Basket, De Minimis und Cap. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

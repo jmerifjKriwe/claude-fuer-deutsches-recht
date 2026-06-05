@@ -7,7 +7,7 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Replik Klageerwiderung Richterlicher Hinweis** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüffelder: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

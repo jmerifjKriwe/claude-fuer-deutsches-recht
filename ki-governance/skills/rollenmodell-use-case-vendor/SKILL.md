@@ -7,7 +7,7 @@ description: "Rollenmodell USE Case Vendor im KI-Governance: prüft konkret Roll
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rollenmodell USE Case Vendor** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von Rollenmodell, Use-Case-Risikoklassifizierung nach KI-VO und DSGVO, Vendor. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rollenmodell USE Case Vendor** ordnet den Fall über die tragenden Prüffelder: Rollenmodell, Use-Case-Risikoklassifizierung nach KI-VO und DSGVO, Vendor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

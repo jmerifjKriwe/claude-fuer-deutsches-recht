@@ -7,7 +7,7 @@ description: "VS Eigentum Erbbauzins Rueckstand im Plugin Erbbaurecht Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VS Eigentum Erbbauzins Rueckstand** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VS Eigentum Erbbauzins Rueckstand** ordnet den Fall über die tragenden Prüffelder: Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

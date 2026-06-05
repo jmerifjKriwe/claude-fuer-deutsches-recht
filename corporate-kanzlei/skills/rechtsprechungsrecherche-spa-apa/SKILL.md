@@ -7,7 +7,7 @@ description: "Rechtsprechungsrecherche SPA APA im Corporate-Kanzlei-Praxis: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechungsrecherche SPA APA** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Corporate-Rechtsprechungsrecherche, SPA (Share Purchase Agreement) oder APA (Asset Purchase. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechungsrecherche SPA APA** ordnet den Fall über die tragenden Prüffelder: Corporate-Rechtsprechungsrecherche, SPA (Share Purchase Agreement) oder APA (Asset Purchase. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Weisungsgebundenheit Widerspruch Klage im Sozialversicherungsstatu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Weisungsgebundenheit Widerspruch Klage** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Vertieft Weisungen zu Inhalt, Durchführung, Zeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Weisungsgebundenheit Widerspruch Klage** ordnet den Fall über die tragenden Prüffelder: Vertieft Weisungen zu Inhalt, Durchführung, Zeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

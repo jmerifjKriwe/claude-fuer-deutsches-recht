@@ -83,6 +83,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `schiedsstellen-krankenkassen-schweigepflicht` | Schiedsstellen Krankenkassen Schweigepflicht im Plugin Apothekenrecht: prüft konkret Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht PTA Approbation, Securpharm Fälschungsschutz. Liefert priorisierten Output mit Norm-P... |
 | `skonti-boni-t-rezept-telepharmazie-grenzen` | Skonti Boni T Rezept Telepharmazie Grenzen im Plugin Apothekenrecht: prüft konkret Skonti Boni Rabatte Zuweisungsverbot, T-Rezept besondere Arzneimittel, Telepharmazie Grenzen Chancen. Liefert priorisierten Output mit Norm-Pinpoints, Ris... |
 | `versandhandel-e-versandhandelserlaubnis-eu` | Versandhandel E Versandhandelserlaubnis EU im Plugin Apothekenrecht: prüft konkret zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel un, Versandhandelserlaubnis EU Versandapotheke, Versorgung Pflegeheim Schnit... |
-| `widerruf-ruecknahme` | Widerruf Ruecknahme im Plugin Apothekenrecht: Dieser Skill arbeitet Widerruf Ruecknahme als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `widerruf-ruecknahme` | Widerruf Ruecknahme im Plugin Apothekenrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

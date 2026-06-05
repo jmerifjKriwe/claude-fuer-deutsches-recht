@@ -7,7 +7,7 @@ description: "Pruefungsgespraech AG Rechtsgeschichte im Jurastudium: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pruefungsgespraech AG Rechtsgeschichte** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Prüfungsgespraech und Sokrates-Methode in, Übt deutsche und europäische Rechtsgeschichte für, Gutachtenstil. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pruefungsgespraech AG Rechtsgeschichte** ordnet den Fall über die tragenden Prüffelder: Prüfungsgespraech und Sokrates-Methode in, Übt deutsche und europäische Rechtsgeschichte für, Gutachtenstil. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

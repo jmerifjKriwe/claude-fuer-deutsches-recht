@@ -7,7 +7,7 @@ description: "Vertragstypen Mischvertrag Werkvertrag im Plugin Bgb Bt Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertragstypen Mischvertrag Werkvertrag** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Vertragstypen-Router, Werkvertrag, Werkvertrag § 631 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertragstypen Mischvertrag Werkvertrag** ordnet den Fall über die tragenden Prüffelder: Vertragstypen-Router, Werkvertrag, Werkvertrag § 631 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

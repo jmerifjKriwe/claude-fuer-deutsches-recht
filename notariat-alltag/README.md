@@ -47,7 +47,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `aktenabschluss-archivierung` | Aktenabschluss Archivierung im Plugin Notariat Alltag: Dieser Skill arbeitet Aktenabschluss Archivierung als zusammenhängenden Arbeitsgang im Plugin Notariat Alltag ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Ou... |
+| `aktenabschluss-archivierung` | Aktenabschluss Archivierung im Plugin Notariat Alltag: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `auslandsurkunde-apostille-vollmacht` | Auslandsurkunde Apostille Vollmacht im Plugin Notariat Alltag: prüft konkret Notariat im Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `auszahlungsvoraussetzungen-kaufpreis` | Auszahlungsvoraussetzungen Kaufpreis im Plugin Notariat Alltag: prüft konkret Notariat im Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `bautraegervertrag-mabv-familiengesellschaft` | Bautraegervertrag Mabv Familiengesellschaft im Plugin Notariat Alltag: prüft konkret Notariat im Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |

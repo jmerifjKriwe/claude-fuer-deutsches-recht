@@ -7,7 +7,7 @@ description: "Sammelgenehmigung Export Schulung im Außenwirtschaftsrecht, Zoll 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sammelgenehmigung Export Schulung** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Globale und Sammelausfuhrgenehmigungen bei BAFA, Konzeption und Durchfuehrung von Exportkontroll-Schulungen, EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sammelgenehmigung Export Schulung** ordnet den Fall über die tragenden Prüffelder: Globale und Sammelausfuhrgenehmigungen bei BAFA, Konzeption und Durchfuehrung von Exportkontroll-Schulungen, EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

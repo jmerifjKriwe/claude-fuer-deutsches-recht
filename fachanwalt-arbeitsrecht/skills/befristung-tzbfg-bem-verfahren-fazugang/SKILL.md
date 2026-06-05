@@ -7,7 +7,7 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Befristung Tzbfg BEM Verfahren Fazugang** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüffeld für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Befristung Tzbfg BEM Verfahren Fazugang** ordnet den Fall über die tragenden Prüffelder: Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüffeld für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

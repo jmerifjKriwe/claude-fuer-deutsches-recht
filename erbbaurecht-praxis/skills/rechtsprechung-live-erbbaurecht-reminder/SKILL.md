@@ -7,7 +7,7 @@ description: "Rechtsprechung Live Erbbaurecht Reminder im Plugin Erbbaurecht Pra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Live Erbbaurecht Reminder** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Sichert, dass Entscheidungen nur mit Gericht, Datum. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Live Erbbaurecht Reminder** ordnet den Fall über die tragenden Prüffelder: Sichert, dass Entscheidungen nur mit Gericht, Datum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

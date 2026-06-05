@@ -7,7 +7,7 @@ description: "Anfechtungsfolgen Paragraphen Anspruchsaufbau im Plugin Bgb At Pru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfechtungsfolgen Paragraphen Anspruchsaufbau** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB, Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im, Klausurfall zur Auslegung von Willenserklärungen und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfechtungsfolgen Paragraphen Anspruchsaufbau** ordnet den Fall über die tragenden Prüffelder: Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB, Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im, Klausurfall zur Auslegung von Willenserklärungen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

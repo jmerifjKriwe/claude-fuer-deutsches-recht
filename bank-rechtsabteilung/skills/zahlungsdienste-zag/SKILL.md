@@ -1,13 +1,13 @@
 ---
 name: zahlungsdienste-zag
-description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: Dieser Skill arbeitet Zahlungsdienste ZAG als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zahlungsdienste ZAG
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zahlungsdienste ZAG** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zahlungsdienste ZAG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

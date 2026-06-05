@@ -7,7 +7,7 @@ description: "Handelsregisterabruf KI Governance im Corporate-Kanzlei-Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsregisterabruf KI Governance** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Handelsregister-Daten abrufen und analysieren, KI-Governance und Berufsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsregisterabruf KI Governance** ordnet den Fall über die tragenden Prüffelder: Handelsregister-Daten abrufen und analysieren, KI-Governance und Berufsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

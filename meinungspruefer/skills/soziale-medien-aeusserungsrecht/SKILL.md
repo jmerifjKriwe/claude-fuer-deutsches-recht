@@ -7,7 +7,7 @@ description: "Soziale Medien Aeusserungsrecht im Plugin Meinungspruefer: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Soziale Medien Aeusserungsrecht** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Soziale Medien Aeusserungsrecht** ordnet den Fall über die tragenden Prüffelder: Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

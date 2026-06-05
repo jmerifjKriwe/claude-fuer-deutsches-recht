@@ -7,7 +7,7 @@ description: "Lease Leasing Abrechnung Inkasso im Plugin Leasingrecht Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lease Leasing Abrechnung Inkasso** als zusammenhängenden Arbeitsgang im Plugin Leasingrecht Praxis. Im Mittelpunkt steht die Prüfung von Leasingabrechnung, Inkasso von Leasingforderungen, Gerichtliche Durchsetzung von Leasingraten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lease Leasing Abrechnung Inkasso** ordnet den Fall über die tragenden Prüffelder: Leasingabrechnung, Inkasso von Leasingforderungen, Gerichtliche Durchsetzung von Leasingraten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

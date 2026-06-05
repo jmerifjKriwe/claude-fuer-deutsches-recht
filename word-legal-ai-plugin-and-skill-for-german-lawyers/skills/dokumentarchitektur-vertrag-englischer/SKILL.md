@@ -7,7 +7,7 @@ description: "Dokumentarchitektur Vertrag Englischer im Word-Legal-AI für Anwä
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dokumentarchitektur Vertrag Englischer** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Dokumentarchitektur juristischer Texte sauber bauen, Draftet oder prüft englischsprachige Verträge mit deutschem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dokumentarchitektur Vertrag Englischer** ordnet den Fall über die tragenden Prüffelder: Dokumentarchitektur juristischer Texte sauber bauen, Draftet oder prüft englischsprachige Verträge mit deutschem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

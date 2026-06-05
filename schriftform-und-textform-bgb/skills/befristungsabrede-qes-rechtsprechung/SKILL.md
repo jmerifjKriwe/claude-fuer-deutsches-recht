@@ -7,7 +7,7 @@ description: "Befristungsabrede QES Rechtsprechung im Plugin Schriftform Und Tex
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Befristungsabrede QES Rechtsprechung** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Red-Team Qualitygate im Plugin schriftform-und-textform-bgb, Aktuelle Rechtsprechung zur elektronischen Signatur bei, Livecheck verifizierter Rechtsprechung zu Schriftform. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Befristungsabrede QES Rechtsprechung** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin schriftform-und-textform-bgb, Aktuelle Rechtsprechung zur elektronischen Signatur bei, Livecheck verifizierter Rechtsprechung zu Schriftform. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

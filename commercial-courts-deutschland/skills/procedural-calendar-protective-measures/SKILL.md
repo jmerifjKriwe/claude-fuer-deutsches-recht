@@ -7,7 +7,7 @@ description: "Procedural Calendar Protective Measures im Commercial Courts in De
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Procedural Calendar Protective Measures** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Erstellt einen prozessualen Verfahrenskalender mit, Anlagen, Plant Schutzmaßnahmen für vertrauliche Anlagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Procedural Calendar Protective Measures** ordnet den Fall über die tragenden Prüffelder: Erstellt einen prozessualen Verfahrenskalender mit, Anlagen, Plant Schutzmaßnahmen für vertrauliche Anlagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

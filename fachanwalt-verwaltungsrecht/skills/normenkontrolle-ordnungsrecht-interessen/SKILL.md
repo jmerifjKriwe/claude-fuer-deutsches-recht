@@ -7,7 +7,7 @@ description: "Normenkontrolle Ordnungsrecht Interessen im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Normenkontrolle Ordnungsrecht Interessen** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Normenkontrolle, Ordnungsrecht, Orientierung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Normenkontrolle Ordnungsrecht Interessen** ordnet den Fall über die tragenden Prüffelder: Normenkontrolle, Ordnungsrecht, Orientierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

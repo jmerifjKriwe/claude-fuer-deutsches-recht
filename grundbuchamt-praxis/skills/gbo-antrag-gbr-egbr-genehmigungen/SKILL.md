@@ -7,7 +7,7 @@ description: "GBO Antrag GBR Egbr Genehmigungen im Plugin Grundbuchamt Praxis: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **GBO Antrag GBR Egbr Genehmigungen** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Prüft GBO-Mechanik aus Antrag, Bewilligung, Eintragungsfähigkeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**GBO Antrag GBR Egbr Genehmigungen** ordnet den Fall über die tragenden Prüffelder: Prüft GBO-Mechanik aus Antrag, Bewilligung, Eintragungsfähigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

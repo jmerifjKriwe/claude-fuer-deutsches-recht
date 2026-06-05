@@ -7,7 +7,7 @@ description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorlaeufiger Vwvfg Vergleichsverhandlung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verwaltungsrecht. Im Mittelpunkt steht die Prüfung von Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorlaeufiger Vwvfg Vergleichsverhandlung** ordnet den Fall über die tragenden Prüffelder: Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

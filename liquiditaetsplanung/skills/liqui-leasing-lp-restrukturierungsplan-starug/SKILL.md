@@ -7,7 +7,7 @@ description: "Liqui Leasing LP Restrukturierungsplan Starug im Plugin Liquiditae
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Liqui Leasing LP Restrukturierungsplan Starug** als zusammenhängenden Arbeitsgang im Plugin Liquiditaetsplanung. Im Mittelpunkt steht die Prüfung von Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan, Liquiditaetsplanung im Restrukturierungsplan StaRUG, Saisonalitaet erkennen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Liqui Leasing LP Restrukturierungsplan Starug** ordnet den Fall über die tragenden Prüffelder: Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan, Liquiditaetsplanung im Restrukturierungsplan StaRUG, Saisonalitaet erkennen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

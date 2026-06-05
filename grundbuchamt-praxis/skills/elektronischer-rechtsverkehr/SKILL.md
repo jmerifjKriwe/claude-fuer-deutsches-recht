@@ -7,7 +7,7 @@ description: "Elektronischer Rechtsverkehr im Plugin Grundbuchamt Praxis: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elektronischer Rechtsverkehr** als zusammenhängenden Arbeitsgang im Plugin Grundbuchamt Praxis. Im Mittelpunkt steht die Prüfung von Prüft elektronische Einreichung, notarielle Signatur, Scans. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elektronischer Rechtsverkehr** ordnet den Fall über die tragenden Prüffelder: Prüft elektronische Einreichung, notarielle Signatur, Scans. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbandsrecht Sportr Doping Spielervertrag** als zusammenhängenden Arbeitsgang im Sportrecht. Im Mittelpunkt steht die Prüfung von Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüffeld für fachanwalt sportrecht spielervertrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbandsrecht Sportr Doping Spielervertrag** ordnet den Fall über die tragenden Prüffelder: Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüffeld für fachanwalt sportrecht spielervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

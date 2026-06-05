@@ -7,7 +7,7 @@ description: "PE Fundraising Vertrieb Subscription Package Side LP Transfer im P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Fundraising Vertrieb Subscription Package Side LP Transfer** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft Pitch Deck, PPM, Zeichnungsschein und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Fundraising Vertrieb Subscription Package Side LP Transfer** ordnet den Fall über die tragenden Prüffelder: Prüft Pitch Deck, PPM, Zeichnungsschein. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

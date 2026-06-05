@@ -7,7 +7,7 @@ description: "Goldplating Vermeiden Inkrafttreten im Legistik (Gesetzgebungstech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Goldplating Vermeiden Inkrafttreten** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Goldplating bei nationaler EU-Richtlinien-Umsetzung, Inkrafttretens- und Übergangsregelung für Gesetze und, Legistischen Auftrag strukturiert aufnehmen und in und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Goldplating Vermeiden Inkrafttreten** ordnet den Fall über die tragenden Prüffelder: Goldplating bei nationaler EU-Richtlinien-Umsetzung, Inkrafttretens- und Übergangsregelung für Gesetze und, Legistischen Auftrag strukturiert aufnehmen und in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

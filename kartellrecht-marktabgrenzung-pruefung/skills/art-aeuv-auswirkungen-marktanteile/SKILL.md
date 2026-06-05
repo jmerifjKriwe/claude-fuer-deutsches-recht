@@ -7,7 +7,7 @@ description: "ART Aeuv Auswirkungen Marktanteile im Kartellrecht (Marktabgrenzun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ART Aeuv Auswirkungen Marktanteile** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Mis, Wie aendert sich der Marktanteil des Mandanten je nachdem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ART Aeuv Auswirkungen Marktanteile** ordnet den Fall über die tragenden Prüffelder: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Mis, Wie aendert sich der Marktanteil des Mandanten je nachdem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

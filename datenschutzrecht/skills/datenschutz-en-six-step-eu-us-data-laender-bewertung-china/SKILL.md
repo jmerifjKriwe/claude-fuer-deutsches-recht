@@ -7,7 +7,7 @@ description: "Datenschutz EN SIX Step EU US Data Laender Bewertung China im Date
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz EN SIX Step EU US Data Laender Bewertung China** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz EN SIX Step EU US Data Laender Bewertung China** ordnet den Fall über die tragenden Prüffelder: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

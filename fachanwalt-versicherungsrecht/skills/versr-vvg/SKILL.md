@@ -1,13 +1,13 @@
 ---
 name: versr-vvg
-description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht: Dieser Skill arbeitet Versr VVG als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Versr VVG
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Versr VVG** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Versr VVG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

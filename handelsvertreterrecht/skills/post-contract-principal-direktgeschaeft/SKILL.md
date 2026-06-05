@@ -7,7 +7,7 @@ description: "Post Contract Principal Direktgeschaeft im Handelsvertreterrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Post Contract Principal Direktgeschaeft** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB, Prüft Direktgeschäfte des Unternehmers im, Klärt Entstehung und Durchsetzung des Provisionsanspruchs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Post Contract Principal Direktgeschaeft** ordnet den Fall über die tragenden Prüffelder: Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB, Prüft Direktgeschäfte des Unternehmers im, Klärt Entstehung und Durchsetzung des Provisionsanspruchs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

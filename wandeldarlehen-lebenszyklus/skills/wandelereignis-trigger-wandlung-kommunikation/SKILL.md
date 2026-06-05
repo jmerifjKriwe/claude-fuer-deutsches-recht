@@ -7,7 +7,7 @@ description: "Wandelereignis Trigger Wandlung Kommunikation im Plugin Wandeldarl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wandelereignis Trigger Wandlung Kommunikation** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Wandlungstrigger kategorisieren und an den richtigen, Kommunikation und Dokumentenversand an alle Beteiligten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wandelereignis Trigger Wandlung Kommunikation** ordnet den Fall über die tragenden Prüffelder: Wandlungstrigger kategorisieren und an den richtigen, Kommunikation und Dokumentenversand an alle Beteiligten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

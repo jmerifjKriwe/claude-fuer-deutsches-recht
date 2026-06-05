@@ -7,7 +7,7 @@ description: "Insolvenzverschleppung Bankrott Beweisimport im Plugin Staatsanwal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insolvenzverschleppung Bankrott Beweisimport** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Insolvenzverschleppung und Bankrott, Internationaler Beweisimport und Verwertung, Jugendstrafrecht aus StA-Sicht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insolvenzverschleppung Bankrott Beweisimport** ordnet den Fall über die tragenden Prüffelder: Insolvenzverschleppung und Bankrott, Internationaler Beweisimport und Verwertung, Jugendstrafrecht aus StA-Sicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

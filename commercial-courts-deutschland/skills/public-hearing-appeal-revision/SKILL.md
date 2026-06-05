@@ -7,7 +7,7 @@ description: "Public Hearing Appeal Revision im Commercial Courts in Deutschland
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Public Hearing Appeal Revision** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Steuert Öffentlichkeit, Presse, Public Relations und sensitive Unternehmenskommu. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Public Hearing Appeal Revision** ordnet den Fall über die tragenden Prüffelder: Steuert Öffentlichkeit, Presse, Public Relations und sensitive Unternehmenskommu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

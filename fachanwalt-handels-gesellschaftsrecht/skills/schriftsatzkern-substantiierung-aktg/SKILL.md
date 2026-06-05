@@ -7,7 +7,7 @@ description: "Schriftsatzkern Substantiierung Aktg im Plugin Fachanwalt Handels 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schriftsatzkern Substantiierung Aktg** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Substantiierter Schriftsatzkern für, AktG, Beschlussanfechtung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schriftsatzkern Substantiierung Aktg** ordnet den Fall über die tragenden Prüffelder: Substantiierter Schriftsatzkern für, AktG, Beschlussanfechtung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ): Dieser Skill arbeitet Zustellung Postfach als zusammenhängenden Arbeitsgang im Plugin Juristische Sprache Deutsch Als Zweitsprache ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zustellung Postfach
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zustellung Postfach** als zusammenhängenden Arbeitsgang im Plugin Juristische Sprache Deutsch Als Zweitsprache ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zustellung Postfach** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

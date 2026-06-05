@@ -7,7 +7,7 @@ description: "STB Lohn Krankheit Mandantenaufnahme im Steuerrecht (Anwalt/Berate
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Lohn Krankheit Mandantenaufnahme** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU, Onboarding eines neuen Lohn-Mandanten, Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Lohn Krankheit Mandantenaufnahme** ordnet den Fall über die tragenden Prüffelder: Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU, Onboarding eines neuen Lohn-Mandanten, Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

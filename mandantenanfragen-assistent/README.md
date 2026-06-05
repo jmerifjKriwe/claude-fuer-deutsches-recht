@@ -162,6 +162,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `nennt-sachverhalt-telefon` | Nennt Sachverhalt Telefon im Mandantenanfragen-Triage: prüft konkret Nennt, Sachverhalt, Telefon. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `telefonische-terminvergabe-interessen` | Telefonische Terminvergabe Interessen im Mandantenanfragen-Triage: prüft konkret Telefonische, Terminvergabe, Transkription. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `uebernimmt-telefon-konfiguration` | Uebernimmt Telefon Konfiguration im Mandantenanfragen-Triage: prüft konkret Uebernimmt, Kanzlei muss Telefonnummern für Sekretariat und, Mandant kann seinen Fall nicht schriftlich schildern und. Liefert priorisierten Output mit Norm-Pinp... |
-| `vertraulichkeit-erinnerung` | Vertraulichkeit Erinnerung im Mandantenanfragen-Triage: Dieser Skill arbeitet Vertraulichkeit Erinnerung als zusammenhängenden Arbeitsgang im Plugin Mandantenanfragen-Assistent ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und ge... |
+| `vertraulichkeit-erinnerung` | Vertraulichkeit Erinnerung im Mandantenanfragen-Triage: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

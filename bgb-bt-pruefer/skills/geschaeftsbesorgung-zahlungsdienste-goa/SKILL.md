@@ -7,7 +7,7 @@ description: "Geschaeftsbesorgung Zahlungsdienste GOA im Plugin Bgb Bt Pruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geschaeftsbesorgung Zahlungsdienste GOA** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Zahlungsdienstleistungen § 675c ff, Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und, Prüft Geschäftsführung ohne Auftrag §§ 677 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geschaeftsbesorgung Zahlungsdienste GOA** ordnet den Fall über die tragenden Prüffelder: Prüft Zahlungsdienstleistungen § 675c ff, Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und, Prüft Geschäftsführung ohne Auftrag §§ 677 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

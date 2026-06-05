@@ -7,7 +7,7 @@ description: "Expert Calls Fair Disclosure Financing im Corporate/M&A (Großkanz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Expert Calls Fair Disclosure Financing** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Expert Calls und Transkript-Auswertung für M&A Due Diligence, Fair Disclosure und Knowledge-Qualifikation in, Financing und Security Documents Skill und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Expert Calls Fair Disclosure Financing** ordnet den Fall über die tragenden Prüffelder: Expert Calls und Transkript-Auswertung für M&A Due Diligence, Fair Disclosure und Knowledge-Qualifikation in, Financing und Security Documents Skill. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

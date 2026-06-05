@@ -7,7 +7,7 @@ description: "Verteidigung Verwendungen Erlangte im Plugin Bereicherungs Und Anf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verteidigung Verwendungen Erlangte** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt wer, wenn Aufwendungen auf den erhaltenen Gegenstand als Abz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verteidigung Verwendungen Erlangte** ordnet den Fall über die tragenden Prüffelder: Dieses Fachmodul greift, wenn eine Bereicherungsklage systematisch abgewehrt wer, wenn Aufwendungen auf den erhaltenen Gegenstand als Abz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

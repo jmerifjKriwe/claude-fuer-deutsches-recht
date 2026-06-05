@@ -7,7 +7,7 @@ description: "Intake Klassen im Plugin Insolvenzplan Starug Planwerkstatt: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Intake Klassen** als zusammenhängenden Arbeitsgang im Plugin Insolvenzplan Starug Planwerkstatt. Im Mittelpunkt steht die Prüfung von Insolvenzplan, Intake, Klassen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Intake Klassen** ordnet den Fall über die tragenden Prüffelder: Insolvenzplan, Intake, Klassen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

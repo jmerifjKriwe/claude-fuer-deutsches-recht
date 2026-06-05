@@ -7,7 +7,7 @@ description: "Revision BSG Ruecknahme SGB Sachstandsanfrage im Selbstvertretung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Revision BSG Ruecknahme SGB Sachstandsanfrage** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Revision BSG Ruecknahme SGB Sachstandsanfrage** ordnet den Fall über die tragenden Prüffelder: Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

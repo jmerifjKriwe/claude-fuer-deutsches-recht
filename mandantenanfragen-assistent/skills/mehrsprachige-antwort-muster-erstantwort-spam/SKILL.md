@@ -7,7 +7,7 @@ description: "Mehrsprachige Antwort Muster Erstantwort Spam im Mandantenanfragen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mehrsprachige Antwort Muster Erstantwort Spam** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Mandantenanfrage kam auf Englisch Franzoesisch oder, Kanzlei benoetigt fertige ausfuellbare Vorlage für die, Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mehrsprachige Antwort Muster Erstantwort Spam** ordnet den Fall über die tragenden Prüffelder: Mandantenanfrage kam auf Englisch Franzoesisch oder, Kanzlei benoetigt fertige ausfuellbare Vorlage für die, Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

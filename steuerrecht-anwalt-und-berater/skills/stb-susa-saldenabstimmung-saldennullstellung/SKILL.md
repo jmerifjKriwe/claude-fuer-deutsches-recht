@@ -7,7 +7,7 @@ description: "STB Susa Saldenabstimmung Saldennullstellung im Steuerrecht (Anwal
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Susa Saldenabstimmung Saldennullstellung** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Saldenabstimmung und Saldenbestätigung im, Erfolgskonten-Saldennullstellung zum Jahresende, SuSa-Periodenvergleich Vormonat und Vorjahr und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Susa Saldenabstimmung Saldennullstellung** ordnet den Fall über die tragenden Prüffelder: Saldenabstimmung und Saldenbestätigung im, Erfolgskonten-Saldennullstellung zum Jahresende, SuSa-Periodenvergleich Vormonat und Vorjahr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

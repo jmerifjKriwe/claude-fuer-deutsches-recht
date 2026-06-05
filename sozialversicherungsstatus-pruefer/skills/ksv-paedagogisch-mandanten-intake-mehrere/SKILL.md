@@ -7,7 +7,7 @@ description: "KSV Paedagogisch Mandanten Intake Mehrere im Sozialversicherungsst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KSV Paedagogisch Mandanten Intake Mehrere** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KSV Paedagogisch Mandanten Intake Mehrere** ordnet den Fall über die tragenden Prüffelder: Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

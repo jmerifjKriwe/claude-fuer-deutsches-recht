@@ -7,7 +7,7 @@ description: "Gegenueberstellung Parteivortraege im Aktenauszug-Praxis: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gegenueberstellung Parteivortraege** als zusammenhängenden Arbeitsgang im Aktenauszug-Praxis. Im Mittelpunkt steht die Prüfung von Gegenueberstellung, Parteivortraege, Rechtsargumente. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gegenueberstellung Parteivortraege** ordnet den Fall über die tragenden Prüffelder: Gegenueberstellung, Parteivortraege, Rechtsargumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

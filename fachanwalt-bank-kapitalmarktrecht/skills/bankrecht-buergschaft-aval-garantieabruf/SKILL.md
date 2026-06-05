@@ -7,7 +7,7 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bankrecht Buergschaft Aval Garantieabruf** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bankrecht Buergschaft Aval Garantieabruf** ordnet den Fall über die tragenden Prüffelder: Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafr Vermoegensabschoepfung** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafr Vermoegensabschoepfung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

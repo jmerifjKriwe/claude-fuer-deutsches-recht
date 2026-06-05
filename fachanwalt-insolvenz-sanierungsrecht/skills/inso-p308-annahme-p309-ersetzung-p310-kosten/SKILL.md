@@ -7,7 +7,7 @@ description: "Inso P308 Annahme P309 Ersetzung P310 Kosten im Insolvenz- und San
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P308 Annahme P309 Ersetzung P310 Kosten** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 308 InsO (Annahme des Schuldenbereinigungsplans) im, § 309 InsO (Ersetzung der Zustimmung) im Mandat prüfen, § 310 InsO (Kosten) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P308 Annahme P309 Ersetzung P310 Kosten** ordnet den Fall über die tragenden Prüffelder: § 308 InsO (Annahme des Schuldenbereinigungsplans) im, § 309 InsO (Ersetzung der Zustimmung) im Mandat prüfen, § 310 InsO (Kosten) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

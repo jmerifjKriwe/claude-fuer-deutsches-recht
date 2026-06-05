@@ -1,13 +1,13 @@
 ---
 name: zinsberechnung-bgb
-description: "Zinsberechnung BGB im Plugin Forderungsmanagement Klagewerkstatt: Dieser Skill arbeitet Zinsberechnung BGB als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement / Klagewerkstatt ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zinsberechnung BGB im Plugin Forderungsmanagement Klagewerkstatt: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zinsberechnung BGB
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zinsberechnung BGB** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement / Klagewerkstatt ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zinsberechnung BGB** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

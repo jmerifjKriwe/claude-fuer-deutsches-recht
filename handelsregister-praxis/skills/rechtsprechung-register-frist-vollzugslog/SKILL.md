@@ -7,7 +7,7 @@ description: "Rechtsprechung Register Frist Vollzugslog im Handelsregister-Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Register Frist Vollzugslog** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Register Frist Vollzugslog** ordnet den Fall über die tragenden Prüffelder: Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Crossborder Counsel Dashboard Matter Data im Plugin Kanzlei Mandan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Crossborder Counsel Dashboard Matter Data** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Cross-Border Counsel Sync, Matter Status Dashboard, Datenraum für Board/Gremien und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Crossborder Counsel Dashboard Matter Data** ordnet den Fall über die tragenden Prüffelder: Cross-Border Counsel Sync, Matter Status Dashboard, Datenraum für Board/Gremien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

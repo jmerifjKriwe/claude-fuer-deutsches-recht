@@ -7,7 +7,7 @@ description: "Ifap Insolvenzforderungsanmeldungspruefung im Plugin Insolvenzford
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Insolvenzforderungsanmeldungspruefung** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Ifap, Insolvenzforderungsanmeldungspruefung, Intake. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Insolvenzforderungsanmeldungspruefung** ordnet den Fall über die tragenden Prüffelder: Ifap, Insolvenzforderungsanmeldungspruefung, Intake. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

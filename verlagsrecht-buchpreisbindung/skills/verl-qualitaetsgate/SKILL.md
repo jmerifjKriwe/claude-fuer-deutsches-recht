@@ -1,13 +1,13 @@
 ---
 name: verl-qualitaetsgate
-description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung: Dieser Skill arbeitet Verl Qualitaetsgate als zusammenhängenden Arbeitsgang im Plugin Verlagsrecht / Buchpreisbindung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Verl Qualitaetsgate
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Verl Qualitaetsgate** als zusammenhängenden Arbeitsgang im Plugin Verlagsrecht / Buchpreisbindung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Verl Qualitaetsgate** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

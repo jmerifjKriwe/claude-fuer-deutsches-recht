@@ -7,7 +7,7 @@ description: "Pflegeversicherung Schnittstelle Pflegegrad im Krankenkassenrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflegeversicherung Schnittstelle Pflegegrad** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Schnittstelle GKV und GPV, GKV-Leistungen für sterbende Menschen, Regressansprüche der GKV gegen Leistungserbringer bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflegeversicherung Schnittstelle Pflegegrad** ordnet den Fall über die tragenden Prüffelder: Schnittstelle GKV und GPV, GKV-Leistungen für sterbende Menschen, Regressansprüche der GKV gegen Leistungserbringer bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

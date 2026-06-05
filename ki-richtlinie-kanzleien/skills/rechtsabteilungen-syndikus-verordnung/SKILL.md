@@ -7,7 +7,7 @@ description: "Rechtsabteilungen Syndikus Verordnung im Plugin Ki Richtlinie Kanz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilungen Syndikus Verordnung** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von Rechtsabteilungen, Syndikus, Verordnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilungen Syndikus Verordnung** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungen, Syndikus, Verordnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

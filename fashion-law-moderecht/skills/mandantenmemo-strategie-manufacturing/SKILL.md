@@ -7,7 +7,7 @@ description: "Mandantenmemo Strategie Manufacturing im Fashion Law (Moderecht): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandantenmemo Strategie Manufacturing** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Mandantenmemo für Fashion-Law-Strategie erstellen, Manufacturing Agreement für Mode prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandantenmemo Strategie Manufacturing** ordnet den Fall über die tragenden Prüffelder: Mandantenmemo für Fashion-Law-Strategie erstellen, Manufacturing Agreement für Mode prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

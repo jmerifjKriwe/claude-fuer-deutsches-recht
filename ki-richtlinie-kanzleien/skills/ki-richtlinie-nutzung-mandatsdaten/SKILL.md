@@ -7,7 +7,7 @@ description: "Nutzung Mandatsdaten im Plugin Ki Richtlinie Kanzleien: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nutzung Mandatsdaten** als zusammenhängenden Arbeitsgang im Plugin Ki Richtlinie Kanzleien. Im Mittelpunkt steht die Prüfung von Nutzungsrichtlinie, Auftragsverarbeitungsvertrag nach Art, Musterklauseln für IT-Vertraege mit KI-Dienstleistern in. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nutzung Mandatsdaten** ordnet den Fall über die tragenden Prüffelder: Nutzungsrichtlinie, Auftragsverarbeitungsvertrag nach Art, Musterklauseln für IT-Vertraege mit KI-Dienstleistern in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

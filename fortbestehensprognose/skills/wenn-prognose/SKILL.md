@@ -1,13 +1,13 @@
 ---
 name: wenn-prognose
-description: "Wenn Prognose im Plugin Fortbestehensprognose: Dieser Skill arbeitet Wenn Prognose als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose (IDW S 11) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wenn Prognose im Plugin Fortbestehensprognose: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wenn Prognose
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wenn Prognose** als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose (IDW S 11) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wenn Prognose** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

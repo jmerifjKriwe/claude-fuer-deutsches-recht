@@ -7,7 +7,7 @@ description: "Flug Massenklage Einfuehrung VO im Fluggastrechte: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Flug Massenklage Einfuehrung VO** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Spezialfall Massenklage und Prozessfinanzierung in, Einfuehrung VO (EG) 261/2004, Prüffeld für forderungsschreiben erste stufe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Flug Massenklage Einfuehrung VO** ordnet den Fall über die tragenden Prüffelder: Spezialfall Massenklage und Prozessfinanzierung in, Einfuehrung VO (EG) 261/2004, Prüffeld für forderungsschreiben erste stufe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

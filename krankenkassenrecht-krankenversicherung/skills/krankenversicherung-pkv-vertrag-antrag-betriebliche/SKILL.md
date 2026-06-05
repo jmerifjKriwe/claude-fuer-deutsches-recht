@@ -7,7 +7,7 @@ description: "PKV Vertrag Antrag Betriebliche im Krankenkassenrecht / Krankenver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PKV Vertrag Antrag Betriebliche** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG), Betriebliche Krankenversicherung (bKV), Versicherungspflicht (§ 5 SGB V). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PKV Vertrag Antrag Betriebliche** ordnet den Fall über die tragenden Prüffelder: Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG), Betriebliche Krankenversicherung (bKV), Versicherungspflicht (§ 5 SGB V). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

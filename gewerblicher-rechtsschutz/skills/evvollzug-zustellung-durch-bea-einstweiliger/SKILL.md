@@ -7,7 +7,7 @@ description: "Evvollzug Zustellung Durch BEA Einstweiliger im Plugin Gewerbliche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Evvollzug Zustellung Durch BEA Einstweiliger** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von EV-Vollzug. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Evvollzug Zustellung Durch BEA Einstweiliger** ordnet den Fall über die tragenden Prüffelder: EV-Vollzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

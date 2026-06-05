@@ -7,7 +7,7 @@ description: "Technik Lautsprecher Untatigkeit Schweigen im Versammlungsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Technik Lautsprecher Untatigkeit Schweigen** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Prüft Lautsprecher, Megaphon, Bühne. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Technik Lautsprecher Untatigkeit Schweigen** ordnet den Fall über die tragenden Prüffelder: Prüft Lautsprecher, Megaphon, Bühne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

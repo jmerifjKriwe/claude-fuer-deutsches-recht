@@ -1,13 +1,13 @@
 ---
 name: inso-p126
-description: "Inso P126 im Insolvenz- und Sanierungsrecht: Dieser Skill arbeitet Inso P126 als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Inso P126 im Insolvenz- und Sanierungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Inso P126
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Inso P126** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Inso P126** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

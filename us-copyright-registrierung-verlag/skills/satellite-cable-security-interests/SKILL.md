@@ -7,7 +7,7 @@ description: "Satellite Cable Security Interests im Plugin Us Copyright Registri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Satellite Cable Security Interests** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Prueft statutory licenses für Cable, Satellite, retransmission und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Satellite Cable Security Interests** ordnet den Fall über die tragenden Prüffelder: Prueft statutory licenses für Cable, Satellite, retransmission. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

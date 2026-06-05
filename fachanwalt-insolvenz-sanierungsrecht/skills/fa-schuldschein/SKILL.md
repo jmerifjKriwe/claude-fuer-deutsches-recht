@@ -1,13 +1,13 @@
 ---
 name: fa-schuldschein
-description: "FA Schuldschein im Insolvenz- und Sanierungsrecht: Dieser Skill arbeitet FA Schuldschein als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "FA Schuldschein im Insolvenz- und Sanierungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # FA Schuldschein
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **FA Schuldschein** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Insolvenz- und Sanierungsrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**FA Schuldschein** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

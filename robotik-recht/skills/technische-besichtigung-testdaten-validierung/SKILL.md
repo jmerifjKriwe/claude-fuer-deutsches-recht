@@ -7,7 +7,7 @@ description: "Technische Besichtigung Testdaten Validierung im Robotik- und KI-R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Technische Besichtigung Testdaten Validierung** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Plant gerichtliche oder außergerichtliche Besichtigung, Prüft Testdaten, Validierungsplan. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Technische Besichtigung Testdaten Validierung** ordnet den Fall über die tragenden Prüffelder: Plant gerichtliche oder außergerichtliche Besichtigung, Prüft Testdaten, Validierungsplan. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Space Open Source KI AN Drohnen High im Plugin Weltraumrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Open Source KI AN Drohnen High** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kom und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Open Source KI AN Drohnen High** ordnet den Fall über die tragenden Prüffelder: Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kom. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

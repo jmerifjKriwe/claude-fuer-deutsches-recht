@@ -7,7 +7,7 @@ description: "Beschlagnahme Oeffentliche Lasten im Zwangsverwaltung (ZVG): prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beschlagnahme Oeffentliche Lasten** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Red-Team Qualitygate im Plugin zwangsverwaltung-zvg, Beschlagnahme, Öffentliche Lasten und grundstuecksbezogene Abgaben in der. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beschlagnahme Oeffentliche Lasten** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin zwangsverwaltung-zvg, Beschlagnahme, Öffentliche Lasten und grundstuecksbezogene Abgaben in der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

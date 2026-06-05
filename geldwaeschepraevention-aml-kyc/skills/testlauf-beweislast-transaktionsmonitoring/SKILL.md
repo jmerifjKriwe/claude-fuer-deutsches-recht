@@ -7,7 +7,7 @@ description: "Testlauf Beweislast Transaktionsmonitoring im Plugin Geldwaeschepr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Testlauf Beweislast Transaktionsmonitoring** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Testlauf, Transaktionsmonitoring, Transparenzregister. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Testlauf Beweislast Transaktionsmonitoring** ordnet den Fall über die tragenden Prüffelder: Testlauf, Transaktionsmonitoring, Transparenzregister. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

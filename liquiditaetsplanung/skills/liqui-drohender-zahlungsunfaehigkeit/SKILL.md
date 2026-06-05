@@ -7,7 +7,7 @@ description: "Liqui Drohender Zahlungsunfaehigkeit im Plugin Liquiditaetsplanung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Liqui Drohender Zahlungsunfaehigkeit** als zusammenhängenden Arbeitsgang im Plugin Liquiditaetsplanung. Im Mittelpunkt steht die Prüfung von Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18, Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit, Liquiditaetsplanung fuer Bankgespraech. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Liqui Drohender Zahlungsunfaehigkeit** ordnet den Fall über die tragenden Prüffelder: Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18, Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit, Liquiditaetsplanung fuer Bankgespraech. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "INS Directors Closed im Insiderrecht und Compliance: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Directors Closed** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft und dokumentiert Eigengeschaefte von, Verwaltet Closed Periods nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Directors Closed** ordnet den Fall über die tragenden Prüffelder: Prueft und dokumentiert Eigengeschaefte von, Verwaltet Closed Periods nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

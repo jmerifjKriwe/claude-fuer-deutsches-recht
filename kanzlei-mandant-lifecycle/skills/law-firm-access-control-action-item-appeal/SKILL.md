@@ -7,7 +7,7 @@ description: "LAW Firm Access Control Action Item Appeal im Plugin Kanzlei Manda
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **LAW Firm Access Control Action Item Appeal** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Law Firm Feedback Loop, Access Control Roles, Action-Item Owner Matrix und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**LAW Firm Access Control Action Item Appeal** ordnet den Fall über die tragenden Prüffelder: Law Firm Feedback Loop, Access Control Roles, Action-Item Owner Matrix. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

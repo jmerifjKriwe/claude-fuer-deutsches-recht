@@ -7,7 +7,7 @@ description: "Laienhilfe Dolmetscher Sprache Eilantrag im Plugin Fachanwalt Sozi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Laienhilfe Dolmetscher Sprache Eilantrag** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher, Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall, Laienverstaendlicher Sozialrechts-Skill zu und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Laienhilfe Dolmetscher Sprache Eilantrag** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher, Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall, Laienverstaendlicher Sozialrechts-Skill zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

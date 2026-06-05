@@ -7,7 +7,7 @@ description: "Aufbewahrung Beweislast Dora IT im Plugin Krankenhausrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aufbewahrung Beweislast Dora IT** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast, DORA und IT-Dienstleister soweit einschlägig. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aufbewahrung Beweislast Dora IT** ordnet den Fall über die tragenden Prüffelder: Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast, DORA und IT-Dienstleister soweit einschlägig. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

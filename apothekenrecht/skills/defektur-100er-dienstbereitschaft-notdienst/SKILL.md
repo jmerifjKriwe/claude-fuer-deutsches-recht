@@ -7,7 +7,7 @@ description: "Defektur 100er Dienstbereitschaft Notdienst im Plugin Apothekenrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Defektur 100er Dienstbereitschaft Notdienst** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Defektur 100er-Regel Qualitätssicherung, Dienstbereitschaft Notdienst Schließung, Digitale Plattformen Marktplatz Apothekenrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Defektur 100er Dienstbereitschaft Notdienst** ordnet den Fall über die tragenden Prüffelder: Defektur 100er-Regel Qualitätssicherung, Dienstbereitschaft Notdienst Schließung, Digitale Plattformen Marktplatz Apothekenrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Haertefall Fahrverbot im Plugin Verkehrsowi Verteidiger: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Haertefall Fahrverbot** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG, Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten, Mandantenkommunikation im OWi-Mandat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Haertefall Fahrverbot** ordnet den Fall über die tragenden Prüffelder: Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG, Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten, Mandantenkommunikation im OWi-Mandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

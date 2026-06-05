@@ -7,7 +7,7 @@ description: "ROM Seeunglueck Versicherung Actio Tributoria im Römisches Recht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ROM Seeunglueck Versicherung Actio Tributoria** als zusammenhängenden Arbeitsgang im Römisches Recht. Im Mittelpunkt steht die Prüfung von Seeunglueck Versicherung und Risiko im roemischen Seerecht, Actio tributoria, Buergschaftstypen im roemischen Recht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ROM Seeunglueck Versicherung Actio Tributoria** ordnet den Fall über die tragenden Prüffelder: Seeunglueck Versicherung und Risiko im roemischen Seerecht, Actio tributoria, Buergschaftstypen im roemischen Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

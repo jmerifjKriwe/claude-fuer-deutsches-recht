@@ -7,7 +7,7 @@ description: "DUE Diligence Ergebnis Handlungsempfehlung im Memorandum-Erstellun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DUE Diligence Ergebnis Handlungsempfehlung** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Memo Rechtsteil einer Due Diligence, Ergebnis und Handlungsempfehlung trennen, Memo fuer Mandanten unterscheidet sich vom internen Memo. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DUE Diligence Ergebnis Handlungsempfehlung** ordnet den Fall über die tragenden Prüffelder: Memo Rechtsteil einer Due Diligence, Ergebnis und Handlungsempfehlung trennen, Memo fuer Mandanten unterscheidet sich vom internen Memo. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

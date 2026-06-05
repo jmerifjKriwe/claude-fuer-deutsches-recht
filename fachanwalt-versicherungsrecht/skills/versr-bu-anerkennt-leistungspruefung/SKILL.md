@@ -7,7 +7,7 @@ description: "Versr BU Anerkennt Leistungspruefung im Plugin Fachanwalt Versiche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versr BU Anerkennt Leistungspruefung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Berufsunfaehigkeitsversicherung, Spezialfall BU-Leistungspruefung, BU-Anerkenntnis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versr BU Anerkennt Leistungspruefung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Berufsunfaehigkeitsversicherung, Spezialfall BU-Leistungspruefung, BU-Anerkenntnis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Infrastruktur Foerderung Nachhaltige im Verkehrs- und Infrastruktu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Infrastruktur Foerderung Nachhaltige** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Foerderprogramme Verkehrsinfrastruktur uebersichtlich, Nachhaltige Bahninfrastruktur und Emissionen, Planfeststellung in Grundzuegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Infrastruktur Foerderung Nachhaltige** ordnet den Fall über die tragenden Prüffelder: Foerderprogramme Verkehrsinfrastruktur uebersichtlich, Nachhaltige Bahninfrastruktur und Emissionen, Planfeststellung in Grundzuegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

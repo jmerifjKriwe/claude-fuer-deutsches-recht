@@ -7,7 +7,7 @@ description: "Triage Haftung Versicherung Anwendungsfall im KI-Governance: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Triage Haftung Versicherung Anwendungsfall** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von Triage, Haftung beim Einsatz von KI, Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Triage Haftung Versicherung Anwendungsfall** ordnet den Fall über die tragenden Prüffelder: Triage, Haftung beim Einsatz von KI, Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Contract Formation False Friends Governing im Common Law (Orientie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Contract Formation False Friends Governing** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Anwalt oder Mandant will Vertragsschluss-Grundlagen des, Anwalt oder Übersetzer sucht missverstaendliche, Vertragsparteien muessen Rechtswahlklausel Gerichtsstand. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Contract Formation False Friends Governing** ordnet den Fall über die tragenden Prüffelder: Anwalt oder Mandant will Vertragsschluss-Grundlagen des, Anwalt oder Übersetzer sucht missverstaendliche, Vertragsparteien muessen Rechtswahlklausel Gerichtsstand. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

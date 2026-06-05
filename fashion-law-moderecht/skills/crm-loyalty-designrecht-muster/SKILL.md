@@ -7,7 +7,7 @@ description: "CRM Loyalty Designrecht Muster im Fashion Law (Moderecht): prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CRM Loyalty Designrecht Muster** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen, Designrecht für Kollektionen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CRM Loyalty Designrecht Muster** ordnet den Fall über die tragenden Prüffelder: CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen, Designrecht für Kollektionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

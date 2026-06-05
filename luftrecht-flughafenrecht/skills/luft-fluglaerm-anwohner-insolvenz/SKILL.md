@@ -7,7 +7,7 @@ description: "Luft Fluglaerm Anwohner Insolvenz im Plugin Luftrecht Flughafenrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Fluglaerm Anwohner Insolvenz** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Anwohner klagt gegen Fluglaerm oder Flughafen baut, Airline-Insolvenz, Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Fluglaerm Anwohner Insolvenz** ordnet den Fall über die tragenden Prüffelder: Anwohner klagt gegen Fluglaerm oder Flughafen baut, Airline-Insolvenz, Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

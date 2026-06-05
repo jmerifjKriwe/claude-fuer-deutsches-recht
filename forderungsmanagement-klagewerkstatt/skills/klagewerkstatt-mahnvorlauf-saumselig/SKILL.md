@@ -7,7 +7,7 @@ description: "Mahnvorlauf Saumselig im Plugin Forderungsmanagement Klagewerkstat
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mahnvorlauf Saumselig** als zusammenhängenden Arbeitsgang im Plugin Forderungsmanagement Klagewerkstatt. Im Mittelpunkt steht die Prüfung von Klagewerkstatt, Mahnvorlauf, Saumselig. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mahnvorlauf Saumselig** ordnet den Fall über die tragenden Prüffelder: Klagewerkstatt, Mahnvorlauf, Saumselig. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

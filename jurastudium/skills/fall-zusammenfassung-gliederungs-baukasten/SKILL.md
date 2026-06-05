@@ -7,7 +7,7 @@ description: "Fall Zusammenfassung Gliederungs Baukasten im Jurastudium: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fall Zusammenfassung Gliederungs Baukasten** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Juristischen Fall zusammenfassen und strukturieren, Gliederungs-Baukasten für juristische Hausarbeiten und, Gutachten Uebung für Jurastudium und Examensvorbereitung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fall Zusammenfassung Gliederungs Baukasten** ordnet den Fall über die tragenden Prüffelder: Juristischen Fall zusammenfassen und strukturieren, Gliederungs-Baukasten für juristische Hausarbeiten und, Gutachten Uebung für Jurastudium und Examensvorbereitung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

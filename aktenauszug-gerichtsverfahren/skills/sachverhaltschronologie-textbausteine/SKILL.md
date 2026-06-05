@@ -7,7 +7,7 @@ description: "Sachverhaltschronologie Textbausteine im Aktenauszug-Praxis: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sachverhaltschronologie Textbausteine** als zusammenhängenden Arbeitsgang im Aktenauszug-Praxis. Im Mittelpunkt steht die Prüfung von Sachverhaltschronologie, Schnelle, Stilrichtlinie. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sachverhaltschronologie Textbausteine** ordnet den Fall über die tragenden Prüffelder: Sachverhaltschronologie, Schnelle, Stilrichtlinie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

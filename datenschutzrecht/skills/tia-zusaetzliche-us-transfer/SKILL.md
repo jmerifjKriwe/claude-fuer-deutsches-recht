@@ -7,7 +7,7 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TIA Zusaetzliche US Transfer** als zusammenhängenden Arbeitsgang im Datenschutzrecht. Im Mittelpunkt steht die Prüfung von Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TIA Zusaetzliche US Transfer** ordnet den Fall über die tragenden Prüffelder: Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

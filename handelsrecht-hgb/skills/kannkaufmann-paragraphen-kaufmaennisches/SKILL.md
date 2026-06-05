@@ -7,7 +7,7 @@ description: "Kannkaufmann Paragraphen Kaufmaennisches im Handelsrecht (HGB): pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kannkaufmann Paragraphen Kaufmaennisches** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft freiwillige Eintragung kleiner Gewerbe sowie, Prüft Voraussetzungen und Wirkung des kaufmännischen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kannkaufmann Paragraphen Kaufmaennisches** ordnet den Fall über die tragenden Prüffelder: Prüft freiwillige Eintragung kleiner Gewerbe sowie, Prüft Voraussetzungen und Wirkung des kaufmännischen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

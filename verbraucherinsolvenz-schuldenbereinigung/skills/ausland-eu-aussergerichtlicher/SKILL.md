@@ -7,7 +7,7 @@ description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ausland EU Aussergerichtlicher** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Auslandsschulden und EU-Bezug, Außergerichtlicher Einigungsversuch, Auto und Arbeitsweg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ausland EU Aussergerichtlicher** ordnet den Fall über die tragenden Prüffelder: Auslandsschulden und EU-Bezug, Außergerichtlicher Einigungsversuch, Auto und Arbeitsweg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

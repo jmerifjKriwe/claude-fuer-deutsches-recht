@@ -7,7 +7,7 @@ description: "Amts Aktenintake Zivil Anspruchsgrundlagen im Plugin Urteilsbauer 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Amts Aktenintake Zivil Anspruchsgrundlagen** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Amts, Eingehende Zivilakte vor erster Prüfung strukturieren, Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Amts Aktenintake Zivil Anspruchsgrundlagen** ordnet den Fall über die tragenden Prüffelder: Amts, Eingehende Zivilakte vor erster Prüfung strukturieren, Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

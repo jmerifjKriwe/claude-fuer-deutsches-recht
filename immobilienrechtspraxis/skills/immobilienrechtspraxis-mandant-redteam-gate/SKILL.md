@@ -7,7 +7,7 @@ description: "Mandant Redteam Gate im Plugin Immobilienrechtspraxis: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandant Redteam Gate** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin immobilienrechtspraxis, Red-Team Qualitygate im Plugin immobilienrechtspraxis, Rechtsprechung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandant Redteam Gate** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin immobilienrechtspraxis, Red-Team Qualitygate im Plugin immobilienrechtspraxis, Rechtsprechung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

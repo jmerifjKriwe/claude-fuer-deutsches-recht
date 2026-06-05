@@ -7,7 +7,7 @@ description: "Luft Luftsicherheit Luftsig im Plugin Luftrecht Flughafenrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Luftsicherheit Luftsig** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Flughafen oder Airline klaert Sicherheitspflichten oder, Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder, Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Luftsicherheit Luftsig** ordnet den Fall über die tragenden Prüffelder: Flughafen oder Airline klaert Sicherheitspflichten oder, Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder, Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

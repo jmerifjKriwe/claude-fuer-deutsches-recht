@@ -7,7 +7,7 @@ description: "Legw BMI Bevoelkerungsschutz Oeffentlicher im Legistik (Gesetzgebu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw BMI Bevoelkerungsschutz Oeffentlicher** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Sachbereich Bevoelkerungsschutz und Katastrophenrecht im, Sachbereich Oeffentlicher Dienst und Beamtenrecht im, Sachbereich Sicherheits- und Polizeirecht im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw BMI Bevoelkerungsschutz Oeffentlicher** ordnet den Fall über die tragenden Prüffelder: Sachbereich Bevoelkerungsschutz und Katastrophenrecht im, Sachbereich Oeffentlicher Dienst und Beamtenrecht im, Sachbereich Sicherheits- und Polizeirecht im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

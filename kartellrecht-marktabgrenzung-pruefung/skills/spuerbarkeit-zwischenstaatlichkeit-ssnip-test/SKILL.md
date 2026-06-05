@@ -7,7 +7,7 @@ description: "Spuerbarkeit Zwischenstaatlichkeit Ssnip Test im Kartellrecht (Mar
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spuerbarkeit Zwischenstaatlichkeit Ssnip Test** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Spürbarkeit und Zwischenstaatlichkeit, Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein, EU State Aid Schnittstelle und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spuerbarkeit Zwischenstaatlichkeit Ssnip Test** ordnet den Fall über die tragenden Prüffelder: Spürbarkeit und Zwischenstaatlichkeit, Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein, EU State Aid Schnittstelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

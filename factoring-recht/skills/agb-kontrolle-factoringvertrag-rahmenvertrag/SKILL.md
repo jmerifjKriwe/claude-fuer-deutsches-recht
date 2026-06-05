@@ -7,7 +7,7 @@ description: "AGB Kontrolle Factoringvertrag Rahmenvertrag im Plugin Factoring R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AGB Kontrolle Factoringvertrag Rahmenvertrag** als zusammenhängenden Arbeitsgang im Plugin Factoring Recht. Im Mittelpunkt steht die Prüfung von AGB Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis, Kündigung Rahmenvertrag Exit und Rückübertragung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AGB Kontrolle Factoringvertrag Rahmenvertrag** ordnet den Fall über die tragenden Prüffelder: AGB Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis, Kündigung Rahmenvertrag Exit und Rückübertragung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

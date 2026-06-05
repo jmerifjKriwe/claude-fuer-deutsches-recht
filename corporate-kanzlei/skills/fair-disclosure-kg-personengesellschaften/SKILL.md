@@ -7,7 +7,7 @@ description: "Fair Disclosure KG Personengesellschaften im Corporate-Kanzlei-Pra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fair Disclosure KG Personengesellschaften** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Fair Disclosure und Knowledge Management, KG und Personengesellschaften im Corporate/M&A-Kontext. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fair Disclosure KG Personengesellschaften** ordnet den Fall über die tragenden Prüffelder: Fair Disclosure und Knowledge Management, KG und Personengesellschaften im Corporate/M&A-Kontext. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

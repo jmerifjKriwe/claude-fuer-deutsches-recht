@@ -7,7 +7,7 @@ description: "Arbeitsstrafrecht 266a Aufsichtsbeschwerde im Plugin Staatsanwalts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitsstrafrecht 266a Aufsichtsbeschwerde** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Arbeitsstrafrecht, Aufsichtsbeschwerde, Dienstweg und sachliche Antwort und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitsstrafrecht 266a Aufsichtsbeschwerde** ordnet den Fall über die tragenden Prüffelder: Arbeitsstrafrecht, Aufsichtsbeschwerde, Dienstweg und sachliche Antwort. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

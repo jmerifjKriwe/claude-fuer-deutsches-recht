@@ -7,7 +7,7 @@ description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflvg Quoten Sonderfall Stgb** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht. Im Mittelpunkt steht die Prüfung von Pflvg, Quoten, Stgb. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflvg Quoten Sonderfall Stgb** ordnet den Fall über die tragenden Prüffelder: Pflvg, Quoten, Stgb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

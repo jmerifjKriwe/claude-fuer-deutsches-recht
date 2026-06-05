@@ -7,7 +7,7 @@ description: "Mandat Triage Mehrere Parallel im Plugin Wandeldarlehen Lebenszykl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mandat Triage Mehrere Parallel** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Wandeldarlehensmandat einordnen Verfahrensroute bestimmen, Mehrere parallele Wandeldarlehen von verschiedenen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mandat Triage Mehrere Parallel** ordnet den Fall über die tragenden Prüffelder: Wandeldarlehensmandat einordnen Verfahrensroute bestimmen, Mehrere parallele Wandeldarlehen von verschiedenen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

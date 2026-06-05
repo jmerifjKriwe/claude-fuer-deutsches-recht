@@ -7,7 +7,7 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflichtteilsergaenzung Schenkung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüffelder: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

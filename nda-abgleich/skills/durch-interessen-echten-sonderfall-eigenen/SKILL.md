@@ -7,7 +7,7 @@ description: "Durch Interessen Echten Sonderfall Eigenen im NDA-Abgleich: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Durch Interessen Echten Sonderfall Eigenen** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von Durch, Echten, Eigenen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Durch Interessen Echten Sonderfall Eigenen** ordnet den Fall über die tragenden Prüffelder: Durch, Echten, Eigenen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: zustellung-vertreter
-description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung: Dieser Skill arbeitet Zustellung Vertreter als zusammenhängenden Arbeitsgang im Plugin DSA/DMA Digitalregulierung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zustellung Vertreter
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zustellung Vertreter** als zusammenhängenden Arbeitsgang im Plugin DSA/DMA Digitalregulierung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zustellung Vertreter** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

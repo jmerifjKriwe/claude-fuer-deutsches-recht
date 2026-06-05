@@ -7,7 +7,7 @@ description: "Beteiligung Frueh Buergerversammlung im Plugin Normenkontrolle Bau
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beteiligung Frueh Buergerversammlung** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Mandant greift Bebauungsplan wegen Fehlern in der Buerger-, Mandant war bei Buergerversammlung und moechte, Eilantrag nach § 47 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beteiligung Frueh Buergerversammlung** ordnet den Fall über die tragenden Prüffelder: Mandant greift Bebauungsplan wegen Fehlern in der Buerger-, Mandant war bei Buergerversammlung und moechte, Eilantrag nach § 47 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

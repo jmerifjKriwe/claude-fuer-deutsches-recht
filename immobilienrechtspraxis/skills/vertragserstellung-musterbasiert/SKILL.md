@@ -7,7 +7,7 @@ description: "Vertragserstellung Musterbasiert im Plugin Immobilienrechtspraxis:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertragserstellung Musterbasiert** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Immobilienrechtliche Vertraege auf Musterbasis erstellen, Immobilienrechtliche Vertraege nach standardisiertem, Immobilien Share Deal Grunderwerbsteuer §§ 1 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertragserstellung Musterbasiert** ordnet den Fall über die tragenden Prüffelder: Immobilienrechtliche Vertraege auf Musterbasis erstellen, Immobilienrechtliche Vertraege nach standardisiertem, Immobilien Share Deal Grunderwerbsteuer §§ 1 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

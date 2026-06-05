@@ -7,7 +7,7 @@ description: "Patentprozess Negative Schutzschrift im Patentrecht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Patentprozess Negative Schutzschrift** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Patentprozess Negative Schutzschrift** ordnet den Fall über die tragenden Prüffelder: Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

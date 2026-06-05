@@ -7,7 +7,7 @@ description: "Handelsvertreter Showroom Influencer Social im Fashion Law (Modere
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsvertreter Showroom Influencer Social** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Handelsvertreter, Agent, Distributor und Showroom unterscheiden. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsvertreter Showroom Influencer Social** ordnet den Fall über die tragenden Prüffelder: Handelsvertreter, Agent, Distributor und Showroom unterscheiden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

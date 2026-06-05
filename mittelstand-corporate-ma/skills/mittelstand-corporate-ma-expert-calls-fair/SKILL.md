@@ -7,7 +7,7 @@ description: "Expert Calls Fair im Plugin Mittelstand Corporate Ma: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Expert Calls Fair** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von DD Reporting und Legal Fact Book, Anwalt wertet Management Presentations Expert Calls und, Fair Disclosure und Knowledge und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Expert Calls Fair** ordnet den Fall über die tragenden Prüffelder: DD Reporting und Legal Fact Book, Anwalt wertet Management Presentations Expert Calls und, Fair Disclosure und Knowledge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

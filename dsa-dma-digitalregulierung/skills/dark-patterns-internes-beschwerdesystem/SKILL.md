@@ -7,7 +7,7 @@ description: "Dark Patterns Internes Beschwerdesystem im DSA/DMA-Digitalregulier
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dark Patterns Internes Beschwerdesystem** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Dark Patterns nach Art, Internes Beschwerdesystem nach Art, Krisenreaktionsmechanismus Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dark Patterns Internes Beschwerdesystem** ordnet den Fall über die tragenden Prüffelder: Dark Patterns nach Art, Internes Beschwerdesystem nach Art, Krisenreaktionsmechanismus Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

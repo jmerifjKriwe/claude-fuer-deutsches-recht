@@ -7,7 +7,7 @@ description: "Einmalig VS Erforderlichkeitspruefung Warum im Plugin Normenkontro
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einmalig VS Erforderlichkeitspruefung Warum** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Trennscharfe Unterscheidung zwischen einmaligem, Erforderlichkeitspruefung als erster Pruefschritt jeder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einmalig VS Erforderlichkeitspruefung Warum** ordnet den Fall über die tragenden Prüffelder: Trennscharfe Unterscheidung zwischen einmaligem, Erforderlichkeitspruefung als erster Pruefschritt jeder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

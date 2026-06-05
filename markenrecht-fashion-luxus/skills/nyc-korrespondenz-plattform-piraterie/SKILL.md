@@ -7,7 +7,7 @@ description: "NYC Korrespondenz Plattform Piraterie im Plugin Markenrecht Fashio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **NYC Korrespondenz Plattform Piraterie** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in, Plattformpiraterie und Online-Marktplatz-Enforcement, Positionsmarken für Streifen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**NYC Korrespondenz Plattform Piraterie** ordnet den Fall über die tragenden Prüffelder: Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in, Plattformpiraterie und Online-Marktplatz-Enforcement, Positionsmarken für Streifen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

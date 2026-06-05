@@ -88,7 +88,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `term-track-vertraege` | Term Track Vertraege im Plugin Vertragsausfueller: prüft konkret Term, Track, Vertraege. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vaf-clean-output` | Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BG... |
 | `vaf-plausibilitaetscheck-termsheet` | VAF Plausibilitaetscheck Termsheet im Plugin Vertragsausfueller: prüft konkret Plausibilitätsprüfung vor Vertragsausgabe, Term Sheet auf Vertragsfelder mappen, Altvertraege. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel un... |
-| `vaf-versionierung` | VAF Versionierung im Plugin Vertragsausfueller: Dieser Skill arbeitet VAF Versionierung als zusammenhängenden Arbeitsgang im Plugin Vertragsausfüller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `vaf-versionierung` | VAF Versionierung im Plugin Vertragsausfueller: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `vertragsausfueller-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `vertragsausfueller-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `vertragsausfueller-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |

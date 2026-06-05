@@ -7,7 +7,7 @@ description: "Rueckbau AM Schieds Gerichtsstand im Plugin Erbbaurecht Praxis: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rueckbau AM Schieds Gerichtsstand** als zusammenhängenden Arbeitsgang im Plugin Erbbaurecht Praxis. Im Mittelpunkt steht die Prüfung von Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rueckbau AM Schieds Gerichtsstand** ordnet den Fall über die tragenden Prüffelder: Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

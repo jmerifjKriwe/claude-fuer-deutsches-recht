@@ -7,7 +7,7 @@ description: "Jahresfrist ABS Nkbl Verfahren im Plugin Normenkontrolle Bauleitpl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Jahresfrist ABS Nkbl Verfahren** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Red-Team Qualitygate im Plugin, Mandant moechte Normenkontrollantrag stellen und Anwalt, Leitfaden Normenkontrollverfahren § 47 VwGO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Jahresfrist ABS Nkbl Verfahren** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin, Mandant moechte Normenkontrollantrag stellen und Anwalt, Leitfaden Normenkontrollverfahren § 47 VwGO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

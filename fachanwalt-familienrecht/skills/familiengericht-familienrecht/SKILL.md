@@ -7,7 +7,7 @@ description: "Familiengericht Familienrecht im Plugin Fachanwalt Familienrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Familiengericht Familienrecht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Familiengericht, Familienrecht, Lebenspartnerschaft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Familiengericht Familienrecht** ordnet den Fall über die tragenden Prüffelder: Familiengericht, Familienrecht, Lebenspartnerschaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

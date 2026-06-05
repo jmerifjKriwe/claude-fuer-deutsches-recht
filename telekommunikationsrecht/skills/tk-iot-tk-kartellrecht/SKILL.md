@@ -7,7 +7,7 @@ description: "TK IOT TK Kartellrecht im Telekommunikationsrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK IOT TK Kartellrecht** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von IoT-/M2M-Konnektivität, TK-Verträge und Kooperationen mit Kartellrechtsbezug. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK IOT TK Kartellrecht** ordnet den Fall über die tragenden Prüffelder: IoT-/M2M-Konnektivität, TK-Verträge und Kooperationen mit Kartellrechtsbezug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

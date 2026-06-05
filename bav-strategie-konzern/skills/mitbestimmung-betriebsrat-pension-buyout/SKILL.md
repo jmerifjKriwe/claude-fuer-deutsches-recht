@@ -7,7 +7,7 @@ description: "Mitbestimmung Betriebsrat Pension Buyout im betriebliche Altersver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mitbestimmung Betriebsrat Pension Buyout** als zusammenhängenden Arbeitsgang im betriebliche Altersversorgung (bAV). Im Mittelpunkt steht die Prüfung von Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung, Pensionsbuyout und De-Risking strukturieren, Benefits. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mitbestimmung Betriebsrat Pension Buyout** ordnet den Fall über die tragenden Prüffelder: Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung, Pensionsbuyout und De-Risking strukturieren, Benefits. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

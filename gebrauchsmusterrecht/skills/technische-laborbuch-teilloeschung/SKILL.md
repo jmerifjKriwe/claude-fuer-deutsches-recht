@@ -7,7 +7,7 @@ description: "Technische Laborbuch Teilloeschung im Gebrauchsmusterrecht: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Technische Laborbuch Teilloeschung** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten, Teil-Löschung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Technische Laborbuch Teilloeschung** ordnet den Fall über die tragenden Prüffelder: Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten, Teil-Löschung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

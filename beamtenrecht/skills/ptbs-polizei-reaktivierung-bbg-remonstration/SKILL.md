@@ -7,7 +7,7 @@ description: "Ptbs Polizei Reaktivierung BBG Remonstration im Beamtenrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ptbs Polizei Reaktivierung BBG Remonstration** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zur Anerkennung der posttraumatischen, Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29, Remonstration bei rechtswidriger Weisung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ptbs Polizei Reaktivierung BBG Remonstration** ordnet den Fall über die tragenden Prüffelder: Skill zur Anerkennung der posttraumatischen, Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29, Remonstration bei rechtswidriger Weisung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

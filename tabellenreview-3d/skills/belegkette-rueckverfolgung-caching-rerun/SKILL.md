@@ -7,7 +7,7 @@ description: "Belegkette Rueckverfolgung Caching Rerun im Plugin Tabellenreview 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Belegkette Rueckverfolgung Caching Rerun** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Belegkette für Forderungen und Zahlungen zurückverfolgen, Zwischenergebnisse des 3D-Tabellenreviews cachen und, Dokumentenstapel für 3D-Tabellenreview einlesen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Belegkette Rueckverfolgung Caching Rerun** ordnet den Fall über die tragenden Prüffelder: Belegkette für Forderungen und Zahlungen zurückverfolgen, Zwischenergebnisse des 3D-Tabellenreviews cachen und, Dokumentenstapel für 3D-Tabellenreview einlesen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

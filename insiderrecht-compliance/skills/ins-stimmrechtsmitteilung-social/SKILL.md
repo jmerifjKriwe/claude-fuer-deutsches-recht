@@ -7,7 +7,7 @@ description: "INS Stimmrechtsmitteilung Social im Insiderrecht und Compliance: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Stimmrechtsmitteilung Social** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff, Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Stimmrechtsmitteilung Social** ordnet den Fall über die tragenden Prüffelder: Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff, Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

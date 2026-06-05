@@ -7,7 +7,7 @@ description: "Steuer Onboarding Bescheid Lesen Festsetzungsverjaehrung im Steuer
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Onboarding Bescheid Lesen Festsetzungsverjaehrung** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Anleitung zum schnellen und vollstaendigen Erfassen jedes, Vollstaendige Bearbeitung der Festsetzungsverjaehrung —, Systematischer Vergleich der Korrekturnormen — wann ist und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Onboarding Bescheid Lesen Festsetzungsverjaehrung** ordnet den Fall über die tragenden Prüffelder: Anleitung zum schnellen und vollstaendigen Erfassen jedes, Vollstaendige Bearbeitung der Festsetzungsverjaehrung —, Systematischer Vergleich der Korrekturnormen — wann ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

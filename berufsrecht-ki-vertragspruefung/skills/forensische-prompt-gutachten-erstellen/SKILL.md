@@ -7,7 +7,7 @@ description: "Forensische Prompt Gutachten Erstellen im Plugin Berufsrecht Ki Ve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Forensische Prompt Gutachten Erstellen** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Forensische Pruefung Prompt-Injection-Risiko, Erstelle das zusammenfassende Vorprüfungs-Gutachten zum, Spezialfall Kanzleisoftware mit KI-Funktionen (RA-MICRO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Forensische Prompt Gutachten Erstellen** ordnet den Fall über die tragenden Prüffelder: Forensische Pruefung Prompt-Injection-Risiko, Erstelle das zusammenfassende Vorprüfungs-Gutachten zum, Spezialfall Kanzleisoftware mit KI-Funktionen (RA-MICRO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

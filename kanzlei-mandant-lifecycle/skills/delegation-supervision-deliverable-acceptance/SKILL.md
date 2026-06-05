@@ -7,7 +7,7 @@ description: "Delegation Supervision Deliverable Acceptance im Plugin Kanzlei Ma
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Delegation Supervision Deliverable Acceptance** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Delegation und Supervision, Deliverable Acceptance, Datenraum Governance und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Delegation Supervision Deliverable Acceptance** ordnet den Fall über die tragenden Prüffelder: Delegation und Supervision, Deliverable Acceptance, Datenraum Governance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

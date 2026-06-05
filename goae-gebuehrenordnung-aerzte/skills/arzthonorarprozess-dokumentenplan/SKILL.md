@@ -7,7 +7,7 @@ description: "Arzthonorarprozess Dokumentenplan im Plugin Goae Gebuehrenordnung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arzthonorarprozess Dokumentenplan** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarproze, Auslandsbehandlung deutsche GOÄ Anwendung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arzthonorarprozess Dokumentenplan** ordnet den Fall über die tragenden Prüffelder: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarproze, Auslandsbehandlung deutsche GOÄ Anwendung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

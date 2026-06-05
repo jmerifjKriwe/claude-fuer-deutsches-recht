@@ -7,7 +7,7 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Faktenbank Untersuchung Abfrage Ergaenzen** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche, Beantwortet Fragen gegen ein laufendes, Fügt einer laufenden internen Untersuchung neue Daten hinzu und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Faktenbank Untersuchung Abfrage Ergaenzen** ordnet den Fall über die tragenden Prüffelder: Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche, Beantwortet Fragen gegen ein laufendes, Fügt einer laufenden internen Untersuchung neue Daten hinzu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

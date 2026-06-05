@@ -7,7 +7,7 @@ description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandanten
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafprozess Instruktionen** als zusammenhängenden Arbeitsgang im Strafrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafprozess Instruktionen** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

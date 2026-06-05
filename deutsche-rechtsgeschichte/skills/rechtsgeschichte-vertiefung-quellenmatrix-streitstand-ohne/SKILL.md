@@ -7,7 +7,7 @@ description: "Vertiefung Quellenmatrix Streitstand Ohne im deutsche Rechtsgeschi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertiefung Quellenmatrix Streitstand Ohne** als zusammenhängenden Arbeitsgang im deutsche Rechtsgeschichte. Im Mittelpunkt steht die Prüfung von Deutsche Rechtsgeschichte Vertiefung, Prüft geschönte juristische Geschichtsbilder, Nachrufe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertiefung Quellenmatrix Streitstand Ohne** ordnet den Fall über die tragenden Prüffelder: Deutsche Rechtsgeschichte Vertiefung, Prüft geschönte juristische Geschichtsbilder, Nachrufe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

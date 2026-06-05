@@ -7,7 +7,7 @@ description: "Amtsangemessene Alimentation im Beamtenrecht: prüft konkret Amtsa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Amtsangemessene Alimentation** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Amtsangemessene Alimentation, Skill zur Pruefung der amtsangemessenen Alimentation der, Amtsangemessene Beschäftigung und Unterbeschäftigung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Amtsangemessene Alimentation** ordnet den Fall über die tragenden Prüffelder: Amtsangemessene Alimentation, Skill zur Pruefung der amtsangemessenen Alimentation der, Amtsangemessene Beschäftigung und Unterbeschäftigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

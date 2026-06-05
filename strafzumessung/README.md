@@ -136,6 +136,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `strafzumessung-regelbeispiele-strafrahmenwahl` | Regelbeispiele Strafrahmenwahl im Plugin Strafzumessung: prüft konkret Chronologie und Belegmatrix im Plugin strafzumessung, Fristen- und Risikoampel im Plugin strafzumessung, Regelbeispielkataloge im Strafrecht, Bandentat. Liefert prior... |
 | `strafzumessung-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `tagessatz-quellenkarte` | Tagessatz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `verstaendigung-257c` | Verstaendigung 257c im Plugin Strafzumessung: Dieser Skill arbeitet Verstaendigung 257c als zusammenhängenden Arbeitsgang im Plugin Strafzumessung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `verstaendigung-257c` | Verstaendigung 257c im Plugin Strafzumessung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

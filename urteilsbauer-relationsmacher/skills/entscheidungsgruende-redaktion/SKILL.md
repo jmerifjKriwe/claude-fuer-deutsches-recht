@@ -7,7 +7,7 @@ description: "Entscheidungsgruende Redaktion im Plugin Urteilsbauer Relationsmac
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entscheidungsgruende Redaktion** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen, Familienrichter. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entscheidungsgruende Redaktion** ordnet den Fall über die tragenden Prüffelder: Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen, Familienrichter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

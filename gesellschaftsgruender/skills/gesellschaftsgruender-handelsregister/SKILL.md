@@ -7,7 +7,7 @@ description: "Handelsregister im Plugin Gesellschaftsgruender: prüft konkret Er
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsregister** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von Erstanmeldung der GmbH zum Handelsregister vorbereiten, IHK-Pflichtmitgliedschaft und, Baut Datenraum für Investor-DD und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsregister** ordnet den Fall über die tragenden Prüffelder: Erstanmeldung der GmbH zum Handelsregister vorbereiten, IHK-Pflichtmitgliedschaft und, Baut Datenraum für Investor-DD. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Ordnungen Verein Protokoll im Plugin Vereinsrecht Vereinsmanager: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ordnungen Verein Protokoll** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ordnungen Verein Protokoll** ordnet den Fall über die tragenden Prüffelder: Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

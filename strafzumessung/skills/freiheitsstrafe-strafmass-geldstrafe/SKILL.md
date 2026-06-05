@@ -7,7 +7,7 @@ description: "Freiheitsstrafe Strafmass Geldstrafe im Plugin Strafzumessung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freiheitsstrafe Strafmass Geldstrafe** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB, Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs, Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freiheitsstrafe Strafmass Geldstrafe** ordnet den Fall über die tragenden Prüffelder: Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB, Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs, Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

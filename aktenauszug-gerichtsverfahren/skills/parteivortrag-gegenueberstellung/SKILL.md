@@ -7,7 +7,7 @@ description: "Parteivortrag Gegenueberstellung im Aktenauszug-Praxis: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Parteivortrag Gegenueberstellung** als zusammenhängenden Arbeitsgang im Aktenauszug-Praxis. Im Mittelpunkt steht die Prüfung von Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und, Erstellt eine tabellarische Gegenüberstellung der, Erstellt eine chronologische Bullet-Liste aller. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Parteivortrag Gegenueberstellung** ordnet den Fall über die tragenden Prüffelder: Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und, Erstellt eine tabellarische Gegenüberstellung der, Erstellt eine chronologische Bullet-Liste aller. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

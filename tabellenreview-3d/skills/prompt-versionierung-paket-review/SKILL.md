@@ -7,7 +7,7 @@ description: "Prompt Versionierung Paket Review im Plugin Tabellenreview 3D: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Prompt Versionierung Paket Review** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Prompt-Versionen für den 3D-Review verwalten, Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen, 3D-Tabellenreview konkret durchführen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Prompt Versionierung Paket Review** ordnet den Fall über die tragenden Prüffelder: Prompt-Versionen für den 3D-Review verwalten, Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen, 3D-Tabellenreview konkret durchführen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

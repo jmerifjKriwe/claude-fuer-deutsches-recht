@@ -7,7 +7,7 @@ description: "EU Vorabentscheidung Falsche Wiese im Plugin Subsumtions Pruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **EU Vorabentscheidung Falsche Wiese** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Prueft die Voraussetzungen des Vorabentscheidungsersuchens, Warnt vor typischen Falschverortungen im Recht, Ordnet BGB-AT-Fehler in Klausuren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**EU Vorabentscheidung Falsche Wiese** ordnet den Fall über die tragenden Prüffelder: Prueft die Voraussetzungen des Vorabentscheidungsersuchens, Warnt vor typischen Falschverortungen im Recht, Ordnet BGB-AT-Fehler in Klausuren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

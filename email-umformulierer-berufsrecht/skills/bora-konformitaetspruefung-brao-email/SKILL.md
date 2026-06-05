@@ -7,7 +7,7 @@ description: "BORA Konformitaetspruefung BRAO Email im Plugin Email Umformuliere
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BORA Konformitaetspruefung BRAO Email** als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht. Im Mittelpunkt steht die Prüfung von E-Mail auf BORA-Konformität prüfen bevor sie versandt wird, E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird, Eingehende E-Mail analysieren und Tonalitaet. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BORA Konformitaetspruefung BRAO Email** ordnet den Fall über die tragenden Prüffelder: E-Mail auf BORA-Konformität prüfen bevor sie versandt wird, E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird, Eingehende E-Mail analysieren und Tonalitaet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

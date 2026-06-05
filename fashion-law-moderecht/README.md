@@ -83,6 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `selektiver-vertrieb-size-fit` | Selektiver Vertrieb Size FIT im Fashion Law (Moderecht): prüft konkret Selektiver Vertrieb für Luxus- und Premiumfashion gestalten, Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen. Liefert priorisierten Output mit Norm-... |
 | `supplier-quality-sustainability-reporting` | Supplier Quality Sustainability Reporting im Fashion Law (Moderecht): prüft konkret Supplier-Mängel und Qualitätsprobleme prüfen, ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `textilkennzeichnung-eu-upcycling-repair` | Textilkennzeichnung EU Upcycling Repair im Fashion Law (Moderecht): prüft konkret Textilkennzeichnung nach VO (EU) 1007/2011 prüfen, Upcycling, Reparatur und Alteration prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel... |
-| `urheberrecht-angewandte` | Urheberrecht Angewandte im Fashion Law (Moderecht): Dieser Skill arbeitet Urheberrecht Angewandte als zusammenhängenden Arbeitsgang im Plugin Fashion Law Moderecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Out... |
+| `urheberrecht-angewandte` | Urheberrecht Angewandte im Fashion Law (Moderecht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

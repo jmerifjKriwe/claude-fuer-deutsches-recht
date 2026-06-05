@@ -7,7 +7,7 @@ description: "PDF Formulare Automatisierter Audit BF im Plugin Barrierefreiheit 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PDF Formulare Automatisierter Audit BF** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von PDF-Formulare und HTML-Formulare barrierefrei, Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PDF Formulare Automatisierter Audit BF** ordnet den Fall über die tragenden Prüffelder: PDF-Formulare und HTML-Formulare barrierefrei, Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

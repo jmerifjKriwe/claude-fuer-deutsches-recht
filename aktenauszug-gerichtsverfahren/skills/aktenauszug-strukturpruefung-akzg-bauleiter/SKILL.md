@@ -7,7 +7,7 @@ description: "Strukturpruefung Akzg Bauleiter im Aktenauszug-Praxis: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strukturpruefung Akzg Bauleiter** als zusammenhängenden Arbeitsgang im Aktenauszug-Praxis. Im Mittelpunkt steht die Prüfung von Fertig erstellten Aktenauszug auf Vollständigkeit prüfen, Bauleiter Aktenauszug fuer Gerichtsverfahren, Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strukturpruefung Akzg Bauleiter** ordnet den Fall über die tragenden Prüffelder: Fertig erstellten Aktenauszug auf Vollständigkeit prüfen, Bauleiter Aktenauszug fuer Gerichtsverfahren, Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

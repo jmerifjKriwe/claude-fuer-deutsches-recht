@@ -7,7 +7,7 @@ description: "Cyberversicherung Ransomware D O im Plugin Versicherungsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cyberversicherung Ransomware D O** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cyberversicherung Ransomware D O** ordnet den Fall über die tragenden Prüffelder: Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

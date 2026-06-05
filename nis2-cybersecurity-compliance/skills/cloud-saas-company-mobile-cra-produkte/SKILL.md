@@ -7,7 +7,7 @@ description: "Cloud Saas Company Mobile CRA Produkte im NIS2-Cybersecurity-Compl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Cloud Saas Company Mobile CRA Produkte** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout, Prüft Firmenhandys und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Cloud Saas Company Mobile CRA Produkte** ordnet den Fall über die tragenden Prüffelder: Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout, Prüft Firmenhandys. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

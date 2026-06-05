@@ -7,7 +7,7 @@ description: "Kommentar Literatur Konkurrenzen im Plugin Subsumtions Pruefer: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kommentar Literatur Konkurrenzen** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Quellenhinweis für vertiefte Subsumtion, Handbuch- oder A, Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kommentar Literatur Konkurrenzen** ordnet den Fall über die tragenden Prüffelder: Quellenhinweis für vertiefte Subsumtion, Handbuch- oder A, Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

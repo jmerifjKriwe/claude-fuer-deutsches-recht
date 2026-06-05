@@ -7,7 +7,7 @@ description: "Markenanmeldung Dpma Markenrecherche Open im Plugin Gewerblicher R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Markenanmeldung Dpma Markenrecherche Open** als zusammenhängenden Arbeitsgang im Plugin Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Mandant moechte eine Marke beim DPMA anmelden oder, Unternehmen oder Mandant plant neue Marke oder Produktname, Unternehmen will Software ausliefern oder als Open Source. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Markenanmeldung Dpma Markenrecherche Open** ordnet den Fall über die tragenden Prüffelder: Mandant moechte eine Marke beim DPMA anmelden oder, Unternehmen oder Mandant plant neue Marke oder Produktname, Unternehmen will Software ausliefern oder als Open Source. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

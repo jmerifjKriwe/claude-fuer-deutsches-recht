@@ -7,7 +7,7 @@ description: "Kooperation Arzt Krankenhausversorgung im Plugin Apothekenrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kooperation Arzt Krankenhausversorgung** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Kooperation Arzt Apotheke Antikorruption, Krankenhausversorgung Krankenhausapotheke, Kühlkette Temperaturmonitoring GDP. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kooperation Arzt Krankenhausversorgung** ordnet den Fall über die tragenden Prüffelder: Kooperation Arzt Apotheke Antikorruption, Krankenhausversorgung Krankenhausapotheke, Kühlkette Temperaturmonitoring GDP. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Arbeitsgericht Klage Arbeitsschutz Audit im Hinweisgeberschutz und
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitsgericht Klage Arbeitsschutz Audit** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Bereitet arbeitsgerichtliche Klage wegen Repressalie vor, Prüft Arbeitsschutz-Hinweise und Eskalation, Baut Audit-Nachweis für das Hinweisgebersystem und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitsgericht Klage Arbeitsschutz Audit** ordnet den Fall über die tragenden Prüffelder: Bereitet arbeitsgerichtliche Klage wegen Repressalie vor, Prüft Arbeitsschutz-Hinweise und Eskalation, Baut Audit-Nachweis für das Hinweisgebersystem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

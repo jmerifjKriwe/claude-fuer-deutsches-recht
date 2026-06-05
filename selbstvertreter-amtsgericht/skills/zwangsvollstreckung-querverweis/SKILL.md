@@ -1,13 +1,13 @@
 ---
 name: zwangsvollstreckung-querverweis
-description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: Dieser Skill arbeitet Zwangsvollstreckung Querverweis als zusammenhängenden Arbeitsgang im Plugin Selbstvertretung vor dem Amtsgericht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zwangsvollstreckung Querverweis
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zwangsvollstreckung Querverweis** als zusammenhängenden Arbeitsgang im Plugin Selbstvertretung vor dem Amtsgericht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zwangsvollstreckung Querverweis** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

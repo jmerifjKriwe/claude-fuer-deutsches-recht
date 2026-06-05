@@ -7,7 +7,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schadensersatz Designrecht** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schadensersatz Designrecht** ordnet den Fall über die tragenden Prüffelder: Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Selbstbehalt Wahltarif Kuendigung im Krankenkassenrecht / Krankenv
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Selbstbehalt Wahltarif Kuendigung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von Wahltarife mit Selbstbehalt nach § 53 SGB V, GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen, Kritische Analyse der Doppelverbeitragung von. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Selbstbehalt Wahltarif Kuendigung** ordnet den Fall über die tragenden Prüffelder: Wahltarife mit Selbstbehalt nach § 53 SGB V, GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen, Kritische Analyse der Doppelverbeitragung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

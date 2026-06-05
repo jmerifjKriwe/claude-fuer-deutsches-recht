@@ -1,13 +1,13 @@
 ---
 name: memo-zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung: Dieser Skill arbeitet Memo Zitierung Mandantenkommunikation Entscheidungsvorlage als zusammenhängenden Arbeitsgang im Plugin Memorandum-Ersteller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Memo Zitierung Mandantenkommunikation Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Memo Zitierung Mandantenkommunikation Entscheidungsvorlage** als zusammenhängenden Arbeitsgang im Plugin Memorandum-Ersteller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Memo Zitierung Mandantenkommunikation Entscheidungsvorlage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

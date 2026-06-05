@@ -7,7 +7,7 @@ description: "Expectation Management Expert Fachabteilung im Plugin Kanzlei Mand
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Expectation Management Expert Fachabteilung** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Erwartungsmanagement, Expert Management, Fachabteilung Briefing und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Expectation Management Expert Fachabteilung** ordnet den Fall über die tragenden Prüffelder: Erwartungsmanagement, Expert Management, Fachabteilung Briefing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

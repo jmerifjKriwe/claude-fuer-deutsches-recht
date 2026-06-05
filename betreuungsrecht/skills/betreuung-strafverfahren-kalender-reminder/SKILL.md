@@ -7,7 +7,7 @@ description: "Betreuung Strafverfahren Kalender Reminder im Plugin Betreuungsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betreuung Strafverfahren Kalender Reminder** als zusammenhängenden Arbeitsgang im Plugin Betreuungsrecht. Im Mittelpunkt steht die Prüfung von Betreuung im Strafverfahren des Betroffenen, Kalender- und Reminder-Skill für Betreuungen, Livecheck. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betreuung Strafverfahren Kalender Reminder** ordnet den Fall über die tragenden Prüffelder: Betreuung im Strafverfahren des Betroffenen, Kalender- und Reminder-Skill für Betreuungen, Livecheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

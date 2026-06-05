@@ -7,7 +7,7 @@ description: "INS Leak Krisenfall im Insiderrecht und Compliance: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Leak Krisenfall** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Steuert die Sofortreaktion auf einen Informationsleck, Steuert den Compliance-Prozess bei einer Profit Warning. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Leak Krisenfall** ordnet den Fall über die tragenden Prüffelder: Steuert die Sofortreaktion auf einen Informationsleck, Steuert den Compliance-Prozess bei einer Profit Warning. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

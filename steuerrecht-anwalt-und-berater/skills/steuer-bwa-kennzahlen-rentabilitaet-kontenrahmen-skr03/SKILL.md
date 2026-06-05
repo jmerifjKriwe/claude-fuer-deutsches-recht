@@ -7,7 +7,7 @@ description: "Steuer BWA Kennzahlen Rentabilitaet Kontenrahmen Skr03 im Steuerre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer BWA Kennzahlen Rentabilitaet Kontenrahmen Skr03** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Rentabilitaetskennzahlen Eigenkapitalrendite, Vergleich Kontenrahmen SKR 03 versus SKR 04 für, Monatlicher Mandantenreport zusammenführend aus BWA SuSa und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer BWA Kennzahlen Rentabilitaet Kontenrahmen Skr03** ordnet den Fall über die tragenden Prüffelder: Rentabilitaetskennzahlen Eigenkapitalrendite, Vergleich Kontenrahmen SKR 03 versus SKR 04 für, Monatlicher Mandantenreport zusammenführend aus BWA SuSa. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

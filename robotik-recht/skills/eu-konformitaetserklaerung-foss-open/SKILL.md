@@ -7,7 +7,7 @@ description: "EU Konformitaetserklaerung Foss Open im Robotik- und KI-Recht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **EU Konformitaetserklaerung Foss Open** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**EU Konformitaetserklaerung Foss Open** ordnet den Fall über die tragenden Prüffelder: Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

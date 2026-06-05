@@ -7,7 +7,7 @@ description: "Rechtsprechung Beweislast Vorverlegung Flug im Fluggastrechte: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Beweislast Vorverlegung Flug** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Rechtsprechung, Vorverlegung des Fluges um mehr als 1 Stunde gilt als, Geltend. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Beweislast Vorverlegung Flug** ordnet den Fall über die tragenden Prüffelder: Rechtsprechung, Vorverlegung des Fluges um mehr als 1 Stunde gilt als, Geltend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

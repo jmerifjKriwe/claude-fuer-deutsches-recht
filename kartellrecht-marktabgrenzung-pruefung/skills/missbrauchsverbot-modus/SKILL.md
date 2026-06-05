@@ -7,7 +7,7 @@ description: "Missbrauchsverbot Modus im Kartellrecht (Marktabgrenzung): prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Missbrauchsverbot Modus** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Unternehmen in marktbeherrschender Stellung soll auf, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht-horizontale Fusion vertikal konglomerat und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Missbrauchsverbot Modus** ordnet den Fall über die tragenden Prüffelder: Unternehmen in marktbeherrschender Stellung soll auf, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht-horizontale Fusion vertikal konglomerat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

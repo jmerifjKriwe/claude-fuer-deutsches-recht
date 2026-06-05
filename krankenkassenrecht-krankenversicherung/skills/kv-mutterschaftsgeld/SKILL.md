@@ -7,7 +7,7 @@ description: "KV Mutterschaftsgeld im Krankenkassenrecht / Krankenversicherung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KV Mutterschaftsgeld** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von GKV-Leistungen für Schwangere und Mütter, Kinderkrankengeld nach § 45 SGB V, Abgrenzung Verletztengeld (BG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KV Mutterschaftsgeld** ordnet den Fall über die tragenden Prüffelder: GKV-Leistungen für Schwangere und Mütter, Kinderkrankengeld nach § 45 SGB V, Abgrenzung Verletztengeld (BG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

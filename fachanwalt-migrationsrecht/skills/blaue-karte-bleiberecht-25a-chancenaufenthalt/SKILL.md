@@ -7,7 +7,7 @@ description: "Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Blaue Karte Bleiberecht 25A Chancenaufenthalt** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Blaue Karte, Bleiberecht §§ 25a/25b und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Blaue Karte Bleiberecht 25A Chancenaufenthalt** ordnet den Fall über die tragenden Prüffelder: Blaue Karte, Bleiberecht §§ 25a/25b. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

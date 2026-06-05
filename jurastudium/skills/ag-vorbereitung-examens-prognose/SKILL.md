@@ -7,7 +7,7 @@ description: "AG Vorbereitung Examens Prognose im Jurastudium: prüft konkret AG
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AG Vorbereitung Examens Prognose** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von AG-Vorbereitung und Cold-Call-Prep für Jurastudium, Examensprognose auf Basis bisheriger JPA-Klausuren und, Examensvorbereitungs-Fragen für 1. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AG Vorbereitung Examens Prognose** ordnet den Fall über die tragenden Prüffelder: AG-Vorbereitung und Cold-Call-Prep für Jurastudium, Examensprognose auf Basis bisheriger JPA-Klausuren und, Examensvorbereitungs-Fragen für 1. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Deckungsprozess VVG Rechtsabteilung im Plugin Versicherungsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Deckungsprozess VVG Rechtsabteilung** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Deckungsprozess gegen Versicherer, Rechtsabteilungs-Fachmodul für Rechtsschutzversicherung im, Sachverständigenverfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Deckungsprozess VVG Rechtsabteilung** ordnet den Fall über die tragenden Prüffelder: Deckungsprozess gegen Versicherer, Rechtsabteilungs-Fachmodul für Rechtsschutzversicherung im, Sachverständigenverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

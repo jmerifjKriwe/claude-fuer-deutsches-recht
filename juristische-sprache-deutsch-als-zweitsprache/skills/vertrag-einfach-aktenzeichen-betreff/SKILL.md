@@ -7,7 +7,7 @@ description: "Vertrag Einfach Aktenzeichen Betreff im Bereich Juristische Sprach
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertrag Einfach Aktenzeichen Betreff** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Vertrag Einfach Verstehen fuer Menschen mit, Hilft bei Aktenzeichen Und Betreff fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertrag Einfach Aktenzeichen Betreff** ordnet den Fall über die tragenden Prüffelder: Hilft bei Vertrag Einfach Verstehen fuer Menschen mit, Hilft bei Aktenzeichen Und Betreff fuer Menschen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

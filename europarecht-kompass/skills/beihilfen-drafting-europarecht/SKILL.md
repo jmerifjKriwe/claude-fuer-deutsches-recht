@@ -7,7 +7,7 @@ description: "Beihilfen Drafting Europarecht im Europarecht: prüft konkret Beih
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beihilfen Drafting Europarecht** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Beihilfen, Drafting, Europarecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beihilfen Drafting Europarecht** ordnet den Fall über die tragenden Prüffelder: Beihilfen, Drafting, Europarecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

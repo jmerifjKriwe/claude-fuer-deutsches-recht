@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-w
-description: "Rechtsabteilung W im Private Equity Praxis: Dieser Skill arbeitet Rechtsabteilung W als zusammenhängenden Arbeitsgang im Plugin Private-Equity-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Rechtsabteilung W im Private Equity Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Rechtsabteilung W
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Rechtsabteilung W** als zusammenhängenden Arbeitsgang im Plugin Private-Equity-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Rechtsabteilung W** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

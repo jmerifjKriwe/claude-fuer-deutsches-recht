@@ -7,7 +7,7 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bautraeger Leistungsbeschreibung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüffelder: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

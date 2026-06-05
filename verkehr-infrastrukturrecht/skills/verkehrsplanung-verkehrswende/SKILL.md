@@ -7,7 +7,7 @@ description: "Verkehrsplanung Verkehrswende im Verkehrs- und Infrastrukturrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verkehrsplanung Verkehrswende** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Verkehrsplanung rechtlich begleiten, Verkehrswende-Massnahmen rechtssicher gestalten, Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verkehrsplanung Verkehrswende** ordnet den Fall über die tragenden Prüffelder: Verkehrsplanung rechtlich begleiten, Verkehrswende-Massnahmen rechtssicher gestalten, Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

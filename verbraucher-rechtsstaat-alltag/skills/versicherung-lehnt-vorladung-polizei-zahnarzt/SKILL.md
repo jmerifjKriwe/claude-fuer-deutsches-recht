@@ -7,7 +7,7 @@ description: "Versicherung Lehnt Vorladung Polizei Zahnarzt im Plugin Verbrauche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Versicherung Lehnt Vorladung Polizei Zahnarzt** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Versicherung lehnt ab, Vorladung Polizei, Zahnarzt Kostenvoranschlag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Versicherung Lehnt Vorladung Polizei Zahnarzt** ordnet den Fall über die tragenden Prüffelder: Versicherung lehnt ab, Vorladung Polizei, Zahnarzt Kostenvoranschlag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

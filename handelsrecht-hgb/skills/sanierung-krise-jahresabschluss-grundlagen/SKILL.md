@@ -7,7 +7,7 @@ description: "Sanierung Krise Jahresabschluss Grundlagen im Handelsrecht (HGB): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sanierung Krise Jahresabschluss Grundlagen** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft handelsrechtliche Pflichten in Unternehmenskrise, Prüft Aufstellung, Unterzeichnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sanierung Krise Jahresabschluss Grundlagen** ordnet den Fall über die tragenden Prüffelder: Prüft handelsrechtliche Pflichten in Unternehmenskrise, Prüft Aufstellung, Unterzeichnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

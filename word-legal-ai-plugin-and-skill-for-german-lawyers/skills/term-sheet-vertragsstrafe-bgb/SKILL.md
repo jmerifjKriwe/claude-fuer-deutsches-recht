@@ -7,7 +7,7 @@ description: "Term Sheet Vertragsstrafe BGB im Word-Legal-AI für Anwälte: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Term Sheet Vertragsstrafe BGB** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Uebersetzung eines Term Sheets oder Letter of Intent in, Drafting und Prüfung von Vertragsstrafeklauseln nach §§. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Term Sheet Vertragsstrafe BGB** ordnet den Fall über die tragenden Prüffelder: Uebersetzung eines Term Sheets oder Letter of Intent in, Drafting und Prüfung von Vertragsstrafeklauseln nach §§. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

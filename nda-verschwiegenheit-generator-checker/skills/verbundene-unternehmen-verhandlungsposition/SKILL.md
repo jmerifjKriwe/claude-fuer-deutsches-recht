@@ -7,7 +7,7 @@ description: "Verbundene Unternehmen Verhandlungsposition im NDA und Verschwiege
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbundene Unternehmen Verhandlungsposition** als zusammenhängenden Arbeitsgang im NDA und Verschwiegenheit. Im Mittelpunkt steht die Prüfung von NDA-Generator und Verschwiegenheitsvereinbarungs-Checker und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbundene Unternehmen Verhandlungsposition** ordnet den Fall über die tragenden Prüffelder: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

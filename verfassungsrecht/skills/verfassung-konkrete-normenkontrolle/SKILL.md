@@ -7,7 +7,7 @@ description: "Verfassung Konkrete Normenkontrolle im Plugin Verfassungsrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verfassung Konkrete Normenkontrolle** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Konkrete Normenkontrolle Art, §§ 80 ff, Parteiverbot Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verfassung Konkrete Normenkontrolle** ordnet den Fall über die tragenden Prüffelder: Konkrete Normenkontrolle Art, §§ 80 ff, Parteiverbot Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Training Fallvarianten Digitale Elemente im Plugin Bgb At Pruefer:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Training Fallvarianten Digitale Elemente** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für, Router-Skill für digitale Elemente und Reparaturrecht im, Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Training Fallvarianten Digitale Elemente** ordnet den Fall über die tragenden Prüffelder: Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für, Router-Skill für digitale Elemente und Reparaturrecht im, Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

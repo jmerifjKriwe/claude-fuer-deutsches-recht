@@ -7,7 +7,7 @@ description: "STB Jahresgespraech Mandant KI Tools Lohn im Steuerrecht (Anwalt/B
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **STB Jahresgespraech Mandant KI Tools Lohn** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Jahresgespraech Mandant auf BWA-Basis, KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG, Arbeitgeber- und Arbeitnehmer-Anteile in der SV und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**STB Jahresgespraech Mandant KI Tools Lohn** ordnet den Fall über die tragenden Prüffelder: Jahresgespraech Mandant auf BWA-Basis, KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG, Arbeitgeber- und Arbeitnehmer-Anteile in der SV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

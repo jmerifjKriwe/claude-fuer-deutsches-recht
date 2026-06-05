@@ -7,7 +7,7 @@ description: "Foerderung Vergabe Ladeinfrastruktur im Verkehrs- und Infrastruktu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Foerderung Vergabe Ladeinfrastruktur** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte, Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten, Planfeststellung für Strassenbau. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Foerderung Vergabe Ladeinfrastruktur** ordnet den Fall über die tragenden Prüffelder: Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte, Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten, Planfeststellung für Strassenbau. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

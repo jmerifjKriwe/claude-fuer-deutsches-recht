@@ -7,7 +7,7 @@ description: "Ehrenamtlicher Richter Verwaltungsgericht VG im Schöffen- und Han
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ehrenamtlicher Richter Verwaltungsgericht VG** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Ehrenamtlicher Richter am Verwaltungsgericht, Ehrenamtlicher Richter Verwaltungsgericht (Orientierung), Ehrenamtlicher Richter Verwaltungsgericht (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ehrenamtlicher Richter Verwaltungsgericht VG** ordnet den Fall über die tragenden Prüffelder: Ehrenamtlicher Richter am Verwaltungsgericht, Ehrenamtlicher Richter Verwaltungsgericht (Orientierung), Ehrenamtlicher Richter Verwaltungsgericht (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

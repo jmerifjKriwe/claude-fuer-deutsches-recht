@@ -7,7 +7,7 @@ description: "Stellungnahmen Gutachten Suche Open im Lobbyregister Bundestag: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stellungnahmen Gutachten Suche Open** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Prüft Bereitstellungspflicht für grundlegende, Nutzt Suche, Standardlisten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stellungnahmen Gutachten Suche Open** ordnet den Fall über die tragenden Prüffelder: Prüft Bereitstellungspflicht für grundlegende, Nutzt Suche, Standardlisten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

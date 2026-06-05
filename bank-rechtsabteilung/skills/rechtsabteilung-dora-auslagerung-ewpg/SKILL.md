@@ -7,7 +7,7 @@ description: "Dora Auslagerung Ewpg im Plugin Bank Rechtsabteilung: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dora Auslagerung Ewpg** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei, Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und, Rechtsabteilungs-Fachmodul für NPL-Verkauf mit Datenschutz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dora Auslagerung Ewpg** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei, Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und, Rechtsabteilungs-Fachmodul für NPL-Verkauf mit Datenschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

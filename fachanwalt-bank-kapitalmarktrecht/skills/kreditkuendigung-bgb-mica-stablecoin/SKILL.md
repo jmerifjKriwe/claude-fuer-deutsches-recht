@@ -7,7 +7,7 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kreditkuendigung BGB Mica Stablecoin** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-Streit durch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kreditkuendigung BGB Mica Stablecoin** ordnet den Fall über die tragenden Prüffelder: Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-Streit durch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

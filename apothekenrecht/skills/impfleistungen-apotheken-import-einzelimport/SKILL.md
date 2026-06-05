@@ -7,7 +7,7 @@ description: "Impfleistungen Apotheken Import Einzelimport im Plugin Apothekenre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Impfleistungen Apotheken Import Einzelimport** als zusammenhängenden Arbeitsgang im Plugin Apothekenrecht. Im Mittelpunkt steht die Prüfung von Impfleistungen in Apotheken, Import Einzelimport § 73 AMG, Inhaberwechsel Kauf Apothekenbetrieb. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Impfleistungen Apotheken Import Einzelimport** ordnet den Fall über die tragenden Prüffelder: Impfleistungen in Apotheken, Import Einzelimport § 73 AMG, Inhaberwechsel Kauf Apothekenbetrieb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

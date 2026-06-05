@@ -7,7 +7,7 @@ description: "Vert Vertragsschluss Vertragspruefung im Plugin Vertragsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vert Vertragsschluss Vertragspruefung** als zusammenhängenden Arbeitsgang im Plugin Vertragsrecht. Im Mittelpunkt steht die Prüfung von Bauleiter Vertragsschluss §§ 145 ff, Prüft einen Vertrag gegen das Kanzlei-Playbook nach, Geführte Anpassung des Kanzleiprofils im Vertragsrecht —. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vert Vertragsschluss Vertragspruefung** ordnet den Fall über die tragenden Prüffelder: Bauleiter Vertragsschluss §§ 145 ff, Prüft einen Vertrag gegen das Kanzlei-Playbook nach, Geführte Anpassung des Kanzleiprofils im Vertragsrecht —. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

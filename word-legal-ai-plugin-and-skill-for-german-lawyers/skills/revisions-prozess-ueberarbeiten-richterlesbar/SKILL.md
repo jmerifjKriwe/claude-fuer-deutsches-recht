@@ -7,7 +7,7 @@ description: "Revisions Prozess Ueberarbeiten Richterlesbar im Word-Legal-AI fü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Revisions Prozess Ueberarbeiten Richterlesbar** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Markup-zwischen Parteien, Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Revisions Prozess Ueberarbeiten Richterlesbar** ordnet den Fall über die tragenden Prüffelder: Markup-zwischen Parteien, Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

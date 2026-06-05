@@ -7,7 +7,7 @@ description: "Elsj Aufenthaltsrecht Mandant Betreuung im Einfache und leichte Sp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Aufenthaltsrecht Mandant Betreuung** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Aufenthaltsrechtliche Mandantenkommunikation, Mandanten in Betreuung oder Vormundschaft, Kanzlei oder Behoerde will juristischen Text für normale. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Aufenthaltsrecht Mandant Betreuung** ordnet den Fall über die tragenden Prüffelder: Aufenthaltsrechtliche Mandantenkommunikation, Mandanten in Betreuung oder Vormundschaft, Kanzlei oder Behoerde will juristischen Text für normale. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

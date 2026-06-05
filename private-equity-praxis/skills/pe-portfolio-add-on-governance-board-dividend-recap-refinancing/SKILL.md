@@ -7,7 +7,7 @@ description: "PE Portfolio ADD ON Governance Board Dividend Recap Refinancing im
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Portfolio ADD ON Governance Board Dividend Recap Refinancing** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft Buy-and-Build-Deals, Erstellt Board-Paper, Consent Requests und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Portfolio ADD ON Governance Board Dividend Recap Refinancing** ordnet den Fall über die tragenden Prüffelder: Prüft Buy-and-Build-Deals, Erstellt Board-Paper, Consent Requests. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

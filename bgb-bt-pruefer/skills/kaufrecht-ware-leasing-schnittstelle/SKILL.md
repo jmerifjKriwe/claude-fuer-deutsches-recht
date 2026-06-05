@@ -7,7 +7,7 @@ description: "Kaufrecht Ware Leasing Schnittstelle im Plugin Bgb Bt Pruefer: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kaufrecht Ware Leasing Schnittstelle** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b, Leasingvertrag im BGB, Mietrechtliche Mängel und Minderung §§ 536 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kaufrecht Ware Leasing Schnittstelle** ordnet den Fall über die tragenden Prüffelder: Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b, Leasingvertrag im BGB, Mietrechtliche Mängel und Minderung §§ 536 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

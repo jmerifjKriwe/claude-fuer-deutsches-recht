@@ -7,7 +7,7 @@ description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Staat Kelsen Demokratie Abwaegung Transparenz** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Staat Kelsen Demokratie Abwaegung Transparenz** ordnet den Fall über die tragenden Prüffelder: Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

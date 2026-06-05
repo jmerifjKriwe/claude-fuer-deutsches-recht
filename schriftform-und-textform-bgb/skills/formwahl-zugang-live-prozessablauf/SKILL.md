@@ -7,7 +7,7 @@ description: "Formwahl Zugang Live Prozessablauf im Plugin Schriftform Und Textf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Formwahl Zugang Live Prozessablauf** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht, Live. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Formwahl Zugang Live Prozessablauf** ordnet den Fall über die tragenden Prüffelder: Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht, Live. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

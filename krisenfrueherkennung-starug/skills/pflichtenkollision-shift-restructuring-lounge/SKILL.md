@@ -7,7 +7,7 @@ description: "Pflichtenkollision Shift Restructuring Lounge im Plugin Krisenfrue
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflichtenkollision Shift Restructuring Lounge** als zusammenhängenden Arbeitsgang im Plugin Krisenfrueherkennung Starug. Im Mittelpunkt steht die Prüfung von Prüffeld für pflichtenkollision und shift of fiduciary, Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG, Restrukturierungsbeauftragter und Sachwalter nach § 73. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflichtenkollision Shift Restructuring Lounge** ordnet den Fall über die tragenden Prüffelder: Prüffeld für pflichtenkollision und shift of fiduciary, Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG, Restrukturierungsbeauftragter und Sachwalter nach § 73. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

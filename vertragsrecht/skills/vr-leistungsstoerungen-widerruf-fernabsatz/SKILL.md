@@ -7,7 +7,7 @@ description: "VR Leistungsstoerungen Widerruf Fernabsatz im Plugin Vertragsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VR Leistungsstoerungen Widerruf Fernabsatz** als zusammenhängenden Arbeitsgang im Plugin Vertragsrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Leistungsstoerungen, Unterstützt bei Fragen zum Widerrufsrecht im. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VR Leistungsstoerungen Widerruf Fernabsatz** ordnet den Fall über die tragenden Prüffelder: Spezialfall Leistungsstoerungen, Unterstützt bei Fragen zum Widerrufsrecht im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

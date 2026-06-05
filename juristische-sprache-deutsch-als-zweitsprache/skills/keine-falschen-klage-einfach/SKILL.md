@@ -7,7 +7,7 @@ description: "Keine Falschen Klage Einfach im Bereich Juristische Sprache (DaZ):
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Keine Falschen Klage Einfach** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Keine Falschen Zugestaendnisse fuer Menschen mit, Hilft bei Klage Einfach Formulieren fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Keine Falschen Klage Einfach** ordnet den Fall über die tragenden Prüffelder: Hilft bei Keine Falschen Zugestaendnisse fuer Menschen mit, Hilft bei Klage Einfach Formulieren fuer Menschen mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

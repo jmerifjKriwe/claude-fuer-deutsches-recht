@@ -7,7 +7,7 @@ description: "PE Healthcare Target Energy Infrastructure Real Estate NPL Cross i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Healthcare Target Energy Infrastructure Real Estate NPL Cross** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft MVZ, Klinik, Pflege und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Healthcare Target Energy Infrastructure Real Estate NPL Cross** ordnet den Fall über die tragenden Prüffelder: Prüft MVZ, Klinik, Pflege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

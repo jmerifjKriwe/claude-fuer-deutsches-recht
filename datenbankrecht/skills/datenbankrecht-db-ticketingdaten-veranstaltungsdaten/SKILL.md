@@ -7,7 +7,7 @@ description: "DB Ticketingdaten Veranstaltungsdaten im Plugin Datenbankrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Ticketingdaten Veranstaltungsdaten** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht für Veranstaltungsdatenbanken und, Datenbankrecht für Jobportale und, Datenbankrecht für Gesundheitsdatenbanken. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Ticketingdaten Veranstaltungsdaten** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für Veranstaltungsdatenbanken und, Datenbankrecht für Jobportale und, Datenbankrecht für Gesundheitsdatenbanken. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

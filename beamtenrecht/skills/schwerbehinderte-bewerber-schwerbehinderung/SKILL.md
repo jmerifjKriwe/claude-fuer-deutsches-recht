@@ -7,7 +7,7 @@ description: "Schwerbehinderte Bewerber Schwerbehinderung im Beamtenrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schwerbehinderte Bewerber Schwerbehinderung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber, Schwerbehinderung, Gleichstellung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schwerbehinderte Bewerber Schwerbehinderung** ordnet den Fall über die tragenden Prüffelder: Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber, Schwerbehinderung, Gleichstellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

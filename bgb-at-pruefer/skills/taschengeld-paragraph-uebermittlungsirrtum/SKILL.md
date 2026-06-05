@@ -7,7 +7,7 @@ description: "Taschengeld Paragraph Uebermittlungsirrtum im Plugin Bgb At Pruefe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Taschengeld Paragraph Uebermittlungsirrtum** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zur Taschengeldparagraph nach § 110 BGB, Klausurfall zum Übermittlungsirrtum nach § 120 BGB, Prüft Verfügung eines Nichtberechtigten nach § 185 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Taschengeld Paragraph Uebermittlungsirrtum** ordnet den Fall über die tragenden Prüffelder: Klausurfall zur Taschengeldparagraph nach § 110 BGB, Klausurfall zum Übermittlungsirrtum nach § 120 BGB, Prüft Verfügung eines Nichtberechtigten nach § 185 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Sanierungsbausteine Vorschlagen Annahmen im Plugin Fortbestehenspr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sanierungsbausteine Vorschlagen Annahmen** als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose. Im Mittelpunkt steht die Prüfung von Wenn die Fortbestehensprognose ohne Massnahmen negativ oder, Annahmen, Bilanzstatus. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sanierungsbausteine Vorschlagen Annahmen** ordnet den Fall über die tragenden Prüffelder: Wenn die Fortbestehensprognose ohne Massnahmen negativ oder, Annahmen, Bilanzstatus. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

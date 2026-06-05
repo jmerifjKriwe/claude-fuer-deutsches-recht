@@ -7,7 +7,7 @@ description: "Behoerdenkommunikation Bekanntgabe Social im Versammlungsrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Behoerdenkommunikation Bekanntgabe Social** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Formuliert kluge Mails und Telefonnotizen an, Polizei, Ordnu. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Behoerdenkommunikation Bekanntgabe Social** ordnet den Fall über die tragenden Prüffelder: Formuliert kluge Mails und Telefonnotizen an, Polizei, Ordnu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

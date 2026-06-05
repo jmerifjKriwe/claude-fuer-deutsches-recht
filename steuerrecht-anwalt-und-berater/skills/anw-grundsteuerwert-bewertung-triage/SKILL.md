@@ -7,7 +7,7 @@ description: "ANW Grundsteuerwert Bewertung Triage im Steuerrecht (Anwalt/Berate
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ANW Grundsteuerwert Bewertung Triage** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Grundsteuerwert nach BewG §§ 218 ff, Strukturierte Erstabfrage und Triage bei Eingang eines, Beratung zur globalen Mindestbesteuerung Pillar Two und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ANW Grundsteuerwert Bewertung Triage** ordnet den Fall über die tragenden Prüffelder: Grundsteuerwert nach BewG §§ 218 ff, Strukturierte Erstabfrage und Triage bei Eingang eines, Beratung zur globalen Mindestbesteuerung Pillar Two. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

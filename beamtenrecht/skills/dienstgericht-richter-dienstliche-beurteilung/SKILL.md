@@ -7,7 +7,7 @@ description: "Dienstgericht Richter Dienstliche Beurteilung im Beamtenrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dienstgericht Richter Dienstliche Beurteilung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zum Dienstgericht fuer Richter nach §§ 61 ff, Dienstliche Beurteilung angreifen, Dienstpflichten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dienstgericht Richter Dienstliche Beurteilung** ordnet den Fall über die tragenden Prüffelder: Skill zum Dienstgericht fuer Richter nach §§ 61 ff, Dienstliche Beurteilung angreifen, Dienstpflichten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

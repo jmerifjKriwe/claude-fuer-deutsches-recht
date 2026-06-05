@@ -7,7 +7,7 @@ description: "ZV Raeumung Tabellenauszug Inso im Plugin Zwangsvollstreckung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZV Raeumung Tabellenauszug Inso** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Vermieter hat Räumungsurteil und will Wohnung oder, Gläubiger hat Insolvenzforderung die im Verfahren, Gläubiger weiss nichts über Vermögen des Schuldners und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZV Raeumung Tabellenauszug Inso** ordnet den Fall über die tragenden Prüffelder: Vermieter hat Räumungsurteil und will Wohnung oder, Gläubiger hat Insolvenzforderung die im Verfahren, Gläubiger weiss nichts über Vermögen des Schuldners und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

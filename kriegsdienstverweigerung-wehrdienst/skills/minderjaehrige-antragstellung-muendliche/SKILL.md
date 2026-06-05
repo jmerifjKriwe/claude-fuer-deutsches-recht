@@ -7,7 +7,7 @@ description: "Minderjaehrige Antragstellung Muendliche im Kriegsdienstverweigeru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Minderjaehrige Antragstellung Muendliche** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft Antrag sechs Monate vor 18 oder vor 17 unter, Bereitet nichtöffentliche mündliche Anhörung ohne auswendig, Erklärt Ablehnungsrisiko bei Musterungsverweigerung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Minderjaehrige Antragstellung Muendliche** ordnet den Fall über die tragenden Prüffelder: Prüft Antrag sechs Monate vor 18 oder vor 17 unter, Bereitet nichtöffentliche mündliche Anhörung ohne auswendig, Erklärt Ablehnungsrisiko bei Musterungsverweigerung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

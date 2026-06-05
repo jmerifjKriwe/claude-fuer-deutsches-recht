@@ -7,7 +7,7 @@ description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Familiennachzug Ehegatte Kind Forscher ICT** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Ehegattennachzug, Kindernachzug, Familiennachzug und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Familiennachzug Ehegatte Kind Forscher ICT** ordnet den Fall über die tragenden Prüffelder: Ehegattennachzug, Kindernachzug, Familiennachzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

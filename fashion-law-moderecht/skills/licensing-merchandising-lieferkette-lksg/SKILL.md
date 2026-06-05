@@ -7,7 +7,7 @@ description: "Licensing Merchandising Lieferkette Lksg im Fashion Law (Moderecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Licensing Merchandising Lieferkette Lksg** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Licensing und Merchandising für Fashion prüfen, Lieferkette nach LkSG und CSDDD einordnen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Licensing Merchandising Lieferkette Lksg** ordnet den Fall über die tragenden Prüffelder: Licensing und Merchandising für Fashion prüfen, Lieferkette nach LkSG und CSDDD einordnen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Kleiner Kauf Konto Gesperrt Mandanten im Plugin Verbraucher Rechts
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kleiner Kauf Konto Gesperrt Mandanten** als zusammenhängenden Arbeitsgang im Plugin Verbraucher Rechtsstaat Alltag. Im Mittelpunkt steht die Prüfung von Kleiner Kauf und Mängelrechte, Konto gesperrt durch Bank, Beteiligtenkommunikation. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kleiner Kauf Konto Gesperrt Mandanten** ordnet den Fall über die tragenden Prüffelder: Kleiner Kauf und Mängelrechte, Konto gesperrt durch Bank, Beteiligtenkommunikation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

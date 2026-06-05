@@ -7,7 +7,7 @@ description: "Employee Invention Employment Contract im Softwarerecht (DE/EU/US)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Employee Invention Employment Contract** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Employee Invention Employment Contract** ordnet den Fall über die tragenden Prüffelder: Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

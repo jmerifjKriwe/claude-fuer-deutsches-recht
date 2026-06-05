@@ -7,7 +7,7 @@ description: "Betriebsrat Mitbestimmung Beweislastumkehr im Hinweisgeberschutz u
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betriebsrat Mitbestimmung Beweislastumkehr** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft Mitbestimmung bei Meldesystem und Untersuchungen, Prüft Beweislastumkehr nach Meldung, Prüft Bewerber und ehemalige Beschäftigte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betriebsrat Mitbestimmung Beweislastumkehr** ordnet den Fall über die tragenden Prüffelder: Prüft Mitbestimmung bei Meldesystem und Untersuchungen, Prüft Beweislastumkehr nach Meldung, Prüft Bewerber und ehemalige Beschäftigte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

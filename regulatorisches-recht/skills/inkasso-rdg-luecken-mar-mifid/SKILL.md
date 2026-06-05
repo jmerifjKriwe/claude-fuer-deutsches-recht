@@ -7,7 +7,7 @@ description: "Inkasso RDG Luecken MAR Mifid im Plugin Regulatorisches Recht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inkasso RDG Luecken MAR Mifid** als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht. Im Mittelpunkt steht die Prüfung von Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen, Regulatorische Luecken in bestehenden Compliance-Strukturen, MAR-MiFID-ELTIF uebergreifend. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inkasso RDG Luecken MAR Mifid** ordnet den Fall über die tragenden Prüffelder: Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen, Regulatorische Luecken in bestehenden Compliance-Strukturen, MAR-MiFID-ELTIF uebergreifend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

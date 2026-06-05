@@ -7,7 +7,7 @@ description: "Vertragsstapel Vorlage Arbeitsvertrag im Plugin Tabellenreview 3D:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vertragsstapel Vorlage Arbeitsvertrag** als zusammenhängenden Arbeitsgang im Plugin Tabellenreview 3D. Im Mittelpunkt steht die Prüfung von Vertragsstapel, Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen, Vorlagetabelle für Portfolio-Review von. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vertragsstapel Vorlage Arbeitsvertrag** ordnet den Fall über die tragenden Prüffelder: Vertragsstapel, Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen, Vorlagetabelle für Portfolio-Review von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

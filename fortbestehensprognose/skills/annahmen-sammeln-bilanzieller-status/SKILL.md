@@ -7,7 +7,7 @@ description: "Annahmen Sammeln Bilanzieller Status im Plugin Fortbestehensprogno
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Annahmen Sammeln Bilanzieller Status** als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose. Im Mittelpunkt steht die Prüfung von Sammelt die Annahmen die der Geschäftsführer der, Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva, Erzeugt einen Comfortletter — eine weiche Erklärung des. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Annahmen Sammeln Bilanzieller Status** ordnet den Fall über die tragenden Prüffelder: Sammelt die Annahmen die der Geschäftsführer der, Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva, Erzeugt einen Comfortletter — eine weiche Erklärung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

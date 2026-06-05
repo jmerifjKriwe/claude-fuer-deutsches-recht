@@ -7,7 +7,7 @@ description: "Liqp Liquiditaetspool Cash Rollende 13wochen im Plugin Liquiditaet
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Liqp Liquiditaetspool Cash Rollende 13wochen** als zusammenhängenden Arbeitsgang im Plugin Liquiditaetsplanung. Im Mittelpunkt steht die Prüfung von Spezialfall Liquiditaetspool und Cash-Pooling im Konzern, Bauleiter rollende 13-Wochen-Liquiditaetsplanung, Spezialfall Warenkredit und Skontostrategien in der Krise. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Liqp Liquiditaetspool Cash Rollende 13wochen** ordnet den Fall über die tragenden Prüffelder: Spezialfall Liquiditaetspool und Cash-Pooling im Konzern, Bauleiter rollende 13-Wochen-Liquiditaetsplanung, Spezialfall Warenkredit und Skontostrategien in der Krise. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

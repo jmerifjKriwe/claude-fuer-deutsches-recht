@@ -7,7 +7,7 @@ description: "Software Verschluesselung Swiss Sanctions im Außenwirtschaftsrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Software Verschluesselung Swiss Sanctions** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Exportkontrolle fuer Verschluesselungssoftware und, Schweizer Sanktionsrecht als Touchpoint im, Sanktions- und Exportkontrollpruefung bei und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Software Verschluesselung Swiss Sanctions** ordnet den Fall über die tragenden Prüffelder: Exportkontrolle fuer Verschluesselungssoftware und, Schweizer Sanktionsrecht als Touchpoint im, Sanktions- und Exportkontrollpruefung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

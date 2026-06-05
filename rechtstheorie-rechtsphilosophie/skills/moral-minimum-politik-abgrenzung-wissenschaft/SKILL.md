@@ -7,7 +7,7 @@ description: "Moral Minimum Politik Abgrenzung Wissenschaft im Rechtstheorie und
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Moral Minimum Politik Abgrenzung Wissenschaft** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Moral Minimum Politik Abgrenzung Wissenschaft** ordnet den Fall über die tragenden Prüffelder: Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

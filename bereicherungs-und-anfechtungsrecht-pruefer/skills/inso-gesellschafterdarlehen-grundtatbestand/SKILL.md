@@ -7,7 +7,7 @@ description: "Inso Gesellschafterdarlehen Grundtatbestand im Plugin Bereicherung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Gesellschafterdarlehen Grundtatbestand** als zusammenhängenden Arbeitsgang im Plugin Bereicherungs Und Anfechtungsrecht Pruefer. Im Mittelpunkt steht die Prüfung von Gesellschafterdarlehen und gleichgestellte Forderungen nach, Grundvoraussetzungen der Insolvenzanfechtung nach § 129, Inkongruente Deckungsanfechtung nach § 131 InsO prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Gesellschafterdarlehen Grundtatbestand** ordnet den Fall über die tragenden Prüffelder: Gesellschafterdarlehen und gleichgestellte Forderungen nach, Grundvoraussetzungen der Insolvenzanfechtung nach § 129, Inkongruente Deckungsanfechtung nach § 131 InsO prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

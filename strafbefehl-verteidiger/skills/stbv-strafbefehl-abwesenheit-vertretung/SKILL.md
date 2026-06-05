@@ -7,7 +7,7 @@ description: "Stbv Strafbefehl Abwesenheit Vertretung im Plugin Strafbefehl Vert
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stbv Strafbefehl Abwesenheit Vertretung** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Bauleiter Pruefung Strafbefehl § 407 StPO, Mandant kann oder will zur Hauptverhandlung nach, Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stbv Strafbefehl Abwesenheit Vertretung** ordnet den Fall über die tragenden Prüffelder: Bauleiter Pruefung Strafbefehl § 407 StPO, Mandant kann oder will zur Hauptverhandlung nach, Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

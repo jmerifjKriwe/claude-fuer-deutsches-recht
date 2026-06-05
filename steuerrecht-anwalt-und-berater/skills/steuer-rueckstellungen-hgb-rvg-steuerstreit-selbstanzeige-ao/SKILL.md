@@ -7,7 +7,7 @@ description: "Steuer Rueckstellungen HGB RVG Steuerstreit Selbstanzeige AO im St
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer Rueckstellungen HGB RVG Steuerstreit Selbstanzeige AO** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Vollstaendige Pruefung von Rueckstellungen handels- und, Vergueterungsskill fuer steuerrechtliche Mandate —, Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer Rueckstellungen HGB RVG Steuerstreit Selbstanzeige AO** ordnet den Fall über die tragenden Prüffelder: Vollstaendige Pruefung von Rueckstellungen handels- und, Vergueterungsskill fuer steuerrechtliche Mandate —, Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO —. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Fristen Risikoampel Mandantenkommunikation im Fluggastrechte: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristen Risikoampel Mandantenkommunikation** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin fluggastrechte, Mandantenkommunikation im Plugin fluggastrechte, Red-Team Qualitygate im Plugin fluggastrechte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristen Risikoampel Mandantenkommunikation** ordnet den Fall über die tragenden Prüffelder: Fristen- und Risikoampel im Plugin fluggastrechte, Mandantenkommunikation im Plugin fluggastrechte, Red-Team Qualitygate im Plugin fluggastrechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

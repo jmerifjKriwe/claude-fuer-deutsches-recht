@@ -7,7 +7,7 @@ description: "Hausrat Einbruchdiebstahl IDD Vertrieb im Plugin Versicherungsrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hausrat Einbruchdiebstahl IDD Vertrieb** als zusammenhängenden Arbeitsgang im Plugin Versicherungsrecht. Im Mittelpunkt steht die Prüfung von Hausratversicherung bei Einbruchdiebstahl, Raub, Trickdiebstahl. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hausrat Einbruchdiebstahl IDD Vertrieb** ordnet den Fall über die tragenden Prüffelder: Hausratversicherung bei Einbruchdiebstahl, Raub, Trickdiebstahl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

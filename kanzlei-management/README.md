@@ -91,6 +91,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `stundensatzarchitektur-subscription-retainer` | Stundensatzarchitektur Subscription Retainer im Kanzlei-Management: prüft konkret Baut Rate Cards nach Seniorität, Praxisgruppe, Markt und Rabattgrenzen, Gestaltet Dauerberatung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoamp... |
 | `thought-leadership-toxic-client-ubt-dashboard` | Thought Leadership Toxic Client UBT Dashboard im Kanzlei-Management: prüft konkret Plant Alerts, Webinare, Beiträge und Mandantengespräche mit Nutzen, Plant Ausstieg aus Mandantenbeziehungen. Liefert priorisierten Output mit Norm-Pinpoin... |
 | `utilization-dashboard-value-pricing-weekly` | Utilization Dashboard Value Pricing Weekly im Kanzlei-Management: prüft konkret Berechnet Auslastung und warnt vor falschem, Erklärt den Wert juristischer Arbeit ohne Kostennebel, Man, Führt Fristen. Liefert priorisierten Output mit Norm... |
-| `workload-balance` | Workload Balance im Kanzlei-Management: Dieser Skill arbeitet Workload Balance als zusammenhängenden Arbeitsgang im Plugin Kanzlei Management ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `workload-balance` | Workload Balance im Kanzlei-Management: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

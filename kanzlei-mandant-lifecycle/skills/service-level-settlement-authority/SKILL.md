@@ -7,7 +7,7 @@ description: "Service Level Settlement Authority im Plugin Kanzlei Mandant Lifec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Service Level Settlement Authority** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Service Level Agreement, Settlement Authority, Settlement Implementation und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Service Level Settlement Authority** ordnet den Fall über die tragenden Prüffelder: Service Level Agreement, Settlement Authority, Settlement Implementation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

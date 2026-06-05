@@ -7,7 +7,7 @@ description: "Wohngemeinschaft Mieterwechsel Wohnraummiete im Miet- und Wohnungs
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wohngemeinschaft Mieterwechsel Wohnraummiete** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von WG und Mieterwechsel, Wohnraummiete, Zwangsversteigerung Mietrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wohngemeinschaft Mieterwechsel Wohnraummiete** ordnet den Fall über die tragenden Prüffelder: WG und Mieterwechsel, Wohnraummiete, Zwangsversteigerung Mietrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

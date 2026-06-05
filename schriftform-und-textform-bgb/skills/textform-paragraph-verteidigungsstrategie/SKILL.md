@@ -7,7 +7,7 @@ description: "Paragraph Verteidigungsstrategie im Plugin Schriftform Und Textfor
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Paragraph Verteidigungsstrategie** als zusammenhängenden Arbeitsgang im Plugin Schriftform Und Textform Bgb. Im Mittelpunkt steht die Prüfung von Prüffeld für textform paragraph 126b bgb dauerhafter, Mandant wird von Vertragspartner mit Formmangel-Einwand, Prüffeld für wohnraummiete kuendigung paragraph 568 bgb. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Paragraph Verteidigungsstrategie** ordnet den Fall über die tragenden Prüffelder: Prüffeld für textform paragraph 126b bgb dauerhafter, Mandant wird von Vertragspartner mit Formmangel-Einwand, Prüffeld für wohnraummiete kuendigung paragraph 568 bgb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

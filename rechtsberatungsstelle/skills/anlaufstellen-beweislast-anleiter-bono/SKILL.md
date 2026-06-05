@@ -7,7 +7,7 @@ description: "Anlaufstellen Beweislast Anleiter Bono im Plugin Rechtsberatungsst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anlaufstellen Beweislast Anleiter Bono** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Anlaufstellen, Anleiter, Bono. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anlaufstellen Beweislast Anleiter Bono** ordnet den Fall über die tragenden Prüffelder: Anlaufstellen, Anleiter, Bono. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Luft Bodenabfertigung Insolvenzrisiko Local im Plugin Luftrecht Fl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Luft Bodenabfertigung Insolvenzrisiko Local** als zusammenhängenden Arbeitsgang im Plugin Luftrecht Flughafenrecht. Im Mittelpunkt steht die Prüfung von Bodenabfertigungsunternehmen zeigt Insolvenzzeichen, Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Flughafen oder Bodenabfertigungsunternehmen braucht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Luft Bodenabfertigung Insolvenzrisiko Local** ordnet den Fall über die tragenden Prüffelder: Bodenabfertigungsunternehmen zeigt Insolvenzzeichen, Deutsches Kanzleiteam muss auslaendischen Anwalt fuer, Flughafen oder Bodenabfertigungsunternehmen braucht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

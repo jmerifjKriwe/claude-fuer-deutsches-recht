@@ -7,7 +7,7 @@ description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Trans CMR Frachtbrief HGB Spedition Kabotage** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Trans CMR Frachtbrief HGB Spedition Kabotage** ordnet den Fall über die tragenden Prüffelder: Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

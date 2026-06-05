@@ -7,7 +7,7 @@ description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Genth
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gentherapie Dossier Langzeit** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gentherapie Dossier Langzeit** ordnet den Fall über die tragenden Prüffelder: Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

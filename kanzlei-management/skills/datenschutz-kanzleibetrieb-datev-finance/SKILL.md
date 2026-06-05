@@ -7,7 +7,7 @@ description: "Datenschutz Kanzleibetrieb Datev Finance im Kanzlei-Management: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenschutz Kanzleibetrieb Datev Finance** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Prüft DMS, Mandantenportale, KI-Tools und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenschutz Kanzleibetrieb Datev Finance** ordnet den Fall über die tragenden Prüffelder: Prüft DMS, Mandantenportale, KI-Tools. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

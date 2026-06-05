@@ -7,7 +7,7 @@ description: "Verteilung Zwangsverwaltung Aktenanlage im Zwangsverwaltung (ZVG):
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verteilung Zwangsverwaltung Aktenanlage** als zusammenhängenden Arbeitsgang im Zwangsverwaltung (ZVG). Im Mittelpunkt steht die Prüfung von Verteilung, Zwangsverwaltung, Aktenanlage und Objektcockpit für den Zwangsverwalter nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verteilung Zwangsverwaltung Aktenanlage** ordnet den Fall über die tragenden Prüffelder: Verteilung, Zwangsverwaltung, Aktenanlage und Objektcockpit für den Zwangsverwalter nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

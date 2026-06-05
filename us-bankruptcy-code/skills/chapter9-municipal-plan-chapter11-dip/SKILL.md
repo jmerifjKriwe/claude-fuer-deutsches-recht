@@ -7,7 +7,7 @@ description: "Chapter9 Municipal Plan Chapter11 DIP im Plugin Us Bankruptcy Code
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Chapter9 Municipal Plan Chapter11 DIP** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft municipality eligibility, state authorization, insolvency und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Chapter9 Municipal Plan Chapter11 DIP** ordnet den Fall über die tragenden Prüffelder: Prueft municipality eligibility, state authorization, insolvency. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

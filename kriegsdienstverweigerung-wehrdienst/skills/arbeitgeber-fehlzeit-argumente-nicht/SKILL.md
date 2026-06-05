@@ -7,7 +7,7 @@ description: "Arbeitgeber Fehlzeit Argumente Nicht im Kriegsdienstverweigerung u
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Arbeitgeber Fehlzeit Argumente Nicht** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Kommuniziert Anhörungstermine datensparsam gegenüber, Markiert KDV-schwache Argumente und passende Alternativwege, Erklärt § 3 KDVG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Arbeitgeber Fehlzeit Argumente Nicht** ordnet den Fall über die tragenden Prüffelder: Kommuniziert Anhörungstermine datensparsam gegenüber, Markiert KDV-schwache Argumente und passende Alternativwege, Erklärt § 3 KDVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

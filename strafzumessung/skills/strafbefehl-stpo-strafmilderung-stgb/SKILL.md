@@ -7,7 +7,7 @@ description: "Strafbefehl Stpo Strafmilderung Stgb im Plugin Strafzumessung: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafbefehl Stpo Strafmilderung Stgb** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Strafzumessung im Strafbefehl § 407 StPO, Strafmilderung nach § 49 StGB, Strafrahmen-Logik vor der konkreten Zumessung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafbefehl Stpo Strafmilderung Stgb** ordnet den Fall über die tragenden Prüffelder: Strafzumessung im Strafbefehl § 407 StPO, Strafmilderung nach § 49 StGB, Strafrahmen-Logik vor der konkreten Zumessung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

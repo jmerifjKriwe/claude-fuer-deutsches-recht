@@ -7,7 +7,7 @@ description: "ZV Pfueb 802l Arbeit im Plugin Zwangsvollstreckung: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZV Pfueb 802l Arbeit** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Gläubiger will Mietforderung Steuererstattung oder, 802L, Arbeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZV Pfueb 802l Arbeit** ordnet den Fall über die tragenden Prüffelder: Gläubiger will Mietforderung Steuererstattung oder, 802L, Arbeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

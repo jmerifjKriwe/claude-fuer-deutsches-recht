@@ -7,7 +7,7 @@ description: "Authorschaft Work Backlist Rights Best im Plugin Us Copyright Regi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Authorschaft Work Backlist Rights Best** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Autorenschaft, Work made for hire und Rechtekette, Backlist Rights Gap Audit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Authorschaft Work Backlist Rights Best** ordnet den Fall über die tragenden Prüffelder: Autorenschaft, Work made for hire und Rechtekette, Backlist Rights Gap Audit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

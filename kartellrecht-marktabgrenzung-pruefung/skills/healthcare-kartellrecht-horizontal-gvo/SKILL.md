@@ -7,7 +7,7 @@ description: "Healthcare Kartellrecht Horizontal GVO im Kartellrecht (Marktabgre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Healthcare Kartellrecht Horizontal GVO** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Healthcare Kartellrecht Kooperation Kliniken, Horizontal-GVO Forschung und Entwicklung, Horizontal-GVO Spezialisierung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Healthcare Kartellrecht Horizontal GVO** ordnet den Fall über die tragenden Prüffelder: Healthcare Kartellrecht Kooperation Kliniken, Horizontal-GVO Forschung und Entwicklung, Horizontal-GVO Spezialisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

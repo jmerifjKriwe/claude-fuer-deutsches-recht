@@ -7,7 +7,7 @@ description: "Elektrog Verpackg Geoblocking Verordnung im Plugin Ecommerce Recht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elektrog Verpackg Geoblocking Verordnung** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von ElektroG VerpackG BattG Registrierung, Geoblocking-Verordnung EU, Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elektrog Verpackg Geoblocking Verordnung** ordnet den Fall über die tragenden Prüffelder: ElektroG VerpackG BattG Registrierung, Geoblocking-Verordnung EU, Gewährleistung digitale Produkte Warenkauf §§ 327 ff 434 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

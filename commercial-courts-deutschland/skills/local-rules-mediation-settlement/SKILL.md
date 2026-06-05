@@ -7,7 +7,7 @@ description: "Local Rules Mediation Settlement im Commercial Courts in Deutschla
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Local Rules Mediation Settlement** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Erstellt Live-Check zu Landesrecht, Geschäftsverteilung, Commercial-Court-Guidel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Local Rules Mediation Settlement** ordnet den Fall über die tragenden Prüffelder: Erstellt Live-Check zu Landesrecht, Geschäftsverteilung, Commercial-Court-Guidel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

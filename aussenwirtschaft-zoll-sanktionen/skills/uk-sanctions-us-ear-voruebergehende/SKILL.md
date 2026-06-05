@@ -7,7 +7,7 @@ description: "UK Sanctions US EAR Voruebergehende im Außenwirtschaftsrecht, Zol
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **UK Sanctions US EAR Voruebergehende** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat, US-Exportkontrolle als Touchpoint im deutschen Mandat, Voruebergehende Verwendung nach UZK Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**UK Sanctions US EAR Voruebergehende** ordnet den Fall über die tragenden Prüffelder: UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat, US-Exportkontrolle als Touchpoint im deutschen Mandat, Voruebergehende Verwendung nach UZK Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

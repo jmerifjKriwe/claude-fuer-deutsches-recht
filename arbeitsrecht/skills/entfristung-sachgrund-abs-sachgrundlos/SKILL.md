@@ -7,7 +7,7 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Entfristung Sachgrund ABS Sachgrundlos** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach § und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Entfristung Sachgrund ABS Sachgrundlos** ordnet den Fall über die tragenden Prüffelder: Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Gesellschafterliste Aktualisieren im Plugin Wandeldarlehen Lebensz
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesellschafterliste Aktualisieren** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Gesellschafterliste nach Kapitalerhohung durch Wandlung, Gesellschafterversammlung für Wandeldarlehensmandat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesellschafterliste Aktualisieren** ordnet den Fall über die tragenden Prüffelder: Gesellschafterliste nach Kapitalerhohung durch Wandlung, Gesellschafterversammlung für Wandeldarlehensmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

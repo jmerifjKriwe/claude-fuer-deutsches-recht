@@ -7,7 +7,7 @@ description: "Kegelclub Freizeitverein Verein Kulturverein im Plugin Vereinsrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kegelclub Freizeitverein Verein Kulturverein** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Minimalregeln für kleine Freizeitvereine, Moderiert Streit, Spezialfragen Kultur. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kegelclub Freizeitverein Verein Kulturverein** ordnet den Fall über die tragenden Prüffelder: Minimalregeln für kleine Freizeitvereine, Moderiert Streit, Spezialfragen Kultur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

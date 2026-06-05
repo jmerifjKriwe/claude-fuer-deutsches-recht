@@ -7,7 +7,7 @@ description: "Ueberbau Ueberhang Aeste Mediation im Nachbarschaftsstreit: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ueberbau Ueberhang Aeste Mediation** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Überbau nach §§ 912-916 BGB prüfen, Überhängende Äste, eindringende Wurzeln. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ueberbau Ueberhang Aeste Mediation** ordnet den Fall über die tragenden Prüffelder: Überbau nach §§ 912-916 BGB prüfen, Überhängende Äste, eindringende Wurzeln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

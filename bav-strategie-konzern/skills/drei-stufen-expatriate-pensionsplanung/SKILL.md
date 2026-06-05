@@ -7,7 +7,7 @@ description: "Drei Stufen Expatriate Pensionsplanung im betriebliche Altersverso
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Drei Stufen Expatriate Pensionsplanung** als zusammenhängenden Arbeitsgang im betriebliche Altersversorgung (bAV). Im Mittelpunkt steht die Prüfung von Drei-Stufen-Theorie bei Eingriffen in, Pensionsplanung für Expatriates, Governance-Strukturen und Anpassungsmechanismen für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Drei Stufen Expatriate Pensionsplanung** ordnet den Fall über die tragenden Prüffelder: Drei-Stufen-Theorie bei Eingriffen in, Pensionsplanung für Expatriates, Governance-Strukturen und Anpassungsmechanismen für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

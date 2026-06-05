@@ -7,7 +7,7 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gewrechts Geschgehg KI Faevvollzug EV** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Gewerblicher Rechtsschutz. Im Mittelpunkt steht die Prüfung von Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht, KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen, EV-Vollziehungscheck. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gewrechts Geschgehg KI Faevvollzug EV** ordnet den Fall über die tragenden Prüffelder: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht, KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen, EV-Vollziehungscheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

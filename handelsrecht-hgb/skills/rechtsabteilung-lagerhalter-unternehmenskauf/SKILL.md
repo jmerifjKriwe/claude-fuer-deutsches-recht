@@ -7,7 +7,7 @@ description: "Rechtsabteilung Lagerhalter Unternehmenskauf im Handelsrecht (HGB)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Lagerhalter Unternehmenskauf** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Lagerhalter- und, Prüft Firmenfortführung, Handelsgeschäft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Lagerhalter Unternehmenskauf** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Lagerhalter- und, Prüft Firmenfortführung, Handelsgeschäft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

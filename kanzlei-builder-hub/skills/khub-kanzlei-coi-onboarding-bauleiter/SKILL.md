@@ -7,7 +7,7 @@ description: "Khub Kanzlei COI Onboarding Bauleiter im Kanzlei-Aufbau: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Khub Kanzlei COI Onboarding Bauleiter** als zusammenhängenden Arbeitsgang im Kanzlei-Aufbau. Im Mittelpunkt steht die Prüfung von Spezialfall Conflicts-of-Interest-Matrix in Boutique- und, Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden, Checkliste Leistungsmatrix Mandanten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Khub Kanzlei COI Onboarding Bauleiter** ordnet den Fall über die tragenden Prüffelder: Spezialfall Conflicts-of-Interest-Matrix in Boutique- und, Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden, Checkliste Leistungsmatrix Mandanten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

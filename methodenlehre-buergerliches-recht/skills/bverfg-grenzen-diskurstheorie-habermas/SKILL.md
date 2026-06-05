@@ -7,7 +7,7 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bverfg Grenzen Diskurstheorie Habermas** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Analysiert die vom BVerfG gezogenen Grenzen richterlicher, Diskurstheorie und juristische Argumentation, Faktizitaet und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bverfg Grenzen Diskurstheorie Habermas** ordnet den Fall über die tragenden Prüffelder: Analysiert die vom BVerfG gezogenen Grenzen richterlicher, Diskurstheorie und juristische Argumentation, Faktizitaet und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

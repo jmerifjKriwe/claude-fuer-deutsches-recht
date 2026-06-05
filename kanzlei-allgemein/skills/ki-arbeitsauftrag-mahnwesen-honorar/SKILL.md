@@ -7,7 +7,7 @@ description: "KI Arbeitsauftrag Mahnwesen Honorar im Plugin Kanzlei Allgemein: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KI Arbeitsauftrag Mahnwesen Honorar** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder ei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KI Arbeitsauftrag Mahnwesen Honorar** ordnet den Fall über die tragenden Prüffelder: Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder ei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

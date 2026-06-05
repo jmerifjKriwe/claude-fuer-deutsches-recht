@@ -7,7 +7,7 @@ description: "IV Plan Darstellender Gerichtliche im Plugin Insolvenzverwaltung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Plan Darstellender Gerichtliche** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Darstellenden Teil des Insolvenzplans oder StaRUG-Plans, Gerichtliche Verfahrensschritte für Insolvenzplan und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Plan Darstellender Gerichtliche** ordnet den Fall über die tragenden Prüffelder: Darstellenden Teil des Insolvenzplans oder StaRUG-Plans, Gerichtliche Verfahrensschritte für Insolvenzplan und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

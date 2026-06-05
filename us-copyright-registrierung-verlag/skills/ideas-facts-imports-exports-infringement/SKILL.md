@@ -7,7 +7,7 @@ description: "Ideas Facts Imports Exports Infringement im Plugin Us Copyright Re
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ideas Facts Imports Exports Infringement** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Trennt Idee, Methode, Fakt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ideas Facts Imports Exports Infringement** ordnet den Fall über die tragenden Prüffelder: Trennt Idee, Methode, Fakt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

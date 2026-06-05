@@ -7,7 +7,7 @@ description: "Kommunale Klinik Krankenhaus MVZ im Plugin Krankenhausrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kommunale Klinik Krankenhaus MVZ** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Kommunale Klinik Beihilfe und EU-Beihilfen, Krankenhaus-MVZ Gründung Zulassung Compliance, Krankenhausapotheke und Arzneimittelversorgung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kommunale Klinik Krankenhaus MVZ** ordnet den Fall über die tragenden Prüffelder: Kommunale Klinik Beihilfe und EU-Beihilfen, Krankenhaus-MVZ Gründung Zulassung Compliance, Krankenhausapotheke und Arzneimittelversorgung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

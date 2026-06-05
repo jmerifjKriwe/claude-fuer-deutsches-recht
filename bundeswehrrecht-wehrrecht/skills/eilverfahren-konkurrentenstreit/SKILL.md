@@ -7,7 +7,7 @@ description: "Eilverfahren Konkurrentenstreit im Bundeswehrrecht / Wehrrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eilverfahren Konkurrentenstreit** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren TDG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eilverfahren Konkurrentenstreit** ordnet den Fall über die tragenden Prüffelder: Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren TDG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

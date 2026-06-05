@@ -7,7 +7,7 @@ description: "Rechtsprechungsgetrieben Rechtsweg Bverfg im Plugin Verfassungsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechungsgetrieben Rechtsweg Bverfg** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Rechtsprechungsgetrieben, BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechungsgetrieben Rechtsweg Bverfg** ordnet den Fall über die tragenden Prüffelder: Rechtsprechungsgetrieben, BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

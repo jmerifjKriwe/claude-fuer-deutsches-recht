@@ -1,13 +1,13 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug: Dieser Skill arbeitet Stabilisierungsanordnung Vollstreckungssperre als zusammenhängenden Arbeitsgang im Plugin Krisenfrüherkennung (StaRUG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Stabilisierungsanordnung Vollstreckungssperre
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Stabilisierungsanordnung Vollstreckungssperre** als zusammenhängenden Arbeitsgang im Plugin Krisenfrüherkennung (StaRUG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Stabilisierungsanordnung Vollstreckungssperre** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

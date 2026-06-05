@@ -7,7 +7,7 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Long Covid Vergleichsverhandlung Strategie** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Sozialrecht. Im Mittelpunkt steht die Prüfung von Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Long Covid Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüffelder: Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

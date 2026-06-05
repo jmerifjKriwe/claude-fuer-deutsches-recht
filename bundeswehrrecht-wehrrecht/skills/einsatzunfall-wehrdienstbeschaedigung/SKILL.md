@@ -7,7 +7,7 @@ description: "Einsatzunfall Wehrdienstbeschaedigung im Bundeswehrrecht / Wehrrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Einsatzunfall Wehrdienstbeschaedigung** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Einsatzunfall Wehrdienstbeschädigung, Entlassung auf eigenen Antrag, Ernennung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Einsatzunfall Wehrdienstbeschaedigung** ordnet den Fall über die tragenden Prüffelder: Einsatzunfall Wehrdienstbeschädigung, Entlassung auf eigenen Antrag, Ernennung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

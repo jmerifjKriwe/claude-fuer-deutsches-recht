@@ -7,7 +7,7 @@ description: "Berufung STA Beweisantraege Stpo im Plugin Staatsanwaltschaft Prax
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berufung STA Beweisantraege Stpo** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Berufung der Staatsanwaltschaft einlegen und begrenzen, Beweisanträge nach § 244 StPO, Beweisverwertungsverbote aus Sicht der StA und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berufung STA Beweisantraege Stpo** ordnet den Fall über die tragenden Prüffelder: Berufung der Staatsanwaltschaft einlegen und begrenzen, Beweisanträge nach § 244 StPO, Beweisverwertungsverbote aus Sicht der StA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

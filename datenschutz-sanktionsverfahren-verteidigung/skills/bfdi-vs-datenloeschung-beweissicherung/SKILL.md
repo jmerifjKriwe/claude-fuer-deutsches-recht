@@ -7,7 +7,7 @@ description: "Bfdi VS Datenloeschung Beweissicherung im Datenschutz-Sanktionsver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bfdi VS Datenloeschung Beweissicherung** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von BfDI oder Landesaufsicht, Datenlöschung vs, Dokumentenmatrix vor Akteneinsicht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bfdi VS Datenloeschung Beweissicherung** ordnet den Fall über die tragenden Prüffelder: BfDI oder Landesaufsicht, Datenlöschung vs, Dokumentenmatrix vor Akteneinsicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

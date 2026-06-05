@@ -7,7 +7,7 @@ description: "Europa Menschenrechte Familie Partnerschaft im Kriegsdienstverweig
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Europa Menschenrechte Familie Partnerschaft** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen, Trennt externe Erwartungen von der eigenen, Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Europa Menschenrechte Familie Partnerschaft** ordnet den Fall über die tragenden Prüffelder: Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen, Trennt externe Erwartungen von der eigenen, Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

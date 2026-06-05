@@ -7,7 +7,7 @@ description: "Pflichten DSA ART Forschungsdatenzugang im DSA/DMA-Digitalregulier
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Pflichten DSA ART Forschungsdatenzugang** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Pflichtenuebersicht DMA fuer benannte Gatekeeper, Jaehrliche Risikobewertung nach Art, Forschungsdatenzugang nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Pflichten DSA ART Forschungsdatenzugang** ordnet den Fall über die tragenden Prüffelder: Pflichtenuebersicht DMA fuer benannte Gatekeeper, Jaehrliche Risikobewertung nach Art, Forschungsdatenzugang nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

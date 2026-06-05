@@ -7,7 +7,7 @@ description: "CAP Table Darlehenshoehe Konditionen im Plugin Wandeldarlehen Lebe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CAP Table Darlehenshoehe Konditionen** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Cap-Table vor und nach Wandlung aktualisieren und, Darlehenshoehe Zinsen Laufzeit und Konditionen für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CAP Table Darlehenshoehe Konditionen** ordnet den Fall über die tragenden Prüffelder: Cap-Table vor und nach Wandlung aktualisieren und, Darlehenshoehe Zinsen Laufzeit und Konditionen für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Rueckgabe Vernichtung NDA Typen im NDA-Abgleich: prüft konkret Ru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rueckgabe Vernichtung NDA Typen** als zusammenhängenden Arbeitsgang im NDA-Abgleich. Im Mittelpunkt steht die Prüfung von Rueckgabe und Vernichtung Vertraulicher Information, NDA-Typen vergleichen, Leitfaden NDA-Vergleichsmatrix. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rueckgabe Vernichtung NDA Typen** ordnet den Fall über die tragenden Prüffelder: Rueckgabe und Vernichtung Vertraulicher Information, NDA-Typen vergleichen, Leitfaden NDA-Vergleichsmatrix. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

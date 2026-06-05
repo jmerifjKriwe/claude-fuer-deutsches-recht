@@ -79,6 +79,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `itr-saas-dsv-bussgeldverteidigung` | ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: prüft konkret SaaS-Vertragstypen in der Praxis, Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art, Verteidigt den Verantwortlichen gegen, Strukturierte Prüfung b... |
 | `nis2-quellenkarte` | Nis2 Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `software-source-ttdsg` | Software Source TTDSG im Plugin Fachanwalt It Recht: prüft konkret Schnittstellen, Software, Source, Ttdsg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt It Recht: Dieser Skill arbeitet Vergleichsverhandlung Strategie als zusammenhängenden Arbeitsgang im Plugin Fachanwalt IT-Recht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast un... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt It Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

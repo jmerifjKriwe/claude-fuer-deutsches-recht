@@ -7,7 +7,7 @@ description: "Schulwegsicherheit Sondernutzung Strassenbahn im Verkehrs- und Inf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schulwegsicherheit Sondernutzung Strassenbahn** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Schulwegsicherheit rechtlich verbessern oder Amtshaftung, Sondernutzung öffentlicher Strassenflaechen beantragen und, Strassenbahn- und OEPNV-Infrastrukturrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schulwegsicherheit Sondernutzung Strassenbahn** ordnet den Fall über die tragenden Prüffelder: Schulwegsicherheit rechtlich verbessern oder Amtshaftung, Sondernutzung öffentlicher Strassenflaechen beantragen und, Strassenbahn- und OEPNV-Infrastrukturrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

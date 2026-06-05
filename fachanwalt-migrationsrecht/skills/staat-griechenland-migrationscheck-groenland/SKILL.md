@@ -7,7 +7,7 @@ description: "Staat Griechenland Migrationscheck Groenland im Migrationsrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Staat Griechenland Migrationscheck Groenland** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Staaten- und Gebietscheck Griechenland, Staaten- und Gebietscheck Grönland, Staaten- und Gebietscheck Guadeloupe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Staat Griechenland Migrationscheck Groenland** ordnet den Fall über die tragenden Prüffelder: Staaten- und Gebietscheck Griechenland, Staaten- und Gebietscheck Grönland, Staaten- und Gebietscheck Guadeloupe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

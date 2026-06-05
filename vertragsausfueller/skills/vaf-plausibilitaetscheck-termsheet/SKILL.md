@@ -7,7 +7,7 @@ description: "VAF Plausibilitaetscheck Termsheet im Plugin Vertragsausfueller: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VAF Plausibilitaetscheck Termsheet** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von Plausibilitätsprüfung vor Vertragsausgabe, Term Sheet auf Vertragsfelder mappen, Altvertraege. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VAF Plausibilitaetscheck Termsheet** ordnet den Fall über die tragenden Prüffelder: Plausibilitätsprüfung vor Vertragsausgabe, Term Sheet auf Vertragsfelder mappen, Altvertraege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

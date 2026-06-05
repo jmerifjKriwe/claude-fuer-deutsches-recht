@@ -7,7 +7,7 @@ description: "PE Real Estate Opco Portfolio Reporting LP Valuation Fairness im P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Real Estate Opco Portfolio Reporting LP Valuation Fairness** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft Immobilien, Mietverträge, Sale-and-Leaseback und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Real Estate Opco Portfolio Reporting LP Valuation Fairness** ordnet den Fall über die tragenden Prüffelder: Prüft Immobilien, Mietverträge, Sale-and-Leaseback. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Third Party Time Entry Translation Management im Plugin Kanzlei Ma
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Third Party Time Entry Translation Management** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Third Party Funding, Time Entry Hygiene, Translation Management und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Third Party Time Entry Translation Management** ordnet den Fall über die tragenden Prüffelder: Third Party Funding, Time Entry Hygiene, Translation Management. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

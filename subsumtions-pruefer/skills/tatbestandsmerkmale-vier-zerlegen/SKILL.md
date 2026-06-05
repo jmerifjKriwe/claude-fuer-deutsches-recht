@@ -7,7 +7,7 @@ description: "Tatbestandsmerkmale Vier Zerlegen im Plugin Subsumtions Pruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tatbestandsmerkmale Vier Zerlegen** als zusammenhängenden Arbeitsgang im Plugin Subsumtions Pruefer. Im Mittelpunkt steht die Prüfung von Tatbestandsmerkmale, Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tatbestandsmerkmale Vier Zerlegen** ordnet den Fall über die tragenden Prüffelder: Tatbestandsmerkmale, Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

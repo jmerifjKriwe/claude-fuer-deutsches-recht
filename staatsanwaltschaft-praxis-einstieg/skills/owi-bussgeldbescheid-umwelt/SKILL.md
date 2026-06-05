@@ -7,7 +7,7 @@ description: "OWI Bussgeldbescheid Umwelt im Plugin Staatsanwaltschaft Praxis Ei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **OWI Bussgeldbescheid Umwelt** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Bußgeldbescheid prüfen, Umwelt-, Arbeitsschutz- und Produkt-OWi und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**OWI Bussgeldbescheid Umwelt** ordnet den Fall über die tragenden Prüffelder: Bußgeldbescheid prüfen, Umwelt-, Arbeitsschutz- und Produkt-OWi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

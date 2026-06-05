@@ -7,7 +7,7 @@ description: "Niederschrift Aufstellungsversammlung Online im Parteienrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Niederschrift Aufstellungsversammlung Online** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Niederschrift Aufstellungsversammlung Online** ordnet den Fall über die tragenden Prüffelder: Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

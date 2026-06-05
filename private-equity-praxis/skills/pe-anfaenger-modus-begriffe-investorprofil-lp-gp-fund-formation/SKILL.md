@@ -7,7 +7,7 @@ description: "PE Anfaenger Modus Begriffe Investorprofil LP GP Fund Formation im
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Anfaenger Modus Begriffe Investorprofil LP GP Fund Formation** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Erklärt Private Equity, Sponsor, Fund und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Anfaenger Modus Begriffe Investorprofil LP GP Fund Formation** ordnet den Fall über die tragenden Prüffelder: Erklärt Private Equity, Sponsor, Fund. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

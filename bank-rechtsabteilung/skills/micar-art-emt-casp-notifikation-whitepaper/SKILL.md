@@ -7,7 +7,7 @@ description: "Micar ART EMT Casp Notifikation Whitepaper im Plugin Bank Rechtsab
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Micar ART EMT Casp Notifikation Whitepaper** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von ART- und EMT-Emission nach MiCAR für Banken prüfen, MiCAR-CASP-Notifikation für Banken nach Art, MiCAR-Whitepaper und Marketing für Kryptowerte prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Micar ART EMT Casp Notifikation Whitepaper** ordnet den Fall über die tragenden Prüffelder: ART- und EMT-Emission nach MiCAR für Banken prüfen, MiCAR-CASP-Notifikation für Banken nach Art, MiCAR-Whitepaper und Marketing für Kryptowerte prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

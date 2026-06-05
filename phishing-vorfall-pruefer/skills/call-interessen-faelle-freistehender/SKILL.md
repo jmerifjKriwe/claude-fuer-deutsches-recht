@@ -7,7 +7,7 @@ description: "Call Interessen Faelle Freistehender im Plugin Phishing Vorfall Pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Call Interessen Faelle Freistehender** als zusammenhängenden Arbeitsgang im Plugin Phishing Vorfall Pruefer. Im Mittelpunkt steht die Prüfung von Call, Faelle, Freistehender. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Call Interessen Faelle Freistehender** ordnet den Fall über die tragenden Prüffelder: Call, Faelle, Freistehender. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

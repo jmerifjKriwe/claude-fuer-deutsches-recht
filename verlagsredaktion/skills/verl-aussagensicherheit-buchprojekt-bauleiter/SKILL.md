@@ -7,7 +7,7 @@ description: "Verl Aussagensicherheit Buchprojekt Bauleiter im Verlagsredaktion 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verl Aussagensicherheit Buchprojekt Bauleiter** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Prueft im Manuskript jede tragende Aussage darauf ob sie so, Bauleiter juristisches Buchprojekt, Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verl Aussagensicherheit Buchprojekt Bauleiter** ordnet den Fall über die tragenden Prüffelder: Prueft im Manuskript jede tragende Aussage darauf ob sie so, Bauleiter juristisches Buchprojekt, Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

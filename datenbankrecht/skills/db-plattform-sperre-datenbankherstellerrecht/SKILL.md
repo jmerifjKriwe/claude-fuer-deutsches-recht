@@ -7,7 +7,7 @@ description: "DB Plattform Sperre Datenbankherstellerrecht im Plugin Datenbankre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Plattform Sperre Datenbankherstellerrecht** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Rechtliche Bewertung von Plattformsperren wegen Data, Datenbankherstellerrecht und arbeitsrechtliche Ansprüche, Rechtssichere Beweissicherung durch Testcrawler bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Plattform Sperre Datenbankherstellerrecht** ordnet den Fall über die tragenden Prüffelder: Rechtliche Bewertung von Plattformsperren wegen Data, Datenbankherstellerrecht und arbeitsrechtliche Ansprüche, Rechtssichere Beweissicherung durch Testcrawler bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

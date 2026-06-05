@@ -7,7 +7,7 @@ description: "Oeffentlicher Dienst Pflegezeiten im Plugin Rentenpruefer: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Oeffentlicher Dienst Pflegezeiten** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen, Rentenpunkte durch Pflege. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Oeffentlicher Dienst Pflegezeiten** ordnet den Fall über die tragenden Prüffelder: Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen, Rentenpunkte durch Pflege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

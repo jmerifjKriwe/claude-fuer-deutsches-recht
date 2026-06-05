@@ -7,7 +7,7 @@ description: "Gesetzesverbot Sittenwidrigkeit Gutachtenstil im Plugin Bgb At Pru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesetzesverbot Sittenwidrigkeit Gutachtenstil** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Klausurfall zu Gesetzesverstoß nach § 134 BGB und, Methodik-Skill für Gutachtenstil und Klausurtechnik im, Klausurfall zum Handeln im fremden Namen nach § 164 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesetzesverbot Sittenwidrigkeit Gutachtenstil** ordnet den Fall über die tragenden Prüffelder: Klausurfall zu Gesetzesverstoß nach § 134 BGB und, Methodik-Skill für Gutachtenstil und Klausurtechnik im, Klausurfall zum Handeln im fremden Namen nach § 164 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

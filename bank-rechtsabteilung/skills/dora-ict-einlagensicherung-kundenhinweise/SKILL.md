@@ -7,7 +7,7 @@ description: "Dora ICT Einlagensicherung Kundenhinweise im Plugin Bank Rechtsabt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dora ICT Einlagensicherung Kundenhinweise** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von DORA-IKT-Verträge und IKT-Vorfälle, Einlagensicherung und Kundenhinweise, Embedded-Finance-Kooperationen prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dora ICT Einlagensicherung Kundenhinweise** ordnet den Fall über die tragenden Prüffelder: DORA-IKT-Verträge und IKT-Vorfälle, Einlagensicherung und Kundenhinweise, Embedded-Finance-Kooperationen prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Embargo Syrien Endverwendung im Außenwirtschaftsrecht, Zoll und S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Embargo Syrien Endverwendung** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und, Endverwender-Pruefung und End-Use-Certificate (EUC), EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Embargo Syrien Endverwendung** ordnet den Fall über die tragenden Prüffelder: EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und, Endverwender-Pruefung und End-Use-Certificate (EUC), EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

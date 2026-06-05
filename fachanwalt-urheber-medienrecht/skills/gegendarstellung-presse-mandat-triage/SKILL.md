@@ -7,7 +7,7 @@ description: "Gegendarstellung Presse Mandat Triage im Plugin Fachanwalt Urheber
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gegendarstellung Presse Mandat Triage** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Gegendarstellungsrecht im Presserecht prüfen und, Urheber- und Medienrechtsmandat schnell einordnen und, Schriftsatzkern für urheber- und medienrechtliche Klagen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gegendarstellung Presse Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Gegendarstellungsrecht im Presserecht prüfen und, Urheber- und Medienrechtsmandat schnell einordnen und, Schriftsatzkern für urheber- und medienrechtliche Klagen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

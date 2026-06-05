@@ -7,7 +7,7 @@ description: "Humanstudie Ethik IFG Transparenz im Hochschulrecht der Länder: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Humanstudie Ethik IFG Transparenz** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Humanstudien, Einwilligung, Ethikvotum und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Humanstudie Ethik IFG Transparenz** ordnet den Fall über die tragenden Prüffelder: Prüft Humanstudien, Einwilligung, Ethikvotum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

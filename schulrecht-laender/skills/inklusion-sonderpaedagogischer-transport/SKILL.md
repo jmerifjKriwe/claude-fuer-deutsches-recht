@@ -7,7 +7,7 @@ description: "Inklusion Sonderpaedagogischer Transport im Schulrecht der Länder
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inklusion Sonderpaedagogischer Transport** als zusammenhängenden Arbeitsgang im Schulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Inklusion und sonderpädagogischen Förderbedarf, Prüft Beförderung, Assistenz und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inklusion Sonderpaedagogischer Transport** ordnet den Fall über die tragenden Prüffelder: Prüft Inklusion und sonderpädagogischen Förderbedarf, Prüft Beförderung, Assistenz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

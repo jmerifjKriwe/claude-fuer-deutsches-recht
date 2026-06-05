@@ -7,7 +7,7 @@ description: "Recherche Start Rechtsberatungsstelle im Plugin Rechtsberatungsste
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Recherche Start Rechtsberatungsstelle** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsber, Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Recherche Start Rechtsberatungsstelle** ordnet den Fall über die tragenden Prüffelder: Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsber, Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

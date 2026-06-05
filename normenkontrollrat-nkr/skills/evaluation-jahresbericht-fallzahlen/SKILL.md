@@ -7,7 +7,7 @@ description: "Evaluation Jahresbericht Fallzahlen im Plugin Normenkontrollrat Nk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Evaluation Jahresbericht Fallzahlen** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Beschreibt Evaluierungspraxis ex-post-Pruefung und, Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Evaluation Jahresbericht Fallzahlen** ordnet den Fall über die tragenden Prüffelder: Beschreibt Evaluierungspraxis ex-post-Pruefung und, Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

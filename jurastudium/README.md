@@ -180,7 +180,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `oeffentliches-quellenkarte` | Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `pruefungsgespraech-ag-rechtsgeschichte` | Pruefungsgespraech AG Rechtsgeschichte im Jurastudium: prüft konkret Prüfungsgespraech und Sokrates-Methode in, Übt deutsche und europäische Rechtsgeschichte für, Gutachtenstil. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampe... |
 | `strafrecht-studium-subsumtionslehre` | Strafrecht Studium Subsumtionslehre im Jurastudium: prüft konkret Strafrecht, Studium, Subsumtionslehre. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `tatbestaende-lernen` | Tatbestaende Lernen im Jurastudium: Dieser Skill arbeitet Tatbestaende Lernen als zusammenhängenden Arbeitsgang im Plugin Jurastudium (Klausur, AG, Examen) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output prio... |
+| `tatbestaende-lernen` | Tatbestaende Lernen im Jurastudium: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `tradition-zivilrecht-subsumtionslehre` | Tradition Zivilrecht Subsumtionslehre im Jurastudium: prüft konkret Tradition, Zivilrecht, Übt die Subsumtion als Königsdisziplin der deutschen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

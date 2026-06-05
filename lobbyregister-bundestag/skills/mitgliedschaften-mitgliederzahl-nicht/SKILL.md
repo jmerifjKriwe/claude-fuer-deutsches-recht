@@ -7,7 +7,7 @@ description: "Mitgliedschaften Mitgliederzahl Nicht im Lobbyregister Bundestag: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mitgliedschaften Mitgliederzahl Nicht** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitglieds, Prüft Kennzeichnung nicht aktualisiert. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mitgliedschaften Mitgliederzahl Nicht** ordnet den Fall über die tragenden Prüffelder: Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitglieds, Prüft Kennzeichnung nicht aktualisiert. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

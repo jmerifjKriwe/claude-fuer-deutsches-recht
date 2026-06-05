@@ -7,7 +7,7 @@ description: "ZV Pfaendungstabelle Pfueb Arbeitsentgelt im Plugin Zwangsvollstre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **ZV Pfaendungstabelle Pfueb Arbeitsentgelt** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Lohnpfaendung oder Rentenpfaendung ist beantragt und der, Gläubiger will Lohn oder Gehalt des Schuldners pfaenden, Gläubiger will Bankkonto des Schuldners pfaenden lassen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**ZV Pfaendungstabelle Pfueb Arbeitsentgelt** ordnet den Fall über die tragenden Prüffelder: Lohnpfaendung oder Rentenpfaendung ist beantragt und der, Gläubiger will Lohn oder Gehalt des Schuldners pfaenden, Gläubiger will Bankkonto des Schuldners pfaenden lassen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

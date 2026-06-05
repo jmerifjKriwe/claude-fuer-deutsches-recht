@@ -7,7 +7,7 @@ description: "Heilfuersorge Ruhestand VS im Beamtenrecht: prüft konkret Heilfü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Heilfuersorge Ruhestand VS** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Heilfürsorge, Ruhestand und PKV-Anwartschaft, Skill zur Abgrenzung Heilfuersorge und Beihilfe im. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Heilfuersorge Ruhestand VS** ordnet den Fall über die tragenden Prüffelder: Heilfürsorge, Ruhestand und PKV-Anwartschaft, Skill zur Abgrenzung Heilfuersorge und Beihilfe im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

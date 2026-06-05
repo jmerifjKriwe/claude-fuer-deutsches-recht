@@ -7,7 +7,7 @@ description: "Verordnungen Vorrang Unmittelbare im Europarecht: prüft konkret V
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verordnungen Vorrang Unmittelbare** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Verordnungen, Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verordnungen Vorrang Unmittelbare** ordnet den Fall über die tragenden Prüffelder: Verordnungen, Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Richter Richterlicher Hinweis im Plugin Urteilsbauer Relationsmach
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Richter Richterlicher Hinweis** als zusammenhängenden Arbeitsgang im Plugin Urteilsbauer Relationsmacher. Im Mittelpunkt steht die Prüfung von Richter, Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Richter Richterlicher Hinweis** ordnet den Fall über die tragenden Prüffelder: Richter, Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

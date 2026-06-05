@@ -7,7 +7,7 @@ description: "Ifap Tabellenauszug Tabellenimport Verteilung im Plugin Insolvenzf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ifap Tabellenauszug Tabellenimport Verteilung** als zusammenhängenden Arbeitsgang im Plugin Insolvenzforderungsanmeldungspruefung. Im Mittelpunkt steht die Prüfung von Tabellenauszug und Feststellungswirkung nach § 178 InsO, Tabelleneintrag und Tabellenimport nach § 175 InsO, Verteilung bei bestrittenen Forderungen nach § 189 InsO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ifap Tabellenauszug Tabellenimport Verteilung** ordnet den Fall über die tragenden Prüffelder: Tabellenauszug und Feststellungswirkung nach § 178 InsO, Tabelleneintrag und Tabellenimport nach § 175 InsO, Verteilung bei bestrittenen Forderungen nach § 189 InsO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

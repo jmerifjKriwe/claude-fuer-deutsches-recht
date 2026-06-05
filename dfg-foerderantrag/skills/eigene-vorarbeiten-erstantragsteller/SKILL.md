@@ -7,7 +7,7 @@ description: "Eigene Vorarbeiten Erstantragsteller im DFG-Förderantragstellung:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eigene Vorarbeiten Erstantragsteller** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Eigene Vorarbeiten in DFG-Antrag richtig darstellen, Erstantragsteller-Spezialcheck, DFG-Finanzplan und Modulbegründung erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eigene Vorarbeiten Erstantragsteller** ordnet den Fall über die tragenden Prüffelder: Eigene Vorarbeiten in DFG-Antrag richtig darstellen, Erstantragsteller-Spezialcheck, DFG-Finanzplan und Modulbegründung erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

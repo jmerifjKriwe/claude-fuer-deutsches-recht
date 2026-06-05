@@ -78,7 +78,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `schoeffen-handelsrichter-praxis-red-team-qualitygate` | Red-Team-Qualitygate: erklärt prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenh... |
 | `schoeffen-handelsrichter-quellen-rspr-fristen` | Quellen Rspr Fristen im Schöffen- und Handelsrichter-Praxis: prüft konkret Quellen- und Rechtsprechungscheck, Fristen- und Zuständigkeitscockpit, Ermüdung im Komplexverfahren (Orientierung). Liefert priorisierten Output mit Norm-Pinpoint... |
 | `sitzungs-terminvorbereitung-strafzumessung` | Sitzungs Terminvorbereitung Strafzumessung im Schöffen- und Handelsrichter-Praxis: prüft konkret Sitzungs- und Terminvorbereitung, Strafzumessung für Schöffen, Strafzumessung für Schöffen (Orientierung). Liefert priorisierten Output mit... |
-| `strafzumessung-schoeffe` | Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: Dieser Skill arbeitet Strafzumessung Schoeffe als zusammenhängenden Arbeitsgang im Plugin Schöffen- und Handelsrichter-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Bewe... |
+| `strafzumessung-schoeffe` | Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `vertriebsstreit-orientierung-sitzung` | Vertriebsstreit Orientierung Sitzung im Schöffen- und Handelsrichter-Praxis: prüft konkret Handelsrichter Vertriebsstreit (Orientierung), Handelsrichter Vertriebsstreit (Sitzungspraxis), Jugendschöffe Besonderheiten. Liefert priorisierte... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

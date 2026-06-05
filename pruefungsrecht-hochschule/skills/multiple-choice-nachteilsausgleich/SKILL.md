@@ -7,7 +7,7 @@ description: "Multiple Choice Nachteilsausgleich im Prüfungsrecht der Hochschul
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Multiple Choice Nachteilsausgleich** als zusammenhängenden Arbeitsgang im Prüfungsrecht der Hochschule. Im Mittelpunkt steht die Prüfung von Prüft Multiple-Choice- und Antwort-Wahl-Verfahren, Prüft Nachteilsausgleich, Behinderung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Multiple Choice Nachteilsausgleich** ordnet den Fall über die tragenden Prüffelder: Prüft Multiple-Choice- und Antwort-Wahl-Verfahren, Prüft Nachteilsausgleich, Behinderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,13 +1,13 @@
 ---
 name: strafzumessung-schoeffe
-description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: Dieser Skill arbeitet Strafzumessung Schoeffe als zusammenhängenden Arbeitsgang im Plugin Schöffen- und Handelsrichter-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Strafzumessung Schoeffe
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Strafzumessung Schoeffe** als zusammenhängenden Arbeitsgang im Plugin Schöffen- und Handelsrichter-Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Strafzumessung Schoeffe** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

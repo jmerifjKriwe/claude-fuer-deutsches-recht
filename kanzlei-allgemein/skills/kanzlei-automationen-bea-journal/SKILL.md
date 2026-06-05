@@ -7,7 +7,7 @@ description: "Automationen BEA Journal im Plugin Kanzlei Allgemein: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Automationen BEA Journal** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Plant und dokumentiert wiederkehrende Kanzlei-Routinen als, Dokumentation von beA-Verbindungen Nachrichten Versand und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Automationen BEA Journal** ordnet den Fall über die tragenden Prüffelder: Plant und dokumentiert wiederkehrende Kanzlei-Routinen als, Dokumentation von beA-Verbindungen Nachrichten Versand und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

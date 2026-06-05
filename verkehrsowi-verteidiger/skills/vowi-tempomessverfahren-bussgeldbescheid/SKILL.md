@@ -7,7 +7,7 @@ description: "Vowi Tempomessverfahren Bussgeldbescheid im Plugin Verkehrsowi Ver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vowi Tempomessverfahren Bussgeldbescheid** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Spezialfall Tempomessverfahren und Fehlerquellen, Bussgeldbescheid, Anhoerung vor Bußgeldbescheid und Reaktion auf. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vowi Tempomessverfahren Bussgeldbescheid** ordnet den Fall über die tragenden Prüffelder: Spezialfall Tempomessverfahren und Fehlerquellen, Bussgeldbescheid, Anhoerung vor Bußgeldbescheid und Reaktion auf. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Mindestabnahme Mitwirkungspflichten im AGB-Recht: prüft konkret M
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mindestabnahme Mitwirkungspflichten** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Mindestabnahme, Mitwirkungspflichten, Nacherfüllung Vorrang und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mindestabnahme Mitwirkungspflichten** ordnet den Fall über die tragenden Prüffelder: Mindestabnahme, Mitwirkungspflichten, Nacherfüllung Vorrang. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

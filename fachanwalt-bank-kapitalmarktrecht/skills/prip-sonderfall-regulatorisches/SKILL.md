@@ -7,7 +7,7 @@ description: "Prip Sonderfall Regulatorisches im Plugin Fachanwalt Bank Kapitalm
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Prip Sonderfall Regulatorisches** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Prip, Regulatorisches, Schnittstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Prip Sonderfall Regulatorisches** ordnet den Fall über die tragenden Prüffelder: Prip, Regulatorisches, Schnittstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

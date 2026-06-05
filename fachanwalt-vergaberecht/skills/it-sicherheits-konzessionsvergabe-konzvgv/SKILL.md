@@ -7,7 +7,7 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IT Sicherheits Konzessionsvergabe Konzvgv** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüffelder: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

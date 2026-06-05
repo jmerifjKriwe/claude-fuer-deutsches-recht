@@ -7,7 +7,7 @@ description: "Experimentelle Behandlung Fachanwalt im Medizinrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Experimentelle Behandlung Fachanwalt** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Experimentelle Behandlung Fachanwalt** ordnet den Fall über die tragenden Prüffelder: Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

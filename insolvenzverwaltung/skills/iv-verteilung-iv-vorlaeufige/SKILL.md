@@ -7,7 +7,7 @@ description: "IV Verteilung IV Vorlaeufige im Plugin Insolvenzverwaltung: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IV Verteilung IV Vorlaeufige** als zusammenhängenden Arbeitsgang im Plugin Insolvenzverwaltung. Im Mittelpunkt steht die Prüfung von Abschlussphase des Insolvenzverfahrens durchführen, Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IV Verteilung IV Vorlaeufige** ordnet den Fall über die tragenden Prüffelder: Abschlussphase des Insolvenzverfahrens durchführen, Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

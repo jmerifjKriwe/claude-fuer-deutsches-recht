@@ -7,7 +7,7 @@ description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Migr Ausweisung Abschiebung Duldung** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Migr Ausweisung Abschiebung Duldung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

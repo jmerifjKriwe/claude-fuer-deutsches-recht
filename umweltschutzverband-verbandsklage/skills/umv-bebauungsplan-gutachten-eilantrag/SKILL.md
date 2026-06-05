@@ -7,7 +7,7 @@ description: "UMV Bebauungsplan Gutachten Eilantrag im Plugin Umweltschutzverban
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **UMV Bebauungsplan Gutachten Eilantrag** als zusammenhängenden Arbeitsgang im Plugin Umweltschutzverband Verbandsklage. Im Mittelpunkt steht die Prüfung von Umweltschutzverband Verbandsklage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**UMV Bebauungsplan Gutachten Eilantrag** ordnet den Fall über die tragenden Prüffelder: Umweltschutzverband Verbandsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

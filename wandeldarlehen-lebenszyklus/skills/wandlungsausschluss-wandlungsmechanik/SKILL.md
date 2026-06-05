@@ -7,7 +7,7 @@ description: "Wandlungsausschluss Wandlungsmechanik im Plugin Wandeldarlehen Leb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wandlungsausschluss Wandlungsmechanik** als zusammenhängenden Arbeitsgang im Plugin Wandeldarlehen Lebenszyklus. Im Mittelpunkt steht die Prüfung von Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei, Wandlungsmechanik eines SAFE oder Convertible Note. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wandlungsausschluss Wandlungsmechanik** ordnet den Fall über die tragenden Prüffelder: Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei, Wandlungsmechanik eines SAFE oder Convertible Note. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

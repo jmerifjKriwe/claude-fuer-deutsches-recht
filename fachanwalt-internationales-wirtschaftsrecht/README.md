@@ -71,6 +71,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `schiedsklausel-intwr-eu-sanktions` | Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsrecht: prüft konkret Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoam... |
 | `schiedsklausel-intwr-grenzueberschreitender` | Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wirtschaftsrecht: prüft konkret Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertrags... |
 | `schnittstelle-interessen-trade-beweislast` | Schnittstelle Interessen Trade Beweislast im Internationalen Wirtschaftsrecht: prüft konkret Schnittstelle, Trade, Uncitral. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Internationalen Wirtschaftsrecht: Dieser Skill arbeitet Vergleichsverhandlung Strategie als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Internationales Wirtschaftsrecht ab — nach Aktenlage, Frist... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Internationalen Wirtschaftsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -7,7 +7,7 @@ description: "5B Standardtarif Gebuehren Andere 6A im Plugin Goae Gebuehrenordnu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **5B Standardtarif Gebuehren Andere 6A** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von GOÄ § 5b Standardtarif PKV, GOÄ § 6 Gebühren für andere Leistungen Analogbewertung, GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**5B Standardtarif Gebuehren Andere 6A** ordnet den Fall über die tragenden Prüffelder: GOÄ § 5b Standardtarif PKV, GOÄ § 6 Gebühren für andere Leistungen Analogbewertung, GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

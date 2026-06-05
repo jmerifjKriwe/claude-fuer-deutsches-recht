@@ -7,7 +7,7 @@ description: "Veroeffentlichung Bussgeldentscheidungen im Datenschutz-Sanktionsv
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Veroeffentlichung Bussgeldentscheidungen** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Veröffentlichung von Bußgeldentscheidungen, Anwesenheit und Entbindung § 73 OWiG, One-Stop-Shop Art und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Veroeffentlichung Bussgeldentscheidungen** ordnet den Fall über die tragenden Prüffelder: Veröffentlichung von Bußgeldentscheidungen, Anwesenheit und Entbindung § 73 OWiG, One-Stop-Shop Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

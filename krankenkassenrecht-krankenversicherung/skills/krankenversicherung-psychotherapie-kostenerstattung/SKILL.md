@@ -7,7 +7,7 @@ description: "Psychotherapie Kostenerstattung im Krankenkassenrecht / Krankenver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Psychotherapie Kostenerstattung** als zusammenhängenden Arbeitsgang im Krankenkassenrecht / Krankenversicherung. Im Mittelpunkt steht die Prüfung von GKV-Psychotherapie, Krankenversicherungsrechtliche Ansprüche bei Long Covid und, GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Psychotherapie Kostenerstattung** ordnet den Fall über die tragenden Prüffelder: GKV-Psychotherapie, Krankenversicherungsrechtliche Ansprüche bei Long Covid und, GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

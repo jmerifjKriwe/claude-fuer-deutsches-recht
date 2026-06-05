@@ -7,7 +7,7 @@ description: "Mahnschreiben Entwurf Anwaltsgeheimnis im Plugin Prozessrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mahnschreiben Entwurf Anwaltsgeheimnis** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Vorgerichtliches Mahnschreiben entwerfen, Anwaltsgeheimnis und Verschwiegenheitspflicht bei, Verbessert prozessuale Argumentation in Klage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mahnschreiben Entwurf Anwaltsgeheimnis** ordnet den Fall über die tragenden Prüffelder: Vorgerichtliches Mahnschreiben entwerfen, Anwaltsgeheimnis und Verschwiegenheitspflicht bei, Verbessert prozessuale Argumentation in Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

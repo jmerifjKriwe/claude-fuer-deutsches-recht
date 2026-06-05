@@ -7,7 +7,7 @@ description: "VC Market Abuse Inside KYC AML Sanctions Grants Forschungszulage i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Market Abuse Inside KYC AML Sanctions Grants Forschungszulage** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Warnt bei börsennahen Targets, Token, Secondaries und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Market Abuse Inside KYC AML Sanctions Grants Forschungszulage** ordnet den Fall über die tragenden Prüffelder: Warnt bei börsennahen Targets, Token, Secondaries. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

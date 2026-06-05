@@ -7,7 +7,7 @@ description: "FZ Plaedoyer Begruendung Roadmap im Forschungszulage-Antragstellun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FZ Plaedoyer Begruendung Roadmap** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Plädoyer, Begründung und Verteidigung der Forschungszulage, Mehrjahresstrategie Forschungszulage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FZ Plaedoyer Begruendung Roadmap** ordnet den Fall über die tragenden Prüffelder: Plädoyer, Begründung und Verteidigung der Forschungszulage, Mehrjahresstrategie Forschungszulage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

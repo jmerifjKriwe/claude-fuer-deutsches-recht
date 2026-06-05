@@ -7,7 +7,7 @@ description: "VC Liquidation Preference Waterfall Anti Dilution Down im Venture 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Liquidation Preference Waterfall Anti Dilution Down** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Rechnet non-participating, participating, multiple und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Liquidation Preference Waterfall Anti Dilution Down** ordnet den Fall über die tragenden Prüffelder: Rechnet non-participating, participating, multiple. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

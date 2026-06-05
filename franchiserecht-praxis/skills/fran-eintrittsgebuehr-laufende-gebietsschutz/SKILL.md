@@ -7,7 +7,7 @@ description: "Fran Eintrittsgebuehr Laufende Gebietsschutz im Franchiserecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran Eintrittsgebuehr Laufende Gebietsschutz** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Gebührenstruktur im Franchiserecht prüfen, Gebietsschutz im Franchiserecht prüfen, Bezugsbindungen im Franchisesystem kartellrechtlich prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran Eintrittsgebuehr Laufende Gebietsschutz** ordnet den Fall über die tragenden Prüffelder: Gebührenstruktur im Franchiserecht prüfen, Gebietsschutz im Franchiserecht prüfen, Bezugsbindungen im Franchisesystem kartellrechtlich prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

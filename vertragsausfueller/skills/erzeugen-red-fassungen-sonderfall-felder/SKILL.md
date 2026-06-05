@@ -7,7 +7,7 @@ description: "Erzeugen RED Fassungen Sonderfall Felder im Plugin Vertragsausfuel
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erzeugen RED Fassungen Sonderfall Felder** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfueller. Im Mittelpunkt steht die Prüfung von Erzeugen, Fassungen, Felder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erzeugen RED Fassungen Sonderfall Felder** ordnet den Fall über die tragenden Prüffelder: Erzeugen, Fassungen, Felder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

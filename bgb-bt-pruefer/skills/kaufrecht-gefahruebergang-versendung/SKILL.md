@@ -7,7 +7,7 @@ description: "Kaufrecht Gefahruebergang Versendung im Plugin Bgb Bt Pruefer: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kaufrecht Gefahruebergang Versendung** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Ver, Prüft Nacherfüllung § 439 BGB. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kaufrecht Gefahruebergang Versendung** ordnet den Fall über die tragenden Prüffelder: Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Ver, Prüft Nacherfüllung § 439 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

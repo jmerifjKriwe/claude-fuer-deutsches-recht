@@ -7,7 +7,7 @@ description: "SSM Bundesbank Stablecoin Payment Staking im Plugin Bank Rechtsabt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SSM Bundesbank Stablecoin Payment Staking** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen, Stablecoin-Zahlungsusecase für Banken prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SSM Bundesbank Stablecoin Payment Staking** ordnet den Fall über die tragenden Prüffelder: SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen, Stablecoin-Zahlungsusecase für Banken prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

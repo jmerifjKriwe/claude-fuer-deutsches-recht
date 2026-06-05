@@ -7,7 +7,7 @@ description: "Rechtsabteilung Cybersecurity Digitale im Plugin Produktrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Cybersecurity Digitale** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Cybersecurity als, Rechtsabteilungs-Fachmodul für Digitale Elemente im, Rechtsabteilungs-Fachmodul für Right to Repair im. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Cybersecurity Digitale** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Cybersecurity als, Rechtsabteilungs-Fachmodul für Digitale Elemente im, Rechtsabteilungs-Fachmodul für Right to Repair im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

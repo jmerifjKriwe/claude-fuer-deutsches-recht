@@ -7,7 +7,7 @@ description: "Automation Monitoring Billing Narratives im Corporate-Kanzlei-Prax
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Automation Monitoring Billing Narratives** als zusammenhängenden Arbeitsgang im Corporate-Kanzlei-Praxis. Im Mittelpunkt steht die Prüfung von Automationen und Monitoring, Corporate Billing Narratives. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Automation Monitoring Billing Narratives** ordnet den Fall über die tragenden Prüffelder: Automationen und Monitoring, Corporate Billing Narratives. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

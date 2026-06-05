@@ -7,7 +7,7 @@ description: "Crypto Exchange Darlehen Finanzierung im AGB-Recht: prüft konkret
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Crypto Exchange Darlehen Finanzierung** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Branchen-Fachmodul für Crypto Exchange AGB, Branchen-Fachmodul für Darlehen Finanzierung AGB, Datenexport Portabilität und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Crypto Exchange Darlehen Finanzierung** ordnet den Fall über die tragenden Prüffelder: Branchen-Fachmodul für Crypto Exchange AGB, Branchen-Fachmodul für Darlehen Finanzierung AGB, Datenexport Portabilität. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Fotos Bilder Gema GVL Gerichtlicher im Plugin Urheberrecht De Eu: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fotos Bilder Gema GVL Gerichtlicher** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Lichtbildwerk, Lichtbild, Design. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fotos Bilder Gema GVL Gerichtlicher** ordnet den Fall über die tragenden Prüffelder: Prueft Lichtbildwerk, Lichtbild, Design. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Kontenpfaendung Notar Interessen Online im Plugin Zwangsvollstreck
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kontenpfaendung Notar Interessen Online** als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung. Im Mittelpunkt steht die Prüfung von Kontenpfaendung, Notar, Online. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kontenpfaendung Notar Interessen Online** ordnet den Fall über die tragenden Prüffelder: Kontenpfaendung, Notar, Online. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

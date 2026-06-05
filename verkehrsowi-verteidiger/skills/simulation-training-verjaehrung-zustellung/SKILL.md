@@ -7,7 +7,7 @@ description: "Simulation Training Verjaehrung Zustellung im Plugin Verkehrsowi V
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Simulation Training Verjaehrung Zustellung** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Simulationstraining für OWi-Mandate, Verfolgungsverjährung im OWi-Verfahren prüfen, Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Simulation Training Verjaehrung Zustellung** ordnet den Fall über die tragenden Prüffelder: Simulationstraining für OWi-Mandate, Verfolgungsverjährung im OWi-Verfahren prüfen, Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

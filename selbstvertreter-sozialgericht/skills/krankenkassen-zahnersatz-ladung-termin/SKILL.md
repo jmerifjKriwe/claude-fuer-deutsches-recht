@@ -7,7 +7,7 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Krankenkassen Zahnersatz Ladung Termin** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Krankenkassen Zahnersatz Ladung Termin** ordnet den Fall über die tragenden Prüffelder: Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

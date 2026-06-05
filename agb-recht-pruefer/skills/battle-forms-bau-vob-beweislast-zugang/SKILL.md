@@ -7,7 +7,7 @@ description: "Battle Forms BAU VOB Beweislast Zugang im AGB-Recht: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Battle Forms BAU VOB Beweislast Zugang** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Battle of Forms AGB Kollision, Branchen-Fachmodul für Bau VOB/B AGB, Beweislast und Zugang 309 und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Battle Forms BAU VOB Beweislast Zugang** ordnet den Fall über die tragenden Prüffelder: Battle of Forms AGB Kollision, Branchen-Fachmodul für Bau VOB/B AGB, Beweislast und Zugang 309. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

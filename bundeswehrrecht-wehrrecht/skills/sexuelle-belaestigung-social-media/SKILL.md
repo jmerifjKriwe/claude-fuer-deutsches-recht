@@ -7,7 +7,7 @@ description: "Sexuelle Belaestigung Social Media im Bundeswehrrecht / Wehrrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sexuelle Belaestigung Social Media** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von Sexuelle Belästigung, Beschwerde, Schutzpflicht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sexuelle Belaestigung Social Media** ordnet den Fall über die tragenden Prüffelder: Sexuelle Belästigung, Beschwerde, Schutzpflicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

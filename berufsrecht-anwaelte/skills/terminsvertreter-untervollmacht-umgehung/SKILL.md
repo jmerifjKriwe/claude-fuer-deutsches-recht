@@ -7,7 +7,7 @@ description: "Terminsvertreter Untervollmacht Umgehung im Berufsrecht der Anwäl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Terminsvertreter Untervollmacht Umgehung** als zusammenhängenden Arbeitsgang im Berufsrecht der Anwälte. Im Mittelpunkt steht die Prüfung von Anwälte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Terminsvertreter Untervollmacht Umgehung** ordnet den Fall über die tragenden Prüffelder: Anwälte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

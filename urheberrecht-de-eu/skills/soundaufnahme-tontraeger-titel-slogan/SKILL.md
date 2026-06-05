@@ -7,7 +7,7 @@ description: "Soundaufnahme Tontraeger Titel Slogan im Plugin Urheberrecht De Eu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Soundaufnahme Tontraeger Titel Slogan** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Ste. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Soundaufnahme Tontraeger Titel Slogan** ordnet den Fall über die tragenden Prüffelder: Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Ste. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

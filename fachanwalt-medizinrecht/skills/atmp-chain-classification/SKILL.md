@@ -7,7 +7,7 @@ description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Cha
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Atmp Chain Classification** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Atmp Chain Classification** ordnet den Fall über die tragenden Prüffelder: ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

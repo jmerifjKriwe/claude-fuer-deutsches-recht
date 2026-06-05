@@ -7,7 +7,7 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kuendigung Zugang Ladestation Tiefgarage** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kuendigung Zugang Ladestation Tiefgarage** ordnet den Fall über die tragenden Prüffelder: Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

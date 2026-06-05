@@ -7,7 +7,7 @@ description: "Open Source Plain im Plugin Gesellschaftsgruender: prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Open Source Plain** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence, Übersetzt Gründungsrecht in einfache Sprache und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Open Source Plain** ordnet den Fall über die tragenden Prüffelder: Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence, Übersetzt Gründungsrecht in einfache Sprache. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

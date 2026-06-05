@@ -7,7 +7,7 @@ description: "Transparenzbericht Fristennotiz DSA DMA im DSA/DMA-Digitalregulier
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Transparenzbericht Fristennotiz DSA DMA** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Transparenzbericht, Verteidigung gegen Bussgelder nach DSA und DMA, Prüffeld für account sperre soziales netzwerk rechtsbehelfe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Transparenzbericht Fristennotiz DSA DMA** ordnet den Fall über die tragenden Prüffelder: Transparenzbericht, Verteidigung gegen Bussgelder nach DSA und DMA, Prüffeld für account sperre soziales netzwerk rechtsbehelfe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

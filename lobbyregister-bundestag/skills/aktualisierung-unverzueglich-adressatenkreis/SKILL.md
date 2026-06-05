@@ -7,7 +7,7 @@ description: "Aktualisierung Unverzueglich Adressatenkreis im Lobbyregister Bund
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Aktualisierung Unverzueglich Adressatenkreis** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Aktualisierung Unverzueglich Adressatenkreis** ordnet den Fall über die tragenden Prüffelder: Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "INS Delisting Bernahmeangebot im Insiderrecht und Compliance: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Delisting Bernahmeangebot** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft insiderrechtliche Pflichten beim Delisting, Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Delisting Bernahmeangebot** ordnet den Fall über die tragenden Prüffelder: Prueft insiderrechtliche Pflichten beim Delisting, Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

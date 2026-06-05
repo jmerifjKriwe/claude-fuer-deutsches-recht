@@ -7,7 +7,7 @@ description: "Mehrdeutigkeit Sinnermittlung Meinung im Plugin Meinungspruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mehrdeutigkeit Sinnermittlung Meinung** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Ermittelt den objektiven Sinn einer mehrdeutigen Äußerung, Kontext, Prüft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mehrdeutigkeit Sinnermittlung Meinung** ordnet den Fall über die tragenden Prüffelder: Ermittelt den objektiven Sinn einer mehrdeutigen Äußerung, Kontext, Prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

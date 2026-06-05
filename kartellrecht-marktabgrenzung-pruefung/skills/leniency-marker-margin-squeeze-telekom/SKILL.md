@@ -7,7 +7,7 @@ description: "Leniency Marker Margin Squeeze Telekom im Kartellrecht (Marktabgre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Leniency Marker Margin Squeeze Telekom** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Leniency und Marker global, Margin Squeeze und Predatory Pricing, Margin Squeeze Telekom Energie Plattform und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Leniency Marker Margin Squeeze Telekom** ordnet den Fall über die tragenden Prüffelder: Leniency und Marker global, Margin Squeeze und Predatory Pricing, Margin Squeeze Telekom Energie Plattform. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

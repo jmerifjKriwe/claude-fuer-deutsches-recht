@@ -1,13 +1,13 @@
 ---
 name: vereinsrecht-zweckaenderung-satzung
-description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager: Dieser Skill arbeitet Zweckaenderung Satzung als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zweckaenderung Satzung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zweckaenderung Satzung** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zweckaenderung Satzung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

@@ -7,7 +7,7 @@ description: "Schoeffe Sitzungsordnung Sitzung Strafkammer im Schöffen- und Han
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schoeffe Sitzungsordnung Sitzung Strafkammer** als zusammenhängenden Arbeitsgang im Schöffen- und Handelsrichter-Praxis. Im Mittelpunkt steht die Prüfung von Sitzungsordnung und Auftreten (Sitzungspraxis), Schöffe in der Strafkammer (Orientierung), Schöffe in der Strafkammer (Sitzungspraxis). Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schoeffe Sitzungsordnung Sitzung Strafkammer** ordnet den Fall über die tragenden Prüffelder: Sitzungsordnung und Auftreten (Sitzungspraxis), Schöffe in der Strafkammer (Orientierung), Schöffe in der Strafkammer (Sitzungspraxis). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

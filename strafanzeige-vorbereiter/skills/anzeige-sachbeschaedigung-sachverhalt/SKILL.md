@@ -7,7 +7,7 @@ description: "Anzeige Sachbeschaedigung Sachverhalt im Strafanzeigen-Vorbereitun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anzeige Sachbeschaedigung Sachverhalt** als zusammenhängenden Arbeitsgang im Strafanzeigen-Vorbereitung. Im Mittelpunkt steht die Prüfung von Sachbeschädigung, Entfernt Polemik und Rechtswertungen aus Anzeigen, präzise un. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anzeige Sachbeschaedigung Sachverhalt** ordnet den Fall über die tragenden Prüffelder: Sachbeschädigung, Entfernt Polemik und Rechtswertungen aus Anzeigen, präzise un. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

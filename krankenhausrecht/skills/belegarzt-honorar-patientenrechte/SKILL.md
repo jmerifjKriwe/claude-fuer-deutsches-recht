@@ -7,7 +7,7 @@ description: "Belegarzt Honorar Patientenrechte im Plugin Krankenhausrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Belegarzt Honorar Patientenrechte** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Belegarzt Honorar und Krankenhausvertrag, Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB), Geburtshilfe Haftung Hebammen Schnittstelle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Belegarzt Honorar Patientenrechte** ordnet den Fall über die tragenden Prüffelder: Belegarzt Honorar und Krankenhausvertrag, Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB), Geburtshilfe Haftung Hebammen Schnittstelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

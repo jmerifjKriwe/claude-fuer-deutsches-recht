@@ -7,7 +7,7 @@ description: "Elternzeit Versorgungsanwartschaft Entfernung im Beamtenrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elternzeit Versorgungsanwartschaft Entfernung** als zusammenhängenden Arbeitsgang im Beamtenrecht. Im Mittelpunkt steht die Prüfung von Skill zur Elternzeit der Beamten und ihren Auswirkungen auf, Skill zur Entfernung aus dem Beamtenverhaeltnis als, Entlassung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elternzeit Versorgungsanwartschaft Entfernung** ordnet den Fall über die tragenden Prüffelder: Skill zur Elternzeit der Beamten und ihren Auswirkungen auf, Skill zur Entfernung aus dem Beamtenverhaeltnis als, Entlassung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

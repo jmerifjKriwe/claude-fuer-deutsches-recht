@@ -7,7 +7,7 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Uvgo Unterschwellenvergabe Vergabesperre** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Vergaberecht. Im Mittelpunkt steht die Prüfung von Unterschwellenvergabe nach UVgO durchfuehren und angreifen, Vergabesperre und fakultative Ausschlussgruende mit, VK-Aufklärungsverfahren und Vergleich im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Uvgo Unterschwellenvergabe Vergabesperre** ordnet den Fall über die tragenden Prüffelder: Unterschwellenvergabe nach UVgO durchfuehren und angreifen, Vergabesperre und fakultative Ausschlussgruende mit, VK-Aufklärungsverfahren und Vergleich im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

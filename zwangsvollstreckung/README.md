@@ -117,6 +117,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `zwangsvollstreckung-zv-pfaendungstabelle-pfueb-arbeitsentgelt` | ZV Pfaendungstabelle Pfueb Arbeitsentgelt im Plugin Zwangsvollstreckung: prüft konkret Lohnpfaendung oder Rentenpfaendung ist beantragt und der, Gläubiger will Lohn oder Gehalt des Schuldners pfaenden, Gläubiger will Bankkonto des Schuld... |
 | `zwangsvollstreckung-zv-raeumung-tabellenauszug-inso` | ZV Raeumung Tabellenauszug Inso im Plugin Zwangsvollstreckung: prüft konkret Vermieter hat Räumungsurteil und will Wohnung oder, Gläubiger hat Insolvenzforderung die im Verfahren, Gläubiger weiss nichts über Vermögen des Schuldners und.... |
 | `zwv-pfaendung-konto-vollstreckungsschutz` | ZWV Pfaendung Konto Vollstreckungsschutz im Plugin Zwangsvollstreckung: prüft konkret Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff, Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel, Bauleiter Vollstreckungstitel §§ 7... |
-| `zwv-zwangsversteigerung` | ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung: Dieser Skill arbeitet ZWV Zwangsversteigerung als zusammenhängenden Arbeitsgang im Plugin Zwangsvollstreckung (ZPO §§ 704 ff.) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast u... |
+| `zwv-zwangsversteigerung` | ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

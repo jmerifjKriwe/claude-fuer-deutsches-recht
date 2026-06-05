@@ -7,7 +7,7 @@ description: "Gesellschaftsrecht Register im Plugin Mittelstand Corporate Ma: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesellschaftsrecht Register** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Corporate Housekeeping und Register, Handelsregister- und Registerabruf, KG und Personengesellschaften und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesellschaftsrecht Register** ordnet den Fall über die tragenden Prüffelder: Corporate Housekeeping und Register, Handelsregister- und Registerabruf, KG und Personengesellschaften. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

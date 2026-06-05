@@ -7,7 +7,7 @@ description: "Steuer UST Rechnungspflicht Ustg Vorsteuerabzug VGA Pruefraster im
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Steuer UST Rechnungspflicht Ustg Vorsteuerabzug VGA Pruefraster** als zusammenhängenden Arbeitsgang im Steuerrecht (Anwalt/Berater). Im Mittelpunkt steht die Prüfung von Vollstaendiger Skill zur umsatzsteuerlichen, Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG —, Pruefraster zur verdeckten Gewinnausschuettung — und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Steuer UST Rechnungspflicht Ustg Vorsteuerabzug VGA Pruefraster** ordnet den Fall über die tragenden Prüffelder: Vollstaendiger Skill zur umsatzsteuerlichen, Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG —, Pruefraster zur verdeckten Gewinnausschuettung —. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

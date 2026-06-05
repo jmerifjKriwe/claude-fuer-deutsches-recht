@@ -7,7 +7,7 @@ description: "Werbearchiv Aufbauen Klage Gegen Account im DSA/DMA-Digitalregulie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Werbearchiv Aufbauen Klage Gegen Account** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Werbearchiv nach Art, Nichtigkeitsklage gegen Designations-Beschluss der, Account. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Werbearchiv Aufbauen Klage Gegen Account** ordnet den Fall über die tragenden Prüffelder: Werbearchiv nach Art, Nichtigkeitsklage gegen Designations-Beschluss der, Account. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

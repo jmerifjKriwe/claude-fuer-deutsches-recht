@@ -7,7 +7,7 @@ description: "Nationales Verfahren Vorlageverfahren ART im Europarecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nationales Verfahren Vorlageverfahren ART** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz, Vorabentscheidungsersuchen nach Art, Denkfehler. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nationales Verfahren Vorlageverfahren ART** ordnet den Fall über die tragenden Prüffelder: EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz, Vorabentscheidungsersuchen nach Art, Denkfehler. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

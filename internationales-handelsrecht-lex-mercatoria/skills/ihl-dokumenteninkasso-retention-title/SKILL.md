@@ -7,7 +7,7 @@ description: "IHL Dokumenteninkasso Retention Title im Plugin Internationales Ha
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **IHL Dokumenteninkasso Retention Title** als zusammenhängenden Arbeitsgang im Plugin Internationales Handelsrecht Lex Mercatoria. Im Mittelpunkt steht die Prüfung von Internationales Handelsrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**IHL Dokumenteninkasso Retention Title** ordnet den Fall über die tragenden Prüffelder: Internationales Handelsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

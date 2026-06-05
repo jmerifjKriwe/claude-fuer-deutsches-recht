@@ -7,7 +7,7 @@ description: "Rechtsabteilung Prokura Registerbeanstandung im Handelsrecht (HGB)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Prokura Registerbeanstandung** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Prokura und, Prüft Zwischenverfügung, Beanstandung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Prokura Registerbeanstandung** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Prokura und, Prüft Zwischenverfügung, Beanstandung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

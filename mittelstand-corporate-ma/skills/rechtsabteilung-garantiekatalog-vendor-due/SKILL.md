@@ -7,7 +7,7 @@ description: "Rechtsabteilung Garantiekatalog Vendor DUE im Plugin Mittelstand C
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Garantiekatalog Vendor DUE** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Garantiekatalog ohne, Rechtsabteilungs-Fachmodul für Vendor Due Diligence für, Prüft und entwirft GmbH-Beiratsregeln für mittelständische. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Garantiekatalog Vendor DUE** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Garantiekatalog ohne, Rechtsabteilungs-Fachmodul für Vendor Due Diligence für, Prüft und entwirft GmbH-Beiratsregeln für mittelständische. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

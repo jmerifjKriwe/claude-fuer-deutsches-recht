@@ -7,7 +7,7 @@ description: "Nebenberuf Protokoll Nachbereitung im Berufsrecht der Steuerberate
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nebenberuf Protokoll Nachbereitung** als zusammenhängenden Arbeitsgang im Berufsrecht der Steuerberater. Im Mittelpunkt steht die Prüfung von Nebenberuf, Protokoll und Nachbereitung, Rechnungseinzug und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nebenberuf Protokoll Nachbereitung** ordnet den Fall über die tragenden Prüffelder: Nebenberuf, Protokoll und Nachbereitung, Rechnungseinzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

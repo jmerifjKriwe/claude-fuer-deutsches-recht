@@ -1,13 +1,13 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act): Dieser Skill arbeitet Wettbewerb Flaschenhaelse als zusammenhängenden Arbeitsgang im Plugin KI-VO / AI Act-Prüfer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Wettbewerb Flaschenhaelse
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Wettbewerb Flaschenhaelse** als zusammenhängenden Arbeitsgang im Plugin KI-VO / AI Act-Prüfer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Wettbewerb Flaschenhaelse** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

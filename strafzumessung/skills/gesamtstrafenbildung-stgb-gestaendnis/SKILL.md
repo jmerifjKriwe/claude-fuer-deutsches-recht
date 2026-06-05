@@ -7,7 +7,7 @@ description: "Gesamtstrafenbildung Stgb Gestaendnis im Plugin Strafzumessung: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesamtstrafenbildung Stgb Gestaendnis** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§, Gestaendnis als Strafmilderungsgrund, Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesamtstrafenbildung Stgb Gestaendnis** ordnet den Fall über die tragenden Prüffelder: Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§, Gestaendnis als Strafmilderungsgrund, Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

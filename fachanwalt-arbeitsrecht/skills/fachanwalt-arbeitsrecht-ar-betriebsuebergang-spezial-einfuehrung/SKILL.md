@@ -7,7 +7,7 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AR Betriebsuebergang Spezial Einfuehrung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Betriebsübergang § 613a BGB im M&A-Kontext, Arbeitsrecht einführend, Leiharbeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AR Betriebsuebergang Spezial Einfuehrung** ordnet den Fall über die tragenden Prüffelder: Betriebsübergang § 613a BGB im M&A-Kontext, Arbeitsrecht einführend, Leiharbeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

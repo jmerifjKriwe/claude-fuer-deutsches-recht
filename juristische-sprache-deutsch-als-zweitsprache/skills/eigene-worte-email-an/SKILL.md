@@ -7,7 +7,7 @@ description: "Eigene Worte Email AN im Bereich Juristische Sprache (DaZ): prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Eigene Worte Email AN** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Eigene Worte Zu Formalem Deutsch fuer Menschen, Hilft bei Email An Anwalt fuer Menschen mit Deutsch als. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Eigene Worte Email AN** ordnet den Fall über die tragenden Prüffelder: Hilft bei Eigene Worte Zu Formalem Deutsch fuer Menschen, Hilft bei Email An Anwalt fuer Menschen mit Deutsch als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "HGR DIS Gesellschaftsrecht Token Fristennotiz im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **HGR DIS Gesellschaftsrecht Token Fristennotiz** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Handels Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Gesellschafter streiten und wollen Schiedsverfahren statt, Gesellschaftsrecht, Token. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**HGR DIS Gesellschaftsrecht Token Fristennotiz** ordnet den Fall über die tragenden Prüffelder: Gesellschafter streiten und wollen Schiedsverfahren statt, Gesellschaftsrecht, Token. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

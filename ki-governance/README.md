@@ -228,6 +228,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `rollenmodell-use-case-vendor` | Rollenmodell USE Case Vendor im KI-Governance: prüft konkret Rollenmodell, Use-Case-Risikoklassifizierung nach KI-VO und DSGVO, Vendor. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `triage-haftung-versicherung-anwendungsfall` | Triage Haftung Versicherung Anwendungsfall im KI-Governance: prüft konkret Triage, Haftung beim Einsatz von KI, Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `vo-pflichtenpyramide-kig-ai-foundation` | VO Pflichtenpyramide KIG AI Foundation im KI-Governance: prüft konkret Pflichtenpyramide KI-VO einfuehrend, Bauleiter AI-Act-Rollenmodell, Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. Liefert priorisierten Output mit Norm... |
-| `werbung-beweislast` | Werbung Beweislast im KI-Governance: Dieser Skill arbeitet Werbung Beweislast als zusammenhängenden Arbeitsgang im Plugin KI-Governance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `werbung-beweislast` | Werbung Beweislast im KI-Governance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

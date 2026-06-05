@@ -7,7 +7,7 @@ description: "Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso Kommunikation Glaeubiger P002** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von Kommunikation mit Glaeubigern im Insolvenz- und, § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen, § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso Kommunikation Glaeubiger P002** ordnet den Fall über die tragenden Prüffelder: Kommunikation mit Glaeubigern im Insolvenz- und, § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen, § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

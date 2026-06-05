@@ -7,7 +7,7 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Grad Behinderung Grundsicherung Alter SGB XII** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Grad Behinderung Grundsicherung Alter SGB XII** ordnet den Fall über die tragenden Prüffelder: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

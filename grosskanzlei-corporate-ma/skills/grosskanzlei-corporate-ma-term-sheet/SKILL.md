@@ -7,7 +7,7 @@ description: "Term Sheet im Corporate/M&A (Großkanzlei-Praxis): prüft konkret 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Term Sheet** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Investment Teaser Information Memorandum und, Term-Sheet-to-SPA-Bridge, Multi-Jurisdiction-Koordination und Übersetzungen in und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Term Sheet** ordnet den Fall über die tragenden Prüffelder: Investment Teaser Information Memorandum und, Term-Sheet-to-SPA-Bridge, Multi-Jurisdiction-Koordination und Übersetzungen in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

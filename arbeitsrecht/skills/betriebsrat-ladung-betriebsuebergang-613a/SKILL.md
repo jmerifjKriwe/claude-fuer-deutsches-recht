@@ -7,7 +7,7 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Betriebsrat Ladung Betriebsuebergang 613a** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüffelder: Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

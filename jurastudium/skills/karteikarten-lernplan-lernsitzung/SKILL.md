@@ -7,7 +7,7 @@ description: "Karteikarten Lernplan Lernsitzung im Jurastudium: prüft konkret K
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Karteikarten Lernplan Lernsitzung** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Karteikarten für Jurastudium und Examensvorbereitung, Erstellt oder aktualisiert einen strukturierten Lernplan, Lernsitzung für Jurastudium interaktiv durchführen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Karteikarten Lernplan Lernsitzung** ordnet den Fall über die tragenden Prüffelder: Karteikarten für Jurastudium und Examensvorbereitung, Erstellt oder aktualisiert einen strukturierten Lernplan, Lernsitzung für Jurastudium interaktiv durchführen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

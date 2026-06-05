@@ -89,6 +89,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `rangruecktritt-sanierungsbausteine` | Rangruecktritt Sanierungsbausteine im Plugin Fortbestehensprognose: prüft konkret Rangruecktritt, Sanierungsbausteine, Selbstdokumentation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `sanierungsbausteine-vorschlagen-annahmen` | Sanierungsbausteine Vorschlagen Annahmen im Plugin Fortbestehensprognose: prüft konkret Wenn die Fortbestehensprognose ohne Massnahmen negativ oder, Annahmen, Bilanzstatus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und... |
 | `starug-beweislast-stundung-red-zwoelf` | Starug Beweislast Stundung RED Zwoelf im Plugin Fortbestehensprognose: prüft konkret StaRUG, Stundung, Zwoelf. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `wenn-prognose` | Wenn Prognose im Plugin Fortbestehensprognose: Dieser Skill arbeitet Wenn Prognose als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose (IDW S 11) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output... |
+| `wenn-prognose` | Wenn Prognose im Plugin Fortbestehensprognose: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

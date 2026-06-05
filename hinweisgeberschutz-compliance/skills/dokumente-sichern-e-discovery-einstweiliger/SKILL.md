@@ -7,7 +7,7 @@ description: "Dokumente Sichern E Discovery Einstweiliger im Hinweisgeberschutz 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dokumente Sichern E Discovery Einstweiliger** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Sichert Unterlagen nach Eingang eines Hinweises, Prüft E-Discovery und Forensik im deutschen Rahmen, Prüft Eilrechtsschutz gegen Repressalien und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dokumente Sichern E Discovery Einstweiliger** ordnet den Fall über die tragenden Prüffelder: Sichert Unterlagen nach Eingang eines Hinweises, Prüft E-Discovery und Forensik im deutschen Rahmen, Prüft Eilrechtsschutz gegen Repressalien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

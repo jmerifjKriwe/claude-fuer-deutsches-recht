@@ -7,7 +7,7 @@ description: "Rabatte Streichpreise Rechtsabteilung Cross im Plugin Ecommerce Re
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rabatte Streichpreise Rechtsabteilung Cross** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Rabatte Streichpreise Preisermäßigung PAngV, Rechtsabteilungs-Fachmodul für Cross-Border-Shop, Rechtsabteilungs-Fachmodul für Dark Patterns und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rabatte Streichpreise Rechtsabteilung Cross** ordnet den Fall über die tragenden Prüffelder: Rabatte Streichpreise Preisermäßigung PAngV, Rechtsabteilungs-Fachmodul für Cross-Border-Shop, Rechtsabteilungs-Fachmodul für Dark Patterns und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Handelsvertreter Paragraph Provision im Handelsrecht (HGB): prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Handelsvertreter Paragraph Provision** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler, Prüft Provisionsanspruch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Handelsvertreter Paragraph Provision** ordnet den Fall über die tragenden Prüffelder: Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler, Prüft Provisionsanspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DB Sportdaten Live Immobiliendaten Portal im Plugin Datenbankrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB Sportdaten Live Immobiliendaten Portal** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02, Datenbankrecht für Immobilienportale und Lead-Datenbanken, Datenbankrecht für Produktdatenbanken und PIM-Systeme. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB Sportdaten Live Immobiliendaten Portal** ordnet den Fall über die tragenden Prüffelder: Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02, Datenbankrecht für Immobilienportale und Lead-Datenbanken, Datenbankrecht für Produktdatenbanken und PIM-Systeme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

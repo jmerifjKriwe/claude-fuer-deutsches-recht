@@ -7,7 +7,7 @@ description: "FZ Koordinierung Zwei im Forschungszulage-Antragstellung: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FZ Koordinierung Zwei** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Koordinierung Forschungszulage mit anderen Foerderwegen, Kumulierung Forschungszulage mit anderen Förderungen und, Foerderfaehige Personalkosten der Forschungszulage. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FZ Koordinierung Zwei** ordnet den Fall über die tragenden Prüffelder: Koordinierung Forschungszulage mit anderen Foerderwegen, Kumulierung Forschungszulage mit anderen Förderungen und, Foerderfaehige Personalkosten der Forschungszulage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

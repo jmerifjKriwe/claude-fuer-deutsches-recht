@@ -7,7 +7,7 @@ description: "Rechtsprechung Livecheck Dienstpflichten im Kriegsdienstverweigeru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsprechung Livecheck Dienstpflichten** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsprechung Livecheck Dienstpflichten** ordnet den Fall über die tragenden Prüffelder: Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

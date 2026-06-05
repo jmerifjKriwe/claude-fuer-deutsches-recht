@@ -7,7 +7,7 @@ description: "Notar Anderkonto Auszahlungsreife im Berufsgerichtliche Verfahren 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notar Anderkonto Auszahlungsreife** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Notaranderkonto Auszahlungsreife (Präventions- und, Notaranderkonto Auszahlungsreife (Verteidigungs- und, Notar Geldwäsche Immobilie (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notar Anderkonto Auszahlungsreife** ordnet den Fall über die tragenden Prüffelder: Notaranderkonto Auszahlungsreife (Präventions- und, Notaranderkonto Auszahlungsreife (Verteidigungs- und, Notar Geldwäsche Immobilie (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DSV Risikobewertung ART Schnelltriage Risiko im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSV Risikobewertung ART Schnelltriage Risiko** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko, Generiert eine priorisierte Sofortmaßnahmen-Checkliste und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSV Risikobewertung ART Schnelltriage Risiko** ordnet den Fall über die tragenden Prüffelder: Strukturiert die Schwellenwertentscheidung nach Art, Liefert in 15-30 Minuten eine Schnelltriage zum Risiko, Generiert eine priorisierte Sofortmaßnahmen-Checkliste. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

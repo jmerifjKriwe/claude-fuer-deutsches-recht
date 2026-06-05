@@ -1,13 +1,13 @@
 ---
 name: vaf-versionierung
-description: "VAF Versionierung im Plugin Vertragsausfueller: Dieser Skill arbeitet VAF Versionierung als zusammenhängenden Arbeitsgang im Plugin Vertragsausfüller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "VAF Versionierung im Plugin Vertragsausfueller: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # VAF Versionierung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **VAF Versionierung** als zusammenhängenden Arbeitsgang im Plugin Vertragsausfüller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**VAF Versionierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

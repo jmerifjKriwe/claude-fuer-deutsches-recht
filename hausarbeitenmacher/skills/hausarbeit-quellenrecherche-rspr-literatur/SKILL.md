@@ -7,7 +7,7 @@ description: "Hausarbeit Quellenrecherche Rspr Literatur im Juristische Hausarbe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hausarbeit Quellenrecherche Rspr Literatur** als zusammenhängenden Arbeitsgang im Juristische Hausarbeit. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin hausarbeitenmacher, Red-Team Qualitygate im Plugin hausarbeitenmacher, Student sucht juristische Quellen für Hausarbeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hausarbeit Quellenrecherche Rspr Literatur** ordnet den Fall über die tragenden Prüffelder: Fristen- und Risikoampel im Plugin hausarbeitenmacher, Red-Team Qualitygate im Plugin hausarbeitenmacher, Student sucht juristische Quellen für Hausarbeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

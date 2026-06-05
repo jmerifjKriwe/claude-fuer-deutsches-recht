@@ -7,7 +7,7 @@ description: "Staat Mikronesien Migrationscheck Moldau im Migrationsrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Staat Mikronesien Migrationscheck Moldau** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Staaten- und Gebietscheck Mikronesien, Staaten- und Gebietscheck Moldau, Staaten- und Gebietscheck Monaco und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Staat Mikronesien Migrationscheck Moldau** ordnet den Fall über die tragenden Prüffelder: Staaten- und Gebietscheck Mikronesien, Staaten- und Gebietscheck Moldau, Staaten- und Gebietscheck Monaco. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

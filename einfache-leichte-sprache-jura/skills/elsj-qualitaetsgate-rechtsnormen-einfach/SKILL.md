@@ -7,7 +7,7 @@ description: "Elsj Qualitaetsgate Rechtsnormen Einfach im Einfache und leichte S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Qualitaetsgate Rechtsnormen Einfach** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Fertig erstellte Fassung in Einfacher Sprache oder Leichter, Rechtsnormen in Einfacher/Leichter Sprache wiedergeben, Satzbau-Regeln. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Qualitaetsgate Rechtsnormen Einfach** ordnet den Fall über die tragenden Prüffelder: Fertig erstellte Fassung in Einfacher Sprache oder Leichter, Rechtsnormen in Einfacher/Leichter Sprache wiedergeben, Satzbau-Regeln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

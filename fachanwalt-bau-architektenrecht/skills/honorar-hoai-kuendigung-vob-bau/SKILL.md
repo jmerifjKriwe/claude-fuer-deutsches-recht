@@ -7,7 +7,7 @@ description: "Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architekt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Honorar HOAI Kuendigung VOB BAU** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von HOAI in Grundzuegen, Spezialfall Kuendigung VOB-Bauvertrag, Spezialfall Schiedsgutachten in Bauvertraegen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Honorar HOAI Kuendigung VOB BAU** ordnet den Fall über die tragenden Prüffelder: HOAI in Grundzuegen, Spezialfall Kuendigung VOB-Bauvertrag, Spezialfall Schiedsgutachten in Bauvertraegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

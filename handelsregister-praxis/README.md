@@ -86,6 +86,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `transparenzregister-schnittstelle-umwandlung` | Transparenzregister Schnittstelle Umwandlung im Handelsregister-Praxis: prüft konkret Verbindet Handelsregisterdaten mit wirtschaftlich, GwG-Risiken und, Prüft Verschmelzung, Spaltung. Liefert priorisierten Output mit Norm-Pinpoints, Ris... |
 | `umzug-registerbezirk-amtsloeschung` | Umzug Registerbezirk Amtsloeschung im Handelsregister-Praxis: prüft konkret Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `verein-registerschnittstelle-verschmelzung` | Verein Registerschnittstelle Verschmelzung im Handelsregister-Praxis: prüft konkret Klärt, wann Vereinsregisterlogik statt Handelsregisterlogik greift, Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse. Liefert priorisierten Output mit... |
-| `zweigniederlassung-auslaendische` | Zweigniederlassung Auslaendische im Handelsregister-Praxis: Dieser Skill arbeitet Zweigniederlassung Auslaendische als zusammenhängenden Arbeitsgang im Plugin Handelsregister Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast u... |
+| `zweigniederlassung-auslaendische` | Zweigniederlassung Auslaendische im Handelsregister-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

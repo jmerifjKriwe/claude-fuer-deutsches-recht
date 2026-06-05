@@ -7,7 +7,7 @@ description: "Bewertungen Loeschen Button Loesung BUY NOW im Plugin Ecommerce Re
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bewertungen Loeschen Button Loesung BUY NOW** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von Bewertungen löschen lassen, Button-Lösung § 312j BGB, Buy now pay later Verbraucherkredit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bewertungen Loeschen Button Loesung BUY NOW** ordnet den Fall über die tragenden Prüffelder: Bewertungen löschen lassen, Button-Lösung § 312j BGB, Buy now pay later Verbraucherkredit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

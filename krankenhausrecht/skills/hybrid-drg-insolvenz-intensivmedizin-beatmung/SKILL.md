@@ -7,7 +7,7 @@ description: "Hybrid DRG Insolvenz Intensivmedizin Beatmung im Plugin Krankenhau
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hybrid DRG Insolvenz Intensivmedizin Beatmung** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Hybrid-DRG nach § 115f SGB V, Insolvenz eines Krankenhauses Versorgungssicherung, Intensivmedizin. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hybrid DRG Insolvenz Intensivmedizin Beatmung** ordnet den Fall über die tragenden Prüffelder: Hybrid-DRG nach § 115f SGB V, Insolvenz eines Krankenhauses Versorgungssicherung, Intensivmedizin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

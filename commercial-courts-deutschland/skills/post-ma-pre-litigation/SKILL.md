@@ -7,7 +7,7 @@ description: "Post MA PRE Litigation im Commercial Courts in Deutschland: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Post MA PRE Litigation** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Bearbeitet Post-M&A Warranty Claims vor Commercial Courts, Bereitet Pre-Action Letter, Standstill Agreement und Verjährungshemmung vor. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Post MA PRE Litigation** ordnet den Fall über die tragenden Prüffelder: Bearbeitet Post-M&A Warranty Claims vor Commercial Courts, Bereitet Pre-Action Letter, Standstill Agreement und Verjährungshemmung vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

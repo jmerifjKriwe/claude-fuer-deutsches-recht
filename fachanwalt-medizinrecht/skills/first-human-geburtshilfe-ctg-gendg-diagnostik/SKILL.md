@@ -7,7 +7,7 @@ description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **First Human Geburtshilfe CTG Gendg Diagnostik** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**First Human Geburtshilfe CTG Gendg Diagnostik** ordnet den Fall über die tragenden Prüffelder: First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

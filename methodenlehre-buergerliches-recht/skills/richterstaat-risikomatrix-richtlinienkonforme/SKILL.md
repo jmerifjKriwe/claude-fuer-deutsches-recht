@@ -7,7 +7,7 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Richterstaat Risikomatrix Richtlinienkonforme** als zusammenhängenden Arbeitsgang im Plugin Methodenlehre Buergerliches Recht. Im Mittelpunkt steht die Prüfung von Dieses Skill erstellt eine strukturierte Risikomatrix für, in denen, Dieses Skill behandelt die Pflicht zur richtlinienkonformen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Richterstaat Risikomatrix Richtlinienkonforme** ordnet den Fall über die tragenden Prüffelder: Dieses Skill erstellt eine strukturierte Risikomatrix für, in denen, Dieses Skill behandelt die Pflicht zur richtlinienkonformen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

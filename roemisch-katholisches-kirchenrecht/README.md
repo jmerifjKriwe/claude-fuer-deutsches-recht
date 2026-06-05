@@ -100,6 +100,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `spenden-stiftungen-sprach-registerrouter` | Spenden Stiftungen Sprach Registerrouter im Römisch-katholischen Kirchenrecht: prüft konkret Spenden, Stiftungen und Zweckbindung, Sprach- und Registerrouter für sieben katholische, Synodalität und gehorsame Communio. Liefert priorisiert... |
 | `taufregister-korrektur-tod-begrabnis-tribunal` | Taufregister Korrektur TOD Begrabnis Tribunal im Römisch-katholischen Kirchenrecht: prüft konkret Taufregister, Tod, Begräbnis und Begräbnisrecht, Tribunal-Interview ohne Suggestion. Liefert priorisierten Output mit Norm-Pinpoints, Risik... |
 | `voruntersuchung-wallfahrt-pilgerpastoral` | Voruntersuchung Wallfahrt Pilgerpastoral im Römisch-katholischen Kirchenrecht: prüft konkret Voruntersuchung nach can, Wallfahrt und Pilgerpastoral, Weihe, Amt und Vollmacht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel u... |
-| `zustandigkeit-pfarrei` | Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: Dieser Skill arbeitet Zustandigkeit Pfarrei als zusammenhängenden Arbeitsgang im Plugin Roemisch Katholisches Kirchenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast... |
+| `zustandigkeit-pfarrei` | Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -7,7 +7,7 @@ description: "Benutzungsschonfrist Loeschung im Plugin Markenrecht Fashion Luxus
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Benutzungsschonfrist Loeschung** als zusammenhängenden Arbeitsgang im Plugin Markenrecht Fashion Luxus. Im Mittelpunkt steht die Prüfung von Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus, Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Benutzungsschonfrist Loeschung** ordnet den Fall über die tragenden Prüffelder: Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus, Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

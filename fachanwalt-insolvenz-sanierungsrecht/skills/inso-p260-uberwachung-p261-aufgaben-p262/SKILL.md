@@ -7,7 +7,7 @@ description: "Inso P260 Uberwachung P261 Aufgaben P262 im Insolvenz- und Sanieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P260 Uberwachung P261 Aufgaben P262** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen, § 261 InsO (Aufgaben und Befugnisse des, § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P260 Uberwachung P261 Aufgaben P262** ordnet den Fall über die tragenden Prüffelder: § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen, § 261 InsO (Aufgaben und Befugnisse des, § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

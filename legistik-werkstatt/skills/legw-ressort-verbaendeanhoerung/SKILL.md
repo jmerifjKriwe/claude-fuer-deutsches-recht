@@ -7,7 +7,7 @@ description: "Legw Ressort Verbaendeanhoerung im Legistik (Gesetzgebungstechnik)
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Ressort Verbaendeanhoerung** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Heranfuehrung Ressort BMF (Bundesministerium der Finanzen), Verbandeanhoerung und Ressortabstimmung nach GGO steuern, Zweiteilige Begründung zu einem Gesetzesentwurf oder einer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Ressort Verbaendeanhoerung** ordnet den Fall über die tragenden Prüffelder: Heranfuehrung Ressort BMF (Bundesministerium der Finanzen), Verbandeanhoerung und Ressortabstimmung nach GGO steuern, Zweiteilige Begründung zu einem Gesetzesentwurf oder einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DO Deckungsabwehr Lebensversicherung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Versicherungsrecht. Im Mittelpunkt steht die Prüfung von D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüffelder: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

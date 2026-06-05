@@ -7,7 +7,7 @@ description: "INS Covenant Cyberangriff im Insiderrecht und Compliance: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Covenant Cyberangriff** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft Ad-hoc-Pflicht und Insiderrecht bei, Prueft Insiderinformations-Qualitaet eines Cyberangriffs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Covenant Cyberangriff** ordnet den Fall über die tragenden Prüffelder: Prueft Ad-hoc-Pflicht und Insiderrecht bei, Prueft Insiderinformations-Qualitaet eines Cyberangriffs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

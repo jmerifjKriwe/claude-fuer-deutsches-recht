@@ -7,7 +7,7 @@ description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Agrar Jagdpacht Streit Mandantenfragen** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Agrar Jagdpacht Streit Mandantenfragen** ordnet den Fall über die tragenden Prüffelder: Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

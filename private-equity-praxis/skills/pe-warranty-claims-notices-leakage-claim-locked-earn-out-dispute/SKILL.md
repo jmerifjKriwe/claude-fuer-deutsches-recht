@@ -7,7 +7,7 @@ description: "PE Warranty Claims Notices Leakage Claim Locked Earn OUT Dispute i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Warranty Claims Notices Leakage Claim Locked Earn OUT Dispute** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Warranty Claims Notices Leakage Claim Locked Earn OUT Dispute** ordnet den Fall über die tragenden Prüffelder: Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

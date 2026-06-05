@@ -7,7 +7,7 @@ description: "B2B Shop B2C im Plugin Ecommerce Recht: prüft konkret B2B-Shop un
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **B2B Shop B2C** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von B2B-Shop und Unternehmernachweis, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattfor. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**B2B Shop B2C** ordnet den Fall über die tragenden Prüffelder: B2B-Shop und Unternehmernachweis, zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattfor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

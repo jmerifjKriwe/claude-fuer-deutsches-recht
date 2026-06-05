@@ -7,7 +7,7 @@ description: "Reiseausweis Fluechtling Religionswechsel im Migrationsrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Reiseausweis Fluechtling Religionswechsel** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Reiseausweis Flüchtling, Religionswechsel, Remonstration/Visumklage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Reiseausweis Fluechtling Religionswechsel** ordnet den Fall über die tragenden Prüffelder: Reiseausweis Flüchtling, Religionswechsel, Remonstration/Visumklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

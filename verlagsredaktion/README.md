@@ -123,7 +123,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `verlagsredaktion-output-waehlen` | Output wählen im Verlagsredaktion (Recht): Diese Output-Weiche für Verlagsredaktion entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
 | `verlagsredaktion-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `verlagsredaktion-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `zeitschriften-heftplanung` | Zeitschriften Heftplanung im Verlagsredaktion (Recht): Dieser Skill arbeitet Zeitschriften Heftplanung als zusammenhängenden Arbeitsgang im Plugin Verlagsredaktion ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Out... |
+| `zeitschriften-heftplanung` | Zeitschriften Heftplanung im Verlagsredaktion (Recht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `zitate-quellenkarte` | Zitate Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

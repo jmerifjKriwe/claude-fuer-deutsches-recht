@@ -7,7 +7,7 @@ description: "Investitionsschutz Kanzlei Lksg im Internationalen Wirtschaftsrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Investitionsschutz Kanzlei Lksg** als zusammenhängenden Arbeitsgang im Internationalen Wirtschaftsrecht. Im Mittelpunkt steht die Prüfung von Investitionsschutz, Kanzlei, Lksg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Investitionsschutz Kanzlei Lksg** ordnet den Fall über die tragenden Prüffelder: Investitionsschutz, Kanzlei, Lksg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

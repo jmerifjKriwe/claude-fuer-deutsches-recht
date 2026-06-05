@@ -7,7 +7,7 @@ description: "Vorkaufsrecht Mieter Waermepumpe RED WEG im Miet- und Wohnungseige
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vorkaufsrecht Mieter Waermepumpe RED WEG** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Mieter-Vorkaufsrecht, Waermepumpe, WEG Anfechtungsbegründung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vorkaufsrecht Mieter Waermepumpe RED WEG** ordnet den Fall über die tragenden Prüffelder: Mieter-Vorkaufsrecht, Waermepumpe, WEG Anfechtungsbegründung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

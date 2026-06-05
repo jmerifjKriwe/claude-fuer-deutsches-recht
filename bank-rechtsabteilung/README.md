@@ -142,6 +142,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `zag-bafin-merkblatt-payment-flow-red-team` | ZAG-Red-Team nach BaFin-Arbeitslogik: Zahlungsfluss, Positivkatalog, Ausnahmen, E-Geld, Erlaubnis, Registrierung und Anzeigen so prüfen, dass Plattform-, Wallet-, Loyalty-, Agenten- und Embedded-Finance-Modelle nicht falsch freigegeben w... |
 | `zag-erlaubnisanalyse` | ZAG Erlaubnisanalyse im Plugin Bank Rechtsabteilung: prüft konkret ZAG-Erlaubnisanalyse für Zahlungsinstitute, Finanztransfergeschäft und Money Remittance nach ZAG prüfen, Kontoinformationsdienst nach ZAG und PSD2 prüfen, ZAG-Negativausk... |
 | `zag-vorstandsvorlage-gutachten-wpig` | ZAG Vorstandsvorlage Gutachten Wpig im Plugin Bank Rechtsabteilung: prüft konkret Vorstandsvorlage und juristisches Gutachten für eine Bank, WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut. Liefert priorisierten Output mi... |
-| `zahlungsdienste-zag` | Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: Dieser Skill arbeitet Zahlungsdienste ZAG als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output p... |
+| `zahlungsdienste-zag` | Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

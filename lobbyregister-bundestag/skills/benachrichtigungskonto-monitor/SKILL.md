@@ -7,7 +7,7 @@ description: "Benachrichtigungskonto Monitor im Lobbyregister Bundestag: prüft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Benachrichtigungskonto Monitor** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen ü, Bestimmt Unterzeichner. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Benachrichtigungskonto Monitor** ordnet den Fall über die tragenden Prüffelder: Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen ü, Bestimmt Unterzeichner. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

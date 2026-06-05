@@ -7,7 +7,7 @@ description: "Verbraucherverband Inkasso Konzerninkasso Musterfeststellung im Ve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbraucherverband Inkasso Konzerninkasso Musterfeststellung** als zusammenhängenden Arbeitsgang im Verbraucherschutzverband-Durchsetzung. Im Mittelpunkt steht die Prüfung von Verbraucherzentrale und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbraucherverband Inkasso Konzerninkasso Musterfeststellung** ordnet den Fall über die tragenden Prüffelder: Verbraucherzentrale. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

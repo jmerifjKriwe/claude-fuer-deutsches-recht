@@ -7,7 +7,7 @@ description: "Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesundheitsdatenpanne Klinik Goae Analog** als zusammenhängenden Arbeitsgang im Medizinrecht. Im Mittelpunkt steht die Prüfung von Gesundheitsdatenpanne Klinik, GOÄ analog bei Innovation, Grenzüberschreitende Behandlung EU und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesundheitsdatenpanne Klinik Goae Analog** ordnet den Fall über die tragenden Prüffelder: Gesundheitsdatenpanne Klinik, GOÄ analog bei Innovation, Grenzüberschreitende Behandlung EU. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

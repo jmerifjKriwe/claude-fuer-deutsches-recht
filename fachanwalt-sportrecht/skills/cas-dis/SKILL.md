@@ -7,7 +7,7 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CAS DIS** als zusammenhängenden Arbeitsgang im Sportrecht. Im Mittelpunkt steht die Prüfung von Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CAS DIS** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Fristen Fristenkontrolle RDG im Plugin Rechtsberatungsstelle: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fristen Fristenkontrolle RDG** als zusammenhängenden Arbeitsgang im Plugin Rechtsberatungsstelle. Im Mittelpunkt steht die Prüfung von Fristenmanagement für die Rechtsberatungsstelle — Fristen, gesamtüberg, Fristenkontrolle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fristen Fristenkontrolle RDG** ordnet den Fall über die tragenden Prüffelder: Fristenmanagement für die Rechtsberatungsstelle — Fristen, gesamtüberg, Fristenkontrolle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

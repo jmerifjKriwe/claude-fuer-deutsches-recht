@@ -7,7 +7,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anlageberatung Fehlerhaft Cybertrading** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "BR KI Vertragspruefung Brki Rollout Chronologie im Plugin Berufsre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BR KI Vertragspruefung Brki Rollout Chronologie** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI, fuer KI-Rollout in der Kanzlei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BR KI Vertragspruefung Brki Rollout Chronologie** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI, fuer KI-Rollout in der Kanzlei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

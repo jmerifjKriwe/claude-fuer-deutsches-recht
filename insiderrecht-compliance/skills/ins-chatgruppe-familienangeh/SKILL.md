@@ -7,7 +7,7 @@ description: "INS Chatgruppe Familienangeh im Insiderrecht und Compliance: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Chatgruppe Familienangeh** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Prueft Insiderhandel und Marktmanipulation in, Prueft Handelsverbote und Meldepflichten fuer. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Chatgruppe Familienangeh** ordnet den Fall über die tragenden Prüffelder: Prueft Insiderhandel und Marktmanipulation in, Prueft Handelsverbote und Meldepflichten fuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

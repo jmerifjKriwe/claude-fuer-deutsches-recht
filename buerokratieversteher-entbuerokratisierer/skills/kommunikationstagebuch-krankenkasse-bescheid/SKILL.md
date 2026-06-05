@@ -7,7 +7,7 @@ description: "Kommunikationstagebuch Krankenkasse Bescheid im Bürokratieabbau-P
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kommunikationstagebuch Krankenkasse Bescheid** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kommunikationstagebuch Krankenkasse Bescheid** ordnet den Fall über die tragenden Prüffelder: Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

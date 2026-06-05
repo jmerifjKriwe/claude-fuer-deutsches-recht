@@ -7,7 +7,7 @@ description: "Prodr Machinery Produktrueckruf im Plugin Produktrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Prodr Machinery Produktrueckruf** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery, Leitfaden Produktrueckruf, Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Prodr Machinery Produktrueckruf** ordnet den Fall über die tragenden Prüffelder: Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery, Leitfaden Produktrueckruf, Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

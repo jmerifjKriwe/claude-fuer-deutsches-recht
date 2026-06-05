@@ -7,7 +7,7 @@ description: "Ausnahmen Aussergewoehnliche Umstaende im Fluggastrechte: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ausnahmen Aussergewoehnliche Umstaende** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Prüffeld für ausnahmen aussergewoehnliche umstaende pruefen, Streng auszulegende aussergewoehnliche Umstaende Art, Berechnet die Ausgleichszahlung nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ausnahmen Aussergewoehnliche Umstaende** ordnet den Fall über die tragenden Prüffelder: Prüffeld für ausnahmen aussergewoehnliche umstaende pruefen, Streng auszulegende aussergewoehnliche Umstaende Art, Berechnet die Ausgleichszahlung nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Rechtsvergleich USA Risikomatrix Ampel im Plugin Meinungspruefer: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsvergleich USA Risikomatrix Ampel** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Vergleicht deutsche Meinungsfreiheit mit der, Erzeugt eine verständliche Risikoampel für Äußerungen mit, Zivilrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsvergleich USA Risikomatrix Ampel** ordnet den Fall über die tragenden Prüffelder: Vergleicht deutsche Meinungsfreiheit mit der, Erzeugt eine verständliche Risikoampel für Äußerungen mit, Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

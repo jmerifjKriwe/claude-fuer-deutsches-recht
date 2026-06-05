@@ -7,7 +7,7 @@ description: "Urhmr Einfuehrung Rechtsfelder KI Generierter im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Urhmr Einfuehrung Rechtsfelder KI Generierter** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Urheber- und Medienrecht einfuehrend, Spezialfall KI-generierter Content, Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Urhmr Einfuehrung Rechtsfelder KI Generierter** ordnet den Fall über die tragenden Prüffelder: Urheber- und Medienrecht einfuehrend, Spezialfall KI-generierter Content, Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Verbundabtrennung Versorgungsausgleich im Plugin Fachanwalt Famili
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verbundabtrennung Versorgungsausgleich** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Verbundabtrennung Versorgungsausgleich, Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG, Vergleichsverhandlungs-Strategie für Familien- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verbundabtrennung Versorgungsausgleich** ordnet den Fall über die tragenden Prüffelder: Verbundabtrennung Versorgungsausgleich, Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG, Vergleichsverhandlungs-Strategie für Familien-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

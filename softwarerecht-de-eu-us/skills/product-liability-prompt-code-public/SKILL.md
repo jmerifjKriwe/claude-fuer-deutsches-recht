@@ -7,7 +7,7 @@ description: "Product Liability Prompt Code Public im Softwarerecht (DE/EU/US): 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Product Liability Prompt Code Public** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Prüft neue EU-Produkthaftung für Software, Updates, Sicherheitslücken und He und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Product Liability Prompt Code Public** ordnet den Fall über die tragenden Prüffelder: Prüft neue EU-Produkthaftung für Software, Updates, Sicherheitslücken und He. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

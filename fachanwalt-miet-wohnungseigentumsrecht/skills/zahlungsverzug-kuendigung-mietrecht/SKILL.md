@@ -7,7 +7,7 @@ description: "Zahlungsverzug Kuendigung Mietrecht im Miet- und Wohnungseigentums
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zahlungsverzug Kuendigung Mietrecht** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Zahlungsverzug, Kündigung und Schonfrist, Einfuehrung Vertragstypen Mietrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zahlungsverzug Kuendigung Mietrecht** ordnet den Fall über die tragenden Prüffelder: Zahlungsverzug, Kündigung und Schonfrist, Einfuehrung Vertragstypen Mietrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

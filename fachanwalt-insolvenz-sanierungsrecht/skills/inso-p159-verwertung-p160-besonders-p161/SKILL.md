@@ -7,7 +7,7 @@ description: "Inso P159 Verwertung P160 Besonders P161 im Insolvenz- und Sanieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P159 Verwertung P160 Besonders P161** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen, § 160 InsO (Besonders bedeutsame Rechtshandlungen) im, § 161 InsO (Vorläufige Untersagung der Rechtshandlung) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P159 Verwertung P160 Besonders P161** ordnet den Fall über die tragenden Prüffelder: § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen, § 160 InsO (Besonders bedeutsame Rechtshandlungen) im, § 161 InsO (Vorläufige Untersagung der Rechtshandlung) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

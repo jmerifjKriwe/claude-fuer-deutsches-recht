@@ -7,7 +7,7 @@ description: "Hochschulgesetz Bayern Berlin Brandenburg im Hochschulrecht der L�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Hochschulgesetz Bayern Berlin Brandenburg** als zusammenhängenden Arbeitsgang im Hochschulrecht der Länder. Im Mittelpunkt steht die Prüfung von Prüft Hochschulrecht in Bayern mit Landeshochschulgesetz, Satzungen, Ministerium und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Hochschulgesetz Bayern Berlin Brandenburg** ordnet den Fall über die tragenden Prüffelder: Prüft Hochschulrecht in Bayern mit Landeshochschulgesetz, Satzungen, Ministerium. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

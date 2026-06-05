@@ -7,7 +7,7 @@ description: "Scope BFSG Screenreader Semantik Abnahme im Plugin Barrierefreihei
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Scope BFSG Screenreader Semantik Abnahme** als zusammenhängenden Arbeitsgang im Plugin Barrierefreiheit Web Checker. Im Mittelpunkt steht die Prüfung von Prüft den Rechtsrahmen digitaler Barrierefreiheit, Prüft Screenreader-Nutzbarkeit, HTML-Semantik. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Scope BFSG Screenreader Semantik Abnahme** ordnet den Fall über die tragenden Prüffelder: Prüft den Rechtsrahmen digitaler Barrierefreiheit, Prüft Screenreader-Nutzbarkeit, HTML-Semantik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

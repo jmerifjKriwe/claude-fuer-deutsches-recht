@@ -7,7 +7,7 @@ description: "Legw Ressort Bmds Bmftr BMG BMI Bmjv BMV im Legistik (Gesetzgebung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Ressort Bmds Bmftr BMG BMI Bmjv BMV** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Heranfuehrung Ressort BMDS (Bundesministerium fuer, Heranfuehrung Ressort BMFTR (Bundesministerium fuer, Heranfuehrung Ressort BMG (Bundesministerium fuer und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Ressort Bmds Bmftr BMG BMI Bmjv BMV** ordnet den Fall über die tragenden Prüffelder: Heranfuehrung Ressort BMDS (Bundesministerium fuer, Heranfuehrung Ressort BMFTR (Bundesministerium fuer, Heranfuehrung Ressort BMG (Bundesministerium fuer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

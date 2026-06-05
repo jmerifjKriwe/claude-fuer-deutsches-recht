@@ -7,7 +7,7 @@ description: "Schadensersatz Auskunft Abmahnung Designrecht im Designrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Schadensersatz Auskunft Abmahnung Designrecht** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Folgeansprüche nach Designverletzung prüfen, Designrechtliche Abmahnung erstellen oder verteidigen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Schadensersatz Auskunft Abmahnung Designrecht** ordnet den Fall über die tragenden Prüffelder: Folgeansprüche nach Designverletzung prüfen, Designrechtliche Abmahnung erstellen oder verteidigen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

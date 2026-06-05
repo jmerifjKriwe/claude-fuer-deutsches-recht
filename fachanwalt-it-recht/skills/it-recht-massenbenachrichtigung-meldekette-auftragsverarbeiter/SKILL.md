@@ -7,7 +7,7 @@ description: "Massenbenachrichtigung Meldekette Auftragsverarbeiter im Plugin Fa
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Massenbenachrichtigung Meldekette Auftragsverarbeiter** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt It Recht. Im Mittelpunkt steht die Prüfung von Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer, Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Massenbenachrichtigung Meldekette Auftragsverarbeiter** ordnet den Fall über die tragenden Prüffelder: Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer, Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

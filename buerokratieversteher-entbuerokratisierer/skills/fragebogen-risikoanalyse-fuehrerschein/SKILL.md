@@ -7,7 +7,7 @@ description: "Fragebogen Risikoanalyse Fuehrerschein im Bürokratieabbau-Praxis:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fragebogen Risikoanalyse Fuehrerschein** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Analysiert Behördenfragebögen, Routet Entziehung, MPU und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fragebogen Risikoanalyse Fuehrerschein** ordnet den Fall über die tragenden Prüffelder: Analysiert Behördenfragebögen, Routet Entziehung, MPU. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

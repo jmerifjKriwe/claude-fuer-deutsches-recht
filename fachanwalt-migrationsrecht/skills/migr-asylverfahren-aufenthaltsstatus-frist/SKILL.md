@@ -7,7 +7,7 @@ description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Migr Asylverfahren Aufenthaltsstatus Frist** als zusammenhängenden Arbeitsgang im Migrationsrecht. Im Mittelpunkt steht die Prüfung von Leitfaden Asylverfahren und Anhoerung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Migr Asylverfahren Aufenthaltsstatus Frist** ordnet den Fall über die tragenden Prüffelder: Leitfaden Asylverfahren und Anhoerung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

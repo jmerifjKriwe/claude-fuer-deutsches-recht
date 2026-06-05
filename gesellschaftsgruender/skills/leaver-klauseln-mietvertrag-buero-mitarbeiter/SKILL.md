@@ -7,7 +7,7 @@ description: "Leaver Klauseln Mietvertrag Buero Mitarbeiter im Plugin Gesellscha
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Leaver Klauseln Mietvertrag Buero Mitarbeiter** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Leaver Klauseln Mietvertrag Buero Mitarbeiter** ordnet den Fall über die tragenden Prüffelder: Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

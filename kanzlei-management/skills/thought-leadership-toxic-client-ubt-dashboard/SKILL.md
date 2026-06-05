@@ -7,7 +7,7 @@ description: "Thought Leadership Toxic Client UBT Dashboard im Kanzlei-Managemen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Thought Leadership Toxic Client UBT Dashboard** als zusammenhängenden Arbeitsgang im Kanzlei-Management. Im Mittelpunkt steht die Prüfung von Plant Alerts, Webinare, Beiträge und Mandantengespräche mit Nutzen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Thought Leadership Toxic Client UBT Dashboard** ordnet den Fall über die tragenden Prüffelder: Plant Alerts, Webinare, Beiträge und Mandantengespräche mit Nutzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Anwaltsschreiben Aussergerichtlich im Word-Legal-AI für Anwälte:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anwaltsschreiben Aussergerichtlich** als zusammenhängenden Arbeitsgang im Word-Legal-AI für Anwälte. Im Mittelpunkt steht die Prüfung von Außergerichtliches Anwaltsschreiben in drei Spielarten, Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungspositi. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anwaltsschreiben Aussergerichtlich** ordnet den Fall über die tragenden Prüffelder: Außergerichtliches Anwaltsschreiben in drei Spielarten, Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungspositi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

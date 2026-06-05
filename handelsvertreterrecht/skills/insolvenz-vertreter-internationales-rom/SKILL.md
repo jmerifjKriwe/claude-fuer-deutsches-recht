@@ -7,7 +7,7 @@ description: "Insolvenz Vertreter Internationales ROM im Handelsvertreterrecht: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Insolvenz Vertreter Internationales ROM** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Analysiert die Insolvenz des Handelsvertreters, Analysiert das auf Handelsvertreterverträge anwendbare, Prüft Karenzentschädigung nach § 90a HGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Insolvenz Vertreter Internationales ROM** ordnet den Fall über die tragenden Prüffelder: Analysiert die Insolvenz des Handelsvertreters, Analysiert das auf Handelsvertreterverträge anwendbare, Prüft Karenzentschädigung nach § 90a HGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

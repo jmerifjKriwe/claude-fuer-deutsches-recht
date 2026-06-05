@@ -7,7 +7,7 @@ description: "Kosten Streitwert Leistungsschutz Kuenstler im Plugin Urheberrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kosten Streitwert Leistungsschutz Kuenstler** als zusammenhängenden Arbeitsgang im Plugin Urheberrecht De Eu. Im Mittelpunkt steht die Prüfung von Prueft Streitwert, Kostenrisiko, Abmahnkosten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kosten Streitwert Leistungsschutz Kuenstler** ordnet den Fall über die tragenden Prüffelder: Prueft Streitwert, Kostenrisiko, Abmahnkosten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

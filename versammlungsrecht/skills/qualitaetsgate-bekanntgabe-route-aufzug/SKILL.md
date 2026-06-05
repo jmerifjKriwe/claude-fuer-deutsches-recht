@@ -7,7 +7,7 @@ description: "Qualitaetsgate Bekanntgabe Route Aufzug im Versammlungsrecht: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Qualitaetsgate Bekanntgabe Route Aufzug** als zusammenhängenden Arbeitsgang im Versammlungsrecht. Im Mittelpunkt steht die Prüfung von Letzter Check vor öffentlicher Einladung oder Versand der, Plant Aufzüge und Routen so, dass Versammlungszweck. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Qualitaetsgate Bekanntgabe Route Aufzug** ordnet den Fall über die tragenden Prüffelder: Letzter Check vor öffentlicher Einladung oder Versand der, Plant Aufzüge und Routen so, dass Versammlungszweck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

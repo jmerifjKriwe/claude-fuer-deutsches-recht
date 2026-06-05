@@ -7,7 +7,7 @@ description: "Wahlkampf Ebenen Wahlart Ehrenamtliche im Plugin Wahlkampfrecht Pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wahlkampf Ebenen Wahlart Ehrenamtliche** als zusammenhängenden Arbeitsgang im Plugin Wahlkampfrecht Praxis. Im Mittelpunkt steht die Prüfung von Wahlkampfrecht Praxis und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wahlkampf Ebenen Wahlart Ehrenamtliche** ordnet den Fall über die tragenden Prüffelder: Wahlkampfrecht Praxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

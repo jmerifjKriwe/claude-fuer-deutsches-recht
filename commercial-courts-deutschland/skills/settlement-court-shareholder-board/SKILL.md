@@ -7,7 +7,7 @@ description: "Settlement Court Shareholder Board im Commercial Courts in Deutsch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Settlement Court Shareholder Board** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Bereitet gerichtlichen Vergleich, settlement agreement, consent order. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Settlement Court Shareholder Board** ordnet den Fall über die tragenden Prüffelder: Bereitet gerichtlichen Vergleich, settlement agreement, consent order. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

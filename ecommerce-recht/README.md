@@ -90,6 +90,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `red-team-shop-vor-launch` | Red-Team Shop vor Launch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; Elek... |
 | `shop-check-social-commerce` | Shop Check Social Commerce im Plugin Ecommerce Recht: prüft konkret zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Check, Social Commerce TikTok Instagram Shop, Suchmaschinenwerbung Markenrecht. Liefert priori... |
 | `textilkennzeichnung-lmiv-trusted-flagger` | Textilkennzeichnung Lmiv Trusted Flagger im Plugin Ecommerce Recht: prüft konkret Textilkennzeichnung LMIV Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement DSA, Widerrufsbelehrung digitale Waren Dienstleistungen. Liefert priorisi... |
-| `widerrufsrecht-verbraucher` | Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: Dieser Skill arbeitet Widerrufsrecht Verbraucher als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Outp... |
+| `widerrufsrecht-verbraucher` | Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

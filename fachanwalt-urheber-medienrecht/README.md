@@ -71,7 +71,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `urheber-urhg` | Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schnittstellen, Urheber, Urhg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `urhmr-einfuehrung-rechtsfelder-ki-generierter` | Urhmr Einfuehrung Rechtsfelder KI Generierter im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Urheber- und Medienrecht einfuehrend, Spezialfall KI-generierter Content, Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. Li... |
 | `urhmr-presserecht-gegendarstellung` | Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Spezialfall presserechtliche Gegendarstellung, Leitfaden Presserechtsbrief, Verwertungsgesellschaften GEMA, VG Wort. Liefert priorisierten Output... |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medienrecht: Dieser Skill arbeitet Vergleichsverhandlung Strategie als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber- und Medienrecht ab — nach Aktenlage, Frist, Z... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medienrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `verlagsredaktion-international-urheber` | Verlagsredaktion International Urheber im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Lie... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

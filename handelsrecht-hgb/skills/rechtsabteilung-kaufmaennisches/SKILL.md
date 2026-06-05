@@ -7,7 +7,7 @@ description: "Rechtsabteilung Kaufmaennisches im Handelsrecht (HGB): prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung Kaufmaennisches** als zusammenhängenden Arbeitsgang im Handelsrecht (HGB). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Kaufmännisches, Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung Kaufmaennisches** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für Kaufmännisches, Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

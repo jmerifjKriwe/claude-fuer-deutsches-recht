@@ -7,7 +7,7 @@ description: "Financial Institutions im Außenwirtschaftsrecht, Zoll und Sanktio
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Financial Institutions** als zusammenhängenden Arbeitsgang im Außenwirtschaftsrecht, Zoll und Sanktionen. Im Mittelpunkt steht die Prüfung von Sanktions-Compliance fuer Banken und Finanzinstitute im, Strategische und operative Vorbereitung einer freiwilligen, Technische Klassifizierung von Waren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Financial Institutions** ordnet den Fall über die tragenden Prüffelder: Sanktions-Compliance fuer Banken und Finanzinstitute im, Strategische und operative Vorbereitung einer freiwilligen, Technische Klassifizierung von Waren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

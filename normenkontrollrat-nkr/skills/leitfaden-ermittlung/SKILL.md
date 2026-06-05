@@ -7,7 +7,7 @@ description: "Leitfaden Ermittlung im Plugin Normenkontrollrat Nkr: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Leitfaden Ermittlung** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Strukturierter Ueberblick ueber den Leitfaden zur, KMU-Test (Small and Medium Enterprises Test) als. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Leitfaden Ermittlung** ordnet den Fall über die tragenden Prüffelder: Strukturierter Ueberblick ueber den Leitfaden zur, KMU-Test (Small and Medium Enterprises Test) als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

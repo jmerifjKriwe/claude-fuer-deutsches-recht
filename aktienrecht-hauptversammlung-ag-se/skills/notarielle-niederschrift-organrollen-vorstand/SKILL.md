@@ -7,7 +7,7 @@ description: "Notarielle Niederschrift Organrollen Vorstand im Plugin Aktienrech
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Notarielle Niederschrift Organrollen Vorstand** als zusammenhängenden Arbeitsgang im Plugin Aktienrecht Hauptversammlung Ag Se. Im Mittelpunkt steht die Prüfung von Hauptversammlung AG und SE und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Notarielle Niederschrift Organrollen Vorstand** ordnet den Fall über die tragenden Prüffelder: Hauptversammlung AG und SE. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

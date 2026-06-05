@@ -7,7 +7,7 @@ description: "DSA Pflichten E Commerce Einstweilige im Plugin Ecommerce Recht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DSA Pflichten E Commerce Einstweilige** als zusammenhängenden Arbeitsgang im Plugin Ecommerce Recht. Im Mittelpunkt steht die Prüfung von DSA Pflichten Vermittlungsdienste Online-Plattformen, E-Commerce für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfügung im Wettbewerbsrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DSA Pflichten E Commerce Einstweilige** ordnet den Fall über die tragenden Prüffelder: DSA Pflichten Vermittlungsdienste Online-Plattformen, E-Commerce für Apotheken Medizinprodukte Lebensmittel, Einstweilige Verfügung im Wettbewerbsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

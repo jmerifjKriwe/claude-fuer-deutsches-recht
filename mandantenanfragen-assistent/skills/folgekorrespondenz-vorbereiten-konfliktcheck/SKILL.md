@@ -7,7 +7,7 @@ description: "Folgekorrespondenz Vorbereiten Konfliktcheck im Mandantenanfragen-
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Folgekorrespondenz Vorbereiten Konfliktcheck** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und, Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen, Aufnahmegespraechsleitfaden Mandant. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Folgekorrespondenz Vorbereiten Konfliktcheck** ordnet den Fall über die tragenden Prüffelder: Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und, Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen, Aufnahmegespraechsleitfaden Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

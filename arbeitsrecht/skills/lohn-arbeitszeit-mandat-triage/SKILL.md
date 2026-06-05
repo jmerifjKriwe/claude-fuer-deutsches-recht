@@ -7,7 +7,7 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lohn Arbeitszeit Mandat Triage** als zusammenhängenden Arbeitsgang im Plugin Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lohn Arbeitszeit Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

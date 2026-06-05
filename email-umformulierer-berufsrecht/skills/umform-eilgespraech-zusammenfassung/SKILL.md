@@ -7,7 +7,7 @@ description: "Umform Eilgespraech Zusammenfassung im Plugin Email Umformulierer 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Umform Eilgespraech Zusammenfassung** als zusammenhängenden Arbeitsgang im Plugin Email Umformulierer Berufsrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail, Bauleiter Tonalitaet fuer Anwalts-E-Mail, Leitfaden Vertraulichkeits- und Geheimnishinweise in. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Umform Eilgespraech Zusammenfassung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail, Bauleiter Tonalitaet fuer Anwalts-E-Mail, Leitfaden Vertraulichkeits- und Geheimnishinweise in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

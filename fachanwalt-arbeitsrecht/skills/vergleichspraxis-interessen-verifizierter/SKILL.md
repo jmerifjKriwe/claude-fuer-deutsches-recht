@@ -7,7 +7,7 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vergleichspraxis Interessen Verifizierter** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vergleichspraxis Interessen Verifizierter** ordnet den Fall über die tragenden Prüffelder: Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

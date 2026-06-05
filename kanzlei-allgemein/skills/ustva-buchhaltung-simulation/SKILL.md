@@ -7,7 +7,7 @@ description: "Ustva Buchhaltung Simulation im Plugin Kanzlei Allgemein: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ustva Buchhaltung Simulation** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Sammelt Rechnungsdaten und Belege für die monatliche, Fallback bei ELSTER-Stoerung oder fehlendem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ustva Buchhaltung Simulation** ordnet den Fall über die tragenden Prüffelder: Sammelt Rechnungsdaten und Belege für die monatliche, Fallback bei ELSTER-Stoerung oder fehlendem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

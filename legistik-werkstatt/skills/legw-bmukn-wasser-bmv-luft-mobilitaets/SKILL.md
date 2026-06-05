@@ -7,7 +7,7 @@ description: "Legw Bmukn Wasser BMV Luft Mobilitaets im Legistik (Gesetzgebungst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Bmukn Wasser BMV Luft Mobilitaets** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Sachbereich Wasser- und Bodenschutzrecht im, Sachbereich Luft- und Luftverkehrsrecht im, Sachbereich Mobilitaets- und Fuehrerscheinrecht im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Bmukn Wasser BMV Luft Mobilitaets** ordnet den Fall über die tragenden Prüffelder: Sachbereich Wasser- und Bodenschutzrecht im, Sachbereich Luft- und Luftverkehrsrecht im, Sachbereich Mobilitaets- und Fuehrerscheinrecht im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Holding Gesellschafter Honorararzt Aerzte im Sozialversicherungsst
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Holding Gesellschafter Honorararzt Aerzte** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status e und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Holding Gesellschafter Honorararzt Aerzte** ordnet den Fall über die tragenden Prüffelder: Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status e. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

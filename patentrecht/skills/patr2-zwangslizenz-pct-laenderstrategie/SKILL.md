@@ -7,7 +7,7 @@ description: "Patr2 Zwangslizenz PCT Laenderstrategie im Patentrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Patr2 Zwangslizenz PCT Laenderstrategie** als zusammenhängenden Arbeitsgang im Patentrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung, Plant PCT-Anmeldungen und Nationalphasen, Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Patr2 Zwangslizenz PCT Laenderstrategie** ordnet den Fall über die tragenden Prüffelder: Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung, Plant PCT-Anmeldungen und Nationalphasen, Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

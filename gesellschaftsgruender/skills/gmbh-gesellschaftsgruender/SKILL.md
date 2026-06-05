@@ -7,7 +7,7 @@ description: "Gmbh Gesellschaftsgruender im Plugin Gesellschaftsgruender: prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gmbh Gesellschaftsgruender** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsgruender. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin gesellschaftsgruender, GmbH, Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gmbh Gesellschaftsgruender** ordnet den Fall über die tragenden Prüffelder: Fristen- und Risikoampel im Plugin gesellschaftsgruender, GmbH, Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

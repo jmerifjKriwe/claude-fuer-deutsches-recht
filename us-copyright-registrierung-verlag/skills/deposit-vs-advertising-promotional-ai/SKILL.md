@@ -7,7 +7,7 @@ description: "Deposit VS Advertising Promotional AI im Plugin Us Copyright Regis
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Deposit VS Advertising Promotional AI** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von Mandatory Deposit (§ 407) und Registrierung (§ 408), Prueft US-Copyright in Kampagnen, Entwirft US-Copyright-Klauseln zu AI material und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Deposit VS Advertising Promotional AI** ordnet den Fall über die tragenden Prüffelder: Mandatory Deposit (§ 407) und Registrierung (§ 408), Prueft US-Copyright in Kampagnen, Entwirft US-Copyright-Klauseln zu AI material. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

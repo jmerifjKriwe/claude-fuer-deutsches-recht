@@ -7,7 +7,7 @@ description: "Geldwaesche Krypto Zahlungsdienstleister KYC im Plugin Geldwaesche
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche Krypto Zahlungsdienstleister KYC** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Kommandocenter für alle Geldwäsche- KYC- Sanktions- und, AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und, KYC-Onboarding neuer Kunden mit Identifizierung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche Krypto Zahlungsdienstleister KYC** ordnet den Fall über die tragenden Prüffelder: Kommandocenter für alle Geldwäsche- KYC- Sanktions- und, AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und, KYC-Onboarding neuer Kunden mit Identifizierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

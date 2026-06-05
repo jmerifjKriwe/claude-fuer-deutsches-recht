@@ -7,7 +7,7 @@ description: "SEE Schiffbauwerk Risiko Yachtkauf Register im Plugin Seerecht Sch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SEE Schiffbauwerk Risiko Yachtkauf Register** als zusammenhängenden Arbeitsgang im Plugin Seerecht Schifffahrtsrecht. Im Mittelpunkt steht die Prüfung von Schiffbauwerk, Yachtkauf und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SEE Schiffbauwerk Risiko Yachtkauf Register** ordnet den Fall über die tragenden Prüffelder: Schiffbauwerk, Yachtkauf. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

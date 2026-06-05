@@ -7,7 +7,7 @@ description: "Ambulantes Operieren Arbeitszeit im Plugin Krankenhausrecht: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ambulantes Operieren Arbeitszeit** als zusammenhängenden Arbeitsgang im Plugin Krankenhausrecht. Im Mittelpunkt steht die Prüfung von Ambulantes Operieren am Krankenhaus nach § 115b SGB V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ambulantes Operieren Arbeitszeit** ordnet den Fall über die tragenden Prüffelder: Ambulantes Operieren am Krankenhaus nach § 115b SGB V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

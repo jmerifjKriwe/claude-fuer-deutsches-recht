@@ -7,7 +7,7 @@ description: "AI ACT Aktenherausgabe Zurueckbehaltung im Berufsrecht der Anwält
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **AI ACT Aktenherausgabe Zurueckbehaltung** als zusammenhängenden Arbeitsgang im Berufsrecht der Anwälte. Im Mittelpunkt steht die Prüfung von AI-Act-Transparenz in der Kanzlei prüfen, Anwälte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**AI ACT Aktenherausgabe Zurueckbehaltung** ordnet den Fall über die tragenden Prüffelder: AI-Act-Transparenz in der Kanzlei prüfen, Anwälte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

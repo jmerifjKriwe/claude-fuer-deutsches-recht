@@ -7,7 +7,7 @@ description: "TK Beschwerde TK Beweisplan im Telekommunikationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Beschwerde TK Beweisplan** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Dashboard für Massenbeschwerden, Technischer Beweisplan für TK-Streit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Beschwerde TK Beweisplan** ordnet den Fall über die tragenden Prüffelder: Dashboard für Massenbeschwerden, Technischer Beweisplan für TK-Streit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

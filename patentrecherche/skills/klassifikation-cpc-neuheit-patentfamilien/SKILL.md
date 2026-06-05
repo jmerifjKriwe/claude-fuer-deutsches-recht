@@ -7,7 +7,7 @@ description: "Klassifikation CPC Neuheit Patentfamilien im Plugin Patentrecherch
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klassifikation CPC Neuheit Patentfamilien** als zusammenhängenden Arbeitsgang im Plugin Patentrecherche. Im Mittelpunkt steht die Prüfung von CPC- und IPC-Klassifikation für Patentrecherche bestimmen, Prüft Neuheit nach § 3 PatG und Art, Patentfamilien-Analyse über INPADOC und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klassifikation CPC Neuheit Patentfamilien** ordnet den Fall über die tragenden Prüffelder: CPC- und IPC-Klassifikation für Patentrecherche bestimmen, Prüft Neuheit nach § 3 PatG und Art, Patentfamilien-Analyse über INPADOC und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

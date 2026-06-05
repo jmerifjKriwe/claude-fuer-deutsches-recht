@@ -7,7 +7,7 @@ description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mehrere Verstoesse Milderung Durch** als zusammenhängenden Arbeitsgang im Datenschutz-Sanktionsverfahren-Verteidigung. Im Mittelpunkt steht die Prüfung von Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mehrere Verstoesse Milderung Durch** ordnet den Fall über die tragenden Prüffelder: Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

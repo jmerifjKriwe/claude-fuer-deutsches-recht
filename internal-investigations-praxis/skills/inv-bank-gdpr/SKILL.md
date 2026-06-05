@@ -7,7 +7,7 @@ description: "INV Bank Gdpr im Internal Investigations: prüft konkret Reagiert 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Bank Gdpr** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Reagiert auf BaFin-Prüfungsfeststellungen und, Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Bank Gdpr** ordnet den Fall über die tragenden Prüffelder: Reagiert auf BaFin-Prüfungsfeststellungen und, Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

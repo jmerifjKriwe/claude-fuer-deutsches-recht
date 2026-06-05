@@ -1,13 +1,13 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte im Fashion Law (Moderecht): Dieser Skill arbeitet Urheberrecht Angewandte als zusammenhängenden Arbeitsgang im Plugin Fashion Law Moderecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Urheberrecht Angewandte im Fashion Law (Moderecht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Urheberrecht Angewandte
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Urheberrecht Angewandte** als zusammenhängenden Arbeitsgang im Plugin Fashion Law Moderecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Urheberrecht Angewandte** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

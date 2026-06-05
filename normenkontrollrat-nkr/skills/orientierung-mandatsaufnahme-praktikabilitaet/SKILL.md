@@ -7,7 +7,7 @@ description: "Orientierung Mandatsaufnahme Praktikabilitaet im Plugin Normenkont
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Orientierung Mandatsaufnahme Praktikabilitaet** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Einstiegs-Skill fuer NKR-Pruefauftraege, Praktikabilitaetstest fuer den Vollzug. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Orientierung Mandatsaufnahme Praktikabilitaet** ordnet den Fall über die tragenden Prüffelder: Einstiegs-Skill fuer NKR-Pruefauftraege, Praktikabilitaetstest fuer den Vollzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

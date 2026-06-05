@@ -7,7 +7,7 @@ description: "Nkbl Abwaegungsfehler Bauleitplanung im Plugin Normenkontrolle Bau
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nkbl Abwaegungsfehler Bauleitplanung** als zusammenhängenden Arbeitsgang im Plugin Normenkontrolle Bauleitplanung. Im Mittelpunkt steht die Prüfung von Spezialfall Abwaegungsfehler in der Bauleitplanung, Bauleiter Bauleitplanung BauGB, Spezialfall Buergerbegehren und Buergerentscheid in der. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nkbl Abwaegungsfehler Bauleitplanung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Abwaegungsfehler in der Bauleitplanung, Bauleiter Bauleitplanung BauGB, Spezialfall Buergerbegehren und Buergerentscheid in der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

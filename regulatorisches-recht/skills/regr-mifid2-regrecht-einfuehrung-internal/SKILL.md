@@ -7,7 +7,7 @@ description: "Regr Mifid2 Regrecht Einfuehrung Internal im Plugin Regulatorische
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Regr Mifid2 Regrecht Einfuehrung Internal** als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht. Im Mittelpunkt steht die Prüfung von Leitfaden MiFID II und MAR, Einfuehrung regulatorisches Recht in den wichtigsten, Internal Policies regulatorisch design. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Regr Mifid2 Regrecht Einfuehrung Internal** ordnet den Fall über die tragenden Prüffelder: Leitfaden MiFID II und MAR, Einfuehrung regulatorisches Recht in den wichtigsten, Internal Policies regulatorisch design. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

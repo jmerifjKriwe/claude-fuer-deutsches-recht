@@ -7,7 +7,7 @@ description: "Claim Timeline Dokumentenindex im HOAI-Leistungsphasen: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Claim Timeline Dokumentenindex** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI-Praxis, HOAI-Fachfrage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Claim Timeline Dokumentenindex** ordnet den Fall über die tragenden Prüffelder: HOAI-Praxis, HOAI-Fachfrage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

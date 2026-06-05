@@ -7,7 +7,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Buergergeld Ueberbrueckungsgeld Dokumenten** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Buergergeld Ueberbrueckungsgeld bei Haftentlassung, PDF-Dateien für SG-Klage erstellen, Dolmetscher beim SG nach § 185 GVG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Buergergeld Ueberbrueckungsgeld Dokumenten** ordnet den Fall über die tragenden Prüffelder: Buergergeld Ueberbrueckungsgeld bei Haftentlassung, PDF-Dateien für SG-Klage erstellen, Dolmetscher beim SG nach § 185 GVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

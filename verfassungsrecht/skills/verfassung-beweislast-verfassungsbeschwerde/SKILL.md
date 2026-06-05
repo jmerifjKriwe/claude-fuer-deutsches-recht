@@ -7,7 +7,7 @@ description: "Verfassung Beweislast Verfassungsbeschwerde im Plugin Verfassungsr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verfassung Beweislast Verfassungsbeschwerde** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Verfassung, Verfassungsbeschwerde, Verfassungsmaessigkeit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verfassung Beweislast Verfassungsbeschwerde** ordnet den Fall über die tragenden Prüffelder: Verfassung, Verfassungsbeschwerde, Verfassungsmaessigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

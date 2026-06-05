@@ -7,7 +7,7 @@ description: "Uebertragung Sicherheit US Provisional im Gebrauchsmusterrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Uebertragung Sicherheit US Provisional** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Übertragung, Sicherheiten und Registerumschreibung prüfen, US-Provisional. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Uebertragung Sicherheit US Provisional** ordnet den Fall über die tragenden Prüffelder: Übertragung, Sicherheiten und Registerumschreibung prüfen, US-Provisional. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

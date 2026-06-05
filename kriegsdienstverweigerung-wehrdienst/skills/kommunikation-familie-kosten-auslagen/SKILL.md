@@ -7,7 +7,7 @@ description: "Kommunikation Familie Kosten Auslagen im Kriegsdienstverweigerung 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kommunikation Familie Kosten Auslagen** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private, Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kommunikation Familie Kosten Auslagen** ordnet den Fall über die tragenden Prüffelder: Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private, Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

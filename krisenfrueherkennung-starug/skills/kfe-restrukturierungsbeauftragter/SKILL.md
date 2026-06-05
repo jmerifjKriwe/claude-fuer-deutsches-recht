@@ -7,7 +7,7 @@ description: "KFE Restrukturierungsbeauftragter im Plugin Krisenfrueherkennung S
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **KFE Restrukturierungsbeauftragter** als zusammenhängenden Arbeitsgang im Plugin Krisenfrueherkennung Starug. Im Mittelpunkt steht die Prüfung von Spezialfall Restrukturierungsbeauftragter §§ 73 ff, Spezialfall Stabilisierungsanordnung §§ 49 ff, IDW-S-6-Krisenstadien diagnostizieren und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**KFE Restrukturierungsbeauftragter** ordnet den Fall über die tragenden Prüffelder: Spezialfall Restrukturierungsbeauftragter §§ 73 ff, Spezialfall Stabilisierungsanordnung §§ 49 ff, IDW-S-6-Krisenstadien diagnostizieren und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

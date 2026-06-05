@@ -7,7 +7,7 @@ description: "Wegegeld Besuch Zahnaerztliche Schnittstelle im Plugin Goae Gebueh
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wegegeld Besuch Zahnaerztliche Schnittstelle** als zusammenhängenden Arbeitsgang im Plugin Goae Gebuehrenordnung Aerzte. Im Mittelpunkt steht die Prüfung von Wegegeld Besuch mehrere Patienten, Zahnärztliche Schnittstelle GOZ GOÄ. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wegegeld Besuch Zahnaerztliche Schnittstelle** ordnet den Fall über die tragenden Prüffelder: Wegegeld Besuch mehrere Patienten, Zahnärztliche Schnittstelle GOZ GOÄ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

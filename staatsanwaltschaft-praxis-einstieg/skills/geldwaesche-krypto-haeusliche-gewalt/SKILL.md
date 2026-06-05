@@ -7,7 +7,7 @@ description: "Geldwaesche Krypto Haeusliche Gewalt im Plugin Staatsanwaltschaft 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaesche Krypto Haeusliche Gewalt** als zusammenhängenden Arbeitsgang im Plugin Staatsanwaltschaft Praxis Einstieg. Im Mittelpunkt steht die Prüfung von Geldwäsche mit Krypto- oder Kontospuren, Häusliche Gewalt, Haftbefehl und Untersuchungshaft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaesche Krypto Haeusliche Gewalt** ordnet den Fall über die tragenden Prüffelder: Geldwäsche mit Krypto- oder Kontospuren, Häusliche Gewalt, Haftbefehl und Untersuchungshaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

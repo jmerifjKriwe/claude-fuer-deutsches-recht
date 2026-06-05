@@ -7,7 +7,7 @@ description: "Elsj Uebersetzungsablauf Wortebene Haus im Einfache und leichte Sp
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Elsj Uebersetzungsablauf Wortebene Haus** als zusammenhängenden Arbeitsgang im Einfache und leichte Sprache im Recht. Im Mittelpunkt steht die Prüfung von Standardablauf Uebersetzung, Hauseigenes Glossar, Zielgruppen erkennen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Elsj Uebersetzungsablauf Wortebene Haus** ordnet den Fall über die tragenden Prüffelder: Standardablauf Uebersetzung, Hauseigenes Glossar, Zielgruppen erkennen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

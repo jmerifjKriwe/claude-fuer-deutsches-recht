@@ -7,7 +7,7 @@ description: "Thema Look Feel Matter File Outside Target im Plugin Mittelstand C
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Thema Look Feel Matter File Outside Target** als zusammenhängenden Arbeitsgang im Plugin Mittelstand Corporate Ma. Im Mittelpunkt steht die Prüfung von Deal-Kommandocenter, Kanzlei oder Plugin-Entwickler definiert visuelles, Deal-Akte und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Thema Look Feel Matter File Outside Target** ordnet den Fall über die tragenden Prüffelder: Deal-Kommandocenter, Kanzlei oder Plugin-Entwickler definiert visuelles, Deal-Akte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

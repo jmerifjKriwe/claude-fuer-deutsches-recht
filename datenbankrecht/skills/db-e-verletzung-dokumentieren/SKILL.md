@@ -7,7 +7,7 @@ description: "DB E Verletzung Dokumentieren im Plugin Datenbankrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **DB E Verletzung Dokumentieren** als zusammenhängenden Arbeitsgang im Plugin Datenbankrecht. Im Mittelpunkt steht die Prüfung von Datenbankrecht für E-Commerce-Marktplätze, Beweissicherung bei Datenbankrechts-Verletzungen, Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**DB E Verletzung Dokumentieren** ordnet den Fall über die tragenden Prüffelder: Datenbankrecht für E-Commerce-Marktplätze, Beweissicherung bei Datenbankrechts-Verletzungen, Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

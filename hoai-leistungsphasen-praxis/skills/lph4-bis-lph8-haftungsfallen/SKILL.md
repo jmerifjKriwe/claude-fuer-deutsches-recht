@@ -7,7 +7,7 @@ description: "Lph4 BIS Lph8 Haftungsfallen im HOAI-Leistungsphasen: prüft konkr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Lph4 BIS Lph8 Haftungsfallen** als zusammenhängenden Arbeitsgang im HOAI-Leistungsphasen. Im Mittelpunkt steht die Prüfung von HOAI LPH 4 Genehmigungsplanung, HOAI LPH 5 Ausführungsplanung, HOAI LPH 6 Vorbereitung der Vergabe und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Lph4 BIS Lph8 Haftungsfallen** ordnet den Fall über die tragenden Prüffelder: HOAI LPH 4 Genehmigungsplanung, HOAI LPH 5 Ausführungsplanung, HOAI LPH 6 Vorbereitung der Vergabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

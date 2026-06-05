@@ -7,7 +7,7 @@ description: "Negativer Fristennotiz Ausloesendes Ereignis im Plugin Fortbestehe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Negativer Fristennotiz Ausloesendes Ereignis** als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose. Im Mittelpunkt steht die Prüfung von Negativer, Erfasst den Anlass der Fortbestehensprognose, Erzeugt eine Forderungsverzichtsvereinbarung mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Negativer Fristennotiz Ausloesendes Ereignis** ordnet den Fall über die tragenden Prüffelder: Negativer, Erfasst den Anlass der Fortbestehensprognose, Erzeugt eine Forderungsverzichtsvereinbarung mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

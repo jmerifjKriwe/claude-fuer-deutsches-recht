@@ -139,6 +139,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `richtlinien-anhoerung-red-aufsichtsrecht` | Richtlinien Anhoerung RED Aufsichtsrecht im Plugin Regulatorisches Recht: prüft konkret Zwei oder mehr Versionen regulatorischer Richtlinien, Anhoerung, Aufsichtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und näc... |
 | `ustva-aufsichtskommunikation-grundregeln-dora` | Ustva Aufsichtskommunikation Grundregeln Dora im Plugin Regulatorisches Recht: prüft konkret Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen, Grundregeln Aufsichtskommunikation, DORA-Spezial. Liefert priorisierten Output mit N... |
 | `wochendigest-interessen-wphg-stellungnahmen` | Wochendigest Interessen Wphg Stellungnahmen im Plugin Regulatorisches Recht: prüft konkret Wochendigest, Wphg, Stellungnahme zu Regulierungsvorhaben oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `wpig-zag` | Wpig ZAG im Plugin Regulatorisches Recht: Dieser Skill arbeitet Wpig ZAG als zusammenhängenden Arbeitsgang im Plugin Regulatorisches Recht (Sektoren) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert. |
+| `wpig-zag` | Wpig ZAG im Plugin Regulatorisches Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

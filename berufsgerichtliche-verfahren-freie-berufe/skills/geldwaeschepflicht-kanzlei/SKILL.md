@@ -7,7 +7,7 @@ description: "Geldwaeschepflicht Kanzlei im Berufsgerichtliche Verfahren freier 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geldwaeschepflicht Kanzlei** als zusammenhängenden Arbeitsgang im Berufsgerichtliche Verfahren freier Berufe. Im Mittelpunkt steht die Prüfung von Geldwäschepflichten der Kanzlei (Präventions- und, Geldwäschepflichten der Kanzlei (Verteidigungs- und, Honorarvereinbarung und Erfolgshonorar (Präventions- und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geldwaeschepflicht Kanzlei** ordnet den Fall über die tragenden Prüffelder: Geldwäschepflichten der Kanzlei (Präventions- und, Geldwäschepflichten der Kanzlei (Verteidigungs- und, Honorarvereinbarung und Erfolgshonorar (Präventions- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

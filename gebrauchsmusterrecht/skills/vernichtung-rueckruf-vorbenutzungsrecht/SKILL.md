@@ -7,7 +7,7 @@ description: "Vernichtung Rueckruf Vorbenutzungsrecht im Gebrauchsmusterrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Vernichtung Rueckruf Vorbenutzungsrecht** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen, Vorbenutzungsrecht und gutgläubige Nutzung prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Vernichtung Rueckruf Vorbenutzungsrecht** ordnet den Fall über die tragenden Prüffelder: Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen, Vorbenutzungsrecht und gutgläubige Nutzung prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

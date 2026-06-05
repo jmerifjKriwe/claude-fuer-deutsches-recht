@@ -7,7 +7,7 @@ description: "Agrar Wolfsschaden Cross Glozez Foerderung im Agrarrecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Agrar Wolfsschaden Cross Glozez Foerderung** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Foerderung einfuehrend. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Agrar Wolfsschaden Cross Glozez Foerderung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Foerderung einfuehrend. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

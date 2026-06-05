@@ -7,7 +7,7 @@ description: "Instant Payments Interne Richtlinie IT im Plugin Bank Rechtsabteil
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Instant Payments Interne Richtlinie IT** als zusammenhängenden Arbeitsgang im Plugin Bank Rechtsabteilung. Im Mittelpunkt steht die Prüfung von Instant Payments und SEPA-Echtzeitüberweisungen prüfen, Interne Richtlinien und Policies für Banken entwerfen, IT-Sicherheit und Cloud-Verträge einer Bank prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Instant Payments Interne Richtlinie IT** ordnet den Fall über die tragenden Prüffelder: Instant Payments und SEPA-Echtzeitüberweisungen prüfen, Interne Richtlinien und Policies für Banken entwerfen, IT-Sicherheit und Cloud-Verträge einer Bank prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

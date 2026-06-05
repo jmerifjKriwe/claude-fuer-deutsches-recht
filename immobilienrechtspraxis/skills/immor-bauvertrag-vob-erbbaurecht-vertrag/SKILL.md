@@ -7,7 +7,7 @@ description: "Immor Bauvertrag VOB Erbbaurecht Vertrag im Plugin Immobilienrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immor Bauvertrag VOB Erbbaurecht Vertrag** als zusammenhängenden Arbeitsgang im Plugin Immobilienrechtspraxis. Im Mittelpunkt steht die Prüfung von Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff, Spezialfall Erbbaurechtsvertrag, Bauleiter Grundstueckskaufvertrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immor Bauvertrag VOB Erbbaurecht Vertrag** ordnet den Fall über die tragenden Prüffelder: Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff, Spezialfall Erbbaurechtsvertrag, Bauleiter Grundstueckskaufvertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

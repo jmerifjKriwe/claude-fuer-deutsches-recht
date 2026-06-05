@@ -7,7 +7,7 @@ description: "Expert Evidence Finance Banking im Commercial Courts in Deutschlan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Expert Evidence Finance Banking** als zusammenhängenden Arbeitsgang im Commercial Courts in Deutschland. Im Mittelpunkt steht die Prüfung von Plant Sachverständigenbeweis, Bearbeitet Finance-, Banking- und Capital-Markets-Streitigkeiten mit englischen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Expert Evidence Finance Banking** ordnet den Fall über die tragenden Prüffelder: Plant Sachverständigenbeweis, Bearbeitet Finance-, Banking- und Capital-Markets-Streitigkeiten mit englischen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

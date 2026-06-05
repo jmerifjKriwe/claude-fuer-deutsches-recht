@@ -7,7 +7,7 @@ description: "Bericht Energieaudit EDL Entsendungen A1 Eudr im Berichtspflichten
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Energieaudit EDL Entsendungen A1 Eudr** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Energieaudit EDL Entsendungen A1 Eudr** ordnet den Fall über die tragenden Prüffelder: Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

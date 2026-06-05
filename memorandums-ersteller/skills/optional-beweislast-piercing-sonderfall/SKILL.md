@@ -7,7 +7,7 @@ description: "Optional Beweislast Piercing Sonderfall im Memorandum-Erstellung: 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Optional Beweislast Piercing Sonderfall** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Optional, Piercing, Rechtliche. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Optional Beweislast Piercing Sonderfall** ordnet den Fall über die tragenden Prüffelder: Optional, Piercing, Rechtliche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

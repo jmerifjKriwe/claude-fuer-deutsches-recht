@@ -7,7 +7,7 @@ description: "Normen Scheidung Sorge Umgang Interessen im Plugin Fachanwalt Fami
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Normen Scheidung Sorge Umgang Interessen** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Normen, Scheidung, Sorge und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Normen Scheidung Sorge Umgang Interessen** ordnet den Fall über die tragenden Prüffelder: Normen, Scheidung, Sorge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

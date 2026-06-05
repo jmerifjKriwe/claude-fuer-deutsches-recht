@@ -1,13 +1,13 @@
 ---
 name: zoll-plattformdurchsetzung
-description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht: Dieser Skill arbeitet Zoll Plattformdurchsetzung als zusammenhängenden Arbeitsgang im Plugin Gebrauchsmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # Zoll Plattformdurchsetzung
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **Zoll Plattformdurchsetzung** als zusammenhängenden Arbeitsgang im Plugin Gebrauchsmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**Zoll Plattformdurchsetzung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

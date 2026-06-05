@@ -7,7 +7,7 @@ description: "PE WI Insurance Underwriting Merger Control FDI Closing CP Funds i
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE WI Insurance Underwriting Merger Control FDI Closing CP Funds** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Begleitet Underwriting, DD-Anforderungen, Exclusions und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE WI Insurance Underwriting Merger Control FDI Closing CP Funds** ordnet den Fall über die tragenden Prüffelder: Begleitet Underwriting, DD-Anforderungen, Exclusions. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

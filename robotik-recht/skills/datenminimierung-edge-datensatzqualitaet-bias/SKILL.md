@@ -7,7 +7,7 @@ description: "Datenminimierung Edge Datensatzqualitaet Bias im Robotik- und KI-R
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Datenminimierung Edge Datensatzqualitaet Bias** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Datenminimierung Edge Datensatzqualitaet Bias** ordnet den Fall über die tragenden Prüffelder: Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

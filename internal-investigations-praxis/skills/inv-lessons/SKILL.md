@@ -1,13 +1,13 @@
 ---
 name: inv-lessons
-description: "INV Lessons im Internal Investigations: Dieser Skill arbeitet INV Lessons als zusammenhängenden Arbeitsgang im Plugin Internal Investigations Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
+description: "INV Lessons im Internal Investigations: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
 ---
 
 # INV Lessons
 
 ## Arbeitsbereich
 
-Dieser Skill arbeitet **INV Lessons** als zusammenhängenden Arbeitsgang im Plugin Internal Investigations Praxis ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
+**INV Lessons** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
 
 ## Prüffelder
 

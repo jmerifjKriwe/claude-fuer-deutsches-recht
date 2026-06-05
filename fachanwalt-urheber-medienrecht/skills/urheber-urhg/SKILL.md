@@ -7,7 +7,7 @@ description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schn
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Urhg** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Schnittstellen, Urheber, Urhg. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Urhg** ordnet den Fall über die tragenden Prüffelder: Schnittstellen, Urheber, Urhg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

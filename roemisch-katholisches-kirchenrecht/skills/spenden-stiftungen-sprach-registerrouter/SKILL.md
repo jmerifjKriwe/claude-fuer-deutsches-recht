@@ -7,7 +7,7 @@ description: "Spenden Stiftungen Sprach Registerrouter im Römisch-katholischen 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spenden Stiftungen Sprach Registerrouter** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Spenden, Stiftungen und Zweckbindung, Sprach- und Registerrouter für sieben katholische und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spenden Stiftungen Sprach Registerrouter** ordnet den Fall über die tragenden Prüffelder: Spenden, Stiftungen und Zweckbindung, Sprach- und Registerrouter für sieben katholische. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

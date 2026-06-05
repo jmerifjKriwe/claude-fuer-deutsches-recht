@@ -7,7 +7,7 @@ description: "Real Estate Redline im Corporate/M&A (Großkanzlei-Praxis): prüft
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Real Estate Redline** als zusammenhängenden Arbeitsgang im Corporate/M&A (Großkanzlei-Praxis). Im Mittelpunkt steht die Prüfung von Purchase Price Adjustment und Earn-out Skill, Real Estate, Leases und Sites Due Diligence und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Real Estate Redline** ordnet den Fall über die tragenden Prüffelder: Purchase Price Adjustment und Earn-out Skill, Real Estate, Leases und Sites Due Diligence. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

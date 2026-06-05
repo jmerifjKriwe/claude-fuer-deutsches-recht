@@ -7,7 +7,7 @@ description: "Legw BMZ Menschenrechte Multilaterale im Legistik (Gesetzgebungste
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw BMZ Menschenrechte Multilaterale** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Sachbereich Menschenrechte in Lieferketten (LkSG) im, Sachbereich Multilaterale Zusammenarbeit und EU im, Spezialfall EU-Richtlinienumsetzung im deutschen Recht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw BMZ Menschenrechte Multilaterale** ordnet den Fall über die tragenden Prüffelder: Sachbereich Menschenrechte in Lieferketten (LkSG) im, Sachbereich Multilaterale Zusammenarbeit und EU im, Spezialfall EU-Richtlinienumsetzung im deutschen Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

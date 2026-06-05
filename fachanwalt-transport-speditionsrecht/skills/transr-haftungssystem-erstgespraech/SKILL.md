@@ -7,7 +7,7 @@ description: "Transr Haftungssystem Erstgespraech im Plugin Fachanwalt Transport
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Transr Haftungssystem Erstgespraech** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Transport Speditionsrecht. Im Mittelpunkt steht die Prüfung von Haftungssystem Grundzuege, Erstgespraeches-Aufnahme im Transport- und Speditionsrecht, Gefahrguttransport-Haftung und ADR-Verstoss klaeren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Transr Haftungssystem Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Haftungssystem Grundzuege, Erstgespraeches-Aufnahme im Transport- und Speditionsrecht, Gefahrguttransport-Haftung und ADR-Verstoss klaeren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

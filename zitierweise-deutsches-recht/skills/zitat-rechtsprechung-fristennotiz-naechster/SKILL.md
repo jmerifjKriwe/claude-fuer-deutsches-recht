@@ -7,7 +7,7 @@ description: "Zitat Rechtsprechung Fristennotiz Naechster im Zitierweise im deut
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zitat Rechtsprechung Fristennotiz Naechster** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Rechtsprechung ohne amtliche/freie Fundstelle behandeln, Zitierweise, Aktenzeichen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zitat Rechtsprechung Fristennotiz Naechster** ordnet den Fall über die tragenden Prüffelder: Rechtsprechung ohne amtliche/freie Fundstelle behandeln, Zitierweise, Aktenzeichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

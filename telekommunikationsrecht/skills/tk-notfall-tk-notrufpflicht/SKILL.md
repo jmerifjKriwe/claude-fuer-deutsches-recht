@@ -7,7 +7,7 @@ description: "TK Notfall TK Notrufpflicht im Telekommunikationsrecht: prüft kon
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **TK Notfall TK Notrufpflicht** als zusammenhängenden Arbeitsgang im Telekommunikationsrecht. Im Mittelpunkt steht die Prüfung von Notfallkommunikation, Resilienz, Priorisierung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**TK Notfall TK Notrufpflicht** ordnet den Fall über die tragenden Prüffelder: Notfallkommunikation, Resilienz, Priorisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

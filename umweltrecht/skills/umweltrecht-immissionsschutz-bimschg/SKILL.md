@@ -7,7 +7,7 @@ description: "Immissionsschutz Bimschg im Plugin Umweltrecht: prüft konkret Anl
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Immissionsschutz Bimschg** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Anlagenbetreiber oder Nachbar, Umweltmandat-Einstieg, Unternehmen plant Bauvorhaben mit naturschutzrechtlichem. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Immissionsschutz Bimschg** ordnet den Fall über die tragenden Prüffelder: Anlagenbetreiber oder Nachbar, Umweltmandat-Einstieg, Unternehmen plant Bauvorhaben mit naturschutzrechtlichem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

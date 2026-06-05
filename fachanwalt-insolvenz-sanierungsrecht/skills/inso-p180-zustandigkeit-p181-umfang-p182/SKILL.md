@@ -7,7 +7,7 @@ description: "Inso P180 Zustandigkeit P181 Umfang P182 im Insolvenz- und Sanieru
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P180 Zustandigkeit P181 Umfang P182** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 180 InsO (Zuständigkeit für die Feststellung) im Mandat, § 181 InsO (Umfang der Feststellung) im Mandat prüfen, § 182 InsO (Streitwert) im Mandat prüfen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P180 Zustandigkeit P181 Umfang P182** ordnet den Fall über die tragenden Prüffelder: § 180 InsO (Zuständigkeit für die Feststellung) im Mandat, § 181 InsO (Umfang der Feststellung) im Mandat prüfen, § 182 InsO (Streitwert) im Mandat prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

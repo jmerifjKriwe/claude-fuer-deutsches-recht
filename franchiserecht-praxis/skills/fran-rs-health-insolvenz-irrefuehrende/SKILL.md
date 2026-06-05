@@ -7,7 +7,7 @@ description: "Fran RS Health Insolvenz Irrefuehrende im Franchiserecht: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Fran RS Health Insolvenz Irrefuehrende** als zusammenhängenden Arbeitsgang im Franchiserecht. Im Mittelpunkt steht die Prüfung von Fachmodul Franchiserecht für Health- und Pflege-Franchise, Fachmodul Franchiserecht für Insolvenz eines, Fachmodul Franchiserecht für Irreführende Systemwerbung und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Fran RS Health Insolvenz Irrefuehrende** ordnet den Fall über die tragenden Prüffelder: Fachmodul Franchiserecht für Health- und Pflege-Franchise, Fachmodul Franchiserecht für Insolvenz eines, Fachmodul Franchiserecht für Irreführende Systemwerbung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

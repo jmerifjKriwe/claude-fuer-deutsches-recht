@@ -7,7 +7,7 @@ description: "CL Mandantenuebersicht CL Prozesskostenrisiko im Common Law (Orien
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **CL Mandantenuebersicht CL Prozesskostenrisiko** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Mandantenuebersicht englischsprachig vorbereiten, Spezialfall Prozesskostenregime in USA, Spezialfall Precedent gegen Statute. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**CL Mandantenuebersicht CL Prozesskostenrisiko** ordnet den Fall über die tragenden Prüffelder: Mandantenuebersicht englischsprachig vorbereiten, Spezialfall Prozesskostenregime in USA, Spezialfall Precedent gegen Statute. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

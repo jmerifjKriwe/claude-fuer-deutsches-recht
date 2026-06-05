@@ -7,7 +7,7 @@ description: "Nachweis Beleg Erstellen im Bereich Juristische Sprache (DaZ): pr�
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Nachweis Beleg Erstellen** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Beweis Nachweis Beleg fuer Menschen mit Deutsch, Hilft bei Chronologie Erstellen fuer Menschen mit Deutsch. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Nachweis Beleg Erstellen** ordnet den Fall über die tragenden Prüffelder: Hilft bei Beweis Nachweis Beleg fuer Menschen mit Deutsch, Hilft bei Chronologie Erstellen fuer Menschen mit Deutsch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

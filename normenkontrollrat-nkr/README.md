@@ -189,6 +189,6 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `stellungnahme-pressepolitik-bundestag` | Stellungnahme Pressepolitik Bundestag im Plugin Normenkontrollrat Nkr: prüft konkret Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen, Vorbereitung einer Anhoerung im federfuehrenden Ausschuss. Liefert priorisierten Output mit... |
 | `verhaeltnismaessigkeit-aus-sicht` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
 | `verhaeltnismaessigkeit-sicht-zeitwerttabelle` | Verhaeltnismaessigkeit Sicht Zeitwerttabelle im Plugin Normenkontrollrat Nkr: prüft konkret Verhaeltnismaessigkeit aus NKR-Sicht, Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Liefert priorisierten Output mit Norm-Pinpoin... |
-| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: Dieser Skill arbeitet Zusammenarbeit Bundesregierung als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat (NKR) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislas... |
+| `zusammenarbeit-bundesregierung` | Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

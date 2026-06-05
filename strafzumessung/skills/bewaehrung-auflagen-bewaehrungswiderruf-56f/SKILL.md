@@ -7,7 +7,7 @@ description: "Bewaehrung Auflagen Bewaehrungswiderruf 56F im Plugin Strafzumessu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bewaehrung Auflagen Bewaehrungswiderruf 56F** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Auflagen § 56b StGB und Weisungen § 56c StGB im, Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB, Freiheitsstrafe ohne Bewaehrung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bewaehrung Auflagen Bewaehrungswiderruf 56F** ordnet den Fall über die tragenden Prüffelder: Auflagen § 56b StGB und Weisungen § 56c StGB im, Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB, Freiheitsstrafe ohne Bewaehrung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

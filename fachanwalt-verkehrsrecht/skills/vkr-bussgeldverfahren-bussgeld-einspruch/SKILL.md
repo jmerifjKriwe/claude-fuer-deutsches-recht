@@ -7,7 +7,7 @@ description: "VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VKR Bussgeldverfahren Bussgeld Einspruch** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Verkehrsrecht. Im Mittelpunkt steht die Prüfung von Bussgeldverfahren Grundzuege, Prüffeld für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VKR Bussgeldverfahren Bussgeld Einspruch** ordnet den Fall über die tragenden Prüffelder: Bussgeldverfahren Grundzuege, Prüffeld für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

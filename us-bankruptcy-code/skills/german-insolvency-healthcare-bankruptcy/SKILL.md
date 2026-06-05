@@ -7,7 +7,7 @@ description: "German Insolvency Healthcare Bankruptcy im Plugin Us Bankruptcy Co
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **German Insolvency Healthcare Bankruptcy** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Erklaert US Bankruptcy fuer deutsche Juristen, Prueft health care business cases, patient care ombudsman und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**German Insolvency Healthcare Bankruptcy** ordnet den Fall über die tragenden Prüffelder: Erklaert US Bankruptcy fuer deutsche Juristen, Prueft health care business cases, patient care ombudsman. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

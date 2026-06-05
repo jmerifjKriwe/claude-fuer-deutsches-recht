@@ -7,7 +7,7 @@ description: "Berufswechsel Angestellte Beweisnot im Plugin Rentenpruefer: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Berufswechsel Angestellte Beweisnot** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Berufswechsel und Erwerbsformen, Beweisnot bei alten oder ausländischen Zeiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Berufswechsel Angestellte Beweisnot** ordnet den Fall über die tragenden Prüffelder: Berufswechsel und Erwerbsformen, Beweisnot bei alten oder ausländischen Zeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

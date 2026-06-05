@@ -7,7 +7,7 @@ description: "Anfaenger Antraege DFG im DFG-Förderantragstellung: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfaenger Antraege DFG** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Anfaenger, Antraege, DFG. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfaenger Antraege DFG** ordnet den Fall über die tragenden Prüffelder: Anfaenger, Antraege, DFG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

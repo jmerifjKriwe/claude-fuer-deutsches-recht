@@ -7,7 +7,7 @@ description: "Strafz Strafzumessungstatsachen im Plugin Strafzumessung: prüft k
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Strafz Strafzumessungstatsachen** als zusammenhängenden Arbeitsgang im Plugin Strafzumessung. Im Mittelpunkt steht die Prüfung von Bauleiter Strafzumessungstatsachen § 46 StGB, Katalog der Strafzumessungstatsachen § 46 Abs, Bestimmung der Tagessatzhoehe nach § 40 Abs. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Strafz Strafzumessungstatsachen** ordnet den Fall über die tragenden Prüffelder: Bauleiter Strafzumessungstatsachen § 46 StGB, Katalog der Strafzumessungstatsachen § 46 Abs, Bestimmung der Tagessatzhoehe nach § 40 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

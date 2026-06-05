@@ -7,7 +7,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bautraeger Mabv Vollstaendigkeitserklaerung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bau Architektenrecht. Im Mittelpunkt steht die Prüfung von MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bautraeger Mabv Vollstaendigkeitserklaerung** ordnet den Fall über die tragenden Prüffelder: MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

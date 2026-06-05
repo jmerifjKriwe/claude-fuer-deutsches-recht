@@ -7,7 +7,7 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Oertliche ZPO Online Verfahren** als zusammenhängenden Arbeitsgang im Selbstvertretung am Amtsgericht. Im Mittelpunkt steht die Prüfung von Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüffelder: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

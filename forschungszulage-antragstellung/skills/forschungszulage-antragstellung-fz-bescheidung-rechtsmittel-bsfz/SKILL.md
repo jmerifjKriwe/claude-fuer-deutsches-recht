@@ -7,7 +7,7 @@ description: "FZ Bescheidung Rechtsmittel Bsfz im Forschungszulage-Antragstellun
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **FZ Bescheidung Rechtsmittel Bsfz** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Bescheidung Forschungszulage, BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich, Dokumentationspaket Forschungszulage prüfungsfest aufbauen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**FZ Bescheidung Rechtsmittel Bsfz** ordnet den Fall über die tragenden Prüffelder: Bescheidung Forschungszulage, BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich, Dokumentationspaket Forschungszulage prüfungsfest aufbauen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

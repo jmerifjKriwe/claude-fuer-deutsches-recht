@@ -7,7 +7,7 @@ description: "Beamtenrechtliche Kuerzung Beamtenversorgung im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beamtenrechtliche Kuerzung Beamtenversorgung** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Familienrecht. Im Mittelpunkt steht die Prüfung von Beamtenrechtliche Kürzung und Rückausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde gegen VA-Beschluss FamFG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beamtenrechtliche Kuerzung Beamtenversorgung** ordnet den Fall über die tragenden Prüffelder: Beamtenrechtliche Kürzung und Rückausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde gegen VA-Beschluss FamFG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

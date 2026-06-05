@@ -7,7 +7,7 @@ description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialger
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Wann Doch Widerspruch Begruendung** als zusammenhängenden Arbeitsgang im Selbstvertretung am Sozialgericht. Im Mittelpunkt steht die Prüfung von Wann sollten Sie als Buerger doch einen Anwalt einschalten, Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen, Wie Sie sich gegen ein negatives Gutachten wehren und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Wann Doch Widerspruch Begruendung** ordnet den Fall über die tragenden Prüffelder: Wann sollten Sie als Buerger doch einen Anwalt einschalten, Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen, Wie Sie sich gegen ein negatives Gutachten wehren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

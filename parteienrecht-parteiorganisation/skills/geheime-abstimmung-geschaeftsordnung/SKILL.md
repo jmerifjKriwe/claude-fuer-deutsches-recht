@@ -7,7 +7,7 @@ description: "Geheime Abstimmung Geschaeftsordnung im Parteienrecht: prüft konk
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Geheime Abstimmung Geschaeftsordnung** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Geheime Abstimmung Geschaeftsordnung** ordnet den Fall über die tragenden Prüffelder: Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

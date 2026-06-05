@@ -7,7 +7,7 @@ description: "Ptbs Einsatzfolge Reservistendienst im Bundeswehrrecht / Wehrrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Ptbs Einsatzfolge Reservistendienst** als zusammenhängenden Arbeitsgang im Bundeswehrrecht / Wehrrecht. Im Mittelpunkt steht die Prüfung von PTBS Einsatzfolge Beweisführung, Reservistendienst und Dienstleistungspflicht, Sanitätsdienst und Heilfürsorge. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Ptbs Einsatzfolge Reservistendienst** ordnet den Fall über die tragenden Prüffelder: PTBS Einsatzfolge Beweisführung, Reservistendienst und Dienstleistungspflicht, Sanitätsdienst und Heilfürsorge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Logistik Spedition Maengelrechte im AGB-Recht: prüft konkret Bran
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Logistik Spedition Maengelrechte** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Branchen-Fachmodul für Logistik Spedition AGB, Mängelrechte 309, Mahngebuehren und Zinsanpassungsklauseln in AGB und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Logistik Spedition Maengelrechte** ordnet den Fall über die tragenden Prüffelder: Branchen-Fachmodul für Logistik Spedition AGB, Mängelrechte 309, Mahngebuehren und Zinsanpassungsklauseln in AGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

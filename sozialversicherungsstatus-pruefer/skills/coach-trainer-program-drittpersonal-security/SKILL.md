@@ -7,7 +7,7 @@ description: "Coach Trainer Program Drittpersonal Security im Sozialversicherung
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Coach Trainer Program Drittpersonal Security** als zusammenhängenden Arbeitsgang im Sozialversicherungsstatus-Prüfung. Im Mittelpunkt steht die Prüfung von Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Coach Trainer Program Drittpersonal Security** ordnet den Fall über die tragenden Prüffelder: Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Anfechtungsfrist Erklaerung Annahmefrist im Plugin Bgb At Pruefer:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Anfechtungsfrist Erklaerung Annahmefrist** als zusammenhängenden Arbeitsgang im Plugin Bgb At Pruefer. Im Mittelpunkt steht die Prüfung von Prüft Anfechtungsfrist und Bestätigungstatbestand, Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB, Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Anfechtungsfrist Erklaerung Annahmefrist** ordnet den Fall über die tragenden Prüffelder: Prüft Anfechtungsfrist und Bestätigungstatbestand, Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB, Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanier
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P001 Ziele P003c Zustandigkeit P004a** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P001 Ziele P003c Zustandigkeit P004a** ordnet den Fall über die tragenden Prüffelder: § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

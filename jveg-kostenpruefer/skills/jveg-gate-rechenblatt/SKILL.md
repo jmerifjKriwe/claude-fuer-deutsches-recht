@@ -7,7 +7,7 @@ description: "Gate Rechenblatt im JVEG-Kostenprüfung: prüft konkret Qualitaets
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gate Rechenblatt** als zusammenhängenden Arbeitsgang im JVEG-Kostenprüfung. Im Mittelpunkt steht die Prüfung von Qualitaets-Gate für JVEG-Kostenberechnungen, JVEG-Verguetungsberechnung in strukturiertem Rechenblatt, Sachverständigenrechnung nach JVEG prüfen oder erstellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gate Rechenblatt** ordnet den Fall über die tragenden Prüffelder: Qualitaets-Gate für JVEG-Kostenberechnungen, JVEG-Verguetungsberechnung in strukturiertem Rechenblatt, Sachverständigenrechnung nach JVEG prüfen oder erstellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

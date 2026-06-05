@@ -7,7 +7,7 @@ description: "EU Ebene EU Richtlinien im Plugin Normenkontrollrat Nkr: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **EU Ebene EU Richtlinien** als zusammenhängenden Arbeitsgang im Plugin Normenkontrollrat Nkr. Im Mittelpunkt steht die Prüfung von Verortet den NKR im europaeischen Better-Regulation-Kontext, Detailskill EU-Richtlinienumsetzung und. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**EU Ebene EU Richtlinien** ordnet den Fall über die tragenden Prüffelder: Verortet den NKR im europaeischen Better-Regulation-Kontext, Detailskill EU-Richtlinienumsetzung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

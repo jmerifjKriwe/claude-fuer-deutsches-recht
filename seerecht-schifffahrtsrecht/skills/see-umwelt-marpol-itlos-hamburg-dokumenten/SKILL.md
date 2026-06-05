@@ -7,7 +7,7 @@ description: "SEE Umwelt Marpol Itlos Hamburg Dokumenten im Plugin Seerecht Schi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **SEE Umwelt Marpol Itlos Hamburg Dokumenten** als zusammenhängenden Arbeitsgang im Plugin Seerecht Schifffahrtsrecht. Im Mittelpunkt steht die Prüfung von Schiff hat Oel oder Chemikalien ins Meer eingeleitet, Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS, Mandant benoetigt Uebersicht aller schiffsrelevanten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**SEE Umwelt Marpol Itlos Hamburg Dokumenten** ordnet den Fall über die tragenden Prüffelder: Schiff hat Oel oder Chemikalien ins Meer eingeleitet, Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS, Mandant benoetigt Uebersicht aller schiffsrelevanten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

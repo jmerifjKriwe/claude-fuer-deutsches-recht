@@ -7,7 +7,7 @@ description: "Deliktsrecht Sonstiges Tierhalter Gebaeude im Plugin Bgb Bt Pruefe
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Deliktsrecht Sonstiges Tierhalter Gebaeude** als zusammenhängenden Arbeitsgang im Plugin Bgb Bt Pruefer. Im Mittelpunkt steht die Prüfung von Prüft sonstige Rechte nach § 823 Abs, Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäu. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Deliktsrecht Sonstiges Tierhalter Gebaeude** ordnet den Fall über die tragenden Prüffelder: Prüft sonstige Rechte nach § 823 Abs, Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

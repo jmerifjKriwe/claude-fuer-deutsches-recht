@@ -7,7 +7,7 @@ description: "Dringlichkeitsmarker Einwilligung Hinweis im Mandantenanfragen-Tri
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Dringlichkeitsmarker Einwilligung Hinweis** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Eingehende Mandantenanfrage enthaelt möglicherweise, Kanzlei bietet telefonischen Transkriptionsservice an und, Sekretariat oder Anwalt muss professionelle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Dringlichkeitsmarker Einwilligung Hinweis** ordnet den Fall über die tragenden Prüffelder: Eingehende Mandantenanfrage enthaelt möglicherweise, Kanzlei bietet telefonischen Transkriptionsservice an und, Sekretariat oder Anwalt muss professionelle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

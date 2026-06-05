@@ -7,7 +7,7 @@ description: "Designrechtliche Freedom Designreform EU im Designrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Designrechtliche Freedom Designreform EU** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Designrechtliche Freedom-to-Operate-Prüfung, EU-Designreform 2024 in laufenden Fällen berücksichtigen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Designrechtliche Freedom Designreform EU** ordnet den Fall über die tragenden Prüffelder: Designrechtliche Freedom-to-Operate-Prüfung, EU-Designreform 2024 in laufenden Fällen berücksichtigen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erstgespraech Mandatsannahme Fachanwalt** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Urheber Medienrecht. Im Mittelpunkt steht die Prüfung von Erstgespraech im Urheber- und Medienrechtsmandat, Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen, Filesharing-Abmahnung verteidigen und Gegenargumente. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erstgespraech Mandatsannahme Fachanwalt** ordnet den Fall über die tragenden Prüffelder: Erstgespraech im Urheber- und Medienrechtsmandat, Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen, Filesharing-Abmahnung verteidigen und Gegenargumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

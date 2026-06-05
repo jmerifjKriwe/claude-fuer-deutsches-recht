@@ -7,7 +7,7 @@ description: "Tehg Verfahren Umweltrecht im Plugin Umweltrecht: prüft konkret T
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Tehg Verfahren Umweltrecht** als zusammenhängenden Arbeitsgang im Plugin Umweltrecht. Im Mittelpunkt steht die Prüfung von Tehg, Verfahren, Umweltrechtssache geht in Verwaltungsgericht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Tehg Verfahren Umweltrecht** ordnet den Fall über die tragenden Prüffelder: Tehg, Verfahren, Umweltrechtssache geht in Verwaltungsgericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

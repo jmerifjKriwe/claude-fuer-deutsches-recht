@@ -7,7 +7,7 @@ description: "Space Incident Response Launch Readiness Post im Plugin Weltraumre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Incident Response Launch Readiness Post** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kun und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Incident Response Launch Readiness Post** ordnet den Fall über die tragenden Prüffelder: Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kun. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

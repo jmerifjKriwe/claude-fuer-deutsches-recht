@@ -7,7 +7,7 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkret Prüffeld für
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Landpacht Hoferbfolge** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Prüffeld für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Landpacht Hoferbfolge** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

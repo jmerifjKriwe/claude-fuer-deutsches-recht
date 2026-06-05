@@ -7,7 +7,7 @@ description: "Stbv Einspruch Strafbefehl Fahrerlaubnis im Plugin Strafbefehl Ver
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Stbv Einspruch Strafbefehl Fahrerlaubnis** als zusammenhängenden Arbeitsgang im Plugin Strafbefehl Verteidiger. Im Mittelpunkt steht die Prüfung von Leitfaden Einspruch gegen Strafbefehl, Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und §, Spezialfall Strafbefehl gegen auslaendischen Mandanten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Stbv Einspruch Strafbefehl Fahrerlaubnis** ordnet den Fall über die tragenden Prüffelder: Leitfaden Einspruch gegen Strafbefehl, Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und §, Spezialfall Strafbefehl gegen auslaendischen Mandanten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "BK Mifid BK Prip Erstgespraech Mandatsannahme im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **BK Mifid BK Prip Erstgespraech Mandatsannahme** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Bank Kapitalmarktrecht. Im Mittelpunkt steht die Prüfung von Spezialfall MiFID II Geeignetheits- und, Spezialfall PRIIPs-KID fehlerhaft, Strukturierter Erstgespraechsleitfaden für Bank-. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**BK Mifid BK Prip Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Spezialfall MiFID II Geeignetheits- und, Spezialfall PRIIPs-KID fehlerhaft, Strukturierter Erstgespraechsleitfaden für Bank-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

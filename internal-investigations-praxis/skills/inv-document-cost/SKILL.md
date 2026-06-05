@@ -7,7 +7,7 @@ description: "INV Document Cost im Internal Investigations: prüft konkret Defin
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INV Document Cost** als zusammenhängenden Arbeitsgang im Internal Investigations. Im Mittelpunkt steht die Prüfung von Definiert Dokumentenaufbewahrungs- und, Macht Untersuchungskosten und Schäden gegen verantwortliche. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INV Document Cost** ordnet den Fall über die tragenden Prüffelder: Definiert Dokumentenaufbewahrungs- und, Macht Untersuchungskosten und Schäden gegen verantwortliche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

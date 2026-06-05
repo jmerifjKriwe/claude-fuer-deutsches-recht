@@ -7,7 +7,7 @@ description: "Kronzeugen Regelung Opferzeugen Besondere im Strafakten-Aufbereitu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kronzeugen Regelung Opferzeugen Besondere** als zusammenhängenden Arbeitsgang im Strafakten-Aufbereitung. Im Mittelpunkt steht die Prüfung von Spezialfall Kronzeugenregelung § 46b StGB, Opferzeugen bei Sexualdelikten, Kindern. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kronzeugen Regelung Opferzeugen Besondere** ordnet den Fall über die tragenden Prüffelder: Spezialfall Kronzeugenregelung § 46b StGB, Opferzeugen bei Sexualdelikten, Kindern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

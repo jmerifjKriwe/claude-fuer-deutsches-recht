@@ -7,7 +7,7 @@ description: "Produkthaftung Grundlagen Produktsicherheit im Plugin Produktrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Produkthaftung Grundlagen Produktsicherheit** als zusammenhängenden Arbeitsgang im Plugin Produktrecht. Im Mittelpunkt steht die Prüfung von Grundlagen Produkthaftung, Korrigiert und prüft die Produktsicherheitsroute nach, Prüft. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Produkthaftung Grundlagen Produktsicherheit** ordnet den Fall über die tragenden Prüffelder: Grundlagen Produkthaftung, Korrigiert und prüft die Produktsicherheitsroute nach, Prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

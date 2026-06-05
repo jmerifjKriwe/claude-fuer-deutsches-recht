@@ -7,7 +7,7 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bescheinigung Inso Datenschutz Schamfreie** als zusammenhängenden Arbeitsgang im Plugin Verbraucherinsolvenz Schuldenbereinigung. Im Mittelpunkt steht die Prüfung von Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüffelder: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

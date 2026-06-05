@@ -7,7 +7,7 @@ description: "Klauseln Beweislast Verschwiegenheitsklausel im Plugin Berufsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klauseln Beweislast Verschwiegenheitsklausel** als zusammenhängenden Arbeitsgang im Plugin Berufsrecht Ki Vertragspruefung. Im Mittelpunkt steht die Prüfung von Klauseln, Prüfe die vertragliche Verpflichtung des Dienstleisters auf, Schatten-KI-Governance für Kanzleien. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klauseln Beweislast Verschwiegenheitsklausel** ordnet den Fall über die tragenden Prüffelder: Klauseln, Prüfe die vertragliche Verpflichtung des Dienstleisters auf, Schatten-KI-Governance für Kanzleien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "USE Sale Utilities Valuation Enterprise Venue im Plugin Us Bankrup
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **USE Sale Utilities Valuation Enterprise Venue** als zusammenhängenden Arbeitsgang im Plugin Us Bankruptcy Code. Im Mittelpunkt steht die Prüfung von Prueft ordinary/nonordinary use, sale or lease of estate property, notice und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**USE Sale Utilities Valuation Enterprise Venue** ordnet den Fall über die tragenden Prüffelder: Prueft ordinary/nonordinary use, sale or lease of estate property, notice. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

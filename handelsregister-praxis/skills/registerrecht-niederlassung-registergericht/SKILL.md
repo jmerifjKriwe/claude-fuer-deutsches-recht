@@ -7,7 +7,7 @@ description: "Registerrecht Niederlassung Registergericht im Handelsregister-Pra
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Registerrecht Niederlassung Registergericht** als zusammenhängenden Arbeitsgang im Handelsregister-Praxis. Im Mittelpunkt steht die Prüfung von Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Ad, Erstellt kurze Telefonnotiz mit Name. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Registerrecht Niederlassung Registergericht** ordnet den Fall über die tragenden Prüffelder: Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Ad, Erstellt kurze Telefonnotiz mit Name. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Inso P223a Gruppeninterne P224 Rechte P225 im Insolvenz- und Sanie
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Inso P223a Gruppeninterne P224 Rechte P225** als zusammenhängenden Arbeitsgang im Insolvenz- und Sanierungsrecht. Im Mittelpunkt steht die Prüfung von § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat, § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen, § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Inso P223a Gruppeninterne P224 Rechte P225** ordnet den Fall über die tragenden Prüffelder: § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat, § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen, § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

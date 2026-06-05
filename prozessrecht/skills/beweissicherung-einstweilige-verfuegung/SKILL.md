@@ -7,7 +7,7 @@ description: "Beweissicherung Einstweilige Verfuegung im Plugin Prozessrecht: pr
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Beweissicherung Einstweilige Verfuegung** als zusammenhängenden Arbeitsgang im Plugin Prozessrecht. Im Mittelpunkt steht die Prüfung von Beweissicherungsantrag im selbständigen Beweisverfahren, Sachverhaltschronologie für Klageschrift oder Verteidigung, Antrag auf einstweilige Verfuegung zur Sicherung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Beweissicherung Einstweilige Verfuegung** ordnet den Fall über die tragenden Prüffelder: Beweissicherungsantrag im selbständigen Beweisverfahren, Sachverhaltschronologie für Klageschrift oder Verteidigung, Antrag auf einstweilige Verfuegung zur Sicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

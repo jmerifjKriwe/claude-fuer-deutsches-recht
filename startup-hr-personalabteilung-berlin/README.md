@@ -100,6 +100,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `spesen-reisekosten-stammdaten-qualitaetscheck` | Spesen Reisekosten Stammdaten Qualitaetscheck im Plugin Startup Hr Personalabteilung Berlin: prüft konkret Berliner Start-up-HR. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `startup-hr-berlin-kaltstart-routing-hr-command-center` | Berliner Start-up-HR: HR-Command-Center für Berliner Start-up-Alltag: Mitarbeiterbestand, Rollen, Payroll, Personalakte, Fristen, Eskalation und Datenschutzmodus. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-S... |
 | `ueberstunden-kompensation-urlaubskalender` | Ueberstunden Kompensation Urlaubskalender im Plugin Startup Hr Personalabteilung Berlin: prüft konkret Berliner Start-up-HR. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `whistleblowing-hinschg` | Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin: Dieser Skill arbeitet Whistleblowing Hinschg als zusammenhängenden Arbeitsgang im Plugin Startup Hr Personalabteilung Berlin ab — nach Aktenlage, Frist, Zuständigkeit,... |
+| `whistleblowing-hinschg` | Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

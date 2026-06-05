@@ -7,7 +7,7 @@ description: "Qualitaetsgate Hardening Kanzlei im Plugin Kanzlei Allgemein: prü
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Qualitaetsgate Hardening Kanzlei** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Allgemein. Im Mittelpunkt steht die Prüfung von Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates, Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Qualitaetsgate Hardening Kanzlei** ordnet den Fall über die tragenden Prüffelder: Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates, Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

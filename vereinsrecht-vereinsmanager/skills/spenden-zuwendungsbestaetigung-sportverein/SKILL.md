@@ -7,7 +7,7 @@ description: "Spenden Zuwendungsbestaetigung Sportverein im Plugin Vereinsrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Spenden Zuwendungsbestaetigung Sportverein** als zusammenhängenden Arbeitsgang im Plugin Vereinsrecht Vereinsmanager. Im Mittelpunkt steht die Prüfung von Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Spenden Zuwendungsbestaetigung Sportverein** ordnet den Fall über die tragenden Prüffelder: Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

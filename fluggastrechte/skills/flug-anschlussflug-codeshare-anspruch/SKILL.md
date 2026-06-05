@@ -7,7 +7,7 @@ description: "Flug Anschlussflug Codeshare Anspruch im Fluggastrechte: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Flug Anschlussflug Codeshare Anspruch** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Spezialfall Anschlussflug und Codeshare, Uebersicht Fluggastrechte VO 261 / 2004, Leitfaden ausserordentlicher Umstand. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Flug Anschlussflug Codeshare Anspruch** ordnet den Fall über die tragenden Prüffelder: Spezialfall Anschlussflug und Codeshare, Uebersicht Fluggastrechte VO 261 / 2004, Leitfaden ausserordentlicher Umstand. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

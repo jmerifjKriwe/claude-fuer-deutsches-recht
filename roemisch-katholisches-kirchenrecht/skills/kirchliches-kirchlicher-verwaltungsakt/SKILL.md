@@ -7,7 +7,7 @@ description: "Kirchliches Kirchlicher Verwaltungsakt im Römisch-katholischen Ki
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Kirchliches Kirchlicher Verwaltungsakt** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Kirchlicher Verwaltungsakt und Dekret, Kirchliches Begräbnis nach Kirchenaustritt, Kirchliches Strafrecht nach Buch VI und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Kirchliches Kirchlicher Verwaltungsakt** ordnet den Fall über die tragenden Prüffelder: Kirchlicher Verwaltungsakt und Dekret, Kirchliches Begräbnis nach Kirchenaustritt, Kirchliches Strafrecht nach Buch VI. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

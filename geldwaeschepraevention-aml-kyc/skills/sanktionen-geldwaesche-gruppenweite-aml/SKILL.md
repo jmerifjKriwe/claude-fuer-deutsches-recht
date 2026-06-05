@@ -7,7 +7,7 @@ description: "Sanktionen Geldwaesche Gruppenweite AML im Plugin Geldwaeschepraev
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sanktionen Geldwaesche Gruppenweite AML** als zusammenhängenden Arbeitsgang im Plugin Geldwaeschepraevention Aml Kyc. Im Mittelpunkt steht die Prüfung von Sanktionen, Gruppenweite AML/KYC-Policies und Steuerung von, Spezialfall Kryptotransaktionen und MiCA / Travel Rule. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sanktionen Geldwaesche Gruppenweite AML** ordnet den Fall über die tragenden Prüffelder: Sanktionen, Gruppenweite AML/KYC-Policies und Steuerung von, Spezialfall Kryptotransaktionen und MiCA / Travel Rule. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

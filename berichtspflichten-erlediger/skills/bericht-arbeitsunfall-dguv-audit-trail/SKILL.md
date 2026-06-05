@@ -7,7 +7,7 @@ description: "Bericht Arbeitsunfall Dguv Audit Trail im Berichtspflichten-Praxis
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Bericht Arbeitsunfall Dguv Audit Trail** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Arbeitsunfall/Berufskrankheit melden, Audit-Trail für Meldungen, Amtliche Erhebungen verstehen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Bericht Arbeitsunfall Dguv Audit Trail** ordnet den Fall über die tragenden Prüffelder: Arbeitsunfall/Berufskrankheit melden, Audit-Trail für Meldungen, Amtliche Erhebungen verstehen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

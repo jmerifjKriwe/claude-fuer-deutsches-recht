@@ -7,7 +7,7 @@ description: "Gesellschaftsrecht Beweislast Mandat Nada im Sportrecht: prüft ko
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Gesellschaftsrecht Beweislast Mandat Nada** als zusammenhängenden Arbeitsgang im Sportrecht. Im Mittelpunkt steht die Prüfung von Gesellschaftsrecht, Mandat, Nada. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Gesellschaftsrecht Beweislast Mandat Nada** ordnet den Fall über die tragenden Prüffelder: Gesellschaftsrecht, Mandat, Nada. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

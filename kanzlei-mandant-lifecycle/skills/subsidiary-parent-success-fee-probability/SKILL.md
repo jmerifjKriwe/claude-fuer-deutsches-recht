@@ -7,7 +7,7 @@ description: "Subsidiary Parent Success FEE Probability im Plugin Kanzlei Mandan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Subsidiary Parent Success FEE Probability** als zusammenhängenden Arbeitsgang im Plugin Kanzlei Mandant Lifecycle. Im Mittelpunkt steht die Prüfung von Konzernmandat Mutter/Tochter, Success Fee Compliance, Erfolgsaussichten Alignment und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Subsidiary Parent Success FEE Probability** ordnet den Fall über die tragenden Prüffelder: Konzernmandat Mutter/Tochter, Success Fee Compliance, Erfolgsaussichten Alignment. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

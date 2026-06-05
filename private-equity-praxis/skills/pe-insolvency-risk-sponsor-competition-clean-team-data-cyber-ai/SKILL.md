@@ -7,7 +7,7 @@ description: "PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI im
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI** als zusammenhängenden Arbeitsgang im Private Equity Praxis. Im Mittelpunkt steht die Prüfung von Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**PE Insolvency Risk Sponsor Competition Clean Team Data Cyber AI** ordnet den Fall über die tragenden Prüffelder: Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Drohender Einsturz Einfriedung Zaun im Nachbarschaftsstreit: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Drohender Einsturz Einfriedung Zaun** als zusammenhängenden Arbeitsgang im Nachbarschaftsstreit. Im Mittelpunkt steht die Prüfung von Gefährliche Anlagen und drohenden Gebäudeeinsturz prüfen, Einfriedung, Zaun. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Drohender Einsturz Einfriedung Zaun** ordnet den Fall über die tragenden Prüffelder: Gefährliche Anlagen und drohenden Gebäudeeinsturz prüfen, Einfriedung, Zaun. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

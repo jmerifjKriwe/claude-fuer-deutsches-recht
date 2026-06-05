@@ -7,7 +7,7 @@ description: "VC Founder Conflict Removal Legitime Deal Taktik Shareholder im Ve
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **VC Founder Conflict Removal Legitime Deal Taktik Shareholder** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**VC Founder Conflict Removal Legitime Deal Taktik Shareholder** ordnet den Fall über die tragenden Prüffelder: Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

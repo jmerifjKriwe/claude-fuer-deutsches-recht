@@ -7,7 +7,7 @@ description: "Legw Ressortaufgaben Bmds BMF Bmftr BMG BMI im Legistik (Gesetzgeb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Legw Ressortaufgaben Bmds BMF Bmftr BMG BMI** als zusammenhängenden Arbeitsgang im Legistik (Gesetzgebungstechnik). Im Mittelpunkt steht die Prüfung von Ressortaufgaben BMDS, Ressortaufgaben BMF, Ressortaufgaben BMFTR und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Legw Ressortaufgaben Bmds BMF Bmftr BMG BMI** ordnet den Fall über die tragenden Prüffelder: Ressortaufgaben BMDS, Ressortaufgaben BMF, Ressortaufgaben BMFTR. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

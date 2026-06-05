@@ -7,7 +7,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Chronologie Belegmatrix Fristen Risikoampel** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüffelder: Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

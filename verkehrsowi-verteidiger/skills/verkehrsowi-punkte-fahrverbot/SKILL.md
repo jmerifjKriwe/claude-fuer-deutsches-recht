@@ -7,7 +7,7 @@ description: "Punkte Fahrverbot im Plugin Verkehrsowi Verteidiger: prüft konkre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Punkte Fahrverbot** als zusammenhängenden Arbeitsgang im Plugin Verkehrsowi Verteidiger. Im Mittelpunkt steht die Prüfung von Punkte im Fahreignungsregister (FAER) Flensburg und, Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen, Rotlicht-OWi. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Punkte Fahrverbot** ordnet den Fall über die tragenden Prüffelder: Punkte im Fahreignungsregister (FAER) Flensburg und, Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen, Rotlicht-OWi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

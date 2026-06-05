@@ -7,7 +7,7 @@ description: "Rechtsabteilung KI Saas Vertrag Werkvertrag im Softwarerecht (DE/E
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Rechtsabteilung KI Saas Vertrag Werkvertrag** als zusammenhängenden Arbeitsgang im Softwarerecht (DE/EU/US). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten, Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Rechtsabteilung KI Saas Vertrag Werkvertrag** ordnet den Fall über die tragenden Prüffelder: Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten, Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

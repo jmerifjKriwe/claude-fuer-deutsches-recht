@@ -7,7 +7,7 @@ description: "Space Weltraumrecht Kommunen Bergung Fremder im Plugin Weltraumrec
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Space Weltraumrecht Kommunen Bergung Fremder** als zusammenhängenden Arbeitsgang im Plugin Weltraumrecht. Im Mittelpunkt steht die Prüfung von Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Space Weltraumrecht Kommunen Bergung Fremder** ordnet den Fall über die tragenden Prüffelder: Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

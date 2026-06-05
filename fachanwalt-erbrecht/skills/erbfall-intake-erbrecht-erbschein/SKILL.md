@@ -7,7 +7,7 @@ description: "Erbfall Intake Erbrecht Erbschein im Plugin Fachanwalt Erbrecht: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Erbfall Intake Erbrecht Erbschein** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Erbrecht. Im Mittelpunkt steht die Prüfung von Erbfall-Intake, Nachlassordnung und erste Fristen, Erbrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Erbfall Intake Erbrecht Erbschein** ordnet den Fall über die tragenden Prüffelder: Erbfall-Intake, Nachlassordnung und erste Fristen, Erbrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

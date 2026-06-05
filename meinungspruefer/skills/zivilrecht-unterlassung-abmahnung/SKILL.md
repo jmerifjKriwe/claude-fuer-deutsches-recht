@@ -7,7 +7,7 @@ description: "Zivilrecht Unterlassung Abmahnung im Plugin Meinungspruefer: prüf
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Zivilrecht Unterlassung Abmahnung** als zusammenhängenden Arbeitsgang im Plugin Meinungspruefer. Im Mittelpunkt steht die Prüfung von Prüft zivilrechtliche Ansprüche bei Äußerungen, Hilft bei Reaktion auf Abmahnung, Strafanzeige. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Zivilrecht Unterlassung Abmahnung** ordnet den Fall über die tragenden Prüffelder: Prüft zivilrechtliche Ansprüche bei Äußerungen, Hilft bei Reaktion auf Abmahnung, Strafanzeige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

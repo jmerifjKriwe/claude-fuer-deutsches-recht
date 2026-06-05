@@ -7,7 +7,7 @@ description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Lan
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Sammelantrag GAP Schriftsatzkern** als zusammenhängenden Arbeitsgang im Agrarrecht. Im Mittelpunkt steht die Prüfung von Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Sammelantrag GAP Schriftsatzkern** ordnet den Fall über die tragenden Prüffelder: Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

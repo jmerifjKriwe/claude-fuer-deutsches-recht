@@ -69,6 +69,6 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 | `unterlagen-sortieren` | Baut aus unordentlichen Fotos, Scans, Briefen, E-Mails und Formularen eine Chronologie, Anlagenliste und Lückenliste. |
 | `vereinfachtes-schreiben-vollmacht-vertretung` | Vereinfachtes Schreiben Vollmacht Vertretung im Bürokratieabbau-Praxis: prüft konkret Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben, Aktenze, Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Fam.... |
 | `widerspruch-einfach-wohngeld-wohnung` | Widerspruch Einfach Wohngeld Wohnung im Bürokratieabbau-Praxis: prüft konkret Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch stat, Hilft bei Wohngeldantrag, Mietstufe. Liefert priorisierten Output mit Norm-Pi... |
-| `zwangsgeld-zwangsvollstreckung` | Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis: Dieser Skill arbeitet Zwangsgeld Zwangsvollstreckung als zusammenhängenden Arbeitsgang im Plugin Buerokratieversteher Entbuerokratisierer ab — nach Aktenlage, Frist, Zuständigkeit... |
+| `zwangsgeld-zwangsvollstreckung` | Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

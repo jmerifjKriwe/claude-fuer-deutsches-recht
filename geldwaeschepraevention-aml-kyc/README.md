@@ -136,6 +136,6 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `schulung-quellenkarte` | Schulung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `sonderfall-edge-geldwaesche` | Sonderfall Edge Geldwaesche im Plugin Geldwaeschepraevention Aml Kyc: prüft konkret Chronologie, Geldwaesche, Geldwaeschepraevention. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `testlauf-beweislast-transaktionsmonitoring` | Testlauf Beweislast Transaktionsmonitoring im Plugin Geldwaeschepraevention Aml Kyc: prüft konkret Testlauf, Transaktionsmonitoring, Transparenzregister. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `verdachtsmeldung-interessen` | Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc: Dieser Skill arbeitet Verdachtsmeldung Interessen als zusammenhängenden Arbeitsgang im Plugin Geldwäscheprävention (AML/KYC) ab — nach Aktenlage, Frist, Zuständigkeit,... |
+| `verdachtsmeldung-interessen` | Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml Kyc: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

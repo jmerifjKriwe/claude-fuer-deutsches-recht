@@ -7,7 +7,7 @@ description: "Objektivitaet Methodenpluralismus Pluralismus im Rechtstheorie und
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Objektivitaet Methodenpluralismus Pluralismus** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden pl. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Objektivitaet Methodenpluralismus Pluralismus** ordnet den Fall über die tragenden Prüffelder: Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden pl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

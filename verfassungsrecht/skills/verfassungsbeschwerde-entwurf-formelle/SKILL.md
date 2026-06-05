@@ -7,7 +7,7 @@ description: "Verfassungsbeschwerde Entwurf Formelle im Plugin Verfassungsrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Verfassungsbeschwerde Entwurf Formelle** als zusammenhängenden Arbeitsgang im Plugin Verfassungsrecht. Im Mittelpunkt steht die Prüfung von Verfassungsbeschwerde beim BVerfG nach §§ 90 ff, Formelle Verfassungsmäßigkeit eines Gesetzes prüfen, Gesetzgebungskompetenz des Bundes oder eines Landes für. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Verfassungsbeschwerde Entwurf Formelle** ordnet den Fall über die tragenden Prüffelder: Verfassungsbeschwerde beim BVerfG nach §§ 90 ff, Formelle Verfassungsmäßigkeit eines Gesetzes prüfen, Gesetzgebungskompetenz des Bundes oder eines Landes für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

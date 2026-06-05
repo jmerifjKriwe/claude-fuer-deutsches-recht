@@ -7,7 +7,7 @@ description: "Klauselverbote Systematik im AGB-Recht: prüft konkret Klauselverb
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Klauselverbote Systematik** als zusammenhängenden Arbeitsgang im AGB-Recht. Im Mittelpunkt steht die Prüfung von Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Klauselverbote Systematik** ordnet den Fall über die tragenden Prüffelder: Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

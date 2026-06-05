@@ -7,7 +7,7 @@ description: "Freiwillige Beitraege Fremdrentengesetz im Plugin Rentenpruefer: p
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Freiwillige Beitraege Fremdrentengesetz** als zusammenhängenden Arbeitsgang im Plugin Rentenpruefer. Im Mittelpunkt steht die Prüfung von Freiwillige Beiträge und Rentenoptimierung, Fremdrentengesetz und Spätaussiedlerfälle. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Freiwillige Beitraege Fremdrentengesetz** ordnet den Fall über die tragenden Prüffelder: Freiwillige Beiträge und Rentenoptimierung, Fremdrentengesetz und Spätaussiedlerfälle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

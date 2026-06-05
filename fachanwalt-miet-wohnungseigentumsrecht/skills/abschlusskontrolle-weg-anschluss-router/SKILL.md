@@ -7,7 +7,7 @@ description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigen
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Abschlusskontrolle WEG Anschluss Router** als zusammenhängenden Arbeitsgang im Miet- und Wohnungseigentumsrecht. Im Mittelpunkt steht die Prüfung von Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Abschlusskontrolle WEG Anschluss Router** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -7,7 +7,7 @@ description: "Self Preferencing SEP Frand Siec Test Aeuv im Kartellrecht (Markta
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Self Preferencing SEP Frand Siec Test Aeuv** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Self-Preferencing Plattformen, SEP FRAND Kartellrecht, SIEC-Test EU Fusionskontrolle und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Self Preferencing SEP Frand Siec Test Aeuv** ordnet den Fall über die tragenden Prüffelder: Self-Preferencing Plattformen, SEP FRAND Kartellrecht, SIEC-Test EU Fusionskontrolle. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

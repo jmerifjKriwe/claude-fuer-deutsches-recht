@@ -7,7 +7,7 @@ description: "Transparenzbericht Erstellung Trusted Flagger im DSA/DMA-Digitalre
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Transparenzbericht Erstellung Trusted Flagger** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Transparenzbericht nach Art, Trusted Flagger nach Art, VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Transparenzbericht Erstellung Trusted Flagger** ordnet den Fall über die tragenden Prüffelder: Transparenzbericht nach Art, Trusted Flagger nach Art, VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

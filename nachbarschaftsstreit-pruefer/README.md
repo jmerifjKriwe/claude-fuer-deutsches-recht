@@ -91,7 +91,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `notweg-ueberhang-sonderfall-edge` | Notweg Ueberhang Sonderfall Edge im Nachbarschaftsstreit: prüft konkret Notweg, Ueberhang, Vergleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `notweg-zufahrt-selbsthilfe-eskalationsgrenzen` | Notweg Zufahrt Selbsthilfe Eskalationsgrenzen im Nachbarschaftsstreit: prüft konkret Notweg, Zufahrt und Wegerecht prüfen, Selbsthilfe im Nachbarrecht prüfen, Aeste. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächst... |
 | `ueberbau-ueberhang-aeste-mediation` | Ueberbau Ueberhang Aeste Mediation im Nachbarschaftsstreit: prüft konkret Überbau nach §§ 912-916 BGB prüfen, Überhängende Äste, eindringende Wurzeln, Laub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `vertiefung-baugrube` | Vertiefung Baugrube im Nachbarschaftsstreit: Dieser Skill arbeitet Vertiefung Baugrube als zusammenhängenden Arbeitsgang im Plugin Nachbarschaftsstreit ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisi... |
+| `vertiefung-baugrube` | Vertiefung Baugrube im Nachbarschaftsstreit: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
 | `vertiefung-interessen-wurzeln-zaun` | Vertiefung Interessen Wurzeln Zaun im Nachbarschaftsstreit: prüft konkret Vertiefung, Wurzeln, Zaun. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

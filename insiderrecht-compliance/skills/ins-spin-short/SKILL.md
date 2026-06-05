@@ -7,7 +7,7 @@ description: "INS Spin Short im Insiderrecht und Compliance: prüft konkret Steu
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **INS Spin Short** als zusammenhängenden Arbeitsgang im Insiderrecht und Compliance. Im Mittelpunkt steht die Prüfung von Steuert Insiderrecht-Compliance bei Spin-offs, Steuert die Compliance-Reaktion auf Short-Seller-Berichte. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**INS Spin Short** ordnet den Fall über die tragenden Prüffelder: Steuert Insiderrecht-Compliance bei Spin-offs, Steuert die Compliance-Reaktion auf Short-Seller-Berichte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

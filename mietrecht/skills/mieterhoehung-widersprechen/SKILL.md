@@ -7,7 +7,7 @@ description: "Mieterhoehung Widersprechen im Plugin Mietrecht: prüft konkret Mi
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Mieterhoehung Widersprechen** als zusammenhängenden Arbeitsgang im Plugin Mietrecht. Im Mittelpunkt steht die Prüfung von Mietersicht — prüfe ein Mieterhoehungsverlangen nach, Vermietersicht — verfasse ein Mieterhoehungsverlangen auf, Prüffeld für mietkaution rueckforderung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Mieterhoehung Widersprechen** ordnet den Fall über die tragenden Prüffelder: Mietersicht — prüfe ein Mieterhoehungsverlangen nach, Vermietersicht — verfasse ein Mieterhoehungsverlangen auf, Prüffeld für mietkaution rueckforderung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |

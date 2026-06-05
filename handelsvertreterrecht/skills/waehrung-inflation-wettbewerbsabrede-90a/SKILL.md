@@ -7,7 +7,7 @@ description: "Waehrung Inflation Wettbewerbsabrede 90A im Handelsvertreterrecht:
 
 ## Arbeitsbereich
 
-Dieser Skill behandelt **Waehrung Inflation Wettbewerbsabrede 90A** als zusammenhängenden Arbeitsgang im Handelsvertreterrecht. Im Mittelpunkt steht die Prüfung von Prüft Auswirkungen von Währungsrisiken und Inflation auf, Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB, Prüft Zielvereinbarungen im Handelsvertretervertrag. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+**Waehrung Inflation Wettbewerbsabrede 90A** ordnet den Fall über die tragenden Prüffelder: Prüft Auswirkungen von Währungsrisiken und Inflation auf, Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB, Prüft Zielvereinbarungen im Handelsvertretervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüffelder
 
 | Prüffeld | Fokus |
