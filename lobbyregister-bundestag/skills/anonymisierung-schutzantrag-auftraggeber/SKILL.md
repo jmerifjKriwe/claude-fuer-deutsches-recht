@@ -157,7 +157,7 @@ Agentur-, Kanzlei- und Verbandsmandate registerfest strukturieren.
 2. Welche Interessen, Vorhaben und Adressaten sind vom Auftrag umfasst?
 3. Welche Angaben darf der Auftraggeber pruefen oder freigeben?
 
-## Auftraggeber-Angabe § 3 I Nr. 8 LobbyRG
+## Auftraggeber-Angabe § 3 Abs. 1 Nr. 9 LobbyRG
 
 **Pflicht zur Angabe**, wenn Interessenvertretung **im Auftrag Dritter** erfolgt (Agentur, Kanzlei, Lobby-Beratung, PR-Agentur, Verband im Mandat):
 
@@ -190,7 +190,7 @@ Antrag formgebunden über das Portal mit Begründung; Entscheidung durch registe
 1. **Mandatsbeschreibung** dokumentieren (Auftraggeber, Vorhaben, eingesetzte Personen).
 2. **Erlaubnis Auftraggeber** zur Registereintragung einholen (oft AGB-Klausel oder Mandatsvereinbarung).
 3. **Eintragung** im Portal: Auftraggebermatrix.
-4. **Aktualisierung** bei neuen Aufträgen / Beendigung innerhalb 30 Tagen (§ 3 II LobbyRG).
+4. **Aktualisierung** bei neuen Aufträgen / Beendigung innerhalb 30 Tagen (§ 3 Abs. 3 LobbyRG).
 5. **Schutzantrag § 4 LobbyRG** falls schutzwürdige Interessen.
 
 ## Praxisfallen

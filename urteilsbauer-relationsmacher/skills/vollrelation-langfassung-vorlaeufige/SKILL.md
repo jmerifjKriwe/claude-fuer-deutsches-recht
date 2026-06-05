@@ -246,7 +246,7 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 ## Triage zu Beginn
 
 1. Liegt internationaler Bezug vor — ist EuGVVO (Brüssel Ia, VO Nr. 1215/2012) anwendbar?
-2. Was ist der Streitwert — sachliche Zuständigkeit AG (bis 5.000 EUR, § 23 Nr. 1 GVG) oder LG (ab 5.001 EUR, § 71 GVG)?
+2. Was ist der Streitwert — sachliche Zuständigkeit AG (bis 10.000 EUR, § 23 Nr. 1 GVG n. F. für Neufälle seit 01.01.2026) oder LG (über 10.000 EUR, § 71 GVG)? Übergangsfälle live prüfen.
 3. Ist der Kläger Verbraucher — besonderer Gerichtsstand nach Art. 17 ff. EuGVVO?
 4. Gibt es eine ausschließliche Gerichtsstandsvereinbarung (§ 38 ZPO, Art. 25 EuGVVO)?
 
@@ -257,8 +257,8 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 ## Zentrale Normen
 
 - § 13 GVG — ordentlicher Rechtsweg
-- § 23 Nr. 1 GVG — sachliche Zuständigkeit AG (bis 5.000 EUR)
-- § 71 Abs. 1 GVG — sachliche Zuständigkeit LG (über 5.000 EUR)
+- § 23 Nr. 1 GVG — sachliche Zuständigkeit AG (bis 10.000 EUR in der aktuellen Fassung für Neufälle seit 01.01.2026)
+- § 71 Abs. 1 GVG — sachliche Zuständigkeit LG (regelmäßig über 10.000 EUR, Sonderzuständigkeiten prüfen)
 - § 12 ZPO — allgemeiner Gerichtsstand (Wohnsitz)
 - § 29 ZPO — besonderer Gerichtsstand Erfüllungsort
 - § 38 ZPO — Gerichtsstandsvereinbarung (B2B)
@@ -289,7 +289,7 @@ Die Klage ist zulässig.
 **Rechtsweg:** Der ordentliche Rechtsweg nach § 13 GVG ist eröffnet. [Alternativ: Verwiesen nach § 281 ZPO.]
 
 **Sachliche Zuständigkeit:** Das Amtsgericht [ORT] ist sachlich zuständig nach § 23 Nr. 1 GVG,
-da der Streitwert [BETRAG] EUR beträgt und damit die Grenze von 5.000 EUR nicht überschreitet.
+da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000 EUR nicht überschreitet; Übergangsfälle und Sonderzuständigkeiten sind gesondert geprüft.
 
 **Örtliche Zuständigkeit:** Das Amtsgericht [ORT] ist örtlich zuständig nach § 29 ZPO
 (Erfüllungsort [ORT]).
@@ -302,7 +302,7 @@ da der Streitwert [BETRAG] EUR beträgt und damit die Grenze von 5.000 EUR nicht
 1. **Rechtsweg** Paragraf 13 GVG, Verweisung Paragraf 17 GVG
 2. **Internationale Zuständigkeit** EuGVVO Brüssel Ia (Verordnung Nr. 1215 2012), Luganer Übereinkommen, autonomes Recht (Paragraf 12 ff ZPO entsprechend)
 3. **Örtliche Zuständigkeit** Paragrafen 12 ff ZPO (allgemeine), Paragrafen 21 ff ZPO (besondere), Paragraf 24 ZPO (ausschließliche)
-4. **Sachliche Zuständigkeit** Paragraf 23 GVG (AG bis funffuendeufunfhundert Euro - genauer: 5000 EUR), Paragraf 71 GVG (LG dargrüber)
+4. **Sachliche Zuständigkeit** § 23 GVG (AG bis 10.000 EUR in der aktuellen Fassung für Neufälle), § 71 GVG (LG darüber); Alt- und Übergangsfälle gesondert prüfen.
 5. **Streitwert** Paragraf 3 ZPO, Paragraf 1 GKG, Anlage 1 zum GKG
 6. **Partei- und Prozessfähigkeit** Paragraf 50 ff ZPO
 7. **Vertretung** Paragraf 51 ZPO, Paragraf 78 ZPO (Anwaltszwang)

@@ -32,7 +32,7 @@ Für **Fuehren Mehrparteien Konflikt Und Interessen, Mappen Zahlen Schwellen Und
 
 ## Spezialwissen: Fuehren: Mehrparteienkonflikt und Interessenmatrix
 - **Spezialgegenstand:** Fuehren: Mehrparteienkonflikt und Interessenmatrix / fuehren mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Mappen: Zahlen, Schwellenwerte und Berechnung
 - **Spezialgegenstand:** Mappen: Zahlen, Schwellenwerte und Berechnung / mappen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Nachfrage: Abschlussprodukt und Übergabe
 - **Spezialgegenstand:** Nachfrage: Abschlussprodukt und Übergabe / nachfrage abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

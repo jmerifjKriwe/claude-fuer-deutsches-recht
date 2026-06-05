@@ -148,7 +148,7 @@ Drehtuerangaben fuer alle namentlich genannten Personen konsistent erfassen.
 - **Privatperson, die im Auftrag interessenvertretung macht**, ist „Beschäftigte" oder „Beauftragte" — Drehtür-Angaben fließen in das Profil der Organisation.
 - **Bundestagspraktika, Wahlkreismitarbeit** unter Besoldungsgruppe sind grundsätzlich nicht meldepflichtig; aber Vorsicht bei Stellung als Geschäftsführer einer politischen Stiftung etc.
 - **Beratungsverhältnis durch Berufsexpertin** (z. B. ehemalige Staatssekretärin als externe Beraterin): Drehtür-Angabe der Beraterin ist Pflicht, wenn sie als Beauftragte für die Lobbyorganisation tätig wird.
-- **Aktualisierung** § 3 II LobbyRG: Änderungen innerhalb von 30 Tagen.
+- **Aktualisierung** § 3 Abs. 3 LobbyRG: Änderungen innerhalb von 30 Tagen.
 - **EU-Ebene**: Tätigkeit als ehemaliges Mitglied EP / Kommission separat zu vermelden.
 
 ## Quellenanker

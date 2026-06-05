@@ -44,8 +44,8 @@ Regierungs- und Ministerialkontakte nach eigenen Ausnahmevorschriften einordnen.
 
 - **§ 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen:** u. a. Stellungnahmen aufgrund Beteiligung in Gesetzgebung (z. B. § 47 Abs. 3 GGO), Auskunft auf Verlangen von Bundestag/Bundesregierung, anwaltliche oder anwaltsähnliche Mandate in konkreten Verfahren, Sozialpartnerdialog, Petitionen.
 - **§ 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen:** Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis.
-- **§ 2 Abs. 4 LobbyRG — Geringfügigkeitsschwelle:** Eintragungspflicht für regelmäßige oder auf Dauer angelegte Interessenvertretung oder mehr als 30 Kontakte in 3 Monaten oder Vergütung über 100.000 Euro pro Jahr — Schwellen vor Aussage live prüfen (BT-Drs. zur Reform 2023/2024 hat Schwellen verschoben).
-- **Wichtig:** Auch Ausnahmegestützte können freiwillig registrieren (§ 1 Abs. 4 LobbyRG); freiwillige Registrierung hat denselben Pflichtkanon wie Pflichtregistrierung.
+- **§ 2 Abs. 1 LobbyRG — Registrierungsschwelle:** Eintragungspflicht bei regelmäßiger, auf Dauer angelegter, geschäftsmäßiger oder gegen Gegenleistung beauftragter Interessenvertretung sowie bei mehr als 30 unterschiedlichen Interessenvertretungskontakten in den jeweils letzten drei Monaten. Die alte 100.000-Euro-Schwelle nicht fortschreiben; aktuelle Fassung live prüfen.
+- **Wichtig:** Auch nicht eintragungspflichtige Interessenvertretung kann freiwillig registriert werden; dafür den aktuellen § 2 LobbyRG und den Pflichtkanon nach § 3 LobbyRG live prüfen, nicht die Definitionsnorm für Interessenvertreter als Freiwilligkeitsnorm zitieren.
 - **Strafe/Bußgeld:** Bei vorsätzlich falschen Angaben § 7 LobbyRG (bis 50.000 Euro); zusätzlich Verlust der Anhörungsmöglichkeit und Veröffentlichung im Register.
 
 ## Leitfragen
@@ -113,7 +113,7 @@ Keine Interessenvertretung im Sinne des LobbyRG (und damit keine Registrierungsp
 ## Restpflichten trotz Ausnahme
 
 - **Verhaltenskodex** § 5 LobbyRG kann auch für Ausnahmefälle relevant sein (Identitätsoffenlegung beim Kontakt).
-- **Freiwillige Registrierung** § 1 II LobbyRG bleibt möglich; kann Sichtbarkeit und Vertrauen erhöhen.
+- **Freiwillige Registrierung** § 2 Abs. 5 LobbyRG bleibt möglich; kann Sichtbarkeit und Vertrauen erhöhen, löst aber eigene Richtigkeits- und Vollständigkeitspflichten aus.
 - **PartG-Pflichten** (Spenden, Sponsoring) bleiben unberührt vom LobbyRG.
 - **AbgG-Pflichten** für Adressaten (Abgeordnete) bleiben bestehen — insb. § 44a AbgG zur Veröffentlichung entgeltlicher Interessenvertretung.
 

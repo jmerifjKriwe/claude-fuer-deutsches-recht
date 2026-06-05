@@ -63,14 +63,14 @@ Dieser Skill unterstützt Leasinggeber dabei, ihre Standardverträge zu optimier
 ### 2. Abtretungsklausel
 **LG-Formulierung**: „Der Leasinggeber tritt hiermit alle Ansprüche aus dem Kaufvertrag [Datum] mit [Lieferant] an den Leasingnehmer ab. Eigene Ansprüche des Leasingnehmers gegen den Leasinggeber wegen Mängeln des Leasingobjekts sind ausgeschlossen."
 
-**Wirksamkeit**: BGH VIII ZR 256/06 – wirksam wenn Abtretung tatsächlich vollzogen.
+**Wirksamkeit**: BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 – wirksam wenn Abtretung tatsächlich vollzogen.
 
 **Wichtig**: Abtretungserklärung muss klar und vollständig sein; Zeitpunkt der Abtretung angeben.
 
 ### 3. Restwertklausel (Teilamortisation)
 **LG-Formulierung**: „Unterschreitet der bei Vertragsende erzielte Verwertungserlös den kalkulierten Restwert von [Betrag], ist der Leasingnehmer zur Zahlung der Differenz verpflichtet. Übersteigt der Verwertungserlös den kalkulierten Restwert, werden 75 % des Mehrerlöses an den Leasingnehmer ausgekehrt."
 
-**Wirksamkeit**: BGH VIII ZR 36/06 – wirksam mit Mehrerlösklausel.
+**Wirksamkeit**: Restwertgarantie und Mehrerlösbeteiligung getrennt prüfen. Als frei prüfbare Anker zur Restwertgarantie im Verbraucherleasing kommen BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 in Betracht; Mehrerlösfragen nicht schematisch daraus ableiten.
 
 ### 4. Kündigungsklausel
 **LG-Formulierung**: „Der Leasinggeber ist berechtigt, den Vertrag fristlos zu kündigen, wenn der Leasingnehmer mit mindestens zwei aufeinanderfolgenden Raten im Verzug ist und die Mahnung mit Kündigungsandrohung erfolglos geblieben ist."
@@ -80,7 +80,7 @@ Dieser Skill unterstützt Leasinggeber dabei, ihre Standardverträge zu optimier
 ### 5. Schadensersatz nach Kündigung
 **LG-Formulierung**: „Nach vorzeitiger Vertragsbeendigung ist der Leasingnehmer zum Schadensersatz verpflichtet. Dieser errechnet sich aus den ausstehenden Raten bis Vertragsende, abgezinst mit dem kalkulatorischen Zinssatz, abzüglich des erzielten Verwertungserlöses und ersparter Aufwendungen."
 
-**Wirksamkeit**: BGH VIII ZR 13/06 – wirksam bei korrekter Abzinsungspflicht.
+**Wirksamkeit**: BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 – wirksam bei korrekter Abzinsungspflicht.
 
 ## Typische LN-Änderungswünsche und LG-Reaktion
 
@@ -110,7 +110,7 @@ Dieser Skill unterstützt Leasinggeber dabei, ihre Standardverträge zu optimier
 
 ## Normen und Quellen
 
-- BGH VIII ZR 71/93, VIII ZR 256/06, VIII ZR 36/06, VIII ZR 13/06: https://www.bgh.de
+- BGH-Anker live prüfen: für leasingtypische Abtretungskonstruktionen etwa BGH, Urteil vom 13.11.2013 - VIII ZR 257/12; für Restwertgarantie BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13; für Kündigungsschaden/Abzinsung BGH, Urteil vom 14.03.2007 - VIII ZR 68/06.
 - §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
 - §§ 506–509 BGB: https://dejure.org/gesetze/BGB/506.html
 - openjur.de AGB-Leasingrecht: https://openjur.de
@@ -137,7 +137,7 @@ Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Ski
 
 ### 1. Fehlende Mehrerlösklausel
 **Problem**: Restwertgarantie des LN ohne Beteiligung am Mehrerlös bei Verwertung über Restwert.
-**BGH VIII ZR 36/06**: Ohne Mehrerlösklausel ist Restwertgarantie-AGB unwirksam.
+**BGH-Anker:** Die Entscheidungen vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing. Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand § 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen.
 **Forderung des LN**: Ergänzung: „Übersteigt der Verwertungserlös den kalkulierten Restwert, erhält der LN mindestens 75 % des Mehrerlöses."
 
 ### 2. Unbegrenzte Gefahrtragung
@@ -188,7 +188,7 @@ Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Ski
 
 ## Prüfprogramm
 
-1. Mehrerlösklausel bei Restwertgarantie? (Pflicht nach BGH)
+1. Mehrerlösklausel bei Restwertgarantie? (Risikopunkt nach § 307 BGB, nicht schematisch als Pflicht behaupten)
 2. GAP-Versicherung oder Beschränkung der Haftung nach Totalschaden?
 3. Normaler Abnutzungs-Katalog definiert?
 4. Abmahnpflicht vor Kündigung? Bei Verbraucher zwingend
@@ -197,7 +197,7 @@ Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Ski
 
 ## Normen und Quellen
 
-- BGH VIII ZR 36/06 (Mehrerlösklausel): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie; Mehrerlösfragen gesondert live prüfen): https://www.bgh.de
 - BGH VIII ZR 172/05 (normale Abnutzung): https://www.bgh.de
 - BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
 - § 566 BGB: https://dejure.org/gesetze/BGB/566.html

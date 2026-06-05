@@ -64,7 +64,7 @@ Grundbuch muss auf die Erben berichtigt werden (§ 35 GBO). Erst dann können Ei
 2. Auflassung vom Miteigentumsanteil auf einzelnen Erben (§ 925 BGB)
 3. Eigentumsumschreibung im Grundbuch
 
-**Direkte Auflassung:** Wenn alle Miterben zustimmen, kann direkt auf einen Dritten oder einzelnen Erben aufgelassen werden, ohne Zwischeneintragung der Erbengemeinschaft (§ 40 Abs. 3 GBO).
+**Direkte Auflassung:** Wenn alle Miterben zustimmen, kann direkt auf einen Dritten oder einzelnen Erben aufgelassen werden, ohne Zwischeneintragung der Erbengemeinschaft, wenn die Voraussetzungen des § 40 GBO im konkreten Grundbuchvollzug vorliegen; Absatz und Anwendungsfall live prüfen, keine ungeprüfte Absatzangabe übernehmen.
 
 ## Steuerliche Aspekte
 

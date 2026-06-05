@@ -11,6 +11,10 @@ description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
+## Rechtsweg-Warnung
+
+BAföG-Streitigkeiten gehören regelmäßig **nicht** zum Sozialgericht, sondern in den Verwaltungsrechtsweg. Dieser Skill darf innerhalb des Selbstvertreter-Sozialgericht-Plugins nur als Wegweiser helfen: Bescheid verstehen, Widerspruchsfrist sichern, Unterlagen sortieren und zum zuständigen Amt bzw. Verwaltungsgericht lotsen. Vor Klageerhebung Rechtsbehelfsbelehrung und Landeszuständigkeit prüfen.
+
 ## Anspruchsgrundlage
 
 BAfoeG: Bundesausbildungsfoerderungsgesetz.

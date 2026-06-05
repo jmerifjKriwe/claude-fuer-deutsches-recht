@@ -32,7 +32,7 @@ Für **Mehrblatt Sonderfall Und Edge Case, Onboarding Mandantenkommunikation Ent
 
 ## Spezialwissen: Mehrblatt: Sonderfall und Edge-Case-Prüfung
 - **Spezialgegenstand:** Mehrblatt: Sonderfall und Edge-Case-Prüfung / mehrblatt sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Onboarding: Mandantenkommunikation und Entscheidungsvorlage
 - **Spezialgegenstand:** Onboarding: Mandantenkommunikation und Entscheidungsvorlage / onboarding mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Perspektiven: Verhandlung, Vergleich und Eskalation
 - **Spezialgegenstand:** Perspektiven: Verhandlung, Vergleich und Eskalation / perspektiven verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

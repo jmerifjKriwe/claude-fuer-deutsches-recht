@@ -1,6 +1,6 @@
 ---
 name: zitat-bverfg-entscheidung
-description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. Beispiel BVerfG, Urt. v. 17.01.2024 1 BvR 1841 aus 23, BVerfGE 167 S. 1. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend."
+description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. BVerfGE-Band und Seitenzahl nur übernehmen, wenn sie amtlich oder frei verifizierbar sind; andernfalls mit Gericht, Entscheidungsform, Datum und Aktenzeichen zitieren. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend."
 ---
 
 # BVerfG-Entscheidung zitieren

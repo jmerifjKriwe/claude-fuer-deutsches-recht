@@ -42,7 +42,7 @@ Im Unternehmerleasing (B2B) gelten andere Regeln als im Verbraucherleasing. Der 
 3. LN kann direkt gegen Lieferant klagen (Sachmängelansprüche, §§ 437 ff. BGB)
 4. LN hat keine Gewährleistungsansprüche gegen LG
 
-### BGH VIII ZR 256/06
+### BGH, Urteil vom 13.11.2013 - VIII ZR 257/12
 Die Abtretungskonstruktion ist wirksam und typisch für das Finanzierungsleasing. Der Ausschluss der Gewährleistung des LG ist AGB-rechtlich zulässig, **wenn** die Abtretung tatsächlich erfolgt und LN klagebefugt ist.
 
 **Unwirksam**: AGB-Klausel schließt LG-Gewährleistung aus, aber Abtretung an LN erfolgt nicht oder geht ins Leere (z.B. Lieferant insolvent). Dann: LG haftet nach § 307 BGB.
@@ -70,7 +70,7 @@ Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
 ### Typische AGB-Klauseln B2B-Leasing
 - Gefahrtragungsklausel: Wirksam (LN trägt Zufall-Untergangsrisiko)
 - Abtretungsklausel: Wirksam, wenn Abtretung tatsächlich vollzogen
-- Restwertgarantie: Wirksam ohne Mehrerlösklausel (B2B toleranter als B2C)
+- Restwertgarantie: Im Unternehmerleasing regelmäßig mehr Gestaltungsspielraum als im Verbraucherleasing, aber Transparenz, Verwertungserlös, Mehrerlösbeteiligung und § 307 BGB gesondert prüfen.
 - Kündigungsklausel: Weiter als B2C; kein Abmahnungserfordernis gesetzlich, aber Treu und Glauben
 
 ## Mangel am Leasingobjekt: Prozessuale Situation
@@ -107,7 +107,7 @@ Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
 - §§ 437–442 BGB (Sachmängelansprüche): https://dejure.org/gesetze/BGB/437.html
 - § 377 HGB (Rügeobliegenheit): https://www.gesetze-im-internet.de/hgb/__377.html
 - § 307 BGB (AGB-Generalklausel): https://dejure.org/gesetze/BGB/307.html
-- BGH VIII ZR 256/06 (Abtretungskonstruktion): https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungskonstruktion): https://www.bgh.de
 - HGB §§ 343 ff.: https://www.gesetze-im-internet.de/hgb/__343.html
 
 ## Output-Formate
@@ -209,7 +209,7 @@ Das Finanzierungsleasing ist typischerweise ein Dreiecksgeschäft. Die drei Rech
 - § 447 BGB (Versendungskauf): https://dejure.org/gesetze/BGB/447.html
 - §§ 108, 109 InsO: https://www.gesetze-im-internet.de/inso/__108.html
 - § 47 InsO (Aussonderung): https://www.gesetze-im-internet.de/inso/__47.html
-- BGH VIII ZR 256/06: https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12: https://www.bgh.de
 
 ## Output-Formate
 
@@ -310,7 +310,7 @@ Wenn das Leasingobjekt mangelhaft ist, richtet der Leasingnehmer seine Ansprüch
 - § 438 BGB: https://dejure.org/gesetze/BGB/438.html
 - § 377 HGB: https://www.gesetze-im-internet.de/hgb/__377.html
 - § 398 BGB: https://dejure.org/gesetze/BGB/398.html
-- BGH VIII ZR 256/06: https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12: https://www.bgh.de
 - openjur.de Sachmängelrecht Leasing: https://openjur.de
 
 ## Output-Formate

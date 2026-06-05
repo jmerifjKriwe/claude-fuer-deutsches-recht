@@ -32,7 +32,7 @@ Für **Changes Beweislast Und Darlegungslast, Docx Tatbestand Beweis Und Belege,
 
 ## Spezialwissen: Changes: Beweislast, Darlegungslast und Substantiierung
 - **Spezialgegenstand:** Changes: Beweislast, Darlegungslast und Substantiierung / changes beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Spezialgegenstand:** Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage / docx tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Erkennen: Schriftsatz-, Brief- und Memo-Bausteine
 - **Spezialgegenstand:** Erkennen: Schriftsatz-, Brief- und Memo-Bausteine / erkennen schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX.
+- **Normen-/Quellenanker:** DOCX/PDF sind Dateiformate, keine Rechtsquellen. Je nach Vertrag BGB §§ 145 ff., 241, 280, 305 ff., 311; einschlägige Formvorschriften; bei Einreichung ZPO/beA-Vorgaben; bei Verbrauchern §§ 312 ff., 355 ff. BGB live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

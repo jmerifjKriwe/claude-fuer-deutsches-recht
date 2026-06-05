@@ -32,7 +32,7 @@ Für **Patentrechts Erstpruefung Und Mandatsziel, Tuerkei Patentrecht Turkpatent
 
 ## Spezialwissen: Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel
 - **Spezialgegenstand:** Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel / patentrechts erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** FTO.
+- **Normen-/Quellenanker:** FTO ist eine Arbeitsmethode, keine Rechtsquelle. Je nach Teilfrage PatG §§ 1-5, 9, 10, 14, 34, 64; EPÜ Art. 52-57 und 69; UPCA Art. 32 und 62; UPC-Verfahrensordnung; nationale Patentgesetze/Patentämter live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

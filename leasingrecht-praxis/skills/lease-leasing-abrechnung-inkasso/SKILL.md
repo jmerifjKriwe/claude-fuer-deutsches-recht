@@ -50,7 +50,7 @@ Am Vertragsende oder nach Kündigung ist eine detaillierte Leasingabrechnung zu 
 
 ### Abzinsungspflicht
 - Ausstehende Raten (nach Kündigung) werden abgezinst
-- BGH VIII ZR 13/06: Nominalwert der ausstehenden Raten minus Abzinsungsbetrag
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06: Nominalwert der ausstehenden Raten minus Abzinsungsbetrag
 
 ## Verjährungsfristen
 
@@ -116,7 +116,7 @@ Am Vertragsende oder nach Kündigung ist eine detaillierte Leasingabrechnung zu 
 - § 199 BGB (Verjährungsbeginn): https://dejure.org/gesetze/BGB/199.html
 - § 387 BGB (Aufrechnung): https://dejure.org/gesetze/BGB/387.html
 - § 254 BGB (Schadensminderungspflicht): https://dejure.org/gesetze/BGB/254.html
-- BGH VIII ZR 13/06 (Abzinsung nach Kündigung): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Abzinsung nach Kündigung): https://www.bgh.de
 - openjur.de § 548 BGB Leasing: https://openjur.de
 
 ## Output-Formate
@@ -321,7 +321,7 @@ Nach rechtskräftigem Urteil oder Vollstreckungsbescheid:
 - §§ 916 ff. ZPO (Arrest): https://www.gesetze-im-internet.de/zpo/__916.html
 - § 91 ZPO (Kostenerstattung): https://www.gesetze-im-internet.de/zpo/__91.html
 - §§ 803 ff. ZPO (Vollstreckung): https://www.gesetze-im-internet.de/zpo/__803.html
-- BGH VIII ZR 13/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
 
 ## Output-Formate
 

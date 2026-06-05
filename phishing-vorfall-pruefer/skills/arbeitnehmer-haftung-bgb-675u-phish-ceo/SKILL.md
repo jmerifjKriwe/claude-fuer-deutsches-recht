@@ -136,7 +136,7 @@ Dieser Skill gehoert zum Plugin `phishing-vorfall-pruefer`. Er ergaenzt die uebr
 
 ## Spezialwissen: Phish: CEO-Fraud Konzern
 - **Spezialgegenstand:** Phish: CEO-Fraud Konzern / phish ceo fraud konzern spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** CEO.
+- **Normen-/Quellenanker:** StGB §§ 263, 263a, 266, 269; BGB §§ 280, 241 Abs. 2; arbeitsrechtliche Haftungsprivilegierung; HGB/GoBD-Dokumentation; DSGVO Art. 33, 34; Cyber-/Crime-Versicherungsbedingungen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

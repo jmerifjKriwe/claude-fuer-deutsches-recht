@@ -135,7 +135,7 @@ Ich halte Abstand und dokumentiere nur die öffentliche Amtshandlung zur Beweiss
 - KunstUrhG §§ 22, 23, 33; StGB §§ 201, 201a; GG Art. 5, Art. 8.
 - BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13.
 - BVerwG, Urteil vom 28.03.2012 - 6 C 12.11.
-- OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21 als Tonaufnahme-Risiko.
+- OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21 nur als kontextgebundenes Tonaufnahme-Risiko prüfen: Die Entscheidung ist kein pauschales Verbot, Polizeieinsätze oder Versammlungen zu filmen. Bei Bild-/Tonaufnahmen immer Art. 5 GG, Presse-/Dokumentationsinteresse, KUG, § 201 StGB und die konkrete Öffentlichkeit/Nichtöffentlichkeit des gesprochenen Wortes auseinanderhalten.
 
 ## Qualitätsgate
 

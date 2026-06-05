@@ -40,6 +40,10 @@ Für **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufsk
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Rechtsweg-Warnung
+
+BAföG-Streitigkeiten gehören regelmäßig **nicht** zum Sozialgericht, sondern in den Verwaltungsrechtsweg. Dieser Abschnitt dient nur als Wegweiser: Bescheid verstehen, Widerspruchsfrist sichern, Unterlagen sortieren und zum zuständigen Amt bzw. Verwaltungsgericht lotsen. Vor Klageerhebung Rechtsbehelfsbelehrung und Landeszuständigkeit prüfen.
+
 
 ## Anspruchsgrundlage
 

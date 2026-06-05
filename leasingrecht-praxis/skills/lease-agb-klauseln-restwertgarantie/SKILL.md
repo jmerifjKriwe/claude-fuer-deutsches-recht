@@ -63,7 +63,7 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 ### 2. Abtretungsklausel (Gewährleistung)
 **Typische Formulierung**: „Der Leasinggeber tritt alle Gewährleistungsansprüche gegen den Lieferanten an den Leasingnehmer ab. Eigene Ansprüche des Leasingnehmers gegen den Leasinggeber sind ausgeschlossen."
 
-**Bewertung**: Grundsätzlich wirksam, wenn die Abtretung tatsächlich erfolgt und LN klagebefugt wird. Unwirksam, wenn Abtretung ins Leere geht (Lieferant insolvent, Frist abgelaufen) und LN dann schutzlos steht (BGH VIII ZR 256/06).
+**Bewertung**: Grundsätzlich wirksam, wenn die Abtretung tatsächlich erfolgt und LN klagebefugt wird. Unwirksam, wenn Abtretung ins Leere geht (Lieferant insolvent, Frist abgelaufen) und LN dann schutzlos steht (BGH, Urteil vom 13.11.2013 - VIII ZR 257/12).
 
 ### 3. Kündigungsklausel bei Zahlungsverzug
 **Typische Formulierung**: „Der Leasinggeber kann bei Verzug mit mehr als einer Rate fristlos kündigen."
@@ -73,12 +73,12 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 ### 4. Schadensersatzklausel nach Kündigung
 **Typische Formulierung**: „Bei vorzeitiger Vertragsbeendigung schuldet der Leasingnehmer sämtliche ausstehende Leasingraten bis Vertragsende abzüglich eines Abzinsungsbetrags."
 
-**Bewertung**: Zulässig als Schadensersatz (BGH VIII ZR 13/06), aber LN muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen dürfen. Klauseln, die Anrechnung ausschließen, sind nach § 309 Nr. 5 BGB unwirksam.
+**Bewertung**: Zulässig als Schadensersatz (BGH, Urteil vom 14.03.2007 - VIII ZR 68/06), aber LN muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen dürfen. Klauseln, die Anrechnung ausschließen, sind nach § 309 Nr. 5 BGB unwirksam.
 
 ### 5. Restwerthaftung
 **Typische Formulierung**: „Unterschreitet der Verwertungserlös den kalkulierten Restwert, ist der Leasingnehmer zur Zahlung der Differenz verpflichtet."
 
-**Bewertung**: Wirksam als vertraglich vereinbarte Haftung (BGH VIII ZR 36/06). Muss aber klar und transparent formuliert sein (§ 307 I 2 BGB). Klauseln ohne Beteiligung des LN an Mehrerlös können nach § 307 unwirksam sein.
+**Bewertung**: Restwertgarantien können wirksam sein, müssen aber klar und transparent formuliert sein (§ 307 Abs. 1 Satz 2 BGB). Als frei prüfbare Anker zur Verbraucherleasing-Restwertgarantie kommen BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 in Betracht; Mehrerlösfragen gesondert anhand Vertragsmodell und Abrechnung prüfen.
 
 ### 6. Totalschadensklausel
 **Typische Formulierung**: „Bei Totalschaden oder Verlust sind die ausstehenden Raten sofort fällig; Versicherungsleistung ist anzurechnen."
@@ -109,9 +109,9 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 
 - §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
 - BGH VIII ZR 71/93 (Gefahrtragung Finanzierungsleasing): https://www.bgh.de
-- BGH VIII ZR 256/06 (Abtretungsklausel): https://www.bgh.de
-- BGH VIII ZR 13/06 (Schadensersatz nach Kündigung): https://www.bgh.de
-- BGH VIII ZR 36/06 (Restwerthaftung): https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungsklausel): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwerthaftung): https://www.bgh.de
 - openjur.de AGB-Leasingrecht: https://openjur.de
 
 ## Output-Formate
@@ -137,7 +137,7 @@ Der LN garantiert, dass das Objekt am Laufzeitende mindestens einen bestimmten W
 
 **Rechtliche Einordnung**: Selbständige Garantieerklärung (§ 311 I BGB) oder AGB-Klausel. Bei Verbraucherleasing: Pflichtangabe nach § 506 III Nr. 3 BGB (Gesamtbetrag inkl. Restwert).
 
-**BGH VIII ZR 36/06**: Restwertgarantie im B2B-Leasing grundsätzlich wirksam, LN muss aber bei Verwertungserlös > Restwert an Mehrerlös beteiligt werden.
+**BGH-Anker:** BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 betreffen Restwertgarantien im Verbraucherleasing und zeigen die Bedeutung transparenter Preis-/Restwertabreden. Für B2B-Leasing und Mehrerlösbeteiligung gesondert § 307 BGB, Parteistellung, Verhandlungslage und Abrechnungspraxis prüfen.
 
 ### 2. Andienungsrecht (des Leasinggebers)
 Der LG hat das Recht (nicht die Pflicht), das Objekt am Laufzeitende zum kalkulierten Restwert an den LN zu verkaufen. Der LN **muss** kaufen, wenn LG Andienungsrecht ausübt.
@@ -153,7 +153,7 @@ Der LG hat das Recht (nicht die Pflicht), das Objekt am Laufzeitende zum kalkuli
 
 **Funktion**: Ausgleich für die Restwertgarantie; faire Risikoverteilung.
 
-**BGH VIII ZR 36/06**: Ohne Mehrerlösbeteiligung ist die Restwertgarantie-Klausel nach § 307 BGB unwirksam (unangemessene Benachteiligung).
+**Prüfpunkt:** Fehlt eine Mehrerlösbeteiligung, kann die Klausel je nach Risikozuweisung und Abrechnung nach § 307 BGB angreifbar sein; keine Unwirksamkeit ohne Liveprüfung und konkrete Vertragsanalyse behaupten.
 
 ## Abrechnungskonflikt: Verwertungserlös
 
@@ -189,13 +189,13 @@ BFH IX R 14/15: Leasingerlass und wirtschaftliches Eigentum; Andienungsrecht all
 2. AGB-Einbeziehung und Wirksamkeit (§§ 305–310 BGB)?
 3. Verbraucher oder Unternehmer? Pflichtangaben nach § 506 BGB?
 4. Abrechnungsstreit: Verwertungserlös transparent und bestmöglich erzielt?
-5. Mehrerlösklausel vorhanden? Wenn nicht: Restwertgarantie ggf. unwirksam
+5. Mehrerlösklausel vorhanden? Wenn nicht: § 307-Risiko und Abrechnungspraxis gesondert prüfen.
 6. Steuerliche Zurechnung nach BMF-Erlass / BFH IX R 14/15
 
 ## Typische Fallen
 
 - LG rechnet Restwertdifferenz ab ohne Nachweis des Verwertungserlöses → LN kann Abrechnung anfechten
-- Fehlende Mehrerlösklausel → Restwertgarantie AGB-widrig
+- Fehlende Mehrerlösklausel → mögliches § 307-Risiko, aber keine schematische Unwirksamkeit ohne Vertrags- und Rechtsprechungscheck.
 - Andienungsrecht nicht klar formuliert → LN verweigert Abnahme
 - Verbraucher: Restwert nicht im Vertrag → Klausel nichtig, LN schuldet keinen Restwert
 
@@ -203,8 +203,8 @@ BFH IX R 14/15: Leasingerlass und wirtschaftliches Eigentum; Andienungsrecht all
 
 - § 506 BGB (Verbraucherleasing): https://dejure.org/gesetze/BGB/506.html
 - § 307 BGB (Inhaltskontrolle): https://dejure.org/gesetze/BGB/307.html
-- BGH VIII ZR 36/06 (Restwertgarantie, Mehrerlös): https://www.bgh.de
-- BGH VIII ZR 279/06 (Finanzierungsleasing): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie; Mehrerlösfragen gesondert live prüfen): https://www.bgh.de
+- BGH, Urteil vom 04.02.2004 - XII ZR 301/01 (Finanzierungsleasing): https://www.bgh.de
 - BFH IX R 14/15 (Leasingerlass, Andienungsrecht): https://www.bfh.de
 - BMF-Schreiben 22.12.1975 (Teilamortisation): https://www.bundesfinanzministerium.de
 
@@ -320,7 +320,7 @@ Kfz-Leasing ist das quantitativ bedeutsamste Leasingsegment. Die zwei Grundmodel
 - § 307 BGB (AGB-Inhaltskontrolle): https://dejure.org/gesetze/BGB/307.html
 - §§ 108, 109 InsO: https://www.gesetze-im-internet.de/inso/__108.html
 - BGH VIII ZR 172/05 (Minderwert, normale Abnutzung): https://www.bgh.de
-- BGH VIII ZR 36/06 (Restwertgarantie): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de
 - openjur.de Kfz-Leasingrecht: https://openjur.de
 
 ## Output-Formate

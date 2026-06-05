@@ -54,7 +54,7 @@ Bei Leasingherausgabe: Häufig § 940 ZPO (Regelungsverfügung), wenn LN droht, 
 ### 2. Verfügungsgrund
 - Dringlichkeit: Gefahr, dass ohne sofortige Maßnahme der Anspruch vereitelt wird
 - Konkreter Anhaltspunkt erforderlich: z.B. LN droht mit Weiterveräußerung, will ins Ausland verbringen, ist auf der Flucht
-- BGH: Bloße Nichtherausgabe nach Kündigung begründet keinen automatischen Verfügungsgrund
+- Verfügungsgrund nicht schematisch aus bloßer Nichtherausgabe ableiten; konkrete Vereitelungs-, Verbringungs- oder Wertverlustrisiken belegen
 
 ### Glaubhaftmachung (§ 294 ZPO)
 - Kein Vollbeweis; eidesstattliche Versicherung des LG ausreichend
@@ -112,7 +112,7 @@ Bei Leasingherausgabe: Häufig § 940 ZPO (Regelungsverfügung), wenn LN droht, 
 - § 945 ZPO (Schadenersatz bei unberechtigter Verfügung): https://www.gesetze-im-internet.de/zpo/__945.html
 - § 985 BGB (Herausgabeanspruch): https://dejure.org/gesetze/BGB/985.html
 - § 890 ZPO (Ordnungsgeld): https://www.gesetze-im-internet.de/zpo/__890.html
-- BGH XII ZR 36/06: https://www.bgh.de
+- Einstweiliger Rechtsschutz im Leasing nur mit konkret verifizierter Entscheidung zitieren
 - openjur.de einstweilige Verfügung Leasing: https://openjur.de
 
 ## Output-Formate
@@ -317,7 +317,7 @@ Konzentrationsmaß: Summe der quadrierten Marktanteile.
 - IFRS 9 (Finanzinstrumente): https://eur-lex.europa.eu
 - EBA/GL/2018/06 (NPL-Leitlinien): https://eur-lex.europa.eu
 - KWG § 25a (Risikomanagement): https://www.gesetze-im-internet.de/kredwg/__25a.html
-- BGH VIII ZR 36/06 (Restwert): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de
 
 ## Output-Formate
 

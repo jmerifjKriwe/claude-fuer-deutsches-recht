@@ -175,7 +175,7 @@ Achtung: Drei Wochen = 21 Tage, nicht drei Kalenderwochen mit flexiblem Ende.
 
 **Verlängerung der Frist:** Die Drei-Wochen-Frist kann nur dann länger dauern, wenn innerhalb der Frist ernsthafte und aussichtsreiche Sanierungsverhandlungen geführt werden. Dies ist eng auszulegen — Gerichte prüfen ex post sehr genau, ob die Sanierungsbemühungen tatsächlich aussichtsreich waren.
 
-**Maximale Gesamtfrist:** Auch bei laufenden Sanierungsverhandlungen gibt es keine unbegrenzte Verlängerung. Die absolute Höchstgrenze liegt bei drei Monaten (§ 15a Abs. 1 S. 2 InsO n.F.: "ohne schuldhaftes Zögern, spätestens aber drei Wochen").
+**Maximale Gesamtfrist:** Auch bei laufenden Sanierungsverhandlungen gibt es keine unbegrenzte Verlängerung. § 15a Abs. 1 S. 2 InsO verlangt den Antrag ohne schuldhaftes Zögern, spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit und spätestens sechs Wochen nach Eintritt der Überschuldung. Zahlungsunfähigkeit ist daher der rote Sofortfall; Überschuldung ist kein Drei-Monats-Fenster.
 
 ### 3. Strafrechtliche Sanktion — § 15a Abs. 4 InsO
 

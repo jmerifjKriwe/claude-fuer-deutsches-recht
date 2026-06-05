@@ -14,7 +14,7 @@ Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 018 Grundschuld Brief 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung` | Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen. |
-| `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu` | Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. |
+| `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu` | Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. |
 | `notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und` | Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten. |
 
 ## Arbeitsweg
@@ -112,7 +112,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu`
 
-**Fokus:** Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken.
+**Fokus:** Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken.
 
 # Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
 
@@ -120,7 +120,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 Das Notaranderkonto ist kein Standardinstrument, sondern ein Ausnahmefall. Dieser Skill führt durch die strengen Zulässigkeitsvoraussetzungen, die Verwahrungsanweisung, Auszahlungsbedingungen und die besondere Haftungsverantwortung des Notars.
 
-Rechtsgrundlagen: § 54a BeurkG (Verwahrungsgeschäfte), §§ 23–26 DONot (Notaranderkonto), § 57a BeurkG (Grundlagen Treuhand), § 14 BNotO (Amtspflichten), BeurkG § 17 (Belehrung), GNotKG KV Nr. 25300 ff. (Verwahrungsgebühren), § 3 GwG (GwG-Pflichten auch bei Verwahrung).
+Rechtsgrundlagen: § 54a BeurkG (Verwahrungsgeschäfte), § 57 BeurkG (Antrag auf Verwahrung), §§ 23–26 DONot (Notaranderkonto/Verwahrung), § 14 BNotO (Amtspflichten), BeurkG § 17 (Belehrung), GNotKG KV Nr. 25300 ff. (Verwahrungsgebühren), § 3 GwG (GwG-Pflichten auch bei Verwahrung).
 
 ## Zulässigkeit des Notaranderkontos (§ 54a BeurkG)
 

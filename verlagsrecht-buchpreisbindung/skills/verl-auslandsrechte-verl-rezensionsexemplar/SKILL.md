@@ -201,7 +201,7 @@ Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer.
  - Freiwillige Rezension ohne jede Absprache → keine Kennzeichnungspflicht.
 
 ### BGH-Rechtsprechung
-- BGH „Die Burg Schreckenstein" (I ZR 126/20): Instagram-Posts mit Produkt-Tags ohne Kennzeichnung = Schleichwerbung, auch wenn keine direkte Zahlung, wenn wirtschaftlicher Vorteil (kostenlose Übersendung) vorlag.
+- BGH, Urteil vom 09.09.2021 - I ZR 126/20: Influencer-/Instagram-Tap-Tag-Konstellation; Kennzeichnungspflichten hängen insbesondere von Gegenleistung, werblichem Überschuss und Erkennbarkeit des kommerziellen Zwecks ab. Nicht als „Burg Schreckenstein" oder pauschale Schleichwerbungsregel zitieren.
 - Kennzeichnung erforderlich bei: kostenlosen Produkten, Vergünstigungen, Reiseeinladungen.
 
 ### Vertragsgestaltung mit Influencern
@@ -237,7 +237,7 @@ Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer.
 - EStG § 37b: https://www.gesetze-im-internet.de/estg/__37b.html
 - UWG § 5a: https://dejure.org/gesetze/UWG/5a.html
 - TMG § 6: https://www.gesetze-im-internet.de/tmg/__6.html
-- BGH „Die Burg Schreckenstein" I ZR 126/20: https://www.bgh.de
+- BGH, Urteil vom 09.09.2021 - I ZR 126/20: Influencer-/Instagram-Tap-Tag-Konstellation; vor Zitat amtliche/frei zugängliche Quelle prüfen.
 - MStV § 22: https://www.gesetze-im-internet.de/mstv/
 
 ## Output-Formate

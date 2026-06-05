@@ -115,7 +115,7 @@ Finanzangaben nachvollziehbar und prueffest vorbereiten.
 2. Welche Kosten sind anteilig zuzuordnen?
 3. Welche Geschaeftsjahre und Rundungsstufen gelten im Portal?
 
-## Aufwendungsangabe § 3 I Nr. 7 LobbyRG
+## Aufwendungs- und Finanzangabe § 3 Abs. 1 Nr. 8 LobbyRG
 
 **Anzugeben** für das jeweilige letzte abgeschlossene **Geschäftsjahr**:
 
@@ -148,7 +148,7 @@ Eintrag im Portal erfolgt in Stufen, nicht punktgenau:
 4. **Anteilssatz** bei gemischter Tätigkeit: nachvollziehbar herleiten (z. B. Zeiterfassungssysteme, Schätzung mit Begründung, Dokumentation).
 5. **Geschäftsjahr** entsprechend Bilanzjahr; bei Vereinen / Stiftungen ggf. Kalenderjahr.
 
-## Pflichten zur Auftraggeber-Angabe § 3 I Nr. 8 LobbyRG
+## Pflichten zur Auftraggeber-Angabe § 3 Abs. 1 Nr. 9 LobbyRG
 
 - Bei **interessensvertretender Tätigkeit für Dritte** Auftraggeber namentlich angeben.
 - Bei Schutzbedarf: Anonymisierung beantragen (§ 4 LobbyRG, vgl. Skill `anonymisierung-schutzantrag`).
@@ -157,7 +157,7 @@ Eintrag im Portal erfolgt in Stufen, nicht punktgenau:
 
 - **Unter Schwelle 10.000 Euro**: dennoch Stufe 1 anzugeben — kein „kein Aufwand", sondern „bis 10.000 Euro".
 - **Beauftragte** zählen zum Aufwand des Auftraggebers — bei doppelter Eintragung Doppelzählung vermeiden.
-- **Aktualisierung** unverzüglich bei wesentlicher Änderung (z. B. Stufenwechsel) — § 3 II LobbyRG (innerhalb 30 Tagen).
+- **Aktualisierung** unverzüglich bei wesentlicher Änderung (z. B. Stufenwechsel) — § 3 Abs. 3 LobbyRG (innerhalb 30 Tagen).
 - **Anwaltliche Tätigkeit in Mandantenangelegenheit** ist regelmäßig nicht Interessenvertretung (§ 2 II Nr. 9 LobbyRG); jedoch politische Lobbyarbeit der Kanzlei für Wirtschaftsmandanten kann pflichtig sein.
 - **Branchenverband** zählt seine Gesamt-Aufwendungen für Interessenvertretung; nicht aufzuteilen auf Mitglieder.
 

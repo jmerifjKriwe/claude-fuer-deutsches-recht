@@ -282,7 +282,7 @@ Der **Rückruf wegen Nichtausübung** nach UrhG § 41 ist das wichtigste gesetzl
 
 - UrhG § 41: https://dejure.org/gesetze/UrhG/41.html
 - DSM-RL Art. 22: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
-- BGH „Rückruf wegen Nichtausübung" I ZR 15/16: https://www.bgh.de
+- § 41 UrhG / Rückruf wegen Nichtausübung nicht mit ungeprüften Fundstellen blind belegen. Als frei prüfbarer Anker kommt BGH, Urteil vom 26.03.2009 - I ZR 153/06 (Reifen Progressiv) in Betracht; vor Ausgabe stets Sachverhalt, Datum, Aktenzeichen und Quelle live verifizieren.
 - VerlG § 17: https://www.gesetze-im-internet.de/verlg/__17.html
 - OLG München (Rückruf E-Book-Recht, 2019): https://openjur.de
 

@@ -135,7 +135,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Spezialwissen: Vertragserstellung: Behörden-, Gerichts- oder Registerweg
 - **Spezialgegenstand:** Vertragserstellung: Behörden-, Gerichts- oder Registerweg / vertragserstellung behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** UG.
+- **Normen-/Quellenanker:** UG/GmbH ist Gesellschaftsform, keine Einzelquelle. Prüfe GmbHG §§ 5a, 7, 8, 16, 19, 55 ff.; BGB §§ 488 ff. und 311; ggf. WpPG/VermAnlG/KAGB, GwG, Steuerrecht und notarielle/registerrechtliche Anforderungen live.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

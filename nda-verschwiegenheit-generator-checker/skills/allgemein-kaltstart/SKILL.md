@@ -44,7 +44,7 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 
 ## Quellenhygiene
 
-Arbeite primär mit: GeschGehG §§ 2-5, 6-8, 10-13, 16-20, 23; HinSchG §§ 35-39; BGB §§ 133, 157, 305-310, 339-343, 307; HGB § 90; StGB § 203; DSGVO Art. 5, 6, 28, 32.
+Arbeite primär mit: § 2 GeschGehG als Definitionskern, GeschGehG §§ 3-5 für erlaubte Handlungen/Ausnahmen, §§ 6-13 für Ansprüche, §§ 16-20 für gerichtlichen Geheimnisschutz und § 23 für Strafbarkeit. Dazu HinSchG §§ 35-39, BGB §§ 133, 157, 305-310, 339-343, HGB § 90 sowie DSGVO Art. 5, 6, 26, 28, 32. § 203 StGB ist kein allgemeiner NDA-Hauptanker, sondern nur für Berufsgeheimnisträger und deren berufsspezifische Geheimnisse tragend; Art. 28 DSGVO nur, wenn der Empfänger personenbezogene Daten als Auftragsverarbeiter verarbeitet.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
 

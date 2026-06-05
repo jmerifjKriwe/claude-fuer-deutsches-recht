@@ -87,7 +87,7 @@ Schadensersatz = Ausstehende Raten (abgezinst) - Verwertungserlös - Ersparte Au
 
 ### Abzinsungspflicht
 - Ausstehende Raten müssen abgezinst werden (Zeitwert des Geldes)
-- BGH VIII ZR 13/06: LG darf nicht den nominalen Summenwert der Raten fordern
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06: LG darf nicht den nominalen Summenwert der Raten fordern
 
 ### Ersparte Aufwendungen
 - Verwaltungskosten für Weiterführung
@@ -121,7 +121,7 @@ Schadensersatz = Ausstehende Raten (abgezinst) - Verwertungserlös - Ersparte Au
 - § 229 BGB (Selbsthilfe): https://dejure.org/gesetze/BGB/229.html
 - §§ 935 ff. ZPO: https://www.gesetze-im-internet.de/zpo/__935.html
 - § 309 Nr. 5 BGB (Pauschale): https://dejure.org/gesetze/BGB/309.html
-- BGH VIII ZR 13/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
 - openjur.de Leasingkündigung: https://openjur.de
 
 ## Output-Formate
@@ -228,7 +228,7 @@ Voraussetzungen:
 - § 55 InsO (Masseverbindlichkeiten): https://www.gesetze-im-internet.de/inso/__55.html
 - § 21 InsO (vorläufige Insolvenzverwaltung): https://www.gesetze-im-internet.de/inso/__21.html
 - § 174 InsO (Forderungsanmeldung): https://www.gesetze-im-internet.de/inso/__174.html
-- BGH IX ZR 220/98: https://www.bgh.de
+- BGH-Rechtsprechung zu Sanierungsbeitrag und Anfechtungsrisiko nur nach Livecheck mit Gericht, Datum, Aktenzeichen und Quelle zitieren
 
 ## Output-Formate
 

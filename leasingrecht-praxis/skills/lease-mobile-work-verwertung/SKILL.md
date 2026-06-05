@@ -148,7 +148,7 @@ Nach der Kündigung des Leasingvertrags muss der Leasinggeber das zurückgeholte
 ### Grundsatz
 § 254 BGB: Der Geschädigte (LG) muss zumutbare Maßnahmen ergreifen, um den Schaden zu begrenzen. Bei der Verwertung eines Leasingobjekts bedeutet dies: **Bestmögliche Verwertung zum erziel­baren Marktpreis**.
 
-**BGH VIII ZR 13/06**: LG muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen; fehlt die Anrechnung in der AGB-Klausel, ist diese unwirksam.
+**BGH, Urteil vom 14.03.2007 - VIII ZR 68/06**: LG muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen; fehlt die Anrechnung in der AGB-Klausel, ist diese unwirksam.
 
 ### Folgen bei mangelhafter Verwertung
 - LN kann niedrigen Erlös anfechten: „LG hat nicht bestmöglich verwertet"
@@ -231,7 +231,7 @@ Gesamtforderung LG:
 ## Normen und Quellen
 
 - § 254 BGB (Schadensminderungspflicht): https://dejure.org/gesetze/BGB/254.html
-- BGH VIII ZR 13/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
 - § 309 Nr. 5 BGB (Pauschale): https://dejure.org/gesetze/BGB/309.html
 - § 195 BGB (Verjährung): https://dejure.org/gesetze/BGB/195.html
 - openjur.de Leasingverwertung: https://openjur.de

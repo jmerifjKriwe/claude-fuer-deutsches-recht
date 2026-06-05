@@ -51,9 +51,9 @@ Auf Beanstandungen schnell, geordnet und nachweisorientiert reagieren.
 Verstöße gegen § 7 I LobbyRG sind ordnungswidrig, geahndet mit Geldbuße bis **50.000 Euro**:
 
 - Nr. 1: **vorsätzlich oder fahrlässig** entgegen § 3 I LobbyRG keine, unrichtige, unvollständige oder nicht rechtzeitige Registrierung.
-- Nr. 2: vorsätzlich oder fahrlässig entgegen § 3 II LobbyRG keine, unrichtige, unvollständige oder nicht rechtzeitige Aktualisierung.
-- Nr. 3: vorsätzlich oder fahrlässig entgegen § 5 LobbyRG dem Verhaltenskodex nicht entsprochen (z. B. Unidentitätstäuschung, Schein-Vorgaben).
-- Nr. 4: vorsätzlich oder fahrlässig entgegen § 6 LobbyRG Tatsachen über Aufwendungen / Auftraggeber nicht / falsch / nicht rechtzeitig angegeben.
+- Nr. 2: vorsätzlich oder fahrlässig entgegen § 2 Abs. 5 Satz 2 LobbyRG bei freiwilliger Eintragung Angaben nicht richtig oder nicht vollständig einträgt.
+- Nr. 3: vorsätzlich oder fahrlässig entgegen § 3 Abs. 3 Satz 2 LobbyRG Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert.
+- Nr. 4: vorsätzlich oder fahrlässig entgegen § 4 Abs. 2 Satz 2 LobbyRG die jährliche Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
 ## Prüfverfahren durch registerführende Stelle (§ 5 III, § 8 LobbyRG)
 
@@ -72,8 +72,8 @@ Verstöße gegen § 7 I LobbyRG sind ordnungswidrig, geahndet mit Geldbuße bis 
 
 ## Praxisfallen
 
-- **Unverzügliche Aktualisierung** § 3 II LobbyRG: innerhalb von **30 Tagen** (so § 3 II 2 LobbyRG nF) nach Eintritt der Änderung.
-- **Aufwendungsangabe** § 6 LobbyRG: jährlich; Korridore (10.000-Euro-Stufen bis 100.000, 50.000-Euro-Stufen darüber).
+- **Unverzügliche Aktualisierung** § 3 Abs. 3 LobbyRG: innerhalb von **30 Tagen** nach Eintritt der Änderung.
+- **Aufwendungs-/Finanzangabe** § 3 Abs. 1 Nr. 8 LobbyRG: jährlich; Korridore und Kategorien vor jeder Ausgabe in der aktuellen Fassung live prüfen.
 - **Schweigen ist nicht Lösung**: Ohne Stellungnahme drohen höhere Bußgelder und Eintragung im Register als „nicht kooperativ".
 - **Verhaltenskodex** §§ 5 LobbyRG (Anlage 2 LobbyRG): Verstoß kann eigenständige OWi sein, auch ohne Falschangabe (Identitätsverschleierung, Bevorteilungsversprechen).
 - **Doppelahndung**: Bei gleichzeitigem PartG-Verstoß (Spende, § 25 PartG) eigenständige Sanktion möglich.

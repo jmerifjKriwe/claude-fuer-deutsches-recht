@@ -237,7 +237,7 @@ CNC-Maschinen (Computer Numerical Control) sind hochpräzise Fertigungsanlagen m
 - DIN ISO 230 (Maschinengenauigkeit): https://www.din.de
 - VDI 3441 (Statistische Genauigkeitsprüfung): https://www.vdi.de
 - EU-Maschinenverordnung VO 2023/1230: https://eur-lex.europa.eu
-- BGH VIII ZR 256/06: https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12: https://www.bgh.de
 
 ## Output-Formate
 

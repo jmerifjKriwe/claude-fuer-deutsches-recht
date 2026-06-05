@@ -30,6 +30,7 @@ Dieses Plugin ist der allgemeine Verschwiegenheitsvereinbarungs-Generator und Ch
 - Aktuelle Normen aus Gesetze-im-Internet, EUR-Lex und amtlichen Registern live prüfen, wenn sie tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- **Normlogik:** Der Primäranker für Geschäftsgeheimnisse ist § 2 GeschGehG (Geheimnisqualität, wirtschaftlicher Wert, angemessene Schutzmaßnahmen). §§ 16-20 GeschGehG sind wichtig für gerichtlichen Geheimnisschutz, aber nicht die Definition. § 203 StGB nur als Sonderanker für Berufsgeheimnisträger verwenden. DSGVO Art. 28 nur anziehen, wenn tatsächlich Auftragsverarbeitung vorliegt; sonst Art. 5, 6, 26 DSGVO und ggf. BDSG/Arbeitsrecht prüfen.
 
 ## Lizenz
 

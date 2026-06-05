@@ -228,7 +228,7 @@ Die Rückgabe eines Leasingobjekts ist der kritischste Moment in der Vertragsbez
 - BGH VIII ZR 172/05 (normale Abnutzung): https://www.bgh.de
 - § 307 BGB (AGB Inhaltskontrolle): https://dejure.org/gesetze/BGB/307.html
 - openjur.de Rückgabe-Rechtsprechung: https://openjur.de
-- BGH VIII ZR 36/06 (Restwert): https://www.bgh.de
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de
 
 ## Output-Formate
 
@@ -280,7 +280,7 @@ Netzwerkequipment (Router, Switches, Access Points, Firewalls) ist ein wachsende
 
 ### Löschverfahren
 - Factory Reset: Stellt Auslieferungszustand her; löscht Konfiguration und Logs
-- Zertifizierte Datenlöschung: DIN 66399 Level für Unternehmensdaten
+- Zertifizierte Datenlöschung: DIN 66399 als technischer Vernichtungs-/Schutzklassenstandard prüfen; ergänzend Lösch- und Nachweisprozess vertraglich festlegen.
 - Klausel im Leasingvertrag: „LN verpflichtet sich, vor Rückgabe einen Factory Reset durchzuführen und dies zu dokumentieren."
 
 ## EOL (End of Life) und Sicherheitsrisiken
@@ -329,7 +329,7 @@ Netzwerkequipment (Router, Switches, Access Points, Firewalls) ist ein wachsende
 - § 90 BGB (körperliche Sache): https://dejure.org/gesetze/BGB/90.html
 - Art. 5 I f DSGVO (Datenschutz): https://eur-lex.europa.eu
 - EuGH C-582/14 (IP-Adresse als personenbezogenes Datum): https://eur-lex.europa.eu
-- DIN 66399 (Datenvernichtung): https://www.gesetze-im-internet.de
+- DIN 66399 (Daten- und Datenträgervernichtung; Normquelle nicht bei Gesetze im Internet): https://www.dinmedia.de
 - BSI IT-Grundschutz: https://www.bsi.bund.de
 - BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
 

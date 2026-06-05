@@ -32,7 +32,7 @@ Für **Datenpunkt Dokumentenmatrix Und Lueckenliste, Dokument Behörden Gericht 
 
 ## Spezialwissen: Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Spezialgegenstand:** Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung / datenpunkt dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Dokument: Behörden-, Gerichts- oder Registerweg
 - **Spezialgegenstand:** Dokument: Behörden-, Gerichts- oder Registerweg / dokument behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Excel: Beweislast, Darlegungslast und Substantiierung
 - **Spezialgegenstand:** Excel: Beweislast, Darlegungslast und Substantiierung / excel beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

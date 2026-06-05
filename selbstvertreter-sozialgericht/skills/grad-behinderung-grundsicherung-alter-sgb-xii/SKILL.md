@@ -468,6 +468,10 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
+## Rechtsweg-Warnung
+
+Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach der AO angegriffen; der gerichtliche Weg führt regelmäßig zum **Finanzgericht**, nicht zum Sozialgericht. BKGG-Sonderfälle können sozialrechtlich wirken, müssen aber sauber getrennt werden. Deshalb zuerst Anspruchsgrundlage (EStG oder BKGG) und Rechtsbehelfsbelehrung lesen.
+
 
 ## Anspruchsgrundlagen
 

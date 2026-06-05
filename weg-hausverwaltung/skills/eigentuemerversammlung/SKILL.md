@@ -35,7 +35,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Materielle Weichen Eigentuemerversammlung
-- **Einberufung:** § 24 WEG. Mindestfrist zwei Wochen (§ 24 Abs. 4 S. 2 WEG) zwischen Zugang und Versammlung; Einladung mit Tagesordnung, Ort, Zeit. Bei Verstoß: Anfechtbarkeit des Beschlusses (§ 23 Abs. 4 WEG).
+- **Einberufung:** § 24 WEG. Mindestfrist grundsätzlich drei Wochen (§ 24 Abs. 4 S. 2 WEG), sofern kein Fall besonderer Dringlichkeit vorliegt zwischen Zugang und Versammlung; Einladung mit Tagesordnung, Ort, Zeit. Bei Verstoß: Anfechtbarkeit des Beschlusses (§ 23 Abs. 4 WEG).
 - **Beschlussfähigkeit nach Reform 2020:** § 25 Abs. 1 WEG: jede ordnungsgemäß einberufene Versammlung ist beschlussfähig. Das frühere Quorum (mehr als die Hälfte der MEA anwesend) entfällt seit 01.12.2020.
 - **Mehrheitsverhältnisse:** Einfache Mehrheit der abgegebenen Stimmen (§ 25 Abs. 1 WEG) ist der Default. Ausnahmen: bauliche Veränderung mit Kostenverteilung auf Nicht-Zustimmende braucht doppelt qualifizierte Mehrheit (§ 21 Abs. 2 WEG: zwei Drittel der abgegebenen Stimmen und mehr als die Hälfte der MEA).
 - **Vertretung:** Stimmrechtsvollmacht zulässig (§ 25 Abs. 3 WEG); Vereinbarung in Gemeinschaftsordnung kann sie beschränken. Bei Beschränkung auf andere Eigentümer/Beirat/Verwalter: Praxis sollte Vollmachtsformular im Einladungsbrief mitsenden.

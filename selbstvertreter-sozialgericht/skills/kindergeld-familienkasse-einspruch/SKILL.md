@@ -11,6 +11,10 @@ description: "Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
+## Rechtsweg-Warnung
+
+Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach der AO angegriffen; der gerichtliche Weg führt regelmäßig zum **Finanzgericht**, nicht zum Sozialgericht. BKGG-Sonderfälle können sozialrechtlich wirken, müssen aber sauber getrennt werden. Deshalb zuerst Anspruchsgrundlage (EStG oder BKGG) und Rechtsbehelfsbelehrung lesen.
+
 ## Anspruchsgrundlagen
 
 - Kindergeld nach EStG (§§ 62 ff.) — Steuerprivileg.

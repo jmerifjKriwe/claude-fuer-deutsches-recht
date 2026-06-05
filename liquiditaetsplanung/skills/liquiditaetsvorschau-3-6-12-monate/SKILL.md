@@ -24,7 +24,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
 2. **Automatische Insolvenzreife-Ampel** für jede Woche:
  - **Grün**: Liquide Mittel > 110 % der in der Folgewoche fällig werdenden Verbindlichkeiten.
  - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - **Livecheck:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; die Ampel selbst funktioniert zunächst mit Zahlen und Normtext.
 
 3. **Fortbestehens- und Sanierungsbrücke**: 12-Monats-Auswertung für § 19 InsO plus Übergabe in eine Sanierungsplanung auf IDW-S-6-Niveau. Die Liquiditätsvorschau allein ist noch kein Sanierungskonzept; sie muss bei Bedarf mit GuV, Planbilanz, Maßnahmenlog und Leitbild verzahnt werden.
 
@@ -81,17 +81,12 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 - **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
 - **§ 1 StaRUG – Krisenfrüherkennung**: Pflicht der Geschäftsleitung zur fortlaufenden Krisenüberwachung; Frühwarnsystem mit 24-Monats-Horizont.
 
-### Leitentscheidungen (Stand Mai 2026, vor Verwendung Aktenzeichen über dejure.org/openjur.de live verifizieren)
+### Leitentscheidungen (Stand Mai 2026, vor Verwendung über amtliche/freie Quelle live verifizieren)
 
-1. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft (§ 142 Abs. 1 Hs. 2 InsO); Relevanz für Anfechtungsrisiken bei Liquiditätsplanung in der Krise. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-2. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung darzulegen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-3. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (§ 823 II BGB iVm § 15a InsO). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-4. **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
-5. **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
-6. Konkrete BGH-Linien zur Liquiditätsbilanz (10-%-Schwelle, Aktiva II / Passiva II) vor Ausgabe über offene Quellen verifizieren.
-7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-8. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-9. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. **BGH, Urteil vom 24.05.2005 - IX ZR 123/04** — Abgrenzung Zahlungsstockung/Zahlungsunfähigkeit; Liquiditätslücke von 10 Prozent oder mehr regelmäßig kritisch, wenn sie nicht kurzfristig nahezu vollständig geschlossen werden kann.
+2. **BGH, Urteil vom 19.12.2017 - II ZR 88/16** — Liquiditätsstatus und Liquiditätsbilanz; Einbeziehung der innerhalb von drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten (Passiva II).
+3. **BGH, Urteil vom 28.06.2022 - II ZR 112/21** — Darlegung der Zahlungsunfähigkeit mit geordneter Liquiditätsgegenüberstellung und Buchhaltungsunterlagen; Belege und Zahlenbasis wichtiger als Scheingenauigkeit.
+4. **Livecheck-Regel:** keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer/Sachverhalt und tragende Aussage über `bundesgerichtshof.de`, `dejure.org` oder eine Nutzerquelle verifizieren.
 
 Zitierweise: Pinpoint mit Randnummer; jüngere BGH-Entscheidungen zuerst; keine US-stare-decisis-Logik; keine pretrial discovery.
 
@@ -140,12 +135,12 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
  5. **Integrierte Planung:** GuV, Planbilanz und Liquidität; Working Capital, Steuern, Zinsen, Tilgung, Mindestliquidität.
  6. **Szenarien:** Base Case und plausible Downside; bei hoher Unsicherheit weitere Sensitivitäten.
  7. **Ergebnis:** positive/negative Fortbestehensprognose und getrennt davon tragfähige/nicht tragfähige Sanierungsfähigkeit.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 
 Wenn ein Sanierungskonzept oder eine Bankunterlage gewünscht ist, nach dem Excel-Export an `idw-s6-integrierte-sanierungsplanung` übergeben. Die Vorschau liefert dann die Cash-Seite, nicht die gesamte Sanierungsbegründung.
 
 **Schritt 6 – Abgrenzung handelsbilanzielle vs. insolvenzrechtliche Überschuldung**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 - Qualifizierter Rangrücktritt (§ 39 Abs. 2 InsO) eliminiert Verbindlichkeit aus dem Status.
 - Stille Reserven (insb. Sachanlagen, selbst erstellte immaterielle WG) sind zu aktivieren.
 - Stille Lasten (Rückstellungsbedarf, Prozessrisiken, Bürgschaften) sind anzusetzen.
@@ -162,7 +157,7 @@ Erst nach Auslieferung der Vorschau anbieten:
 
 > Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Subsumtion nach §§ 17, 19 InsO erstellen?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 
 ## Ausgabeformat
 
@@ -178,20 +173,18 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Gutachtenstil**:
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Die Prüfung stützt sich auf die BGH-Linie zur Liquiditätslücke, zum Drei-Wochen-Zeitraum und zu Passiva II; konkrete Zitate werden erst nach Livecheck ausgegeben.
 
 *Handlungsempfehlung*: Antragspflicht 3 Wochen ab Eintritt § 17 InsO (KW 22) bzw. 6 Wochen ab § 19 InsO. Parallel Prüfung StaRUG-Restrukturierungsrahmen nur möglich bei rein **drohender** Zahlungsunfähigkeit – nicht mehr eröffnet, wenn § 17 InsO bereits eingetreten ist. Hinweis nach § 102 StaRUG durch beauftragten Steuerberater zu erteilen.
 
 ## Risiken und typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 - **3-Wochen-Frist statisch rechnen**: Die Frist läuft ab dem **Eintritt** der Zahlungsunfähigkeit, nicht ab Erstellung des Liquiditätsplans.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 - **Kreditlinien unkritisch ansetzen**: Nur **zugesagte und ziehungsfähige** Linien zählen; gekündigte oder ausgeschöpfte Linien nicht.
 - **Großaufträge ohne Zahlungseingangsrisiko ansetzen**: Realistische Annahmen mit Ausfall- und Skonto-Quoten; immer Sensitivität (Worst Case).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; wenn der konkrete Nachweis nicht live geprüft ist, als Prüfpunkt markieren.
 - **USt- und LSt-Rückstände kleinreden**: Diese sind starke Insolvenzindizien und führen oft zur Anzeige durch Finanzamt/Krankenkasse (§ 15a Abs. 4 InsO).
 - **Personalkosten unterschätzen**: Lohn + AG-Anteil SV + KK-Beiträge = ca. 1,28× Bruttolohn; monatliche Drittellast SV-Beiträge.
 - **SanInsKG-Stand übersehen**: Prognosehorizont § 19 InsO war zwischen 09.11.2022 und 31.12.2023 auf 4 Monate verkürzt. Seit 01.01.2024 gilt wieder der reguläre Prognosezeitraum von 12 Monaten. Stand Mai 2026: keine erneute Verkürzung in Kraft. Am Bewertungsstichtag dennoch verifizieren.

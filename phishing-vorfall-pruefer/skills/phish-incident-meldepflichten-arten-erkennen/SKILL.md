@@ -32,7 +32,7 @@ Für **Phish Incident Triage Bauleiter, Phish Meldepflichten Leitfaden, Phishing
 
 ## Spezialwissen: Phish: Incident-Triage
 - **Spezialgegenstand:** Phish: Incident-Triage / phish incident triage bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** IT.
+- **Normen-/Quellenanker:** DSGVO Art. 5, 6, 32, 33, 34; BSI-/NIS2-Anforderungen je Betroffenheit; StGB §§ 202a ff., 263a; BGB §§ 280, 823; interne IT-Sicherheitsrichtlinien und Incident-Response-Logs.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -138,7 +138,7 @@ Dieser Skill gehoert zum Plugin `phishing-vorfall-pruefer`. Er ergaenzt die uebr
 
 ## Spezialwissen: Phishing-Arten erkennen
 - **Spezialgegenstand:** Phishing-Arten erkennen / phishing arten erkennen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** SMS.
+- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w; ZAG/PSD2; DSGVO Art. 33, 34; StGB §§ 263, 263a, 269; Nachweise zu SMS-TAN, SIM-Swap, Rufnummernportierung und Providerlogs.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

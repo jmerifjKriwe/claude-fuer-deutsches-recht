@@ -50,7 +50,7 @@ Entscheiden, ob freiwillige Registrierung strategisch und organisatorisch tragfa
 
 - **Pro:** Zugang zu BT-Anhörungen (Verbändeanhörung, § 70 Abs. 1 GO-BT i. V. m. Verhaltensrichtlinien), Sichtbarkeit bei Ministerien, Pressewahrnehmbarkeit, "transparency by default".
 - **Contra:** Volle Pflichten aus § 3 LobbyRG: Stammdaten, Auftraggeber/Mitglieder, Schwerpunktthemen, jährlicher Tätigkeitsbericht und Finanzdaten — auch wenn nicht eintragungspflichtig.
-- **Aktualisierungspflicht (§ 4 LobbyRG):** Unverzüglich nach Änderung (regelmäßige Praxis: 4 Wochen); jährlich umfassend (zum Stichtag, regelmäßig 31.12.); Finanzdaten innerhalb von 6 Monaten nach Geschäftsjahresende.
+- **Aktualisierungspflicht (§ 3 Abs. 3 LobbyRG) und Jahresbestätigung (§ 4 Abs. 2 LobbyRG):** Änderungen innerhalb von 30 Tagen; jährliche Bestätigung und Finanzdaten nach aktueller Portal-/Gesetzeslage prüfen.
 - **Verhaltenskodex (§ 5 LobbyRG):** Unterwerfung als Voraussetzung; Verstoß führt zur Veröffentlichung und ggf. Sanktion (§ 7 LobbyRG bis 50.000 Euro).
 - **Praxis-Hinweis:** Freiwillige Registrierung ist organisationspolitisch oft sinnvoll, aber Compliance-Aufwand realistisch kalkulieren (mind. 20–40 Std/Jahr je nach Größe); Verantwortlichkeit benennen (interne Lobbyregister-Beauftragte).
 - **Frist-Trigger:** Beitragsjahr und Stichtage in den Compliance-Kalender; Kommunikation mit Auftraggebern und Spitzenpersonen vor jedem Update.

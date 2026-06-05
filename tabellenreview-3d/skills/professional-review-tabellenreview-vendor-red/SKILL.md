@@ -71,7 +71,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Spezialwissen: Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel
 - **Spezialgegenstand:** Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel / tabellenreview erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Spezialwissen: Vendor: Red-Team und Qualitätskontrolle
 - **Spezialgegenstand:** Vendor: Red-Team und Qualitätskontrolle / vendor red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DD.
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 

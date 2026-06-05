@@ -14,7 +14,7 @@ Dieser Arbeitsbereich führt die Teilfragen zu **Zitat Bgh Entscheidung, Zitat B
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `zitat-bgh-entscheidung` | BGH-Entscheidung korrekt zitieren: Senat, Datum, Aktenzeichen, Fundstelle. Beispiel BGH, Urt. v. 11.04.2024 III ZR 168 aus 23, BGHZ 240 S. 1 = NJW 2024 S. 1832. Bei wichtiger Linie: Vor- und Folgeentscheidungen ergaenzen. |
-| `zitat-bverfg-entscheidung` | BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. Beispiel BVerfG, Urt. v. 17.01.2024 1 BvR 1841 aus 23, BVerfGE 167 S. 1. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend. |
+| `zitat-bverfg-entscheidung` | BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, amtliche Fundstelle nur nach Prüfung, ggf. Kammerbeschluss. Beispiel ohne ungeprüfte Band-/Seitenzahl: BVerfG, Urt. v. 17.01.2024 - 1 BvR 1841/23. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend. |
 | `zitat-gesetz-verordnung` | Gesetz/Verordnung zitieren: Norm-Bezeichnung, ggf. § und Absatz. Beispiel § 17 InsO, § 311 Abs. 2 BGB, Art. 26 DSGVO. Bei zeitlicher Bezugnahme: § X i. d. F. v. JJJJ. |
 
 ## Arbeitsweg
@@ -78,7 +78,7 @@ Dieser Skill gehoert zum Plugin `zitierweise-deutsches-recht`. Er ergaenzt die u
 
 ## 2. `zitat-bverfg-entscheidung`
 
-**Fokus:** BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. Beispiel BVerfG, Urt. v. 17.01.2024 1 BvR 1841 aus 23, BVerfGE 167 S. 1. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend.
+**Fokus:** BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, amtliche Fundstelle nur nach Prüfung, ggf. Kammerbeschluss. Beispiel ohne ungeprüfte Band-/Seitenzahl: BVerfG, Urt. v. 17.01.2024 - 1 BvR 1841/23. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtannahmebeschluss' wenn zutreffend.
 
 # BVerfG-Entscheidung zitieren
 

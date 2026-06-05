@@ -37,7 +37,7 @@ Diebstahl und Totalschaden sind im Leasingrecht besonders heikel: Der Leasingneh
 ## Gefahrtragung: Wer trägt den Untergang?
 
 ### Finanzierungsleasing (Regelfall)
-- BGH VIII ZR 71/93 und VIII ZR 279/06: LN trägt Untergangsrisiko
+- BGH-Linie zur Gefahrabwälzung bei Leasingverträgen live prüfen; als frei prüfbarer Anker kommt BGH, Urteil vom 15.07.1998 - VIII ZR 348/97 in Betracht
 - Auch zufälliger Untergang: LN haftet
 - Ausnahme: LG hat durch Pflichtverletzung zum Untergang beigetragen
 
@@ -143,8 +143,8 @@ Die Unterscheidung zwischen **Finanzierungsleasing** und **Operating-Lease** ist
 Der BGH unterscheidet nach dem **Amortisationsrisiko**: Beim Finanzierungsleasing trägt der Leasingnehmer (LN) das volle Investitionsrisiko; der Leasinggeber (LG) übernimmt lediglich die Finanzierungsfunktion. Beim Operating-Lease verbleibt das Verwertungsrisiko beim LG.
 
 Leitentscheidungen:
-- BGH VIII ZR 279/06: Finanzierungsleasing als atypischer Mietvertrag mit Finanzierungsfunktion
-- BGH IX ZR 220/98: Abgrenzung Vollamortisation zu Operating-Lease
+- BGH, Urteil vom 04.02.2004 - XII ZR 301/01: Finanzierungsleasing als atypischer Mietvertrag; Finanzierungsfunktion im konkreten Vertrag prüfen
+- Abgrenzung Vollamortisation, Teilamortisation und Operating-Lease nicht mit ungeprüfter Altentscheidung belegen; BGH-/BMF-Anker live prüfen und Vertragskalkulation aus der Akte herleiten.
 - BGH XII ZR 18/08: Kfz-Leasing, Restwert, Andienungsrecht
 
 ### BMF-Leasingerlasse
@@ -199,7 +199,7 @@ Beim **Leasinggeber** bleibt die Unterscheidung erhalten (IAS 17 für LG transfo
 - BMF-Schreiben 19.04.1971 (Vollamortisation): https://www.bundesfinanzministerium.de
 - BMF-Schreiben 22.12.1975 (Teilamortisation): https://www.bundesfinanzministerium.de
 - IFRS 16 (EU-konsolidierte Fassung): https://eur-lex.europa.eu
-- BGH VIII ZR 279/06: https://www.bgh.de
+- BGH, Urteil vom 04.02.2004 - XII ZR 301/01: https://www.bgh.de
 - BFH IX R 14/15 (Leasingerlass): https://www.bfh.de
 
 ## Output-Formate
@@ -247,7 +247,7 @@ IT-Leasing umfasst Hardware (Server, Netzwerktechnik, Endgeräte), Softwarelizen
 
 ### Datenvernichtung bei Rückgabe
 - Hardware enthält Daten des LN (§ 17 DSA; §§ 5, 13 DSGVO)
-- Vertragsklausel erforderlich: Zertifizierte Datenlöschung vor Rückgabe (DIN 66399 oder ähnlich)
+- Vertragsklausel erforderlich: zertifizierte Datenlöschung vor Rückgabe (z. B. DIN-66399-orientierter Vernichtungs-/Nachweisprozess oder gleichwertige technische Löschmethode)
 - Fehlende Regelung → Datenschutzrisiko für LN
 
 ## Steuerliche Behandlung
@@ -297,7 +297,7 @@ IT-Leasing umfasst Hardware (Server, Netzwerktechnik, Endgeräte), Softwarelizen
 - Art. 28 DSGVO (Auftragsverarbeitung): https://eur-lex.europa.eu
 - BGH XII ZR 65/09 (Software-Überlassung): https://www.bgh.de
 - BMF-AfA-Tabellen IT-Wirtschaftsgüter: https://www.bundesfinanzministerium.de
-- DIN 66399 (Datenvernichtung): https://www.gesetze-im-internet.de
+- DIN 66399 (Daten- und Datenträgervernichtung; Normquelle nicht bei Gesetze im Internet): https://www.dinmedia.de
 
 ## Output-Formate
 

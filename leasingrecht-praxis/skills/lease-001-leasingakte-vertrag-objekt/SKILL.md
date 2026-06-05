@@ -71,7 +71,7 @@ Einschlägige Normen:
 - §§ 108, 109 InsO: https://www.gesetze-im-internet.de/inso/__108.html
 - BMF-Leasingerlass 1971 (Vollamortisation): https://www.bundesfinanzministerium.de
 - IFRS 16 (konsolidiert): https://eur-lex.europa.eu
-- BGH VIII ZR 279/06 (Leasingvertrag atypischer Mietvertrag): https://www.bgh.de
+- BGH, Urteil vom 04.02.2004 - XII ZR 301/01 (Finanzierungsleasing als atypischer Mietvertrag; live prüfen): https://www.bgh.de
 
 ## Typische Fallen
 

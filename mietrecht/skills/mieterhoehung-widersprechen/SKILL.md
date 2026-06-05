@@ -203,7 +203,7 @@ In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhält
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
-- **BGH 18.11.2020, VIII ZR 123/20** (Berliner Mietendeckel): § 556d BGB / Mietpreisbremse — unionsrechtskonforme Auslegung; Vermieter muss bei Verstoss zurueckzahlen. Quelle: dejure.org/2020,42367.
+- **Berliner Mietendeckel nicht als BGH-Mietrecht zitieren:** Die Kompetenzfrage wurde durch BVerfG, Beschluss vom 25.03.2021 - 2 BvF 1/20, entschieden. Für Mietpreisbremse/Rückzahlung nach §§ 556d ff. BGB immer eine gesondert verifizierte BGH-Entscheidung mit Datum und Aktenzeichen heranziehen.
 - **BVerfG 25.03.2021, 2 BvF 1/20, 2 BvL 4/20, 2 BvL 5/20** (Berliner Mietendeckel-Beschluss): Landesrechtlicher Mietendeckel (Berlin) ist mangels Gesetzgebungskompetenz des Landes verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
 - **BGH 28.04.2021, VIII ZR 22/20**: Qualifizierter Mietspiegel — Anforderungen an wissenschaftliche Erstellung; Erschuetterung der Vermutungswirkung nur bei substantiierten Maengeln des Mietspiegel-Erstellungsverfahrens. Quelle: dejure.org/2021,15412.
 - **BGH 18.03.2020, VIII ZR 64/19** (Bauwerksmaengel als Mietminderungsgrund — vor Mieterhoehungsausgleich pruefen): Erhebliche Maengel mindern auch die Bezugsbasis der Vergleichsmiete. Quelle: dejure.org/2020,4895.

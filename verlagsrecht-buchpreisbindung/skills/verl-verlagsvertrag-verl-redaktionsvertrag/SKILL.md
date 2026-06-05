@@ -117,7 +117,7 @@ Dieser Skill analysiert den Verlagsvertrag nach seinen **synallagmatischen Haupt
 
 - VerlG: https://www.gesetze-im-internet.de/verlg/
 - UrhG §§ 31, 41, 42: https://dejure.org/gesetze/UrhG/41.html
-- BGH, Urt. v. 23.02.2017 – I ZR 15/16 (Rückrufrecht Nichtausübung): https://www.bgh.de
+- § 41 UrhG / Rückruf wegen Nichtausübung nicht mit ungeprüften Fundstellen blind belegen. Als frei prüfbarer Anker kommt BGH, Urteil vom 26.03.2009 - I ZR 153/06 (Reifen Progressiv) in Betracht; vor Ausgabe stets Sachverhalt, Datum, Aktenzeichen und Quelle live verifizieren.
 - OLG Frankfurt, Urt. v. 04.11.2014 – 11 U 75/13 (Verlagsvertrag Erscheinungspflicht): https://openjur.de
 
 ## Output-Formate

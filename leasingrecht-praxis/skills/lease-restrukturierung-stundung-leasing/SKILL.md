@@ -117,7 +117,7 @@ Gerät der Leasingnehmer in finanzielle Schwierigkeiten, ist eine einvernehmlich
 - § 39 InsO (Nachrangforderungen): https://www.gesetze-im-internet.de/inso/__39.html
 - § 3a EStG (Sanierungsgewinn): https://www.gesetze-im-internet.de/estg/__3a.html
 - IDW S6 (Sanierungsgutachten): https://www.idw.de
-- BGH IX ZR 220/98: https://www.bgh.de
+- BGH-Rechtsprechung zu Sanierungsbeitrag und Anfechtungsrisiko nur nach Livecheck mit Gericht, Datum, Aktenzeichen und Quelle zitieren
 
 ## Output-Formate
 
@@ -166,7 +166,7 @@ IDW S6 (Stand 2018) gliedert das Sanierungsgutachten in:
 - Wenn zu hoch (z.B. in Boomzeiten abgeschlossen): Neuverhandlung möglich?
 
 ### Kündbarkeit und Exit-Optionen
-- Vorzeitige Kündigung: Schadensersatz nach BGH VIII ZR 13/06 (Abzinsungspflicht)
+- Vorzeitige Kündigung: Schadensersatz nach BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Abzinsungspflicht)
 - Sale-and-Lease-Back: Rückgabe und Neuleasing zu günstigeren Konditionen?
 - Rückgabe nicht mehr benötigter Anlagegüter: Fristige Kündigung bei Änderung des Leasinggegenstands
 
@@ -221,7 +221,7 @@ Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswi
 - § 285 Nr. 3a HGB (Anhang): https://www.gesetze-im-internet.de/hgb/__285.html
 - IFRS 16: https://eur-lex.europa.eu
 - §§ 217 ff. InsO (Insolvenzplan): https://www.gesetze-im-internet.de/inso/__217.html
-- BGH VIII ZR 13/06 (Schadensersatz Kündigung): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz Kündigung): https://www.bgh.de
 - § 3a EStG (Sanierungsgewinn): https://www.gesetze-im-internet.de/estg/__3a.html
 
 ## Output-Formate
@@ -321,7 +321,7 @@ Wenn LN-Gläubiger das Leasingobjekt pfändet:
 - DSGVO Art. 6, 13, 28: https://eur-lex.europa.eu
 - § 26 BDSG: https://www.gesetze-im-internet.de/bdsg_2018/__26.html
 - § 307 BGB: https://dejure.org/gesetze/BGB/307.html
-- BGH (gutgläubiger Erwerb Leasingobjekte): https://www.bgh.de
+- Gutgläubiger Erwerb und Eigentumskennzeichnung nur mit konkret verifizierter Entscheidung zitieren
 
 ## Output-Formate
 

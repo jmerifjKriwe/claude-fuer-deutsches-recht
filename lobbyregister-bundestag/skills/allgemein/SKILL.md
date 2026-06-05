@@ -193,7 +193,7 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - § 1 LobbyRG — Begriff der Interessenvertretung und Adressatenkreis.
 - § 2 LobbyRG — Registrierungspflicht und Ausnahmen.
 - § 3 LobbyRG — Pflichtinhalt des Registereintrags.
-- § 4 LobbyRG — Angaben zu Finanzen, Schutzantraegen, Nichtoeffentlichem.
+- § 4 LobbyRG — Registerführung, öffentliche/nicht öffentliche Inhalte, Jahresbestätigung und Bestätigungsvermerk.
 - § 5 LobbyRG — Verhaltenskodex.
 - § 6 LobbyRG — Rechtsfolgen der Registrierung (Hausausweis, Anhoerungen).
 - § 7 LobbyRG — Bussgeldtatbestaende und Sanktionen.
@@ -297,7 +297,7 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - **Ausnahmepruefung zuerst** — Viele Kanzleien und Beratungen gehen reflexartig von Registrierungspflicht aus; eine sorgfaeltige Ausnahmepruefung nach § 2 Abs. 2 und 3 LobbyRG spart Aufwand.
 - **Irrefuehrungs-Verbot** — Eintraege muessen pruefbar und nicht irrefuehrend formuliert sein; zu allgemeine Taetigkeitsbeschreibungen koennen als Verschleierung gewertet werden.
 - **Agenturfall trennen** — Bei Fremdmandaten muessen Auftraggeber und die jeweils beauftragte Interessenvertretung klar getrennt sein; das Vermischen von Mandaten im selben Eintrag ist ein klassischer Fehler.
-- **Quartalsfrist Stellungnahmen** — Grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben sind innerhalb eines Quartals nach Veroeffentlichung bereitzustellen (§ 3 LobbyRG).
+- **Bereitstellung Stellungnahmen** — Grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben sind nach § 3 LobbyRG registertauglich bereitzustellen; Frist und Portalpraxis vor Ausgabe live prüfen.
 
 ## Typische Fehler
 

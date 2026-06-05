@@ -120,7 +120,7 @@ Beim Kauf oder Verkauf eines Leasingportfolios ist eine strukturierte Due Dilige
 - Art. 28 DSGVO: https://eur-lex.europa.eu
 - §§ 398 ff. BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
 - CRR (EU 575/2013): https://eur-lex.europa.eu
-- BGH VIII ZR 256/06 (Abtretungskonstruktion): https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungskonstruktion): https://www.bgh.de
 
 ## Output-Formate
 
