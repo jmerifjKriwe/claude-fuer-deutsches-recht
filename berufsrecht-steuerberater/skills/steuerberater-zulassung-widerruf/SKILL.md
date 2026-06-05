@@ -7,11 +7,11 @@ description: "Steuerberater Zulassung Und Widerruf Kammerantwort Und Verfahre, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Zulassung Und Widerruf Kammerantwort Und Verfahre, Steuerberater Zulassung Und Widerruf Organisationspflicht Und P, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Zulassung Und Widerruf Kammerantwort Und Verfahre, Steuerberater Zulassung Und Widerruf Organisationspflicht Und P, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-zulassung-und-widerruf-kammerantwort-und-verfahre` | Steuerberater: zulassung und widerruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-zulassung-und-widerruf-organisationspflicht-und-p` | Steuerberater: zulassung und widerruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Steuerberater Zulassung Und Widerruf Kammerantwort Und V
 
 ## Arbeitsweg
 
-Für **Steuerberater Zulassung Und Widerruf Kammerantwort Und Verfahre, Steuerberater Zulassung Und Widerruf Organisationspflicht Und P, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Zulassung Und Widerruf Kammerantwort Und Verfahre, Steuerberater Zulassung Und Widerruf Organisationspflicht Und P, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-zulassung-und-widerruf-kammerantwort-und-verfahre`
 

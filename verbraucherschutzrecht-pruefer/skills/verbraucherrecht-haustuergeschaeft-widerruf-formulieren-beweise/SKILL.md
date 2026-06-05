@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-haustuergeschaeft-widerruf-formulieren-beweise
-description: "Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-022-haustuergeschaeft-widerruf-formulieren` | Verbraucherschutzrecht Prüfer: Haustürgeschäft: Widerruf formulieren. Widerruf formulieren für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-024-haustuergeschaeft-beweise-sichern` | Verbraucherschutzrecht Prüfer: Haustürgeschäft: Beweise sichern. Beweise sichern für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Haustuergeschaeft Widerruf Formulieren / Haustuergeschae
 
 ## Arbeitsweg
 
-Für **Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haustuergeschaeft Widerruf Formulieren / Haustuergeschaeft Beweise Sichern / Haustuergeschaeft Agb Redlinen / Haustuergeschaeft Beschwerde Schreiben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-022-haustuergeschaeft-widerruf-formulieren`
 

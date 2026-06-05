@@ -7,11 +7,11 @@ description: "Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarza
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klageantrag-zahlung-herausgabe-zug-um-zug` | Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. |
 | `kondiktion-bei-schwarzarbeit-und-illegalitaet` | Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Be
 
 ## Arbeitsweg
 
-Für **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klageantrag-zahlung-herausgabe-zug-um-zug`
 

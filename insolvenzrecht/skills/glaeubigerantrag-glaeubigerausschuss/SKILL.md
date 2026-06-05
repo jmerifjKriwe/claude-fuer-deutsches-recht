@@ -7,11 +7,11 @@ description: "Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Ds
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `glaeubigerantrag-pruefung` | Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind. |
 | `glaeubigerausschuss-mitwirkung` | Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkun
 
 ## Arbeitsweg
 
-Für **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `glaeubigerantrag-pruefung`
 
@@ -700,7 +700,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

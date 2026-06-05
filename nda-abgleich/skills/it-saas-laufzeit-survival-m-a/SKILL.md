@@ -7,11 +7,11 @@ description: "Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean T
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `nda-it-saas-vendor` | NDA fuer SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz fuer Test-Daten, klare Loeschpflicht nach Pitch. |
 | `nda-laufzeit-und-survival` | Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschaeftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschaeftsgeheimnis ist' moeglich. Empfehlungen je Rolle. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und
 
 ## Arbeitsweg
 
-Für **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nda-it-saas-vendor`
 
@@ -56,7 +56,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
@@ -146,7 +146,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 > Die Vertraulichkeitspflicht beginnt mit Offenlegung der Vertraulichen Information und besteht waehrend der Vertragslaufzeit fort. Sie wirkt fuer einen Zeitraum von [3/5/10] Jahren ueber das Ende dieses Vertrages hinaus. Fuer Informationen, die Geschaeftsgeheimnisse i.S.d. § 2 Nr. 1 GeschGehG sind, besteht die Vertraulichkeitspflicht solange fort, wie diese Informationen die Voraussetzungen eines Geschaeftsgeheimnisses erfuellen.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
@@ -198,7 +198,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

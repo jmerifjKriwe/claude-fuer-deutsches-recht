@@ -7,11 +7,11 @@ description: "Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritisch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `olg-vergabesenat-beschwerdebriefing` | OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten. |
 | `resilienz-sicherheit-kritische-infrastruktur` | Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherhei
 
 ## Arbeitsweg
 
-Für **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `olg-vergabesenat-beschwerdebriefing`
 

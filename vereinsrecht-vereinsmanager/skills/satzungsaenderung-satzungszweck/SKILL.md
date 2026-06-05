@@ -7,11 +7,11 @@ description: "Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sonderversamml
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sonderversammlung Minderheit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sonderversammlung Minderheit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `satzungsaenderung` | Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. |
 | `satzungszweck-gemeinnuetzigkeit` | Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit, Ausschließlichkeit, Unmittelbarkeit und Vermögensbindung ab. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sond
 
 ## Arbeitsweg
 
-Für **Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sonderversammlung Minderheit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Satzungsaenderung, Satzungszweck Gemeinnuetzigkeit, Sonderversammlung Minderheit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `satzungsaenderung`
 

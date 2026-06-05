@@ -1,17 +1,17 @@
 ---
 name: it-recht-massenbenachrichtigung-meldekette-auftragsverarbeiter
-description: "Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 weitere Module
+# Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-massenbenachrichtigung` | Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewelle; Hilfsdienste wie Schufa-Auskunft. Output: Versandplan, Skalierungsraster, Q&A-Matrix. Abgrenzung: keine individuelle Benachrichtigung; keine Behördenmeldung. |
 | `dsv-meldekette-auftragsverarbeiter` | Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Massenbenachrichtigung / Meldekette Auftragsverarbeiter 
 
 ## Arbeitsweg
 
-Für **Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Massenbenachrichtigung / Meldekette Auftragsverarbeiter / Meldung Grenzueberschreitend / Meldung Kritis Sektoraufsicht / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-massenbenachrichtigung`
 

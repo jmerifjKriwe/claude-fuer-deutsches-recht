@@ -7,11 +7,11 @@ description: "Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praeven
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-pressemitteilung-krisenkommunikation` | Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel. |
 | `dsv-sammelklagen-praevention` | Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklag
 
 ## Arbeitsweg
 
-Für **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-pressemitteilung-krisenkommunikation`
 
@@ -434,7 +434,7 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 - StGB §§ 202a–202d, 261, 263a, 269, 303a, 303b
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- BSI IT-Grundschutz-Kompendium
+- BSI IT-Grundschutz-Fachüberblick
 - BSI-Lageberichte Cybersicherheit
 
 ## Aktuelle Rechtsprechung (v14.2)

@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-cease-and-abmahnung-pruefen-datenbankvergleich
-description: "Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-046-cease-and-desist-letter-datenbankrecht` | Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung. |
 | `db-047-abmahnung-pruefen-datenbankrecht` | Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungstatbestand (§ 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (§ 339 BGB) und Handlungsoptionen (Unterzeichnung, Widerspruch, Schutzschrift). Erstellt Antwortschreiben und Risikoabwägung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Cease And Desist Letter / Db Abmahnung Pruefen Datenb
 
 ## Arbeitsweg
 
-Für **Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Cease And Desist Letter / Db Abmahnung Pruefen Datenbankrecht / Db Datenbankvergleich Bereinigungsplan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-046-cease-and-desist-letter-datenbankrecht`
 

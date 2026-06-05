@@ -7,27 +7,27 @@ description: "Follow Up Tracker, Fragenkatalog An Vorstand, Geheimhaltung Und In
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Follow Up Tracker, Fragenkatalog An Vorstand, Geheimhaltung Und Insiderlisten, Geschaeftsordnung Vorstand** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Follow Up Tracker, Fragenkatalog An Vorstand, Geheimhaltung Und Insiderlisten, Geschaeftsordnung Vorstand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `follow-up-tracker` | AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `fragenkatalog-an-vorstand` | AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `geheimhaltung-und-insiderlisten` | AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `geschaeftsordnung-vorstand` | AG/SE-Aufsichtsrat Praxis: Geschaeftsordnung Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `follow-up-tracker` | AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `fragenkatalog-an-vorstand` | AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `geheimhaltung-und-insiderlisten` | AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `geschaeftsordnung-vorstand` | AG/SE-Aufsichtsrat Praxis: Geschaeftsordnung Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Follow Up Tracker, Fragenkatalog An Vorstand, Geheimhaltung Und Insiderlisten, Geschaeftsordnung Vorstand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Follow Up Tracker, Fragenkatalog An Vorstand, Geheimhaltung Und Insiderlisten, Geschaeftsordnung Vorstand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `follow-up-tracker`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Follow Up Tracker
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `fragenkatalog-an-vorstand`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Fragenkatalog An Vorstand
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `geheimhaltung-und-insiderlisten`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Geheimhaltung Und Insiderlisten
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `geschaeftsordnung-vorstand`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Geschaeftsordnung Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Geschaeftsordnung Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Geschaeftsordnung Vorstand
 

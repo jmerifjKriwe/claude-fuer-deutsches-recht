@@ -7,11 +7,11 @@ description: "Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Res
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-ressort-bmvg` | Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug. |
 | `legw-ressort-bmwe` | Heranfuehrung Ressort BMWE (Bundesministerium fuer Wirtschaft und Energie). Schwerpunkt: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV. Fuenf Spezialfelder: energie-und-netzregulierung-enwg; erneuerbare-energien-eeg-windbg; industriepolitik-foerderrecht-und-beihilfen; aussenwirtschaft-und-investitionspruefung; wettbewerb-und-kartellrecht-gwb. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwe und legw-bmwe-Themenslug. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb
 
 ## Arbeitsweg
 
-Für **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-ressort-bmvg`
 

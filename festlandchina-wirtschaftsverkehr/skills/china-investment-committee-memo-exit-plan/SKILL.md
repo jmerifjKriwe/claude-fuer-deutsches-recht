@@ -1,17 +1,17 @@
 ---
 name: china-investment-committee-memo-exit-plan
-description: "Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-075-investment-committee-memo` | Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix. |
 | `chn-076-exit-plan-china-operations` | Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Investment Committee Memo / Exit Plan China Operations /
 
 ## Arbeitsweg
 
-Für **Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Investment Committee Memo / Exit Plan China Operations / Capital Controls And Payments / Currency Risk Cny Eur Usd** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-075-investment-committee-memo`
 

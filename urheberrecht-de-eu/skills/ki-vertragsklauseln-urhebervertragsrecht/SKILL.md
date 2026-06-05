@@ -7,11 +7,11 @@ description: "Ki Vertragsklauseln Rechte, Urhebervertragsrecht Verguetung, Vertr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ki-vertragsklauseln-rechte` | Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung. |
 | `urhebervertragsrecht-verguetung` | Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergüt
 
 ## Arbeitsweg
 
-Für **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ki Vertragsklauseln Rechte, Urhebervertragsrecht Vergütung, Vertragsgenerator Musik Release** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ki-vertragsklauseln-rechte`
 

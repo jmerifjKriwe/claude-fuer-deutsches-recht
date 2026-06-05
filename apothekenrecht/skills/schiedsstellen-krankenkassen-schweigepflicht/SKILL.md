@@ -7,11 +7,11 @@ description: "Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schiedsstellen-krankenkassen-apotheke` | Schiedsstellen Krankenkassen Apotheke: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 | `schweigepflicht-berufsrecht-pta-approbation` | Schweigepflicht Berufsrecht PTA Approbation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht B
 
 ## Arbeitsweg
 
-Für **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schiedsstellen-krankenkassen-apotheke`
 

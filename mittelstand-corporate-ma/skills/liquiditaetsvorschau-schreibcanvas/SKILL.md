@@ -7,11 +7,11 @@ description: "Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-ma-liquiditaetsvorschau` | Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten). |
 | `mittelstand-ma-schreibcanvas` | Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schr
 
 ## Arbeitsweg
 
-Für **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-ma-liquiditaetsvorschau`
 

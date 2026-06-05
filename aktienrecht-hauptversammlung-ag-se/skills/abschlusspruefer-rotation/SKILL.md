@@ -7,27 +7,27 @@ description: "Abschlusspruefer Rotation, Abschlussprueferwahl, Abschlussverwendu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abschlusspruefer Rotation, Abschlussprueferwahl, Abschlussverwendung Dividende, Abstimmung Und Feststellung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Abschlusspruefer Rotation, Abschlussprueferwahl, Abschlussverwendung Dividende, Abstimmung Und Feststellung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `abschlusspruefer-rotation` | Hauptversammlung AG und SE: Abschlusspruefer Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abschlussprueferwahl` | Hauptversammlung AG und SE: Abschlussprueferwahl; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abschlussverwendung-dividende` | Hauptversammlung AG und SE: Abschlussverwendung Dividende; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abstimmung-und-feststellung` | Hauptversammlung AG und SE: Abstimmung Und Feststellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschlusspruefer-rotation` | Hauptversammlung AG und SE: Abschlusspruefer Rotation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschlussprueferwahl` | Hauptversammlung AG und SE: Abschlussprueferwahl; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschlussverwendung-dividende` | Hauptversammlung AG und SE: Abschlussverwendung Dividende; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abstimmung-und-feststellung` | Hauptversammlung AG und SE: Abstimmung Und Feststellung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Abschlusspruefer Rotation, Abschlussprueferwahl, Abschlussverwendung Dividende, Abstimmung Und Feststellung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abschlusspruefer Rotation, Abschlussprueferwahl, Abschlussverwendung Dividende, Abstimmung Und Feststellung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `abschlusspruefer-rotation`
 
-**Fokus:** Hauptversammlung AG und SE: Abschlusspruefer Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Abschlusspruefer Rotation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlusspruefer Rotation
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `abschlussprueferwahl`
 
-**Fokus:** Hauptversammlung AG und SE: Abschlussprueferwahl; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Abschlussprueferwahl; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlussprueferwahl
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `abschlussverwendung-dividende`
 
-**Fokus:** Hauptversammlung AG und SE: Abschlussverwendung Dividende; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Abschlussverwendung Dividende; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlussverwendung Dividende
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `abstimmung-und-feststellung`
 
-**Fokus:** Hauptversammlung AG und SE: Abstimmung Und Feststellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Abstimmung Und Feststellung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abstimmung Und Feststellung
 

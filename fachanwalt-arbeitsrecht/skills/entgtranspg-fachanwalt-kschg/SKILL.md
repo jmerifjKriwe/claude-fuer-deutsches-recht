@@ -7,11 +7,11 @@ description: "Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970. |
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachan
 
 ## Arbeitsweg
 
-Für **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation`
 

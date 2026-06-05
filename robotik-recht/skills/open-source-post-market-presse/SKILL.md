@@ -7,11 +7,11 @@ description: "Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint, Produkt Und Rollenprofil und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint, Produkt Und Rollenprofil und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-open-source-und-sbom` | Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen. |
 | `workflow-post-market-monitoring` | Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Open Source Und Sbom, Post Market Monitoring, Presse Und
 
 ## Arbeitsweg
 
-Für **Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint, Produkt Und Rollenprofil und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint, Produkt Und Rollenprofil und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-open-source-und-sbom`
 

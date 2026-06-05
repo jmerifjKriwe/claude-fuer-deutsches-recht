@@ -7,11 +7,11 @@ description: "Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph6-lv-mengen-massen-vergabereife` | HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. |
 | `hoai-lph7-bieterspiegel-aufklaerung-vergaberisiko` | HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlich niedrige Preise, Nebenangebote, Vergabevorschlag und Haftungsrisiko der Mitwirkung bei der Vergabe prüfen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Biete
 
 ## Arbeitsweg
 
-Für **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Lph6 Lv Mengen Massen Vergabereife, Hoai Lph7 Bieterspiegel Aufklaerung Vergaberisiko, Hoai Lph8 Mängel Abnahme Restleistungen, Hoai Lph8 Rechnungspruefung Nachtraege Vob, Hoai Lph8 Ueberwachungstiefe Stichproben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph6-lv-mengen-massen-vergabereife`
 

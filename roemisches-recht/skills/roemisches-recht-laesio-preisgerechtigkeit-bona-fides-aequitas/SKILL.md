@@ -1,17 +1,17 @@
 ---
 name: roemisches-recht-laesio-preisgerechtigkeit-bona-fides-aequitas
-description: "Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 weitere Module
+# Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-041-laesio-und-preisgerechtigkeit` | Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht. |
 | `rom-042-bona-fides` | Römisches Recht: Bona fides als Rechtsprinzip - actiones bonae fidei nach D. 16.3.31 (Paulus), bonae fidei iudicium, objektive Redlichkeit und Verhältnis zu dolus (exceptio doli generalis). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exce
 
 ## Arbeitsweg
 
-Für **Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Laesio Preisgerechtigkeit / Bona Fides / Aequitas / Exceptio Doli / 6 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-041-laesio-und-preisgerechtigkeit`
 

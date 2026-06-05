@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-board-paper-business-judgment` | Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs. |
 | `grosskanzlei-corporate-ma-cap-table-ownership-chain` | Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Board Paper Business Judgment,
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-board-paper-business-judgment`
 

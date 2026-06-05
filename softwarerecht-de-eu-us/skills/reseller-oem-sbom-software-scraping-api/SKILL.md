@@ -7,11 +7,11 @@ description: "Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `reseller-oem-var` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette. |
 | `sbom-software-composition` | Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Reseller Oem Var, Sbom Software Composition, Scraping Ap
 
 ## Arbeitsweg
 
-Für **Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `reseller-oem-var`
 

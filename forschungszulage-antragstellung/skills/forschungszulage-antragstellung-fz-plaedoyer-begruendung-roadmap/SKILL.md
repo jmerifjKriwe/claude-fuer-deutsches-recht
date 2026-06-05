@@ -1,17 +1,17 @@
 ---
 name: forschungszulage-antragstellung-fz-plaedoyer-begruendung-roadmap
-description: "Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fz-plaedoyer-begruendung-und-verteidigung` | Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Kurzfassung, Langfassung und Red-Team. |
 | `fz-roadmap-mehrjahresantrag` | Mehrjahresstrategie Forschungszulage: BSFZ-Bescheinigung für mehrjährige Vorhaben, jährliche Aktualisierung der Stundenaufzeichnung und Projektakte, Folgeanträge knapp halten, Roadmap-Pflege, Liquiditätsplanung über Wirtschaftsjahre, rückwirkende Jahre, Fristen. Mit Anschlussantrag-Vorlage und Jahresabschluss-Trade-off. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrj
 
 ## Arbeitsweg
 
-Für **Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fz Plaedoyer Begruendung Verteidigung / Fz Roadmap Mehrjahresantrag / Fz Start Up Personengesellschaft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fz-plaedoyer-begruendung-und-verteidigung`
 
@@ -424,7 +424,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

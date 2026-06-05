@@ -7,11 +7,11 @@ description: "Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefung Und Mandatsziel, Haager Zahlen Schwellen Und Berechnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefung Und Mandatsziel, Haager Zahlen Schwellen Und Berechnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-cotif-schriftsatz-brief-und-memo-bausteine` | Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt E
 
 ## Arbeitsweg
 
-Für **Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefung Und Mandatsziel, Haager Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cotif Schriftsatz Brief Und Memo Bausteine, Fachanwalt Erstpruefung Und Mandatsziel, Haager Zahlen Schwellen Und Berechnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-cotif-schriftsatz-brief-und-memo-bausteine`
 

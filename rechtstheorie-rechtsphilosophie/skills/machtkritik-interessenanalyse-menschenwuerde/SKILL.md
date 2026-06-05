@@ -7,11 +7,11 @@ description: "Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `machtkritik-und-interessenanalyse` | Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten. |
 | `menschenwuerde-grundrechte-theoriekern` | Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Machtkritik Und Interessenanalyse, Menschenwuerde Grundr
 
 ## Arbeitsweg
 
-Für **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `machtkritik-und-interessenanalyse`
 

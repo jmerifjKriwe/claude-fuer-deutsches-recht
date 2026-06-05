@@ -7,11 +7,11 @@ description: "Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast U
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-patg-schriftsatz-brief-und-memo-bausteine` | PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ. |
 | `spezial-verfuegung-beweislast-und-darlegungslast` | Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Be
 
 ## Arbeitsweg
 
-Für **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-patg-schriftsatz-brief-und-memo-bausteine`
 

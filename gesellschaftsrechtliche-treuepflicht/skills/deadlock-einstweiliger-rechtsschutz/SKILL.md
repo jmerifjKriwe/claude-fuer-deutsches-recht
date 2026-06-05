@@ -7,27 +7,27 @@ description: "Deadlock, Einstweiliger Rechtsschutz, Einziehungsabwehr, Exit Verh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deadlock, Einstweiliger Rechtsschutz, Einziehungsabwehr, Exit Verhandlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deadlock, Einstweiliger Rechtsschutz, Einziehungsabwehr, Exit Verhandlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `deadlock` | Gesellschaftsrechtliche Treuepflicht: Deadlock; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `einstweiliger-rechtsschutz` | Gesellschaftsrechtliche Treuepflicht: Einstweiliger Rechtsschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `einziehungsabwehr` | Gesellschaftsrechtliche Treuepflicht: Einziehungsabwehr; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `exit-verhandlung` | Gesellschaftsrechtliche Treuepflicht: Exit Verhandlung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `deadlock` | Gesellschaftsrechtliche Treuepflicht: Deadlock; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einstweiliger-rechtsschutz` | Gesellschaftsrechtliche Treuepflicht: Einstweiliger Rechtsschutz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einziehungsabwehr` | Gesellschaftsrechtliche Treuepflicht: Einziehungsabwehr; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `exit-verhandlung` | Gesellschaftsrechtliche Treuepflicht: Exit Verhandlung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Deadlock, Einstweiliger Rechtsschutz, Einziehungsabwehr, Exit Verhandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deadlock, Einstweiliger Rechtsschutz, Einziehungsabwehr, Exit Verhandlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `deadlock`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Deadlock; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Deadlock; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Deadlock
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `einstweiliger-rechtsschutz`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Einstweiliger Rechtsschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Einstweiliger Rechtsschutz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einstweiliger Rechtsschutz
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `einziehungsabwehr`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Einziehungsabwehr; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Einziehungsabwehr; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einziehungsabwehr
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `exit-verhandlung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Exit Verhandlung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Exit Verhandlung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Exit Verhandlung
 

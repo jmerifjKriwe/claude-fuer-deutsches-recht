@@ -7,11 +7,11 @@ description: "Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-050-franchisenehmer-exit-plan` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen. |
 | `fran-051-qualitaetsgate-franchiseakte` | Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsg
 
 ## Arbeitsweg
 
-Für **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-050-franchisenehmer-exit-plan`
 

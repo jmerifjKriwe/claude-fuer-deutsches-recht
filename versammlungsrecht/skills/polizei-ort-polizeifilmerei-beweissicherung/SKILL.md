@@ -7,21 +7,21 @@ description: "Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `polizei-vor-ort-deeskalation` | Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. |
 | `polizeifilmerei-beweissicherung-kug-201-stgb` | Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicherung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Presse- und Versammlungsfreiheit, Vor-Ort-Kommunikation und Nachbereitung. |
 
 ## Arbeitsweg
 
-Für **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versammlungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `polizei-vor-ort-deeskalation`
 
@@ -30,7 +30,7 @@ Für **Polizei Vor Ort Deeskalation, Polizeifilmerei Beweissicherung Kug 201 Stg
 # Vor Ort ruhig und dokumentiert
 
 ## Worum es geht
-Leitung spricht gebündelt mit der Einsatzleitung; Ordner geben keine Rechtsgutachten; Teilnehmende bekommen klare Hinweise.
+Leitung spricht gebearbeitet mit der Einsatzleitung; Ordner geben keine Rechtsgutachten; Teilnehmende bekommen klare Hinweise.
 
 ## Kaltstartfragen
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?

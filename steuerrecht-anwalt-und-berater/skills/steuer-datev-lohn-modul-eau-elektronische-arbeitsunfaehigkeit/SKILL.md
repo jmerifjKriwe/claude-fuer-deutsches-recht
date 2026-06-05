@@ -1,17 +1,17 @@
 ---
 name: steuer-datev-lohn-modul-eau-elektronische-arbeitsunfaehigkeit
-description: "DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 weitere Module
+# DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-datev-lohn-modul-lodas-luh` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert. |
 | `stb-eau-elektronische-arbeitsunfaehigkeit-2023` | eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsun
 
 ## Arbeitsweg
 
-Für **DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **DATEV Lohn Modul Lodas Luh / Eau Elektronische Arbeitsunfaehigkeit / Erechnung Pflicht B2b / Jahresabschluss Anlagenverzeichnis Afa / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-datev-lohn-modul-lodas-luh`
 

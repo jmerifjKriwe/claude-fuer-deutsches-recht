@@ -7,11 +7,11 @@ description: "Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `probezeitkuendigung-fair-und-schnell` | Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `psychische-belastung-krise-suizidale-aeusserung` | Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Probezeitkuendigung Fair Und Schnell, Psychische Belastu
 
 ## Arbeitsweg
 
-Für **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `probezeitkuendigung-fair-und-schnell`
 

@@ -7,11 +7,11 @@ description: "Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsbehoerden Art 70, Gpai Code Of Practice Copyright Safety Evidence, Gpai Modelle Art 51 Bis 55** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsbehoerden Art 70, Gpai Code Of Practice Copyright Safety Evidence, Gpai Modelle Art 51 Bis 55** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gerichtliche-ki-assistenz-hochrisiko-justiz` | Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. |
 | `governance-aufsichtsbehoerden-art-70` | Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance 
 
 ## Arbeitsweg
 
-Für **Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsbehoerden Art 70, Gpai Code Of Practice Copyright Safety Evidence, Gpai Modelle Art 51 Bis 55** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsbehoerden Art 70, Gpai Code Of Practice Copyright Safety Evidence, Gpai Modelle Art 51 Bis 55** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gerichtliche-ki-assistenz-hochrisiko-justiz`
 

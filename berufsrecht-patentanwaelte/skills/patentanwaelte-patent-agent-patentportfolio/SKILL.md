@@ -7,11 +7,11 @@ description: "Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-patent-agent-title-und-werbung-organisationspfli` | Patentanwälte: patent agent title und werbung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-patentportfolio-und-interessenkollision-kaltstar` | Patentanwälte: patentportfolio und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwaelte Patent Agent Title Und Werbung Organisati
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-patent-agent-title-und-werbung-organisationspfli`
 

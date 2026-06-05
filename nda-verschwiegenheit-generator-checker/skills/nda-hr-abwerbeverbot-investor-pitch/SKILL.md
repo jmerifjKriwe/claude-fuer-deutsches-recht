@@ -7,27 +7,27 @@ description: "Nda Für Hr Und Abwerbeverbot, Nda Für Investor Pitch, Nda Für M
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nda Für Hr Und Abwerbeverbot, Nda Für Investor Pitch, Nda Für Manufacturing Und Supply Chain, Nda Für Vorstand Und Aufsichtsrat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nda Für Hr Und Abwerbeverbot, Nda Für Investor Pitch, Nda Für Manufacturing Und Supply Chain, Nda Für Vorstand Und Aufsichtsrat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `nda-fuer-hr-und-abwerbeverbot` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Hr Und Abwerbeverbot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-fuer-investor-pitch` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Investor Pitch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-fuer-manufacturing-und-supply-chain` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-fuer-vorstand-und-aufsichtsrat` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-hr-und-abwerbeverbot` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Hr Und Abwerbeverbot; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-investor-pitch` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Investor Pitch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-manufacturing-und-supply-chain` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-vorstand-und-aufsichtsrat` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Nda Für Hr Und Abwerbeverbot, Nda Für Investor Pitch, Nda Für Manufacturing Und Supply Chain, Nda Für Vorstand Und Aufsichtsrat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nda Für Hr Und Abwerbeverbot, Nda Für Investor Pitch, Nda Für Manufacturing Und Supply Chain, Nda Für Vorstand Und Aufsichtsrat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nda-fuer-hr-und-abwerbeverbot`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Hr Und Abwerbeverbot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Hr Und Abwerbeverbot; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Hr Und Abwerbeverbot
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nda-fuer-investor-pitch`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Investor Pitch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Investor Pitch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Investor Pitch
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `nda-fuer-manufacturing-und-supply-chain`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Manufacturing Und Supply Chain; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Manufacturing Und Supply Chain
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `nda-fuer-vorstand-und-aufsichtsrat`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Vorstand Und Aufsichtsrat
 

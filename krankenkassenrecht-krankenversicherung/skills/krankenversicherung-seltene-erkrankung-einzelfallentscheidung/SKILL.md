@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-seltene-erkrankung-einzelfallentscheidung
-description: "Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-053-seltene-erkrankung-einzelfallentscheidung` | GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung. |
 | `kv-054-kostenerstattung-privatarzt-in-der-gkv` | Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Seltene Erkrankung Einzelfallentscheidung / Kostenerstat
 
 ## Arbeitsweg
 
-Für **Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Seltene Erkrankung Einzelfallentscheidung / Kostenerstattung Privatarzt Gkv / Versicherte Ausland Lebend Deutsche Rente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-053-seltene-erkrankung-einzelfallentscheidung`
 

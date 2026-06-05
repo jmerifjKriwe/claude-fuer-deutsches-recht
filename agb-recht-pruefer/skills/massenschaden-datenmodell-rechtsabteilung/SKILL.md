@@ -7,11 +7,11 @@ description: "Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Dat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `massenschaden-datenmodell` | Output- und Streit-Skill für Massenschaden Datenmodell: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden` | Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Massenschaden Datenmodell, Rechtsabteilung Haftungsdecke
 
 ## Arbeitsweg
 
-Für **Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `massenschaden-datenmodell`
 

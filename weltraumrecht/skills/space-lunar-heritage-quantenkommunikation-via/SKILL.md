@@ -7,11 +7,11 @@ description: "Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Spa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Commercial Leo Destinations Iss Nachfolge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Commercial Leo Destinations Iss Nachfolge** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-098-lunar-heritage-schutz-historischer-mondlandestellen` | Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen. |
 | `space-099-quantenkommunikation-via-satellit-bsi-und-iso-27001` | Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild fuer Quantenkommunikations-Mandate. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Space 098 Lunar Heritage Schutz Historischer Mondlandest
 
 ## Arbeitsweg
 
-Für **Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Commercial Leo Destinations Iss Nachfolge** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Commercial Leo Destinations Iss Nachfolge** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-098-lunar-heritage-schutz-historischer-mondlandestellen`
 

@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-3` | Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-4` | Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Se
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-3`
 

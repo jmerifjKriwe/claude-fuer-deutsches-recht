@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-sportdaten-live-immobiliendaten-portal
-description: "Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-013-sportdaten-live-daten-fixtures-und-ergebnislisten` | Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern. |
 | `db-014-immobiliendaten-portal-und-lead-datenbank` | Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Sportdaten Live Daten Fixtures / Db Immobiliendaten P
 
 ## Arbeitsweg
 
-Für **Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Sportdaten Live Daten Fixtures / Db Immobiliendaten Portal Lead Datenbank / Db Produktdaten Pim Datenkatalog Hersteller** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-013-sportdaten-live-daten-fixtures-und-ergebnislisten`
 

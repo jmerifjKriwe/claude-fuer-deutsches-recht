@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Kommandocenter, Gesellschaftsgruender Lizenz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-kommandocenter` | Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill. |
 | `gesellschaftsgruender-lizenz-und-vertriebsstart` | Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Kommandocenter, Gesellschaftsgrün
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-kommandocenter`
 

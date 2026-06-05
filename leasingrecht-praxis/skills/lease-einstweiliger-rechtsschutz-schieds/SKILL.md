@@ -7,11 +7,11 @@ description: "Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lea
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt` | Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN. |
 | `lease-042-schieds-oder-gerichtsstand-leasing` | Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingo
 
 ## Arbeitsweg
 
-Für **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt`
 

@@ -1,17 +1,17 @@
 ---
 name: strassenverkehrsrecht-stvo-stv-tempo-risiko-fahrradstrasse-regel
-description: "Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stv-040-tempo-30-risiko-erklaeren` | Straßenverkehrsrecht StVO: Tempo 30: Risiko erklären. Risiko erklären für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-041-fahrradstrasse-regel-pruefen` | Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pr
 
 ## Arbeitsweg
 
-Für **Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stv Tempo Risiko Erklaeren / Stv Fahrradstrasse Regel Pruefen / Stv Fahrradstrasse Zeichen Auslegen / Stv Fahrradstrasse Anordnung Angreifen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stv-040-tempo-30-risiko-erklaeren`
 

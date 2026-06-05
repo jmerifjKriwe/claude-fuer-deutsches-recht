@@ -1,17 +1,17 @@
 ---
 name: china-de-risking-nicht-strategie
-description: "De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-002-de-risking-nicht-decoupling` | Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung. |
 | `chn-003-china-strategie-bundesregierung-umsetzen` | Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **De Risking Nicht Decoupling / China Strategie Bundesregi
 
 ## Arbeitsweg
 
-Für **De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **De Risking Nicht Decoupling / China Strategie Bundesregierung Umsetzen / EU China Trade Risk Dashboard / Handelsbilanz Abhaengigkeiten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-002-de-risking-nicht-decoupling`
 

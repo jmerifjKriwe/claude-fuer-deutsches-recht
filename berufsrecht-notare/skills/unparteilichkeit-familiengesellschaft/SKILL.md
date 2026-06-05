@@ -7,11 +7,11 @@ description: "Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, No
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-unparteilichkeit-bei-familiengesellschaft-kammerantwort` | Notare: unparteilichkeit bei familiengesellschaft - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-unparteilichkeit-bei-familiengesellschaft-organisationsp` | Notare: unparteilichkeit bei familiengesellschaft - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Unparteilichkeit Bei Familiengesellschaft Kammera
 
 ## Arbeitsweg
 
-Für **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kammerantwort Und Verfah** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-unparteilichkeit-bei-familiengesellschaft-kammerantwort`
 

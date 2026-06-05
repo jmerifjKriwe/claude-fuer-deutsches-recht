@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-gutachtenstil-risikoampel-gegenargumente
-description: "Dieses Skill verbindet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen."
+description: "Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen."
 ---
 
 # Gutachtenstil, Risikoampel und Gegenargumente
@@ -68,7 +68,7 @@ Das Skill liefert ein zweiteiliges Gutachten: Teil 1 enthält die eigene Argumen
 Die Risikoampel ist kein wissenschaftliches Instrument, sondern ein kommunikatives Hilfsmittel, das komplexe
 Rechtsunsicherheiten für Mandanten greifbar macht. Ihre Aussagekraft hängt davon ab, dass die zugrunde
 liegende Argumentation methodisch solide ist. Eine rote Ampel ohne methodische Begründung ist ebenso nutzlos
-wie eine grüne Ampel ohne Auseinandersetzung mit den stärksten Gegenargumenten. Das Skill verbindet daher
+wie eine grüne Ampel ohne Auseinandersetzung mit den stärksten Gegenargumenten. Das Skill bearbeitet daher
 immer Ampeleinstufung und methodische Begründung.
 
 ## Praktische Anwendungshinweise

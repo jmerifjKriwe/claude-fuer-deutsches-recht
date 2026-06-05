@@ -1,17 +1,17 @@
 ---
 name: urkundensammlung-verwahrung
-description: "Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 weitere Module
+# Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-urkundensammlung-und-verwahrung-organisationspflicht-und` | Notare: urkundensammlung und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-verbraucherwiderruf-und-beurkundung-kammerantwort-und-ve` | Notare: verbraucherwiderruf und beurkundung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Urkundensammlung Verwahrung Organisationspflicht 
 
 ## Arbeitsweg
 
-Für **Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-urkundensammlung-und-verwahrung-organisationspflicht-und`
 

@@ -7,11 +7,11 @@ description: "Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grad-der-behinderung-gdb-sgb-ix` | Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger. |
 | `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sg
 
 ## Arbeitsweg
 
-Für **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
 

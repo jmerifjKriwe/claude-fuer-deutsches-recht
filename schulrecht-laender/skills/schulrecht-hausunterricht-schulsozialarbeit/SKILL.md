@@ -7,11 +7,11 @@ description: "Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jug
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jugendamt, Schultraeger Gebaeude Und Ausstattung, Schulverweis Und Umschulung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jugendamt, Schultraeger Gebaeude Und Ausstattung, Schulverweis Und Umschulung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schulrecht-hausunterricht-schulverweigerung` | Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation. |
 | `schulsozialarbeit-jugendamt` | Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Schulrecht Hausunterricht Schulverweigerung, Schulsozial
 
 ## Arbeitsweg
 
-Für **Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jugendamt, Schultraeger Gebaeude Und Ausstattung, Schulverweis Und Umschulung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jugendamt, Schultraeger Gebaeude Und Ausstattung, Schulverweis Und Umschulung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schulrecht-hausunterricht-schulverweigerung`
 

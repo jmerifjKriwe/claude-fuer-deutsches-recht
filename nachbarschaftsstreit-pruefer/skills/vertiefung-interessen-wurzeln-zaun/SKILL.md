@@ -7,11 +7,11 @@ description: "Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln Behörden
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln Behörden Gericht Und Registerweg, Zaun Verhandlung Vergleich Und Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln Behörden Gericht Und Registerweg, Zaun Verhandlung Vergleich Und Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-vertiefung-mehrparteien-konflikt-und-interessen` | Vertiefung: Mehrparteienkonflikt und Interessenmatrix im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-wurzeln-behoerden-gericht-und-registerweg` | Wurzeln: Behörden-, Gerichts- oder Registerweg im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln
 
 ## Arbeitsweg
 
-Für **Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln Behörden Gericht Und Registerweg, Zaun Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertiefung Mehrparteien Konflikt Und Interessen, Wurzeln Behörden Gericht Und Registerweg, Zaun Verhandlung Vergleich Und Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-vertiefung-mehrparteien-konflikt-und-interessen`
 

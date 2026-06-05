@@ -7,11 +7,11 @@ description: "Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Khub Sonderf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Khub Sonderfall Und Edge Case, Livecheck Mehrparteien Konflikt Und Interessen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Khub Sonderfall Und Edge Case, Livecheck Mehrparteien Konflikt Und Interessen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-kanzleiumgebung-verhandlung-vergleich-und-eskalation` | Kanzleiumgebung: Verhandlung, Vergleich und Eskalation im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-khub-sonderfall-und-edge-case` | Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Kh
 
 ## Arbeitsweg
 
-Für **Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Khub Sonderfall Und Edge Case, Livecheck Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kanzleiumgebung Verhandlung Vergleich Und Eskalation, Khub Sonderfall Und Edge Case, Livecheck Mehrparteien Konflikt Und Interessen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-kanzleiumgebung-verhandlung-vergleich-und-eskalation`
 

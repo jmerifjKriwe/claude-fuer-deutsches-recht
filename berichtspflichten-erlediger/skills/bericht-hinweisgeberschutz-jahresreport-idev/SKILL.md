@@ -7,11 +7,11 @@ description: "Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Estatistik C
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Estatistik Core, Bericht Immobilien Gebaeudeenergie Geg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Estatistik Core, Bericht Immobilien Gebaeudeenergie Geg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-hinweisgeberschutz-jahresreport` | Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport. |
 | `bericht-idev-estatistik-core` | Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Es
 
 ## Arbeitsweg
 
-Für **Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Estatistik Core, Bericht Immobilien Gebaeudeenergie Geg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Hinweisgeberschutz Jahresreport, Bericht Idev Estatistik Core, Bericht Immobilien Gebaeudeenergie Geg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-hinweisgeberschutz-jahresreport`
 

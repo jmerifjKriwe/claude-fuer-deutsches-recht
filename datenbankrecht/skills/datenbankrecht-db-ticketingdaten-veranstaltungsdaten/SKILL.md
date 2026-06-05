@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-ticketingdaten-veranstaltungsdaten
-description: "Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-023-ticketingdaten-veranstaltungsdaten-und-kalender` | Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. |
 | `db-024-stellenanzeigen-jobportal-und-scraping` | Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stel
 
 ## Arbeitsweg
 
-Für **Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Ticketingdaten Veranstaltungsdaten Kalender / Db Stellenanzeigen Jobportal Scraping / Db Rezeptdaten Gesundheitsdaten Sozialdaten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-023-ticketingdaten-veranstaltungsdaten-und-kalender`
 

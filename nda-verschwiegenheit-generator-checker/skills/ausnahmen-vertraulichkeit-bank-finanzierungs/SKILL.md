@@ -7,27 +7,27 @@ description: "Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `ausnahmen-von-vertraulichkeit` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Ausnahmen Von Vertraulichkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bank-und-finanzierungs-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Bank Und Finanzierungs NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `berufsgeheimnisse-203-stgb` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `betriebsrat-und-personalgespraech` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ausnahmen-von-vertraulichkeit` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Ausnahmen Von Vertraulichkeit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bank-und-finanzierungs-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Bank Und Finanzierungs NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `berufsgeheimnisse-203-stgb` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `betriebsrat-und-personalgespraech` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ausnahmen Von Vertraulichkeit, Bank Und Finanzierungs Nda, Berufsgeheimnisse 203 Stgb, Betriebsrat Und Personalgespraech** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ausnahmen-von-vertraulichkeit`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Ausnahmen Von Vertraulichkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Ausnahmen Von Vertraulichkeit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ausnahmen Von Vertraulichkeit
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `bank-und-finanzierungs-nda`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Bank Und Finanzierungs NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Bank Und Finanzierungs NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bank Und Finanzierungs NDA
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `berufsgeheimnisse-203-stgb`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Berufsgeheimnisse 203 Stgb; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Berufsgeheimnisse 203 Stgb
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `betriebsrat-und-personalgespraech`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Betriebsrat Und Personalgespraech
 

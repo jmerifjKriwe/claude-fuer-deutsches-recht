@@ -7,11 +7,11 @@ description: "Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert. |
 | `spezial-starren-formular-portal-und-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starre
 
 ## Arbeitsweg
 
-Für **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine`
 

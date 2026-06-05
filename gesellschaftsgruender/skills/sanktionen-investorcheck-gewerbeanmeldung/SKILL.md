@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-sanktionen-investorcheck` | Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken. |
 | `gesellschaftsgruender-gewerbeanmeldung-finanzamt` | Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Sanktionen Investorcheck, Gesellsc
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-sanktionen-investorcheck`
 

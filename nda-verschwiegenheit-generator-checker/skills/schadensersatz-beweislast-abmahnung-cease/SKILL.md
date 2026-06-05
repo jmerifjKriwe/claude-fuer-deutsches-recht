@@ -7,27 +7,27 @@ description: "Schadensersatz Und Beweislast, Abmahnung Und Cease Desist, Abschlu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schadensersatz Und Beweislast, Abmahnung Und Cease Desist, Abschluss Check Vor Unterschrift, Abschlussprodukt Redline Memo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schadensersatz Und Beweislast, Abmahnung Und Cease Desist, Abschluss Check Vor Unterschrift, Abschlussprodukt Redline Memo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `schadensersatz-und-beweislast` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schadensersatz Und Beweislast; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abmahnung-und-cease-desist` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abmahnung Und Cease Desist; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abschluss-check-vor-unterschrift` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschluss Check Vor Unterschrift; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `abschlussprodukt-redline-memo` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschlussprodukt Redline Memo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `schadensersatz-und-beweislast` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schadensersatz Und Beweislast; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abmahnung-und-cease-desist` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abmahnung Und Cease Desist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschluss-check-vor-unterschrift` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschluss Check Vor Unterschrift; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschlussprodukt-redline-memo` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschlussprodukt Redline Memo; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Schadensersatz Und Beweislast, Abmahnung Und Cease Desist, Abschluss Check Vor Unterschrift, Abschlussprodukt Redline Memo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schadensersatz Und Beweislast, Abmahnung Und Cease Desist, Abschluss Check Vor Unterschrift, Abschlussprodukt Redline Memo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schadensersatz-und-beweislast`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schadensersatz Und Beweislast; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schadensersatz Und Beweislast; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Schadensersatz Und Beweislast
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `abmahnung-und-cease-desist`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abmahnung Und Cease Desist; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abmahnung Und Cease Desist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abmahnung Und Cease Desist
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `abschluss-check-vor-unterschrift`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschluss Check Vor Unterschrift; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschluss Check Vor Unterschrift; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschluss Check Vor Unterschrift
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `abschlussprodukt-redline-memo`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschlussprodukt Redline Memo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abschlussprodukt Redline Memo; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlussprodukt Redline Memo
 

@@ -7,11 +7,11 @@ description: "Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Ins
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Insiderhandel 119 Wphg, Strafrecht Insolvenzverschleppung 15A Inso, Strafrecht Ip Strafrecht Grenzbeschlagnahme, Strafrecht Ip Strafrecht Verteidigung und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Insiderhandel 119 Wphg, Strafrecht Insolvenzverschleppung 15A Inso, Strafrecht Ip Strafrecht Grenzbeschlagnahme, Strafrecht Ip Strafrecht Verteidigung und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg` | Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise. |
 | `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Stra
 
 ## Arbeitsweg
 
-Für **Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Insiderhandel 119 Wphg, Strafrecht Insolvenzverschleppung 15A Inso, Strafrecht Ip Strafrecht Grenzbeschlagnahme, Strafrecht Ip Strafrecht Verteidigung und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Insiderhandel 119 Wphg, Strafrecht Insolvenzverschleppung 15A Inso, Strafrecht Ip Strafrecht Grenzbeschlagnahme, Strafrecht Ip Strafrecht Verteidigung und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
 

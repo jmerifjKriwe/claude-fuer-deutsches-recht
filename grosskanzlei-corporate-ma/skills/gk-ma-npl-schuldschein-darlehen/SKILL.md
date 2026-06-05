@@ -7,11 +7,11 @@ description: "Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen T
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gk-ma-npl-portfolio-und-loan-to-own` | Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie. |
 | `gk-ma-schuldschein-darlehen-transfer` | Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein 
 
 ## Arbeitsweg
 
-Für **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gk-ma-npl-portfolio-und-loan-to-own`
 
@@ -327,7 +327,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
 
-Dieser Skill bündelt die Strategie zur Ankoppelung an die Verwaltungsauffassung.
+Dieser Skill bearbeitet die Strategie zur Ankoppelung an die Verwaltungsauffassung.
 
 ## Wann brauchen Sie diesen Skill
 

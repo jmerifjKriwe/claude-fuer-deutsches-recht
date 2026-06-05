@@ -7,11 +7,11 @@ description: "Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Berlin, Schulgesetz Brandenburg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Berlin, Schulgesetz Brandenburg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schulgesetz-baden-wuerttemberg` | Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
 | `schulgesetz-bayern` | Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schu
 
 ## Arbeitsweg
 
-Für **Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Berlin, Schulgesetz Brandenburg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Berlin, Schulgesetz Brandenburg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schulgesetz-baden-wuerttemberg`
 

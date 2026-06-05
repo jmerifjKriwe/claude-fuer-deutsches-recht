@@ -7,11 +7,11 @@ description: "Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, No
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, Notare Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R, Notare Vollzugsueberwachung Grundbuch Rechtsprechungscheck Und, Notare Werbung Und Amtsbezeichnung Rechtsprechungscheck Und Red** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, Notare Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R, Notare Vollzugsueberwachung Grundbuch Rechtsprechungscheck Und, Notare Werbung Und Amtsbezeichnung Rechtsprechungscheck Und Red** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-verschwiegenheit-und-datenraum-rechtsprechungscheck-und` | Notare: verschwiegenheit und datenraum - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-verwahrungsanzeige-und-gnotkg-rechtsprechungscheck-und-r` | Notare: verwahrungsanzeige und gnotkg - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Verschwiegenheit Und Datenraum Rechtsprechungsche
 
 ## Arbeitsweg
 
-Für **Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, Notare Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R, Notare Vollzugsueberwachung Grundbuch Rechtsprechungscheck Und, Notare Werbung Und Amtsbezeichnung Rechtsprechungscheck Und Red** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, Notare Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R, Notare Vollzugsueberwachung Grundbuch Rechtsprechungscheck Und, Notare Werbung Und Amtsbezeichnung Rechtsprechungscheck Und Red** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-verschwiegenheit-und-datenraum-rechtsprechungscheck-und`
 

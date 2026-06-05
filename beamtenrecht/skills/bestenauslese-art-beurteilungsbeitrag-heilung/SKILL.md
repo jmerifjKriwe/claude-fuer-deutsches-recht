@@ -7,11 +7,11 @@ description: "Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Maengel, B
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bestenauslese-art-33-ii-gg` | Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk. |
 | `beurteilungsbeitrag-heilung-maengel` | Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter im beamtenrechtlichen Beurteilungsverfahren. Klaert wer einen Beitrag liefern muss wann ein fehlender Beitrag die Beurteilung rechtswidrig macht und wie eine fehlende Heranziehung im Verfahren geheilt werden kann. Behandelt die Konstellationen Abordnung Versetzung Wechsel des Dienstvorgesetzten lange Elternzeit Beurlaubung. Liefert Schriftsatzbausteine zur Anfechtung der Beurteilung und zur Geltendmachung im Konkurrenteneilrechtsschutz. Verweist auf konkurrentenschutz-bestenauslese-art-33-ii-gg. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Mängel, Bindungswirkung Strafurteil 23 Bdg, Bverfg Resilienz Und Bundesverfassungsgerichtswahl 2024 2025** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bestenauslese Art 33 Ii Gg, Beurteilungsbeitrag Heilung Mängel, Bindungswirkung Strafurteil 23 Bdg, Bverfg Resilienz Und Bundesverfassungsgerichtswahl 2024 2025** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bestenauslese-art-33-ii-gg`
 

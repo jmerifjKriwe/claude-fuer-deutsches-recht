@@ -7,11 +7,11 @@ description: "Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zah
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bundesland-verhandlung-vergleich-und-eskalation` | Bundesland: Verhandlung, Vergleich und Eskalation im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-datenerhebung-zahlen-schwellen-und-berechnung` | Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bundesland Verhandlung Vergleich Und Eskalation, Datener
 
 ## Arbeitsweg
 
-Für **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bundesland-verhandlung-vergleich-und-eskalation`
 

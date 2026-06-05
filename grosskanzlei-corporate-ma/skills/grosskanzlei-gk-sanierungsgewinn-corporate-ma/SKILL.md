@@ -7,11 +7,11 @@ description: "Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosska
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess` | Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026. |
 | `grosskanzlei-corporate-ma-deal-os-orchestrator` | Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozes
 
 ## Arbeitsweg
 
-Für **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
 

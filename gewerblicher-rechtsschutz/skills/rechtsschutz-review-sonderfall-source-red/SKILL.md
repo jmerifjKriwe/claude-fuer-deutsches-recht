@@ -7,11 +7,11 @@ description: "Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und E
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-rechtsschutz-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht. |
 | `spezial-review-sonderfall-und-edge-case` | Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonder
 
 ## Arbeitsweg
 
-Für **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-rechtsschutz-tatbestand-beweis-und-belege`
 

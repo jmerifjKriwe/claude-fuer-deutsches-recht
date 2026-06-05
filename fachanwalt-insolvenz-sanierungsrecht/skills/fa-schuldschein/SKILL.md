@@ -7,20 +7,20 @@ description: "Fa Insolvenz Schuldschein Und Lma: wählt den konkreten Prüfpfad,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fa Insolvenz Schuldschein Und Lma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fa Insolvenz Schuldschein Und Lma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-insolvenz-schuldschein-und-lma` | Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan. |
 
 ## Arbeitsweg
 
-Für **Fa Insolvenz Schuldschein Und Lma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fa Insolvenz Schuldschein Und Lma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-insolvenz-schuldschein-und-lma`
 
@@ -39,7 +39,7 @@ Für **Fa Insolvenz Schuldschein Und Lma** zuerst das Arbeitsmodul wählen, dess
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet Finanzierungsdokument, Gläubigerrechte, Planabstimmung und Sicherheitenverwertung.
+Der Skill bearbeitet Finanzierungsdokument, Gläubigerrechte, Planabstimmung und Sicherheitenverwertung.
 
 ## Rechts- und Praxisanker
 

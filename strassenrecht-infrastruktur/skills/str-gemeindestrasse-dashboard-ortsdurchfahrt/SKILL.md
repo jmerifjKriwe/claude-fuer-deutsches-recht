@@ -7,11 +7,11 @@ description: "Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahrt Baulast Prüfen, Str 072 Ortsdurchfahrt Widmung Lesen, Str 073 Ortsdurchfahrt Planrecht Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahrt Baulast Prüfen, Str 072 Ortsdurchfahrt Widmung Lesen, Str 073 Ortsdurchfahrt Planrecht Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-070-gemeindestrasse-dashboard-erstellen` | Straßenrecht und Infrastruktur: Gemeindestraße: Dashboard erstellen. Dashboard erstellen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-071-ortsdurchfahrt-baulast-pruefen` | Straßenrecht und Infrastruktur: Ortsdurchfahrt: Baulast prüfen. Baulast prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ort
 
 ## Arbeitsweg
 
-Für **Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahrt Baulast Prüfen, Str 072 Ortsdurchfahrt Widmung Lesen, Str 073 Ortsdurchfahrt Planrecht Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahrt Baulast Prüfen, Str 072 Ortsdurchfahrt Widmung Lesen, Str 073 Ortsdurchfahrt Planrecht Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-070-gemeindestrasse-dashboard-erstellen`
 

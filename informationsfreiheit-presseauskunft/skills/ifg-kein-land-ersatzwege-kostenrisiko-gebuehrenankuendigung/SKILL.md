@@ -1,17 +1,17 @@
 ---
 name: ifg-kein-land-ersatzwege-kostenrisiko-gebuehrenankuendigung
-description: "Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-004-kein-ifg-im-land-ersatzwege-finden` | Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-005-kostenrisiko-und-gebuehrenankuendigung` | Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenanku
 
 ## Arbeitsweg
 
-Für **Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kein Land Ersatzwege Finden / Kostenrisiko Gebuehrenankuendigung / Drittbeteiligung Bei Betriebsgeheimnis / Personenbezogene Daten Schwaerzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-004-kein-ifg-im-land-ersatzwege-finden`
 

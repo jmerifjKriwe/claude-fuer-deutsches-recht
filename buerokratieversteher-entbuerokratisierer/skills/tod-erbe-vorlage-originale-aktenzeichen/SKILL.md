@@ -7,11 +7,11 @@ description: "Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tod-erbe-behoerde` | Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen. |
 | `vorlage-originale-kopien` | Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeiche
 
 ## Arbeitsweg
 
-Für **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tod-erbe-behoerde`
 

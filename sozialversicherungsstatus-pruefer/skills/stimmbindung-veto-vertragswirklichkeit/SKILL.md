@@ -7,11 +7,11 @@ description: "Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stimmbindung-veto-nebenvertrag` | Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht. |
 | `vertragswirklichkeit-gelebte-praxis` | Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gel
 
 ## Arbeitsweg
 
-Für **Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stimmbindung-veto-nebenvertrag`
 

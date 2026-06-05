@@ -1,17 +1,17 @@
 ---
 name: oeffentliches-wirtschaftsrecht-oew-private-betreiberpflichten
-description: "Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-018-private-betreiberpflichten` | Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-019-vergaberechtliche-vorpruefung` | Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew Private Betreiberpflichten / Oew Vergaberechtliche V
 
 ## Arbeitsweg
 
-Für **Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew Private Betreiberpflichten / Oew Vergaberechtliche Vorpruefung / Oew Exit Rueckabwicklung / Oew Schulbau Oepp Organisationsform Pruefe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-018-private-betreiberpflichten`
 

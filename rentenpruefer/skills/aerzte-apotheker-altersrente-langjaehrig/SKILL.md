@@ -7,21 +7,21 @@ description: "Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaeh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `aerzte-apotheker-architekten-versorgungswerk` | Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung. |
 | `altersrente-langjaehrig-besonders-langjaehrig` | Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken. |
 
 ## Arbeitsweg
 
-Für **Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aerzte Apotheker Architekten Versorgungswerk, Altersrente Langjaehrig Besonders Langjaehrig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `aerzte-apotheker-architekten-versorgungswerk`
 

@@ -1,17 +1,17 @@
 ---
 name: einigungsvertrag-vermoegensrecht-ein-landwirtschaftliche-flaeche
-description: "Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-086-landwirtschaftliche-flaeche-grundbuch` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Grundbuch auswerten. Grundbuch auswerten für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-087-landwirtschaftliche-flaeche-behoerdenb` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Behördenbrief schreiben. Behördenbrief schreiben für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirt
 
 ## Arbeitsweg
 
-Für **Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein Landwirtschaftliche Flaeche Grundbuch / Ein Landwirtschaftliche Flaeche Behoerdenb / Ein Landwirtschaftliche Flaeche Widerspruc / Ein Landwirtschaftliche Flaeche Klage Skiz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-086-landwirtschaftliche-flaeche-grundbuch`
 

@@ -7,11 +7,11 @@ description: "Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrpartei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-cross-zahlen-schwellen-und-berechnung` | Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-duengeverordnung-mehrparteien-konflikt-und-interessen` | Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung 
 
 ## Arbeitsweg
 
-Für **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-cross-zahlen-schwellen-und-berechnung`
 

@@ -7,11 +7,11 @@ description: "Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung V
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-case-internationaler-bezug-und-schnittstellen` | Case: Internationaler Bezug und Schnittstellen im Plugin immobilienrechtspraxis; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-gegen-verhandlung-vergleich-und-eskalation` | Gegen: Verhandlung, Vergleich und Eskalation im Plugin immobilienrechtspraxis; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Case Internationaler Bezug Und Schnittstellen, Gegen Ver
 
 ## Arbeitsweg
 
-Für **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-case-internationaler-bezug-und-schnittstellen`
 

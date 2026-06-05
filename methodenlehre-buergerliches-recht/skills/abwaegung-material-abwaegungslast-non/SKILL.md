@@ -7,11 +7,11 @@ description: "Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `abwaegung-material-auswahl` | Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit. |
 | `abwaegungslast-non-liquet` | Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, A
 
 ## Arbeitsweg
 
-Für **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll, Begründung Anhoerung Und Adressatenfaehigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `abwaegung-material-auswahl`
 
@@ -350,7 +350,7 @@ Die Grenze zwischen Auslegung und Rechtsfortbildung ist eine der wichtigsten met
 ## Erste Schritte
 
 1. Bestimme den Wortlaut der einschlägigen Norm in seiner engsten und weitesten vertretbaren Lesart.
-2. Prüfe alle vier klassischen Auslegungsmethoden: Wortlaut, Systematik, Entstehungsgeschichte, Telos — und notiere das Ergebnis jeder Methode.
+2. Prüfe alle vier klassischen Auslegungsmethoden: Wortlaut, Systematik, fachliche Einordnung, Telos — und notiere das Ergebnis jeder Methode.
 3. Stelle fest, ob alle Methoden innerhalb des Wortlautspektrums konvergieren: Dann liegt reine Auslegung vor.
 4. Prüfe bei Divergenz: Ergibt die Gesamtschau trotzdem eine Lösung innerhalb des Wortlauts oder muss der Wortlaut verlassen werden?
 5. Wenn Wortlautüberschreitung nötig: Begründe die Lückenfeststellung (planwidrige Regelungslücke, nachträglicher Regelungsbedarf, Kodifikationsalterung).

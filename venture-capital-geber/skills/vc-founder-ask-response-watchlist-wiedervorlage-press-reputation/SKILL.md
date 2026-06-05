@@ -1,17 +1,17 @@
 ---
 name: vc-founder-ask-response-watchlist-wiedervorlage-press-reputation
-description: "Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-092-founder-ask-response` | Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent. |
 | `vc-094-watchlist-und-wiedervorlage` | Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Founder Ask Response / Watchlist Wiedervorlage / Press R
 
 ## Arbeitsweg
 
-Für **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Founder Ask Response / Watchlist Wiedervorlage / Press Reputation Social Media / Esg Impact Venture** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-092-founder-ask-response`
 

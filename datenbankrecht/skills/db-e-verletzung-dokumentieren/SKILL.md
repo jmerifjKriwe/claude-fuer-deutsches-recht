@@ -1,17 +1,17 @@
 ---
 name: db-e-verletzung-dokumentieren
-description: "Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-026-datenbankrecht-im-e-commerce-marktplatz` | Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber. |
 | `db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko` | Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung 
 
 ## Arbeitsweg
 
-Für **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Datenbankrecht E Commerce Marktplatz / Db Verletzung Dokumentieren Hashlog Screenshot / Db Einstweilige Verfuegung Datenbankrecht Dringlichkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-026-datenbankrecht-im-e-commerce-marktplatz`
 

@@ -7,11 +7,11 @@ description: "Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Solda
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sexuelle-belaestigung-beschwerde-schutzpflicht` | Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO. |
 | `social-media-soldat-dienstpflichten` | Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social M
 
 ## Arbeitsweg
 
-Für **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sexuelle-belaestigung-beschwerde-schutzpflicht`
 

@@ -7,11 +7,11 @@ description: "Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-historie-compliance-dokumentation-und-akte` | Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung. |
 | `spezial-lueckenfuellung-sonderfall-und-edge-case` | Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Historie Compliance Dokumentation Und Akte, Lueckenfuell
 
 ## Arbeitsweg
 
-Für **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-historie-compliance-dokumentation-und-akte`
 
@@ -41,11 +41,11 @@ Für **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Un
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehung und Parteiwille lückenlos dokumentiert sind. Gleichzeitig verlangen compliance-rechtliche Anforderungen eine revisionssichere Aktenführung. Dieses Skill verbindet methodische Dokumentationsanforderungen mit den praktischen Grundlagen der anwaltlichen und unternehmerischen Aktenführung.
+Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehung und Parteiwille lückenlos dokumentiert sind. Gleichzeitig verlangen compliance-rechtliche Anforderungen eine revisionssichere Aktenführung. Dieses Skill bearbeitet methodische Dokumentationsanforderungen mit den praktischen Grundlagen der anwaltlichen und unternehmerischen Aktenführung.
 
 ## Mandantenfall
 
-- Ein Unternehmen wird bei einer Due-Diligence-Prüfung nach der Entstehungsgeschichte eines Rahmenvertrags befragt. Die historische Dokumentation — Verhandlungsprotokolle, Entwürfe, E-Mail-Korrespondenz — muss vollständig sein, um die historisch-genetische Auslegung des Vertrags zu belegen.
+- Ein Unternehmen wird bei einer Due-Diligence-Prüfung nach der fachliche Einordnung eines Rahmenvertrags befragt. Die historische Dokumentation — Verhandlungsprotokolle, Entwürfe, E-Mail-Korrespondenz — muss vollständig sein, um die historisch-genetische Auslegung des Vertrags zu belegen.
 - Eine Kanzlei wird in einem Haftungsfall aufgefordert, alle relevanten Mandatsdokumente der letzten fünf Jahre vorzulegen. Das Skill hilft, die Aktenstruktur compliance-gerecht aufzubauen, sodass Dokumente vollständig und geordnet vorgelegt werden können.
 - Ein Mandant streitet über den Inhalt eines mündlich geschlossenen Vertrags. Die historische Korrespondenz (Mails, Memos, Besprechungsprotokolle) bildet die Auslegungsgrundlage; das Skill zeigt, wie diese strukturiert und rechtlich eingeordnet werden.
 
@@ -60,7 +60,7 @@ Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehun
 
 ## Rechtsrahmen
 
-- § 133 BGB — historisch-genetische Auslegung; Entstehungsgeschichte als Auslegungsmittel
+- § 133 BGB — historisch-genetische Auslegung; fachliche Einordnung als Auslegungsmittel
 - § 157 BGB — Auslegung nach Verkehrssitte; ergänzt durch historische Kontextualisierung
 - § 50 BRAO — Aktenführungs- und Aufbewahrungspflicht für Rechtsanwälte
 - § 257 HGB — Aufbewahrungspflichten für Handelsbriefe und Buchungsunterlagen
@@ -97,8 +97,8 @@ Das Skill liefert eine strukturierte Aktenübersicht mit Dokumentenklassifizieru
 
 ## Abgrenzungen und Methodik
 
-Die historisch-genetische Auslegung als Auslegungsmittel setzt nicht nur die Kenntnis der Entstehungsgeschichte
-des Gesetzes voraus, sondern auch die Dokumentation der Entstehungsgeschichte des konkreten Vertrags. Beides
+Die historisch-genetische Auslegung als Auslegungsmittel setzt nicht nur die Kenntnis der fachliche Einordnung
+des Gesetzes voraus, sondern auch die Dokumentation der fachliche Einordnung des konkreten Vertrags. Beides
 gehört zusammen: Der Richter legt das Gesetz historisch-genetisch aus; der Anwalt legt den Vertrag durch Bezug
 auf Verhandlungsprotokolle, Entwürfe und Korrespondenz aus. Ohne vollständige historische Dokumentation
 kann diese Auslegungsmethode im Streitfall nicht eingesetzt werden.
@@ -412,7 +412,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-Rechtliche Argumentation ohne Beweisfundament ist im Prozess wertlos. Dieses Skill verbindet die materiell-rechtliche Tatbestandsprüfung unmittelbar mit der prozessrechtlichen Beweisplanung, sodass für jedes Tatbestandsmerkmal von Beginn an die erforderlichen Beweismittel und Belege identifiziert und gesichert werden.
+Rechtliche Argumentation ohne Beweisfundament ist im Prozess wertlos. Dieses Skill bearbeitet die materiell-rechtliche Tatbestandsprüfung unmittelbar mit der prozessrechtlichen Beweisplanung, sodass für jedes Tatbestandsmerkmal von Beginn an die erforderlichen Beweismittel und Belege identifiziert und gesichert werden.
 
 ## Mandantenfall
 

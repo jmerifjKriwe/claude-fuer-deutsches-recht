@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-datenschutzbussgeld-tatbestand
-description: "Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-021-datenschutzbussgeld-tatbestand-zerlege` | Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Tatbestand zerlegen. Tatbestand zerlegen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-023-datenschutzbussgeld-akteneinsicht-schr` | Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Akteneinsicht schreiben. Akteneinsicht schreiben für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datensc
 
 ## Arbeitsweg
 
-Für **Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Datenschutzbussgeld Tatbestand Zerlege / Owi Datenschutzbussgeld Akteneinsicht Schr / Owi Datenschutzbussgeld Einspruch Begruend / Owi Datenschutzbussgeld Einstellung Anrege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-021-datenschutzbussgeld-tatbestand-zerlege`
 

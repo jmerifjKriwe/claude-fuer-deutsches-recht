@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz` | Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang` | Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung U
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz`
 

@@ -7,11 +7,11 @@ description: "Klage Vereinfachtes Verfahren 495a Zpo, Klageerwiderung Fristen 27
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klage-vereinfachtes-verfahren-495a-zpo` | Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt. |
 | `klageerwiderung-fristen-274-zpo` | Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung 
 
 ## Arbeitsweg
 
-Für **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klage Vereinfachtes Verfahren 495A Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klage-vereinfachtes-verfahren-495a-zpo`
 

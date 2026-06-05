@@ -7,11 +7,11 @@ description: "Hybrid Deutsche Rechtsgeschichte 115f Sgb V, Insolvenz Eines Krank
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hybrid-drg-115f-sgb-v` | Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. |
 | `insolvenz-eines-krankenhauses-versorgungssicherung` | Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz E
 
 ## Arbeitsweg
 
-Für **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hybrid-drg-115f-sgb-v`
 

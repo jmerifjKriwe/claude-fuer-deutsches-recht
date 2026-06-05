@@ -7,11 +7,11 @@ description: "Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `einsatzunfall-wehrdienstbeschaedigung` | Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `entlassung-auf-eigenen-antrag` | Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: § 46 SG, SVG, § 56 SG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Ei
 
 ## Arbeitsweg
 
-Für **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `einsatzunfall-wehrdienstbeschaedigung`
 

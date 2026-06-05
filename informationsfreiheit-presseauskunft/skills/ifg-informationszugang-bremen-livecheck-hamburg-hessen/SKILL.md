@@ -1,17 +1,17 @@
 ---
 name: ifg-informationszugang-bremen-livecheck-hamburg-hessen
-description: "Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-025-informationszugang-bremen-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Bremen Livecheck. Informationszugang Bremen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-026-informationszugang-hamburg-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Hamburg Livecheck. Informationszugang Hamburg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Informationszugang Bremen Livecheck / Informationszugang
 
 ## Arbeitsweg
 
-Für **Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationszugang Bremen Livecheck / Informationszugang Hamburg Livecheck / Informationszugang Hessen Livecheck / Informationszugang Mecklenburg Vorpomm** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-025-informationszugang-bremen-livecheck`
 

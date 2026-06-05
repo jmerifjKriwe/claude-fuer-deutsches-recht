@@ -7,11 +7,11 @@ description: "Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberau
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-gartenpflege-baumfaellung` | Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-gewerberaum-betriebspflicht` | Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, 
 
 ## Arbeitsweg
 
-Für **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-gartenpflege-baumfaellung`
 

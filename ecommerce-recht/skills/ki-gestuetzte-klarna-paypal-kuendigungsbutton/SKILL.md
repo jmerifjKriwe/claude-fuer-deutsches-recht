@@ -7,11 +7,11 @@ description: "Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattfor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ki-gestuetzte-preisbildung-diskriminierung` | KI-gestützte Preisbildung Diskriminierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `klarna-paypal-plattformbedingungen-rechtlich-lesen` | Klarna PayPal Plattformbedingungen rechtlich lesen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypa
 
 ## Arbeitsweg
 
-Für **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ki-gestuetzte-preisbildung-diskriminierung`
 

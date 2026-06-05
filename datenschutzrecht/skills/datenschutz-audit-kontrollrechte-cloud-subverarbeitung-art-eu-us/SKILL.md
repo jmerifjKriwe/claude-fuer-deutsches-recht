@@ -1,17 +1,17 @@
 ---
 name: datenschutz-audit-kontrollrechte-cloud-subverarbeitung-art-eu-us
-description: "Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 weitere Module
+# Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `avv-audit-und-kontrollrechte` | Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h DSGVO. Behandelt Vor-Ort-Audits Selbstauskunft Zertifikate sowie das Verhaeltnis zwischen Audit-Recht und Geschaeftsgeheimnis. Output: Audit-Klausel mit Frequenz Verfahren Kostenregel und Eskalation. |
 | `avv-cloud-und-subverarbeitung-art-28-iv` | Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster fuer Sub-AV-Listen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU
 
 ## Arbeitsweg
 
-Für **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Audit Kontrollrechte / Cloud Subverarbeitung Art Iv / EU US Data Privacy Framework / Konzern Multi Party Konstellation / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `avv-audit-und-kontrollrechte`
 

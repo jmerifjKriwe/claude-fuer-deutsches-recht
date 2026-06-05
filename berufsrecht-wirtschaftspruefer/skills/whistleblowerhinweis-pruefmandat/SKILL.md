@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-whistleblowerhinweis-im-pruefmandat-kaltstar` | Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-whistleblowerhinweis-im-pruefmandat-kammeran` | Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat K
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kaltstar, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Kammeran, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa, Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Rechtspr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-whistleblowerhinweis-im-pruefmandat-kaltstar`
 

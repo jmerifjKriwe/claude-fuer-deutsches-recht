@@ -7,11 +7,11 @@ description: "Erbe Compliance Dokumentation Und Akte, Genehmigung Red Team Und Q
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Erbe Compliance Dokumentation Und Akte, Genehmigung Red Team Und Qualitaetskontrolle, Genehmigungspflichten Dokumentenmatrix Und Lueckenliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Erbe Compliance Dokumentation Und Akte, Genehmigung Red Team Und Qualitaetskontrolle, Genehmigungspflichten Dokumentenmatrix Und Lueckenliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-erbe-compliance-dokumentation-und-akte` | Erbe: Compliance-Dokumentation und Aktenvermerk im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-genehmigung-red-team-und-qualitaetskontrolle` | Genehmigung: Red-Team und Qualitätskontrolle im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Erbe Compliance Dokumentation Und Akte, Genehmigung Red 
 
 ## Arbeitsweg
 
-Für **Erbe Compliance Dokumentation Und Akte, Genehmigung Red Team Und Qualitaetskontrolle, Genehmigungspflichten Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erbe Compliance Dokumentation Und Akte, Genehmigung Red Team Und Qualitaetskontrolle, Genehmigungspflichten Dokumentenmatrix Und Lueckenliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-erbe-compliance-dokumentation-und-akte`
 

@@ -7,11 +7,11 @@ description: "Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faellig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faelligkeit, Werkvertrag Grundschema Paragraph 631** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faelligkeit, Werkvertrag Grundschema Paragraph 631** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vertragstypen-mischvertrag-router` | Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT. |
 | `werkvertrag-abnahme-und-faelligkeit` | Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingierte Abnahme und Abnahmeverweigerung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vertragstypen Mischvertrag Router, Werkvertrag Abnahme U
 
 ## Arbeitsweg
 
-Für **Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faelligkeit, Werkvertrag Grundschema Paragraph 631** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faelligkeit, Werkvertrag Grundschema Paragraph 631** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vertragstypen-mischvertrag-router`
 

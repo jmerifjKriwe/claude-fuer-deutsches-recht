@@ -7,28 +7,28 @@ description: "Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig` | Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. |
 | `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` | Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung. |
 | `stb-sanierungsgewinn-verlustvortrag-sanity-check` | Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich. |
 | `bmf-schreiben-radar-2026` | Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende Steuerberatung und verteilt sie in Prüfpfade statt Blindzitate zu erzeugen. |
 | `anw-aussenpruefung-strategien` | Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Prüfungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verständigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verständigung-schlussbesprechung. |
-| `anw-betriebsausgaben-werbungskosten-pruefraster` | Arbeitsmodul zu anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anw-betriebsausgaben-werbungskosten-pruefraster` | Prüffeld für anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `anw-dac7-dac8-plattformen-krypto` | Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bußgeld § 379 AO bei Verletzung. Output Compliance-Prüfliste Meldeprozess Vermeidungsstrategie Beratungsmemo für Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024. |
 | `anw-grest-anzeige-19-closing-check` | Anzeige nach § 19 GrEStG und Closing-Checkliste: wer zeigt was wann welchem Finanzamt an, Inhalt der Anzeige, Grundstücksliste, Beteiligungswechsel, Notar, Gesellschaft, Erwerber, Fristen, Sanktionen und Nachdokumentation. |
 | `anw-grest-share-deal-90-prozent-10-jahre` | GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, unmittelbare und mittelbare Beteiligungen, RETT-Blocker, Altgesellschafter, Kapital- und Personengesellschaften. |
 
 ## Arbeitsweg
 
-Für **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig`
 
@@ -1069,7 +1069,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 6. `anw-betriebsausgaben-werbungskosten-pruefraster`
 
-**Fokus:** Arbeitsmodul zu anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsausgaben Werbungskosten — Prüfraster
 

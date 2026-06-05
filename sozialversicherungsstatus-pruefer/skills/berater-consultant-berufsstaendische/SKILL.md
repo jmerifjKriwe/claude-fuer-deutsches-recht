@@ -7,11 +7,11 @@ description: "Berater Consultant, Berufsstaendische Versorgung Anwaelte, Beschei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `berater-consultant` | Prüft klassische Beratungsmandate, Projektarbeit, onsite Einsatz, feste Tage, Deliverables und mehrere Auftraggeber. |
 | `berufsstaendische-versorgung-anwaelte` | Prüft Versorgungswerk, Rentenbefreiung und Statusfragen bei Anwälten, Syndizi und freien Mitarbeitern. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Berater Consultant, Berufsstaendische Versorgung Anwält
 
 ## Arbeitsweg
 
-Für **Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `berater-consultant`
 

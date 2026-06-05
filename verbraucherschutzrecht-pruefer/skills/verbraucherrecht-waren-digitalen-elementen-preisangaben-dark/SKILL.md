@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-waren-digitalen-elementen-preisangaben-dark
-description: "Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-008-waren-mit-digitalen-elementen` | Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-009-preisangaben-und-dark-patterns` | Verbraucherschutzrecht Prüfer: Preisangaben und Dark Patterns. Preisangaben und Dark Patterns im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Waren Digitalen Elementen / Preisangaben Dark Patterns /
 
 ## Arbeitsweg
 
-Für **Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Waren Digitalen Elementen / Preisangaben Dark Patterns / Uwg Irrefuehrung Verbraucherbezug / Schlichtung Vsbg Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-008-waren-mit-digitalen-elementen`
 

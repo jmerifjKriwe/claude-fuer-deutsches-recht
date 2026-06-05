@@ -7,11 +7,11 @@ description: "Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ethikkommission-und-forschung` | Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. |
 | `exmatrikulation` | Prüft Exmatrikulation und Folgen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ethikkommission Und Forschung, Exmatrikulation, Exmatrik
 
 ## Arbeitsweg
 
-Für **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ethikkommission Und Forschung, Exmatrikulation, Exmatrikulation Beitragsrueckstand, Exportkontrolle Forschung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ethikkommission-und-forschung`
 

@@ -7,11 +7,11 @@ description: "Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-mahnbescheid-fristennotiz-und-naechster-schritt` | Mahnbescheid: Fristennotiz und nächster Schritt im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `zv-titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung). |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Tite
 
 ## Arbeitsweg
 
-Für **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-mahnbescheid-fristennotiz-und-naechster-schritt`
 

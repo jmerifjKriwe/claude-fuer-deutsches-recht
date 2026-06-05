@@ -7,11 +7,11 @@ description: "Fachanwalt Transport Autonome Lkw Konvois Haftung 1d Stvg, Fachanw
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg` | Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung. |
 | `fachanwalt-transport-cmr-schadensregulierung` | Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stv
 
 ## Arbeitsweg
 
-Für **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`
 

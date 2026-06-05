@@ -7,11 +7,11 @@ description: "Ausgabe Mandantenkommunikation Entscheidungsvorlage, Changes Absch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ausgabe Mandantenkommunikation Entscheidungsvorlage, Changes Abschlussprodukt Und Übergabe, Docx Beweislast Und Darlegungslast** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ausgabe Mandantenkommunikation Entscheidungsvorlage, Changes Abschlussprodukt Und Übergabe, Docx Beweislast Und Darlegungslast** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-ausgabe-mandantenkommunikation-entscheidungsvorlage` | Ausgabe: Mandantenkommunikation und Entscheidungsvorlage im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-changes-abschlussprodukt-und-uebergabe` | Changes: Abschlussprodukt und Übergabe im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ausgabe Mandantenkommunikation Entscheidungsvorlage, Cha
 
 ## Arbeitsweg
 
-Für **Ausgabe Mandantenkommunikation Entscheidungsvorlage, Changes Abschlussprodukt Und Übergabe, Docx Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ausgabe Mandantenkommunikation Entscheidungsvorlage, Changes Abschlussprodukt Und Übergabe, Docx Beweislast Und Darlegungslast** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-ausgabe-mandantenkommunikation-entscheidungsvorlage`
 

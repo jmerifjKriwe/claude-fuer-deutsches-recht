@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Handelsregister Anmeldung, Gesellschaftsgrue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-handelsregister-anmeldung` | Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung. |
 | `gesellschaftsgruender-ihk-und-berufsgenossenschaft` | IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Handelsregister Anmeldung, Gesells
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-handelsregister-anmeldung`
 

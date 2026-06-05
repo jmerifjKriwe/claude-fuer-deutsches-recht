@@ -1,6 +1,6 @@
 ---
 name: weg-output-router
-description: "Output-Router Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
+description: "Output-Router Miet/WEG: Prüffeld für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
 ---
 
 # Output-Router Miet/WEG
@@ -15,7 +15,7 @@ description: "Output-Router Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; wä
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

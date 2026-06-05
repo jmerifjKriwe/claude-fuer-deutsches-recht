@@ -7,11 +7,11 @@ description: "Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Bewe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Beweise, Mandanteninterview Ohne Selbstbelastung, Mandantenreport Regulatorische Risikolage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Beweise, Mandanteninterview Ohne Selbstbelastung, Mandantenreport Regulatorische Risikolage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `loeschungsanordnung-und-datenbestand` | Löschungsanordnung und Datenbestand: Löschungsanordnung, Aufbewahrungspflichten, Litigation Hold, Backups und technische Machbarkeit lösen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `logfiles-und-technische-beweise` | Logfiles und technische Beweise: SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Loeschungsanordnung Und Datenbestand, Logfiles Und Techn
 
 ## Arbeitsweg
 
-Für **Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Beweise, Mandanteninterview Ohne Selbstbelastung, Mandantenreport Regulatorische Risikolage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutz-sanktionsverfahren-verteidigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Beweise, Mandanteninterview Ohne Selbstbelastung, Mandantenreport Regulatorische Risikolage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutz-sanktionsverfahren-verteidigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `loeschungsanordnung-und-datenbestand`
 

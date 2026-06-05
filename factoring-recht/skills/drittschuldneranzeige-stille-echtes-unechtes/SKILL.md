@@ -7,11 +7,11 @@ description: "Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Fact
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drittschuldneranzeige-und-stille-zession` | Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `echtes-und-unechtes-factoring-risikoverteilung` | Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Drittschuldneranzeige Und Stille Zession, Echtes Und Une
 
 ## Arbeitsweg
 
-Für **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drittschuldneranzeige-und-stille-zession`
 

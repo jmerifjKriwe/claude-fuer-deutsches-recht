@@ -1,6 +1,6 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: "Arbeitsmodul zu stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen

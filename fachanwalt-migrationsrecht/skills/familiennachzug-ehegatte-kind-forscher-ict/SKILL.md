@@ -7,11 +7,11 @@ description: "Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Za
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-familiennachzug-ehegatte` | Ehegattennachzug: Fachmodul im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-familiennachzug-kind` | Kindernachzug: Fachmodul im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Familiennachzug Ehegatte, Familiennachzug Kind, Familien
 
 ## Arbeitsweg
 
-Für **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-familiennachzug-ehegatte`
 

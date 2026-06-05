@@ -7,11 +7,11 @@ description: "Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen Formular 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen Formular Portal Und Einreichung, Einsteiger Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen Formular Portal Und Einreichung, Einsteiger Mandantenkommunikation Entscheidungsvorlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-deployment-schriftsatz-brief-und-memo-bausteine` | Deployment: Schriftsatz-, Brief- und Memo-Bausteine im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-eigenen-formular-portal-und-einreichung` | Eigenen: Formular, Portal und Einreichungslogik im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen
 
 ## Arbeitsweg
 
-Für **Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen Formular Portal Und Einreichung, Einsteiger Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deployment Schriftsatz Brief Und Memo Bausteine, Eigenen Formular Portal Und Einreichung, Einsteiger Mandantenkommunikation Entscheidungsvorlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-deployment-schriftsatz-brief-und-memo-bausteine`
 

@@ -7,11 +7,11 @@ description: "Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-arbeitsunfall-dguv` | Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation. |
 | `bericht-audit-trail-freigabe` | Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe
 
 ## Arbeitsweg
 
-Für **Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-arbeitsunfall-dguv`
 

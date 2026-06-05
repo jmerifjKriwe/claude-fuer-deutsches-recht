@@ -7,11 +7,11 @@ description: "Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inso-kongruente-deckung-130` | Kongruente Deckungsanfechtung nach § 130 InsO prüfen: geschuldete Sicherung oder Befriedigung, Drei-Monats-Zeitraum vor Insolvenzantrag oder Handlung nach Antrag, Zahlungsunfähigkeit, Kenntnis oder zwingende Kenntnisumstände, Margensicherheiten-Ausnahme, Abgrenzung zu § 131 und § 142 InsO. Output: beleggestützte Anspruchsmatrix. |
 | `inso-rechtsfolge-rueckgewaehr-143-bis-147` | Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung § 146 und Rechtshandlungen nach Eröffnung § 147. Output: Anspruchsberechnung und Schreiben. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewae
 
 ## Arbeitsweg
 
-Für **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso Kongruente Deckung 130, Inso Rechtsfolge Rueckgewaehr 143 Bis 147, Inso Unentgeltliche Leistung 134, Inso Unmittelbar Nachteilige Rechtshandlungen 132** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inso-kongruente-deckung-130`
 

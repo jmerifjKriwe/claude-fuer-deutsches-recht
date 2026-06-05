@@ -7,11 +7,11 @@ description: "Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmftr-kuenstliche-intelligenz-und-technikregulierung` | Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). |
 | `legw-bmftr-raumfahrt-und-weltraumrecht-wrgg` | Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierun
 
 ## Arbeitsweg
 
-Für **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmftr-kuenstliche-intelligenz-und-technikregulierung`
 

@@ -7,11 +7,11 @@ description: "Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `werbung-und-aussenauftritt` | Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `wirtschaftspruefer-aufbewahrung-pruefungsakte-kammerantwort-und` | Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahr
 
 ## Arbeitsweg
 
-Für **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `werbung-und-aussenauftritt`
 

@@ -7,11 +7,11 @@ description: "Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemin
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-rmap-evaluierung-und-aenderung` | Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. |
 | `legw-rmap-export-und-systemintegration` | Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw fuer die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Un
 
 ## Arbeitsweg
 
-Für **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-rmap-evaluierung-und-aenderung`
 

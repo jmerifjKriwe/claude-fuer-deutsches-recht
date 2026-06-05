@@ -7,11 +7,11 @@ description: "Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vorlaeufige-dienstenthebung-38-bdg` | Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. |
 | `vorlaeufige-dienstenthebung-bezuege` | Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Diensten
 
 ## Arbeitsweg
 
-Für **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vorlaeufige-dienstenthebung-38-bdg`
 

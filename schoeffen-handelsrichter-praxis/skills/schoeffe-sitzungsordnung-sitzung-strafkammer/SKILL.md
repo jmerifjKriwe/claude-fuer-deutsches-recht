@@ -7,11 +7,11 @@ description: "Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orien
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung, Schoeffe Strafkammer Rolle Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung, Schoeffe Strafkammer Rolle Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schoeffe-sitzungsordnung-sitzung` | Sitzungsordnung und Auftreten (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `schoeffe-strafkammer-rolle-orientierung` | Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer R
 
 ## Arbeitsweg
 
-Für **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung, Schoeffe Strafkammer Rolle Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schoeffe Sitzungsordnung Sitzung, Schoeffe Strafkammer Rolle Orientierung, Schoeffe Strafkammer Rolle Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schoeffe-sitzungsordnung-sitzung`
 

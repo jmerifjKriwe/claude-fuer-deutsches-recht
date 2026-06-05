@@ -1,17 +1,17 @@
 ---
 name: vc-data-ai-cyber-open-source-software-fintech-crypto-regulated
-description: "Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-039-data-ai-cyber-dd` | Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten. |
 | `vc-040-open-source-software-dd` | Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Data AI Cyber DD / Open Source Software DD / Fintech Cry
 
 ## Arbeitsweg
 
-Für **Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Data AI Cyber DD / Open Source Software DD / Fintech Crypto Regulated Target / Health Medtech Biotech** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-039-data-ai-cyber-dd`
 

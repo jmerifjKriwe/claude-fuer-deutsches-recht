@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-individualklagen-koordinieren-presse
-description: "Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-016-individualklagen-koordinieren` | Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-017-presse-und-kampagnenrisiko` | Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Individualklagen Koordinieren / Presse Kampagnenrisiko /
 
 ## Arbeitsweg
 
-Für **Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Individualklagen Koordinieren / Presse Kampagnenrisiko / Datenschutz Betroffenenpool / Kosten Prozessrisiko** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-016-individualklagen-koordinieren`
 

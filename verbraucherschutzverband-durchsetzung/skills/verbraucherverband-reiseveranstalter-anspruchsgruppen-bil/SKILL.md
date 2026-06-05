@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-reiseveranstalter-anspruchsgruppen-bil
-description: "Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-083-reiseveranstalter-anspruchsgruppen-bil` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-084-reiseveranstalter-registertext-schreib` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Registertext schreiben. Registertext schreiben für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalt
 
 ## Arbeitsweg
 
-Für **Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reiseveranstalter Anspruchsgruppen Bil / Reiseveranstalter Registertext Schreib / Reiseveranstalter Betroffenenformular / Reiseveranstalter Beweisplan Erstellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-083-reiseveranstalter-anspruchsgruppen-bil`
 

@@ -7,11 +7,11 @@ description: "Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `arbeitsgericht-klage` | Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. |
 | `arbeitsschutz` | Prüft Arbeitsschutz-Hinweise und Eskalation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Auf
 
 ## Arbeitsweg
 
-Für **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arbeitsgericht-klage`
 

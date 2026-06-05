@@ -7,11 +7,11 @@ description: "Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pre1972-sound-recordings-1401` | Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken. |
 | `preemption-301-state-law` | Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Pre1972 Sound Recordings 1401, Preemption 301 State Law,
 
 ## Arbeitsweg
 
-Für **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pre1972-sound-recordings-1401`
 

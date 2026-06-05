@@ -7,11 +7,11 @@ description: "Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
 | `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Krisenverfassung Und Permanenter Notstand, Legalitaetspr
 
 ## Arbeitsweg
 
-Für **Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krisenverfassung-und-permanenter-notstand`
 

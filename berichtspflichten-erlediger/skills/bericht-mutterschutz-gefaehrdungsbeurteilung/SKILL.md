@@ -7,11 +7,11 @@ description: "Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Inc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-mutterschutz-gefaehrdungsbeurteilung` | Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation. |
 | `bericht-nis2-bsi-incident` | IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Ni
 
 ## Arbeitsweg
 
-Für **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-mutterschutz-gefaehrdungsbeurteilung`
 

@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-testat-widerruf-verteidigung` | Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und Kammerantwort): steuert fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `wirtschaftspruefer-unabhaengigkeit-praevention` | Wirtschaftsprüfer Unabhängigkeit (Präventions- und Organisationspaket): steuert Independence, Non-Audit-Services, Cooling-off, Netzwerk und Mandatsannahme mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtsch
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-testat-widerruf-verteidigung`
 

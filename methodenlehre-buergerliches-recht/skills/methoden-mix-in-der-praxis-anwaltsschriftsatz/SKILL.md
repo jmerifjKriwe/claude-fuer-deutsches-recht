@@ -89,7 +89,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 **Larenz-Position (idealtypischer Wertungs-Kanon):** Wortlaut als aeussere Grenze; System als Konsistenzpruefung; Historie als Gesetzgeberwille; Telos als Wertungsabschluss. Verfassungs- und Unionsrecht als Querschnitt. Bei Konflikten: keine starre Rangfolge, aber Telos hat Vorrang in Generalklauseln.
 
-**BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
+**BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
 
 **Praktische Konsequenz fuer den Schriftsatz:**
 

@@ -7,11 +7,11 @@ description: "Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `haftung-vorstand` | Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung. |
 | `ehrenamtspauschale-uebungsleiter` | Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Spon
 
 ## Arbeitsweg
 
-Für **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `haftung-vorstand`
 

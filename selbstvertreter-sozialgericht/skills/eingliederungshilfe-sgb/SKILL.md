@@ -7,11 +7,11 @@ description: "Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbar
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster. |
 | `eingliederungsvereinbarung-15-sgb-ii` | Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederung
 
 ## Arbeitsweg
 
-Für **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
 

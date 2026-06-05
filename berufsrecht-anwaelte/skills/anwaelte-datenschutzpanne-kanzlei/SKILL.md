@@ -7,11 +7,11 @@ description: "Anwaelte Datenschutzpanne In Der Kanzlei Organisationspflicht U, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-datenschutzpanne-in-der-kanzlei-organisationspflicht-u` | Anwälte: datenschutzpanne in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-erfolgshonorar-und-prozessfinanzierung-kammerantwort-u` | Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwälte Datenschutzpanne In Der Kanzlei Organisationspf
 
 ## Arbeitsweg
 
-Für **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-datenschutzpanne-in-der-kanzlei-organisationspflicht-u`
 

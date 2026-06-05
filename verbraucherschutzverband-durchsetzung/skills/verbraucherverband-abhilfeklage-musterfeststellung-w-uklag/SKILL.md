@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-abhilfeklage-musterfeststellung-w-uklag
-description: "Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-003-abhilfeklage-oder-musterfeststellung-w` | Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-004-uklag-unterlassung-gegen-agb` | Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Abhilfeklage Musterfeststellung W / Uklag Unterlassung G
 
 ## Arbeitsweg
 
-Für **Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abhilfeklage Musterfeststellung W / Uklag Unterlassung Gegen Agb / Uwg Verbraucherinteressen Pruefen / Quorum Betroffenengruppe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-003-abhilfeklage-oder-musterfeststellung-w`
 

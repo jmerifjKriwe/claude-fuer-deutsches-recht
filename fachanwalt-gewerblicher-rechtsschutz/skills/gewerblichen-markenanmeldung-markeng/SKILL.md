@@ -7,11 +7,11 @@ description: "Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Complia
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-gewerblichen-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf. |
 | `spezial-markenanmeldung-compliance-dokumentation-und-akte` | Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldu
 
 ## Arbeitsweg
 
-Für **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-gewerblichen-tatbestand-beweis-und-belege`
 

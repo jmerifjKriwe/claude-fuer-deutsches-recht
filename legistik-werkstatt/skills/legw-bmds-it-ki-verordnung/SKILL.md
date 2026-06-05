@@ -7,11 +7,11 @@ description: "Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufs
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmds-it-sicherheit-und-bsig` | Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). |
 | `legw-bmds-ki-verordnung-und-aufsichtsstruktur` | Sachbereich KI-Verordnung und Aufsichtsstruktur im Geschaeftsbereich BMDS: Normbestand (KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.); Akteure (BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.); EU-Bezug (KI-VO; AI Office; AI Liability Directive (Entwurf).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnun
 
 ## Arbeitsweg
 
-Für **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmds-it-sicherheit-und-bsig`
 

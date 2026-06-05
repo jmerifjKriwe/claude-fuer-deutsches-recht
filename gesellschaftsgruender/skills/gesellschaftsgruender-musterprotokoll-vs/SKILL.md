@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Musterprotokoll Vs Satzung, Gesellschaftsgru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-musterprotokoll-vs-satzung` | Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist. |
 | `gesellschaftsgruender-notar-vorbereitung` | Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesell
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-musterprotokoll-vs-satzung`
 

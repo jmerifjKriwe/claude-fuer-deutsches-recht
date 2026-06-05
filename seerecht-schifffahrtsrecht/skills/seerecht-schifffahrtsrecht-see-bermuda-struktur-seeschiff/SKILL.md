@@ -1,17 +1,17 @@
 ---
 name: seerecht-schifffahrtsrecht-see-bermuda-struktur-seeschiff
-description: "See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 weitere Module
+# See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-013-bermuda-struktur-pruefen` | Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte. |
 | `see-002-seeschiff-oder-binnenschiff` | Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See Bermuda Struktur Pruefen / See Seeschiff Binnenschif
 
 ## Arbeitsweg
 
-Für **See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See Bermuda Struktur Pruefen / See Seeschiff Binnenschiff / See Schiffsregister Eigentum / See Schiffshypothek Pruefen / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-013-bermuda-struktur-pruefen`
 

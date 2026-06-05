@@ -7,11 +7,11 @@ description: "Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unfallrente-56-sgb-vii` | Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster. |
 | `unfallversicherung-bg-anerkennung-sgb-vii` | Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennun
 
 ## Arbeitsweg
 
-Für **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unfallrente-56-sgb-vii`
 

@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-trade-custom-evidence-lex-mercatoria-award
-description: "Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-081-trade-custom-evidence` | Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org. |
 | `ihl-082-lex-mercatoria-in-award` | Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Trade Custom Evidence / Lex Mercatoria Award / Public Po
 
 ## Arbeitsweg
 
-Für **Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Trade Custom Evidence / Lex Mercatoria Award / Public Policy And Mandatory Law / Sanctions Clause Drafting** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-081-trade-custom-evidence`
 

@@ -7,11 +7,11 @@ description: "Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und Internationale Registrierung, Markenbewertung Asset Deal Insolvenz, Markenlizenz Und Qualitaetskontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und Internationale Registrierung, Markenbewertung Asset Deal Insolvenz, Markenlizenz Und Qualitaetskontrolle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klageantraege-auskunft-vernichtung-rueckruf` | Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit. |
 | `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfraster: Basismarke DE/EU, Subsequent Designations für US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Klageantraege Auskunft Vernichtung Rueckruf, Madrid Prot
 
 ## Arbeitsweg
 
-Für **Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und Internationale Registrierung, Markenbewertung Asset Deal Insolvenz, Markenlizenz Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und Internationale Registrierung, Markenbewertung Asset Deal Insolvenz, Markenlizenz Und Qualitaetskontrolle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klageantraege-auskunft-vernichtung-rueckruf`
 

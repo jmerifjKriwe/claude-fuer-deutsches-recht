@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-spediteur-logistikvertrag-cisg-schadensersatz
-description: "Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-025-spediteur-und-logistikvertrag` | Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport. |
 | `ihl-007-cisg-schadensersatz-und-mitigation` | Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Spediteur Logistikvertrag / Cisg Schadensersatz Mitigati
 
 ## Arbeitsweg
 
-Für **Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spediteur Logistikvertrag / Cisg Schadensersatz Mitigation / Sanktionen Embargos / Dap Dpu Ddp** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-025-spediteur-und-logistikvertrag`
 

@@ -7,11 +7,11 @@ description: "Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drv-selbstcheck-erwerbsstatus` | Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln. |
 | `eigene-betriebsstaette` | Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, E
 
 ## Arbeitsweg
 
-Für **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drv-selbstcheck-erwerbsstatus`
 

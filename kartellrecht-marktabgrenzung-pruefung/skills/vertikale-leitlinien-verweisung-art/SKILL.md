@@ -7,11 +7,11 @@ description: "Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verw
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vertikale-leitlinien-eu-selektiver-vertrieb-plattformverbote` | Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `verweisung-art-4-9-22-fkvo` | Verweisung Art 4 9 22 FKVO: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformver
 
 ## Arbeitsweg
 
-Für **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertikale Leitlinien Eu Selektiver Vertrieb Plattformverbote, Verweisung Art 4 9 22 Fkvo, Vollzugsverbot Gun Jumping** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vertikale-leitlinien-eu-selektiver-vertrieb-plattformverbote`
 

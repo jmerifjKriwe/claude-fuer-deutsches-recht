@@ -49,7 +49,7 @@ Beispiel § 433 BGB (Kaufvertrag):
 - **Historie:** Gesetzesmaterialien des BGB von 1900, Schuldrechtsmodernisierung 2002 (BT-Drs. 14/6040).
 - **Telos:** Synallagmatische Verknuepfung von Sach- und Geldleistung, Erfuellungs- und Gewaehrleistungsfunktion.
 
-Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
+Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
 
 ## Schritt-fuer-Schritt
 

@@ -7,11 +7,11 @@ description: "Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vert
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-vertragsauslegung-und-treu-und-glauben` | Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das Auslegungsraster die bona fides die exceptio doli und die Fortwirkung in § 242 BGB. Liefert Quellenmatrix. |
 | `pralr-spez-vertragsschluss-konsens-und-form` | Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB §§ 145 ff. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr
 
 ## Arbeitsweg
 
-Für **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Vertragsauslegung Und Treu Und Glauben, Pralr Spez Vertragsschluss Konsens Und Form, Pralr Spez Vertragsstrafe Und Konventionalstrafe, Pralr 018 Staatshaftung Aufopferung Einleitung 74 75, Pralr Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-vertragsauslegung-und-treu-und-glauben`
 

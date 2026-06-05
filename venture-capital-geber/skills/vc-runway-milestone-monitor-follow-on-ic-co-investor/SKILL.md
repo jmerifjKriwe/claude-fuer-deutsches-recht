@@ -1,17 +1,17 @@
 ---
 name: vc-runway-milestone-monitor-follow-on-ic-co-investor
-description: "Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-057-runway-milestone-monitor` | Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte. |
 | `vc-058-follow-on-ic-memo` | Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Runway Milestone Monitor / Follow On Ic Memo / Co Invest
 
 ## Arbeitsweg
 
-Für **Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Runway Milestone Monitor / Follow On Ic Memo / Co Investor Coordination / Troubled Portfolio Rescue** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-057-runway-milestone-monitor`
 

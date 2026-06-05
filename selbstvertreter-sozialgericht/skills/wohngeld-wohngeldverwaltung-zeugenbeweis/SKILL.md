@@ -7,11 +7,11 @@ description: "Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo An
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wohngeld-wohngeldverwaltung` | Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster. |
 | `zeugenbeweis-sozialgericht-373-zpo-analog` | Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 
 
 ## Arbeitsweg
 
-Für **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wohngeld-wohngeldverwaltung`
 

@@ -7,11 +7,11 @@ description: "Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-060-nachlassauseinandersetzung-grundbuch-und-erbquoten` | Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen. |
 | `notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig` | Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Er
 
 ## Arbeitsweg
 
-Für **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-060-nachlassauseinandersetzung-grundbuch-und-erbquoten`
 

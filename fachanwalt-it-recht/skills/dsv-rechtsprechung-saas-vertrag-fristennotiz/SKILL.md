@@ -7,11 +7,11 @@ description: "Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen For
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung. |
 | `spezial-saas-fristen-form-und-zustaendigkeit` | Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas F
 
 ## Arbeitsweg
 
-Für **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-rechtsprechung-immaterieller-schaden-bgh-olg`
 

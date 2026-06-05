@@ -7,11 +7,11 @@ description: "Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insolvenzverschleppung-und-bankrott` | Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `internationaler-beweisimport-verwertung` | Internationaler Beweisimport und Verwertung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Insolvenzverschleppung Und Bankrott, Internationaler Bew
 
 ## Arbeitsweg
 
-Für **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insolvenzverschleppung-und-bankrott`
 

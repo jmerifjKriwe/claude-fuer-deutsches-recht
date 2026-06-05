@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-praesentation-im-aufsichtsrat-organisationsp` | Wirtschaftsprüfer: praesentation im aufsichtsrat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-pruefungsplanung-und-dokumentationsluecke-2` | Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organis
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-praesentation-im-aufsichtsrat-organisationsp`
 

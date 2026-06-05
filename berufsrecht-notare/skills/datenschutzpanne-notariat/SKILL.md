@@ -1,17 +1,17 @@
 ---
 name: datenschutzpanne-notariat
-description: "Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 weitere Module
+# Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-datenschutzpanne-notariat-kaltstart-und-faktenmatrix` | Notare: datenschutzpanne notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-dienstaufsicht-beschwerde-kaltstart-und-faktenmatrix` | Notare: dienstaufsicht beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix 
 
 ## Arbeitsweg
 
-Für **Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-datenschutzpanne-notariat-kaltstart-und-faktenmatrix`
 

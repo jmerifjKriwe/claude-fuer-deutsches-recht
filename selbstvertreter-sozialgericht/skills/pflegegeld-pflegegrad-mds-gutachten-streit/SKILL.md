@@ -7,11 +7,11 @@ description: "Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pflegegeld-pflegegrad-1-bis-5` | Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation. |
 | `pflegegrad-mds-gutachten-widerspruch` | Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten 
 
 ## Arbeitsweg
 
-Für **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pflegegeld-pflegegrad-1-bis-5`
 

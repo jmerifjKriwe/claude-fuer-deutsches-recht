@@ -7,27 +7,27 @@ description: "Bag Equal Pay Paarvergleich 8azr30024, Bag Mindesturlaub Kein Verz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `bag-equal-pay-paarvergleich-8azr30024` | Arbeitsmodul zu bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | Arbeitsmodul zu bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-equal-pay-paarvergleich-8azr30024` | Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-mindesturlaub-kein-verzicht-9azr10424` | Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll. |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Arbeitsmodul zu betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `betriebsrat-beschluss-heilung-nachtraeglich` | Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 
-**Fokus:** Arbeitsmodul zu bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -104,7 +104,7 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 
 ## 2. `bag-mindesturlaub-kein-verzicht-9azr10424`
 
-**Fokus:** Arbeitsmodul zu bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -334,7 +334,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 4. `betriebsrat-beschluss-heilung-nachtraeglich`
 
-**Fokus:** Arbeitsmodul zu betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsratsbeschluss — Heilung nachträglich
 

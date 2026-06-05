@@ -7,11 +7,11 @@ description: "Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schrift
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-rechtsabteilungen-risikoampel-und-gegenargumente` | Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-syndikus-schriftsatz-brief-und-memo-bausteine` | Syndikus: Schriftsatz-, Brief- und Memo-Bausteine im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndik
 
 ## Arbeitsweg
 
-Für **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-rechtsabteilungen-risikoampel-und-gegenargumente`
 

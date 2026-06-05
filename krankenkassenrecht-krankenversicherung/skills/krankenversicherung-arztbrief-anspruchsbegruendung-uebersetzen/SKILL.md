@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen
-description: "Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen` | Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV. |
 | `kv-072-kassenaufsicht-beschwerde-und-bmg-bas` | Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsi
 
 ## Arbeitsweg
 
-Für **Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arztbrief Anspruchsbegruendung Uebersetzen / Kassenaufsicht Beschwerde Bmg Bas / Private Krankenversicherung Kuendigung Wechsel Schuld** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen`
 

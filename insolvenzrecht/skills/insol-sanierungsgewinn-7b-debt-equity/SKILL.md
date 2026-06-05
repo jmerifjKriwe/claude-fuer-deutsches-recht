@@ -7,11 +7,11 @@ description: "Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack, I
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` | Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. |
 | `insol-sanierungsgewinn-debt-equity-swap-im-plan` | Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Parall
 
 ## Arbeitsweg
 
-Für **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack`
 

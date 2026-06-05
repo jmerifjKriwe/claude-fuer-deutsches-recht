@@ -7,11 +7,11 @@ description: "Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung V
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anforderungsprofil-konstitutiv-deklaratorisch` | Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtlichen Auswahlentscheidung. Klaert wann ein im Anforderungsprofil aufgestelltes Merkmal die Vergleichsbasis verengt und wann es nur als Auslegungshilfe der Beurteilungen dient. Liefert das Pruefschema zum Wegfall der Vergleichbarkeit bei willkuerlichem Anforderungsprofil und zur Rechtfertigung dienstpostenbezogener Eignungsanforderungen. Hilft bei Anfechtung der Auswahlentscheidung wenn der Mandant durch ein zugeschnittenes Profil ausgeschieden wird. |
 | `anlassbeurteilung-vs-regelbeurteilung` | Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des oeffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. |
@@ -19,10 +19,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anforderungsprofil Konstitutiv Deklaratorisch, Anlassbeurteilung Vs Regelbeurteilung, Anrechnung 55 Beamtvg Mehrere Renten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anforderungsprofil-konstitutiv-deklaratorisch`
 

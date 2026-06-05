@@ -7,11 +7,11 @@ description: "Special Handling Litigation Urgency, Standard Vs Single Vs Gruppen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Special Handling Litigation Urgency, Standard Vs Single Vs Gruppenregistrierung, Statutory Damages 504 412, Subject Matter 102 Scope** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Special Handling Litigation Urgency, Standard Vs Single Vs Gruppenregistrierung, Statutory Damages 504 412, Subject Matter 102 Scope** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `special-handling-litigation-urgency` | Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. |
 | `standard-vs-single-vs-gruppenregistrierung` | Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Special Handling Litigation Urgency, Standard Vs Single 
 
 ## Arbeitsweg
 
-Für **Special Handling Litigation Urgency, Standard Vs Single Vs Gruppenregistrierung, Statutory Damages 504 412, Subject Matter 102 Scope** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Special Handling Litigation Urgency, Standard Vs Single Vs Gruppenregistrierung, Statutory Damages 504 412, Subject Matter 102 Scope** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `special-handling-litigation-urgency`
 

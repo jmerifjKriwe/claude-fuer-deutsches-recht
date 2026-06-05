@@ -7,11 +7,11 @@ description: "Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungssc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Be
 
 ## Arbeitsweg
 
-Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
@@ -32,7 +32,7 @@ Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfris
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Arbeitsmodul ordnet alle markenrechtlich relevanten Daten (Anmeldetage, Benutzungsdokumente, Registerstand, Kampagnen, Abmahnungen, Lieferketten-Vertragsdaten) in eine Timeline mit Belegmatrix.
+Dieser Prüffeld ordnet alle markenrechtlich relevanten Daten (Anmeldetage, Benutzungsdokumente, Registerstand, Kampagnen, Abmahnungen, Lieferketten-Vertragsdaten) in eine Timeline mit Belegmatrix.
 
 ## Pflichtdaten Markenrecht (Timeline)
 - **Prioritätsdatum / Anmeldetag** der eigenen und der Gegenmarke (für Verwechslungsgefahrs-Prüfung und älteres Recht).

@@ -1,17 +1,17 @@
 ---
 name: pe-dual-track-exit-secondary-buyout-sbo-private-credit-direct
-description: "Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-043-dual-track-exit-ipo-sale` | Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output. |
 | `pe-044-secondary-buyout-und-sbo` | Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Privat
 
 ## Arbeitsweg
 
-Für **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dual Track Exit Ipo Sale / Secondary Buyout Sbo / Private Credit Direct Lending / LMA Facility Review Deutsch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-043-dual-track-exit-ipo-sale`
 

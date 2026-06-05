@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-impfleistungen-reiseimpfung-stiko-digitale
-description: "Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-050-impfleistungen-reiseimpfung-und-stiko` | GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung. |
 | `kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung` | GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Impfleistungen Reiseimpfung Stiko / Digitale Gesundheits
 
 ## Arbeitsweg
 
-Für **Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Impfleistungen Reiseimpfung Stiko / Digitale Gesundheitsanwendungen Diga Antrag Erprobung / Telemedizin Epa Erezept Datenschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-050-impfleistungen-reiseimpfung-und-stiko`
 

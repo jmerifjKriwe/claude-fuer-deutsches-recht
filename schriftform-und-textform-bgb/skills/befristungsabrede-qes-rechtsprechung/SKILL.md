@@ -7,11 +7,11 @@ description: "Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 20
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin schriftform-und-textform-bgb: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `befristungsabrede-qes-rechtsprechung-stand-2026` | Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. Prüft Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, § 623 BGB, § 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechun
 
 ## Arbeitsweg
 
-Für **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 
@@ -31,7 +31,7 @@ Für **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rec
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Arbeitsmodul stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
+Dieser Prüffeld stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
 
 ## Formenkanon prüfen
 - **Schriftform (§ 126 BGB):** eigenhändige Namensunterschrift unter der Urkunde; gewillkürte Schriftform (§ 127 BGB) lässt Telekommunikationsformen zu, soweit nicht anders bestimmt.

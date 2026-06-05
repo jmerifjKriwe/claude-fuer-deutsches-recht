@@ -1,17 +1,17 @@
 ---
 name: db-agrar-logistik-cyberincident
-description: "Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-060-datenbankrecht-agrar-und-sensordaten` | Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen. |
 | `db-061-datenbankrecht-im-logistik-tracking` | Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht 
 
 ## Arbeitsweg
 
-Für **Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Datenbankrecht Agrar Sensordaten / Db Datenbankrecht Logistik Tracking / Db Datenbankrecht Cyberincident** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-060-datenbankrecht-agrar-und-sensordaten`
 

@@ -7,11 +7,11 @@ description: "Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Ber
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `beratung-und-abstimmung` | Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `beratung-und-abstimmung-orientierung` | Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Beratung Und Abstimmung, Beratung Und Abstimmung Orienti
 
 ## Arbeitsweg
 
-Für **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beratung Und Abstimmung, Beratung Und Abstimmung Orientierung, Beratung Und Abstimmung Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beratung-und-abstimmung`
 

@@ -7,11 +7,11 @@ description: "Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-haltelinien-verhandlung-vergleich-und-eskalation` | Haltelinien: Verhandlung, Vergleich und Eskalation im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-setzt-schriftsatz-brief-und-memo-bausteine` | Setzt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt 
 
 ## Arbeitsweg
 
-Für **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haltelinien Verhandlung Vergleich Und Eskalation, Setzt Schriftsatz Brief Und Memo Bausteine, Standard Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-haltelinien-verhandlung-vergleich-und-eskalation`
 

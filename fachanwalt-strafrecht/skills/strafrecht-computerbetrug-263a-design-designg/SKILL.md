@@ -7,11 +7,11 @@ description: "Strafrecht Computerbetrug 263a Stgb, Strafrecht Design Strafrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-computerbetrug-263a-stgb` | Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off. |
 | `strafrecht-spezial-design-strafrecht-51-designg` | Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design S
 
 ## Arbeitsweg
 
-Für **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
 

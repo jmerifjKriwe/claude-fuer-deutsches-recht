@@ -7,11 +7,11 @@ description: "Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins. |
 | `methodenfragen-als-verfassungsfragen` | Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenf
 
 ## Arbeitsweg
 
-Für **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `methoden-mix-in-der-praxis-anwaltsschriftsatz`
 
@@ -119,7 +119,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 **Larenz-Position (idealtypischer Wertungs-Kanon):** Wortlaut als aeussere Grenze; System als Konsistenzpruefung; Historie als Gesetzgeberwille; Telos als Wertungsabschluss. Verfassungs- und Unionsrecht als Querschnitt. Bei Konflikten: keine starre Rangfolge, aber Telos hat Vorrang in Generalklauseln.
 
-**BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
+**BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
 
 **Praktische Konsequenz fuer den Schriftsatz:**
 
@@ -375,7 +375,7 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 
 1. **Grammatikalisch** — Wortlaut nach allgemeinem oder fachlichem Sprachgebrauch. **Äußere Grenze** der Auslegung; jenseits davon beginnt Rechtsfortbildung.
 2. **Systematisch** — Stellung im Gesetz, Verhältnis zu Nachbarnormen, Gesamtzusammenhang. Beispiel: § 280 Abs. 1 BGB im System der Schuldverhältnisse, abgegrenzt zu § 311 Abs. 2 BGB und § 823 BGB.
-3. **Historisch** — Entstehungsgeschichte, Materialien (BT-Drucks., Ausschussberichte). In der Praxis oft nachgeordnet, weil Materialien lückenhaft oder schwer zugänglich sind; bei jüngeren Reformgesetzen (Schuldrechtsmodernisierung 2002, MoMiG, KapMuG, Verbraucherrechte-RL-Umsetzung) aber regelmäßig tragfähig.
+3. **Historisch** — fachliche Einordnung, Materialien (BT-Drucks., Ausschussberichte). In der Praxis oft nachgeordnet, weil Materialien lückenhaft oder schwer zugänglich sind; bei jüngeren Reformgesetzen (Schuldrechtsmodernisierung 2002, MoMiG, KapMuG, Verbraucherrechte-RL-Umsetzung) aber regelmäßig tragfähig.
 4. **Teleologisch** — Sinn und Zweck (ratio legis). In der **anwaltlichen Praxis** häufig das **stärkste** Auslegungsargument: Gerichte argumentieren ganz überwiegend teleologisch, weil sich damit gerechte Einzelfallergebnisse begründen lassen. Wer in der Praxis ausschließlich historisch argumentiert, läuft am Gericht vorbei.
 
 **Querschnittskanones:**

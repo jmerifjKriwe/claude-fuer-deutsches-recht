@@ -7,11 +7,11 @@ description: "Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, Gesellschaf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, Gesellschafter Gf Mehrheit, Gitarrenlehrer Und Instrumentalunterricht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, Gesellschafter Gf Mehrheit, Gitarrenlehrer Und Instrumentalunterricht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fremdgeschaeftsfuehrer-gmbh` | Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung. |
 | `geringfuegigkeit-minijob` | Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, G
 
 ## Arbeitsweg
 
-Für **Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, Gesellschafter Gf Mehrheit, Gitarrenlehrer Und Instrumentalunterricht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fremdgeschaeftsfuehrer Gmbh, Geringfuegigkeit Minijob, Gesellschafter Gf Mehrheit, Gitarrenlehrer Und Instrumentalunterricht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fremdgeschaeftsfuehrer-gmbh`
 

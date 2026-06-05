@@ -7,11 +7,11 @@ description: "Anwaelte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-verschwiegenheit-cloud-outsourcing-kammerantwort-und-v` | Anwälte: verschwiegenheit cloud outsourcing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-verschwiegenheit-cloud-outsourcing-organisationspflich` | Anwälte: verschwiegenheit cloud outsourcing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwor
 
 ## Arbeitsweg
 
-Für **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-verschwiegenheit-cloud-outsourcing-kammerantwort-und-v`
 

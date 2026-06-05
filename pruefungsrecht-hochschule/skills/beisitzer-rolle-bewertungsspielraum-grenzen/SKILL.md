@@ -7,11 +7,11 @@ description: "Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, Bewertungs
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, Bewertungsspielraum Und Kontrolle, Chancengleichheit Stoerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, Bewertungsspielraum Und Kontrolle, Chancengleichheit Stoerung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `beisitzer-rolle-muendlich` | Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung. |
 | `bewertungsspielraum-grenzen` | Prüft Bewertungsspielraum, fachwissenschaftliche Kontrolle, Verfahrensfehler und Begründung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, 
 
 ## Arbeitsweg
 
-Für **Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, Bewertungsspielraum Und Kontrolle, Chancengleichheit Stoerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beisitzer Rolle Muendlich, Bewertungsspielraum Grenzen, Bewertungsspielraum Und Kontrolle, Chancengleichheit Stoerung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beisitzer-rolle-muendlich`
 

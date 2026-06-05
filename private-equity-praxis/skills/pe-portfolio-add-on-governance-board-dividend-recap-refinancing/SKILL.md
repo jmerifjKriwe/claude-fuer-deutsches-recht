@@ -1,17 +1,17 @@
 ---
 name: pe-portfolio-add-on-governance-board-dividend-recap-refinancing
-description: "Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-039-portfolio-add-on-akquisition` | Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI. |
 | `pe-040-portfolio-governance-board-pack` | Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Portfolio Add On Akquisition / Portfolio Governance Boar
 
 ## Arbeitsweg
 
-Für **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Portfolio Add On Akquisition / Portfolio Governance Board Pack / Dividend Recap Refinancing / Exit Readiness Vendor DD** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-039-portfolio-add-on-akquisition`
 

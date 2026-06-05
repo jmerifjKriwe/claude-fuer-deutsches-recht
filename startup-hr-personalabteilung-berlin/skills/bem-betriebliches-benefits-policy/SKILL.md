@@ -7,11 +7,11 @@ description: "Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobtic
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobticket Urban Sports, Berlin Bildungszeit Und Feiertage, Besondere Kategorien Gesundheit Schwerbehinderung, Betriebsbedingte Kündigung Startup** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobticket Urban Sports, Berlin Bildungszeit Und Feiertage, Besondere Kategorien Gesundheit Schwerbehinderung, Betriebsbedingte Kündigung Startup** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bem-betriebliches-eingliederungsmanagement` | Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `benefits-policy-jobticket-urban-sports` | Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bem Betriebliches Eingliederungsmanagement, Benefits Pol
 
 ## Arbeitsweg
 
-Für **Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobticket Urban Sports, Berlin Bildungszeit Und Feiertage, Besondere Kategorien Gesundheit Schwerbehinderung, Betriebsbedingte Kündigung Startup** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobticket Urban Sports, Berlin Bildungszeit Und Feiertage, Besondere Kategorien Gesundheit Schwerbehinderung, Betriebsbedingte Kündigung Startup** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bem-betriebliches-eingliederungsmanagement`
 

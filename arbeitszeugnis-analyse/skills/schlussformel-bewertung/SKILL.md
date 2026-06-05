@@ -1,6 +1,6 @@
 ---
 name: schlussformel-bewertung
-description: "Arbeitsmodul zu schlussformel bewertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für schlussformel bewertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Schlussformel-Bewertung

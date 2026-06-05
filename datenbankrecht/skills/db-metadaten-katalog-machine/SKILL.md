@@ -1,17 +1,17 @@
 ---
 name: db-metadaten-katalog-machine
-description: "Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-054-metadaten-katalog-und-thesaurus` | Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten. |
 | `db-055-datenbankrecht-und-machine-learning-features` | Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machi
 
 ## Arbeitsweg
 
-Für **Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Metadaten Katalog Thesaurus / Db Datenbankrecht Machine Learning Features / Db Datenbankrecht Verlag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-054-metadaten-katalog-und-thesaurus`
 

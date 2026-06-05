@@ -7,11 +7,11 @@ description: "Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremium Deckung Finden, Bho 290 Vertrauensgremium Szenario Rechnen, Bho 291 Vertrauensgremium Dashboard Bauen, Bho 292 Vertrauensgremium Risiko Markieren und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremium Deckung Finden, Bho 290 Vertrauensgremium Szenario Rechnen, Bho 291 Vertrauensgremium Dashboard Bauen, Bho 292 Vertrauensgremium Risiko Markieren und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-288-vertrauensgremium-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Sperre bewerten. Sperre bewerten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-289-vertrauensgremium-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Deckung finden. Deckung finden für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertr
 
 ## Arbeitsweg
 
-Für **Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremium Deckung Finden, Bho 290 Vertrauensgremium Szenario Rechnen, Bho 291 Vertrauensgremium Dashboard Bauen, Bho 292 Vertrauensgremium Risiko Markieren und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremium Deckung Finden, Bho 290 Vertrauensgremium Szenario Rechnen, Bho 291 Vertrauensgremium Dashboard Bauen, Bho 292 Vertrauensgremium Risiko Markieren und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-288-vertrauensgremium-sperre-bewerten`
 

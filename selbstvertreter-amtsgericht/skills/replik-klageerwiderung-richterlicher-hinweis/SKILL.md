@@ -7,11 +7,11 @@ description: "Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Z
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `replik-auf-klageerwiderung-systematik` | Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen. |
 | `richterlicher-hinweis-139-zpo-reaktion` | Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Replik Auf Klageerwiderung Systematik, Richterlicher Hin
 
 ## Arbeitsweg
 
-Für **Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `replik-auf-klageerwiderung-systematik`
 

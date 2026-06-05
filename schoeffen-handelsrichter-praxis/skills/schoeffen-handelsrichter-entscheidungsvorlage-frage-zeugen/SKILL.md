@@ -1,17 +1,17 @@
 ---
 name: schoeffen-handelsrichter-entscheidungsvorlage-frage-zeugen
-description: "Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `entscheidungsvorlage` | Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `frage-an-zeugen-stellen-orientierung` | Fragen an Zeugen stellen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Entscheidungsvorlage / Frage Zeugen Stellen Orientierung
 
 ## Arbeitsweg
 
-Für **Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entscheidungsvorlage / Frage Zeugen Stellen Orientierung / Frage Zeugen Stellen Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `entscheidungsvorlage`
 

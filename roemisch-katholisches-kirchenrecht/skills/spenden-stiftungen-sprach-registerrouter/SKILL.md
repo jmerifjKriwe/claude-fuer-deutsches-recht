@@ -7,11 +7,11 @@ description: "Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spenden-stiftungen-und-zweckbindung` | Spenden, Stiftungen und Zweckbindung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen` | Sprach- und Registerrouter für sieben katholische Arbeitssprachen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Spenden Stiftungen Und Zweckbindung, Sprach Und Register
 
 ## Arbeitsweg
 
-Für **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spenden-stiftungen-und-zweckbindung`
 

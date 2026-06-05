@@ -7,11 +7,11 @@ description: "Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranke
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sachverstaendigenbriefing-musik` | Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen. |
 | `sampling-pastiche-remix` | Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix
 
 ## Arbeitsweg
 
-Für **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sachverstaendigenbriefing-musik`
 

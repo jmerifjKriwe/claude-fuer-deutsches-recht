@@ -7,11 +7,11 @@ description: "Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schutz-missbrauch-und-meldepflichten` | Schutz, Missbrauch und Meldepflichten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `seelsorgegesprach-als-skript` | Seelsorgegespräch als Skript: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach 
 
 ## Arbeitsweg
 
-Für **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schutz-missbrauch-und-meldepflichten`
 

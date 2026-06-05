@@ -7,11 +7,11 @@ description: "Offizialat Richter Und Tribunal, Okumene Und Interkommunion, Orden
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Offizialat Richter Und Tribunal, Okumene Und Interkommunion, Orden Institute Und Gelubde, Orientalische Katholiken Und Cceo Router** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Offizialat Richter Und Tribunal, Okumene Und Interkommunion, Orden Institute Und Gelubde, Orientalische Katholiken Und Cceo Router** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `offizialat-richter-und-tribunal` | Offizialat, Richter und Tribunal: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `okumene-und-interkommunion` | Ökumene und Interkommunion: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Offizialat Richter Und Tribunal, Okumene Und Interkommun
 
 ## Arbeitsweg
 
-Für **Offizialat Richter Und Tribunal, Okumene Und Interkommunion, Orden Institute Und Gelubde, Orientalische Katholiken Und Cceo Router** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Offizialat Richter Und Tribunal, Okumene Und Interkommunion, Orden Institute Und Gelubde, Orientalische Katholiken Und Cceo Router** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `offizialat-richter-und-tribunal`
 

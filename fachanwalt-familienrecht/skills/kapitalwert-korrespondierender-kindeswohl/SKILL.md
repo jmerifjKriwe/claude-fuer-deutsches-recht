@@ -7,11 +7,11 @@ description: "Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hoc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kapitalwert-korrespondierender-kapitalwert-pruefen` | Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `kindeswohl-hochkonflikt-wechselmodell` | Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kind
 
 ## Arbeitsweg
 
-Für **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kapitalwert-korrespondierender-kapitalwert-pruefen`
 

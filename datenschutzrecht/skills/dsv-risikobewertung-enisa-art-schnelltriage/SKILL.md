@@ -7,11 +7,11 @@ description: "Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertung Schwell
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-risikobewertung-enisa-schweregrad` | Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an. Behandelt: Data Processing Context DPC; Ease of Identification EI; Circumstances of Breach CB; Schweregradformel SE = DPC × EI + CB; vier Stufen Low Medium High Very High; Übersetzung in Meldepflicht Art. 33 und Benachrichtigung Art. 34 DSGVO. Output: quantitative ENISA-Bewertung mit Faktoren und Schwellenwerten. Abgrenzung: keine EDSA-Beispielmethodik; keine Behördenmeldung. |
 | `dsv-risikobewertung-schwellen-art-33-34` | Strukturiert die Schwellenwertentscheidung nach Art. 33 und Art. 34 DSGVO als anwaltlichen Entscheidungsbaum. Behandelt: voraussichtlich-kein-Risiko-Schwelle Art. 33 Abs. 1; Meldeschwelle; voraussichtlich-hohes-Risiko Art. 34 Abs. 1; Ausnahmen Art. 34 Abs. 3 (technische Schutzmaßnahmen, nachträgliche Risikominderung, unverhältnismäßiger Aufwand); EDSA-Auslegung; deutsche Praxis. Output: Entscheidungsbaum mit Begründungstexten für jede Verzweigung. Abgrenzung: keine konkrete Meldung; keine ENISA-Quantifizierung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertu
 
 ## Arbeitsweg
 
-Für **Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Risikobewertung Enisa Schweregrad, Dsv Risikobewertung Schwellen Art 33 34, Dsv Schnelltriage Risiko, Dsv Sofortmassnahmen Checkliste, Dsv Sozialdaten Sgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-risikobewertung-enisa-schweregrad`
 

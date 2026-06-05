@@ -7,11 +7,11 @@ description: "Bruessel Risikoampel Und Gegenargumente, Cisg Dokumentenmatrix Und
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bruessel Risikoampel Und Gegenargumente, Cisg Dokumentenmatrix Und Lueckenliste, Compliance Sonderfall Und Edge Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bruessel Risikoampel Und Gegenargumente, Cisg Dokumentenmatrix Und Lueckenliste, Compliance Sonderfall Und Edge Case** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bruessel-risikoampel-und-gegenargumente` | Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-cisg-dokumentenmatrix-und-lueckenliste` | Cisg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bruessel Risikoampel Und Gegenargumente, Cisg Dokumenten
 
 ## Arbeitsweg
 
-Für **Bruessel Risikoampel Und Gegenargumente, Cisg Dokumentenmatrix Und Lueckenliste, Compliance Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bruessel Risikoampel Und Gegenargumente, Cisg Dokumentenmatrix Und Lueckenliste, Compliance Sonderfall Und Edge Case** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bruessel-risikoampel-und-gegenargumente`
 

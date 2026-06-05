@@ -7,11 +7,11 @@ description: "Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergle
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-tehg-fristen-form-und-zustaendigkeit` | Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahren-verhandlung-vergleich-und-eskalation` | Verfahren: Verhandlung, Vergleich und Eskalation im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandl
 
 ## Arbeitsweg
 
-Für **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-tehg-fristen-form-und-zustaendigkeit`
 

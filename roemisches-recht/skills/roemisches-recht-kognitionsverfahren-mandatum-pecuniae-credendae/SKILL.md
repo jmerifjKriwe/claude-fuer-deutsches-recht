@@ -1,17 +1,17 @@
 ---
 name: roemisches-recht-kognitionsverfahren-mandatum-pecuniae-credendae
-description: "Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 weitere Module
+# Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-047-kognitionsverfahren` | Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. |
 | `rom-138-mandatum-pecuniae-credendae-bankvertrag` | Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhaeltnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Kognitionsverfahren / Mandatum Pecuniae Credendae Bankve
 
 ## Arbeitsweg
 
-Für **Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kognitionsverfahren / Mandatum Pecuniae Credendae Bankvertrag / Vertragstypen Konsens Real Verbal Litteral / Noxalhaftung / 4 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-047-kognitionsverfahren`
 

@@ -1,17 +1,17 @@
 ---
 name: roemisches-recht-neu-novellen-justinians-byzantinisches
-description: "Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 weitere Module
+# Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki` | Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-peti` | Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzan
 
 ## Arbeitsweg
 
-Für **Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Neu Novellen Justinians Verwaltungsrecht Ehe / Neu Byzantinisches Prozessrecht Richter Kanzlei / Neu Mittelalterliches Roemisches Recht Glossatoren / Neu Kommentatoren Mos Italicus Praktische / 4 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki`
 

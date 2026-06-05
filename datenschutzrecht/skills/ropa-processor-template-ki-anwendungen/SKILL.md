@@ -7,11 +7,11 @@ description: "Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheite
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ropa-en-processor-template` | Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendors with German clients. |
 | `ropa-fuer-ki-anwendungen-besonderheiten` | Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen fuer LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Ropa En Processor Template, Ropa Für Ki Anwendungen Bes
 
 ## Arbeitsweg
 
-Für **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ropa-en-processor-template`
 

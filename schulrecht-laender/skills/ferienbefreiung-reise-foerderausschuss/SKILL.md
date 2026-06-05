@@ -7,11 +7,11 @@ description: "Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ferienbefreiung-reise` | Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe. |
 | `foerderausschuss-und-foerderort` | Prüft Förderausschuss, Förderort, Inklusionsentscheidung und Beteiligungsrechte. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, 
 
 ## Arbeitsweg
 
-Für **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ferienbefreiung Reise, Foerderausschuss Und Foerderort, Foto Video Einwilligung Schule, Gewaltschutz Und Schulischer Schutzplan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ferienbefreiung-reise`
 

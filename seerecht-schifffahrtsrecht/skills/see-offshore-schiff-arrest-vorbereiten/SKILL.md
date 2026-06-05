@@ -7,11 +7,11 @@ description: "See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schif
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schiff Arrest Vorbereiten, See 075 Offshore Schiff Wrackpflicht Prüfen, See 076 Offshore Schiff Versicherung Melden, See 077 Offshore Schiff Local Counsel Instruie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schiff Arrest Vorbereiten, See 075 Offshore Schiff Wrackpflicht Prüfen, See 076 Offshore Schiff Versicherung Melden, See 077 Offshore Schiff Local Counsel Instruie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-072-offshore-schiff-hypothek-bestellen` | Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. |
 | `see-074-offshore-schiff-arrest-vorbereiten` | Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 072 Offshore Schiff Hypothek Bestellen, See 074 Offs
 
 ## Arbeitsweg
 
-Für **See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schiff Arrest Vorbereiten, See 075 Offshore Schiff Wrackpflicht Prüfen, See 076 Offshore Schiff Versicherung Melden, See 077 Offshore Schiff Local Counsel Instruie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schiff Arrest Vorbereiten, See 075 Offshore Schiff Wrackpflicht Prüfen, See 076 Offshore Schiff Versicherung Melden, See 077 Offshore Schiff Local Counsel Instruie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-072-offshore-schiff-hypothek-bestellen`
 

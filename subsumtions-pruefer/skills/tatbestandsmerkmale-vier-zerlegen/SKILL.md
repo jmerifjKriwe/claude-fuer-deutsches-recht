@@ -7,11 +7,11 @@ description: "Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behör
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste` | Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vier-behoerden-gericht-und-registerweg` | Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, V
 
 ## Arbeitsweg
 
-Für **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste`
 

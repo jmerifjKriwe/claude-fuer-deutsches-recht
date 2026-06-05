@@ -7,11 +7,11 @@ description: "Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixatio
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fair-use-four-factors-107` | Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix. |
 | `fashion-jewelry-useful-article` | Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fair Use Four Factors 107, Fashion Jewelry Useful Articl
 
 ## Arbeitsweg
 
-Für **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fair-use-four-factors-107`
 
@@ -245,7 +245,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## Aufgabe
 
-Prüfe die Lage eines deutschen Verlags, dessen Titel in den USA verkauft, importiert, über Plattformen angeboten oder lizenziert wird. Der Skill verbindet Publication-Status, Mandatory Deposit und Registrierungsnutzen.
+Prüfe die Lage eines deutschen Verlags, dessen Titel in den USA verkauft, importiert, über Plattformen angeboten oder lizenziert wird. Der Skill bearbeitet Publication-Status, Mandatory Deposit und Registrierungsnutzen.
 
 ## Prüfschritte
 

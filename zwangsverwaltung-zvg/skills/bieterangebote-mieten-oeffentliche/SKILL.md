@@ -7,11 +7,11 @@ description: "Bieterangebote Compliance Dokumentation Und Akte, Mieten Risikoamp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bieterangebote Compliance Dokumentation Und Akte, Mieten Risikoampel Und Gegenargumente, Oeffentliche Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bieterangebote Compliance Dokumentation Und Akte, Mieten Risikoampel Und Gegenargumente, Oeffentliche Mandantenkommunikation Entscheidungsvorlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bieterangebote-compliance-dokumentation-und-akte` | Bieterangebote: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-mieten-risikoampel-und-gegenargumente` | Mieten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bieterangebote Compliance Dokumentation Und Akte, Mieten
 
 ## Arbeitsweg
 
-Für **Bieterangebote Compliance Dokumentation Und Akte, Mieten Risikoampel Und Gegenargumente, Oeffentliche Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bieterangebote Compliance Dokumentation Und Akte, Mieten Risikoampel Und Gegenargumente, Oeffentliche Mandantenkommunikation Entscheidungsvorlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bieterangebote-compliance-dokumentation-und-akte`
 

@@ -7,11 +7,11 @@ description: "Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wil
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `geschaeftsbesorgung-und-zahlungsdienste` | Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. |
 | `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenste
 
 ## Arbeitsweg
 
-Für **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `geschaeftsbesorgung-und-zahlungsdienste`
 

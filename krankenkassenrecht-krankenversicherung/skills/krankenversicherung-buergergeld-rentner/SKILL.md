@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-buergergeld-rentner
-description: "Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-020-buergergeld-rentner-und-krankenversicherungspflicht` | Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche. |
 | `kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung` | Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Buergergeld Rentner Krankenversicherungspflicht / Satzun
 
 ## Arbeitsweg
 
-Für **Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Buergergeld Rentner Krankenversicherungspflicht / Satzungsleistungen Bonusprogramm Rueckforderung / Md Gutachten Angreifen Befundbericht Gegengutachten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-020-buergergeld-rentner-und-krankenversicherungspflicht`
 

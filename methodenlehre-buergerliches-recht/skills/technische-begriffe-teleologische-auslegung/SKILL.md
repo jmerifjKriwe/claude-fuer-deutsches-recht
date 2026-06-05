@@ -7,11 +7,11 @@ description: "Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, T
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `technische-begriffe-neutralitaetscheck` | Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache. |
 | `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Technische Begriffe Neutralitaetscheck, Teleologische Au
 
 ## Arbeitsweg
 
-Für **Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `technische-begriffe-neutralitaetscheck`
 

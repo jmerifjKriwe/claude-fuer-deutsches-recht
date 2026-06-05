@@ -1,17 +1,17 @@
 ---
 name: pe-anfaenger-modus-begriffe-investorprofil-lp-gp-fund-formation
-description: "Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-002-anfaenger-modus-pe-begriffe` | Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats. |
 | `pe-003-investorprofil-lp-gp-family-office` | Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family O
 
 ## Arbeitsweg
 
-Für **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfaenger Modus Begriffe / Investorprofil Lp Gp Family Office / Fund Formation Deutschland Kagb Scope / Spezial Aif Professionelle Anleger** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-002-anfaenger-modus-pe-begriffe`
 

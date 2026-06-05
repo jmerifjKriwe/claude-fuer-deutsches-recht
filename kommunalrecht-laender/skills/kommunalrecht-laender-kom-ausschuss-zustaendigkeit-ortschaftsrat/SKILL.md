@@ -1,17 +1,17 @@
 ---
 name: kommunalrecht-laender-kom-ausschuss-zustaendigkeit-ortschaftsrat
-description: "Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 weitere Module
+# Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kom-088-ausschuss-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Ausschuss: Zuständigkeit prüfen. Zuständigkeit prüfen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-098-ortschaftsrat-zustaendigkeit-pruefen` | Kommunalrecht der Länder: Ortschaftsrat: Zuständigkeit prüfen. Zuständigkeit prüfen für Ortschaftsrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat
 
 ## Arbeitsweg
 
-Für **Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kom Ausschuss Zustaendigkeit Pruefen / Kom Ortschaftsrat Zustaendigkeit Pruefen / Kom Kommunalaufsicht Zustaendigkeit Pruefe / Kom Kommunalabgabe Zustaendigkeit Pruefen / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kom-088-ausschuss-zustaendigkeit-pruefen`
 

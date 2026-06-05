@@ -7,11 +7,11 @@ description: "Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 3
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kostenrisiko-vs-kostenfreiheit-laien` | Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger. |
 | `krankenkassen-arzneimittel-31-sgb-v` | Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzn
 
 ## Arbeitsweg
 
-Für **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kostenrisiko-vs-kostenfreiheit-laien`
 

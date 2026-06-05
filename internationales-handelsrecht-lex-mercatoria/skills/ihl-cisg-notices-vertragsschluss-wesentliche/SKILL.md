@@ -7,11 +7,11 @@ description: "Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ih
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-008-cisg-fristen-und-notices` | Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44. |
 | `ihl-004-cisg-vertragsschluss` | Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragss
 
 ## Arbeitsweg
 
-Für **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-008-cisg-fristen-und-notices`
 

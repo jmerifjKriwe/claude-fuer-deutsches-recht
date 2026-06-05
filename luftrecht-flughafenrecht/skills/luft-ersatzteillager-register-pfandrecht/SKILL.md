@@ -7,11 +7,11 @@ description: "Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteilla
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteillager Pfandrecht Vorbereiten, Luft 064 Ersatzteillager Pfaendung Planen, Luft 065 Ersatzteillager Genehmigung Prüfen, Luft 066 Ersatzteillager Sicherheitsauflage Bew** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteillager Pfandrecht Vorbereiten, Luft 064 Ersatzteillager Pfaendung Planen, Luft 065 Ersatzteillager Genehmigung Prüfen, Luft 066 Ersatzteillager Sicherheitsauflage Bew** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `luft-062-ersatzteillager-register-auswerten` | Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus. |
 | `luft-063-ersatzteillager-pfandrecht-vorbereiten` | Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Luft 062 Ersatzteillager Register Auswerten, Luft 063 Er
 
 ## Arbeitsweg
 
-Für **Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteillager Pfandrecht Vorbereiten, Luft 064 Ersatzteillager Pfaendung Planen, Luft 065 Ersatzteillager Genehmigung Prüfen, Luft 066 Ersatzteillager Sicherheitsauflage Bew** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `luftrecht-flughafenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteillager Pfandrecht Vorbereiten, Luft 064 Ersatzteillager Pfaendung Planen, Luft 065 Ersatzteillager Genehmigung Prüfen, Luft 066 Ersatzteillager Sicherheitsauflage Bew** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `luftrecht-flughafenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `luft-062-ersatzteillager-register-auswerten`
 

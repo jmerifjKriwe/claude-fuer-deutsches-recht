@@ -7,11 +7,11 @@ description: "Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ehrenamtlicher-richter-asyl-orientierung` | Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `ehrenamtlicher-richter-asyl-sitzung` | Ehrenamtlicher Richter Asyl (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher
 
 ## Arbeitsweg
 
-Für **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ehrenamtlicher-richter-asyl-orientierung`
 

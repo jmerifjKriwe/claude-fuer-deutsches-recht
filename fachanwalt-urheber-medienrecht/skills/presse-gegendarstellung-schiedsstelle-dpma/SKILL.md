@@ -7,11 +7,11 @@ description: "Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-urheber-medienrecht-presse-gegendarstellung` | Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen. |
 | `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg` | Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, 
 
 ## Arbeitsweg
 
-Für **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-presse-gegendarstellung`
 

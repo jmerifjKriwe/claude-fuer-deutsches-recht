@@ -7,11 +7,11 @@ description: "Interessenkollision Mehrfachvertretung Praevention, Interessenkoll
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `interessenkollision-mehrfachvertretung-praevention` | Interessenkollision Mehrfachvertretung (Präventions- und Organisationspaket): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `interessenkollision-mehrfachvertretung-verteidigung` | Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Interessenkollision Mehrfachvertretung Praevention, Inte
 
 ## Arbeitsweg
 
-Für **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `interessenkollision-mehrfachvertretung-praevention`
 

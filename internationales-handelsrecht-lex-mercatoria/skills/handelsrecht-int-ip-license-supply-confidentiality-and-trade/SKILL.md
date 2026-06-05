@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-ip-license-supply-confidentiality-and-trade
-description: "Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-069-ip-license-in-supply-chain` | Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen. |
 | `ihl-070-confidentiality-and-trade-secrets` | Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ip License Supply Chain / Confidentiality And Trade Secr
 
 ## Arbeitsweg
 
-Für **Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ip License Supply Chain / Confidentiality And Trade Secrets / Audit Rights Supplier / Termination Crossborder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-069-ip-license-in-supply-chain`
 

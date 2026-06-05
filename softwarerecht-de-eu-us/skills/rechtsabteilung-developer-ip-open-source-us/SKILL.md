@@ -7,11 +7,11 @@ description: "Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Fachmodul für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Developer Ip Bei Deutschen Angestellten,
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-developer-ip-bei-deutschen-angestellten`
 

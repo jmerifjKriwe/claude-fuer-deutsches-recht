@@ -1,17 +1,17 @@
 ---
 name: pe-warranty-claims-notices-leakage-claim-locked-earn-out-dispute
-description: "Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-081-warranty-claims-und-notices` | Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen. |
 | `pe-082-leakage-claim-locked-box` | Prüft Permitted Leakage, verbotene Leakage, Belege, Claim-Notice und Vergleichsstrategie. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Warranty Claims Notices / Leakage Claim Locked Box / Ear
 
 ## Arbeitsweg
 
-Für **Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Warranty Claims Notices / Leakage Claim Locked Box / Earn Out Dispute / Post Closing Covenant Breach** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-081-warranty-claims-und-notices`
 

@@ -7,11 +7,11 @@ description: "Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650b, Schr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mandat-triage-bau-architektenrecht` | Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme. |
 | `nachtragsmanagement-650b` | Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 
 
 ## Arbeitsweg
 
-Für **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandat-triage-bau-architektenrecht`
 
@@ -526,7 +526,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 - VOB/B §§ 1, 2, 6
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf
 - Stand: 05/2026
 

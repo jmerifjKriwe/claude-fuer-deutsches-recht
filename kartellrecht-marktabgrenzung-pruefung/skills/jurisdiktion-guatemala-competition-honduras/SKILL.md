@@ -7,11 +7,11 @@ description: "Jurisdiktion Guatemala Competition Authority, Jurisdiktion Hondura
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Jurisdiktion Guatemala Competition Authority, Jurisdiktion Honduras Competition Authority, Jurisdiktion Hongkong Competition Authority, Jurisdiktion Indien Competition Authority, Jurisdiktion Indonesien Competition Authority und 9 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Jurisdiktion Guatemala Competition Authority, Jurisdiktion Honduras Competition Authority, Jurisdiktion Hongkong Competition Authority, Jurisdiktion Indien Competition Authority, Jurisdiktion Indonesien Competition Authority und 9 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `jurisdiktion-guatemala-competition-authority` | Jurisdiktionsskill Guatemala: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 | `jurisdiktion-honduras-competition-authority` | Jurisdiktionsskill Honduras: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
@@ -30,10 +30,10 @@ Dieser Skill bündelt **Jurisdiktion Guatemala Competition Authority, Jurisdikti
 
 ## Arbeitsweg
 
-Für **Jurisdiktion Guatemala Competition Authority, Jurisdiktion Honduras Competition Authority, Jurisdiktion Hongkong Competition Authority, Jurisdiktion Indien Competition Authority, Jurisdiktion Indonesien Competition Authority und 9 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Jurisdiktion Guatemala Competition Authority, Jurisdiktion Honduras Competition Authority, Jurisdiktion Hongkong Competition Authority, Jurisdiktion Indien Competition Authority, Jurisdiktion Indonesien Competition Authority und 9 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `jurisdiktion-guatemala-competition-authority`
 

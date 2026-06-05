@@ -7,11 +7,11 @@ description: "Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-startup-ip-budget-warnung-kaltstart-und-faktenma` | Patentanwälte: startup ip budget warnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-uebersetzung-und-verantwortung-kaltstart-und-fak` | Patentanwälte: uebersetzung und verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und F
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Startup Ip Budget Warnung Kaltstart Und Faktenma, Patentanwaelte Uebersetzung Und Verantwortung Kaltstart Und Fak, Patentanwaelte Verschwiegenheit In F And E Projekten Kaltstart, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kaltstart** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-startup-ip-budget-warnung-kaltstart-und-faktenma`
 

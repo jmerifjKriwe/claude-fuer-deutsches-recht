@@ -7,11 +7,11 @@ description: "Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bietergemeinschaft-vergabekartellrecht` | Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `bka-dgcomp-ftc-doj-routing` | BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc D
 
 ## Arbeitsweg
 
-Für **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bietergemeinschaft-vergabekartellrecht`
 

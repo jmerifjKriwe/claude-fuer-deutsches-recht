@@ -1,17 +1,17 @@
 ---
 name: vc-founder-conflict-removal-legitime-deal-taktik-shareholder
-description: "Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-066-founder-conflict-removal` | Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen. |
 | `vc-067-legitime-deal-taktik` | Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Founder Conflict Removal / Legitime Deal Taktik / Shareh
 
 ## Arbeitsweg
 
-Für **Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Founder Conflict Removal / Legitime Deal Taktik / Shareholder Dispute / Competitive Intelligence Lawful** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-066-founder-conflict-removal`
 

@@ -7,11 +7,11 @@ description: "Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, Space 074 Orbit Slot Verwertung Sicherheiten Und Streit, Space 075 Satellitenabschaltung Deorbit Und End Of Life Plan, Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, Space 074 Orbit Slot Verwertung Sicherheiten Und Streit, Space 075 Satellitenabschaltung Deorbit Und End Of Life Plan, Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim` | Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. |
 | `space-074-orbit-slot-verwertung-sicherheiten-und-streit` | Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 073 Raumstation Miet Und Nutzungsvertraege Module 
 
 ## Arbeitsweg
 
-Für **Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, Space 074 Orbit Slot Verwertung Sicherheiten Und Streit, Space 075 Satellitenabschaltung Deorbit Und End Of Life Plan, Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, Space 074 Orbit Slot Verwertung Sicherheiten Und Streit, Space 075 Satellitenabschaltung Deorbit Und End Of Life Plan, Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim`
 

@@ -1,17 +1,17 @@
 ---
 name: agb-recht-vergaberechtliche-vertragsbedingungen-vertragsstrafe
-description: "Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 weitere Module
+# Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vergaberechtliche-vertragsbedingungen` | Branchen-Fachmodul für Vergaberechtliche Vertragsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `vertragsstrafe-309` | Norm- und Dogmatik-Skill für Vertragsstrafe 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Vergaberechtliche Vertragsbedingungen / Vertragsstrafe /
 
 ## Arbeitsweg
 
-Für **Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergaberechtliche Vertragsbedingungen / Vertragsstrafe / Vertraulichkeit Klausel / Agb Vereinsausschluss Haftung / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vergaberechtliche-vertragsbedingungen`
 

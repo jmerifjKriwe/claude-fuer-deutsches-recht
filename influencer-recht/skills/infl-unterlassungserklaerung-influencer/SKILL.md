@@ -7,11 +7,11 @@ description: "Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-042-unterlassungserklaerung-influencer-pruefen` | Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß. |
 | `infl-047-plattform-analytics-als-beweis` | Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 042 Unterlassungserklaerung Influencer Prüfen, Inf
 
 ## Arbeitsweg
 
-Für **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 042 Unterlassungserklaerung Influencer Prüfen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-042-unterlassungserklaerung-influencer-pruefen`
 

@@ -7,11 +7,11 @@ description: "Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-kaution-abrechnung` | Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-kuendigung-form-vollmacht-zugang` | Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, La
 
 ## Arbeitsweg
 
-Für **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-kaution-abrechnung`
 

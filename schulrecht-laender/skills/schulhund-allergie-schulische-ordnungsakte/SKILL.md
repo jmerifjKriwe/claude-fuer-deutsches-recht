@@ -7,11 +7,11 @@ description: "Schulhund Allergie Und Sicherheit, Schulische Ordnungsakte Beweisa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schulhund Allergie Und Sicherheit, Schulische Ordnungsakte Beweisarchiv, Schulkonferenz Und Mitwirkung, Schulpflicht Und Schulversaeumnis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schulhund Allergie Und Sicherheit, Schulische Ordnungsakte Beweisarchiv, Schulkonferenz Und Mitwirkung, Schulpflicht Und Schulversaeumnis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schulhund-allergie-und-sicherheit` | Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte. |
 | `schulische-ordnungsakte-beweisarchiv` | Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Schulhund Allergie Und Sicherheit, Schulische Ordnungsak
 
 ## Arbeitsweg
 
-Für **Schulhund Allergie Und Sicherheit, Schulische Ordnungsakte Beweisarchiv, Schulkonferenz Und Mitwirkung, Schulpflicht Und Schulversaeumnis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schulhund Allergie Und Sicherheit, Schulische Ordnungsakte Beweisarchiv, Schulkonferenz Und Mitwirkung, Schulpflicht Und Schulversaeumnis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schulhund-allergie-und-sicherheit`
 

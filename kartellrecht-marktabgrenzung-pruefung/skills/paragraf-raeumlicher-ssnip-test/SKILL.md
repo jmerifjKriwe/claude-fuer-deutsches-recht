@@ -7,11 +7,11 @@ description: "Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Do
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-paragraf-risikoampel-und-gegenargumente` | Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-raeumlicher-compliance-dokumentation-und-akte` | Raeumlicher: Compliance-Dokumentation und Aktenvermerk im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Com
 
 ## Arbeitsweg
 
-Für **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-paragraf-risikoampel-und-gegenargumente`
 

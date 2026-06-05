@@ -7,11 +7,11 @@ description: "Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertre
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verjaehrung-grundschema-paragraphen-194-218` | Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regelmäßige Verjährungsfrist drei Jahre nach § 195 BGB mit Fristbeginn § 199 BGB, Hemmung §§ 203 bis 213 BGB, Neubeginn § 212 BGB, Einrede der Verjährung und Folge nach § 214 BGB. Prüfraster für Examen. |
 | `vertreter-ohne-vertretungsmacht-paragraphen-177-179` | Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Verjaehrung Grundschema Paragraphen 194 218, Vertreter O
 
 ## Arbeitsweg
 
-Für **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verjaehrung-grundschema-paragraphen-194-218`
 

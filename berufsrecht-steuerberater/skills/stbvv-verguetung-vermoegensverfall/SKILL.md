@@ -7,11 +7,11 @@ description: "Steuerberater Stbvv Verguetung Und Transparenz Rechtsprechungsc, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Stbvv Vergütung Und Transparenz Rechtsprechungsc, Steuerberater Vermoegensverfall Steuerberater Rechtsprechungsch, Steuerberater Verschwiegenheit Cloud Und Datev Rechtsprechungsc, Steuerberater Werbung Social Media Steuern Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Stbvv Vergütung Und Transparenz Rechtsprechungsc, Steuerberater Vermoegensverfall Steuerberater Rechtsprechungsch, Steuerberater Verschwiegenheit Cloud Und Datev Rechtsprechungsc, Steuerberater Werbung Social Media Steuern Rechtsprechungscheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-stbvv-verguetung-und-transparenz-rechtsprechungsc` | Steuerberater: stbvv vergütung und transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-vermoegensverfall-steuerberater-rechtsprechungsch` | Steuerberater: vermoegensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Steuerberater Stbvv Vergütung Und Transparenz Rechtspre
 
 ## Arbeitsweg
 
-Für **Steuerberater Stbvv Vergütung Und Transparenz Rechtsprechungsc, Steuerberater Vermoegensverfall Steuerberater Rechtsprechungsch, Steuerberater Verschwiegenheit Cloud Und Datev Rechtsprechungsc, Steuerberater Werbung Social Media Steuern Rechtsprechungscheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Stbvv Vergütung Und Transparenz Rechtsprechungsc, Steuerberater Vermoegensverfall Steuerberater Rechtsprechungsch, Steuerberater Verschwiegenheit Cloud Und Datev Rechtsprechungsc, Steuerberater Werbung Social Media Steuern Rechtsprechungscheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-stbvv-verguetung-und-transparenz-rechtsprechungsc`
 

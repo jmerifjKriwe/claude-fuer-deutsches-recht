@@ -19,7 +19,7 @@ description: "Leitet durch die methodisch korrekte Einbeziehung von Folgenargume
 
 ## Erste Schritte
 
-1. Stelle fest, ob zwei oder mehr Auslegungsergebnisse nach klassischen Methoden (Wortlaut, Systematik, Entstehungsgeschichte, Telos) gleich vertretbar sind — nur dann dürfen Folgenargumente den Ausschlag geben.
+1. Stelle fest, ob zwei oder mehr Auslegungsergebnisse nach klassischen Methoden (Wortlaut, Systematik, fachliche Einordnung, Telos) gleich vertretbar sind — nur dann dürfen Folgenargumente den Ausschlag geben.
 2. Bestimme die Art der Folgenerwägung: Direkte Normfolgen für die Parteien, systemische Folgen für die Rechtspraxis oder gesellschaftliche Folgen für Dritte und die Allgemeinheit?
 3. Prüfe die empirische Basis der Folgenprognose: Ist die Prognose belegt, plausibel oder spekulativ?
 4. Stelle die methodische Rangfolge klar: Folgenargumente sind Hilfsargumente, keine primären Auslegungsmaßstäbe.

@@ -1,17 +1,17 @@
 ---
 name: steuer-wegzugsteuer-astg-zollwert-unionszollkodex
-description: "Wegzugsteuer AStG / Zollwert Unionszollkodex / Rechtsabteilung Grunderwerbsteuer Share Deal Closing / Rechtsstand Mai Faktenbank: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wegzugsteuer AStG / Zollwert Unionszollkodex / Rechtsabteilung Grunderwerbsteuer Share Deal Closing / Rechtsstand Mai Faktenbank: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wegzugsteuer AStG / Zollwert Unionszollkodex / Rechtsabteilung Grunderwerbsteuer Share Deal Closing / Rechtsstand Mai Faktenbank
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-stu-wegzugsteuer-6-astg` | Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und Liquiditaetsfolge. Behandelt Tatbestaende § 6 AStG Stundungsregeln § 6 Abs. 4 AStG Rueckkehrregelung § 6 Abs. 3 AStG und Sicherheitsleistung. Output Pruefraster Vorab-Berechnung Wegzugsteuer und Stundungsantragsmuster. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd. |
 | `fa-stu-zollwert-unionszollkodex` | Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoehten Zollwert fest. Behandelt Transaktionswertmethode Folgemethoden Anti-Dumping- und Ausgleichszoelle und das verbindliche Auskunftsverfahren VZTA. Output Pruefraster und Einspruchsmuster gegen Nacherhebungsbescheid. Abgrenzung zu fa-stu-energiesteuerentlastung. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Wegzugsteuer AStG / Zollwert Unionszollkodex / Rechtsabteilung Grunderwerbsteuer Share Deal Closing / Rechtsstand Mai Faktenbank** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wegzugsteuer AStG / Zollwert Unionszollkodex / Rechtsabteilung Grunderwerbsteuer Share Deal Closing / Rechtsstand Mai Faktenbank** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-stu-wegzugsteuer-6-astg`
 
@@ -196,7 +196,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## Zweck
 
-Dieser Skill bündelt verifizierte Rechtsstandsanker für das Steuerrecht-Plugin. Er verhindert Blindzitate und zwingt Ausgaben zu einer sauberen Quellenlage.
+Dieser Skill bearbeitet verifizierte Rechtsstandsanker für das Steuerrecht-Plugin. Er verhindert Blindzitate und zwingt Ausgaben zu einer sauberen Quellenlage.
 
 Stand dieser Faktenbank: **29.05.2026**. Vor streitentscheidenden Ausgaben immer den aktuellen Gesetzestext, BMF/BZSt-Veröffentlichungen und BFH-Volltext prüfen.
 

@@ -7,11 +7,11 @@ description: "Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einst
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `computer-kunst-generative-modelle` | Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. |
 | `datenbank-dataset-rechte` | Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Computer Kunst Generative Modelle, Datenbank Dataset Rec
 
 ## Arbeitsweg
 
-Für **Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `computer-kunst-generative-modelle`
 

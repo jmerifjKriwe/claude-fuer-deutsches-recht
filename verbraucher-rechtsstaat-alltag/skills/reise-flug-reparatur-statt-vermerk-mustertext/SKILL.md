@@ -7,11 +7,11 @@ description: "Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `reise-flug-zug-problem` | Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `reparatur-statt-neukauf-right-to-repair` | Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To
 
 ## Arbeitsweg
 
-Für **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `reise-flug-zug-problem`
 

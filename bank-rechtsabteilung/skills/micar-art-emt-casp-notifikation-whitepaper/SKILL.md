@@ -7,11 +7,11 @@ description: "Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, M
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `micar-art-emt-bank-emission` | ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle. |
 | `micar-casp-notifikation-bank-art60` | MiCAR-CASP-Notifikation für Banken nach Art. 60 prüfen: bestehende Erlaubnis, Kryptowerte-Dienstleistung, 40-Arbeitstage-Frist, Unterlagen, BaFin/Bundesbank-Kommunikation und DORA-Schnittstelle. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Micar Art Emt Bank Emission, Micar Casp Notifikation Ban
 
 ## Arbeitsweg
 
-Für **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung, Notfallplan Krisenkommunikation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `micar-art-emt-bank-emission`
 

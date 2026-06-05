@@ -22,7 +22,7 @@ description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit S
 
 Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der § 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach § 9 GmbHG / § 27 AktG.
 
-Dieser Skill verbindet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
+Dieser Skill bearbeitet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
 
 ## Wann brauchen Sie diesen Skill
 

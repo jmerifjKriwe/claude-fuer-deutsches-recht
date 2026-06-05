@@ -7,11 +7,11 @@ description: "Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-koerperverletzung-223-stgb-grund` | Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung. |
 | `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` | Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht 
 
 ## Arbeitsweg
 
-Für **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-koerperverletzung-223-stgb-grund`
 

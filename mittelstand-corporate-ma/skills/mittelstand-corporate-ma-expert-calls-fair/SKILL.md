@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corporate Ma Expert Calls Transkripte, Mittelstand Corporate Ma Fair Disclosure Knowledge, Mittelstand Corporate Ma Freundlicher Copilot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corporate Ma Expert Calls Transkripte, Mittelstand Corporate Ma Fair Disclosure Knowledge, Mittelstand Corporate Ma Freundlicher Copilot** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-due-diligence-reporting` | DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping. |
 | `mittelstand-corporate-ma-expert-calls-transkripte` | Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Due Diligence Reporting, Mittel
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corporate Ma Expert Calls Transkripte, Mittelstand Corporate Ma Fair Disclosure Knowledge, Mittelstand Corporate Ma Freundlicher Copilot** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corporate Ma Expert Calls Transkripte, Mittelstand Corporate Ma Fair Disclosure Knowledge, Mittelstand Corporate Ma Freundlicher Copilot** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-due-diligence-reporting`
 

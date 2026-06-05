@@ -7,11 +7,11 @@ description: "Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkli
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `offboarding-account-sperre-und-datenuebergabe` | Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `offboarding-checkliste-it-payroll` | Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Offboarding Account Sperre Und Datenuebergabe, Offboardi
 
 ## Arbeitsweg
 
-Für **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `offboarding-account-sperre-und-datenuebergabe`
 

@@ -1,17 +1,17 @@
 ---
 name: vc-fdi-merger-control-notar-register-closing-funds-flow-wire
-description: "Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-087-fdi-merger-control-minority` | Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausländische Investoren Behördenrisiken auslösen. |
 | `vc-088-notar-register-closing` | Plant Notartermin, Kapitalerhöhung, Gesellschafterliste, Register, Vollmachten, Zahlungen und Closing Bible. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fdi Merger Control Minority / Notar Register Closing / F
 
 ## Arbeitsweg
 
-Für **Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fdi Merger Control Minority / Notar Register Closing / Funds Flow Wire / Document Version Control** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-087-fdi-merger-control-minority`
 

@@ -7,11 +7,11 @@ description: "Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannab
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `arzneimittelabgabe-verschreibungspflicht` | Arzneimittelabgabe Verschreibungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 | `cannabis-medizinalcannabis-abgabe-dokumentation` | Cannabis Medizinalcannabis Abgabe Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Arzneimittelabgabe Verschreibungspflicht, Cannabis Mediz
 
 ## Arbeitsweg
 
-Für **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `apothekenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arzneimittelabgabe-verschreibungspflicht`
 

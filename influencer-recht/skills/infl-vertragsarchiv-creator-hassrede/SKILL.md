@@ -7,11 +7,11 @@ description: "Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Komme
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-063-vertragsarchiv-creator-dashboard` | Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht. |
 | `infl-028-hassrede-kommentare-moderation-und-haftung` | Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hass
 
 ## Arbeitsweg
 
-Für **Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-063-vertragsarchiv-creator-dashboard`
 

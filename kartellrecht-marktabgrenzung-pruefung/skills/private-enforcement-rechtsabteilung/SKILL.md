@@ -7,11 +7,11 @@ description: "Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartell
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `private-enforcement-schadensersatz-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcement Schadensersatz Intake. |
 | `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung` | Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Private Enforcement Schadensersatz Intake, Rechtsabteilu
 
 ## Arbeitsweg
 
-Für **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `private-enforcement-schadensersatz-intake`
 
@@ -235,7 +235,7 @@ Die Kommission hat in Fusionsfällen Clustermärkte für Bankdienstleistungen, P
 
 ### Prüfungsfragen
 
-- Werden die gebündelten Produkte typischerweise zusammen nachgefragt?
+- Werden die gebearbeiteten Produkte typischerweise zusammen nachgefragt?
 - Würde ein Nachfrager bei Preiserhöhung eines Bundlebestandteils den gesamten Anbieter wechseln?
 - Ist der Anbieter-Cluster wirtschaftlich sinnvoll als Markt abgrenzbar?
 

@@ -7,11 +7,11 @@ description: "Ambulantes Operieren 115b Sgb V, Arbeitszeit Bereitschaftsdienst R
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ambulantes-operieren-115b-sgb-v` | Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. |
 | `arbeitszeit-bereitschaftsdienst-rufdienst` | Arbeitszeit Bereitschaftsdienst Rufdienst: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaf
 
 ## Arbeitsweg
 
-Für **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ambulantes-operieren-115b-sgb-v`
 

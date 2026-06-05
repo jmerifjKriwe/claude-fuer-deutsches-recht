@@ -7,11 +7,11 @@ description: "Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Inde
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Indemnity, Anw Grunderwerbsteuer Share Deal 90 Prozent, Anw Grundsteuer Einspruch Adv Bfh, Anw Grundsteuer Ermittlungsbasis Flaeche Nutzung und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Indemnity, Anw Grunderwerbsteuer Share Deal 90 Prozent, Anw Grundsteuer Einspruch Adv Bfh, Anw Grundsteuer Ermittlungsbasis Flaeche Nutzung und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie. |
 | `anw-grest-spa-tax-clause-indemnity` | GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity, Käufer-/Verkäufertragung, Signing-Closing-Doppelrisiko, Escrow, Mitwirkungspflichten, Anzeigen, Grundbesitzliste und Post-Closing-Steuerklauseln. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax C
 
 ## Arbeitsweg
 
-Für **Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Indemnity, Anw Grunderwerbsteuer Share Deal 90 Prozent, Anw Grundsteuer Einspruch Adv Bfh, Anw Grundsteuer Ermittlungsbasis Flaeche Nutzung und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Indemnity, Anw Grunderwerbsteuer Share Deal 90 Prozent, Anw Grundsteuer Einspruch Adv Bfh, Anw Grundsteuer Ermittlungsbasis Flaeche Nutzung und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anw-grest-bescheid-einspruch-adv-16`
 

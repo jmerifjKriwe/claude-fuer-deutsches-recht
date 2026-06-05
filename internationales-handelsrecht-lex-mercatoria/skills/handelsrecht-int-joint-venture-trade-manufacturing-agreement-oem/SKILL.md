@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-joint-venture-trade-manufacturing-agreement-oem
-description: "Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-065-joint-venture-trade` | Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV). |
 | `ihl-066-manufacturing-agreement` | Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Joint Venture Trade / Manufacturing Agreement / Oem Odm 
 
 ## Arbeitsweg
 
-Für **Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Joint Venture Trade / Manufacturing Agreement / Oem Odm Private Label / Tooling And Molds** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-065-joint-venture-trade`
 

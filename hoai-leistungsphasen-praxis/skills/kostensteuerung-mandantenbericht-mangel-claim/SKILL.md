@@ -1,17 +1,17 @@
 ---
 name: kostensteuerung-mandantenbericht-mangel-claim
-description: "Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 weitere Module
+# Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-09-kostensteuerung` | HOAI LPH 9 Objektbetreuung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
 | `hoai-lph-09-mandantenbericht` | HOAI LPH 9 Objektbetreuung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
@@ -34,10 +34,10 @@ Dieser Skill bündelt **Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mang
 
 ## Arbeitsweg
 
-Für **Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Kostensteuerung / Hoai Mandantenbericht / Hoai Mangel Claim Vorsorge / Hoai Nachtrag Change Request / 14 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-09-kostensteuerung`
 

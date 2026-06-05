@@ -7,11 +7,11 @@ description: "Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-013-unternehmerleasing-gewaehrleistung-durchgriff` | Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit. |
 | `lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn` | Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 013 Unternehmerleasing Gewährleistung Durchgriff,
 
 ## Arbeitsweg
 
-Für **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 013 Unternehmerleasing Gewährleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-013-unternehmerleasing-gewaehrleistung-durchgriff`
 

@@ -7,11 +7,11 @@ description: "Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart F
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hilfsverein-wohlfahrt` | Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb. |
 | `hybride-virtuelle-versammlung` | Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Ka
 
 ## Arbeitsweg
 
-Für **Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hilfsverein-wohlfahrt`
 

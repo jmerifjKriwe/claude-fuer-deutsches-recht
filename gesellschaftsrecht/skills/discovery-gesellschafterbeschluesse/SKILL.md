@@ -7,11 +7,11 @@ description: "Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluess
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-discovery-risikoampel-und-gegenargumente` | Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-gesellschafterbeschluesse-textbausteine` | Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Discovery Risikoampel Und Gegenargumente, Gesellschafter
 
 ## Arbeitsweg
 
-Für **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-discovery-risikoampel-und-gegenargumente`
 

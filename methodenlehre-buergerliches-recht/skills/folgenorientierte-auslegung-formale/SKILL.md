@@ -7,11 +7,11 @@ description: "Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `folgenorientierte-auslegung-empirie` | Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt. |
 | `formale-legalitaet-vs-einzelfallgerechtigkeit` | Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Folgenorientierte Auslegung Empirie, Formale Legalitaet 
 
 ## Arbeitsweg
 
-Für **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin, Gesetzgebung Justiz Wissenschaft Rollen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `folgenorientierte-auslegung-empirie`
 
@@ -51,7 +51,7 @@ Die Berücksichtigung von Rechtsfolgen bei der Auslegung ist methodisch zulässi
 
 ## Erste Schritte
 
-1. Stelle fest, ob zwei oder mehr Auslegungsergebnisse nach klassischen Methoden (Wortlaut, Systematik, Entstehungsgeschichte, Telos) gleich vertretbar sind — nur dann dürfen Folgenargumente den Ausschlag geben.
+1. Stelle fest, ob zwei oder mehr Auslegungsergebnisse nach klassischen Methoden (Wortlaut, Systematik, fachliche Einordnung, Telos) gleich vertretbar sind — nur dann dürfen Folgenargumente den Ausschlag geben.
 2. Bestimme die Art der Folgenerwägung: Direkte Normfolgen für die Parteien, systemische Folgen für die Rechtspraxis oder gesellschaftliche Folgen für Dritte und die Allgemeinheit?
 3. Prüfe die empirische Basis der Folgenprognose: Ist die Prognose belegt, plausibel oder spekulativ?
 4. Stelle die methodische Rangfolge klar: Folgenargumente sind Hilfsargumente, keine primären Auslegungsmaßstäbe.
@@ -205,7 +205,7 @@ Art. 20 Abs. 3 GG bindet die vollziehende Gewalt an Gesetz und Recht sowie die R
 
 1. Liegt für die angegriffene Entscheidung eine klare gesetzliche Grundlage vor?
 2. Bewegt sich die Entscheidung im Wortlautrahmen der einschlägigen Norm?
-3. Entspricht die Entscheidung dem Willen des Gesetzgebers nach Entstehungsgeschichte und Materialien?
+3. Entspricht die Entscheidung dem Willen des Gesetzgebers nach fachliche Einordnung und Materialien?
 4. Wurde richterrechtliche Eigenständigkeit methodisch legitimiert (Lücke, planwidrige Regelungslücke)?
 5. Wurden wesentliche normative Entscheidungen dem Gesetzgeber vorbehalten?
 6. Ist die Entscheidung konsistent mit vergleichbaren Fällen (keine willkürliche Selektion)?
@@ -320,7 +320,7 @@ Die historische Auslegung folgt der subjektiven Theorie, die den Willen des hist
 
 ## Hinweise zur Praxis
 
-Bei Schriftsatzbegründungen zur historischen Auslegung empfiehlt sich ein direktes Zitat aus den Gesetzgebungsmaterialien mit korrekter Quellenangabe (BT-Drs.-Nummer, Datum, Seite). Nur belegbare Aussagen aus den Materialien können als Argument dienen. Sekundärquellen wie Kommentierungen der Entstehungsgeschichte sind schwächer als Primärquellen und sollten entsprechend kenntlich gemacht werden.
+Bei Schriftsatzbegründungen zur historischen Auslegung empfiehlt sich ein direktes Zitat aus den Gesetzgebungsmaterialien mit korrekter Quellenangabe (BT-Drs.-Nummer, Datum, Seite). Nur belegbare Aussagen aus den Materialien können als Argument dienen. Sekundärquellen wie Kommentierungen der fachliche Einordnung sind schwächer als Primärquellen und sollten entsprechend kenntlich gemacht werden.
 
 ## Weiterführende Analyse
 

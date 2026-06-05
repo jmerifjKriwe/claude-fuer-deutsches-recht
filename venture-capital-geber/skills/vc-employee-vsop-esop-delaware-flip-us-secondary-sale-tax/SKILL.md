@@ -1,17 +1,17 @@
 ---
 name: vc-employee-vsop-esop-delaware-flip-us-secondary-sale-tax
-description: "Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-037-employee-vsop-esop` | Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe. |
 | `vc-048-delaware-flip-us-holdco` | Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minderheitenschutz bei Delaware-Flip-Szenarien. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Employee Vsop Esop / Delaware Flip US Holdco / Secondary
 
 ## Arbeitsweg
 
-Für **Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Employee Vsop Esop / Delaware Flip US Holdco / Secondary Sale / Tax Investor Portfolio** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-037-employee-vsop-esop`
 

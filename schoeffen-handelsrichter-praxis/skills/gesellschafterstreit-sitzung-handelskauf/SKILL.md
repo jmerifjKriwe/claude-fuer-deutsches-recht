@@ -7,11 +7,11 @@ description: "Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handel
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `handelsrichter-gesellschafterstreit-sitzung` | Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `handelsrichter-handelskauf-orientierung` | Handelsrichter Handelskauf (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Handelsrichter Gesellschafterstreit Sitzung, Handelsrich
 
 ## Arbeitsweg
 
-Für **Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `handelsrichter-gesellschafterstreit-sitzung`
 

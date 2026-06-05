@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-082-arbeitsgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954. |
 | `drg-083-sozialgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Ges
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 082 Arbeitsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 083 Sozialgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 085 Verfassungsgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 086 Eu Rechtsgeschichte Für Deutsche Juristen, Deutsche Rechtsgeschichte 088 Gewohnheitsrecht Und Observanz und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-082-arbeitsgerichtsbarkeit-geschichte`
 
@@ -312,7 +312,7 @@ Kodifikation ist die planmaessige Zusammenfassung eines Rechtsgebiets in einem G
 2. BGB-Generalklauseln: Tuer fuer Wertungsentscheidungen oder notwendige Flexibilitaet?
 3. DDR-ZGB: War es ein eigenstaendiges Kodifikationsmodell oder Imitat des BGB?
 4. Schuldrechtsmodernisierung 2002: Europaeisierung als Kodifikationsmethode?
-5. Mugdan-Materialien: Darf der Richter die Entstehungsgeschichte heranziehen?
+5. Mugdan-Materialien: Darf der Richter die fachliche Einordnung heranziehen?
 
 ## Methodik
 
@@ -325,7 +325,7 @@ Kodifikation ist die planmaessige Zusammenfassung eines Rechtsgebiets in einem G
 ## Output
 
 - Vergleichstabelle Kodifikationstechniken ALR / Code Civil / BGB / DDR-ZGB
-- Ausgewaehlte Paragraphen mit Entstehungsgeschichte (Mugdan-Bezug)
+- Ausgewaehlte Paragraphen mit fachliche Einordnung (Mugdan-Bezug)
 - Schuldrechtsreform 2002: vor/nach-Vergleich fuer Kerninstitute
 
 ## Quellenregel

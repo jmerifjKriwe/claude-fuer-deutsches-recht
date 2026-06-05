@@ -1,6 +1,6 @@
 ---
 name: aktienrecht-hauptversammlung-ag-se-kaltstart-routing
-description: "Hauptversammlung AG und SE: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Hauptversammlung AG und SE: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Allgemein Kaltstart

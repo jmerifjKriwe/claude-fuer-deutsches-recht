@@ -1,17 +1,17 @@
 ---
 name: energie-bess-produktsicherheit-haftung-versicherung-schadenfall
-description: "Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `er-bess-produktsicherheit-haftung` | Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung. |
 | `er-bess-versicherung-und-schadenfall` | Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bess Produktsicherheit Haftung / Bess Versicherung Schad
 
 ## Arbeitsweg
 
-Für **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakeholder Mapping Energie / Energierecht Eeg Kwkg Erzeugung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `er-bess-produktsicherheit-haftung`
 
@@ -33,7 +33,7 @@ Für **Bess Produktsicherheit Haftung / Bess Versicherung Schadenfall / Stakehol
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet Technikunterlagen mit Haftungs- und Genehmigungsakten.
+Der Skill bearbeitet Technikunterlagen mit Haftungs- und Genehmigungsakten.
 
 ## Rechts- und Praxisanker
 
@@ -123,7 +123,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

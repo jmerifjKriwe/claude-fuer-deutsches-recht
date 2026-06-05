@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfreiheit, De
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfreiheit, Deutsche Rechtsgeschichte 035 Einigungsvertrag Und Rechtsueberleitung, Deutsche Rechtsgeschichte 107 Generalklauseln Als Einbruchstelle Zeitgeist, Deutsche Rechtsgeschichte Einigungsvertrag Rechtsueberleitung Und Vermoegensfr, Deutsche Rechtsgeschichte 023 Deliktsrecht Und Gefaehrdungshaftung und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfreiheit, Deutsche Rechtsgeschichte 035 Einigungsvertrag Und Rechtsueberleitung, Deutsche Rechtsgeschichte 107 Generalklauseln Als Einbruchstelle Zeitgeist, Deutsche Rechtsgeschichte Einigungsvertrag Rechtsueberleitung Und Vermoegensfr, Deutsche Rechtsgeschichte 023 Deliktsrecht Und Gefaehrdungshaftung und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-022-schuldrecht-und-vertragsfreiheit` | Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts. |
 | `drg-035-einigungsvertrag-und-rechtsueberleitung` | Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfr
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfreiheit, Deutsche Rechtsgeschichte 035 Einigungsvertrag Und Rechtsueberleitung, Deutsche Rechtsgeschichte 107 Generalklauseln Als Einbruchstelle Zeitgeist, Deutsche Rechtsgeschichte Einigungsvertrag Rechtsueberleitung Und Vermoegensfr, Deutsche Rechtsgeschichte 023 Deliktsrecht Und Gefaehrdungshaftung und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 022 Schuldrecht Und Vertragsfreiheit, Deutsche Rechtsgeschichte 035 Einigungsvertrag Und Rechtsueberleitung, Deutsche Rechtsgeschichte 107 Generalklauseln Als Einbruchstelle Zeitgeist, Deutsche Rechtsgeschichte Einigungsvertrag Rechtsueberleitung Und Vermoegensfr, Deutsche Rechtsgeschichte 023 Deliktsrecht Und Gefaehrdungshaftung und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-022-schuldrecht-und-vertragsfreiheit`
 

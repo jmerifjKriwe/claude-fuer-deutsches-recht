@@ -7,11 +7,11 @@ description: "Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bes
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klageschrift-anschreiben-an-gericht-laien` | Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters. |
 | `klageschrift-antrag-bestimmt-formulieren` | Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Klageschrift Anschreiben An Gericht Laien, Klageschrift 
 
 ## Arbeitsweg
 
-Für **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klageschrift-anschreiben-an-gericht-laien`
 

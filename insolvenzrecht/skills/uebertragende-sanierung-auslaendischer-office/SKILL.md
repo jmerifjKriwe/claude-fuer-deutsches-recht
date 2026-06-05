@@ -7,23 +7,23 @@ description: "Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Hol
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `uebertragende-sanierung-und-asset-deals` | Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin). |
 | `auslaendischer-office-holder-register-und-grundbuch` | Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann. |
-| `vorsatzanfechtung-133-inso` | Arbeitsmodul zu vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `vorsatzanfechtung-133-inso` | Prüffeld für vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `zahlungsunfaehigkeit-pruefung-17-inso` | Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung. Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund oder § 17 InsO prüfen möchte. |
 
 ## Arbeitsweg
 
-Für **Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `uebertragende-sanierung-und-asset-deals`
 
@@ -457,7 +457,7 @@ Erzeuge ein Nachweispaket `ausländische Entscheidung / Amtsnachweis / Befugnis 
 
 ## 3. `vorsatzanfechtung-133-inso`
 
-**Fokus:** Arbeitsmodul zu vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vorsatzanfechtung § 133 InsO
 

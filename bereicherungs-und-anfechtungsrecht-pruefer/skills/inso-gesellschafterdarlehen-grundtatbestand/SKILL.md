@@ -7,11 +7,11 @@ description: "Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inso-gesellschafterdarlehen-135` | Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung. |
 | `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Einstieg für §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeröffnung). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 12
 
 ## Arbeitsweg
 
-Für **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inso-gesellschafterdarlehen-135`
 

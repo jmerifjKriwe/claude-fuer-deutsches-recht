@@ -7,11 +7,11 @@ description: "Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, En
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verwr-verwaltungsverfahren-checkliste` | Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler. |
 | `eilantrag-80-abs-5-vwgo` | Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 
 
 ## Arbeitsweg
 
-Für **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verwr-verwaltungsverfahren-checkliste`
 
@@ -71,7 +71,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 - **Drei-Tages-Fiktion** § 41 II VwVfG nur bei Versendung im Inland; bei Auslandszustellung andere Regeln (§ 41 II 4 VwVfG).
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-verwaltungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

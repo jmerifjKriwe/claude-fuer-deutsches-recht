@@ -7,11 +7,11 @@ description: "Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-fachberaterbezeichnung-organisationspflicht-und-p` | Steuerberater: fachberaterbezeichnung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-familiengesellschaft-conflict-check-kammerantwort` | Steuerberater: familiengesellschaft conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Steuerberater Fachberaterbezeichnung Organisationspflich
 
 ## Arbeitsweg
 
-Für **Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-fachberaterbezeichnung-organisationspflicht-und-p`
 

@@ -7,11 +7,11 @@ description: "Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-002-scheinprivatisierung-erkennen` | Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-003-oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Stru
 
 ## Arbeitsweg
 
-Für **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Prüfen, Oew 004 Projektfinanzierung Öffentlich, Oew 005 Kommunales Unternehmen Zulaessig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-002-scheinprivatisierung-erkennen`
 

@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-widerspruch-gegen-leistungsablehnung
-description: "Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-024-widerspruch-gegen-leistungsablehnung-frist-und-begruendun` | Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begründungsanforderungen, Widerspruchsstellen und typische Fehler. |
 | `kv-025-eilverfahren-sozialgericht-medizinische-dringlichkeit` | Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, Anordnungsgrund, medizinische Dringlichkeit und Glaubhaftmachung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Widerspruch Gegen Leistungsablehnung Frist Begruendun / 
 
 ## Arbeitsweg
 
-Für **Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Widerspruch Gegen Leistungsablehnung Frist Begruendun / Eilverfahren Sozialgericht Medizinische Dringlichkeit / Unfallversicherung Krankenkasse Zustaendigkeitsstrei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-024-widerspruch-gegen-leistungsablehnung-frist-und-begruendun`
 

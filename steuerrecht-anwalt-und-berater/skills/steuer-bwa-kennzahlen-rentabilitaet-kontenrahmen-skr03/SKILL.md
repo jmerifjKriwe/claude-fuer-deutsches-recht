@@ -1,17 +1,17 @@
 ---
 name: steuer-bwa-kennzahlen-rentabilitaet-kontenrahmen-skr03
-description: "BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 weitere Module
+# BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` | Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung. |
 | `stb-bwa-kontenrahmen-skr03-skr04` | Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenra
 
 ## Arbeitsweg
 
-Für **BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **BWA Kennzahlen Rentabilitaet Eigenkapital / BWA Kontenrahmen Skr03 Skr04 / BWA Mandantenreport Monatlich / BWA Statische Liquiditaet Kennzahlen / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-bwa-kennzahlen-rentabilitaet-eigenkapital`
 

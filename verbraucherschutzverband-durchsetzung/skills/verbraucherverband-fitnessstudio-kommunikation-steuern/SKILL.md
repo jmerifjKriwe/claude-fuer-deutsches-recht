@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-fitnessstudio-kommunikation-steuern
-description: "Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-079-fitnessstudio-kommunikation-steuern` | Verbraucherschutzverband Durchsetzung: Fitnessstudio: Kommunikation steuern. Kommunikation steuern für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-089-reiseveranstalter-kommunikation-steuer` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Kommunikation steuern. Kommunikation steuern für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fitnessstudio Kommunikation Steuern / Reiseveranstalter 
 
 ## Arbeitsweg
 
-Für **Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fitnessstudio Kommunikation Steuern / Reiseveranstalter Kommunikation Steuer / Flugportal Kommunikation Steuern / Klageberechtigung Stelle Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-079-fitnessstudio-kommunikation-steuern`
 

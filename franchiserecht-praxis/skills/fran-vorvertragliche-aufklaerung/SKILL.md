@@ -7,11 +7,11 @@ description: "Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, F
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-002-vorvertragliche-aufklaerung-und-rentabilitaetsprognose` | Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer. |
 | `fran-003-franchisevertrag-agb-redline` | Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsp
 
 ## Arbeitsweg
 
-Für **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-002-vorvertragliche-aufklaerung-und-rentabilitaetsprognose`
 

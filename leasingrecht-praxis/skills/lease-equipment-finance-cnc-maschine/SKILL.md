@@ -7,11 +7,11 @@ description: "Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-052-equipment-finance-term-sheet` | Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss. |
 | `lease-053-cnc-maschine-abnahme-maengel` | CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Ma
 
 ## Arbeitsweg
 
-Für **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-052-equipment-finance-term-sheet`
 
@@ -254,7 +254,7 @@ CNC-Maschinen (Computer Numerical Control) sind hochpräzise Fertigungsanlagen m
 
 ## Zweck
 
-Flottentelematik liefert wertvolle Daten für Kostenoptimierung, Sicherheit und Wartungsplanung – aber sie birgt erhebliche Datenschutzrisiken. Dieser Skill verbindet technische Telematikstrategie mit rechtlicher Compliance.
+Flottentelematik liefert wertvolle Daten für Kostenoptimierung, Sicherheit und Wartungsplanung – aber sie birgt erhebliche Datenschutzrisiken. Dieser Skill bearbeitet technische Telematikstrategie mit rechtlicher Compliance.
 
 ## Telematikdaten: Kategorien und Verwendung
 

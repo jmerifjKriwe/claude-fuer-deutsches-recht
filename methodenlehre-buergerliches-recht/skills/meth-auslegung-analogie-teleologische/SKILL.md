@@ -7,11 +7,11 @@ description: "Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `meth-auslegung-vertrag-leitfaden` | Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden. |
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologi
 
 ## Arbeitsweg
 
-Für **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `meth-auslegung-vertrag-leitfaden`
 
@@ -369,7 +369,7 @@ Juristische Argumentation ist dann methodisch redlich, wenn die verwendeten Ausl
 1. Identifiziere alle in der Argumentation (eigen oder gegnerisch) verwendeten Auslegungsmethoden und deren Reihenfolge.
 2. Prüfe, ob ein konsistentes Methodenprogramm verfolgt wird oder ob die Methode opportunistisch am Ergebnis ausgerichtet ist.
 3. Analysiere, ob der Methodenwechsel methodisch begründet ist: Hat die zunächst angewendete Methode zu einem offensichtlich sinnwidrigen Ergebnis geführt, das einen Wechsel rechtfertigt?
-4. Bestimme, ob die Hierarchie der Auslegungsmethoden beachtet wird (Wortlaut zuerst, dann Systematik, Entstehungsgeschichte, Telos).
+4. Bestimme, ob die Hierarchie der Auslegungsmethoden beachtet wird (Wortlaut zuerst, dann Systematik, fachliche Einordnung, Telos).
 5. Formuliere eine methodische Kritik des Methodenwechsels, wenn er nicht begründet ist, und zeige auf, welche Methode konsequent anzuwenden wäre.
 6. Wende die methodisch konsistente Auslegung auf den Sachverhalt an und begründe das Ergebnis.
 

@@ -69,7 +69,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 > Die Vertraulichkeitspflicht beginnt mit Offenlegung der Vertraulichen Information und besteht waehrend der Vertragslaufzeit fort. Sie wirkt fuer einen Zeitraum von [3/5/10] Jahren ueber das Ende dieses Vertrages hinaus. Fuer Informationen, die Geschaeftsgeheimnisse i.S.d. § 2 Nr. 1 GeschGehG sind, besteht die Vertraulichkeitspflicht solange fort, wie diese Informationen die Voraussetzungen eines Geschaeftsgeheimnisses erfuellen.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

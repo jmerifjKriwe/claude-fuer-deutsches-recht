@@ -7,11 +7,11 @@ description: "Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mappi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Java Code Signing Zertifikate** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Java Code Signing Zertifikate** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `incident-meldekaskade-24-72-abschluss` | Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. |
 | `iot-geraete` | Prüft IoT-Geräte im Unternehmen und Produktkontext. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso2
 
 ## Arbeitsweg
 
-Für **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Java Code Signing Zertifikate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Java Code Signing Zertifikate** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `incident-meldekaskade-24-72-abschluss`
 

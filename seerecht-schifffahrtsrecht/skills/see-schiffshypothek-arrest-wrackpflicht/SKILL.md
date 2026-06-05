@@ -7,11 +7,11 @@ description: "See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-024-schiffshypothek-arrest-vorbereiten` | Schiffshypothek: Glaeubiger sichert Anspruch an hypothekenbelastetes Seeschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. |
 | `see-025-schiffshypothek-wrackpflicht-pruefen` | Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schi
 
 ## Arbeitsweg
 
-Für **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-024-schiffshypothek-arrest-vorbereiten`
 

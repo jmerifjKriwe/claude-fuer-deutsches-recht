@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-krankengeld-anspruch-arbeitsunfaehigkeit
-description: "Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl` | Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien. |
 | `kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche` | Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Naht
 
 ## Arbeitsweg
 
-Für **Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl / Reha Vor Rente Zustaendigkeit Krankenkasse / Kassenwahl Kuendigung Bindungsfrist Wahltarif** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl`
 

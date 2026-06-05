@@ -1,17 +1,17 @@
 ---
 name: china-environmental-permits-factory-workplace-safety-union-and
-description: "Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-090-environmental-permits-factory` | Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping. |
 | `chn-091-workplace-safety-factory` | Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Environmental Permits Factory / Workplace Safety Factory
 
 ## Arbeitsweg
 
-Für **Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Environmental Permits Factory / Workplace Safety Factory / Union And Labour Touchpoints / Security Of Travel And Devices** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-090-environmental-permits-factory`
 

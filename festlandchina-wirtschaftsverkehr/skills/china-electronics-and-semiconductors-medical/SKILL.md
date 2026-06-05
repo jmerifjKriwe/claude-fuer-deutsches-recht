@@ -1,17 +1,17 @@
 ---
 name: china-electronics-and-semiconductors-medical
-description: "Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-035-electronics-and-semiconductors` | Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad. |
 | `chn-036-medical-device-china-supply` | Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Electronics And Semiconductors / Medical Device China Su
 
 ## Arbeitsweg
 
-Für **Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Electronics And Semiconductors / Medical Device China Supply / Automotive Supply Chain / Textile And Fashion Sourcing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-035-electronics-and-semiconductors`
 

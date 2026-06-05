@@ -7,11 +7,11 @@ description: "Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmas-teilhabe-und-schwerbehindertenrecht-sgb-ix` | Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). |
 | `legw-bmbfsfj-familien-und-elterngeldrecht` | Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Le
 
 ## Arbeitsweg
 
-Für **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmas-teilhabe-und-schwerbehindertenrecht-sgb-ix`
 

@@ -7,11 +7,11 @@ description: "Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schoeffe-polizeizeuge-orientierung` | Polizeizeuge würdigen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `schoeffe-polizeizeuge-sitzung` | Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeug
 
 ## Arbeitsweg
 
-Für **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schoeffe-polizeizeuge-orientierung`
 

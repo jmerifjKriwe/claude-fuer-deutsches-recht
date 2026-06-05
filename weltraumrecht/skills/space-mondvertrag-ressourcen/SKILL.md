@@ -7,11 +7,11 @@ description: "Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-006-mondvertrag-ressourcen-governance-und-politische-akzep` | Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen. |
 | `space-023-astronautenausbildung-vertrag-haftung-versicherung-und` | Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 006 Mondvertrag Ressourcen Governance Und Politisc
 
 ## Arbeitsweg
 
-Für **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-006-mondvertrag-ressourcen-governance-und-politische-akzep`
 

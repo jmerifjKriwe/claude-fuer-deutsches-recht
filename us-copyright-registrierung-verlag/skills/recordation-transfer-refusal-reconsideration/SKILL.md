@@ -7,11 +7,11 @@ description: "Recordation Transfer Security Interest, Refusal Reconsideration Es
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `recordation-transfer-security-interest` | Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. |
 | `refusal-reconsideration-escalation` | Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Recordation Transfer Security Interest, Refusal Reconsid
 
 ## Arbeitsweg
 
-Für **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `recordation-transfer-security-interest`
 

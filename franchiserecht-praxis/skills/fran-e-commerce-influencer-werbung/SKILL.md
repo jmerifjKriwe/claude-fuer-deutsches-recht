@@ -7,11 +7,11 @@ description: "Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Infl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-040-e-commerce-franchise-retouren-und-widerruf` | E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops. |
 | `fran-041-influencer-werbung-im-franchisesystem` | Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fra
 
 ## Arbeitsweg
 
-Für **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-040-e-commerce-franchise-retouren-und-widerruf`
 

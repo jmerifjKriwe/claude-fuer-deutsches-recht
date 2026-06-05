@@ -1,17 +1,17 @@
 ---
 name: datenschutz-pruefung-bestehender-vertraege-rolemix-getrennt-vs
-description: "Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 weitere Module
+# Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `avv-pruefung-bestehender-vertraege-audit` | Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan. |
 | `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich` | Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema fuer Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt 
 
 ## Arbeitsweg
 
-Für **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefung Bestehender Vertraege Audit / Rolemix Getrennt Vs Gemeinsam Verantwortlich / Tom Art DSGVO Anlage / Datenpanne Meldung / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `avv-pruefung-bestehender-vertraege-audit`
 

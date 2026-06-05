@@ -1,17 +1,17 @@
 ---
 name: bereicherungs-und-mandanteninterview-bereicherungsrecht
-description: "Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mandanteninterview-bereicherungsrecht` | Nutze diesen Skill, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Interview-Protokoll mit Tatsachenliste, Belegbedarf und Anspruchsskizze. Abgrenzung: nicht abschließende Rechtsprüfung. |
 | `mandatsabbruch-empfehlung-an-fachanwalt-insolvenz` | Komplexitätsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Prüfungstool und erfordert Fachanwalt für Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Prüfraster: Komplexitätssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsgutachter. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mandanteninterview Bereicherungsrecht / Mandatsabbruch E
 
 ## Arbeitsweg
 
-Für **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandanteninterview Bereicherungsrecht / Mandatsabbruch Empfehlung Fachanwalt Insolvenz / Mehrpersonenverhaeltnisse Direkt Durchgriffskondiktion / Miet Pachtrechtliche Rueckabwicklung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandanteninterview-bereicherungsrecht`
 

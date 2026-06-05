@@ -7,11 +7,11 @@ description: "Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduer
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Mandatsziel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Mandatsziel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-dokumentation-verhandlung-vergleich-und-eskalation` | Dokumentation: Verhandlung, Vergleich und Eskalation im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-empfangsbeduerftiger-international-schnittstellen` | Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Dokumentation Verhandlung Vergleich Und Eskalation, Empf
 
 ## Arbeitsweg
 
-Für **Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Mandatsziel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-dokumentation-verhandlung-vergleich-und-eskalation`
 

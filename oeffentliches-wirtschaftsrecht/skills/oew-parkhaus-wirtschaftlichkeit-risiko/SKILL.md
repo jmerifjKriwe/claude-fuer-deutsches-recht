@@ -7,11 +7,11 @@ description: "Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-084-parkhaus-wirtschaftlichkeit-rechnen` | Öffentliches Wirtschaftsrecht: Parkhaus: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-085-parkhaus-risiko-verteilen` | Öffentliches Wirtschaftsrecht: Parkhaus: Risiko verteilen. Risiko verteilen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Par
 
 ## Arbeitsweg
 
-Für **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-084-parkhaus-wirtschaftlichkeit-rechnen`
 

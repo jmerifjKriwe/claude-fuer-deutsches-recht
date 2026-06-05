@@ -7,11 +7,11 @@ description: "Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Ve
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoesse Paragraf2, Hinweis Von Externer Person** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoesse Paragraf2, Hinweis Von Externer Person** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `geldwaesche-meldung` | Verbindet Hinweis mit GwG/FIU-Pflichten. |
 | `geschaeftsgeheimnis-geschgehg` | Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Gesc
 
 ## Arbeitsweg
 
-Für **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoesse Paragraf2, Hinweis Von Externer Person** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoesse Paragraf2, Hinweis Von Externer Person** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `geldwaesche-meldung`
 

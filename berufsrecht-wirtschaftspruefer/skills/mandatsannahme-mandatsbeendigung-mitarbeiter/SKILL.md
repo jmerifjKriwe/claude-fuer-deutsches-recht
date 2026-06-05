@@ -7,11 +7,11 @@ description: "Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf: wählt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mandatsannahme` | Mandatsannahme: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Mandatsannahme im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `mandatsbeendigung` | Mandatsbeendigung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Mandatsbeendigung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenber
 
 ## Arbeitsweg
 
-Für **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandatsannahme, Mandatsbeendigung, Mitarbeiter, Nebenberuf** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandatsannahme`
 

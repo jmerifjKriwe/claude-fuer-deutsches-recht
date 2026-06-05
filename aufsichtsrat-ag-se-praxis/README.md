@@ -45,7 +45,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abschlusspruefer-steuerung-aufsichtsrat` | Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren... |
-| `aufsichtsrat-ag-se-praxis-kaltstart-routing` | AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-ag-se-praxis-kaltstart-routing` | AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `aufsichtsrat-arbeitnehmervertreter` | Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den näch... |
 | `aufsichtsrat-kartellrecht-red-ki-einsatz` | Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und l... |
 | `aufsichtsrat-nis2-cybersecurity-rollen-ziel` | Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |

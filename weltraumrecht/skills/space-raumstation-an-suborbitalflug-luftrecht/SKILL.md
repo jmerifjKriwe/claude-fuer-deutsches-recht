@@ -7,11 +7,11 @@ description: "Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und` | Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. |
 | `space-024-suborbitalflug-luftrecht-oder-weltraumrecht` | Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsre
 
 ## Arbeitsweg
 
-Für **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und`
 

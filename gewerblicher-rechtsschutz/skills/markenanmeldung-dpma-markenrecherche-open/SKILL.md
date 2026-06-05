@@ -7,11 +7,11 @@ description: "Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung: wähl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `markenanmeldung-dpma` | Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG. Output: Anmeldeformular-Entwurf oder Widerspruchs-Schriftsatz. Abgrenzung zu markenrecherche (Recherche vor Anmeldung) und verletzungs-triage (Verletzung nach Eintragung). |
 | `markenrecherche` | Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Markenanmeldung Dpma, Markenrecherche, Open Source Prüf
 
 ## Arbeitsweg
 
-Für **Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `markenanmeldung-dpma`
 
@@ -517,7 +517,7 @@ Für jedes klassifizierte Paket:
 - Gewählte Ausgangslizenz mit jeder eingebetteten Abhängigkeitslizenz kompatibel? (Kein MIT-Release bei eingebettetem GPL-Code möglich — das kombinierte Werk muss GPL sein)
 - LICENSE-Datei vorhanden und korrekt?
 - NOTICE-Datei vorhanden mit erforderlichen Attributionen (Apache-2.0 u. a.)?
-- Drittlizenz-Texte gebündelt wo erforderlich?
+- Drittlizenz-Texte gebearbeitet wo erforderlich?
 - Kein proprietärer oder vertraulicher Code, keine Kundendaten, keine eingebetteten Zugangsdaten in der Repository-History?
 - Marken- und Markenrechtsrichtlinien für den Projektnamen geprüft (getrennt von der Urheberrechtslizenz)?
 

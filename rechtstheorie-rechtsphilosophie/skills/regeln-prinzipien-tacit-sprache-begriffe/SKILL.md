@@ -7,11 +7,11 @@ description: "Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-und-kognitive-entlastung` | Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und 
 
 ## Arbeitsweg
 
-Für **Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `regeln-prinzipien-abwaegung`
 

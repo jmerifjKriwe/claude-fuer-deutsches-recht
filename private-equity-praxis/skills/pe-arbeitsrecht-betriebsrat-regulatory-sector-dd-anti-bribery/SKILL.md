@@ -1,17 +1,17 @@
 ---
 name: pe-arbeitsrecht-betriebsrat-regulatory-sector-dd-anti-bribery
-description: "Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-063-arbeitsrecht-betriebsrat-pe` | Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken. |
 | `pe-064-regulatory-sector-dd` | Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti B
 
 ## Arbeitsweg
 
-Für **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsrecht Betriebsrat / Regulatory Sector DD / Anti Bribery Compliance DD / Insurance DD Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-063-arbeitsrecht-betriebsrat-pe`
 
@@ -163,7 +163,7 @@ StGB, OWiG, HinSchG, GwG, Sanktionen, Lieferkette.
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet DD-Findings mit Risikoallokation im SPA und Versicherungsplan.
+Der Skill bearbeitet DD-Findings mit Risikoallokation im SPA und Versicherungsplan.
 
 ## Rechts- und Praxisanker
 

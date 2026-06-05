@@ -7,11 +7,11 @@ description: "Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Ent
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen` | Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-exit-entbranding-und-social-media-accounts` | Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran R
 
 ## Arbeitsweg
 
-Für **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen`
 

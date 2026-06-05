@@ -7,11 +7,11 @@ description: "Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbri
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `norm-zerlegen-in-tatbestandsmerkmale` | Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM. |
 | `output-memo-und-mandantenbrief` | Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Ma
 
 ## Arbeitsweg
 
-Für **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `norm-zerlegen-in-tatbestandsmerkmale`
 
@@ -71,7 +71,7 @@ Das System liest den Normtext und unterteilt in:
 ## Quellen für Definitionen und Methodik
 
 - **Normtext zuerst:** Wortlaut, Satzstruktur, Verweisungen, Ausnahmen und Rechtsfolge sichtbar zerlegen.
-- **Gesetzesmaterialien und Systematik:** Bei offenen Begriffen Entstehungsgeschichte, Stellung im Gesetz und Zweck der Norm heranziehen.
+- **Gesetzesmaterialien und Systematik:** Bei offenen Begriffen fachliche Einordnung, Stellung im Gesetz und Zweck der Norm heranziehen.
 - **Kommentare und Lehrbücher:** Definitionen nur mit Fundstelle übernehmen; abweichende Ansichten als solche kennzeichnen.
 - **Rechtsprechung zur konkreten Norm:** Nur Entscheidungen zitieren, die das jeweilige Tatbestandsmerkmal wirklich behandeln. Keine abstrakten Methodenzitate erfinden.
 - **EU-Recht:** Bei unionsrechtlich geprägten Begriffen prüfen, ob autonome Auslegung des Unionsrechts Vorrang vor nationalen Definitionen hat.

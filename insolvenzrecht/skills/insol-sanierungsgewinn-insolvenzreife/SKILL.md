@@ -7,11 +7,11 @@ description: "Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolven
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz` | Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz. |
 | `spezial-insolvenzreife-antragspflicht-und-haftung` | Insolvenzreife, Antragspflicht und Haftung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz
 
 ## Arbeitsweg
 
-Für **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz`
 

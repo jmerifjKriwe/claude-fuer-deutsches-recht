@@ -19,7 +19,7 @@ description: "Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfor
 
 ## Erste Schritte
 
-1. Bestimme, ob die streitige Entscheidung im Bereich der Auslegung (Wortlaut, Systematik, Entstehungsgeschichte, Telos) oder der Rechtsfortbildung (praeter oder contra legem) liegt.
+1. Bestimme, ob die streitige Entscheidung im Bereich der Auslegung (Wortlaut, Systematik, fachliche Einordnung, Telos) oder der Rechtsfortbildung (praeter oder contra legem) liegt.
 2. Benenne den Legitimationsgrund des Richterrechts: Gewohnheitsrecht, konkludente Billigung des Gesetzgebers, richterliche Lückenfüllung oder unzulässige Kompetenzüberschreitung?
 3. Prüfe, ob der Gesetzgeber durch spätere Legislativakte das Richterrecht gebilligt, kodifiziert oder stillschweigend hingenommen hat.
 4. Analysiere die Konsequenzen für den Mandanten: Hat er auf das Richterrecht vertraut? Besteht Vertrauensschutz gegenüber einer möglichen Rechtsprechungsänderung?

@@ -7,11 +7,11 @@ description: "Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, Internati
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, International Subsidiaries, Jahresbericht Compliance** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, International Subsidiaries, Jahresbericht Compliance** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hinweisgeber-im-betriebsrat` | Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte. |
 | `hinweisgeber-personenkreis` | Prüft, ob die meldende Person geschützt ist. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis,
 
 ## Arbeitsweg
 
-Für **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, International Subsidiaries, Jahresbericht Compliance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hinweisgeber Im Betriebsrat, Hinweisgeber Personenkreis, International Subsidiaries, Jahresbericht Compliance** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hinweisgeber-im-betriebsrat`
 

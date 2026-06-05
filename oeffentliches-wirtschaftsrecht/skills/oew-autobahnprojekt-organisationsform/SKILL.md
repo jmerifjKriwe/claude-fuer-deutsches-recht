@@ -7,11 +7,11 @@ description: "Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnpr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-031-autobahnprojekt-organisationsform-prue` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Organisationsform prüfen. Organisationsform prüfen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-032-autobahnprojekt-vergabeweg-waehlen` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vergabeweg wählen. Vergabeweg wählen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 
 
 ## Arbeitsweg
 
-Für **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-031-autobahnprojekt-organisationsform-prue`
 

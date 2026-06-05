@@ -7,11 +7,11 @@ description: "Fran 005 Eintrittsgebuehr Laufende Gebuehren Marketing Fee, Fran 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-005-eintrittsgebuehr-laufende-gebuehren-marketing-fee` | Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers. |
 | `fran-006-gebietsschutz-standortanalyse-und-kannibalisierung` | Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer Gebietsschutz, Kannibalisierung durch Nachbar-Franchisees und Online-Direktvertrieb. Kartellrechtliche Grenzen der Gebietsabschottung nach Vertikal-GVO EU 2022/720 und § 1 GWB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing F
 
 ## Arbeitsweg
 
-Für **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-005-eintrittsgebuehr-laufende-gebuehren-marketing-fee`
 

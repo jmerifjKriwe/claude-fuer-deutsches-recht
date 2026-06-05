@@ -7,11 +7,11 @@ description: "Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung. |
 | `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Z
 
 ## Arbeitsweg
 
-Für **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`
 

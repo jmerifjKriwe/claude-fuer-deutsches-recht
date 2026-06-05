@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Cashburn Insolvenzfruehwarnung, Gesellschaft
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Cashburn Insolvenzfruehwarnung, Gesellschaftsgründer Checkliste Vor Unterschrift, Gesellschaftsgründer Daten Und Ki Compliance Start, Gesellschaftsgründer Deadlock Und Mediation, Gesellschaftsgründer Egbr Grundstueck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Cashburn Insolvenzfruehwarnung, Gesellschaftsgründer Checkliste Vor Unterschrift, Gesellschaftsgründer Daten Und Ki Compliance Start, Gesellschaftsgründer Deadlock Und Mediation, Gesellschaftsgründer Egbr Grundstueck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-cashburn-insolvenzfruehwarnung` | Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen. |
 | `gesellschaftsgruender-checkliste-vor-unterschrift` | Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Cashburn Insolvenzfruehwarnung, Ge
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Cashburn Insolvenzfruehwarnung, Gesellschaftsgründer Checkliste Vor Unterschrift, Gesellschaftsgründer Daten Und Ki Compliance Start, Gesellschaftsgründer Deadlock Und Mediation, Gesellschaftsgründer Egbr Grundstueck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Cashburn Insolvenzfruehwarnung, Gesellschaftsgründer Checkliste Vor Unterschrift, Gesellschaftsgründer Daten Und Ki Compliance Start, Gesellschaftsgründer Deadlock Und Mediation, Gesellschaftsgründer Egbr Grundstueck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-cashburn-insolvenzfruehwarnung`
 

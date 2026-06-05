@@ -7,7 +7,7 @@ description: "Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) 
 
 ## Zweck
 
-Wenn mehrere Personen unter einer gemeinsamen Buchung gestoert wurden hat **jeder** einen eigenen Anspruch aus Art. 7 VO 261/2004. Damit der Hauptansprechpartner alle Anspruechen gebuendelt verfolgen kann braucht es Vollmachten der Mitreisenden.
+Wenn mehrere Personen unter einer gemeinsamen Buchung gestoert wurden hat **jeder** einen eigenen Anspruch aus Art. 7 VO 261/2004. Damit der Hauptansprechpartner alle Anspruechen gebearbeitet verfolgen kann braucht es Vollmachten der Mitreisenden.
 
 ## Vollmacht-Inhalt
 

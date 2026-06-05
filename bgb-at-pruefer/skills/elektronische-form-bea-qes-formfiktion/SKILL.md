@@ -1,13 +1,13 @@
 ---
 name: elektronische-form-bea-qes-formfiktion
-description: "Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Elektronische Form BeA QES Formfiktion
 
 ## Zweck
 
-Dieser Skill verbindet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er prüft, ob eine empfangsbedürftige Willenserklärung, die Schriftform oder elektronische Form verlangt, durch qES, beA-Einreichung, gerichtliche Zustellung oder die neue Formfiktion formwirksam zugegangen ist.
+Dieser Skill bearbeitet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er prüft, ob eine empfangsbedürftige Willenserklärung, die Schriftform oder elektronische Form verlangt, durch qES, beA-Einreichung, gerichtliche Zustellung oder die neue Formfiktion formwirksam zugegangen ist.
 
 ## Normanker
 

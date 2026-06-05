@@ -1,17 +1,17 @@
 ---
 name: aktenauszug-gerichtsverfahren-spezial-verfahrensidentifikation
-description: "Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-verfahrensidentifikation-dokumentenmatrix` | Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahrenszusammenfassung-rechtsweg-register` | Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Spezial Verfahrensidentifikation Dokumentenmatrix / Spez
 
 ## Arbeitsweg
 
-Für **Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spezial Verfahrensidentifikation Dokumentenmatrix / Spezial Verfahrenszusammenfassung Rechtsweg Register / Verfahrenschronologie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-verfahrensidentifikation-dokumentenmatrix`
 

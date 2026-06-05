@@ -7,11 +7,11 @@ description: "Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwalt-und-steuerberater-briefing` | Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `personalakte-loeschkonzept-offboarding` | Berliner Start-up-HR: Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwalt Und Steuerberater Briefing, Personalakte Loeschko
 
 ## Arbeitsweg
 
-Für **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwalt-und-steuerberater-briefing`
 

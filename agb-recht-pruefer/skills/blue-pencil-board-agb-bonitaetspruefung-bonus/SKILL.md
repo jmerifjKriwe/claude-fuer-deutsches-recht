@@ -7,11 +7,11 @@ description: "Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bon
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `blue-pencil-und-geltungserhaltende-reduktion` | Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster. |
 | `board-brief-agb` | Output- und Streit-Skill für Board Brief AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Blue Pencil Und Geltungserhaltende Reduktion, Board Brie
 
 ## Arbeitsweg
 
-Für **Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `blue-pencil-und-geltungserhaltende-reduktion`
 

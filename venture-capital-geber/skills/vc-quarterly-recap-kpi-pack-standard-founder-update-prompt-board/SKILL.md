@@ -1,17 +1,17 @@
 ---
 name: vc-quarterly-recap-kpi-pack-standard-founder-update-prompt-board
-description: "Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-052-quarterly-recap` | Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren. |
 | `vc-053-kpi-pack-standard` | Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Quarterly Recap / Kpi Pack Standard / Founder Update Pro
 
 ## Arbeitsweg
 
-Für **Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Quarterly Recap / Kpi Pack Standard / Founder Update Prompt / Board Pack Auswertung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-052-quarterly-recap`
 

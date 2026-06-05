@@ -7,11 +7,11 @@ description: "Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Auss
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung` | Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung. |
 | `strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft` | Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Aussagepsy Suggestion Falscherinnerung, Straf
 
 ## Arbeitsweg
 
-Für **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
 

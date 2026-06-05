@@ -7,11 +7,11 @@ description: "Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strassenbau Einwe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strassenbau Einwendung Bauen, Umv 033 Strassenbau Akteneinsicht Erzwingen, Umv 034 Strassenbau Gutachten Zerlegen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strassenbau Einwendung Bauen, Umv 033 Strassenbau Akteneinsicht Erzwingen, Umv 034 Strassenbau Gutachten Zerlegen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-031-strassenbau-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-032-strassenbau-einwendung-bauen` | Umweltschutzverband Verbandsklage: Straßenbau: Einwendung bauen. Einwendung bauen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strasse
 
 ## Arbeitsweg
 
-Für **Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strassenbau Einwendung Bauen, Umv 033 Strassenbau Akteneinsicht Erzwingen, Umv 034 Strassenbau Gutachten Zerlegen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 031 Strassenbau Beteiligung Prüfen, Umv 032 Strassenbau Einwendung Bauen, Umv 033 Strassenbau Akteneinsicht Erzwingen, Umv 034 Strassenbau Gutachten Zerlegen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-031-strassenbau-beteiligung-pruefen`
 

@@ -1,17 +1,17 @@
 ---
 name: it-recht-aufnahme-statusinformation-benachrichtigung-art
-description: "Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 weitere Module
+# Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-aufnahme-statusinformation` | Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne. |
 | `dsv-benachrichtigung-art-34-ausnahmen` | Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Aufnahme Statusinformation / Benachrichtigung Art Ausnah
 
 ## Arbeitsweg
 
-Für **Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aufnahme Statusinformation / Benachrichtigung Art Ausnahmen / Benachrichtigung Art Betroffene / Benachrichtigung Art Schwelle Hohes Risiko / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-aufnahme-statusinformation`
 

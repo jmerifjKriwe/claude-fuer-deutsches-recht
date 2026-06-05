@@ -7,11 +7,11 @@ description: "Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanier
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-liquidation-statt-plan-folgen` | Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte. |
 | `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` | Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, In
 
 ## Arbeitsweg
 
-Für **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insol-sanierungsgewinn-liquidation-statt-plan-folgen`
 

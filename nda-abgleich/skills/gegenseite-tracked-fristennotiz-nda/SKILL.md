@@ -7,11 +7,11 @@ description: "Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz U
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-gegenseite-fristen-form-und-zustaendigkeit` | Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-tracked-fristennotiz-und-naechster-schritt` | Tracked: Fristennotiz und nächster Schritt im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fris
 
 ## Arbeitsweg
 
-Für **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-gegenseite-fristen-form-und-zustaendigkeit`
 
@@ -173,7 +173,7 @@ Eine NDA-Definition ohne diese Ausnahmen ist regelmaessig zu breit und im B2B-Ko
 > Nicht als Vertrauliche Informationen gelten Informationen, die (a) bei Offenlegung allgemein bekannt waren oder ohne Verschulden der empfangenden Partei allgemein bekannt werden, (b) der empfangenden Partei vor Offenlegung nachweislich bekannt waren, (c) von der empfangenden Partei unabhaengig und ohne Bezug zur Vertraulichen Information entwickelt wurden, (d) von Dritten rechtmaessig und ohne Geheimhaltungspflicht uebermittelt wurden oder (e) aufgrund gesetzlicher, behoerdlicher oder gerichtlicher Pflicht offenzulegen sind; bei (e) wird die empfangende Partei die offenlegende Partei, soweit gesetzlich zulaessig, vorab informieren.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

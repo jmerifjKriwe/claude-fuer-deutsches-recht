@@ -1,17 +1,17 @@
 ---
 name: pe-law-firm-project-document-generator-pack-translation-de-en
-description: "Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-098-law-firm-pe-project-control` | Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe. |
 | `pe-100-pe-document-generator-pack` | Erzeugt aus geprüftem Sachverhalt konkrete Arbeitsdokumente: Memo, Issues List, Q&A, Notice, CP-Tracker, Board Paper. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Law Firm Project Control / Document Generator Pack / Tra
 
 ## Arbeitsweg
 
-Für **Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Law Firm Project Control / Document Generator Pack / Translation De En Terms / Negotiation Playbook** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-098-law-firm-pe-project-control`
 

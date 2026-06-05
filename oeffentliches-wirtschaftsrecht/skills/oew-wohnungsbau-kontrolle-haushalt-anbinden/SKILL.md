@@ -7,11 +7,11 @@ description: "Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsbau Haushal
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsbau Haushalt Anbinden, Oew 069 Wohnungsbau Kommunikation Schreiben, Oew 070 Wohnungsbau Red Flags Listen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsbau Haushalt Anbinden, Oew 069 Wohnungsbau Kommunikation Schreiben, Oew 070 Wohnungsbau Red Flags Listen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-067-wohnungsbau-kontrolle-sichern` | Öffentliches Wirtschaftsrecht: Wohnungsbau: Kontrolle sichern. Kontrolle sichern für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-068-wohnungsbau-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Wohnungsbau: Haushalt anbinden. Haushalt anbinden für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsb
 
 ## Arbeitsweg
 
-Für **Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsbau Haushalt Anbinden, Oew 069 Wohnungsbau Kommunikation Schreiben, Oew 070 Wohnungsbau Red Flags Listen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 067 Wohnungsbau Kontrolle Sichern, Oew 068 Wohnungsbau Haushalt Anbinden, Oew 069 Wohnungsbau Kommunikation Schreiben, Oew 070 Wohnungsbau Red Flags Listen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-067-wohnungsbau-kontrolle-sichern`
 

@@ -1,17 +1,17 @@
 ---
 name: mandatsannahme-bei
-description: "Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-mandatsannahme-bei-sanktionen-kaltstart-und-fakte` | Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-mandatskuendigung-vor-frist-kaltstart-und-faktenm` | Steuerberater: mandatskuendigung vor frist - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / 
 
 ## Arbeitsweg
 
-Für **Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Mandatsannahme Bei Sanktionen Kaltstart / Steuerberater Mandatskuendigung Vor Frist Kaltstart / Steuerberater Personalakten Lohnsteuer Geheimnis Kaltstart / Steuerberater Qualitaetsmanagement Fristen Kaltstart Fakten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-mandatsannahme-bei-sanktionen-kaltstart-und-fakte`
 

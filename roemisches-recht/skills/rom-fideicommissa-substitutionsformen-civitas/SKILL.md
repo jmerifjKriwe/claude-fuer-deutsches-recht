@@ -7,11 +7,11 @@ description: "Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Rom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-149-fideicommissa-und-substitutionsformen` | Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemischen Recht. Skill behandelt die fideicommissum universale die substitutio pupillaris und substitutio vulgaris die Lockerung durch Justinian. Liefert Quellenmatrix. |
 | `rom-150-civitas-romana-erwerb-und-verlust` | Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Liefert Quellenmatrix und Pruefraster. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 C
 
 ## Arbeitsweg
 
-Für **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus, Rom 154 Ius Conubii Und Ius Commercii und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-149-fideicommissa-und-substitutionsformen`
 

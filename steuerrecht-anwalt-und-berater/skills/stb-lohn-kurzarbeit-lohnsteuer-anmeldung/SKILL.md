@@ -7,11 +7,11 @@ description: "Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-lohn-kurzarbeit-kug-progression` | Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung. |
 | `stb-lohn-lohnsteuer-anmeldung-elster` | Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer
 
 ## Arbeitsweg
 
-Für **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-lohn-kurzarbeit-kug-progression`
 
@@ -915,7 +915,7 @@ H. ESKALATION
 ## Strategie und Praxis-Tipps
 
 - Standardisierte Onboarding-Checkliste reduziert die Fehlerquote erheblich und schuetzt vor Haftungsfaellen (§ 67 StBerG).
-- Bei Mandanten mit Konzernstruktur: zentrale Datenkonsolidierung, Konzern-Vollmachten gebuendelt erfassen.
+- Bei Mandanten mit Konzernstruktur: zentrale Datenkonsolidierung, Konzern-Vollmachten gebearbeitet erfassen.
 - Mandatsvereinbarung klar formulieren — definierter Leistungsumfang schuetzt beide Seiten und ist Voraussetzung fuer eine rechtssichere Honorarabrechnung nach StBVV.
 - BHV-Anzeige bei erkennbaren Risiken zeitnah (Haftungs-Praeventiv).
 - StBVV: Onboarding wahlweise als separater Auftrag nach § 13 StBVV (Beratungstaetigkeit), Pauschalvereinbarung nach § 14 StBVV oder als Teil der laufenden Buchfuehrungspauschale.

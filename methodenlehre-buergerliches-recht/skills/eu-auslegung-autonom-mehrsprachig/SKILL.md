@@ -22,7 +22,7 @@ description: "Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht
 1. Identifiziere den unionsrechtlichen Ursprung des strittigen Begriffs: Richtlinie, Verordnung, primäres Unionsrecht.
 2. Stelle fest, ob eine unionsautonome Begriffsbestimmung durch den EuGH bereits vorliegt.
 3. Prüfe alle verfügbaren Sprachfassungen auf Divergenzen — mindestens Deutsch, Englisch, Französisch und die des Mitgliedstaats, in dem der Rechtsstreit geführt wird.
-4. Wende die unionsrechtlichen Auslegungsregeln an: Wortlaut aller Fassungen, Systematik der Richtlinie oder Verordnung, Entstehungsgeschichte (Erwägungsgründe), Ziel und Zweck des Rechtsakts.
+4. Wende die unionsrechtlichen Auslegungsregeln an: Wortlaut aller Fassungen, Systematik der Richtlinie oder Verordnung, fachliche Einordnung (Erwägungsgründe), Ziel und Zweck des Rechtsakts.
 5. Prüfe, ob die nationale Umsetzung dem unionsautonomen Standard entspricht oder eine richtlinienkonforme Auslegung des nationalen Rechts notwendig ist.
 6. Erwäge Vorabentscheidungsersuchen nach Art. 267 AEUV, wenn die unionsrechtliche Auslegungsfrage nicht acte-clair oder acte-éclairé ist.
 

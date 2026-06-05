@@ -7,11 +7,11 @@ description: "Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtsc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-produktlaunch-beweislast-und-darlegungslast` | Produktlaunch: Beweislast, Darlegungslast und Substantiierung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-produktlaunch-rechtscheck` | Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Produktlaunch Beweislast Und Darlegungslast, Produktlaun
 
 ## Arbeitsweg
 
-Für **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-produktlaunch-beweislast-und-darlegungslast`
 

@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-lex-mercatoria-einsatzgrenzen-unidroit-hardship
-description: "Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-013-lex-mercatoria-einsatzgrenzen` | Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit. |
 | `ihl-015-unidroit-hardship` | Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unid
 
 ## Arbeitsweg
 
-Für **Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lex Mercatoria Einsatzgrenzen / Unidroit Hardship / Unidroit Force Majeure / Pecl Soft Law Vergleich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-013-lex-mercatoria-einsatzgrenzen`
 

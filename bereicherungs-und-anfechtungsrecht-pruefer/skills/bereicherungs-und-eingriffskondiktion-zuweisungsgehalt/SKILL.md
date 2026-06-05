@@ -1,17 +1,17 @@
 ---
 name: bereicherungs-und-eingriffskondiktion-zuweisungsgehalt
-description: "Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eingriffskondiktion-zuweisungsgehalt` | Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden). |
 | `entreicherung-beweislast-und-substantiierung` | Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Bew
 
 ## Arbeitsweg
 
-Für **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eingriffskondiktion Zuweisungsgehalt / Entreicherung Beweislast Substantiierung / Ersparte Aufwendungen Lebenshaltung / Falsche Wiese Warnung Bereicherung Anfechtung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eingriffskondiktion-zuweisungsgehalt`
 

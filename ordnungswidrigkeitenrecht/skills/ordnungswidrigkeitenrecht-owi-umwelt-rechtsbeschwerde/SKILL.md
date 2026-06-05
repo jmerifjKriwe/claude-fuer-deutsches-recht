@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-umwelt-rechtsbeschwerde
-description: "Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-049-umwelt-owi-rechtsbeschwerde-pruefen` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-050-umwelt-owi-mandantenbrief-schreiben` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Mandantenbrief schreiben. Mandantenbrief schreiben für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandant
 
 ## Arbeitsweg
 
-Für **Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Umwelt Rechtsbeschwerde Pruefen / Owi Umwelt Mandantenbrief Schreiben / Owi Lebensmittelrecht Tatbestand Zerlegen / Owi Lebensmittelrecht Akteneinsicht Schrei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-049-umwelt-owi-rechtsbeschwerde-pruefen`
 

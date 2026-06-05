@@ -7,11 +7,11 @@ description: "Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-geldwaesche-sanktionslisten-organisationspflicht-und-pra` | Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-haftpflicht-und-schadenmeldung-kammerantwort-und-verfahr` | Notare: haftpflicht und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Geldwaesche Sanktionslisten Organisationspflicht 
 
 ## Arbeitsweg
 
-Für **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-geldwaesche-sanktionslisten-organisationspflicht-und-pra`
 

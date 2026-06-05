@@ -7,11 +7,11 @@ description: "Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-022-windpark-einwendung-bauen` | Umweltschutzverband Verbandsklage: Windpark: Einwendung bauen. Einwendung bauen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-023-windpark-akteneinsicht-erzwingen` | Umweltschutzverband Verbandsklage: Windpark: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akte
 
 ## Arbeitsweg
 
-Für **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-022-windpark-einwendung-bauen`
 

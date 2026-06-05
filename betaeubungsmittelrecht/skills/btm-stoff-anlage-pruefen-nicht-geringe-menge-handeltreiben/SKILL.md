@@ -1,17 +1,17 @@
 ---
 name: btm-stoff-anlage-pruefen-nicht-geringe-menge-handeltreiben
-description: "Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `btm-002-stoff-und-anlage-pruefen` | Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-003-nicht-geringe-menge-livecheck` | Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / H
 
 ## Arbeitsweg
 
-Für **Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stoff Anlage Pruefen / Nicht Geringe Menge Livecheck / Handeltreiben Besitz / Einfuhr Ausfuhr Durchfuhr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `btm-002-stoff-und-anlage-pruefen`
 

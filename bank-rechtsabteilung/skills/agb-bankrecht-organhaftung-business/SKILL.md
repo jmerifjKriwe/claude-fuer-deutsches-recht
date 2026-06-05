@@ -7,11 +7,11 @@ description: "Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agb-bankrecht-klauselkontrolle` | AGB-Recht für Banken: Klauseln nach §§ 305 bis 310 BGB, Preisänderungen, Zustimmungsmechanismen, Kündigung, Entgelte, Aufrechnung, Haftung und Verbrauchertransparenz prüfen. |
 | `organhaftung-business-judgment` | Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Agb Bankrecht Klauselkontrolle, Organhaftung Business Ju
 
 ## Arbeitsweg
 
-Für **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Bankrecht Klauselkontrolle, Organhaftung Business Judgment, Sanktionsscreening Embargo Bank, Crypto Tax Reporting Dac8 Car, Externe Anwälte Steuerung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-bankrecht-klauselkontrolle`
 

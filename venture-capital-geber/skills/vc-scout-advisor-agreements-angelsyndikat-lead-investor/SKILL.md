@@ -1,17 +1,17 @@
 ---
 name: vc-scout-advisor-agreements-angelsyndikat-lead-investor
-description: "Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-083-scout-advisor-agreements` | Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation. |
 | `vc-084-angelsyndikat-lead-investor` | Strukturiert Lead-Rolle, Kosten, Informationsfluss, Abstimmung, Stimmrechtsausübung und Konflikte. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Scout Advisor Agreements / Angelsyndikat Lead Investor /
 
 ## Arbeitsweg
 
-Für **Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Scout Advisor Agreements / Angelsyndikat Lead Investor / Corporate Conflicts / Gwg Ubo Transparenzregister** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-083-scout-advisor-agreements`
 

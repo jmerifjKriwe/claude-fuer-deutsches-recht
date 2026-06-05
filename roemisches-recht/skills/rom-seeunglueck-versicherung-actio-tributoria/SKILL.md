@@ -7,11 +7,11 @@ description: "Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-131-seeunglueck-versicherung-und-risiko` | Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster. |
 | `rom-132-actio-tributoria-handelssklave-sondervermoegen` | Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Act
 
 ## Arbeitsweg
 
-Für **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-131-seeunglueck-versicherung-und-risiko`
 

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung-verhandlung-vergleich-eskalation
-description: "Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess."
+description: "Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess."
 ---
 
 # Auslegung, Verhandlung, Vergleich und Eskalation
@@ -19,7 +19,7 @@ description: "Dieses Skill verbindet methodische Vertragsauslegung mit strategis
 
 ## Erste Schritte
 
-1. Lege die Vertragsgrundlage aus: Wortlaut, Systematik, Entstehungsgeschichte und Zweck (§§ 133, 157 BGB); bestimme das Range der vertretbaren Auslegungsergebnisse.
+1. Lege die Vertragsgrundlage aus: Wortlaut, Systematik, fachliche Einordnung und Zweck (§§ 133, 157 BGB); bestimme das Range der vertretbaren Auslegungsergebnisse.
 2. Übersetze das Auslegungsergebnis in eine Verhandlungsposition: Bestimme Mindestposition, Zielposition und Konzessionsspielraum.
 3. Analysiere die BATNA (Best Alternative to a Negotiated Agreement) beider Seiten, um die Einigungszone zu bestimmen.
 4. Entwerfe einen Vergleichsentwurf, der die Interessen beider Seiten berücksichtigt und vollstreckbar formuliert ist.

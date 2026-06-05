@@ -7,11 +7,11 @@ description: "Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-uebertragende-sanierung-asset-deal` | Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht. |
 | `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` | Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insol Sanierungsgewinn Uebertragende Sanierung Asset Dea
 
 ## Arbeitsweg
 
-Für **Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insol-sanierungsgewinn-uebertragende-sanierung-asset-deal`
 

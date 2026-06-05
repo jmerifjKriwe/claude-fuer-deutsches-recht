@@ -7,11 +7,11 @@ description: "Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhalt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-043-steuerpruefung-creator-unterlagenpaket` | Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie. |
 | `infl-044-buchhaltung-datev-creator-kontenplan` | Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 04
 
 ## Arbeitsweg
 
-Für **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-043-steuerpruefung-creator-unterlagenpaket`
 

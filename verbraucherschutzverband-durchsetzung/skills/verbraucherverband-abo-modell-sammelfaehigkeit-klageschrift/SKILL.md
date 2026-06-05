@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-abo-modell-sammelfaehigkeit-klageschrift
-description: "Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-061-abo-modell-sammelfaehigkeit-pruefen` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-062-abo-modell-klageschrift-strukturieren` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Klageschrift strukturieren. Klageschrift strukturieren für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klagesc
 
 ## Arbeitsweg
 
-Für **Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abo Modell Sammelfaehigkeit Pruefen / Abo Modell Klageschrift Strukturieren / Abo Modell Anspruchsgruppen Bilden / Abo Modell Registertext Schreiben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-061-abo-modell-sammelfaehigkeit-pruefen`
 

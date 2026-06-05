@@ -7,11 +7,11 @@ description: "Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht` | Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht. |
 | `fran-044-einstweilige-verfuegung-markennutzung-stoppen` | Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsger
 
 ## Arbeitsweg
 
-Für **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht`
 

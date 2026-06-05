@@ -7,11 +7,11 @@ description: "Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, Iban Name Check Verification Payee, Inhkontrollv Bedeutende Beteiligung Bank, Insolvenz Anfechtung Bank** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, Iban Name Check Verification Payee, Inhkontrollv Bedeutende Beteiligung Bank, Insolvenz Anfechtung Bank** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `handelsvertreter-vertriebsrecht-bank` | Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen. |
 | `hauptversammlung-bank-aktg` | Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Handelsvertreter Vertriebsrecht Bank, Hauptversammlung B
 
 ## Arbeitsweg
 
-Für **Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, Iban Name Check Verification Payee, Inhkontrollv Bedeutende Beteiligung Bank, Insolvenz Anfechtung Bank** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, Iban Name Check Verification Payee, Inhkontrollv Bedeutende Beteiligung Bank, Insolvenz Anfechtung Bank** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `handelsvertreter-vertriebsrecht-bank`
 

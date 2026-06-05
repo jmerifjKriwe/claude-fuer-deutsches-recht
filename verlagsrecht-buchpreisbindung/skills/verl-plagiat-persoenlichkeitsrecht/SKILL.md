@@ -7,21 +7,21 @@ description: "Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-020-plagiat-manuskript-und-quellenpruefung` | Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen. |
 | `verl-021-persoenlichkeitsrecht-im-sachbuch` | Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines Persönlichkeitsrecht, Recht am eigenen Bild, Gegendarstellung, Unterlassung und Haftung von Autor und Verlag. |
 
 ## Arbeitsweg
 
-Für **Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-020-plagiat-manuskript-und-quellenpruefung`
 

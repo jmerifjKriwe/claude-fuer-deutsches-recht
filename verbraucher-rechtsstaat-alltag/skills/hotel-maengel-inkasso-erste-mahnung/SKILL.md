@@ -7,11 +7,11 @@ description: "Hotel Maengel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Ma
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hotel-maengel-und-bewertung` | Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, Reklamation vor Ort, Minderung und spätere Online-Bewertung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `inkasso-brief-erste-hilfe` | Inkasso-Brief erste Hilfe: führt Laien durch Inkassoschreiben, Hauptforderung, Nebenforderungen, Drohkulisse und Widerspruchsstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, 
 
 ## Arbeitsweg
 
-Für **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hotel-maengel-und-bewertung`
 

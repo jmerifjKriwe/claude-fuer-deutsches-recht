@@ -7,11 +7,11 @@ description: "Produktfreigabe New Product Process, Restrukturierung Kreditengage
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `produktfreigabe-new-product-process` | New Product Process einer Bank: Produktidee, Zielmarkt, Recht, Aufsicht, Steuern, IT, Datenschutz, Vertrieb, Risiko, Operations und Vorstandfreigabe in einen sauberen NPP bringen. |
 | `restrukturierung-kreditengagement` | Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Produktfreigabe New Product Process, Restrukturierung Kr
 
 ## Arbeitsweg
 
-Für **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `produktfreigabe-new-product-process`
 
@@ -386,7 +386,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## Aufgabe
 
-Prüfe die Garantien, die den Geschäftsverkehr wirklich am Laufen halten: Der Kunde bekommt eine Anzahlung, erfüllt einen Werk-/Liefervertrag, muss Gewährleistung absichern oder will keine Barsicherheit stellen. Der Skill verbindet Vertragsrecht, Bankrisiko und Projektpraxis.
+Prüfe die Garantien, die den Geschäftsverkehr wirklich am Laufen halten: Der Kunde bekommt eine Anzahlung, erfüllt einen Werk-/Liefervertrag, muss Gewährleistung absichern oder will keine Barsicherheit stellen. Der Skill bearbeitet Vertragsrecht, Bankrisiko und Projektpraxis.
 
 ## Typische Konstellationen
 

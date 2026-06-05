@@ -1,17 +1,17 @@
 ---
 name: minderjaehriger-erfinder-nda-mandatswechsel
-description: "Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-minderjaehriger-erfinder-kaltstart-und-faktenmat` | Patentanwälte: minderjaehriger erfinder - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-nda-vor-erfindungsgespraech-kaltstart-und-fakten` | Patentanwälte: nda vor erfindungsgespraech - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwaelte Minderjaehriger Erfinder Kaltstart Fakten
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Minderjaehriger Erfinder Kaltstart Faktenmat / Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart / Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart F / Patentanwaelte Outsourcing Von Zeichnungen Kaltstart** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-minderjaehriger-erfinder-kaltstart-und-faktenmat`
 

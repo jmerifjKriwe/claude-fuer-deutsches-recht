@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-energiepreiserhoehung-vergleich-pruefe
-description: "Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-047-energiepreiserhoehung-vergleich-pruefe` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen. Vergleich prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-048-energiepreiserhoehung-umsetzung-ueberw` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Umsetzung überwachen. Umsetzung überwachen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Energiepreiserhoehung Vergleich Pruefe / Energiepreiserh
 
 ## Arbeitsweg
 
-Für **Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Energiepreiserhoehung Vergleich Pruefe / Energiepreiserhoehung Umsetzung Ueberw / Energiepreiserhoehung Risiko Rot Marki / Plattform Sperre Sammelfaehigkeit Prue** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-047-energiepreiserhoehung-vergleich-pruefe`
 

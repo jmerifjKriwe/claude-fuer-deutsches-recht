@@ -7,11 +7,11 @@ description: "Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteili
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ladung-erhalten-erste-orientierung-sitzung` | Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `mandanten-oder-beteiligtenkommunikation` | Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Od
 
 ## Arbeitsweg
 
-Für **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ladung-erhalten-erste-orientierung-sitzung`
 

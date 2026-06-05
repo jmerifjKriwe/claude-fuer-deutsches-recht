@@ -7,11 +7,11 @@ description: "Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Gesetzesverstoss Und 817 Satz 2 Vertiefung, Inso Bargeschaeft 142** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Gesetzesverstoss Und 817 Satz 2 Vertiefung, Inso Bargeschaeft 142** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `familien-und-partnerzuwendungen` | Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. |
 | `gesellschaftsrechtliche-zuwendungen` | Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche
 
 ## Arbeitsweg
 
-Für **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Gesetzesverstoss Und 817 Satz 2 Vertiefung, Inso Bargeschaeft 142** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Gesetzesverstoss Und 817 Satz 2 Vertiefung, Inso Bargeschaeft 142** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `familien-und-partnerzuwendungen`
 

@@ -7,11 +7,11 @@ description: "Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für In
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsfa-edpb-leitlinien-9-19-anwendung` | Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien fuer voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis. |
 | `dsfa-erstellung` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Ds
 
 ## Arbeitsweg
 
-Für **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsfa-edpb-leitlinien-9-19-anwendung`
 
@@ -657,7 +657,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 | Merkmal | CNIL PIA | SDM (DSK) | BSI-Grundschutz |
 |---|---|---|---|
 | Rechtsrahmen | DSGVO (FR) | DSGVO (DE) | IT-Sicherheit primaer |
-| Werkzeug | Open-Source-Software | Methodenpapier | Kompendium |
+| Werkzeug | Open-Source-Software | Methodenpapier | Fachüberblick |
 | Risikomodell | Schadensszenarien | Schutzziele | Schutzbedarf |
 | Strukturtiefe | hoch (sehr granular) | hoch (rechtlich praezise) | mittel (technikfokus) |
 | Aufsichtsakzeptanz DE | gut | sehr gut | gut bei TOM |
@@ -715,7 +715,7 @@ Unterschrift DSB: ____________________
 
 - CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
 - SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
-- BSI-Grundschutz: Kompendium mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
+- BSI-Grundschutz: Fachüberblick mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
 - Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software fuer strukturierte Risikoszenarien, BSI fuer TOM nach Art. 32 DSGVO.
 
 ## Anwendungsfaelle
@@ -749,6 +749,6 @@ Unterschrift DSB: ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - CNIL: cnil.fr — PIA Software, Knowledge Base, Methodology, Templates
 - DSK Datenschutzkonferenz: datenschutzkonferenz-online.de — SDM V3.0
-- BSI: bsi.bund.de — Grundschutz-Kompendium, Baustein zum Datenschutz
+- BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

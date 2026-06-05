@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-selbstbehalt-wahltarif-kuendigung
-description: "Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-059-selbstbehalt-wahltarif-und-kuendigung` | Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen. |
 | `kv-060-beitragsbemessung-kapitalauszahlung-betriebsrente` | GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus betrieblicher Altersversorgung: § 229 SGB V, BSG-Rechtsprechung und Doppelverbeitragung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Ka
 
 ## Arbeitsweg
 
-Für **Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Selbstbehalt Wahltarif Kuendigung / Beitragsbemessung Kapitalauszahlung Betriebsrente / Versorgungsbezuege Doppelverbeitragung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-059-selbstbehalt-wahltarif-und-kuendigung`
 

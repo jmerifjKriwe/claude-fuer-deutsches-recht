@@ -7,11 +7,11 @@ description: "Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `moral-rights-ai-cover` | Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen. |
 | `musikwerk-melodie-harmonie-rhythmus` | Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythm
 
 ## Arbeitsweg
 
-Für **Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `moral-rights-ai-cover`
 

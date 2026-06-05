@@ -7,27 +7,27 @@ description: "Barrierefreiheit Hv, Bedingtes Kapital Und Wandelanleihen, Beschlu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Barrierefreiheit Hv, Bedingtes Kapital Und Wandelanleihen, Beschlussvorschlaege, Besondere Vertreter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Barrierefreiheit Hv, Bedingtes Kapital Und Wandelanleihen, Beschlussvorschlaege, Besondere Vertreter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `barrierefreiheit-hv` | Hauptversammlung AG und SE: Barrierefreiheit HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bedingtes-kapital-und-wandelanleihen` | Hauptversammlung AG und SE: Bedingtes Kapital Und Wandelanleihen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beschlussvorschlaege` | Hauptversammlung AG und SE: Beschlussvorschlaege; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `besondere-vertreter` | Hauptversammlung AG und SE: Besondere Vertreter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `barrierefreiheit-hv` | Hauptversammlung AG und SE: Barrierefreiheit HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bedingtes-kapital-und-wandelanleihen` | Hauptversammlung AG und SE: Bedingtes Kapital Und Wandelanleihen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beschlussvorschlaege` | Hauptversammlung AG und SE: Beschlussvorschlaege; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `besondere-vertreter` | Hauptversammlung AG und SE: Besondere Vertreter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Barrierefreiheit Hv, Bedingtes Kapital Und Wandelanleihen, Beschlussvorschlaege, Besondere Vertreter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Barrierefreiheit Hv, Bedingtes Kapital Und Wandelanleihen, Beschlussvorschlaege, Besondere Vertreter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `barrierefreiheit-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Barrierefreiheit HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Barrierefreiheit HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Barrierefreiheit HV
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `bedingtes-kapital-und-wandelanleihen`
 
-**Fokus:** Hauptversammlung AG und SE: Bedingtes Kapital Und Wandelanleihen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Bedingtes Kapital Und Wandelanleihen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bedingtes Kapital Und Wandelanleihen
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beschlussvorschlaege`
 
-**Fokus:** Hauptversammlung AG und SE: Beschlussvorschlaege; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Beschlussvorschlaege; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beschlussvorschlaege
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `besondere-vertreter`
 
-**Fokus:** Hauptversammlung AG und SE: Besondere Vertreter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Besondere Vertreter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Besondere Vertreter
 

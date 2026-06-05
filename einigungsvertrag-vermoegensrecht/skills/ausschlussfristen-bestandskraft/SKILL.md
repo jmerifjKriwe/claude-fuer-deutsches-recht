@@ -7,11 +7,11 @@ description: "Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsve
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-012-ausschlussfristen-und-bestandskraft` | Einigungsvertrag und Vermögensrecht: Ausschlussfristen und Bestandskraft. Ausschlussfristen und Bestandskraft im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-014-verwaltungsverfahren-wiederaufgreifen` | Einigungsvertrag und Vermögensrecht: Verwaltungsverfahren wiederaufgreifen. Verwaltungsverfahren wiederaufgreifen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Ver
 
 ## Arbeitsweg
 
-Für **Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-012-ausschlussfristen-und-bestandskraft`
 

@@ -1,17 +1,17 @@
 ---
 name: nis2-cybersecurity-bsi-c5-cloud-grundschutz-schutzbedarf
-description: "BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bsi-c5-cloud-check` | Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette. |
 | `bsi-grundschutz-schutzbedarf` | Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI 
 
 ## Arbeitsweg
 
-Für **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **BSI C5 Cloud Check / BSI Grundschutz Schutzbedarf / BSI Meldestelle Formular / Bsig Registrierung BSI** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bsi-c5-cloud-check`
 
@@ -102,7 +102,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Fachanker
 
-- Primärer Anker: BSI IT-Grundschutz-Kompendium live.
+- Primärer Anker: BSI IT-Grundschutz-Fachüberblick live.
 - Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
 - Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
 

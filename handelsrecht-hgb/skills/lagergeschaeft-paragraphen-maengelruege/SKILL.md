@@ -7,21 +7,21 @@ description: "Lagergeschaeft Paragraphen 467 475h, Maengelruege Paragraph 377 Hg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lagergeschaeft Paragraphen 467 475H, Maengelruege Paragraph 377 Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lagergeschaeft Paragraphen 467 475H, Maengelruege Paragraph 377 Hgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lagergeschaeft-paragraphen-467-475h` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. |
 | `maengelruege-paragraph-377-hgb` | Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust. |
 
 ## Arbeitsweg
 
-Für **Lagergeschaeft Paragraphen 467 475H, Maengelruege Paragraph 377 Hgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lagergeschaeft Paragraphen 467 475H, Maengelruege Paragraph 377 Hgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lagergeschaeft-paragraphen-467-475h`
 

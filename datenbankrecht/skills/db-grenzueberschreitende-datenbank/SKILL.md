@@ -1,17 +1,17 @@
 ---
 name: db-grenzueberschreitende-datenbank
-description: "Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-031-grenzueberschreitende-datenbank-eu-uk-usa` | Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen. |
 | `db-033-datenbankrecht-und-text-and-data-mining-schranken` | Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Grenzueberschreitende Datenbank EU UK / Db Datenbankr
 
 ## Arbeitsweg
 
-Für **Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Grenzueberschreitende Datenbank EU UK / Db Datenbankrecht Text And Data / Db Tdm Opt Out Maschinenlesbar** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-031-grenzueberschreitende-datenbank-eu-uk-usa`
 

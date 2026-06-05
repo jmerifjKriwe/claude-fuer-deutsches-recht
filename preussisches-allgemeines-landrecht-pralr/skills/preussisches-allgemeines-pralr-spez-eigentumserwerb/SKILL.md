@@ -1,17 +1,17 @@
 ---
 name: preussisches-allgemeines-pralr-spez-eigentumserwerb
-description: "Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 weitere Module
+# Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-eigentumserwerb-beweglich-traditio` | Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix. |
 | `pralr-spez-eigentumserwerb-grundstueck-grundbuch` | Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Sp
 
 ## Arbeitsweg
 
-Für **Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Eigentumserwerb Beweglich Traditio / Pralr Spez Eigentumserwerb Grundstueck Grundbuch / Pralr Spez Eigentumsschutz Vindikation Besitzschutz / Pralr Spez Ersitzung Verjaehrung Eigentum / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-eigentumserwerb-beweglich-traditio`
 

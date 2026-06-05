@@ -1,27 +1,27 @@
 ---
 name: strassenrecht-infrastruktur-str-tunnel-unterhaltung-dokumente
-description: "Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-098-tunnel-unterhaltung-ruegen` | Straßenrecht und Infrastruktur: Tunnel: Unterhaltung rügen. Unterhaltung rügen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-099-tunnel-dokumente-sortieren` | Straßenrecht und Infrastruktur: Tunnel: Dokumente sortieren. Dokumente sortieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-Für **Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str Tunnel Unterhaltung Ruegen / Str Tunnel Dokumente Sortieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-098-tunnel-unterhaltung-ruegen`
 

@@ -7,11 +7,11 @@ description: "Sachverhaltschronologie Textbausteine, Schnelle Formular Portal Un
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sachverhaltschronologie Textbausteine, Schnelle Formular Portal Und Einreichung, Stilrichtlinie Sonderfall Und Edge Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sachverhaltschronologie Textbausteine, Schnelle Formular Portal Und Einreichung, Stilrichtlinie Sonderfall Und Edge Case** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-sachverhaltschronologie-textbausteine` | Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-schnelle-formular-portal-und-einreichung` | Schnelle: Formular, Portal und Einreichungslogik im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Sachverhaltschronologie Textbausteine, Schnelle Formular
 
 ## Arbeitsweg
 
-Für **Sachverhaltschronologie Textbausteine, Schnelle Formular Portal Und Einreichung, Stilrichtlinie Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sachverhaltschronologie Textbausteine, Schnelle Formular Portal Und Einreichung, Stilrichtlinie Sonderfall Und Edge Case** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-sachverhaltschronologie-textbausteine`
 

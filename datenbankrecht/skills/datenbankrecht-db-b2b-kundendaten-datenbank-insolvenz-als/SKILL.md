@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-b2b-kundendaten-datenbank-insolvenz-als
-description: "Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter` | Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. |
 | `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette` | Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz A
 
 ## Arbeitsweg
 
-Für **Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db B2b Kundendaten Crm Export / Db Datenbank Insolvenz Asset Deal / Db Datenbank Als Kreditsicherheit Due** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter`
 

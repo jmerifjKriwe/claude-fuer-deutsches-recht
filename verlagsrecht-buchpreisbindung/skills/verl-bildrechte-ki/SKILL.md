@@ -7,21 +7,21 @@ description: "Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-018-bildrechte-karten-tabellen-und-drittmaterial` | Verlagsrecht: Bildrechte, Kartenrechte, Tabellen und sonstiges Drittmaterial im Buch — Nutzungsrechte einholen, Bildrechtsverträge, CC-Lizenzen und Haftung bei Fehlern. |
 | `verl-019-ki-generierte-inhalte-im-verlag` | Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG). |
 
 ## Arbeitsweg
 
-Für **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-018-bildrechte-karten-tabellen-und-drittmaterial`
 

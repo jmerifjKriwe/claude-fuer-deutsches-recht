@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-online-shop-vergleich-behoerdenmeldung
-description: "Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-049-online-shop-vergleich-vorschlagen` | Verbraucherschutzrecht Prüfer: Online-Shop: Vergleich vorschlagen. Vergleich vorschlagen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-050-online-shop-behoerdenmeldung-pruefen` | Verbraucherschutzrecht Prüfer: Online-Shop: Behördenmeldung prüfen. Behördenmeldung prüfen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Online Shop Vergleich Vorschlagen / Online Shop Behoerde
 
 ## Arbeitsweg
 
-Für **Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Online Shop Vergleich Vorschlagen / Online Shop Behoerdenmeldung Pruefen / Marketplace Anspruch Pruefen / Marketplace Widerruf Formulieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-049-online-shop-vergleich-vorschlagen`
 

@@ -7,11 +7,11 @@ description: "Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-rechtsmittel-gegen-dienstaufsicht-kammerantwort-und-verf` | Notare: rechtsmittel gegen dienstaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-rechtsmittel-gegen-dienstaufsicht-organisationspflicht-u` | Notare: rechtsmittel gegen dienstaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort U
 
 ## Arbeitsweg
 
-Für **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-rechtsmittel-gegen-dienstaufsicht-kammerantwort-und-verf`
 

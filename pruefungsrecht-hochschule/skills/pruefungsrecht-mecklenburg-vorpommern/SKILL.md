@@ -7,11 +7,11 @@ description: "Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachse
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pruefungsrecht-mecklenburg-vorpommern` | Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungsrecht-niedersachsen` | Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Ni
 
 ## Arbeitsweg
 
-Für **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefungsrecht Mecklenburg Vorpommern, Pruefungsrecht Niedersachsen, Pruefungsrecht Nordrhein Westfalen, Pruefungsrecht Rheinland Pfalz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pruefungsrecht-mecklenburg-vorpommern`
 

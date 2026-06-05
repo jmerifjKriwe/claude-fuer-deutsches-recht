@@ -7,11 +7,11 @@ description: "Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `long-covid-berufskrankheit-unfallversicherung` | Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-erwerbsminderung-leistungsbild` | Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Long Covid Berufskrankheit Unfallversicherung, Long Covi
 
 ## Arbeitsweg
 
-Für **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `long-covid-berufskrankheit-unfallversicherung`
 

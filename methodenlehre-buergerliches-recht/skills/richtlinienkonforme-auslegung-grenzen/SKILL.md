@@ -21,7 +21,7 @@ description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Ausleg
 
 1. Identifiziere die einschlägige EU-Richtlinie und deren Umsetzungsstatus im nationalen Recht (vollständig, unvollständig, richtlinienwidrig).
 2. Prüfe die Auslegungsspielräume im Wortlaut der nationalen Norm: Erlaubt der Text eine richtlinienkonforme Deutung?
-3. Untersuche, ob Entstehungsgeschichte und Systematik des nationalen Rechts eine richtlinienkonforme Auslegung stützen oder ihr entgegenstehen.
+3. Untersuche, ob fachliche Einordnung und Systematik des nationalen Rechts eine richtlinienkonforme Auslegung stützen oder ihr entgegenstehen.
 4. Bestimme die zeitliche Dimension: Gilt die Richtlinie für den Sachverhalt (Umsetzungsfrist abgelaufen, Zeitpunkt des Vertragsschlusses)?
 5. Prüfe, ob die richtlinienkonforme Auslegung gegen das contra-legem-Verbot verstößt (klarer Wortlaut, eindeutiger Gesetzgeberwille entgegenstehend).
 6. Falls richtlinienkonforme Auslegung scheitert, prüfe unmittelbare Wirkung der Richtlinie (im Verhältnis zu Behörden) oder Staatshaftung nach den Francovich-Grundsätzen.
@@ -39,7 +39,7 @@ description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Ausleg
 1. Besteht eine Richtlinie mit Umsetzungsgebot und abgelaufener Umsetzungsfrist?
 2. Ist nationales Recht mit dem Richtlinienziel vereinbar oder liegt eine Abweichung vor?
 3. Lässt der nationale Wortlaut eine richtlinienkonforme Auslegung zu?
-4. Stehen Entstehungsgeschichte oder legislativer Wille entgegen (contra-legem-Schwelle)?
+4. Stehen fachliche Einordnung oder legislativer Wille entgegen (contra-legem-Schwelle)?
 5. Handelt es sich um ein Horizontalverhältnis (Privat gegen Privat) oder ein Vertikalverhältnis (Privat gegen Staat)?
 6. Ist ein Vorabentscheidungsverfahren nach Art. 267 AEUV geboten oder empfehlenswert?
 7. Greift ersatzweise Staatshaftung auf Basis der Francovich/Brasserie-Grundsätze?

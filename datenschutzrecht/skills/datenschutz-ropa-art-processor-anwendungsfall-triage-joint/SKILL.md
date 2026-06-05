@@ -1,17 +1,17 @@
 ---
 name: datenschutz-ropa-art-processor-anwendungsfall-triage-joint
-description: "Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 weitere Module
+# Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ropa-art-30-processor-deutsch-vorlage` | Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele fuer Hosting, Steuerberatung, Lohnbuchhaltung. |
 | `anwendungsfall-triage` | Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Tria
 
 ## Arbeitsweg
 
-Für **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ropa Art Processor Deutsch Vorlage / Anwendungsfall Triage / Art Joint Controllership Deutsch / Art DSGVO Grundtatbestand / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ropa-art-30-processor-deutsch-vorlage`
 

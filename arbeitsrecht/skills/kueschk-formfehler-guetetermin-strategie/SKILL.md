@@ -7,11 +7,11 @@ description: "Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur. |
 | `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kündigungsschutzklage Formfehler Prüfen, Kündigungssc
 
 ## Arbeitsweg
 
-Für **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kueschk-formfehler-pruefen`
 

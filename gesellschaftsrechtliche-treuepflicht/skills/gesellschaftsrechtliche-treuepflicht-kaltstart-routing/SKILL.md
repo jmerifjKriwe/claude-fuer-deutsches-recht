@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrechtliche-treuepflicht-kaltstart-routing
-description: "Gesellschaftsrechtliche Treuepflicht: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Gesellschaftsrechtliche Treuepflicht: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Allgemein Kaltstart

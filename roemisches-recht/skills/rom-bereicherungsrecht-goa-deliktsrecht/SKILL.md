@@ -7,11 +7,11 @@ description: "Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 076 Deliktsrecht Vergleich, Rom 077 Servituten Vergleich, Rom 078 Hypothek Vergleich und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 076 Deliktsrecht Vergleich, Rom 077 Servituten Vergleich, Rom 078 Hypothek Vergleich und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-074-bereicherungsrecht-vergleich` | Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. |
 | `rom-075-goa-vergleich` | Römisches Recht: Geschäftsführung ohne Auftrag (GoA) im Vergleich - röm. negotiorum gestio (D. 3.5) vs. BGB §§ 677-687 (Aufwendungsersatz, Haftung, berechtigte vs. unberechtigte GoA). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergle
 
 ## Arbeitsweg
 
-Für **Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 076 Deliktsrecht Vergleich, Rom 077 Servituten Vergleich, Rom 078 Hypothek Vergleich und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 076 Deliktsrecht Vergleich, Rom 077 Servituten Vergleich, Rom 078 Hypothek Vergleich und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-074-bereicherungsrecht-vergleich`
 

@@ -7,11 +7,11 @@ description: "Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat 017 Erbbaurecht Bestellung Aenderung Heimfall Und Rang** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat 017 Erbbaurecht Bestellung Aenderung Heimfall Und Rang** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-013-vorsorgevollmacht-patientenverfuegung-betreuungsver` | Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. |
 | `notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf` | Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 013 Vorsorgevollmacht Patientenverfuegung Betre
 
 ## Arbeitsweg
 
-Für **Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat 017 Erbbaurecht Bestellung Aenderung Heimfall Und Rang** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat 017 Erbbaurecht Bestellung Aenderung Heimfall Und Rang** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-013-vorsorgevollmacht-patientenverfuegung-betreuungsver`
 

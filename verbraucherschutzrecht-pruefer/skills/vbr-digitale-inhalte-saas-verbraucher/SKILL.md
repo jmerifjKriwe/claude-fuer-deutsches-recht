@@ -7,11 +7,11 @@ description: "Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-080-digitale-inhalte-behoerdenmeldung-prue` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Behördenmeldung prüfen. Behördenmeldung prüfen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-081-saas-fuer-verbraucher-anspruch-pruefen` | Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Anspruch prüfen. Anspruch prüfen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 
 
 ## Arbeitsweg
 
-Für **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vbr 080 Digitale Inhalte Behoerdenmeldung Prue, Vbr 081 Saas Für Verbraucher Anspruch Prüfen, Vbr 082 Saas Für Verbraucher Widerruf Formuli, Vbr 084 Saas Für Verbraucher Beweise Sichern** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-080-digitale-inhalte-behoerdenmeldung-prue`
 

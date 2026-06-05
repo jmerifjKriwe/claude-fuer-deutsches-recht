@@ -7,11 +7,11 @@ description: "Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dworkin-law-as-integrity-hard-cases` | Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür. |
 | `fallnarrativ-tatsachen-beweis` | Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsac
 
 ## Arbeitsweg
 
-Für **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dworkin-law-as-integrity-hard-cases`
 

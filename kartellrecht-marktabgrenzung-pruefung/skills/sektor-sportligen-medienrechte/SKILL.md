@@ -7,11 +7,11 @@ description: "Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sektor-sportligen-medienrechte-ticketing` | Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. |
 | `sektor-telekommunikation-infrastruktur-sharing` | Sektor Telekommunikation und Infrastructure Sharing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Sektor Sportligen Medienrechte Ticketing, Sektor Telekom
 
 ## Arbeitsweg
 
-Für **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sektor-sportligen-medienrechte-ticketing`
 

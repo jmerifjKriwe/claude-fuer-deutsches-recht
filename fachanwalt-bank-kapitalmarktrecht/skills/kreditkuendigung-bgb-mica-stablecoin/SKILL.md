@@ -7,11 +7,11 @@ description: "Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachan
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` | Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf). |
 | `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` | Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung). |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 B
 
 ## Arbeitsweg
 
-Für **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`
 

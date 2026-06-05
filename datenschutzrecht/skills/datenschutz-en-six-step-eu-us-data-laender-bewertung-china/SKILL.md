@@ -1,17 +1,17 @@
 ---
 name: datenschutz-en-six-step-eu-us-data-laender-bewertung-china
-description: "En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 weitere Module
+# En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tia-en-six-step-roadmap` | English-language version of the EDPB Recommendation 01/2020 six-step roadmap for Transfer Impact Assessment. Step 1 know your transfers; Step 2 identify transfer tool; Step 3 assess law and practice; Step 4 adopt supplementary measures; Step 5 procedural steps; Step 6 re-evaluate. With checklists and sample entries for use with international counsel. |
 | `tia-eu-us-data-privacy-framework-aktueller-stand` | Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien fuer DPF-Tragfaehigkeit und Restrisiko. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **En Six Step Roadmap / EU US Data Privacy Framework / Lae
 
 ## Arbeitsweg
 
-Für **En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **En Six Step Roadmap / EU US Data Privacy Framework / Laender Bewertung China India Brazil / Schrems Ii Eugh C Grundlagen / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tia-en-six-step-roadmap`
 

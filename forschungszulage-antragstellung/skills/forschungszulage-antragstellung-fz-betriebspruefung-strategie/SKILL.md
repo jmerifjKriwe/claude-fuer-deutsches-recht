@@ -1,17 +1,17 @@
 ---
 name: forschungszulage-antragstellung-fz-betriebspruefung-strategie
-description: "Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fz-betriebspruefung-strategie` | Strategie bei Betriebspruefung mit Schwerpunkt Forschungszulage: Vorbereitung, Selbstanzeige bei Fehlern (auch wenn keine Steuerstraftat), Argumentationspakete, Schlussbesprechung. Pruefraster: Stundennachweise, Auftragsforschungsvertraege, Mitarbeiterzuordnung, FuE-Phasentrennung. Routet in fz-dokumentationspaket-betriebspruefung. |
 | `fz-finanzamt-festsetzung-auszahlung` | Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofortauszahlung vs. Verrechnung und Schritt-für-Schritt-Antragsroute. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung
 
 ## Arbeitsweg
 
-Für **Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fz Betriebspruefung Strategie / Fz Finanzamt Festsetzung Auszahlung / Fz Historie Rechtsgrundlagen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fz-betriebspruefung-strategie`
 
@@ -56,7 +56,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
@@ -140,7 +140,7 @@ Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Ant
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 | --- | --- | --- | --- |
 | Sofortauszahlung vs. Verrechnung | Erstattung jetzt | reduziert künftige Steuerzahlung | Sofortauszahlung in Verlustlagen |
-| Antrag direkt nach Bescheinigung vs. mit Steuererklärung | schneller Bescheid | gebündelt mit Veranlagung | direkt, wegen Liquidität |
+| Antrag direkt nach Bescheinigung vs. mit Steuererklärung | schneller Bescheid | gebearbeitet mit Veranlagung | direkt, wegen Liquidität |
 | Vorauszahlungssenkung vs. abwarten | sofort Liquidität | spätere Erstattung | Vorauszahlung senken, wenn Voraussetzungen vorliegen |
 | Rückwirkende Jahre einzeln vs. zusammen | je Jahr separater Antrag | Sammeleinreichung | je Jahr separater Antrag, weil je Wirtschaftsjahr eigene BMG |
 
@@ -250,7 +250,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

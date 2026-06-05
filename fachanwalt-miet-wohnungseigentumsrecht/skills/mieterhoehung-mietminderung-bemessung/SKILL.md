@@ -7,11 +7,11 @@ description: "Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation` | Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-mietminderung-bemessung` | Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Mieterhoehung Verhandlung Vergleich Und Eskalation, Miet
 
 ## Arbeitsweg
 
-Für **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation`
 

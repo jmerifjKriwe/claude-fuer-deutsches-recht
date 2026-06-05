@@ -7,11 +7,11 @@ description: "Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Ci
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-028-uebergang-zum-bgb-1900` | PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900. |
 | `pralr-029-vergleich-abgb-code-civil-bgb` | PrALR: Vergleich mit ABGB, Code civil und BGB nach Funktion, Systematik, Sprache und Freiheitsgrad. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Ab
 
 ## Arbeitsweg
 
-Für **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 028 Uebergang Zum Bgb 1900, Pralr 029 Vergleich Abgb Code Civil Bgb, Pralr 030 Vergleich Roemisches Recht Gemeines Recht, Pralr 031 Vergleich Sachsenspiegel Landrechte, Pralr 032 Methodik Keine Anachronismen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-028-uebergang-zum-bgb-1900`
 

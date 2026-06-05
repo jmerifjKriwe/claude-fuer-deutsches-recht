@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familienge
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-egbr-mopeg` | GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB. |
 | `gesellschaftsgruender-familiengesellschaft` | Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer 
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-egbr-mopeg`
 

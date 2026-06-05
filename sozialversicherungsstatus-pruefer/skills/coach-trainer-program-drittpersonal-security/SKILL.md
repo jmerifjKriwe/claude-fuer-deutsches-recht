@@ -7,11 +7,11 @@ description: "Coach Trainer Seminar, Compliance Program Drittpersonal, Complianc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Coach Trainer Seminar, Compliance Program Drittpersonal, Compliance Security Access, Dokumentenmatrix Status** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Coach Trainer Seminar, Compliance Program Drittpersonal, Compliance Security Access, Dokumentenmatrix Status** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `coach-trainer-seminar` | Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung. |
 | `compliance-program-drittpersonal` | Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Coach Trainer Seminar, Compliance Program Drittpersonal,
 
 ## Arbeitsweg
 
-Für **Coach Trainer Seminar, Compliance Program Drittpersonal, Compliance Security Access, Dokumentenmatrix Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Coach Trainer Seminar, Compliance Program Drittpersonal, Compliance Security Access, Dokumentenmatrix Status** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `coach-trainer-seminar`
 

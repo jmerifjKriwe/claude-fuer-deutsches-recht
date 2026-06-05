@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-039-europaeisierung-des-deutschen-rechts` | Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und oeffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963. |
 | `drg-040-menschenrechte-und-emrk-rezeption` | Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutsc
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 039 Europaeisierung Des Deutschen Rechts, Deutsche Rechtsgeschichte 040 Menschenrechte Und Emrk Rezeption, Deutsche Rechtsgeschichte 041 Methodengeschichte Savigny Bis Realismus, Deutsche Rechtsgeschichte 042 Rechtstatsachen Und Sozialgeschichte, Deutsche Rechtsgeschichte 043 Juristenausbildung Und Pruefungswesen und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-039-europaeisierung-des-deutschen-rechts`
 

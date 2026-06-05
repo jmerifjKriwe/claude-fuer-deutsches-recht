@@ -39,7 +39,7 @@ description: "Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der G
 
 1. Liegt für die angegriffene Entscheidung eine klare gesetzliche Grundlage vor?
 2. Bewegt sich die Entscheidung im Wortlautrahmen der einschlägigen Norm?
-3. Entspricht die Entscheidung dem Willen des Gesetzgebers nach Entstehungsgeschichte und Materialien?
+3. Entspricht die Entscheidung dem Willen des Gesetzgebers nach fachliche Einordnung und Materialien?
 4. Wurde richterrechtliche Eigenständigkeit methodisch legitimiert (Lücke, planwidrige Regelungslücke)?
 5. Wurden wesentliche normative Entscheidungen dem Gesetzgeber vorbehalten?
 6. Ist die Entscheidung konsistent mit vergleichbaren Fällen (keine willkürliche Selektion)?

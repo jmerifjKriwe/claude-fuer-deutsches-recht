@@ -1,6 +1,6 @@
 ---
 name: dokumentenfamilie-rangfolge
-description: "Einstiegs- und Arbeitsmodul für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüffeld für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Dokumentenfamilie Rangfolge

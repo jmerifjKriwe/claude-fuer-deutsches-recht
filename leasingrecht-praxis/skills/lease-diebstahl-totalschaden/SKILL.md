@@ -7,11 +7,11 @@ description: "Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Fina
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-032-diebstahl-totalschaden-und-gefahrtragung` | Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht nach Untergang, Versicherungsabwicklung, Anzeigeobliegenheiten und Sorgfaltspflichten. |
 | `lease-002-finanzierungsleasing-oder-operating-lease-einordnen` | Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Leas
 
 ## Arbeitsweg
 
-Für **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-032-diebstahl-totalschaden-und-gefahrtragung`
 
@@ -235,7 +235,7 @@ IT-Leasing umfasst Hardware (Server, Netzwerktechnik, Endgeräte), Softwarelizen
 
 ### Cloud-Service-Bundle
 - SaaS, PaaS, IaaS: Keine Leasingstruktur; Dienstvertrag (§§ 611 ff. BGB) oder Werkvertrag
-- Wenn Hardware + Cloud gebündelt: Gemischter Vertrag; Schwerpunkt bestimmt das anzuwendende Recht
+- Wenn Hardware + Cloud gebearbeitet: Gemischter Vertrag; Schwerpunkt bestimmt das anzuwendende Recht
 - Praxis-Tipp: Trennen von Hardware-Leasingvertrag und Cloud-Servicevertrag
 
 ## Lizenzrecht-Schnittstellen

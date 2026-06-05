@@ -7,11 +7,11 @@ description: "Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Hare
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Haresie Schisma, Exorzismus Und Sakramentalien, Firmung Und Initiation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Haresie Schisma, Exorzismus Und Sakramentalien, Firmung Und Initiation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eucharistie-und-kommunionzulassung` | Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `exkommunikation-apostasie-haresie-schisma` | Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Eucharistie Und Kommunionzulassung, Exkommunikation Apos
 
 ## Arbeitsweg
 
-Für **Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Haresie Schisma, Exorzismus Und Sakramentalien, Firmung Und Initiation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Haresie Schisma, Exorzismus Und Sakramentalien, Firmung Und Initiation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eucharistie-und-kommunionzulassung`
 

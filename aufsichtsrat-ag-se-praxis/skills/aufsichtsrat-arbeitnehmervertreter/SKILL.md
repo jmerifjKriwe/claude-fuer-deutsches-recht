@@ -7,27 +7,27 @@ description: "Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Auf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `arbeitnehmervertreter` | AG/SE-Aufsichtsrat Praxis: Arbeitnehmervertreter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-abschlussbericht-playbook` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-bank-kwg-fit-proper` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-esg-und-lieferkette` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `arbeitnehmervertreter` | AG/SE-Aufsichtsrat Praxis: Arbeitnehmervertreter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-abschlussbericht-playbook` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-bank-kwg-fit-proper` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-esg-und-lieferkette` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitnehmervertreter, Aufsichtsrat Abschlussbericht Playbook, Aufsichtsrat Bank Kwg Fit Proper, Aufsichtsrat Esg Und Lieferkette** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arbeitnehmervertreter`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Arbeitnehmervertreter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Arbeitnehmervertreter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Arbeitnehmervertreter
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-abschlussbericht-playbook`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Abschlussbericht Playbook
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aufsichtsrat-bank-kwg-fit-proper`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen
 
@@ -188,7 +188,7 @@ gesetze-im-internet.de (KWG, FinDAG, AnzV), bafin.de (Merkblatt Aufsichtsorgan 2
 
 ## 4. `aufsichtsrat-esg-und-lieferkette`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat ESG Und Lieferkette
 

@@ -1,17 +1,17 @@
 ---
 name: pe-esg-sfdr-lieferketten-gwg-kyc-ubo-teaser-nda-process-loi-nbo
-description: "Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-018-esg-sfdr-und-lieferketten` | Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten. |
 | `pe-019-gwg-kyc-ubo-und-sanctions` | Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser N
 
 ## Arbeitsweg
 
-Für **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Esg Sfdr Lieferketten / Gwg Kyc Ubo Sanctions / Teaser Nda Process Letter / Loi Nbo Binding Offer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-018-esg-sfdr-und-lieferketten`
 

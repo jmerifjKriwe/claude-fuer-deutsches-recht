@@ -7,11 +7,11 @@ description: "Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzug
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-antennen-satellitenschuessel` | Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-aufrechnung-zurueckbehaltung` | Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltu
 
 ## Arbeitsweg
 
-Für **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-antennen-satellitenschuessel`
 

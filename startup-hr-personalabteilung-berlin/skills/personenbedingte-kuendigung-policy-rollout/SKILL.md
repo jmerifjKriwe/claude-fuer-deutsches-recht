@@ -7,11 +7,11 @@ description: "Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `personenbedingte-kuendigung-krankheit` | Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `policy-rollout-change-kommunikation` | Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Personenbedingte Kündigung Krankheit, Policy Rollout Ch
 
 ## Arbeitsweg
 
-Für **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Personenbedingte Kündigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check, Probearbeit Schnuppertag Und Assessment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `personenbedingte-kuendigung-krankheit`
 

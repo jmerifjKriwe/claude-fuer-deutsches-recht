@@ -7,11 +7,11 @@ description: "Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikomm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `parteigericht-effektiver-rechtsschutz` | Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. |
 | `parteigruendung` | Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Parteigericht Effektiver Rechtsschutz, Parteigruendung, 
 
 ## Arbeitsweg
 
-Für **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `parteigericht-effektiver-rechtsschutz`
 

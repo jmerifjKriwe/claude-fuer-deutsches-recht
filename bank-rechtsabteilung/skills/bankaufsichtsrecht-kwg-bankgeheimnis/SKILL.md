@@ -7,11 +7,11 @@ description: "Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuchen, Banking As A Service White Label, Beteiligungserwerb Bank Ma, Betriebsrat Change Projekte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuchen, Banking As A Service White Label, Beteiligungserwerb Bank Ma, Betriebsrat Change Projekte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bankaufsichtsrecht-kwg-marisk-triage` | Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen. |
 | `bankgeheimnis-auskunftsersuchen` | Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Ausk
 
 ## Arbeitsweg
 
-Für **Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuchen, Banking As A Service White Label, Beteiligungserwerb Bank Ma, Betriebsrat Change Projekte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuchen, Banking As A Service White Label, Beteiligungserwerb Bank Ma, Betriebsrat Change Projekte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bankaufsichtsrecht-kwg-marisk-triage`
 

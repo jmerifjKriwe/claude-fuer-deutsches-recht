@@ -7,11 +7,11 @@ description: "Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, R
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-056-consent-request-workflow` | Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen. |
 | `vc-093-pass-email-und-feedback` | Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und F
 
 ## Arbeitsweg
 
-Für **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-056-consent-request-workflow`
 

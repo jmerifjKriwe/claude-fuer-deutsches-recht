@@ -7,11 +7,11 @@ description: "Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-058-bho-26-bundesbetriebe-praktisch-anwend` | Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-059-bho-34-erhebung-einnahmen-praktisch-an` | Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 
 
 ## Arbeitsweg
 
-Für **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-058-bho-26-bundesbetriebe-praktisch-anwend`
 

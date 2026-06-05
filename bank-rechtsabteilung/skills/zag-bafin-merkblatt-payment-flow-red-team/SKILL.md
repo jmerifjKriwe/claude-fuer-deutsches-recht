@@ -24,7 +24,7 @@ Nutze diesen Skill, wenn ein Bank-, FinTech-, Plattform-, Wallet-, Karten-, Loya
 | Ein-/Auszahlung | Wird Geld auf ein Zahlungskonto gebracht oder abgehoben? | Kontoauszüge, Kassenprozess, Nutzervertrag |
 | Zahlungsgeschäft | Führt jemand Zahlungsvorgänge für Nutzer aus? | Zahlungsauftrag, API-Log, SEPA-/Kartenschema |
 | Zahlung mit Kredit | Wird Zahlungsausführung mit Kredit/Limit verknüpft? | Kreditlinie, Limitfreigabe, Zins-/Gebührenmodell |
-| Issuing/Acquiring | Wird ein Zahlungsinstrument ausgegeben oder Händlerakzeptanz gebündelt? | Kartenvertrag, Merchant Agreement, Wallet Terms |
+| Issuing/Acquiring | Wird ein Zahlungsinstrument ausgegeben oder Händlerakzeptanz gebearbeitet? | Kartenvertrag, Merchant Agreement, Wallet Terms |
 | Finanztransfer | Wird Geld ohne Zahlungskonto des Zahlers/Empfängers transferiert? | Agentenprozess, Bargeldannahme, Auszahlungskette |
 | Zahlungsauslösung | Löst der Dienst aus dem Zahlungskonto des Nutzers eine Zahlung aus? | Consent, Redirect, XS2A-Protokoll, TPP-Rolle |
 | Kontoinformation | Werden Kontodaten aggregiert, analysiert oder im Dashboard angezeigt? | AIS-Einwilligung, Screen, Datenmodell |

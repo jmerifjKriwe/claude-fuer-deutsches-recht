@@ -7,11 +7,11 @@ description: "Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, An
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-qualitaetsmanagement-fristen-und-vier-augen-kaltstart` | Anwälte: qualitaetsmanagement fristen und vier augen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-robe-werbung-und-gerichtstermin-kaltstart-und-faktenma` | Anwälte: robe werbung und gerichtstermin - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kal
 
 ## Arbeitsweg
 
-Für **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kaltstart, Anwälte Robe Werbung Und Gerichtstermin Kaltstart Und Faktenma, Anwälte Ruege Und Gegenvorstellung Kaltstart Und Faktenmatrix, Anwälte Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr, Anwälte Social Media Kanzleimarketing Kaltstart Und Faktenmatr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-qualitaetsmanagement-fristen-und-vier-augen-kaltstart`
 

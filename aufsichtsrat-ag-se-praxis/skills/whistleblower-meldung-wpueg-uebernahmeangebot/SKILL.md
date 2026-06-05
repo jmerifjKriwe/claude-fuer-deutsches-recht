@@ -7,26 +7,26 @@ description: "Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbeha
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `whistleblower-meldung` | AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `wpueg-uebernahmeangebot` | AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `zustimmungsvorbehalte` | AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `whistleblower-meldung` | AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `wpueg-uebernahmeangebot` | AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `zustimmungsvorbehalte` | AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `whistleblower-meldung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Whistleblower Meldung
 
@@ -83,7 +83,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `wpueg-uebernahmeangebot`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Wpueg Uebernahmeangebot
 
@@ -140,7 +140,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `zustimmungsvorbehalte`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Zustimmungsvorbehalte
 

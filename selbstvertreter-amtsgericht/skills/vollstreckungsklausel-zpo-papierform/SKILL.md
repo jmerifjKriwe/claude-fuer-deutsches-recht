@@ -7,11 +7,11 @@ description: "Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschrif
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vollstreckungsklausel-724-zpo` | Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun. |
 | `einreichung-papierform-mit-abschriften` | Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mi
 
 ## Arbeitsweg
 
-Für **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vollstreckungsklausel-724-zpo`
 

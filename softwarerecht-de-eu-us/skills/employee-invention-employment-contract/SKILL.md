@@ -7,11 +7,11 @@ description: "Employee Invention Software Patents De, Employment Contract Softwa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Employee Invention Software Patents De, Employment Contract Software Engineer De, Enterprise License Metrics, Entwicklungsprojekt Intake** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Employee Invention Software Patents De, Employment Contract Software Engineer De, Enterprise License Metrics, Entwicklungsprojekt Intake** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `employee-invention-software-patents-de` | Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. |
 | `employment-contract-software-engineer-de` | Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Employee Invention Software Patents De, Employment Contr
 
 ## Arbeitsweg
 
-Für **Employee Invention Software Patents De, Employment Contract Software Engineer De, Enterprise License Metrics, Entwicklungsprojekt Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Employee Invention Software Patents De, Employment Contract Software Engineer De, Enterprise License Metrics, Entwicklungsprojekt Intake** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `employee-invention-software-patents-de`
 

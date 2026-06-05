@@ -7,11 +7,11 @@ description: "Richterstaat Risikomatrix, Richtlinienkonforme Auslegung Grenzen, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Richterstaat Risikomatrix, Richtlinienkonforme Auslegung Grenzen, Rueckwirkung Und Ueberraschende Rechtsfortbildung, Sachverhalt Als Wertungsprodukt, Savigny Vier Auslegungsmethoden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Richterstaat Risikomatrix, Richtlinienkonforme Auslegung Grenzen, Rueckwirkung Und Ueberraschende Rechtsfortbildung, Sachverhalt Als Wertungsprodukt, Savigny Vier Auslegungsmethoden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `richterstaat-risikomatrix` | Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, strategische Entscheidungen unter Berücksichtigung richterlicher Gestaltungsmacht zu treffen. Dabei werden verfassungsrechtliche Grenzen des Richterstaats methodisch einbezogen. |
 | `richtlinienkonforme-auslegung-grenzen` | Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Richterstaat Risikomatrix, Richtlinienkonforme Auslegung
 
 ## Arbeitsweg
 
-Für **Richterstaat Risikomatrix, Richtlinienkonforme Auslegung Grenzen, Rueckwirkung Und Ueberraschende Rechtsfortbildung, Sachverhalt Als Wertungsprodukt, Savigny Vier Auslegungsmethoden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Richterstaat Risikomatrix, Richtlinienkonforme Auslegung Grenzen, Rueckwirkung Und Ueberraschende Rechtsfortbildung, Sachverhalt Als Wertungsprodukt, Savigny Vier Auslegungsmethoden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `richterstaat-risikomatrix`
 
@@ -147,7 +147,7 @@ Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration de
 
 1. Identifiziere die einschlägige EU-Richtlinie und deren Umsetzungsstatus im nationalen Recht (vollständig, unvollständig, richtlinienwidrig).
 2. Prüfe die Auslegungsspielräume im Wortlaut der nationalen Norm: Erlaubt der Text eine richtlinienkonforme Deutung?
-3. Untersuche, ob Entstehungsgeschichte und Systematik des nationalen Rechts eine richtlinienkonforme Auslegung stützen oder ihr entgegenstehen.
+3. Untersuche, ob fachliche Einordnung und Systematik des nationalen Rechts eine richtlinienkonforme Auslegung stützen oder ihr entgegenstehen.
 4. Bestimme die zeitliche Dimension: Gilt die Richtlinie für den Sachverhalt (Umsetzungsfrist abgelaufen, Zeitpunkt des Vertragsschlusses)?
 5. Prüfe, ob die richtlinienkonforme Auslegung gegen das contra-legem-Verbot verstößt (klarer Wortlaut, eindeutiger Gesetzgeberwille entgegenstehend).
 6. Falls richtlinienkonforme Auslegung scheitert, prüfe unmittelbare Wirkung der Richtlinie (im Verhältnis zu Behörden) oder Staatshaftung nach den Francovich-Grundsätzen.
@@ -165,7 +165,7 @@ Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration de
 1. Besteht eine Richtlinie mit Umsetzungsgebot und abgelaufener Umsetzungsfrist?
 2. Ist nationales Recht mit dem Richtlinienziel vereinbar oder liegt eine Abweichung vor?
 3. Lässt der nationale Wortlaut eine richtlinienkonforme Auslegung zu?
-4. Stehen Entstehungsgeschichte oder legislativer Wille entgegen (contra-legem-Schwelle)?
+4. Stehen fachliche Einordnung oder legislativer Wille entgegen (contra-legem-Schwelle)?
 5. Handelt es sich um ein Horizontalverhältnis (Privat gegen Privat) oder ein Vertikalverhältnis (Privat gegen Staat)?
 6. Ist ein Vorabentscheidungsverfahren nach Art. 267 AEUV geboten oder empfehlenswert?
 7. Greift ersatzweise Staatshaftung auf Basis der Francovich/Brasserie-Grundsätze?
@@ -401,7 +401,7 @@ Beispiel § 433 BGB (Kaufvertrag):
 - **Historie:** Gesetzesmaterialien des BGB von 1900, Schuldrechtsmodernisierung 2002 (BT-Drs. 14/6040).
 - **Telos:** Synallagmatische Verknuepfung von Sach- und Geldleistung, Erfuellungs- und Gewaehrleistungsfunktion.
 
-Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
+Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
 
 ## Schritt-fuer-Schritt
 

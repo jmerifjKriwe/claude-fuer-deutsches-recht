@@ -7,11 +7,11 @@ description: "Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung Und Verhandlungsangebot, Vermoegensvergleich Und Nettobetrachtung, Versicherung Und Praemienrueckforderung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung Und Verhandlungsangebot, Vermoegensvergleich Und Nettobetrachtung, Versicherung Und Praemienrueckforderung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verfuegung-nichtberechtigter-816-vertiefung` | Nutze diesen Skill, wenn ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Normen: § 816 BGB; § 932 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 816 BGB mit Verfügungs- und Erlöskondiktion. Abgrenzung: nicht § 985 BGB (Eigentum noch vorhanden). |
 | `vergleichsberechnung-und-verhandlungsangebot` | Nutze diesen Skill, wenn bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Vergleichsrechnung mit Risikoabschlag und Verhandlungskorridor. Abgrenzung: nicht streitige gerichtliche Anspruchsprüfung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsb
 
 ## Arbeitsweg
 
-Für **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung Und Verhandlungsangebot, Vermoegensvergleich Und Nettobetrachtung, Versicherung Und Praemienrueckforderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verfuegung Nichtberechtigter 816 Vertiefung, Vergleichsberechnung Und Verhandlungsangebot, Vermoegensvergleich Und Nettobetrachtung, Versicherung Und Praemienrueckforderung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verfuegung-nichtberechtigter-816-vertiefung`
 

@@ -7,11 +7,11 @@ description: "Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pruefungsgespraech-ag` | Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen. |
 | `rechtsgeschichte` | Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum Vertrag von Lissabon. Lädt, wenn der Nutzer "Rechtsgeschichte", "BGB Entstehung", "NS-Justiz", "SED-Unrecht", "Radbruchsche Formel", "GG Genese" oder "EU-Recht Entwicklung" sagt. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil I
 
 ## Arbeitsweg
 
-Für **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pruefungsgespraech-ag`
 
@@ -255,7 +255,7 @@ Lern-Anker: Vorrang, unmittelbare Wirkung und unionsrechtskonforme Auslegung hab
 1. Skill nennt Epoche oder Konzept.
 2. Studierender erklärt zunächst aus eigenem Wissen.
 3. Skill fragt nach: "Welche Norm war das genau? Wer war beteiligt? Welche Folge hatte das für heute?"
-4. Skill verbindet historische Frage mit heutiger Dogmatik ("Wenn du verstanden hast, warum Art. 103 II GG existiert, was bedeutet das für dein Auslegungsergebnis im Strafrecht?").
+4. Skill bearbeitet historische Frage mit heutiger Dogmatik ("Wenn du verstanden hast, warum Art. 103 II GG existiert, was bedeutet das für dein Auslegungsergebnis im Strafrecht?").
 
 ## Querverweise
 

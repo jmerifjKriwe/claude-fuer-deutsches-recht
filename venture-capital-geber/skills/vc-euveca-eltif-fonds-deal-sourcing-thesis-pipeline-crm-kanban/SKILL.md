@@ -1,17 +1,17 @@
 ---
 name: vc-euveca-eltif-fonds-deal-sourcing-thesis-pipeline-crm-kanban
-description: "Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-006-euveca-eltif-vc-fonds` | Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab. |
 | `vc-007-deal-sourcing-thesis` | Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm
 
 ## Arbeitsweg
 
-Für **Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Euveca Eltif Fonds / Deal Sourcing Thesis / Pipeline Crm Kanban / Founder Update Intake** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-006-euveca-eltif-vc-fonds`
 

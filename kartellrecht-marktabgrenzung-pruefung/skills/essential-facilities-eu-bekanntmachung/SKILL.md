@@ -7,11 +7,11 @@ description: "Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefin
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `essential-facilities-refusal-to-deal` | Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `eu-bekanntmachung-marktdefinition-2024` | Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition (Februar 2024) und ihrer praktischen Anwendung. Vergleich zur Bekanntmachung von 1997. Neue Elemente: digitale Maerkte Innovationswettbewerb Datenmaerkte beidseitiger SSNIP-Test und qualitative Evidenz. Fundstelle ABl 2024/C 1645. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Essential Facilities Refusal To Deal, Eu Bekanntmachung 
 
 ## Arbeitsweg
 
-Für **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `essential-facilities-refusal-to-deal`
 

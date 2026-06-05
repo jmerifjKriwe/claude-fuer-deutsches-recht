@@ -7,11 +7,11 @@ description: "Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 Umwelt Owi 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 Umwelt Owi Tatbestand Zerlegen, Owi 043 Umwelt Owi Akteneinsicht Schreiben, Owi 044 Umwelt Owi Einspruch Begruenden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 Umwelt Owi Tatbestand Zerlegen, Owi 043 Umwelt Owi Akteneinsicht Schreiben, Owi 044 Umwelt Owi Einspruch Begruenden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-040-gewerberecht-mandantenbrief-schreiben` | Ordnungswidrigkeitenrecht: Gewerberecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Gewerberecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-041-umwelt-owi-tatbestand-zerlegen` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Tatbestand zerlegen. Tatbestand zerlegen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 U
 
 ## Arbeitsweg
 
-Für **Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 Umwelt Owi Tatbestand Zerlegen, Owi 043 Umwelt Owi Akteneinsicht Schreiben, Owi 044 Umwelt Owi Einspruch Begruenden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi 040 Gewerberecht Mandantenbrief Schreiben, Owi 041 Umwelt Owi Tatbestand Zerlegen, Owi 043 Umwelt Owi Akteneinsicht Schreiben, Owi 044 Umwelt Owi Einspruch Begruenden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-040-gewerberecht-mandantenbrief-schreiben`
 

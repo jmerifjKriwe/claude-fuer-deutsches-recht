@@ -1,17 +1,17 @@
 ---
 name: pe-financial-assistance-upstream-fund-finance-nav-preferred
-description: "Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-055-financial-assistance-und-upstream` | Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. |
 | `pe-056-fund-finance-und-nav-facility` | Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Financial Assistance Upstream / Fund Finance Nav Facilit
 
 ## Arbeitsweg
 
-Für **Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Financial Assistance Upstream / Fund Finance Nav Facility / Preferred Equity Hybrid Finance / Restructuring Waiver Amend Extend** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-055-financial-assistance-und-upstream`
 

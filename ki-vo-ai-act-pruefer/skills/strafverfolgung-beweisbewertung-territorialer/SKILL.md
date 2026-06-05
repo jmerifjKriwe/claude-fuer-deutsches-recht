@@ -7,11 +7,11 @@ description: "Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafverfolgung-beweisbewertung-ki-anhang-iii` | KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance. |
 | `territorialer-anwendungsbereich-art-2` | Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb außerhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begründung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territori
 
 ## Arbeitsweg
 
-Für **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafverfolgung-beweisbewertung-ki-anhang-iii`
 

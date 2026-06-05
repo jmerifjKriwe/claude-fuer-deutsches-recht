@@ -7,11 +7,11 @@ description: "Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgre
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, Umweltverstoss** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, Umweltverstoss** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tisax-iso-hinweisgeber` | Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem. |
 | `triage-strafrecht` | Routet Hinweise mit Strafrechtsbezug. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblo
 
 ## Arbeitsweg
 
-Für **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, Umweltverstoss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, Umweltverstoss** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tisax-iso-hinweisgeber`
 

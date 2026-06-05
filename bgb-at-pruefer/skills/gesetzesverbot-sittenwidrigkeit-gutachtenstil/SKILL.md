@@ -7,11 +7,11 @@ description: "Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesetzesverbot-sittenwidrigkeit-paragraphen-134-138` | Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand. |
 | `gutachtenstil-und-klausurtechnik` | Methodik-Skill für Gutachtenstil und Klausurtechnik im Zivilrecht BGB AT: OTSE-Schema (Obersatz — Tatbestand — Subsumtion — Ergebnis), Urteilsstil vs. Gutachtenstil, häufige Aufbaufehler, Zeitmanagement und Schwerpunktsetzung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gut
 
 ## Arbeitsweg
 
-Für **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138, Gutachtenstil Und Klausurtechnik, Handeln Im Fremden Namen Offenkundigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesetzesverbot-sittenwidrigkeit-paragraphen-134-138`
 

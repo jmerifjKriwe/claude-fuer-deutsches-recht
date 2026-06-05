@@ -7,11 +7,11 @@ description: "Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-verjaehrung-mietforderungen` | Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-verkauf-bricht-nicht-miete` | Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete,
 
 ## Arbeitsweg
 
-Für **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-verjaehrung-mietforderungen`
 

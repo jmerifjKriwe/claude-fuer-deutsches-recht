@@ -7,11 +7,11 @@ description: "Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreform
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-054-bodenreformland-berechtigte-ermitteln` | Einigungsvertrag und Vermögensrecht: Bodenreformland: Berechtigte ermitteln. Berechtigte ermitteln für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-056-bodenreformland-grundbuch-auswerten` | Einigungsvertrag und Vermögensrecht: Bodenreformland: Grundbuch auswerten. Grundbuch auswerten für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 B
 
 ## Arbeitsweg
 
-Für **Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-054-bodenreformland-berechtigte-ermitteln`
 

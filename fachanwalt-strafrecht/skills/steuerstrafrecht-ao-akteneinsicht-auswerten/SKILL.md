@@ -7,11 +7,11 @@ description: "Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Akteneinsicht St
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Akteneinsicht Strafrecht Auswerten, Erstgespraech Mandatsannahme, Fachanwalt Strafrecht Akteneinsicht Beantragen, Fachanwalt Strafrecht Anklage Reaktion** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Akteneinsicht Strafrecht Auswerten, Erstgespraech Mandatsannahme, Fachanwalt Strafrecht Akteneinsicht Beantragen, Fachanwalt Strafrecht Anklage Reaktion** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige` | Selbstanzeige nach Paragraph 371 AO. Strafbefreiungsgrund bei vorsaetzlicher Steuerhinterziehung. Strenge Voraussetzungen seit Reform 2015. Vollstaendigkeitsgebot Sperrgruende Absatz 2 fristgerechte Zahlung. Abgrenzung zu Paragraph 153 AO Berichtigungsanzeige. Praxis Vorbereitung Zeitpunkt Aufbau Anlagen. Mehrheit von Steuerpflichtigen koordinieren. |
 | `akteneinsicht-strafrecht-auswerten` | Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Aktene
 
 ## Arbeitsweg
 
-Für **Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Akteneinsicht Strafrecht Auswerten, Erstgespraech Mandatsannahme, Fachanwalt Strafrecht Akteneinsicht Beantragen, Fachanwalt Strafrecht Anklage Reaktion** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Steuerstrafrecht 371 Ao Selbstanzeige, Akteneinsicht Strafrecht Auswerten, Erstgespraech Mandatsannahme, Fachanwalt Strafrecht Akteneinsicht Beantragen, Fachanwalt Strafrecht Anklage Reaktion** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
 

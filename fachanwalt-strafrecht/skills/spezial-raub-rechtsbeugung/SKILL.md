@@ -1,17 +1,17 @@
 ---
 name: spezial-raub-rechtsbeugung
-description: "Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 weitere Module
+# Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-raub-249-stgb` | Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB. |
 | `strafrecht-spezial-raub-mit-todesfolge-251-stgb` | Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub T
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Spezial Raub Stgb / Strafrecht Spezial Raub Todesfolge Stgb / Strafrecht Spezial Rechtsbeugung Stgb / Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb / 6 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-raub-249-stgb`
 

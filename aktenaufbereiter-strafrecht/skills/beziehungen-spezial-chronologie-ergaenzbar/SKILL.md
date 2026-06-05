@@ -7,11 +7,11 @@ description: "Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Complianc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-beziehungen-zahlen-schwellen-und-berechnung` | Beziehungen: Zahlen, Schwellenwerte und Berechnung im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-chronologie-compliance-dokumentation-und-akte` | Chronologie: Compliance-Dokumentation und Aktenvermerk im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie
 
 ## Arbeitsweg
 
-Für **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-beziehungen-zahlen-schwellen-und-berechnung`
 

@@ -7,11 +7,11 @@ description: "Anwaelte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-ruege-und-gegenvorstellung-organisationspflicht-und-pr` | Anwälte: ruege und gegenvorstellung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-schatten-ki-und-team-policy` | Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Ruege Und Gegenvorstellung Organisationspflicht
 
 ## Arbeitsweg
 
-Für **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Ruege Und Gegenvorstellung Organisationspflicht Und Pr, Anwälte Schatten Ki Und Team Policy, Anwälte Social Media Kanzleimarketing Kammerantwort Und Verfah, Anwälte Social Media Kanzleimarketing Organisationspflicht Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-ruege-und-gegenvorstellung-organisationspflicht-und-pr`
 

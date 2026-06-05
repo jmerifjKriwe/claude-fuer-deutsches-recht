@@ -7,11 +7,11 @@ description: "Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-saisonkalender-mittelstand` | Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc. |
 | `bericht-stichprobe-und-befreiung-kleine-unternehmen` | Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Saisonkalender Mittelstand, Bericht Stichprobe U
 
 ## Arbeitsweg
 
-Für **Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-saisonkalender-mittelstand`
 

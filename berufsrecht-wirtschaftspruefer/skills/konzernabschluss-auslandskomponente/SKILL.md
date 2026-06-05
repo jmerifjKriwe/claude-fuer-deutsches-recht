@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-konzernabschluss-auslandskomponente-kammeran` | Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-konzernabschluss-auslandskomponente-organisa` | Wirtschaftsprüfer: konzernabschluss auslandskomponente - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Konzernabschluss Auslandskomponente K
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Konzernabschluss Auslandskomponente Kammeran, Wirtschaftspruefer Konzernabschluss Auslandskomponente Organisa, Wirtschaftspruefer Konzernabschluss Auslandskomponente Rechtspr, Wirtschaftspruefer Management Letter Formulierung Kammerantwort, Wirtschaftspruefer Management Letter Formulierung Organisations** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-konzernabschluss-auslandskomponente-kammeran`
 

@@ -7,11 +7,11 @@ description: "Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaborat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `massnahmenplan-100-tage` | Baut 100-Tage-Programm für Cyber-Compliance. |
 | `maturity-assessment` | Bewertet Reifegrad von IT-Sicherheit und digitaler Souveränität. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Massnahmenplan 100 Tage, Maturity Assessment, Messenger 
 
 ## Arbeitsweg
 
-Für **Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `massnahmenplan-100-tage`
 

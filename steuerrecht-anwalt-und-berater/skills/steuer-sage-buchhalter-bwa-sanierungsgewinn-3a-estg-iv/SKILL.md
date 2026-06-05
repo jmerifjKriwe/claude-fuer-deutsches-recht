@@ -1,17 +1,17 @@
 ---
 name: steuer-sage-buchhalter-bwa-sanierungsgewinn-3a-estg-iv
-description: "Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 weitere Module
+# Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-sage-buchhalter-bwa-konfiguration` | Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage. |
 | `stb-sanierungsgewinn-3a-estg-grundtatbestand` | Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a 
 
 ## Arbeitsweg
 
-Für **Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sage Buchhalter BWA Konfiguration / Sanierungsgewinn 3a EStG Grundtatbestand / Sanierungsgewinn 3a EStG Unternehmens Vs / Sanierungsgewinn 3a Iv EStG Antrag / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-sage-buchhalter-bwa-konfiguration`
 

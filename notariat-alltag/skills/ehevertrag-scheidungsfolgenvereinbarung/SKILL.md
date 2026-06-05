@@ -7,11 +7,11 @@ description: "Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat 021 Urkundsentwurf Mandantenkorrektur Und Belehrungsdok** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat 021 Urkundsentwurf Mandantenkorrektur Und Belehrungsdok** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs` | Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars. |
 | `notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder` | Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Ver
 
 ## Arbeitsweg
 
-Für **Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat 021 Urkundsentwurf Mandantenkorrektur Und Belehrungsdok** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat 021 Urkundsentwurf Mandantenkorrektur Und Belehrungsdok** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs`
 

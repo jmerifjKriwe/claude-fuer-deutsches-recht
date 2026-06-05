@@ -7,11 +7,11 @@ description: "Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agb-bei-versicherungsvertraegen-vvg` | AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf. |
 | `agb-im-konzernverbund` | AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung von Konzernvereinbarungen Service-Level-Agreements zwischen Mutter und Tochter sowie Standardklauseln bei konzerninternen Vertraegen. Aktuelle Themen: Cash-Pooling Cross-Cluster-Services Konzernverrechnungspreise und § 307 BGB. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbu
 
 ## Arbeitsweg
 
-Für **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Bei Versicherungsvertraegen Vvg, Agb Im Konzernverbund, Agb Im Mietrecht Wohnraum Vs Gewerbe, Agb In Kapitalanlagen Effektenhandel, Agb Preisanpassung Energie Stromgvv Gasgvv** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-bei-versicherungsvertraegen-vvg`
 

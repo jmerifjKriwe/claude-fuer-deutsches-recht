@@ -7,11 +7,11 @@ description: "Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qua
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qualitaetskontrolle Praevention, Wirtschaftspruefer Qualitaetskontrolle Verteidigung, Wirtschaftspruefer Testat Widerruf Praevention** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qualitaetskontrolle Praevention, Wirtschaftspruefer Qualitaetskontrolle Verteidigung, Wirtschaftspruefer Testat Widerruf Praevention** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `werbung-robe-kanzleimarketing-verteidigung` | Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `wirtschaftspruefer-qualitaetskontrolle-praevention` | Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftsp
 
 ## Arbeitsweg
 
-Für **Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qualitaetskontrolle Praevention, Wirtschaftspruefer Qualitaetskontrolle Verteidigung, Wirtschaftspruefer Testat Widerruf Praevention** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qualitaetskontrolle Praevention, Wirtschaftspruefer Qualitaetskontrolle Verteidigung, Wirtschaftspruefer Testat Widerruf Praevention** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `werbung-robe-kanzleimarketing-verteidigung`
 

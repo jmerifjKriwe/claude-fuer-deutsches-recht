@@ -7,11 +7,11 @@ description: "Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krisenuebung` | Prüft technische Krisenübung mit Restore und Kommunikationsausfall. |
 | `kritis-bsig-schnittstelle` | Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaer
 
 ## Arbeitsweg
 
-Für **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krisenuebung`
 

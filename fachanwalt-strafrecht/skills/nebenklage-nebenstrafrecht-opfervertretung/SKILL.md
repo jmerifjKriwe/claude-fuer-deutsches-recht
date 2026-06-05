@@ -7,11 +7,11 @@ description: "Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Beh�
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-nebenklage-compliance-dokumentation-und-akte` | Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-nebenstrafrecht-behoerden-gericht-und-registerweg` | Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Nebenklage Compliance Dokumentation Und Akte, Nebenstraf
 
 ## Arbeitsweg
 
-Für **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-nebenklage-compliance-dokumentation-und-akte`
 

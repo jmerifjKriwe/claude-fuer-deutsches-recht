@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-qualitaetskontrolle-und-inspektion-kammerant` | Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-qualitaetskontrolle-und-inspektion-organisat` | Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Ka
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Kammerant, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Organisat, Wirtschaftspruefer Qualitaetskontrolle Und Inspektion Rechtspre, Wirtschaftspruefer Review Engagement Abgrenzung Kammerantwort U** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-qualitaetskontrolle-und-inspektion-kammerant`
 

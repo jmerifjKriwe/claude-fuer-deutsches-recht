@@ -7,11 +7,11 @@ description: "Closing Handelregister Vollzug, Einstweiliger Rechtsschutz Registe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Closing Handelregister Vollzug, Einstweiliger Rechtsschutz Registerstreit, Eintragung Prozessvergleich Registerfolge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Closing Handelregister Vollzug, Einstweiliger Rechtsschutz Registerstreit, Eintragung Prozessvergleich Registerfolge** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `closing-handelregister-vollzug` | Prüft CP/CS, Eintragungsabhängigkeiten, Vollzugsreihenfolge, Escrow, Notarbestätigung und Bring-down. |
 | `einstweiliger-rechtsschutz-registerstreit` | Plant Schutz gegen drohende Eintragung, Verzögerung, Registersperre, Gesellschafterlistenstreit und Vollzugsschäden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Closing Handelregister Vollzug, Einstweiliger Rechtsschu
 
 ## Arbeitsweg
 
-Für **Closing Handelregister Vollzug, Einstweiliger Rechtsschutz Registerstreit, Eintragung Prozessvergleich Registerfolge** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Closing Handelregister Vollzug, Einstweiliger Rechtsschutz Registerstreit, Eintragung Prozessvergleich Registerfolge** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `closing-handelregister-vollzug`
 

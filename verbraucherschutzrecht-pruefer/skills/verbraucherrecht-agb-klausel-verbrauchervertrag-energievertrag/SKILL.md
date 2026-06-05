@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-agb-klausel-verbrauchervertrag-energievertrag
-description: "Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-006-agb-klausel-im-verbrauchervertrag-prue` | Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-016-energievertrag-und-abschlag` | Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Agb Klausel Verbrauchervertrag Prue / Energievertrag Abs
 
 ## Arbeitsweg
 
-Für **Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Klausel Verbrauchervertrag Prue / Energievertrag Abschlag / Gesundheit Pflegevertrag / Verbraucher Kleines Unternehmen E** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-006-agb-klausel-im-verbrauchervertrag-prue`
 

@@ -7,11 +7,11 @@ description: "Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaft
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-gesinderecht-zeugnis-und-haftung` | Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster. |
 | `pralr-spez-staatshaftung-im-alr-und-rechtsstaat` | Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez 
 
 ## Arbeitsweg
 
-Für **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-gesinderecht-zeugnis-und-haftung`
 

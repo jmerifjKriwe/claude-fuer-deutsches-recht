@@ -1,17 +1,17 @@
 ---
 name: franchiserecht-praxis-fran-rs-systemhandbuch-vertikale-franchise
-description: "Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz` | Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-vertikale-preisbindung-im-franchisesystem` | Fachmodul Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertik
 
 ## Arbeitsweg
 
-Für **Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran Rs Systemhandbuch Aenderungen Ohne / Fran Rs Vertikale Preisbindung Franchisesystem / Franchise Internationaler Kontext** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz`
 

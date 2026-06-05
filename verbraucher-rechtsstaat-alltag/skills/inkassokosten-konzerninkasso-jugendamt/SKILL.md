@@ -7,11 +7,11 @@ description: "Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inkassokosten-konzerninkasso-verzug` | Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis. |
 | `jugendamt-schreiben-verstehen` | Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben
 
 ## Arbeitsweg
 
-Für **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inkassokosten-konzerninkasso-verzug`
 

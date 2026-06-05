@@ -7,11 +7,11 @@ description: "Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-077-menschenrechte-und-ueberwachung-durch-satelliten` | Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung. |
 | `space-078-katastrophenschutz-mit-satellitendaten` | Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 077 Menschenrechte Und Ueberwachung Durch Satellit
 
 ## Arbeitsweg
 
-Für **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-077-menschenrechte-und-ueberwachung-durch-satelliten`
 

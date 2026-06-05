@@ -7,11 +7,11 @@ description: "Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferke
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sektor-app-stores-mobile-oekosysteme` | Sektor App-Stores und mobile Ökosysteme: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. |
 | `sektor-automotive-zulieferketten-und-oem` | Sektor Automotive, Zulieferketten und OEMs: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Sektor App Stores Mobile Oekosysteme, Sektor Automotive 
 
 ## Arbeitsweg
 
-Für **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sektor-app-stores-mobile-oekosysteme`
 

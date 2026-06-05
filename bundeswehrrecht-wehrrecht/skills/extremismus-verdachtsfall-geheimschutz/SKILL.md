@@ -7,11 +7,11 @@ description: "Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherhei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `extremismus-verdachtsfall-sicherheitsrecht` | Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. |
 | `geheimschutz-sicherheitsueberpruefung-sueg` | Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz
 
 ## Arbeitsweg
 
-Für **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `extremismus-verdachtsfall-sicherheitsrecht`
 

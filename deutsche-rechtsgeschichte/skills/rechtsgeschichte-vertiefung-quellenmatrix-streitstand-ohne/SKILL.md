@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-vertiefung-quellenmatrix-streitstand-ohne
-description: "Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 weitere Module
+# Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-097-vertiefung-01-quellenmatrix` | Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. |
 | `drg-098-vertiefung-01-streitstand-ohne-blindzitat` | Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne B
 
 ## Arbeitsweg
 
-Für **Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat / Erinnerungskultur Juristen Legendenbildung / Personelle Kontinuitaeten Nach / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-097-vertiefung-01-quellenmatrix`
 

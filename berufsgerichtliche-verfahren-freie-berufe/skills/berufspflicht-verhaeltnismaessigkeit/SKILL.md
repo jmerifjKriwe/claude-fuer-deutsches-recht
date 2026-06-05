@@ -7,11 +7,11 @@ description: "Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `berufspflicht-und-verhaeltnismaessigkeit-praevention` | Berufspflicht und Verhältnismäßigkeit (Präventions- und Organisationspaket): steuert Pflichtverletzung, Schuld, Sanktion, Wiederholungsgefahr und mildere Mittel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `berufspflicht-und-verhaeltnismaessigkeit-verteidigung` | Berufspflicht und Verhältnismäßigkeit (Verteidigungs- und Kammerantwort): steuert Pflichtverletzung, Schuld, Sanktion, Wiederholungsgefahr und mildere Mittel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Be
 
 ## Arbeitsweg
 
-Für **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `berufspflicht-und-verhaeltnismaessigkeit-praevention`
 

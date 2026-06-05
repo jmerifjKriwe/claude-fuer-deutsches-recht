@@ -1,17 +1,17 @@
 ---
 name: vertrag-beauftragungsumfang
-description: "Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 weitere Module
+# Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-03-vertrag-und-beauftragungsumfang` | HOAI LPH 3 Entwurfsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. |
 | `hoai-lph-04-vertrag-und-beauftragungsumfang` | HOAI LPH 4 Genehmigungsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftra
 
 ## Arbeitsweg
 
-Für **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-03-vertrag-und-beauftragungsumfang`
 

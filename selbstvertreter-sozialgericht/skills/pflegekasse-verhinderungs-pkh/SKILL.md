@@ -7,11 +7,11 @@ description: "Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pflegekasse-verhinderungs-und-kurzzeitpflege` | Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage. |
 | `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwalt
 
 ## Arbeitsweg
 
-Für **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pflegekasse-verhinderungs-und-kurzzeitpflege`
 

@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corpo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-sector-regulatory-dd` | Sector Regulatory DD fuer regulierte Targets: prueft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs. |
 | `grosskanzlei-corporate-ma-shareholder-loans-subordination` | Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prueft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskan
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-sector-regulatory-dd`
 

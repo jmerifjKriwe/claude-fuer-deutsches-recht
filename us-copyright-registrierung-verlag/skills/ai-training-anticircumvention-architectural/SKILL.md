@@ -7,11 +7,11 @@ description: "Ai Training Fair Use Risk, Anticircumvention 1201, Architectural W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ai-training-fair-use-risk` | Prueft AI Training als US-Copyright-Risiko: input corpus, copying, fair use, licensing, opt-out und pending litigation awareness. |
 | `anticircumvention-1201` | Prueft Zugriffsschutz, Technological Protection Measures, Umgehung, Tools, Exemptions und Security-Research-Risiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ai Training Fair Use Risk, Anticircumvention 1201, Archi
 
 ## Arbeitsweg
 
-Für **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ai Training Fair Use Risk, Anticircumvention 1201, Architectural Works 120, Attorneys Fees 505** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ai-training-fair-use-risk`
 

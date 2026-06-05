@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstan
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstand Corporate Ma Closing Bible Archiv, Mittelstand Corporate Ma Conflict Gwg Sanctions, Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstand Corporate Ma Closing Bible Archiv, Mittelstand Corporate Ma Conflict Gwg Sanctions, Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-board-paper-business-judgment` | Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht). |
 | `mittelstand-corporate-ma-closing-bible-archiv` | Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Board Paper Business Judgment, 
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstand Corporate Ma Closing Bible Archiv, Mittelstand Corporate Ma Conflict Gwg Sanctions, Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstand Corporate Ma Closing Bible Archiv, Mittelstand Corporate Ma Conflict Gwg Sanctions, Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-board-paper-business-judgment`
 

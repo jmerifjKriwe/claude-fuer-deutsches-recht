@@ -7,11 +7,11 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster. |
 | `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraege
 
 ## Arbeitsweg
 
-Für **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-mabv-vollstaendigkeitserklaerung-7`
 

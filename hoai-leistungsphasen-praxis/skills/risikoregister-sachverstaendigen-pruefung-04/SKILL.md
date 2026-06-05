@@ -1,17 +1,17 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-04
-description: "Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 weitere Module
+# Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-02-risikoregister` | HOAI LPH 2 Vorplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
 | `hoai-lph-02-sachverstaendigen-pruefung` | HOAI LPH 2 Vorplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
@@ -34,10 +34,10 @@ Dieser Skill bündelt **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / 
 
 ## Arbeitsweg
 
-Für **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Risikoregister / Hoai Sachverstaendigen Pruefung / Hoai Schnittstelle Vob BGB / Hoai Streitfall Vorbereitung / 14 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-02-risikoregister`
 

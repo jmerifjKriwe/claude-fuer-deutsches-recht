@@ -7,11 +7,11 @@ description: "Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswehrpflicht Wpflg 2A, Befehl Und Gewissenskonflikt, Begründung Für Aktive Soldaten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswehrpflicht Wpflg 2A, Befehl Und Gewissenskonflikt, Begründung Für Aktive Soldaten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ausland-aufenthalt-wehrpflicht` | Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten. |
 | `bafza-entscheidungspfad` | Trennt Registrierung/Zuleitung durch BAPersBw von der inhaltlichen Entscheidung des BAFzA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad,
 
 ## Arbeitsweg
 
-Für **Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswehrpflicht Wpflg 2A, Befehl Und Gewissenskonflikt, Begründung Für Aktive Soldaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kriegsdienstverweigerung-wehrdienst` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswehrpflicht Wpflg 2A, Befehl Und Gewissenskonflikt, Begründung Für Aktive Soldaten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kriegsdienstverweigerung-wehrdienst` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ausland-aufenthalt-wehrpflicht`
 

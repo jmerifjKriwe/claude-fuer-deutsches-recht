@@ -7,11 +7,11 @@ description: "Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktion Anhoerun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktion Anhoerung 55 Owig, Dsv Sanktion Anwesenheit 73 Owig Vertretung, Dsv Sanktion Aufsichtsbehoerden Auskunftsverlangen Art 58 1, Dsv Sanktion Behoerdenkommunikation Reputationsschutz und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktion Anhoerung 55 Owig, Dsv Sanktion Anwesenheit 73 Owig Vertretung, Dsv Sanktion Aufsichtsbehoerden Auskunftsverlangen Art 58 1, Dsv Sanktion Behoerdenkommunikation Reputationsschutz und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-sanktion-akteneinsicht-49-owig-147-stpo` | Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-anhoerung-55-owig` | Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktio
 
 ## Arbeitsweg
 
-Für **Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktion Anhoerung 55 Owig, Dsv Sanktion Anwesenheit 73 Owig Vertretung, Dsv Sanktion Aufsichtsbehoerden Auskunftsverlangen Art 58 1, Dsv Sanktion Behoerdenkommunikation Reputationsschutz und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Sanktion Akteneinsicht 49 Owig 147 Stpo, Dsv Sanktion Anhoerung 55 Owig, Dsv Sanktion Anwesenheit 73 Owig Vertretung, Dsv Sanktion Aufsichtsbehoerden Auskunftsverlangen Art 58 1, Dsv Sanktion Behoerdenkommunikation Reputationsschutz und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-sanktion-akteneinsicht-49-owig-147-stpo`
 

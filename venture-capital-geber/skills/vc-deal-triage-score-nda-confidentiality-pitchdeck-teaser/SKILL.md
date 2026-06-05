@@ -1,17 +1,17 @@
 ---
 name: vc-deal-triage-score-nda-confidentiality-pitchdeck-teaser
-description: "Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-010-deal-triage-score` | Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit. |
 | `vc-011-nda-und-confidentiality-vc` | Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Deal Triage Score / Nda Confidentiality / Pitchdeck Teas
 
 ## Arbeitsweg
 
-Für **Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deal Triage Score / Nda Confidentiality / Pitchdeck Teaser Analyse / Market Sizing Commercial Thesis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-010-deal-triage-score`
 

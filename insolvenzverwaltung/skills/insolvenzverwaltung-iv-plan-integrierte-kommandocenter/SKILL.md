@@ -1,27 +1,27 @@
 ---
 name: insolvenzverwaltung-iv-plan-integrierte-kommandocenter
-description: "Iv Plan Integrierte Planung / Iv Plan Kommandocenter: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Iv Plan Integrierte Planung / Iv Plan Kommandocenter: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Iv Plan Integrierte Planung / Iv Plan Kommandocenter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Iv Plan Integrierte Planung / Iv Plan Kommandocenter**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Iv Plan Integrierte Planung / Iv Plan Kommandocenter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `iv-plan-integrierte-planung` | Integrierte Planrechnung aus GuV, Liquidität und Bilanz für Insolvenzplan, StaRUG oder Sanierungskonzept erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Prüfraster: Ist-Zahlen, Planannahmen, Maßnahmenwirkung, Base Case, Downside, Stressszenarien, Working Capital, Steuer-/Zinseffekte, Brückenrechnung und Annahmenregister. Output: Planungsmodell, Szenariovergleich, Maßnahmen-Brücke, Lückenliste. Abgrenzung: nicht für Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Konzepttext. |
 | `iv-plan-kommandocenter` | Insolvenzplan- oder StaRUG-Mandat starten Verfahrensroute bestimmen Ampelstatus setzen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Triage und Steuerung; Detailarbeit in iv-plan-Spezialist-Skills. |
 
 ## Arbeitsweg
 
-Für **Iv Plan Integrierte Planung / Iv Plan Kommandocenter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Iv Plan Integrierte Planung / Iv Plan Kommandocenter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `iv-plan-integrierte-planung`
 
@@ -40,7 +40,7 @@ Für **Iv Plan Integrierte Planung / Iv Plan Kommandocenter** zuerst das Arbeits
 
 ## Aufgabe
 
-Zahlen konsistent, nachvollziehbar und gerichtsfähig machen. Der Skill verbindet Liquiditätsplanung, GuV-Planung und Planbilanz zu einem Modell, das Sanierungsmaßnahmen, Insolvenzplan, StaRUG-Plan und Fortbestehensprognose tragen kann.
+Zahlen konsistent, nachvollziehbar und gerichtsfähig machen. Der Skill bearbeitet Liquiditätsplanung, GuV-Planung und Planbilanz zu einem Modell, das Sanierungsmaßnahmen, Insolvenzplan, StaRUG-Plan und Fortbestehensprognose tragen kann.
 
 Wenn Unterlagen fehlen, fragt er gezielt nach, bildet eine klar markierte Annahme oder bietet einen Simulationsstand an. Er darf eine Liquiditätsvorschau nie als vollständige Sanierungsplanung ausgeben, solange GuV- und Bilanzbrücken fehlen.
 

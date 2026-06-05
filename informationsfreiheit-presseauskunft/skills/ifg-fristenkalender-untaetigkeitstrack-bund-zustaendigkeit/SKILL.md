@@ -1,17 +1,17 @@
 ---
 name: ifg-fristenkalender-untaetigkeitstrack-bund-zustaendigkeit
-description: "Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-006-fristenkalender-und-untaetigkeitstrack` | Informationsfreiheit und Presseauskunft: Fristenkalender und Untätigkeitstracker. Fristenkalender und Untätigkeitstracker im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-038-ifg-bund-zustaendigkeit-pruefen` | Informationsfreiheit und Presseauskunft: IFG Bund: Zuständigkeit prüfen. Zuständigkeit prüfen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit
 
 ## Arbeitsweg
 
-Für **Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristenkalender Untaetigkeitstrack / Bund Zustaendigkeit Pruefen / Bund Frist Setzen / Ifggebv Gebuehren Zustaendigkeit Pruef** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-006-fristenkalender-und-untaetigkeitstrack`
 

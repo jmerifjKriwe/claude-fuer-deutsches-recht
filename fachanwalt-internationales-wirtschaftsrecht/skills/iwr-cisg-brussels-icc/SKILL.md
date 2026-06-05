@@ -1,17 +1,17 @@
 ---
 name: iwr-cisg-brussels-icc
-description: "Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen. |
 | `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Bruss
 
 ## Arbeitsweg
 
-Für **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Iwr Cisg Anwendbarkeit / Fachanwalt Iwr Brussels Ia Zustaendigkeit / Fachanwalt Iwr Icc Uncitral Schiedsverfahren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-iwr-cisg-anwendbarkeit`
 

@@ -7,11 +7,11 @@ description: "Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschla
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschlaege Besondere Aufgaben, Zuweiserverguetung Antikorruption 299A 299B Stgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschlaege Besondere Aufgaben, Zuweiserverguetung Antikorruption 299A 299B Stgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wahlleistungsvereinbarung-chefarzt-leistungskette` | Wahlleistungsvereinbarung Chefarzt Leistungskette: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 | `zentren-zuschlaege-besondere-aufgaben` | Zentren Zuschläge besondere Aufgaben: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentr
 
 ## Arbeitsweg
 
-Für **Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschlaege Besondere Aufgaben, Zuweiserverguetung Antikorruption 299A 299B Stgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wahlleistungsvereinbarung Chefarzt Leistungskette, Zentren Zuschlaege Besondere Aufgaben, Zuweiserverguetung Antikorruption 299A 299B Stgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wahlleistungsvereinbarung-chefarzt-leistungskette`
 

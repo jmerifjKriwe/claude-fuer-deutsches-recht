@@ -7,11 +7,11 @@ description: "Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ausnahmen-streitwertgrenze-23-nr-2-gvg` | Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG. |
 | `aussergerichtliche-mahnung-286-bgb` | Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtlic
 
 ## Arbeitsweg
 
-Für **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ausnahmen-streitwertgrenze-23-nr-2-gvg`
 

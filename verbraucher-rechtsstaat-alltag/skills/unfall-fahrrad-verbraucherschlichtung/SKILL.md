@@ -7,11 +7,11 @@ description: "Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangeb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unfall-fahrrad-auto-klein` | Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `verbraucherschlichtung` | Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergl
 
 ## Arbeitsweg
 
-Für **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unfall Fahrrad Auto Klein, Verbraucherschlichtung, Vergleichsangebot Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unfall-fahrrad-auto-klein`
 

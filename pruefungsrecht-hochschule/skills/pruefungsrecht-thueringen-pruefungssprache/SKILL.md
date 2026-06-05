@@ -7,11 +7,11 @@ description: "Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit Rücktritt, Punkte Noten Umrechnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit Rücktritt, Punkte Noten Umrechnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pruefungsrecht-thueringen` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungssprache` | Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsun
 
 ## Arbeitsweg
 
-Für **Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit Rücktritt, Punkte Noten Umrechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit Rücktritt, Punkte Noten Umrechnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pruefungsrecht-thueringen`
 

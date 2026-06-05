@@ -7,11 +7,11 @@ description: "Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
 | `fachanwalt-it-recht-datenschutz-folgenabschaetzung` | Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fach
 
 ## Arbeitsweg
 
-Für **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`
 

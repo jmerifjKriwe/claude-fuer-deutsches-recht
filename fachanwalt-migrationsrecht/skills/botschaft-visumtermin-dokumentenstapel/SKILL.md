@@ -7,33 +7,33 @@ description: "Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstap
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Arbeitsmodul für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Prüffeld für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Arbeitsmodul für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-dublin-geas-start` | Dublin/GEAS Start: Arbeitsmodul für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Arbeitsmodul für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Prüffeld für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-dublin-geas-start` | Dublin/GEAS Start: Prüffeld für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Prüffeld für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-botschaft-visumtermin`
 
-**Fokus:** Botschaft/Visumtermin: Arbeitsmodul für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Botschaft/Visumtermin: Prüffeld für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Botschaft/Visumtermin
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -97,12 +97,12 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `workflow-dokumentenstapel-migration`
 
-**Fokus:** Dokumentenstapel Migration: Arbeitsmodul für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Dokumentenstapel Migration: Prüffeld für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Dokumentenstapel Migration
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -131,12 +131,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-dublin-geas-start`
 
-**Fokus:** Dublin/GEAS Start: Arbeitsmodul für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Dublin/GEAS Start: Prüffeld für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Dublin/GEAS Start
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -165,12 +165,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-duldung-spurwechsel`
 
-**Fokus:** Duldung/Spurwechsel: Arbeitsmodul für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Duldung/Spurwechsel: Prüffeld für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Duldung/Spurwechsel
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:

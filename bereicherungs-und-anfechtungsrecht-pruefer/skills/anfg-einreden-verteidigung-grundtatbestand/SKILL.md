@@ -7,11 +7,11 @@ description: "Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbes
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfg-einreden-und-verteidigung-anfechtungsgegner` | Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO. |
 | `anfg-grundtatbestand-und-anfechtungsberechtigte` | Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg G
 
 ## Arbeitsweg
 
-Für **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfg-einreden-und-verteidigung-anfechtungsgegner`
 

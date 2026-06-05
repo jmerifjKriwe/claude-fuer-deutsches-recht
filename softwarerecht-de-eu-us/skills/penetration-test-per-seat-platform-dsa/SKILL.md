@@ -7,11 +7,11 @@ description: "Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `penetration-test-terms` | Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure. |
 | `per-seat-per-core-usage-metrics` | Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Penetration Test Terms, Per Seat Per Core Usage Metrics,
 
 ## Arbeitsweg
 
-Für **Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `penetration-test-terms`
 

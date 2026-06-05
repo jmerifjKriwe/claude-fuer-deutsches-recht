@@ -7,11 +7,11 @@ description: "Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `analogabrechnung-intake-6-goae` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ. |
 | `arbeitsunfaehigkeitsbescheinigung-privatpatient` | Arbeitsunfähigkeitsbescheinigung Privatpatient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbesc
 
 ## Arbeitsweg
 
-Für **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `analogabrechnung-intake-6-goae`
 

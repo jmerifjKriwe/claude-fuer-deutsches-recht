@@ -1,17 +1,17 @@
 ---
 name: datenschutz-paragraf-stgb-berufsgeheimnis-pressemitteilung
-description: "Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 weitere Module
+# Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-paragraf-203-stgb-berufsgeheimnis` | Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige. |
 | `dsv-pressemitteilung-krisenkommunikation` | Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenk
 
 ## Arbeitsweg
 
-Für **Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Paragraf Stgb Berufsgeheimnis / Pressemitteilung Krisenkommunikation / Sammelklagen Praevention / Vvt Update Nach Vorfall / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-paragraf-203-stgb-berufsgeheimnis`
 

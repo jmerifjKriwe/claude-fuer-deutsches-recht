@@ -7,11 +7,11 @@ description: "Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Besch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `textilkennzeichnung-lmiv-kosmetik-spielzeug` | Textilkennzeichnung LMIV Kosmetik Spielzeug: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `trusted-flagger-beschwerdemanagement-dsa` | Trusted Flagger Beschwerdemanagement DSA: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Fla
 
 ## Arbeitsweg
 
-Für **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `textilkennzeichnung-lmiv-kosmetik-spielzeug`
 

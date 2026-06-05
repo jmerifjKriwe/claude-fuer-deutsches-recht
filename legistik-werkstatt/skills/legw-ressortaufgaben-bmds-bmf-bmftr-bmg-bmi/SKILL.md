@@ -7,11 +7,11 @@ description: "Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressorta
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-ressortaufgaben-bmds` | Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmds-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmds (Heranfuehrung). |
 | `legw-ressortaufgaben-bmf` | Ressortaufgaben BMF: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Finanzen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmf-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmf (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Leg
 
 ## Arbeitsweg
 
-Für **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-ressortaufgaben-bmds`
 

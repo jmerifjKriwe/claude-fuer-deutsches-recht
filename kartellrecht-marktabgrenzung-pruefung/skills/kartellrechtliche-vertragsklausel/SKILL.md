@@ -7,11 +7,11 @@ description: "Kartellrechtliche Vertragsklausel Redline, Bussgeldbemessung Unter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kartellrechtliche Vertragsklausel Redline, Bussgeldbemessung Unternehmen Verband, Geschaeftsleiterhaftung Kartellverstoss, Kartellschadensersatz 33A Gwb, Passing On Einwand Schadensweitergabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kartellrechtliche Vertragsklausel Redline, Bussgeldbemessung Unternehmen Verband, Geschaeftsleiterhaftung Kartellverstoss, Kartellschadensersatz 33A Gwb, Passing On Einwand Schadensweitergabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kartellrechtliche-vertragsklausel-redline` | Kartellrechtliche Vertragsklausel-Redline: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `bussgeldbemessung-unternehmen-verband` | Bußgeldbemessung Unternehmen Verband: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kartellrechtliche Vertragsklausel Redline, Bussgeldbemes
 
 ## Arbeitsweg
 
-Für **Kartellrechtliche Vertragsklausel Redline, Bussgeldbemessung Unternehmen Verband, Geschaeftsleiterhaftung Kartellverstoss, Kartellschadensersatz 33A Gwb, Passing On Einwand Schadensweitergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kartellrechtliche Vertragsklausel Redline, Bussgeldbemessung Unternehmen Verband, Geschaeftsleiterhaftung Kartellverstoss, Kartellschadensersatz 33A Gwb, Passing On Einwand Schadensweitergabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kartellrechtliche-vertragsklausel-redline`
 

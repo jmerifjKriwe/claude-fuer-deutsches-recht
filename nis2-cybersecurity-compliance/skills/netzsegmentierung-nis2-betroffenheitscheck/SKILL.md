@@ -7,11 +7,11 @@ description: "Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Not
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `netzsegmentierung` | Prüft Netzsegmentierung und Trennung kritischer Systeme. |
 | `nis2-betroffenheitscheck` | Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Ma
 
 ## Arbeitsweg
 
-Für **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Netzsegmentierung, Nis2 Betroffenheitscheck, Nist Csf Mapping, Notfallkommunikation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `netzsegmentierung`
 

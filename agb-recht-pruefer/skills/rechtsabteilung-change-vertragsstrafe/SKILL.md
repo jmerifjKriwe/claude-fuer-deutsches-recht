@@ -7,11 +7,11 @@ description: "Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-change-control-klauseln-im-konzernvertrag` | Rechtsabteilungs-Fachmodul für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra` | Rechtsabteilungs-Fachmodul für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Rechtsabteilung Change Control Klauseln Im Konzernvertra
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-change-control-klauseln-im-konzernvertrag`
 

@@ -7,11 +7,11 @@ description: "Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energiepr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energieprojekt Intake Und Regulierungsweiche, Energierecht Erstpruefung Und Mandatsziel, Industrie Schriftsatz Brief Und Memo Bausteine** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energieprojekt Intake Und Regulierungsweiche, Energierecht Erstpruefung Und Mandatsziel, Industrie Schriftsatz Brief Und Memo Bausteine** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-einfuehrung-mandantenkommunikation-entscheidungsvorlage` | Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-energieprojekt-intake-und-regulierungsweiche` | Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Einfuehrung Mandantenkommunikation Entscheidungsvorlage,
 
 ## Arbeitsweg
 
-Für **Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energieprojekt Intake Und Regulierungsweiche, Energierecht Erstpruefung Und Mandatsziel, Industrie Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einfuehrung Mandantenkommunikation Entscheidungsvorlage, Energieprojekt Intake Und Regulierungsweiche, Energierecht Erstpruefung Und Mandatsziel, Industrie Schriftsatz Brief Und Memo Bausteine** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-einfuehrung-mandantenkommunikation-entscheidungsvorlage`
 

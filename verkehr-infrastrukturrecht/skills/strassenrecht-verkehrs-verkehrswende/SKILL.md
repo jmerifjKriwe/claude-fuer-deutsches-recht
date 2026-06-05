@@ -7,11 +7,11 @@ description: "Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs E
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-strassenrecht-internationaler-bezug-und-schnittstellen` | Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehrs-erstpruefung-und-mandatsziel` | Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Strassenrecht Internationaler Bezug Und Schnittstellen, 
 
 ## Arbeitsweg
 
-Für **Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-strassenrecht-internationaler-bezug-und-schnittstellen`
 

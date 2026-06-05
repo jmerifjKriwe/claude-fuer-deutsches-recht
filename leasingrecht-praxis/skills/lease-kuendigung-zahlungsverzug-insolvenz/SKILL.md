@@ -7,11 +7,11 @@ description: "Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Le
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung` | Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung. |
 | `lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung` | Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verw
 
 ## Arbeitsweg
 
-Für **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 016 Kündigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung`
 

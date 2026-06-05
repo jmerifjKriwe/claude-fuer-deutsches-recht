@@ -7,11 +7,11 @@ description: "Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vorsatz, Haft
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vorsatz, Haftung Indirekte Schaeden, Haftung Leben Koerper Gesundheit 309, Haftungscap Summe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vorsatz, Haftung Indirekte Schaeden, Haftung Leben Koerper Gesundheit 309, Haftungscap Summe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `compliance-sanktionen` | Klausel-Fachmodul für Compliance Sanktionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `haftung-grobe-fahrlaessigkeit-vorsatz` | Klausel-Fachmodul für Haftung Grobe Fahrlaessigkeit Vorsatz: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vor
 
 ## Arbeitsweg
 
-Für **Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vorsatz, Haftung Indirekte Schaeden, Haftung Leben Koerper Gesundheit 309, Haftungscap Summe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Compliance Sanktionen, Haftung Grobe Fahrlaessigkeit Vorsatz, Haftung Indirekte Schaeden, Haftung Leben Koerper Gesundheit 309, Haftungscap Summe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `compliance-sanktionen`
 

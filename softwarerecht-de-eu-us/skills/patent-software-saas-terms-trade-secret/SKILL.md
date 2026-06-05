@@ -7,11 +7,11 @@ description: "Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `us-patent-102-103-112-software` | Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten. |
 | `us-saas-terms` | Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Us Patent 102 103 112 Software, Us Saas Terms, Us Softwa
 
 ## Arbeitsweg
 
-Für **Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `us-patent-102-103-112-software`
 

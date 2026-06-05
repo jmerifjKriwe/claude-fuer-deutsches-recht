@@ -7,11 +7,11 @@ description: "Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `staat-als-ordnungsmacht-anti-autoritaerer-check` | Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz. |
 | `kelsen-demokratie-verfahren-minderheitenschutz` | Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen 
 
 ## Arbeitsweg
 
-Für **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `staat-als-ordnungsmacht-anti-autoritaerer-check`
 

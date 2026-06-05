@@ -1,17 +1,17 @@
 ---
 name: vertrag-beauftragungsumfang-vertragliche
-description: "Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-08-vertrag-und-beauftragungsumfang` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
 | `hoai-lph-09-vertrag-und-beauftragungsumfang` | HOAI LPH 9 Objektbetreuung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftra
 
 ## Arbeitsweg
 
-Für **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Vertrag Beauftragungsumfang / Hoai Vertrag Beauftragungsumfang / Hoai Vertragliche Schnittstellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-08-vertrag-und-beauftragungsumfang`
 

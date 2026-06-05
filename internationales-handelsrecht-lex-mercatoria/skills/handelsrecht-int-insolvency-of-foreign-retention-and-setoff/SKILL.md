@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-insolvency-of-foreign-retention-and-setoff
-description: "Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-073-insolvency-of-foreign-buyer` | Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. |
 | `ihl-074-retention-and-setoff` | Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insolvency Of Foreign Buyer / Retention And Setoff / Arb
 
 ## Arbeitsweg
 
-Für **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insolvency Of Foreign Buyer / Retention And Setoff / Arbitration Evidence / Emergency Arbitrator** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-073-insolvency-of-foreign-buyer`
 

@@ -1,6 +1,6 @@
 ---
 name: anw-umsatzsteuer-vorsteuerabzug-pruefen
-description: "Arbeitsmodul zu anw umsatzsteuer vorsteuerabzug pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für anw umsatzsteuer vorsteuerabzug pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen

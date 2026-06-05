@@ -7,11 +7,11 @@ description: "Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notice-deposit-registration-ch4` | Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4. |
 | `office-action-rueckfragen-45-tage` | Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notice Deposit Registration Ch4, Office Action Rueckfrag
 
 ## Arbeitsweg
 
-Für **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512H, Ownership Transfer Writing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notice-deposit-registration-ch4`
 

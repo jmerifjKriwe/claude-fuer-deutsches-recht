@@ -7,11 +7,11 @@ description: "Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `robe-werbung-sachlichkeit` | Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Muste
 
 ## Arbeitsweg
 
-Für **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Robe Werbung Sachlichkeit, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Vermoegensverfall Zulassungswiderruf** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `robe-werbung-sachlichkeit`
 

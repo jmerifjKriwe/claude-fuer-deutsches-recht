@@ -7,11 +7,11 @@ description: "Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bfsg-hausverwalter-website-portal-2025` | Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung. |
 | `datenschutz-betroffenenrechte-auskunft-loeschung-weg` | Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betr
 
 ## Arbeitsweg
 
-Für **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Löschung Weg, Datenschutz Datenpanne Meldung 72H** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bfsg-hausverwalter-website-portal-2025`
 

@@ -7,11 +7,11 @@ description: "Notare Gesellschafterliste Nach Auslandsinsolvenz Kammerantwort, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Gesellschafterliste Nach Auslandsinsolvenz Kammerantwort, Notare Gesellschafterliste Nach Auslandsinsolvenz Organisations, Notare Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun, Notare Grundschuld Und Sicherungszweck Kammerantwort Und Verfah** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Gesellschafterliste Nach Auslandsinsolvenz Kammerantwort, Notare Gesellschafterliste Nach Auslandsinsolvenz Organisations, Notare Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun, Notare Grundschuld Und Sicherungszweck Kammerantwort Und Verfah** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-gesellschafterliste-nach-auslandsinsolvenz-kammerantwort` | Notare: gesellschafterliste nach auslandsinsolvenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-gesellschafterliste-nach-auslandsinsolvenz-organisations` | Notare: gesellschafterliste nach auslandsinsolvenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Gesellschafterliste Nach Auslandsinsolvenz Kammer
 
 ## Arbeitsweg
 
-Für **Notare Gesellschafterliste Nach Auslandsinsolvenz Kammerantwort, Notare Gesellschafterliste Nach Auslandsinsolvenz Organisations, Notare Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun, Notare Grundschuld Und Sicherungszweck Kammerantwort Und Verfah** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Gesellschafterliste Nach Auslandsinsolvenz Kammerantwort, Notare Gesellschafterliste Nach Auslandsinsolvenz Organisations, Notare Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun, Notare Grundschuld Und Sicherungszweck Kammerantwort Und Verfah** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-gesellschafterliste-nach-auslandsinsolvenz-kammerantwort`
 

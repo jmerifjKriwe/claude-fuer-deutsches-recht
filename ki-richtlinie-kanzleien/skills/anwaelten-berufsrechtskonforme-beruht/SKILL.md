@@ -7,11 +7,11 @@ description: "Anwaelten Behörden Gericht Und Registerweg, Berufsrechtskonforme 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaelten Behörden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwaelten Behörden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-anwaelten-behoerden-gericht-und-registerweg` | Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-berufsrechtskonforme-tatbestand-beweis-und-belege` | Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Anwaelten Behörden Gericht Und Registerweg, Berufsrecht
 
 ## Arbeitsweg
 
-Für **Anwaelten Behörden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaelten Behörden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-anwaelten-behoerden-gericht-und-registerweg`
 

@@ -7,11 +7,11 @@ description: "Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-urkundensammlung-und-verwahrung-kaltstart-und-faktenmatr` | Notare: urkundensammlung und verwahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-verbraucherwiderruf-und-beurkundung-kaltstart-und-fakten` | Notare: verbraucherwiderruf und beurkundung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Urkundensammlung Und Verwahrung Kaltstart Und Fak
 
 ## Arbeitsweg
 
-Für **Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-urkundensammlung-und-verwahrung-kaltstart-und-faktenmatr`
 

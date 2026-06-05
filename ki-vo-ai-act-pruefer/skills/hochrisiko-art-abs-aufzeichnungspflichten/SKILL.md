@@ -7,11 +7,11 @@ description: "Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflicht
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hochrisiko-art-6-abs-2-anhang-iii` | Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen. |
 | `hochrisiko-aufzeichnungspflichten-logging-art-12` | Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnu
 
 ## Arbeitsweg
 
-Für **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hochrisiko-art-6-abs-2-anhang-iii`
 

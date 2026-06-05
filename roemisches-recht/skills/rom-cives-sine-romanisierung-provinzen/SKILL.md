@@ -7,11 +7,11 @@ description: "Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Ro
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii` | Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix. |
 | `rom-159-romanisierung-der-provinzen-und-stadtrecht` | Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suf
 
 ## Arbeitsweg
 
-Für **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii`
 

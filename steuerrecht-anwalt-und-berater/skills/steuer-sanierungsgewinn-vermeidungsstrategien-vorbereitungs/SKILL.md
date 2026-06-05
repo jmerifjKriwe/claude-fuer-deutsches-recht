@@ -1,17 +1,17 @@
 ---
 name: steuer-sanierungsgewinn-vermeidungsstrategien-vorbereitungs
-description: "Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 weitere Module
+# Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-sanierungsgewinn-vermeidungsstrategien-praxis` | Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist. |
 | `stb-sanierungsgewinn-vorbereitungs-checkliste` | Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezogenen Sanierung. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewin
 
 ## Arbeitsweg
 
-Für **Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sanierungsgewinn Vermeidungsstrategien / Sanierungsgewinn Vorbereitungs Checkliste / Susa Anlagenkonten Ueberblick / Susa Debitorenliste Osa Offene Posten / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
 

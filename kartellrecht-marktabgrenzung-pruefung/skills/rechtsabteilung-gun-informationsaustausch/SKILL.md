@@ -7,11 +7,11 @@ description: "Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster` | Rechtsabteilungs-Fachmodul für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-informationsaustausch-im-branchenverband` | Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Rechtsabteilung Gun Jumping Im Signing To Closing Fenste
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster`
 
@@ -229,7 +229,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## Anwendung
 
-Diese Checkliste wird nach Abschluss der Einzel-Prüfungsschritte angewendet. Sie bündelt alle erkannten Schwachstellen in einer priorisierten Liste.
+Diese Checkliste wird nach Abschluss der Einzel-Prüfungsschritte angewendet. Sie bearbeitet alle erkannten Schwachstellen in einer priorisierten Liste.
 
 ## Kategorie A — Methodische Fundamentalfehler
 

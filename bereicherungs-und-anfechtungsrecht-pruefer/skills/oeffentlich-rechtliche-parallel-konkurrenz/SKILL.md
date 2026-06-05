@@ -7,11 +7,11 @@ description: "Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Kon
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Konkurrenz Prüfung, Qualitaetskontrolle Halluzinationsschutz Bereicherungsrecht, Rechtsgrund Und Behaltensgrund Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Konkurrenz Prüfung, Qualitaetskontrolle Halluzinationsschutz Bereicherungsrecht, Rechtsgrund Und Behaltensgrund Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oeffentlich-rechtliche-rueckforderung-abgrenzung` | Nutze diesen Skill, wenn Zivilrecht und öffentlich-rechtliche Erstattung auseinanderzuhalten sind. Normen: §§ 48 und 49a VwVfG; § 37 AO; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Abgrenzungsergebnis öffentlich-rechtlich vs. bereicherungsrechtlich. Abgrenzung: nicht zivilrechtliche Kondiktion bei öffentlich-rechtlichem Verhältnis. |
 | `parallel-und-konkurrenz-pruefung` | Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität, Subsidiarität, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung je Regelungskreis. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parall
 
 ## Arbeitsweg
 
-Für **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Konkurrenz Prüfung, Qualitaetskontrolle Halluzinationsschutz Bereicherungsrecht, Rechtsgrund Und Behaltensgrund Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Öffentlich Rechtliche Rueckforderung Abgrenzung, Parallel Und Konkurrenz Prüfung, Qualitaetskontrolle Halluzinationsschutz Bereicherungsrecht, Rechtsgrund Und Behaltensgrund Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oeffentlich-rechtliche-rueckforderung-abgrenzung`
 

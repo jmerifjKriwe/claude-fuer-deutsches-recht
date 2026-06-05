@@ -7,11 +7,11 @@ description: "Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eige
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-rs-kpi-audit-und-kuendigungsreife` | Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht` | Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbi
 
 ## Arbeitsweg
 
-Für **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-rs-kpi-audit-und-kuendigungsreife`
 

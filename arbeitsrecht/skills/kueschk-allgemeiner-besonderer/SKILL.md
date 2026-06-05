@@ -7,11 +7,11 @@ description: "Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsant
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten. |
 | `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kündigungsschutzklage Allgemeiner Und Besonderer Festst
 
 ## Arbeitsweg
 
-Für **Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kueschk-allgemeiner-und-besonderer-feststellungsantrag`
 

@@ -7,21 +7,21 @@ description: "Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Me
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-016-isbn-metadaten-vlb-und-meldeprozesse` | Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards. |
 | `verl-017-vg-wort-meldung-beteiligung-und-ausschuettung` | VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis. |
 
 ## Arbeitsweg
 
-Für **Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-016-isbn-metadaten-vlb-und-meldeprozesse`
 

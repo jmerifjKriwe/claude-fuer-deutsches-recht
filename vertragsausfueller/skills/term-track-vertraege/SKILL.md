@@ -7,11 +7,11 @@ description: "Term Verhandlung Vergleich Und Eskalation, Track Mandantenkommunik
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Term Verhandlung Vergleich Und Eskalation, Track Mandantenkommunikation Entscheidungsvorlage, Vertraege Formular Portal Und Einreichung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Term Verhandlung Vergleich Und Eskalation, Track Mandantenkommunikation Entscheidungsvorlage, Vertraege Formular Portal Und Einreichung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-term-verhandlung-vergleich-und-eskalation` | Term: Verhandlung, Vergleich und Eskalation im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-track-mandantenkommunikation-entscheidungsvorlage` | Track: Mandantenkommunikation und Entscheidungsvorlage im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Term Verhandlung Vergleich Und Eskalation, Track Mandant
 
 ## Arbeitsweg
 
-Für **Term Verhandlung Vergleich Und Eskalation, Track Mandantenkommunikation Entscheidungsvorlage, Vertraege Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Term Verhandlung Vergleich Und Eskalation, Track Mandantenkommunikation Entscheidungsvorlage, Vertraege Formular Portal Und Einreichung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-term-verhandlung-vergleich-und-eskalation`
 

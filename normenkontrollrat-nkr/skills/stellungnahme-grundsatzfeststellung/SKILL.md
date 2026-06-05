@@ -1,27 +1,27 @@
 ---
 name: stellungnahme-grundsatzfeststellung
-description: "Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `nkr-stellungnahme-grundsatzfeststellung` | Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Stellungnahme. Drei Saetze: (1) Was will das Vorhaben (2) Position zur Erforderlichkeit (3) Position zur Ausgestaltung. Mit Standardformeln Tonalitaet Verbindlichkeit und typischen Variationen je nach Mahnungs- oder Lobcharakter. |
 | `nkr-stellungnahme-mahnender-charakter-grenzen` | Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungsabwaegungen. |
 
 ## Arbeitsweg
 
-Für **Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nkr Stellungnahme Grundsatzfeststellung / Nkr Stellungnahme Mahnender Charakter Grenzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nkr-stellungnahme-grundsatzfeststellung`
 

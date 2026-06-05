@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-distressed-ma
-description: "Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Distressed M&A
@@ -13,7 +13,7 @@ description: "Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, 
 
 ## Fachkern: Distressed M&A
 
-- **Corporate-Aufgabe (Distressed M&A):** Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Corporate-Aufgabe (Distressed M&A):** Prüffeld für corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.

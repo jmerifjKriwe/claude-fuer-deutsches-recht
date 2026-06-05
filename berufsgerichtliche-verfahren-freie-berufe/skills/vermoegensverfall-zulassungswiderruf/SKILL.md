@@ -7,11 +7,11 @@ description: "Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenhei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vermoegensverfall-zulassungswiderruf-verteidigung` | Vermögensverfall und Zulassungswiderruf (Verteidigungs- und Kammerantwort): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `verschwiegenheit-cloud-dienstleister-praevention` | Verschwiegenheit und Cloud-Dienstleister (Präventions- und Organisationspaket): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vermoegensverfall Zulassungswiderruf Verteidigung, Versc
 
 ## Arbeitsweg
 
-Für **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vermoegensverfall-zulassungswiderruf-verteidigung`
 

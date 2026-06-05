@@ -7,11 +7,11 @@ description: "Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu C
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu Cybersecurity Act Certification** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu Cybersecurity Act Certification** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsgvo-art32-schnittstelle` | Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO. |
 | `edr-xdr` | Prüft EDR/XDR auf Endpoints und Servern. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Aware
 
 ## Arbeitsweg
 
-Für **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu Cybersecurity Act Certification** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsgvo Art32 Schnittstelle, Edr Xdr, Email Phishing Awareness, Eu Cybersecurity Act Certification** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsgvo-art32-schnittstelle`
 

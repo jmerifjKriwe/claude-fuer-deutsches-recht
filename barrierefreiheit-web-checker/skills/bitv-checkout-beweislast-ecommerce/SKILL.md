@@ -7,11 +7,11 @@ description: "Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweislast Und Da
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweislast Und Darlegungslast, Ecommerce Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweislast Und Darlegungslast, Ecommerce Mandantenkommunikation Entscheidungsvorlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bitv-dokumentenmatrix-und-lueckenliste` | BITV: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-checkout-beweislast-und-darlegungslast` | Checkout: Beweislast, Darlegungslast und Substantiierung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweisl
 
 ## Arbeitsweg
 
-Für **Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweislast Und Darlegungslast, Ecommerce Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bitv Dokumentenmatrix Und Lueckenliste, Checkout Beweislast Und Darlegungslast, Ecommerce Mandantenkommunikation Entscheidungsvorlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bitv-dokumentenmatrix-und-lueckenliste`
 

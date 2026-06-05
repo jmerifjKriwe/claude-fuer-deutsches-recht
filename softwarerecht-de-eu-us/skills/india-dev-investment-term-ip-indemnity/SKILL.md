@@ -7,11 +7,11 @@ description: "India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indem
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `india-dev-outsourcing` | Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement. |
 | `investment-term-sheet-software-ip` | Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **India Dev Outsourcing, Investment Term Sheet Software Ip
 
 ## Arbeitsweg
 
-Für **India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `india-dev-outsourcing`
 

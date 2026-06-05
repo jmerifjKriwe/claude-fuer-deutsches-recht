@@ -64,7 +64,7 @@ Die historische Auslegung folgt der subjektiven Theorie, die den Willen des hist
 
 ## Hinweise zur Praxis
 
-Bei Schriftsatzbegründungen zur historischen Auslegung empfiehlt sich ein direktes Zitat aus den Gesetzgebungsmaterialien mit korrekter Quellenangabe (BT-Drs.-Nummer, Datum, Seite). Nur belegbare Aussagen aus den Materialien können als Argument dienen. Sekundärquellen wie Kommentierungen der Entstehungsgeschichte sind schwächer als Primärquellen und sollten entsprechend kenntlich gemacht werden.
+Bei Schriftsatzbegründungen zur historischen Auslegung empfiehlt sich ein direktes Zitat aus den Gesetzgebungsmaterialien mit korrekter Quellenangabe (BT-Drs.-Nummer, Datum, Seite). Nur belegbare Aussagen aus den Materialien können als Argument dienen. Sekundärquellen wie Kommentierungen der fachliche Einordnung sind schwächer als Primärquellen und sollten entsprechend kenntlich gemacht werden.
 
 ## Weiterführende Analyse
 

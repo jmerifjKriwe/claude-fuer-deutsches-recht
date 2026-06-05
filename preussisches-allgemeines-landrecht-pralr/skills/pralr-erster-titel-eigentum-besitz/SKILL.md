@@ -7,11 +7,11 @@ description: "Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Tit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-neu-005-erster-teil-titel-2-sachen-und-rechte` | PrALR: Erster Teil Titel 2 Sachen und Rechte mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `pralr-neu-006-erster-teil-titel-3-eigentum-besitz-nutzung` | PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erste
 
 ## Arbeitsweg
 
-Für **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-neu-005-erster-teil-titel-2-sachen-und-rechte`
 

@@ -7,11 +7,11 @@ description: "Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zuga
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben. |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Untersuchungs Memo, Untersuchungs Zusammenfassung, Künd
 
 ## Arbeitsweg
 
-Für **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `untersuchungs-memo`
 

@@ -7,11 +7,11 @@ description: "Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr` | Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. |
 | `space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech` | Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 032 Bodensegment Teleport Rechenzentrum Und Kritis
 
 ## Arbeitsweg
 
-Für **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr`
 

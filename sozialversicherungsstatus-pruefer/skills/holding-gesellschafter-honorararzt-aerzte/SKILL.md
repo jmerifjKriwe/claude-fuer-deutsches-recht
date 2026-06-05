@@ -7,11 +7,11 @@ description: "Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschae
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschaeftigung, Influencer Content Creator** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschaeftigung, Influencer Content Creator** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `holding-gesellschafter-gf` | Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers. |
 | `honorararzt-und-aerzte` | Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybri
 
 ## Arbeitsweg
 
-Für **Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschaeftigung, Influencer Content Creator** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschaeftigung, Influencer Content Creator** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `holding-gesellschafter-gf`
 

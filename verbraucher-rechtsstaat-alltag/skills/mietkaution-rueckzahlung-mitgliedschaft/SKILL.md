@@ -7,11 +7,11 @@ description: "Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkoste
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrechnung Verbraucher** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrechnung Verbraucher** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mietkaution-rueckzahlung` | Mietkaution Rückzahlung: führt Laien durch Kaution nach Auszug, Abrechnungsfrist, Gegenforderungen und Nebenkostenreserve. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `mitgliedschaft-verein-streit` | Mitgliedschaft im Verein Streit: führt Laien durch Beitrag, Ausschluss, Hausverbot, Mitgliederversammlung und vereinsinterne Rechtsmittel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, 
 
 ## Arbeitsweg
 
-Für **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrechnung Verbraucher** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mietkaution Rueckzahlung, Mitgliedschaft Verein Streit, Nebenkostenabrechnung Verbraucher** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mietkaution-rueckzahlung`
 

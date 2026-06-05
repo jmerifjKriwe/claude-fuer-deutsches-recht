@@ -7,11 +7,11 @@ description: "Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kirchenaustritt-in-deutschland` | Kirchenaustritt in Deutschland: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `kirchenmusik-und-liturgie` | Kirchenmusik und Liturgie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgi
 
 ## Arbeitsweg
 
-Für **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kirchenaustritt-in-deutschland`
 

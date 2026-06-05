@@ -7,11 +7,11 @@ description: "Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft Catch All
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft Catch All Prüfung, Aussenwirtschaft Cbam Berichtspflichten Uebergang, Aussenwirtschaft Cbam Lieferantendaten Emissionen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft Catch All Prüfung, Aussenwirtschaft Cbam Berichtspflichten Uebergang, Aussenwirtschaft Cbam Lieferantendaten Emissionen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `aussenwirtschaft-bafa-nullbescheid-azg` | Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verbindlichen Feststellung der Genehmigungsfreiheit einer Ausfuhr durch BAFA. Einsatz bei Unsicherheit ueber Listenpflichtigkeit oder Catch-All-Relevanz. Fragestellung, Antragsinhalt und Rechtsnatur des Nullbescheids. Abgrenzung zur VZTA. Output: Nullbescheid-Antrag und Verfahrensprotokoll. |
 | `aussenwirtschaft-catch-all-pruefung` | Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht fuer nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meldepflicht. Output: Catch-All-Pruefungsvermerk und Eskalationsentscheidung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft
 
 ## Arbeitsweg
 
-Für **Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft Catch All Prüfung, Aussenwirtschaft Cbam Berichtspflichten Uebergang, Aussenwirtschaft Cbam Lieferantendaten Emissionen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aussenwirtschaft-zoll-sanktionen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aussenwirtschaft Bafa Nullbescheid Azg, Aussenwirtschaft Catch All Prüfung, Aussenwirtschaft Cbam Berichtspflichten Uebergang, Aussenwirtschaft Cbam Lieferantendaten Emissionen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aussenwirtschaft-zoll-sanktionen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `aussenwirtschaft-bafa-nullbescheid-azg`
 

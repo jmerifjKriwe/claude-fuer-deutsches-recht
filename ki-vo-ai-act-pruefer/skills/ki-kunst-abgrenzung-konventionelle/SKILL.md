@@ -7,11 +7,11 @@ description: "Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Sof
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ki-kunst-lizenzierung-kennzeichnung` | KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation fuer Agenturen, Verlage, Kanzleien und Unternehmen. |
 | `abgrenzung-konventionelle-software-vs-ki-system` | Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventi
 
 ## Arbeitsweg
 
-Für **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ki-kunst-lizenzierung-kennzeichnung`
 

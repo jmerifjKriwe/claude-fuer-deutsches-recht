@@ -1,6 +1,6 @@
 ---
 name: anw-betriebsausgaben-werbungskosten
-description: "Arbeitsmodul zu anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

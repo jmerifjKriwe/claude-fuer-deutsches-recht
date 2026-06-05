@@ -1,17 +1,17 @@
 ---
 name: steuer-bwa-aufbau-grundlagen-mandantengespraech-uebergabe
-description: "BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 weitere Module
+# BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-bwa-aufbau-grundlagen` | Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant. |
 | `stb-bwa-mandantengespraech-uebergabe` | BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe
 
 ## Arbeitsweg
 
-Für **BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **BWA Aufbau Grundlagen / BWA Mandantengespraech Uebergabe / BWA Monatsabschluss Routine / BWA Soll Ist Vergleich / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-bwa-aufbau-grundlagen`
 

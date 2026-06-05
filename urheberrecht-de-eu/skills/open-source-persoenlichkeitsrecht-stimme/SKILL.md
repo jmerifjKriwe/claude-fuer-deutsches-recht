@@ -7,11 +7,11 @@ description: "Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfake, Plagiatsanalyse Musik Text** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfake, Plagiatsanalyse Musik Text** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `open-source-software-lizenzen` | Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität. |
 | `persoenlichkeitsrecht-stimme-deepfake` | Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Open Source Software Lizenzen, Persoenlichkeitsrecht Sti
 
 ## Arbeitsweg
 
-Für **Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfake, Plagiatsanalyse Musik Text** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Open Source Software Lizenzen, Persoenlichkeitsrecht Stimme Deepfake, Plagiatsanalyse Musik Text** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `open-source-software-lizenzen`
 

@@ -7,11 +7,11 @@ description: "Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `investitionsfoerderung-einzelfoerderung-pauschalfoerderung` | Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung. |
 | `khentgg-budgetverhandlung-drg-pepp-abgrenzung` | Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Investitionsfoerderung Einzelfoerderung Pauschalfoerderu
 
 ## Arbeitsweg
 
-Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `investitionsfoerderung-einzelfoerderung-pauschalfoerderung`
 

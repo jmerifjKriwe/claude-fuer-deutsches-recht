@@ -1,17 +1,17 @@
 ---
 name: strassenverkehrsrecht-stvo-stv-schwertransport-erlaubnis
-description: "Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stv-009-schwertransport-und-erlaubnis` | Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `stv-010-fahrerlaubnis-schnittstelle` | Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnit
 
 ## Arbeitsweg
 
-Für **Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stv Schwertransport Erlaubnis / Stv Fahrerlaubnis Schnittstelle / Stv Mpu Fahreignung / Stv Fahrtenbuchauflage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stv-009-schwertransport-und-erlaubnis`
 

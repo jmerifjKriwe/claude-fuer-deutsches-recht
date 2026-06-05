@@ -7,24 +7,24 @@ description: "Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungsh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agb-und-ipr-art-6-rom-i-verbraucher` | AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. |
-| `agb-versionierung-aenderungshistorie` | Einstiegs- und Arbeitsmodul für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `agb-versionierung-aenderungshistorie` | Einstiegs- und Prüffeld für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `agb-werkleistung-vob-b-aktuell` | AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-fuer-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster. |
 | `agentur-marketing-agb` | Branchen-Fachmodul für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `app-agb` | Branchen-Fachmodul für App AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
-Für **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-und-ipr-art-6-rom-i-verbraucher`
 
@@ -77,7 +77,7 @@ Für **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie
 
 ## 2. `agb-versionierung-aenderungshistorie`
 
-**Fokus:** Einstiegs- und Arbeitsmodul für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Prüffeld für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # AGB Versionierung Änderungshistorie
 

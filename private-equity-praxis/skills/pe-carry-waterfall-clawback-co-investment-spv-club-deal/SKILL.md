@@ -1,17 +1,17 @@
 ---
 name: pe-carry-waterfall-clawback-co-investment-spv-club-deal
-description: "Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-014-carry-waterfall-und-clawback` | Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. |
 | `pe-015-co-investment-und-spv` | Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Carry Waterfall Clawback / Co Investment Spv / Club Deal
 
 ## Arbeitsweg
 
-Für **Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Carry Waterfall Clawback / Co Investment Spv / Club Deal Investorenkonsortium / Gp Led Secondary Continuation Fund** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-014-carry-waterfall-und-clawback`
 
@@ -175,7 +175,7 @@ KAGB-Scope (Co-Invest-SPV ist typisch kein AIF, sondern Holding-Vehikel, soweit 
 
 | Direktes Co-Investment | Co-Investment via SPV | Co-Investment via Sidecar-Fonds |
 | --- | --- | --- |
-| 1 LP direkt im Target | Mehrere LPs im SPV gebündelt | Eigenes AIF-Vehikel |
+| 1 LP direkt im Target | Mehrere LPs im SPV gebearbeitet | Eigenes AIF-Vehikel |
 | Volle Sichtbarkeit | Bündelung Governance & Reporting | Skalierbar, aber AIF-pflichtig |
 | Bei einem LP optimal | Bei 2-10 LPs Standard | Ab 10+ LPs / großem Volumen |
 

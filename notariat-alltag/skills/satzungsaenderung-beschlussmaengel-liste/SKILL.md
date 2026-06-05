@@ -7,11 +7,11 @@ description: "Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi` | Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung. |
 | `notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist` | Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 048 Satzungsaenderung Beschlussmaengel Und Regi
 
 ## Arbeitsweg
 
-Für **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi`
 

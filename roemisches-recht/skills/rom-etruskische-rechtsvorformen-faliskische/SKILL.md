@@ -7,11 +7,11 @@ description: "Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Fali
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak, Rom Oskisches Recht Tabula Bantina Und Volksrecht, Rom Samnitische Rechtskultur Bundesgenossen Und Militaer, Rom Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak, Rom Oskisches Recht Tabula Bantina Und Volksrecht, Rom Samnitische Rechtskultur Bundesgenossen Und Militaer, Rom Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr` | Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `rom-neu-007-faliskische-spuren-sprache-siedlung-und-rechtskontak` | Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr
 
 ## Arbeitsweg
 
-Für **Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak, Rom Oskisches Recht Tabula Bantina Und Volksrecht, Rom Samnitische Rechtskultur Bundesgenossen Und Militaer, Rom Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak, Rom Oskisches Recht Tabula Bantina Und Volksrecht, Rom Samnitische Rechtskultur Bundesgenossen Und Militaer, Rom Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr`
 

@@ -7,11 +7,11 @@ description: "Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Guelt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kelsen-normativismus-und-reine-rechtslehre` | Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik. |
 | `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufe
 
 ## Arbeitsweg
 
-Für **Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kelsen-normativismus-und-reine-rechtslehre`
 
@@ -62,7 +62,7 @@ Dieser Skill zwingt eine rechtliche Argumentation in eine nüchterne Normstruktu
 1. **Norm identifizieren:** Formuliere die behauptete Rechtsfolge als `Wenn-dann`-Satz.
 2. **Quelle benennen:** Ordne sie in die Normhierarchie ein und markiere, ob sie bindet oder nur orientiert.
 3. **Kompetenz prüfen:** Kläre Zuständigkeit, Verfahren, Form, Veröffentlichung, Inkrafttreten und Rang.
-4. **Auslegung begrenzen:** Trenne Textbefund, systematische Einordnung, Zweck, Entstehungsgeschichte und spätere Praxis.
+4. **Auslegung begrenzen:** Trenne Textbefund, systematische Einordnung, Zweck, fachliche Einordnung und spätere Praxis.
 5. **Bewertung trennen:** Sag ausdrücklich, ob ein Ergebnis rechtlich gilt, obwohl es unklug oder ungerecht erscheinen kann.
 6. **Anschluss herstellen:** Zeige, wo Moral oder Politik rechtlich relevant werden: Verfassung, Grundrechte, Generalklauseln, Verhältnismäßigkeit, Ermessen, Billigkeit.
 

@@ -7,11 +7,11 @@ description: "Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anti-ki-marke-und-kennzeichen` | Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill. |
 | `beweissicherung-testkauf-screenshot-chain` | Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf 
 
 ## Arbeitsweg
 
-Für **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anti-ki-marke-und-kennzeichen`
 

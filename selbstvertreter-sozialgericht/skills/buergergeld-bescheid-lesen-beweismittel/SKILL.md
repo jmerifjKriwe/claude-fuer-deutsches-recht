@@ -7,11 +7,11 @@ description: "Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozial
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bescheid-lesen-tenor-begruendung-belehrung` | Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster. |
 | `beweismittel-im-sozialgericht-uebersicht` | Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel
 
 ## Arbeitsweg
 
-Für **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bescheid-lesen-tenor-begruendung-belehrung`
 

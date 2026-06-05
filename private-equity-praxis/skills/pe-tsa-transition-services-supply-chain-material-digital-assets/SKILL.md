@@ -1,17 +1,17 @@
 ---
 name: pe-tsa-transition-services-supply-chain-material-digital-assets
-description: "Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-085-tsa-transition-services` | Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels. |
 | `pe-086-supply-chain-und-material-contracts` | Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tsa Transition Services / Supply Chain Material Contract
 
 ## Arbeitsweg
 
-Für **Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tsa Transition Services / Supply Chain Material Contracts / Digital Assets Tokenization / Sanctions Russia China Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-085-tsa-transition-services`
 

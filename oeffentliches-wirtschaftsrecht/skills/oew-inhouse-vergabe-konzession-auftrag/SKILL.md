@@ -7,11 +7,11 @@ description: "Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-006-inhouse-vergabe-pruefen` | Öffentliches Wirtschaftsrecht: Inhouse-Vergabe prüfen. Inhouse-Vergabe prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-007-konzession-oder-auftrag` | Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder
 
 ## Arbeitsweg
 
-Für **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-006-inhouse-vergabe-pruefen`
 

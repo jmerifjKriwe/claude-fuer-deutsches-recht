@@ -15,7 +15,7 @@ description: "Klausurfall zur Auslegung von Willenserklärungen und Verträgen n
 
 1. Natürliche Auslegung: War der gemeinsame Wille beider Parteien nachweisbar identisch? (falsa demonstratio).
 2. Normative Auslegung: Wie hätte ein verständiger Empfänger die Erklärung verstehen müssen?
-3. Wortlaut, Systematik, Entstehungsgeschichte und Zweck des Vertrags heranziehen (§ 133 BGB).
+3. Wortlaut, Systematik, fachliche Einordnung und Zweck des Vertrags heranziehen (§ 133 BGB).
 4. Treu und Glauben und Verkehrssitte bei Vertragsauslegung (§ 157 BGB).
 5. Ergänzende Vertragsauslegung: Regelungslücke festgestellt — hypothetischer Parteiwille ermitteln.
 6. Auslegung hat Vorrang vor Anfechtung und Nichtigkeit.
@@ -78,7 +78,7 @@ Ausnahme: Falsa demonstratio non nocet — wenn beide dasselbe wollten, trotz an
 ### Klausur-Checkliste Auslegung
 
 - Wortlaut der Erklärung als Ausgangspunkt bestimmt?
-- Begleitumstände, Entstehungsgeschichte und Zweck berücksichtigt?
+- Begleitumstände, fachliche Einordnung und Zweck berücksichtigt?
 - Objektiver Empfängerhorizont angelegt?
 - Falsa demonstratio: Haben beide Parteien dasselbe gemeint?
 - Ergänzende Vertragsauslegung nur bei echter Regelungslücke, nicht bei Dissens?

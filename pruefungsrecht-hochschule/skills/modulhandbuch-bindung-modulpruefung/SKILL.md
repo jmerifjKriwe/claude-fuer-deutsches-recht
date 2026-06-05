@@ -7,11 +7,11 @@ description: "Modulhandbuch Bindung, Modulpruefung Und Teilleistungen, Muendlich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Modulhandbuch Bindung, Modulpruefung Und Teilleistungen, Muendliche Atmosphaere Druck, Muendliche Prüfung Protokoll** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Modulhandbuch Bindung, Modulpruefung Und Teilleistungen, Muendliche Atmosphaere Druck, Muendliche Prüfung Protokoll** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `modulhandbuch-bindung` | Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz. |
 | `modulpruefung-und-teilleistungen` | Prüft Modulprüfung und Teilleistungen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Modulhandbuch Bindung, Modulpruefung Und Teilleistungen,
 
 ## Arbeitsweg
 
-Für **Modulhandbuch Bindung, Modulpruefung Und Teilleistungen, Muendliche Atmosphaere Druck, Muendliche Prüfung Protokoll** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Modulhandbuch Bindung, Modulpruefung Und Teilleistungen, Muendliche Atmosphaere Druck, Muendliche Prüfung Protokoll** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `modulhandbuch-bindung`
 

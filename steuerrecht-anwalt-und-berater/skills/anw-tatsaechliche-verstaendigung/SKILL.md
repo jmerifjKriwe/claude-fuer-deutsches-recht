@@ -1,6 +1,6 @@
 ---
 name: anw-tatsaechliche-verstaendigung
-description: "Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich

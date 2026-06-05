@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-lebensmittelrecht-einspruch
-description: "Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-054-lebensmittelrecht-einspruch-begruenden` | Ordnungswidrigkeitenrecht: Lebensmittelrecht: Einspruch begründen. Einspruch begründen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-055-lebensmittelrecht-einstellung-anregen` | Ordnungswidrigkeitenrecht: Lebensmittelrecht: Einstellung anregen. Einstellung anregen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensm
 
 ## Arbeitsweg
 
-Für **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Lebensmittelrecht Einspruch Begruenden / Owi Lebensmittelrecht Einstellung Anregen / Owi Lebensmittelrecht Beweis Ruegen / Owi Lebensmittelrecht Verjaehrung Berechne** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-054-lebensmittelrecht-einspruch-begruenden`
 

@@ -7,11 +7,11 @@ description: "Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `begrenzte-dienstfaehigkeit-und-reaktivierung` | Begrenzte Dienstfähigkeit, Wiedereingliederung, Reaktivierung und Untersuchungsanordnung. |
 | `beihilfe-chronische-krankheit` | Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe C
 
 ## Arbeitsweg
 
-Für **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `begrenzte-dienstfaehigkeit-und-reaktivierung`
 

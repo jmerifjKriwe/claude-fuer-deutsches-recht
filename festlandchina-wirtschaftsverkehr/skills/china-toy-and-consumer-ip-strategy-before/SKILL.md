@@ -1,17 +1,17 @@
 ---
 name: china-toy-and-consumer-ip-strategy-before
-description: "Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-039-toy-and-consumer-goods` | Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung. |
 | `chn-040-ip-strategy-before-china-entry` | IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Toy And Consumer Goods / Ip Strategy Before China Entry 
 
 ## Arbeitsweg
 
-Für **Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Toy And Consumer Goods / Ip Strategy Before China Entry / Trademark China First To File / Patent And Utility Model China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-039-toy-and-consumer-goods`
 

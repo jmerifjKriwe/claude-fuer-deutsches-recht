@@ -7,11 +7,11 @@ description: "Goae 5b Standardtarif Pkv, Goae 6 Gebuehren Für Andere Leistungen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `goae-5b-standardtarif-pkv` | GOÄ § 5b Standardtarif PKV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `goae-6-gebuehren-fuer-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere 
 
 ## Arbeitsweg
 
-Für **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `goae-5b-standardtarif-pkv`
 

@@ -63,7 +63,7 @@ Nach Erhalt der BSFZ-Bescheinigung beginnt die zweite Stufe: der eigentliche Ant
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 | --- | --- | --- | --- |
 | Sofortauszahlung vs. Verrechnung | Erstattung jetzt | reduziert künftige Steuerzahlung | Sofortauszahlung in Verlustlagen |
-| Antrag direkt nach Bescheinigung vs. mit Steuererklärung | schneller Bescheid | gebündelt mit Veranlagung | direkt, wegen Liquidität |
+| Antrag direkt nach Bescheinigung vs. mit Steuererklärung | schneller Bescheid | gebearbeitet mit Veranlagung | direkt, wegen Liquidität |
 | Vorauszahlungssenkung vs. abwarten | sofort Liquidität | spätere Erstattung | Vorauszahlung senken, wenn Voraussetzungen vorliegen |
 | Rückwirkende Jahre einzeln vs. zusammen | je Jahr separater Antrag | Sammeleinreichung | je Jahr separater Antrag, weil je Wirtschaftsjahr eigene BMG |
 

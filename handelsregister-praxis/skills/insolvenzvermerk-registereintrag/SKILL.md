@@ -7,11 +7,11 @@ description: "Insolvenzvermerk Und Registereintrag, Internationaler Registerverg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insolvenzvermerk Und Registereintrag, Internationaler Registervergleich, Kg Kommanditist Eintritt Austritt Haftsumme** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insolvenzvermerk Und Registereintrag, Internationaler Registervergleich, Kg Kommanditist Eintritt Austritt Haftsumme** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insolvenzvermerk-und-registereintrag` | Prüft Eintragung von Eröffnung, Eigenverwaltung, Aufhebung, Insolvenzplan, Freigabe und Wirkungen für Vertretung. |
 | `internationaler-registervergleich` | Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Insolvenzvermerk Und Registereintrag, Internationaler Re
 
 ## Arbeitsweg
 
-Für **Insolvenzvermerk Und Registereintrag, Internationaler Registervergleich, Kg Kommanditist Eintritt Austritt Haftsumme** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insolvenzvermerk Und Registereintrag, Internationaler Registervergleich, Kg Kommanditist Eintritt Austritt Haftsumme** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insolvenzvermerk-und-registereintrag`
 

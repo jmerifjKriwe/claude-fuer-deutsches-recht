@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-pkv-auslandsreise-ruecktransport-abrechnung
-description: "Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-036-pkv-auslandsreise-und-ruecktransport` | PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung. |
 | `kv-037-abrechnung-goae-goz-und-erstattung` | Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz E
 
 ## Arbeitsweg
 
-Für **Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pkv Auslandsreise Ruecktransport / Abrechnung Goae Goz Erstattung / Heilpraktiker Alternative Medizin Tarifbedingungen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-036-pkv-auslandsreise-und-ruecktransport`
 

@@ -1,17 +1,17 @@
 ---
 name: steuer-fristenbuch-steuerrecht-onboarding-fristen-uebersicht
-description: "Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 weitere Module
+# Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anw-fristenbuch-steuerrecht` | Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegründung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen. |
 | `fa-stu-onboarding-fristen-uebersicht` | Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht 
 
 ## Arbeitsweg
 
-Für **Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristenbuch Steuerrecht / Onboarding Fristen Uebersicht / Schenkung Zehnjahresfrist / Mandantenanfrage Reaktion Frist Laufend / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anw-fristenbuch-steuerrecht`
 

@@ -7,11 +7,11 @@ description: "Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei: wähl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pruefung-rechenschaft` | Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor. |
 | `rechenschaftsbericht` | Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Par
 
 ## Arbeitsweg
 
-Für **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pruefung-rechenschaft`
 

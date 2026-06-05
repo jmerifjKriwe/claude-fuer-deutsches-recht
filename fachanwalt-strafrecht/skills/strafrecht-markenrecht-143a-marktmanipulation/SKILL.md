@@ -7,11 +7,11 @@ description: "Strafrecht Markenrecht 143a Markeng Bandenmaessig, Strafrecht Mark
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig` | Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung. |
 | `strafrecht-spezial-marktmanipulation-120-wphg` | Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Straf
 
 ## Arbeitsweg
 
-Für **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Markenrecht 143A Markeng Bandenmaessig, Strafrecht Marktmanipulation 120 Wphg, Strafrecht Mietwucher 5 Wistg, Strafrecht Minder Schwerer Fall 213 Stgb, Strafrecht Misshandlung Schutzbefohlener 225 Stgb und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
 

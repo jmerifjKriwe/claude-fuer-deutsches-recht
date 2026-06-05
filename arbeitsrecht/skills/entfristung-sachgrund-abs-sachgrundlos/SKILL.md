@@ -7,11 +7,11 @@ description: "Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 1
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast. |
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sach
 
 ## Arbeitsweg
 
-Für **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `entfristung-sachgrund-pruefen-14-abs-1`
 

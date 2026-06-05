@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-incoterms-auswahl-exw-fca-fob-cfr-cif-cpt
-description: "Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-018-incoterms-2020-auswahl` | Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe. |
 | `ihl-019-exw-fca-fob-risiko` | Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip
 
 ## Arbeitsweg
 
-Für **Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Incoterms Auswahl / Exw Fca Fob Risiko / Cfr Cif Cpt Cip / Konnossement Seefrachtbrief** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-018-incoterms-2020-auswahl`
 

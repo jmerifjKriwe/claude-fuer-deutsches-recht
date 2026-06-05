@@ -7,11 +7,11 @@ description: "Strafbarkeit 266a Stgb, Teammeetings Agile, Uebergang Beitragsschu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafbarkeit-266a-stgb` | Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit. |
 | `teammeetings-agile` | Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Be
 
 ## Arbeitsweg
 
-Für **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafbarkeit 266A Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafbarkeit-266a-stgb`
 

@@ -7,11 +7,11 @@ description: "Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferket
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-031-it-system-pos-kassendaten-und-zugriff` | IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten. |
 | `fran-032-lieferketten-compliance-lksg-und-esg` | Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032
 
 ## Arbeitsweg
 
-Für **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-031-it-system-pos-kassendaten-und-zugriff`
 

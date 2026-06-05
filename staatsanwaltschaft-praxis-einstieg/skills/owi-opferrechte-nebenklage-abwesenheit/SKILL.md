@@ -7,11 +7,11 @@ description: "Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 7
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 74, Owi Beweisaufnahme 77 Und Beweisantraege, Owi Hauptverhandlung Sitzungsdienst Sta, Owi Kommunikation Mit Verwaltungsbehoerde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 74, Owi Beweisaufnahme 77 Und Beweisantraege, Owi Hauptverhandlung Sitzungsdienst Sta, Owi Kommunikation Mit Verwaltungsbehoerde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `opferrechte-nebenklage-adhaesion` | Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `owi-abwesenheit-betroffener-73-74` | Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betrof
 
 ## Arbeitsweg
 
-Für **Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 74, Owi Beweisaufnahme 77 Und Beweisantraege, Owi Hauptverhandlung Sitzungsdienst Sta, Owi Kommunikation Mit Verwaltungsbehoerde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 74, Owi Beweisaufnahme 77 Und Beweisantraege, Owi Hauptverhandlung Sitzungsdienst Sta, Owi Kommunikation Mit Verwaltungsbehoerde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `opferrechte-nebenklage-adhaesion`
 

@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 064 Historische Synopse Erstellen, Deuts
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 064 Historische Synopse Erstellen, Deutsche Rechtsgeschichte 065 Rechtshistorische Gutachtenstruktur, Deutsche Rechtsgeschichte 066 Gegenwartsbezug Ohne Anachronismus, Deutsche Rechtsgeschichte 067 Kontinuitaet Und Bruch Prüfen, Deutsche Rechtsgeschichte 068 Normzweck Historisch Rekonstruieren und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 064 Historische Synopse Erstellen, Deutsche Rechtsgeschichte 065 Rechtshistorische Gutachtenstruktur, Deutsche Rechtsgeschichte 066 Gegenwartsbezug Ohne Anachronismus, Deutsche Rechtsgeschichte 067 Kontinuitaet Und Bruch Prüfen, Deutsche Rechtsgeschichte 068 Normzweck Historisch Rekonstruieren und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-064-historische-synopse-erstellen` | Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002). |
 | `drg-065-rechtshistorische-gutachtenstruktur` | Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 064 Historische Synopse Erstel
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 064 Historische Synopse Erstellen, Deutsche Rechtsgeschichte 065 Rechtshistorische Gutachtenstruktur, Deutsche Rechtsgeschichte 066 Gegenwartsbezug Ohne Anachronismus, Deutsche Rechtsgeschichte 067 Kontinuitaet Und Bruch Prüfen, Deutsche Rechtsgeschichte 068 Normzweck Historisch Rekonstruieren und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 064 Historische Synopse Erstellen, Deutsche Rechtsgeschichte 065 Rechtshistorische Gutachtenstruktur, Deutsche Rechtsgeschichte 066 Gegenwartsbezug Ohne Anachronismus, Deutsche Rechtsgeschichte 067 Kontinuitaet Und Bruch Prüfen, Deutsche Rechtsgeschichte 068 Normzweck Historisch Rekonstruieren und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-064-historische-synopse-erstellen`
 

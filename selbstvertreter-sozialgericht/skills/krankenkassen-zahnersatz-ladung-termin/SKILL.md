@@ -7,11 +7,11 @@ description: "Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krankenkassen-zahnersatz-55-sgb-v` | Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine. |
 | `ladung-termin-sozialgericht-vorbereitung` | Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialg
 
 ## Arbeitsweg
 
-Für **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krankenkassen-zahnersatz-55-sgb-v`
 

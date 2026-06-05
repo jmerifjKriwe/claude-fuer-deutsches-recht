@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corporate Ma Term Sheet To Spa Bridge, Grosskanzlei Corporate Ma Translations Multijurisdictional, Grosskanzlei Corporate Ma Transparenzregister Ubo Chain, Grosskanzlei Corporate Ma Vendor Due Diligence Vdd und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corporate Ma Term Sheet To Spa Bridge, Grosskanzlei Corporate Ma Translations Multijurisdictional, Grosskanzlei Corporate Ma Transparenzregister Ubo Chain, Grosskanzlei Corporate Ma Vendor Due Diligence Vdd und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-teaser-im-processdocs` | Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation. |
 | `grosskanzlei-corporate-ma-term-sheet-to-spa-bridge` | Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosska
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corporate Ma Term Sheet To Spa Bridge, Grosskanzlei Corporate Ma Translations Multijurisdictional, Grosskanzlei Corporate Ma Transparenzregister Ubo Chain, Grosskanzlei Corporate Ma Vendor Due Diligence Vdd und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corporate Ma Term Sheet To Spa Bridge, Grosskanzlei Corporate Ma Translations Multijurisdictional, Grosskanzlei Corporate Ma Transparenzregister Ubo Chain, Grosskanzlei Corporate Ma Vendor Due Diligence Vdd und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-teaser-im-processdocs`
 

@@ -7,11 +7,11 @@ description: "Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Fo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gewr-einstweilige-verfuegung-eilverfahren-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner. |
 | `spezial-dpma-fristen-form-und-zustaendigkeit` | DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma 
 
 ## Arbeitsweg
 
-Für **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gewr-einstweilige-verfuegung-eilverfahren-spezial`
 

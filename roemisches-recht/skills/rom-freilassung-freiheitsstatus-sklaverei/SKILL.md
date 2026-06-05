@@ -7,11 +7,11 @@ description: "Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 059 Sklaverei Rechtshistorisch Kritisch, Rom 060 Juristen Gaius, Rom 061 Juristen Ulpian, Rom 062 Juristen Paulus und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 059 Sklaverei Rechtshistorisch Kritisch, Rom 060 Juristen Gaius, Rom 061 Juristen Ulpian, Rom 062 Juristen Paulus und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-058-freilassung-und-freiheitsstatus-historisch-kritisch` | Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana. |
 | `rom-059-sklaverei-rechtshistorisch-kritisch` | Römisches Recht: Sklaverei (servitus) rechtshistorisch-kritisch - rechtliche Stellung des Sklaven nach D. 1.5.4, Gaius Inst. 1.9, Funktionen (Handeln für den Herrn), Quellen der Sklaverei und historisch-ethische Einordnung. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 058 Freilassung Und Freiheitsstatus Historisch Kriti
 
 ## Arbeitsweg
 
-Für **Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 059 Sklaverei Rechtshistorisch Kritisch, Rom 060 Juristen Gaius, Rom 061 Juristen Ulpian, Rom 062 Juristen Paulus und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 059 Sklaverei Rechtshistorisch Kritisch, Rom 060 Juristen Gaius, Rom 061 Juristen Ulpian, Rom 062 Juristen Paulus und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-058-freilassung-und-freiheitsstatus-historisch-kritisch`
 

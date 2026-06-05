@@ -1,17 +1,17 @@
 ---
 name: umweltschutzverband-verbandsklage-umv-vwgo-normenkontrolle
-description: "Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-014-47-vwgo-normenkontrolle` | Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-015-eilrechtsschutz-gegen-vollzug` | Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vol
 
 ## Arbeitsweg
 
-Für **Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv Vwgo Normenkontrolle / Umv Eilrechtsschutz Gegen Vollzug / Umv Aktenauswertung Behoerdenordner / Umv Gutachterfragen Formulieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-014-47-vwgo-normenkontrolle`
 

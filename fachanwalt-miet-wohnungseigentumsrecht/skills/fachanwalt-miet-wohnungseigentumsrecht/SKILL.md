@@ -7,24 +7,24 @@ description: "Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht). |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht). |
-| `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Prüffeld für fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Prüffeld für fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | Prüffeld für fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-miet-wohnungseigentumsrecht-kuendigung`
 
@@ -499,7 +499,7 @@ Monats kündigen.
 
 ## 3. `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`
 
-**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mietminderung — Schimmelbefall
 
@@ -675,7 +675,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 ## 4. `fachanwalt-miet-wohnungseigentumsrecht-orientierung`
 
-**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Orientierung Miet- und Wohnungseigentumsrecht
 
@@ -788,7 +788,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`
 
-**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # WEG-Anfechtungsklage § 44 WEG
 

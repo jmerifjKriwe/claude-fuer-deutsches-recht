@@ -7,11 +7,11 @@ description: "Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Ue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `haendler-distributor-pflichten-art-24` | Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einführer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einführer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel). |
 | `harmonisierte-normen-gap-uebergang` | Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-Uebergang: Gap-Analyse, Vermutungswirkung, Standards-Roadmap, Audit-Evidence und keine falsche Normenbehauptung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Haendler Distributor Pflichten Art 24, Harmonisierte Nor
 
 ## Arbeitsweg
 
-Für **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `haendler-distributor-pflichten-art-24`
 

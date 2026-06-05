@@ -7,11 +7,11 @@ description: "Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-community-fristen-form-und-zustaendigkeit` | Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-leistungsmatrix-fristennotiz-und-naechster-schritt` | Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Community Fristen Form Und Zustaendigkeit, Leistungsmatr
 
 ## Arbeitsweg
 
-Für **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-community-fristen-form-und-zustaendigkeit`
 
@@ -204,7 +204,7 @@ Für jeden installierten Skill aus dem Installationsprotokoll `last_verified`, `
 
 **Wenn aktives Fenster abgelaufen ist UND es einen neueren Commit gibt:**
 
-Immer bei Update neu verifizieren, nicht still anwenden. Ein neuer Commit beweist nicht von sich aus, dass der Autor die gebündelten Referenzen neu verifiziert hat.
+Immer bei Update neu verifizieren, nicht still anwenden. Ein neuer Commit beweist nicht von sich aus, dass der Autor die gebearbeiteten Referenzen neu verifiziert hat.
 
 ### Schritt 3: Gemäß Einstellung verarbeiten
 

@@ -7,11 +7,11 @@ description: "Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Contr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Mapping** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Mapping** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `budget-und-roadmap` | Übersetzt Cyberrisiken in Budget und Roadmap. |
 | `byod-policy` | Baut eine BYOD-Policy mit realistischen technischen Grenzen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy,
 
 ## Arbeitsweg
 
-Für **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Mapping** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Mapping** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nis2-cybersecurity-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `budget-und-roadmap`
 

@@ -7,11 +7,11 @@ description: "Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `skills-qualitaetspruefung` | Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung. |
 | `spezial-builder-zahlen-schwellen-und-berechnung` | Builder: Zahlen, Schwellenwerte und Berechnung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und 
 
 ## Arbeitsweg
 
-Für **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `skills-qualitaetspruefung`
 
@@ -34,7 +34,7 @@ Für **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten
 
 Jeder kann einen Skill bauen. Diese Prüfung klärt, ob er gut gebaut wurde, bevor er Kanzlei-Arbeitsabläufe berührt.
 
-Der Skill bewertet jeden Kanzlei-Skill gegen das Kanzlei-Skill-Design-Rahmenwerk: **dreizehn Entwurfsparameter** (die ersten neun sind inhaltliche Gestaltung; der zehnte ist die Vertrauensoberfläche — Ausführungsberechtigungen und Injection-Risiko des Skills; der elfte ist Aktualität — ob gebündelte Referenzinhalte aktuell sind; der zwölfte ist Schema — ob die SKILL.md die Struktur eines gut gebauten Skills hat; der dreizehnte sind Konflikte — ob der Skill bereits installierte Skills überlagert oder widerspricht), **drei rechtsspezifische Fehlermodi** sowie ein klares Urteil. Gilt für Community-Skills aus Registries und Erstanbieter-Skills, die das Kanzleiteam entwickelt oder einsetzt.
+Der Skill bewertet jeden Kanzlei-Skill gegen das Kanzlei-Skill-Design-Rahmenwerk: **dreizehn Entwurfsparameter** (die ersten neun sind inhaltliche Gestaltung; der zehnte ist die Vertrauensoberfläche — Ausführungsberechtigungen und Injection-Risiko des Skills; der elfte ist Aktualität — ob gebearbeitete Referenzinhalte aktuell sind; der zwölfte ist Schema — ob die SKILL.md die Struktur eines gut gebauten Skills hat; der dreizehnte sind Konflikte — ob der Skill bereits installierte Skills überlagert oder widerspricht), **drei rechtsspezifische Fehlermodi** sowie ein klares Urteil. Gilt für Community-Skills aus Registries und Erstanbieter-Skills, die das Kanzleiteam entwickelt oder einsetzt.
 
 Die Qualitätsprüfung ist zugleich Pflicht nach dem Berufsrecht: § 43a BRAO und die BRAK-Stellungnahme zum KI-Einsatz verlangen, dass KI-generierte Rechtsdienstleistungsprodukte auf Plausibilität geprüft werden, bevor sie in der Mandatsarbeit verwendet werden. AI Act Art. 26 (Deployer-Pflichten bei Hochrisiko-KI) ergänzt diese Anforderung um systematische Qualitätssicherungsmaßnahmen.
 
@@ -288,7 +288,7 @@ er mit Überzeugung eingesetzt werden könnte.]
 - **Falsches "BEREIT"-Urteil durch unvollständige Eingaben:** Nur die SKILL.md ohne Hooks und Agenten zu bewerten verdeckt die tatsächliche Ausführungsoberfläche.
 - **Injection-blinder Fleck:** Ein heuristischer Scan erkennt keine semantisch kaschierte Injection; die rohe SKILL.md muss zusätzlich manuell gelesen werden.
 - **Verantwortlichkeitslücke unterschätzt:** Der häufigste Fehler ist ein Skill, der schlüssig wirkende Ergebnisse produziert, ohne den Anwalt als Entscheider zu positionieren (§ 43a BRAO, BRAK-Stellungnahme KI-Einsatz 2023).
-- **Aktualitätsproblem bei statischen Referenzen:** Ein Skill mit gebündelten Gesetzestexten, der keine Aktualitätsfelder deklariert, kann veraltetes Recht anwenden — besonders relevant bei DSGVO-Durchführungsbestimmungen oder aktuellen BGH-Leitentscheidungen.
+- **Aktualitätsproblem bei statischen Referenzen:** Ein Skill mit gebearbeiteten Gesetzestexten, der keine Aktualitätsfelder deklariert, kann veraltetes Recht anwenden — besonders relevant bei DSGVO-Durchführungsbestimmungen oder aktuellen BGH-Leitentscheidungen.
 
 ---
 

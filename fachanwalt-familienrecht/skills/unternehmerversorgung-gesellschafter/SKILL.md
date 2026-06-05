@@ -7,11 +7,11 @@ description: "Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `versorgungsausgleich-totalrevision-und-tod` | Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, 
 
 ## Arbeitsweg
 
-Für **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall, Va Und Insolvenz Eines Versorgungstraegers** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unternehmerversorgung-gesellschafter-geschaeftsfuehrer`
 

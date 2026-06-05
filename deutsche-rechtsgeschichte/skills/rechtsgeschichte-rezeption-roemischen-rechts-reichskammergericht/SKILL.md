@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-rezeption-roemischen-rechts-reichskammergericht
-description: "Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 weitere Module
+# Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-006-rezeption-roemischen-rechts` | Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht. |
 | `drg-007-reichskammergericht-und-reichshofrat` | Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zustaendigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Rezeption Roemischen Rechts / Reichskammergericht Reichs
 
 ## Arbeitsweg
 
-Für **Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rezeption Roemischen Rechts / Reichskammergericht Reichshofrat / Gemeines Recht Partikularrecht / Naturrecht Vernunftrecht / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-006-rezeption-roemischen-rechts`
 
@@ -261,7 +261,7 @@ Das Allgemeine Landrecht fuer die Preussischen Staaten (ALR) trat am 1. Juni 179
 ## Methodik
 
 - ALR: historische Druckausgaben Svarez' (1794) oder Faksimile; ALEX/OeNB
-- BGB-Vergleich: Mugdan Bd. I-VI fuer Entstehungsgeschichte
+- BGB-Vergleich: Mugdan Bd. I-VI fuer fachliche Einordnung
 - Sekundaerliteratur: Reinhart Koselleck, Preussen zwischen Reform und Revolution (1967)
 - Keine Anwendung heutiger BGB-Kategeorien auf ALR ohne expliziten Vergleich
 

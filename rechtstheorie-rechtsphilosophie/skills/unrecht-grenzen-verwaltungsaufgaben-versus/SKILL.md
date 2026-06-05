@@ -7,11 +7,11 @@ description: "Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rech
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unrecht-und-grenzen-des-gehorsams` | Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben V
 
 ## Arbeitsweg
 
-Für **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unrecht-und-grenzen-des-gehorsams`
 

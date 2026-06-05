@@ -7,11 +7,11 @@ description: "Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 Flughafena
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 Flughafenausbau Gutachten Zerlegen, Umv 096 Flughafenausbau Eilantrag Schreiben, Umv 097 Flughafenausbau Normenkontrolle Skizzi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 Flughafenausbau Gutachten Zerlegen, Umv 096 Flughafenausbau Eilantrag Schreiben, Umv 097 Flughafenausbau Normenkontrolle Skizzi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-093-flughafenausbau-akteneinsicht-erzwinge` | Umweltschutzverband Verbandsklage: Flughafenausbau: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-094-flughafenausbau-gutachten-zerlegen` | Umweltschutzverband Verbandsklage: Flughafenausbau: Gutachten zerlegen. Gutachten zerlegen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 
 
 ## Arbeitsweg
 
-Für **Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 Flughafenausbau Gutachten Zerlegen, Umv 096 Flughafenausbau Eilantrag Schreiben, Umv 097 Flughafenausbau Normenkontrolle Skizzi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 093 Flughafenausbau Akteneinsicht Erzwinge, Umv 094 Flughafenausbau Gutachten Zerlegen, Umv 096 Flughafenausbau Eilantrag Schreiben, Umv 097 Flughafenausbau Normenkontrolle Skizzi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-093-flughafenausbau-akteneinsicht-erzwinge`
 

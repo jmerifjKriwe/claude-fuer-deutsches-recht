@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Au
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. |
 | `drg-105-schweigespirale-fakultaeten-und-justiz` | Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juri
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Deutsche Rechtsgeschichte 105 Schweigespirale Fakultaeten Und Justiz, Deutsche Rechtsgeschichte 106 Nuernberger Prozesse Und Dokumentenbasis, Deutsche Rechtsgeschichte 108 Rechtsperversion Ohne Gesetzesaenderung, Deutsche Rechtsgeschichte 109 Entnazifizierung Warteschleifen Und Rueckkehr und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung`
 

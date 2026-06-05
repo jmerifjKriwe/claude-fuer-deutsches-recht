@@ -7,11 +7,11 @@ description: "Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboar
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboard Practice Group, Dashboard Pricing Realization** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboard Practice Group, Dashboard Pricing Realization** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dashboard-executive-cockpit` | Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `dashboard-partner-scorecard` | Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dashboard Executive Cockpit, Dashboard Partner Scorecard
 
 ## Arbeitsweg
 
-Für **Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboard Practice Group, Dashboard Pricing Realization** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboard Practice Group, Dashboard Pricing Realization** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dashboard-executive-cockpit`
 

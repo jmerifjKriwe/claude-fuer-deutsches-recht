@@ -7,11 +7,11 @@ description: "Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sale-bidding-procedures` | Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. |
 | `schedules-sofa-disclosure` | Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Sale Bidding Procedures, Schedules Sofa Disclosure, Secu
 
 ## Arbeitsweg
 
-Für **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sale-bidding-procedures`
 

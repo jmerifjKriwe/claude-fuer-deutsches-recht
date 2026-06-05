@@ -7,11 +7,11 @@ description: "Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113` | Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung. |
 | `formnichtigkeit-paragraphen-125-129` | Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche und rechtsgeschäftliche Formvorschriften, vollständige oder teilweise Nichterfüllung, Teilnichtigkeit nach § 139 BGB, arglistige Berufung auf Formmangel und Heilungstatbestände. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Form
 
 ## Arbeitsweg
 
-Für **Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113`
 

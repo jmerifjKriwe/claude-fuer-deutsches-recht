@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-forensic-services-und-unabhaengigkeit-kammer` | Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-forensic-services-und-unabhaengigkeit-organi` | Wirtschaftsprüfer: forensic services und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Kammer, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Organi, Wirtschaftspruefer Forensic Services Und Unabhaengigkeit Rechts, Wirtschaftspruefer Fraud Red Flags Organisationspflicht Und Pra, Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Kammerantwort** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-forensic-services-und-unabhaengigkeit-kammer`
 

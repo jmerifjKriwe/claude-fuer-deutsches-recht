@@ -7,27 +7,27 @@ description: "Jahresabschluss Und Lagebericht, Jahreskalender Aufsichtsrat, Konz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Jahresabschluss Und Lagebericht, Jahreskalender Aufsichtsrat, Konzernaufsicht, Krisenfruehwarnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Jahresabschluss Und Lagebericht, Jahreskalender Aufsichtsrat, Konzernaufsicht, Krisenfruehwarnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `jahresabschluss-und-lagebericht` | AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `jahreskalender-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Jahreskalender Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `konzernaufsicht` | AG/SE-Aufsichtsrat Praxis: Konzernaufsicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `krisenfruehwarnung` | AG/SE-Aufsichtsrat Praxis: Krisenfruehwarnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `jahresabschluss-und-lagebericht` | AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `jahreskalender-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Jahreskalender Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `konzernaufsicht` | AG/SE-Aufsichtsrat Praxis: Konzernaufsicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `krisenfruehwarnung` | AG/SE-Aufsichtsrat Praxis: Krisenfruehwarnung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Jahresabschluss Und Lagebericht, Jahreskalender Aufsichtsrat, Konzernaufsicht, Krisenfruehwarnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Jahresabschluss Und Lagebericht, Jahreskalender Aufsichtsrat, Konzernaufsicht, Krisenfruehwarnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `jahresabschluss-und-lagebericht`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Jahresabschluss Und Lagebericht
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `jahreskalender-aufsichtsrat`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahreskalender Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahreskalender Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Jahreskalender Aufsichtsrat
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `konzernaufsicht`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Konzernaufsicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Konzernaufsicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Konzernaufsicht
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `krisenfruehwarnung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Krisenfruehwarnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Krisenfruehwarnung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Krisenfruehwarnung
 

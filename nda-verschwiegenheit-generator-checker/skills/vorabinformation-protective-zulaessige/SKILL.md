@@ -7,26 +7,26 @@ description: "Vorabinformation Und Protective Order, Zulaessige Offenlegung Gese
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vorabinformation Und Protective Order, Zulaessige Offenlegung Gesetz Behörde Gericht, Zweckbindung Und Permitted Purpose** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vorabinformation Und Protective Order, Zulaessige Offenlegung Gesetz Behörde Gericht, Zweckbindung Und Permitted Purpose** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `vorabinformation-und-protective-order` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vorabinformation Und Protective Order; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `zulaessige-offenlegung-gesetz-behoerde-gericht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `zweckbindung-und-permitted-purpose` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zweckbindung Und Permitted Purpose; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorabinformation-und-protective-order` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vorabinformation Und Protective Order; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `zulaessige-offenlegung-gesetz-behoerde-gericht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `zweckbindung-und-permitted-purpose` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zweckbindung Und Permitted Purpose; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Vorabinformation Und Protective Order, Zulaessige Offenlegung Gesetz Behörde Gericht, Zweckbindung Und Permitted Purpose** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vorabinformation Und Protective Order, Zulaessige Offenlegung Gesetz Behörde Gericht, Zweckbindung Und Permitted Purpose** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vorabinformation-und-protective-order`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vorabinformation Und Protective Order; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vorabinformation Und Protective Order; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorabinformation Und Protective Order
 
@@ -80,7 +80,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `zulaessige-offenlegung-gesetz-behoerde-gericht`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behoerde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Zulaessige Offenlegung Gesetz Behoerde Gericht
 
@@ -137,7 +137,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `zweckbindung-und-permitted-purpose`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zweckbindung Und Permitted Purpose; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zweckbindung Und Permitted Purpose; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Zweckbindung Und Permitted Purpose
 

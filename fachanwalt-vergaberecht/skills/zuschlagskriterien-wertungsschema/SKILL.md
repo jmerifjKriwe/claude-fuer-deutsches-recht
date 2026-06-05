@@ -7,11 +7,11 @@ description: "Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
 | `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschem
 
 ## Arbeitsweg
 
-Für **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema`
 

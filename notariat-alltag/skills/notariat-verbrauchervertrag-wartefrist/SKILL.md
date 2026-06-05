@@ -7,11 +7,11 @@ description: "Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, No
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand` | Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen. |
 | `notariat-035-aufgebotsverfahren-verlorener-grundschuldbrief` | Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsv
 
 ## Arbeitsweg
 
-Für **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand`
 

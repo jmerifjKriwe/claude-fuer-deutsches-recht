@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-076-rechtspolitische-narrative-pruefen` | Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. |
 | `drg-077-enteignung-und-eigentumsgeschichte` | Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 076 Rechtspolitische Narrative Prüfen, Deutsche Rechtsgeschichte 077 Enteignung Und Eigentumsgeschichte, Deutsche Rechtsgeschichte 078 Verwaltungsakte Historisch Lesen, Deutsche Rechtsgeschichte 079 Prozessrechtliche Entwicklung, Deutsche Rechtsgeschichte 080 Strafprozessgeschichte und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-076-rechtspolitische-narrative-pruefen`
 

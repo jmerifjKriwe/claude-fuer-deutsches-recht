@@ -13,7 +13,7 @@ description: "Dieses Skill strukturiert die historische und compliance-relevante
 
 ## Mandantenfall
 
-- Ein Unternehmen wird bei einer Due-Diligence-Prüfung nach der Entstehungsgeschichte eines Rahmenvertrags befragt. Die historische Dokumentation — Verhandlungsprotokolle, Entwürfe, E-Mail-Korrespondenz — muss vollständig sein, um die historisch-genetische Auslegung des Vertrags zu belegen.
+- Ein Unternehmen wird bei einer Due-Diligence-Prüfung nach der fachliche Einordnung eines Rahmenvertrags befragt. Die historische Dokumentation — Verhandlungsprotokolle, Entwürfe, E-Mail-Korrespondenz — muss vollständig sein, um die historisch-genetische Auslegung des Vertrags zu belegen.
 - Eine Kanzlei wird in einem Haftungsfall aufgefordert, alle relevanten Mandatsdokumente der letzten fünf Jahre vorzulegen. Das Skill hilft, die Aktenstruktur compliance-gerecht aufzubauen, sodass Dokumente vollständig und geordnet vorgelegt werden können.
 - Ein Mandant streitet über den Inhalt eines mündlich geschlossenen Vertrags. Die historische Korrespondenz (Mails, Memos, Besprechungsprotokolle) bildet die Auslegungsgrundlage; das Skill zeigt, wie diese strukturiert und rechtlich eingeordnet werden.
 
@@ -28,7 +28,7 @@ description: "Dieses Skill strukturiert die historische und compliance-relevante
 
 ## Rechtsrahmen
 
-- § 133 BGB — historisch-genetische Auslegung; Entstehungsgeschichte als Auslegungsmittel
+- § 133 BGB — historisch-genetische Auslegung; fachliche Einordnung als Auslegungsmittel
 - § 157 BGB — Auslegung nach Verkehrssitte; ergänzt durch historische Kontextualisierung
 - § 50 BRAO — Aktenführungs- und Aufbewahrungspflicht für Rechtsanwälte
 - § 257 HGB — Aufbewahrungspflichten für Handelsbriefe und Buchungsunterlagen
@@ -65,8 +65,8 @@ Das Skill liefert eine strukturierte Aktenübersicht mit Dokumentenklassifizieru
 
 ## Abgrenzungen und Methodik
 
-Die historisch-genetische Auslegung als Auslegungsmittel setzt nicht nur die Kenntnis der Entstehungsgeschichte
-des Gesetzes voraus, sondern auch die Dokumentation der Entstehungsgeschichte des konkreten Vertrags. Beides
+Die historisch-genetische Auslegung als Auslegungsmittel setzt nicht nur die Kenntnis der fachliche Einordnung
+des Gesetzes voraus, sondern auch die Dokumentation der fachliche Einordnung des konkreten Vertrags. Beides
 gehört zusammen: Der Richter legt das Gesetz historisch-genetisch aus; der Anwalt legt den Vertrag durch Bezug
 auf Verhandlungsprotokolle, Entwürfe und Korrespondenz aus. Ohne vollständige historische Dokumentation
 kann diese Auslegungsmethode im Streitfall nicht eingesetzt werden.

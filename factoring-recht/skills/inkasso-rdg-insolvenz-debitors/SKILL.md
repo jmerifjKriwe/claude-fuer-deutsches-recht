@@ -7,11 +7,11 @@ description: "Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inkasso-rdg-abgrenzung-forderungsmanagement` | Inkasso RDG Abgrenzung Forderungsmanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `insolvenz-des-debitors-forderungspruefung` | Insolvenz des Debitors Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz D
 
 ## Arbeitsweg
 
-Für **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inkasso-rdg-abgrenzung-forderungsmanagement`
 

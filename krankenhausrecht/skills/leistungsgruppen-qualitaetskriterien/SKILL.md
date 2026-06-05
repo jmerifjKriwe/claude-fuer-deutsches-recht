@@ -7,11 +7,11 @@ description: "Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `leistungsgruppen-und-qualitaetskriterien-reformlogik` | Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten. |
 | `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Me
 
 ## Arbeitsweg
 
-Für **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `leistungsgruppen-und-qualitaetskriterien-reformlogik`
 

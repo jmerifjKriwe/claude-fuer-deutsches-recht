@@ -7,11 +7,11 @@ description: "Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste Auftragnehmer, Freie Zeiteinteilung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste Auftragnehmer, Freie Zeiteinteilung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `formulare-c0030-v0027-v0028` | Ordnet DRV-Formulare, Tätigkeitsbeschreibungen, Verträge, Anlagen und Belege für Statusanträge. |
 | `frageliste-auftraggeber` | Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Fr
 
 ## Arbeitsweg
 
-Für **Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste Auftragnehmer, Freie Zeiteinteilung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste Auftragnehmer, Freie Zeiteinteilung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `formulare-c0030-v0027-v0028`
 

@@ -7,27 +7,27 @@ description: "Gesundheits Und Forschungsdaten, Gesundheitswesen Klinik Pharma, H
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesundheits Und Forschungsdaten, Gesundheitswesen Klinik Pharma, Hinweisgeberschutz Nda Konflikt, Immobilien Und Projektentwicklung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesundheits Und Forschungsdaten, Gesundheitswesen Klinik Pharma, Hinweisgeberschutz Nda Konflikt, Immobilien Und Projektentwicklung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `gesundheits-und-forschungsdaten` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheits Und Forschungsdaten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gesundheitswesen-klinik-pharma` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheitswesen Klinik Pharma; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hinweisgeberschutz-nda-konflikt` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Hinweisgeberschutz NDA Konflikt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `immobilien-und-projektentwicklung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Immobilien Und Projektentwicklung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesundheits-und-forschungsdaten` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheits Und Forschungsdaten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesundheitswesen-klinik-pharma` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheitswesen Klinik Pharma; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hinweisgeberschutz-nda-konflikt` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Hinweisgeberschutz NDA Konflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `immobilien-und-projektentwicklung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Immobilien Und Projektentwicklung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Gesundheits Und Forschungsdaten, Gesundheitswesen Klinik Pharma, Hinweisgeberschutz Nda Konflikt, Immobilien Und Projektentwicklung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesundheits Und Forschungsdaten, Gesundheitswesen Klinik Pharma, Hinweisgeberschutz Nda Konflikt, Immobilien Und Projektentwicklung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesundheits-und-forschungsdaten`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheits Und Forschungsdaten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheits Und Forschungsdaten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesundheits Und Forschungsdaten
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gesundheitswesen-klinik-pharma`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheitswesen Klinik Pharma; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheitswesen Klinik Pharma; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesundheitswesen Klinik Pharma
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `hinweisgeberschutz-nda-konflikt`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Hinweisgeberschutz NDA Konflikt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Hinweisgeberschutz NDA Konflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Hinweisgeberschutz NDA Konflikt
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `immobilien-und-projektentwicklung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Immobilien Und Projektentwicklung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Immobilien Und Projektentwicklung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Immobilien Und Projektentwicklung
 

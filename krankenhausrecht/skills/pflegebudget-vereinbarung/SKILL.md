@@ -7,11 +7,11 @@ description: "Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbesch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pflegebudget-vereinbarung-nachweis-risiken` | Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0). |
 | `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz` | Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststel
 
 ## Arbeitsweg
 
-Für **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pflegebudget-vereinbarung-nachweis-risiken`
 

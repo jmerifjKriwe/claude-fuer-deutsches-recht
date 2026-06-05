@@ -7,21 +7,21 @@ description: "Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnah
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnahme Zum Bundestag Anhoerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnahme Zum Bundestag Anhoerung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `nkr-stellungnahme-pressepolitik-und-jahresbericht` | Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen fuer Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. |
 | `nkr-stellungnahme-zum-bundestag-anhoerung` | Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen. |
 
 ## Arbeitsweg
 
-Für **Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnahme Zum Bundestag Anhoerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nkr Stellungnahme Pressepolitik Und Jahresbericht, Nkr Stellungnahme Zum Bundestag Anhoerung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrollrat-nkr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nkr-stellungnahme-pressepolitik-und-jahresbericht`
 

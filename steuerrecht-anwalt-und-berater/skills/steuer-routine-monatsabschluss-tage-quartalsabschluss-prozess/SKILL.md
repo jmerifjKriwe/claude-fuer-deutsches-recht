@@ -1,17 +1,17 @@
 ---
 name: steuer-routine-monatsabschluss-tage-quartalsabschluss-prozess
-description: "Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 weitere Module
+# Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-routine-monatsabschluss-30-tage-zyklus` | Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan. |
 | `stb-routine-quartalsabschluss-prozess` | Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Gespraech. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Routine Monatsabschluss Tage Zyklus / Routine Quartalsab
 
 ## Arbeitsweg
 
-Für **Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Routine Monatsabschluss Tage Zyklus / Routine Quartalsabschluss Prozess / Sanierungsgewinn 3c Iv EStG Verlustreihenfolge / Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-routine-monatsabschluss-30-tage-zyklus`
 

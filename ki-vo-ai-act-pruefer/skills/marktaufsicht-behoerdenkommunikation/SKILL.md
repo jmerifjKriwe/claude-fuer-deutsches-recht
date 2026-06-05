@@ -7,11 +7,11 @@ description: "Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwach
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `marktaufsicht-behoerdenkommunikation-evidence-room` | Marktaufsicht und Behoerdenkommunikation: Evidence Room fuer KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie. |
 | `marktueberwachung-meldung-vorfaelle-art-72-bis-79` | Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster: serious incident reporting Definition schwerwiegender Vorfall Art. 3 Nr. 49 Meldefristen Inhalt der Meldung Meldewege nationale Aufsichtsbehoerde. Marktueberwauchungsmassnahmen Rückruf Aussetzen des Betriebs. Output: Melde-Checkliste und Vorlage Vorfallmeldung. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (zuständige Stellen) und hochrisiko-bestätigt-end-to-end-roadmap. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Marktaufsicht Behoerdenkommunikation Evidence Room, Mark
 
 ## Arbeitsweg
 
-Für **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `marktaufsicht-behoerdenkommunikation-evidence-room`
 

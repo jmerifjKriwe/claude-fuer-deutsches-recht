@@ -7,11 +7,11 @@ description: "Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Hau
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-027-schulbau-oepp-kontrolle-sichern` | Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Kontrolle sichern. Kontrolle sichern für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-028-schulbau-oepp-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Haushalt anbinden. Haushalt anbinden für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulba
 
 ## Arbeitsweg
 
-Für **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-027-schulbau-oepp-kontrolle-sichern`
 

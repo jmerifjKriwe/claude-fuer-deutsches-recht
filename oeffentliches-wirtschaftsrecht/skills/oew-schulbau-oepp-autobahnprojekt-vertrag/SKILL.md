@@ -7,11 +7,11 @@ description: "Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vert
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-026-schulbau-oepp-vertrag-scopen` | Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Vertrag scopen. Vertrag scopen für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-036-autobahnprojekt-vertrag-scopen` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vertrag scopen. Vertrag scopen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnpr
 
 ## Arbeitsweg
 
-Für **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 026 Schulbau Oepp Vertrag Scopen, Oew 036 Autobahnprojekt Vertrag Scopen, Oew 046 Krankenhausgesellschaft Vertrag Scopen, Oew 056 Stadtwerke Vertrag Scopen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-026-schulbau-oepp-vertrag-scopen`
 

@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-nichtversicherte-auffangpflichtversicherung
-description: "Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-077-nichtversicherte-auffangpflichtversicherung` | Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik. |
 | `kv-078-krankenkasse-und-insolvenz-beitragsschuld` | Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Nichtversicherte Auffangpflichtversicherung / Krankenkas
 
 ## Arbeitsweg
 
-Für **Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nichtversicherte Auffangpflichtversicherung / Krankenkasse Insolvenz Beitragsschuld / Elektronische Patientenakte Zugriffsrechte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-077-nichtversicherte-auffangpflichtversicherung`
 

@@ -1,17 +1,17 @@
 ---
 name: china-customs-tariff-origin-preferential-not
-description: "Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-027-customs-tariff-origin-china` | Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste. |
 | `chn-028-preferential-origin-not-usually` | Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Customs Tariff Origin China / Preferential Origin Not Us
 
 ## Arbeitsweg
 
-Für **Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Customs Tariff Origin China / Preferential Origin Not Usually / Incoterms China Shipment / Freight Forwarder And Customs Broker** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-027-customs-tariff-origin-china`
 

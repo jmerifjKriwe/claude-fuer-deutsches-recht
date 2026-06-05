@@ -7,11 +7,11 @@ description: "Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Meh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-anwaltsschriftsatz-beweislast-und-darlegungslast` | Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-beweismittel-mehrparteien-konflikt-und-interessen` | Beweismittel: Mehrparteienkonflikt und Interessenmatrix im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweis
 
 ## Arbeitsweg
 
-Für **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaltsschriftsatz Beweislast Und Darlegungslast, Beweismittel Mehrparteien Konflikt Und Interessen, Einleitungssatz Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-anwaltsschriftsatz-beweislast-und-darlegungslast`
 

@@ -1,17 +1,17 @@
 ---
 name: china-importeur-eu-compliance-exporteur-deutschland-nach
-description: "Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-010-importeur-eu-compliance` | EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Checkliste und Behördenkoordinations-Plan. |
 | `chn-011-exporteur-deutschland-nach-china` | Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Importeur EU Compliance / Exporteur Deutschland Nach Chi
 
 ## Arbeitsweg
 
-Für **Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Importeur EU Compliance / Exporteur Deutschland Nach China / Investor Entry Options / M And A China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-010-importeur-eu-compliance`
 

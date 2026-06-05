@@ -7,11 +7,11 @@ description: "Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtsw
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mutterrente-und-kindererziehung-56-sgb-vi` | Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster. |
 | `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x` | Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit U
 
 ## Arbeitsweg
 
-Für **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mutterrente-und-kindererziehung-56-sgb-vi`
 

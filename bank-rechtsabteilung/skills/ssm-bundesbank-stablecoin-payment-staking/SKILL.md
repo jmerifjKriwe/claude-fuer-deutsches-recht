@@ -7,11 +7,11 @@ description: "Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, St
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ssm-bundesbank-aufsichtsbrief` | SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten. |
 | `stablecoin-payment-usecase-bank` | Stablecoin-Zahlungsusecase für Banken prüfen: EMT/ART, E-Geld, Zahlungsdienst, Wallet, Händlerakzeptanz, Reserve, Rücktausch, Sanktionsscreening und Settlement. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecas
 
 ## Arbeitsweg
 
-Für **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver, Sustainability Linked Loan Greenwashing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ssm-bundesbank-aufsichtsbrief`
 

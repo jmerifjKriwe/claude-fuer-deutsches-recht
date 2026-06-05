@@ -7,11 +7,11 @@ description: "Syndizierte Kredite Agent Security Trustee, Tokenisierung Security
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `syndizierte-kredite-agent-security-trustee` | Syndizierte Kredite, Facility Agent und Security Trustee prüfen: Rollen, Mehrheitsentscheidungen, Sicherheitenpool, Parallel Debt, deutsches Recht, Enforcement und Sanierungsfall. |
 | `tokenisierung-security-token-mica-mifid` | Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Syndizierte Kredite Agent Security Trustee, Tokenisierun
 
 ## Arbeitsweg
 
-Für **Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `syndizierte-kredite-agent-security-trustee`
 

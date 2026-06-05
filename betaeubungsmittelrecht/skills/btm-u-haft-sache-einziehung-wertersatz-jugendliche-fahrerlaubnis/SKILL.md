@@ -1,17 +1,17 @@
 ---
 name: btm-u-haft-sache-einziehung-wertersatz-jugendliche-fahrerlaubnis
-description: "U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `btm-014-u-haft-in-btm-sache` | Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-015-einziehung-und-wertersatz` | Betäubungsmittelrecht: Einziehung und Wertersatz. Einziehung und Wertersatz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **U Haft Sache / Einziehung Wertersatz / Jugendliche / Fah
 
 ## Arbeitsweg
 
-Für **U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **U Haft Sache / Einziehung Wertersatz / Jugendliche / Fahrerlaubnis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `btm-014-u-haft-in-btm-sache`
 

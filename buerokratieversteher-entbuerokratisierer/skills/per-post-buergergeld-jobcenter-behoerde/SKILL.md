@@ -7,11 +7,11 @@ description: "Brief Per Post Und Einschreiben, Bürgergeld Jobcenter, Chronologi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `brief-per-post-und-einschreiben` | Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation. |
 | `buergergeld-jobcenter` | Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, 
 
 ## Arbeitsweg
 
-Für **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `brief-per-post-und-einschreiben`
 

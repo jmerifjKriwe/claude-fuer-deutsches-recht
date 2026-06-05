@@ -7,11 +7,11 @@ description: "Archive Register Und Datenschutz, Auslegung Von Canones Und Aequit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Archive Register Und Datenschutz, Auslegung Von Canones Und Aequitas Canonica, Beichtgeheimnis Und Seelsorgegeheimnis, Bue Beichte Und Absolution** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Archive Register Und Datenschutz, Auslegung Von Canones Und Aequitas Canonica, Beichtgeheimnis Und Seelsorgegeheimnis, Bue Beichte Und Absolution** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `archive-register-und-datenschutz` | Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `auslegung-von-canones-und-aequitas-canonica` | Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Archive Register Und Datenschutz, Auslegung Von Canones 
 
 ## Arbeitsweg
 
-Für **Archive Register Und Datenschutz, Auslegung Von Canones Und Aequitas Canonica, Beichtgeheimnis Und Seelsorgegeheimnis, Bue Beichte Und Absolution** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Archive Register Und Datenschutz, Auslegung Von Canones Und Aequitas Canonica, Beichtgeheimnis Und Seelsorgegeheimnis, Bue Beichte Und Absolution** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `archive-register-und-datenschutz`
 

@@ -7,11 +7,11 @@ description: "Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorst
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaftung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaftung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bussgeld-risiko` | Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße. |
 | `exportkontrolle-sanktionen` | Routet Sanktions- und Exportkontrollhinweise. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensers
 
 ## Arbeitsweg
 
-Für **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaftung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaftung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bussgeld-risiko`
 

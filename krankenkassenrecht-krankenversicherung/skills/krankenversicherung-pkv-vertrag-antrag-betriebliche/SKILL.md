@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-pkv-vertrag-antrag-betriebliche
-description: "Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht` | Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung. |
 | `kv-039-betriebliche-krankenversicherung-und-datenschutz` | Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Be
 
 ## Arbeitsweg
 
-Für **Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht / Betriebliche Krankenversicherung Datenschutz / Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht`
 

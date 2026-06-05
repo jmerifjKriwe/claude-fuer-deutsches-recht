@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-gesellschaftsrecht-register` | Corporate Housekeeping und Register: prüft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals für M&A. |
 | `mittelstand-corporate-ma-handelsregisterabruf` | Handelsregister- und Registerabruf: offizielle Registerabrufe für Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mi
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-gesellschaftsrecht-register`
 

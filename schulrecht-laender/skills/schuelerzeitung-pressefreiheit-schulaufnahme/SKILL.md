@@ -7,11 +7,11 @@ description: "Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Sch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schuelerzeitung-pressefreiheit` | Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit. |
 | `schulaufnahme-und-schulbezirk` | Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulb
 
 ## Arbeitsweg
 
-Für **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schuelerzeitung-pressefreiheit`
 

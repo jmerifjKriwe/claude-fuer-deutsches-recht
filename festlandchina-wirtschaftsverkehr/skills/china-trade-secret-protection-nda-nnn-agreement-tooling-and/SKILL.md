@@ -1,17 +1,17 @@
 ---
 name: china-trade-secret-protection-nda-nnn-agreement-tooling-and
-description: "Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-043-trade-secret-protection` | Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. |
 | `chn-044-nda-nnn-agreement-china` | NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Trade Secret Protection / Nda Nnn Agreement China / Tool
 
 ## Arbeitsweg
 
-Für **Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Trade Secret Protection / Nda Nnn Agreement China / Tooling And Molds Ownership / Technology Transfer Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-043-trade-secret-protection`
 

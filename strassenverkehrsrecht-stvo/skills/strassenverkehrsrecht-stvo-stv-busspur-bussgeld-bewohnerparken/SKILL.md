@@ -1,17 +1,17 @@
 ---
 name: strassenverkehrsrecht-stvo-stv-busspur-bussgeld-bewohnerparken
-description: "Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stv-056-busspur-bussgeld-abgrenzen` | Straßenverkehrsrecht StVO: Busspur: Bußgeld abgrenzen. Bußgeld abgrenzen für Busspur im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-066-bewohnerparken-bussgeld-abgrenzen` | Straßenverkehrsrecht StVO: Bewohnerparken: Bußgeld abgrenzen. Bußgeld abgrenzen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Buss
 
 ## Arbeitsweg
 
-Für **Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stv Busspur Bussgeld Abgrenzen / Stv Bewohnerparken Bussgeld Abgrenzen / Stv Lieferzone Bussgeld Abgrenzen / Stv Ladezone Bussgeld Abgrenzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stv-056-busspur-bussgeld-abgrenzen`
 

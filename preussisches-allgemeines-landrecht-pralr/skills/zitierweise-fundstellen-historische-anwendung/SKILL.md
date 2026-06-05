@@ -7,11 +7,11 @@ description: "Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-004-zitierweise-und-fundstellen` | PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen. |
 | `pralr-005-historische-anwendung-vs-heutiges-recht` | PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Histori
 
 ## Arbeitsweg
 
-Für **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-004-zitierweise-und-fundstellen`
 

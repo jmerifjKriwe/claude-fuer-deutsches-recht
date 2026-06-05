@@ -7,11 +7,11 @@ description: "Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-dma-compliance-dokumentation-und-akte` | DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-dsa-zahlen-schwellen-und-berechnung` | DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwel
 
 ## Arbeitsweg
 
-Für **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-dma-compliance-dokumentation-und-akte`
 

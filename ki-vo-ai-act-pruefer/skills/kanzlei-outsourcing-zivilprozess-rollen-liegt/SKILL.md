@@ -7,11 +7,11 @@ description: "Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kanzlei-ki-outsourcing-berufsgeheimnis` | KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. |
 | `ki-im-zivilprozess-rollen-und-grenzen` | KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilproze
 
 ## Arbeitsweg
 
-Für **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kanzlei-ki-outsourcing-berufsgeheimnis`
 

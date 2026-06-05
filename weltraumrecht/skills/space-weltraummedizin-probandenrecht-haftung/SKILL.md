@@ -7,11 +7,11 @@ description: "Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-045-weltraummedizin-probandenrecht-ethik-und-haftung` | Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler. |
 | `space-054-haftung-fuer-herabfallende-raketenstufen` | Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftu
 
 ## Arbeitsweg
 
-Für **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-045-weltraummedizin-probandenrecht-ethik-und-haftung`
 

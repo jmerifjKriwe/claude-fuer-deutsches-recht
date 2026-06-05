@@ -7,27 +7,27 @@ description: "Teilnehmerverzeichnis, Umwandlung Verschmelzung Spaltung, Us Inves
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Teilnehmerverzeichnis, Umwandlung Verschmelzung Spaltung, Us Investoren Adr, Verguetungssystem Say On Pay** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Teilnehmerverzeichnis, Umwandlung Verschmelzung Spaltung, Us Investoren Adr, Verguetungssystem Say On Pay** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `teilnehmerverzeichnis` | Hauptversammlung AG und SE: Teilnehmerverzeichnis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `umwandlung-verschmelzung-spaltung` | Hauptversammlung AG und SE: Umwandlung Verschmelzung Spaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `us-investoren-adr` | Hauptversammlung AG und SE: US Investoren Adr; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `verguetungssystem-say-on-pay` | Hauptversammlung AG und SE: Verguetungssystem Say On Pay; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `teilnehmerverzeichnis` | Hauptversammlung AG und SE: Teilnehmerverzeichnis; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `umwandlung-verschmelzung-spaltung` | Hauptversammlung AG und SE: Umwandlung Verschmelzung Spaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `us-investoren-adr` | Hauptversammlung AG und SE: US Investoren Adr; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `verguetungssystem-say-on-pay` | Hauptversammlung AG und SE: Verguetungssystem Say On Pay; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Teilnehmerverzeichnis, Umwandlung Verschmelzung Spaltung, Us Investoren Adr, Verguetungssystem Say On Pay** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Teilnehmerverzeichnis, Umwandlung Verschmelzung Spaltung, Us Investoren Adr, Verguetungssystem Say On Pay** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `teilnehmerverzeichnis`
 
-**Fokus:** Hauptversammlung AG und SE: Teilnehmerverzeichnis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Teilnehmerverzeichnis; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Teilnehmerverzeichnis
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `umwandlung-verschmelzung-spaltung`
 
-**Fokus:** Hauptversammlung AG und SE: Umwandlung Verschmelzung Spaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Umwandlung Verschmelzung Spaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Umwandlung Verschmelzung Spaltung
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `us-investoren-adr`
 
-**Fokus:** Hauptversammlung AG und SE: US Investoren Adr; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: US Investoren Adr; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # US Investoren Adr
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `verguetungssystem-say-on-pay`
 
-**Fokus:** Hauptversammlung AG und SE: Verguetungssystem Say On Pay; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Verguetungssystem Say On Pay; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Verguetungssystem Say On Pay
 

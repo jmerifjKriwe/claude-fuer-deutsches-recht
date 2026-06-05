@@ -7,11 +7,11 @@ description: "Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezia
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gw-einfuehrung-rechtsschutzwege` | Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage. |
 | `gw-einstweilige-verfuegung-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfueg
 
 ## Arbeitsweg
 
-Für **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gw-einfuehrung-rechtsschutzwege`
 

@@ -7,11 +7,11 @@ description: "Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli` | Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer. |
 | `fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise` | Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Vera
 
 ## Arbeitsweg
 
-Für **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli`
 

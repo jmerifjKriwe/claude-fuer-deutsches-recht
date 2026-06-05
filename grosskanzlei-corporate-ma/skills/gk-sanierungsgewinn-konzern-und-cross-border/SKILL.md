@@ -22,7 +22,7 @@ description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitend
 
 Sanierungen in international tätigen Konzernen unterscheiden sich strukturell von Sanierungen einzelner Gesellschaften: Forderungsverzichte erfolgen häufig **zwischen verbundenen Unternehmen**; Organschaften wirken über; ausländische Töchter sind in nationalen Sanierungsmechanismen nur eingeschränkt erfasst. Die Anforderungen an die Sanierungsabsicht der Gläubiger werden bei nahestehenden Personen besonders streng geprüft. Gleichzeitig öffnen sich grenzüberschreitende Strukturen für Verlustnutzungs- und Beihilfeprobleme.
 
-Dieser Skill bündelt diese Spezialthemen für den Großkanzlei-Konzernmandanten.
+Dieser Skill bearbeitet diese Spezialthemen für den Großkanzlei-Konzernmandanten.
 
 ## Wann brauchen Sie diesen Skill
 

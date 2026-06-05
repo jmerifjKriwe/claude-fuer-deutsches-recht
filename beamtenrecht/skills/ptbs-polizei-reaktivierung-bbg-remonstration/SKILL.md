@@ -7,11 +7,11 @@ description: "Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechts
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ptbs-polizei-anerkennung-dienstunfall` | Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine. |
 | `reaktivierung-29-bbg-rechtsanspruch` | Skill zur Reaktivierung eines Ruhestandsbeamten nach § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen der wiedererlangten Dienstfaehigkeit Rechtsanspruch auf Reaktivierung Spielraum des Dienstherrn dienstliche Belange und Altersgrenze. Behandelt die Konstellation Ruhestand wegen Dienstunfaehigkeit bei amtsaerztlich attestierter Wiederherstellung sowie Reaktivierung gegen Antrag des Dienstherrn. Liefert Pruefraster und Schriftsatzbausteine. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ptbs-polizei-anerkennung-dienstunfall`
 

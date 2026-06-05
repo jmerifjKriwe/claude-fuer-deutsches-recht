@@ -7,11 +7,11 @@ description: "Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz Produkt Bussgeld, Beschuldigtenvernehmung Anhoerung, Polizei Ermittlungsauftrag Nachsteuerung, Rechtsmittel Sta Berufung Revision** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz Produkt Bussgeld, Beschuldigtenvernehmung Anhoerung, Polizei Ermittlungsauftrag Nachsteuerung, Rechtsmittel Sta Berufung Revision** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-bussgeldbescheid-inhalt-und-fehler` | Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
 | `owi-umwelt-arbeitsschutz-produkt-bussgeld` | Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbei
 
 ## Arbeitsweg
 
-Für **Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz Produkt Bussgeld, Beschuldigtenvernehmung Anhoerung, Polizei Ermittlungsauftrag Nachsteuerung, Rechtsmittel Sta Berufung Revision** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz Produkt Bussgeld, Beschuldigtenvernehmung Anhoerung, Polizei Ermittlungsauftrag Nachsteuerung, Rechtsmittel Sta Berufung Revision** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-bussgeldbescheid-inhalt-und-fehler`
 

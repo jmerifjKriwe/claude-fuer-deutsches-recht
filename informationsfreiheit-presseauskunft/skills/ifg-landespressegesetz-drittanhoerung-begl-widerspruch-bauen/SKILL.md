@@ -1,17 +1,17 @@
 ---
 name: ifg-landespressegesetz-drittanhoerung-begl-widerspruch-bauen
-description: "Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-082-landespressegesetz-drittanhoerung-begl` | Informationsfreiheit und Presseauskunft: Landespressegesetz: Drittanhörung begleiten. Drittanhörung begleiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-083-landespressegesetz-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: Landespressegesetz: Widerspruch bauen. Widerspruch bauen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Landespressegesetz Drittanhoerung Begl / Landespresseges
 
 ## Arbeitsweg
 
-Für **Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Landespressegesetz Drittanhoerung Begl / Landespressegesetz Widerspruch Bauen / Landespressegesetz Klage Vorbereiten / Landespressegesetz Presseantwort Nachf** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-082-landespressegesetz-drittanhoerung-begl`
 

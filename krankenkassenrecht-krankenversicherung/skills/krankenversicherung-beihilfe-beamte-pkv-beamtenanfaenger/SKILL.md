@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-beihilfe-beamte-pkv-beamtenanfaenger
-description: "Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-033-beihilfe-beamte-pkv-und-restkosten` | Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen. |
 | `kv-034-beamtenanfaenger-pauschale-beihilfe-laendercheck` | Öffnungsklausel für GKV bei Beamten, pauschale Beihilfe (Baden-Württemberg), Vergleich der Beihilfemodelle in den Bundesländern und GKV-Rückkehroption. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pausch
 
 ## Arbeitsweg
 
-Für **Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beihilfe Beamte Pkv Restkosten / Beamtenanfaenger Pauschale Beihilfe Laendercheck / Tarifwechsel Pkv Vvg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-033-beihilfe-beamte-pkv-und-restkosten`
 

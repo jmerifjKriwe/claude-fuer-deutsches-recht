@@ -7,21 +7,21 @@ description: "Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 03
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung` | Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht. |
 | `verl-031-presserecht-gegendarstellung-und-unterlassung` | Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten. |
 
 ## Arbeitsweg
 
-Für **Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 028 Schulbuch Zulassung Und Oeffentliche Beschaffung, Verl 031 Presserecht Gegendarstellung Und Unterlassung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung`
 

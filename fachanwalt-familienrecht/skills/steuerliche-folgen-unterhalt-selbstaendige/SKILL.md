@@ -7,11 +7,11 @@ description: "Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerliche-folgen-externe-teilung` | Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `unterhalt-selbstaendige-einkommensaufklaerung` | Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaend
 
 ## Arbeitsweg
 
-Für **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerliche-folgen-externe-teilung`
 

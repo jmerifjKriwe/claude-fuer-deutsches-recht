@@ -7,11 +7,11 @@ description: "Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wohnraummiete-agb` | Branchen-Fachmodul für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `zahlungsdienste-agb` | Branchen-Fachmodul für Zahlungsdienste AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel C
 
 ## Arbeitsweg
 
-Für **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wohnraummiete-agb`
 

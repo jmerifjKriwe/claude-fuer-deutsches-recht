@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-force-majeure-notice-claim-letter-under
-description: "Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-085-force-majeure-notice-letter` | Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation. |
 | `ihl-086-claim-letter-under-cisg` | Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Force Majeure Notice Letter / Claim Letter Under Cisg / 
 
 ## Arbeitsweg
 
-Für **Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Force Majeure Notice Letter / Claim Letter Under Cisg / Contract Playbook Exporter / Contract Playbook Importer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-085-force-majeure-notice-letter`
 

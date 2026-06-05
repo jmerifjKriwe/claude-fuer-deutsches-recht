@@ -7,11 +7,11 @@ description: "Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Sc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-025-flugzeugleasing-register-pfand-und-wartung` | Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur. |
 | `lease-026-schiffsleasing-schiffshypothek-und-flagge` | Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Le
 
 ## Arbeitsweg
 
-Für **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-025-flugzeugleasing-register-pfand-und-wartung`
 

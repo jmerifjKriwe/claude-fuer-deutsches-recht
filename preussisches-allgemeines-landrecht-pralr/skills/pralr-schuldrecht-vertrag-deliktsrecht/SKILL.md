@@ -7,11 +7,11 @@ description: "Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Gen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-015-schuldrecht-vertrag-und-form` | PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren. |
 | `pralr-017-deliktsrecht-generalklausel` | PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Versehen, Genugtuung und Schaden strukturieren. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Delikt
 
 ## Arbeitsweg
 
-Für **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-015-schuldrecht-vertrag-und-form`
 

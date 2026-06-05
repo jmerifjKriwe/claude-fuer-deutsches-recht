@@ -1,17 +1,17 @@
 ---
 name: vc-rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe
-description: "Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht` | Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vc-002-rookie-modus-vc-begriffe` | Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Roo
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Safe Wandeldarlehen Nach Deutschem / Rookie Modus Begriffe / Kagb Aif BaFin Grenzcheck / Direktinvestment Spv Club Deal** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht`
 

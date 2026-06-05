@@ -7,11 +7,11 @@ description: "Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist, Versand Aus Deutschland Zoll Tracking, Vessel Hull Design Ch13** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist, Versand Aus Deutschland Zoll Tracking, Vessel Hull Design Ch13** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vara-visual-artists-rights` | Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen. |
 | `verlags-batchplan-serien-und-backlist` | Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vara Visual Artists Rights, Verlags Batchplan Serien Und
 
 ## Arbeitsweg
 
-Für **Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist, Versand Aus Deutschland Zoll Tracking, Vessel Hull Design Ch13** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist, Versand Aus Deutschland Zoll Tracking, Vessel Hull Design Ch13** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vara-visual-artists-rights`
 

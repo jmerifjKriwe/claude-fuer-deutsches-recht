@@ -7,11 +7,11 @@ description: "Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyw
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `green-claims-und-nachhaltigkeitsmarken` | Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation. |
 | `haptik-und-tastmarke` | Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastm
 
 ## Arbeitsweg
 
-Für **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `green-claims-und-nachhaltigkeitsmarken`
 

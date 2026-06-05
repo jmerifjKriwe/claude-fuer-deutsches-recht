@@ -1,6 +1,6 @@
 ---
 name: agb-recht-pruefer-kaltstart-triage
-description: "Einstiegs- und Arbeitsmodul für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüffeld für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # AGB-Recht Kommandocenter

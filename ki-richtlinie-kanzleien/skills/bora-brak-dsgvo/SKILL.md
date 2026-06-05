@@ -7,11 +7,11 @@ description: "Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug U
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bora-zahlen-schwellen-und-berechnung` | Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bora Zahlen Schwellen Und Berechnung, Brak International
 
 ## Arbeitsweg
 
-Für **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bora-zahlen-schwellen-und-berechnung`
 

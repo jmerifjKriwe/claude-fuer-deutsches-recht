@@ -1,17 +1,17 @@
 ---
 name: kommunalrecht-laender-kom-gemeinde-stadt-ratssitzung
-description: "Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 weitere Module
+# Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kom-002-gemeinde-stadt-landkreis-zuordnen` | Kommunalrecht der Länder: Gemeinde Stadt Landkreis zuordnen. Gemeinde Stadt Landkreis zuordnen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-004-ratssitzung-und-tagesordnung` | Kommunalrecht der Länder: Ratssitzung und Tagesordnung. Ratssitzung und Tagesordnung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung 
 
 ## Arbeitsweg
 
-Für **Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kom Gemeinde Stadt Landkreis Zuordnen / Kom Ratssitzung Tagesordnung / Kom Beschluss Befangenheit / Kom Satzung Entwerfen Pruefen / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kommunalrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kom-002-gemeinde-stadt-landkreis-zuordnen`
 

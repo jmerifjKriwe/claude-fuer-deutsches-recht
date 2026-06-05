@@ -7,11 +7,11 @@ description: "Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krankenkassen-hilfsmittel-33-sgb-v` | Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage. |
 | `krankenkassen-leistungsablehnung-sgb-v` | Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistu
 
 ## Arbeitsweg
 
-Für **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
 

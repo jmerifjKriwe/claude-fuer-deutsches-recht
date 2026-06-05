@@ -7,11 +7,11 @@ description: "Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` | Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung. |
 | `fachanwalt-bau-architektenrecht-orientierung` | Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund 
 
 ## Arbeitsweg
 
-Für **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`
 
@@ -360,7 +360,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 - KrWG §§ 3, 28
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Stand: 05/2026; PFAS-Regulierung im Wandel (TFA, GenX), bei Neuregelung EU-Trinkwasserrichtlinie aktualisieren
 
 <!-- AUDIT 27.05.2026: BGH VII ZR 184/97 (14.11.2002) WRONG_TOPIC – tatsächlich Luftschallschutz-Urteil vom 14.05.1998. Ersetzt durch BGH VII ZR 205/07 (20.08.2009), BGHZ 182, 158, verifiziert auf dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.08.2009&Aktenzeichen=VII+ZR+205%2F07). Ebenso Quellen-Verweis auf VII ZR 235/04 durch VII ZR 205/07 ersetzt (VII ZR 235/04 nicht auf dejure auffindbar). -->

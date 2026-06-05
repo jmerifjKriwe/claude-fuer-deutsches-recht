@@ -7,27 +7,27 @@ description: "Agb Kontrolle B2b Und B2c, Angemessene Geheimhaltungsmassnahmen, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Kontrolle B2B Und B2C, Angemessene Geheimhaltungsmassnahmen, Anwaltliche Mandatsgeheimnisse, Arbeitsrecht Bewerber Und Recruiting** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Kontrolle B2B Und B2C, Angemessene Geheimhaltungsmassnahmen, Anwaltliche Mandatsgeheimnisse, Arbeitsrecht Bewerber Und Recruiting** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `agb-kontrolle-b2b-und-b2c` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `angemessene-geheimhaltungsmassnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `anwaltliche-mandatsgeheimnisse` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `arbeitsrecht-bewerber-und-recruiting` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `agb-kontrolle-b2b-und-b2c` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `angemessene-geheimhaltungsmassnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `anwaltliche-mandatsgeheimnisse` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `arbeitsrecht-bewerber-und-recruiting` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Agb Kontrolle B2B Und B2C, Angemessene Geheimhaltungsmassnahmen, Anwaltliche Mandatsgeheimnisse, Arbeitsrecht Bewerber Und Recruiting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Kontrolle B2B Und B2C, Angemessene Geheimhaltungsmassnahmen, Anwaltliche Mandatsgeheimnisse, Arbeitsrecht Bewerber Und Recruiting** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-kontrolle-b2b-und-b2c`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Agb Kontrolle B2B Und B2C
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `angemessene-geheimhaltungsmassnahmen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Angemessene Geheimhaltungsmassnahmen
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `anwaltliche-mandatsgeheimnisse`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Anwaltliche Mandatsgeheimnisse
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `arbeitsrecht-bewerber-und-recruiting`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Arbeitsrecht Bewerber Und Recruiting
 

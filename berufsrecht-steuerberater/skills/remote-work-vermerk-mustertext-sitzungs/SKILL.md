@@ -7,11 +7,11 @@ description: "Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Term
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kaltst, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kammer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kaltst, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kammer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `remote-work` | Remote Work: vertiefter Berufsrechts-Skill für Steuerberater; prüft Remote Work im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Steuerberater; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzung
 
 ## Arbeitsweg
 
-Für **Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kaltst, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kammer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Remote Work, Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kaltst, Steuerberater Angestellter Steuerberater Nebentaetigkeit Kammer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `remote-work`
 

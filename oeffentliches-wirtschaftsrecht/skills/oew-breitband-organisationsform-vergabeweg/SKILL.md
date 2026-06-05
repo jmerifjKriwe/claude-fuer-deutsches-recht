@@ -7,11 +7,11 @@ description: "Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Ver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-071-breitband-organisationsform-pruefen` | Öffentliches Wirtschaftsrecht: Breitband: Organisationsform prüfen. Organisationsform prüfen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-072-breitband-vergabeweg-waehlen` | Öffentliches Wirtschaftsrecht: Breitband: Vergabeweg wählen. Vergabeweg wählen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Bre
 
 ## Arbeitsweg
 
-Für **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 071 Breitband Organisationsform Prüfen, Oew 072 Breitband Vergabeweg Waehlen, Oew 073 Breitband Beihilfe Markieren, Oew 074 Breitband Wirtschaftlichkeit Rechnen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-071-breitband-organisationsform-pruefen`
 

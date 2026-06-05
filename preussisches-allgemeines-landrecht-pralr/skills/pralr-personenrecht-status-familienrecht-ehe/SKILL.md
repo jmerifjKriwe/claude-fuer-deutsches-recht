@@ -7,11 +7,11 @@ description: "Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-010-personenrecht-status` | PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren. |
 | `pralr-011-familienrecht-ehe-und-vormundschaft` | PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit und historische Schutz-/Kontrolllogik prüfen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht 
 
 ## Arbeitsweg
 
-Für **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-010-personenrecht-status`
 

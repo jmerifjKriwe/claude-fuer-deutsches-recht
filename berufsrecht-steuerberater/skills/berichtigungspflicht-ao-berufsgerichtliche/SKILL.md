@@ -7,11 +7,11 @@ description: "Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, St
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-berichtigungspflicht-153-ao-organisationspflicht` | Steuerberater: berichtigungspflicht 153 ao - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-berufsgerichtliche-ruege-steuerberater-kammerantw` | Steuerberater: berufsgerichtliche ruege steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Steuerberater Berichtigungspflicht 153 Ao Organisationsp
 
 ## Arbeitsweg
 
-Für **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Berichtigungspflicht 153 Ao Organisationspflicht, Steuerberater Berufsgerichtliche Ruege Steuerberater Kammerantw, Steuerberater Berufsgerichtliche Ruege Steuerberater Organisati, Steuerberater Berufsgerichtliche Ruege Steuerberater Rechtsprec** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-berichtigungspflicht-153-ao-organisationspflicht`
 

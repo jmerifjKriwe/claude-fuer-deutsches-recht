@@ -7,11 +7,11 @@ description: "Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89b Mit Dat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `provisionskuerzung` | Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen. |
 | `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Rechtsabteilungs-Fachmodul für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 8
 
 ## Arbeitsweg
 
-Für **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `provisionskuerzung`
 

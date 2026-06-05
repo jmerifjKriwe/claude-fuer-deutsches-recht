@@ -7,11 +7,11 @@ description: "Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlang
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Weichenstellung Bereicherung Oder Anfechtung, Weitergabe Und 822 Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Weichenstellung Bereicherung Oder Anfechtung, Weitergabe Und 822 Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verteidigung-gegen-bereicherungsklage` | Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. |
 | `verwendungen-auf-das-erlangte` | Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf 
 
 ## Arbeitsweg
 
-Für **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Weichenstellung Bereicherung Oder Anfechtung, Weitergabe Und 822 Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Weichenstellung Bereicherung Oder Anfechtung, Weitergabe Und 822 Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verteidigung-gegen-bereicherungsklage`
 

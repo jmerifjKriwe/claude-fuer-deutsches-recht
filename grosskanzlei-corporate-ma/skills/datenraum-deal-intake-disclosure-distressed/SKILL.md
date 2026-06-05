@@ -1,17 +1,17 @@
 ---
 name: datenraum-deal-intake-disclosure-distressed
-description: "Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 weitere Module
+# Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` | KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau. |
 | `grosskanzlei-corporate-ma-datenraum-aufbau` | Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanz
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Datenqualitaet Xai / Grosskanzlei Corporate Ma Datenraum Aufbau / Grosskanzlei Corporate Ma Datenraum Gap / Grosskanzlei Corporate Ma Deal Intake / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`
 

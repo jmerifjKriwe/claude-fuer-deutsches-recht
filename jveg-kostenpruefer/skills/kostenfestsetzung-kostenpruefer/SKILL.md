@@ -7,11 +7,11 @@ description: "Fristen Compliance Dokumentation Und Akte, Kostenfestsetzung Beleg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fristen Compliance Dokumentation Und Akte, Kostenfestsetzung Belege Und Fristen, Kostenpruefer Fristen Form Und Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fristen Compliance Dokumentation Und Akte, Kostenfestsetzung Belege Und Fristen, Kostenpruefer Fristen Form Und Zustaendigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-fristen-compliance-dokumentation-und-akte` | Fristen: Compliance-Dokumentation und Aktenvermerk im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kostenfestsetzung-belege-und-fristen` | Kostenfestsetzung mit Belegen, Fristen und Erinnerung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fristen Compliance Dokumentation Und Akte, Kostenfestset
 
 ## Arbeitsweg
 
-Für **Fristen Compliance Dokumentation Und Akte, Kostenfestsetzung Belege Und Fristen, Kostenpruefer Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Compliance Dokumentation Und Akte, Kostenfestsetzung Belege Und Fristen, Kostenpruefer Fristen Form Und Zustaendigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-fristen-compliance-dokumentation-und-akte`
 

@@ -7,11 +7,11 @@ description: "Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Meldung, Dokumentationspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Meldung, Dokumentationspflicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `compliance-untersuchung` | Plant Compliance-Untersuchung nach Hinweis. |
 | `datenschutz-dsgvo-meldeakte` | Baut Datenschutzkonzept für die Meldeakte. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Da
 
 ## Arbeitsweg
 
-Für **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Meldung, Dokumentationspflicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Meldung, Dokumentationspflicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `compliance-untersuchung`
 

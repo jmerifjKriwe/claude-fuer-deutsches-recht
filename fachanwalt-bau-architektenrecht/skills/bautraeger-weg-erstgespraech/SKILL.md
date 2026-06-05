@@ -7,11 +7,11 @@ description: "Bautraeger Weg Instandhaltungsruecklage Uebergabe, Bautraeger Weg 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-weg-instandhaltungsruecklage-uebergabe` | WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster. |
 | `bautraeger-weg-teilungserklaerung-pruefen` | WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautr
 
 ## Arbeitsweg
 
-Für **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-weg-instandhaltungsruecklage-uebergabe`
 
@@ -597,5 +597,5 @@ wesentlichen Mängel möglich.
 - BGH VII ZR 49/15 (25.02.2016), BGH VII ZR 25/13 (30.04.2014), BGH VII ZR 46/17 (22.02.2018) — verifiziert dejure.org
 - Vor Verwendung weiterer Rechtsprechung: dejure.org / bundesgerichtshof.de Verifikation
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Stand: 05/2026

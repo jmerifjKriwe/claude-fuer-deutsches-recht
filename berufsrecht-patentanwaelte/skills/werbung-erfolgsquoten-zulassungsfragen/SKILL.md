@@ -7,11 +7,11 @@ description: "Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-werbung-mit-erfolgsquoten-kaltstart-und-faktenma` | Patentanwälte: werbung mit erfolgsquoten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-zulassungsfragen-und-kanzleisitz-kaltstart-und-f` | Patentanwälte: zulassungsfragen und kanzleisitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und F
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Werbung Mit Erfolgsquoten Kaltstart Und Faktenma, Patentanwaelte Zulassungsfragen Und Kanzleisitz Kaltstart Und F, Patentanwaelte Aktenherausgabe Patentakten Rechtsprechungscheck, Patentanwaelte Berufsgerichtliche Ruege Rechtsprechungscheck Un, Patentanwaelte Berufshaftpflicht Und Claim Risk Rechtsprechungs** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-werbung-mit-erfolgsquoten-kaltstart-und-faktenma`
 

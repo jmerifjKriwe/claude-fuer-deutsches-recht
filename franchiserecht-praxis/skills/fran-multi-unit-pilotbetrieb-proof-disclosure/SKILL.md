@@ -7,11 +7,11 @@ description: "Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-021-multi-unit-franchise-und-area-developer` | Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB. |
 | `fran-022-pilotbetrieb-und-proof-of-concept` | Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 021 Multi Unit Franchise Und Area Developer, Fran 0
 
 ## Arbeitsweg
 
-Für **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Für Internationale Investoren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-021-multi-unit-franchise-und-area-developer`
 

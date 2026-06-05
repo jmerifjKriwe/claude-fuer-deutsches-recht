@@ -7,11 +7,11 @@ description: "Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vergleich-richtervorschlag-278-ii-zpo` | Vergleich vor dem Amtsgericht nach § 278 II ZPO Richtervorschlag Erledigungsklausel Auswirkung auf Kosten und Streitwert. Wann ist ein Vergleich vorteilhaft wann nicht und wie wird er protokolliert. |
 | `verhalten-gerichtssaal-laienleitfaden` | Verhalten im Gerichtssaal für Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gericht
 
 ## Arbeitsweg
 
-Für **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vergleich-richtervorschlag-278-ii-zpo`
 

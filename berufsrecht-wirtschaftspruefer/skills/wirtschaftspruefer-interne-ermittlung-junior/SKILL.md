@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-interne-ermittlung-und-reporting-kaltstart-u` | Wirtschaftsprüfer: interne ermittlung und reporting - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-junior-fehler-und-supervision-kaltstart-und` | Wirtschaftsprüfer: junior fehler und supervision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Interne Ermittlung Und Reporting Kalt
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Interne Ermittlung Und Reporting Kaltstart U, Wirtschaftspruefer Junior Fehler Und Supervision Kaltstart Und, Wirtschaftspruefer Ki In Abschlusspruefung Kaltstart Und Fakten, Wirtschaftspruefer Management Letter Formulierung Kaltstart Und, Wirtschaftspruefer Mandatsannahme Sanierungsnaehe Kaltstart Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-interne-ermittlung-und-reporting-kaltstart-u`
 

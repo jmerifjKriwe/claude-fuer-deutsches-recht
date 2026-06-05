@@ -7,24 +7,24 @@ description: "Historische Auslegung, Historischer Normzweck Erster Schritt, Inst
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-ueber dipbt.bundestag.de. |
-| `historischer-normzweck-erster-schritt` | Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben. |
+| `historischer-normzweck-erster-schritt` | Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, fachliche Einordnung und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben. |
 | `institutionelle-folgen-und-regelbindung` | Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken. |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist. |
 | `kelsen-normstufen-kompetenz-bgb-methode` | Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung. |
 
 ## Arbeitsweg
 
-Für **Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `historische-auslegung`
 
@@ -64,9 +64,9 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 1. **Subjektive Theorie:** Massgeblich ist der Wille des historischen Gesetzgebers, wie er sich aus den Materialien ergibt. Vertreten u. a. von Ernst Forsthoff. Argumentiert demokratisch: Nur was die parlamentarische Mehrheit beschlossen hat, ist Gesetz.
 2. **Objektive Theorie:** Massgeblich ist der Wille, der dem Gesetz selbst objektiv zu entnehmen ist, unabhaengig von subjektiven Vorstellungen des historischen Gesetzgebers. Argumentiert mit Geltungsdauer: Gesetze bleiben in Geltung, auch wenn die Welt sich aendert.
 
-Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
+Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
 
-**Klassische Spannung:** Die historische Auslegung steht zwischen Entstehungsgeschichte, demokratischer Rückbindung und der Gefahr, spätere Wertungen als ursprünglichen Normzweck auszugeben.
+**Klassische Spannung:** Die historische Auslegung steht zwischen fachliche Einordnung, demokratischer Rückbindung und der Gefahr, spätere Wertungen als ursprünglichen Normzweck auszugeben.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -136,7 +136,7 @@ Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Origin
 
 ## 2. `historischer-normzweck-erster-schritt`
 
-**Fokus:** Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben.
+**Fokus:** Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, fachliche Einordnung und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben.
 
 # Historischer Normzweck: Methodik als erster Auslegungsschritt
 

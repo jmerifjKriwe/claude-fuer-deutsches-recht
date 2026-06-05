@@ -7,21 +7,21 @@ description: "Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertrauli
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `force-majeure-und-erschwerung-313-bgb` | Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab. |
 | `geheimhaltung-nda-vertraulichkeit` | Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pflichten zur Geheimhaltung, Dauer, Rückgabe und Löschung, Vertragsstrafe (mit Blick auf § 309 Nr. 6 BGB), Gerichtsstand und das Verhältnis zum GeschGehG mit der Pflicht zu angemessenen Geheimhaltungsmaßnahmen. |
 
 ## Arbeitsweg
 
-Für **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `force-majeure-und-erschwerung-313-bgb`
 

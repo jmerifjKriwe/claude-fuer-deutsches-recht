@@ -1,17 +1,17 @@
 ---
 name: btm-rezept-btmvv-arztpraxis-compliance-apotheke-dokumentation
-description: "Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `btm-006-btm-rezept-und-btmvv` | Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-007-arztpraxis-compliance` | Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokument
 
 ## Arbeitsweg
 
-Für **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rezept Btmvv / Arztpraxis Compliance / Apotheke Dokumentation / Therapie Statt Strafe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betaeubungsmittelrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `btm-006-btm-rezept-und-btmvv`
 

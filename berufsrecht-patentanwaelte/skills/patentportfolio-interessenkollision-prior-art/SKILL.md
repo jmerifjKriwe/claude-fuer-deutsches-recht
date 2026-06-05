@@ -7,11 +7,11 @@ description: "Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-patentportfolio-und-interessenkollision-rechtspr` | Patentanwälte: patentportfolio und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-prior-art-fehler-und-meldepflicht-kammerantwort` | Patentanwälte: prior art fehler und meldepflicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Patentportfolio Und Interessenkollision R
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-patentportfolio-und-interessenkollision-rechtspr`
 

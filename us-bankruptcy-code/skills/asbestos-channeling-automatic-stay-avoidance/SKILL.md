@@ -7,11 +7,11 @@ description: "Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Ban
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `asbestos-channeling` | Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. |
 | `automatic-stay-362` | Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Asbestos Channeling, Automatic Stay 362, Avoidance Litig
 
 ## Arbeitsweg
 
-Für **Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `asbestos-channeling`
 

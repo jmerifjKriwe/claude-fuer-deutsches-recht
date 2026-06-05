@@ -52,7 +52,7 @@ Nicht dieser Skill, sondern eine spezifische Steuerberatung ist primär, wenn di
 
 1. **Zuständigkeit klären.** Bei Sanierungsmaßnahmen mit Bezug auf § 3a EStG ist regelmäßig das für die Schuldnerin örtlich zuständige Finanzamt zuständig. Bei mehreren beteiligten Gesellschaften ggf. Antrag bei mehreren Finanzämtern.
 2. **Sachverhalts-Dossier zusammenstellen.** Sanierungskonzept (IDW S 6 oder gleichwertig); Plan-Dokumentation; Forderungsverzichtsverträge; Werthaltigkeitsgutachten; Bilanzen; Konzernstruktur.
-3. **Rechtsfragen präzise formulieren.** Trennscharfe Formulierung; keine pauschalen Anfragen. Mehrere Rechtsfragen können in einem Antrag gebündelt werden.
+3. **Rechtsfragen präzise formulieren.** Trennscharfe Formulierung; keine pauschalen Anfragen. Mehrere Rechtsfragen können in einem Antrag gebearbeitet werden.
 
 **Phase 2 – Antrag stellen:**
 

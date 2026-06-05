@@ -7,11 +7,11 @@ description: "Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mindestlohn, B
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mindestlohn, Bericht Eudr Entwaldung Due Diligence** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mindestlohn, Bericht Eudr Entwaldung Due Diligence** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-energieaudit-edl-g` | Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise. |
 | `bericht-entsendungen-a1-mindestlohn` | Entsendungen und Auslandseinsätze: A1, Meldepflichten, Mindestlohn, Arbeitszeit, Sozialversicherung und Nachweise. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mind
 
 ## Arbeitsweg
 
-Für **Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mindestlohn, Bericht Eudr Entwaldung Due Diligence** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Energieaudit Edl G, Bericht Entsendungen A1 Mindestlohn, Bericht Eudr Entwaldung Due Diligence** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-energieaudit-edl-g`
 

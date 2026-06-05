@@ -7,11 +7,11 @@ description: "Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste` | Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko` | Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dien
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste`
 

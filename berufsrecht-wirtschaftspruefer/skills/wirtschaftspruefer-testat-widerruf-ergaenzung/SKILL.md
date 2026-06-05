@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-testat-widerruf-oder-ergaenzung-kammerantwor` | Wirtschaftsprüfer: testat widerruf oder ergänzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-testat-widerruf-oder-ergaenzung-organisation` | Wirtschaftsprüfer: testat widerruf oder ergänzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kamme
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-testat-widerruf-oder-ergaenzung-kammerantwor`
 

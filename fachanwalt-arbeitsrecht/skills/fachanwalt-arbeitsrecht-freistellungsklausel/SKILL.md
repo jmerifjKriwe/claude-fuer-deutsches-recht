@@ -7,26 +7,26 @@ description: "Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freist
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Arbeitsmodul zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Prüffeld für fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases. |
 | `ar-abfindungs-rechner-modular` | Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich. |
 
 ## Arbeitsweg
 
-Für **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
 
-**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 

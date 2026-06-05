@@ -7,11 +7,11 @@ description: "Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom 018 Obligationes System, Rom 019 Stipulatio, Rom 020 Kauf Emptio Venditio und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom 018 Obligationes System, Rom 019 Stipulatio, Rom 020 Kauf Emptio Venditio und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-016-actio-publiciana` | Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae. |
 | `rom-017-interdikte-und-besitzschutz` | Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzs
 
 ## Arbeitsweg
 
-Für **Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom 018 Obligationes System, Rom 019 Stipulatio, Rom 020 Kauf Emptio Venditio und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom 018 Obligationes System, Rom 019 Stipulatio, Rom 020 Kauf Emptio Venditio und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-016-actio-publiciana`
 

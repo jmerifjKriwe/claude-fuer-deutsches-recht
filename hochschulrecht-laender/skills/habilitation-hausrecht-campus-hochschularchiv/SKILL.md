@@ -7,11 +7,11 @@ description: "Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, Hochschulautonomie Und Aufsicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, Hochschulautonomie Und Aufsicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `habilitation` | Prüft Habilitation und Lehrbefähigung. |
 | `hausrecht-campus` | Prüft Hausrecht, Demonstration und Campusnutzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Habilitation, Hausrecht Campus, Hochschularchiv Und Akte
 
 ## Arbeitsweg
 
-Für **Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, Hochschulautonomie Und Aufsicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, Hochschulautonomie Und Aufsicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `habilitation`
 

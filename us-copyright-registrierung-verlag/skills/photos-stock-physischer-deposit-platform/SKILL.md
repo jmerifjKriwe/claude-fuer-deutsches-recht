@@ -7,11 +7,11 @@ description: "Photos Stock Social Media, Physischer Deposit Shipping Slip, Platf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `photos-stock-social-media` | Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. |
 | `physischer-deposit-shipping-slip` | Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Photos Stock Social Media, Physischer Deposit Shipping S
 
 ## Arbeitsweg
 
-Für **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `photos-stock-social-media`
 

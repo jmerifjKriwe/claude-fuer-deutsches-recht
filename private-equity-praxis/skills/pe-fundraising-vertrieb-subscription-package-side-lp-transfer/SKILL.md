@@ -1,17 +1,17 @@
 ---
 name: pe-fundraising-vertrieb-subscription-package-side-lp-transfer
-description: "Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-010-fundraising-und-vertrieb` | Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation. |
 | `pe-011-subscription-package-und-side-letter` | Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fundraising Vertrieb / Subscription Package Side Letter 
 
 ## Arbeitsweg
 
-Für **Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fundraising Vertrieb / Subscription Package Side Letter / Lp Transfer Secondary / Capital Calls Defaulting Lp** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-010-fundraising-und-vertrieb`
 

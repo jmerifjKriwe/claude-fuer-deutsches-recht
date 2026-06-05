@@ -7,11 +7,11 @@ description: "Public Performance Display 110, Public Records Search Chain, Publi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Public Performance Display 110, Public Records Search Chain, Publication Status Usa Ausland Online, Recordation 205 Transfers** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Public Performance Display 110, Public Records Search Chain, Publication Status Usa Ausland Online, Recordation 205 Transfers** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `public-performance-display-110` | Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions. |
 | `public-records-search-chain` | Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Public Performance Display 110, Public Records Search Ch
 
 ## Arbeitsweg
 
-Für **Public Performance Display 110, Public Records Search Chain, Publication Status Usa Ausland Online, Recordation 205 Transfers** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Public Performance Display 110, Public Records Search Chain, Publication Status Usa Ausland Online, Recordation 205 Transfers** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `public-performance-display-110`
 

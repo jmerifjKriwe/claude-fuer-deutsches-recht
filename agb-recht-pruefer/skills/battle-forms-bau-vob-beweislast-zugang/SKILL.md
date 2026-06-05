@@ -7,11 +7,11 @@ description: "Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `battle-of-forms-agb-kollision` | Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `bau-vob-agb` | Branchen-Fachmodul für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast U
 
 ## Arbeitsweg
 
-Für **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `battle-of-forms-agb-kollision`
 

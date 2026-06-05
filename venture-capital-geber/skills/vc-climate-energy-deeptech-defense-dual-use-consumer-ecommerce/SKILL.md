@@ -1,17 +1,17 @@
 ---
 name: vc-climate-energy-deeptech-defense-dual-use-consumer-ecommerce
-description: "Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-043-climate-energy-deeptech` | Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik. |
 | `vc-044-defense-dual-use-fdi` | Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Climate Energy Deeptech / Defense Dual Use Fdi / Consume
 
 ## Arbeitsweg
 
-Für **Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Climate Energy Deeptech / Defense Dual Use Fdi / Consumer Ecommerce Platform / International EU Schweiz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-043-climate-energy-deeptech`
 

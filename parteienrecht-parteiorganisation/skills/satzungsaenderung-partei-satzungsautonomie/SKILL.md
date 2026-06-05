@@ -7,11 +7,11 @@ description: "Satzungsaenderung Partei, Satzungsautonomie Grenzen, Social Media 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Satzungsaenderung Partei, Satzungsautonomie Grenzen, Social Media Partei** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Satzungsaenderung Partei, Satzungsautonomie Grenzen, Social Media Partei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `satzungsaenderung-partei` | Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen. |
 | `satzungsautonomie-grenzen` | Erklärt, wo Partei frei regeln kann und wo PartG, Wahlrecht oder demokratische Mindeststandards Grenzen setzen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Satzungsaenderung Partei, Satzungsautonomie Grenzen, Soc
 
 ## Arbeitsweg
 
-Für **Satzungsaenderung Partei, Satzungsautonomie Grenzen, Social Media Partei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Satzungsaenderung Partei, Satzungsautonomie Grenzen, Social Media Partei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `satzungsaenderung-partei`
 

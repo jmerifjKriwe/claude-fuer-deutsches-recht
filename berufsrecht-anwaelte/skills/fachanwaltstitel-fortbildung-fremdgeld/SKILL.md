@@ -7,11 +7,11 @@ description: "Anwaelte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, An
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-fachanwaltstitel-und-fortbildung-rechtsprechungscheck` | Anwälte: fachanwaltstitel und fortbildung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-fremdgeld-und-anderkonto-rechtsprechungscheck-und-red` | Anwälte: fremdgeld und anderkonto - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechung
 
 ## Arbeitsweg
 
-Für **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-fachanwaltstitel-und-fortbildung-rechtsprechungscheck`
 

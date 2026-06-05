@@ -7,11 +7,11 @@ description: "Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-reiseausweis-fluechtling` | Reiseausweis Flüchtling: Fachmodul im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-religionswechsel` | Religionswechsel: Fachmodul im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Reiseausweis Fluechtling, Religionswechsel, Remonstratio
 
 ## Arbeitsweg
 
-Für **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-reiseausweis-fluechtling`
 

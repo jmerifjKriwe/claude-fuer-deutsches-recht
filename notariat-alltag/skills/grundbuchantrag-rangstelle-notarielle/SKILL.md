@@ -7,11 +7,11 @@ description: "Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat 009 Geldwaeschepruefung Immobilientransaktion Wirtschaf** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat 009 Geldwaeschepruefung Immobilientransaktion Wirtschaf** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n` | Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung. |
 | `notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert-un` | Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegu
 
 ## Arbeitsweg
 
-Für **Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat 009 Geldwaeschepruefung Immobilientransaktion Wirtschaf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat 009 Geldwaeschepruefung Immobilientransaktion Wirtschaf** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n`
 

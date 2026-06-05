@@ -7,11 +7,11 @@ description: "Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterkla
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-tdddg-fristen-form-und-zustaendigkeit` | Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `avv-eu-kommission-musterklauseln-2021-915` | EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz fuer den internen EU-Raum. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission
 
 ## Arbeitsweg
 
-Für **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-tdddg-fristen-form-und-zustaendigkeit`
 

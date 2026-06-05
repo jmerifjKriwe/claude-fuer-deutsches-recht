@@ -7,11 +7,11 @@ description: "Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-038-leasing-abrechnung-nachforderung-und-verjaehrung` | Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN. |
 | `lease-039-inkasso-leasingforderung` | Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehru
 
 ## Arbeitsweg
 
-Für **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 038 Leasing Abrechnung Nachforderung Und Verjaehrung, Lease 039 Inkasso Leasingforderung, Lease 040 Gerichtliche Durchsetzung Leasingraten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-038-leasing-abrechnung-nachforderung-und-verjaehrung`
 

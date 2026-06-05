@@ -22,7 +22,7 @@ description: "Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rol
 
 PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
 
-Dieser Skill bündelt diese Aspekte für das PE-Team.
+Dieser Skill bearbeitet diese Aspekte für das PE-Team.
 
 ## Wann brauchen Sie diesen Skill
 

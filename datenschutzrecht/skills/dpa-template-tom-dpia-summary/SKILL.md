@@ -7,11 +7,11 @@ description: "Dpa En Template Controller Processor, Dpa En Tom Annex Template, D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dpa-en-template-controller-processor` | English language Data Processing Agreement (DPA) template under Article 28 GDPR between a controller and a processor. Use when the contract language is English (cross-border deals UK Ireland US providers) and the parties require a stand-alone DPA. Output is a complete English DPA template covering all eight mandatory items of Article 28 (3) GDPR. |
 | `dpa-en-tom-annex-template` | English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001 SOC 2 and BSI C5 alignment. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dpa En Template Controller Processor, Dpa En Tom Annex T
 
 ## Arbeitsweg
 
-Für **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dpa-en-template-controller-processor`
 

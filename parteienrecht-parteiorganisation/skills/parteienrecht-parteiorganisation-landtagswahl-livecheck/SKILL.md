@@ -1,17 +1,17 @@
 ---
 name: parteienrecht-parteiorganisation-landtagswahl-livecheck
-description: "Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `landtagswahl-livecheck` | Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahlleiter, Fristen, Formulare und Aufstellungsanforderungen. |
 | `mandatstraegerbeitraege` | Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrs
 
 ## Arbeitsweg
 
-Für **Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Landtagswahl Livecheck / Mandatstraegerbeitraege / Mehrsprachige Parteiformalien** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `landtagswahl-livecheck`
 

@@ -1,3 +1,27 @@
+# v211.0.0 — Freistehende Skills ohne Bündel-Artefakte
+
+## Schwerpunkt
+
+- Alle `SKILL.md`-Dateien auf Entstehungs-/Bündelartefakte geprüft und die alte Verdichtungssprache entfernt.
+- Formulierungen wie `Dieser Skill bündelt`, `Arbeitsmodule`, `Sammelskill`, `Kompendium`, `gehört zum Plugin` und vergleichbare Innenansichten durch freistehende Arbeitsbereich-, Prüffeld- und Output-Sprache ersetzt.
+- Kleine Generator-Sprachreste aus der Konsolidierung geglättet, unter anderem `Arbeitsfür`, `Spezial-mit` und unnatürliche Großschreibung in Arbeitsweg-Sätzen.
+
+## Qualitätsbild
+
+- 9115 Skills behalten ihre Inhalte, lesen sich aber nicht mehr wie zusammengeklebte Vorgängerskills.
+- Der exemplarisch beanstandete Agrarrecht-Skill ist auf Arbeitsbereich, Prüffelder und Arbeitsweg umgestellt.
+- Artefakt-Scan in den Skillanfängen: 0 Treffer für `bündelt`, `Arbeitsmodul`, `Kompendium`, `Sammelskill`, `Entstehungsgeschichte` und `gehört zum Plugin`.
+
+## Checks
+
+- `validate-yaml-frontmatter` OK.
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK.
+- Lokale Release-ZIP-Simulation OK.
+- `git diff --check` OK.
+
+---
+
 # v210.0.0 — Skillnamen-Powersprint und Release-Synchronisierung
 
 ## Schwerpunkt

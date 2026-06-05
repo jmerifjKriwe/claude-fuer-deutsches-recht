@@ -7,11 +7,11 @@ description: "Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlus
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-sanktion-rechtsweg-router` | Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-sanktionsmandat-schlussprodukt-planen` | Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsman
 
 ## Arbeitsweg
 
-Für **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Sanktion Rechtsweg Router, Dsv Sanktion Sanktionsmandat Schlussprodukt Planen, Dsv Sanktion Scope Cut Behoerdenfragen Einhegen, Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten, Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-sanktion-rechtsweg-router`
 

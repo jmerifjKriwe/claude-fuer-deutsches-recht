@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Open Source Startup, Gesellschaftsgruender P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-open-source-startup` | Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence. |
 | `gesellschaftsgruender-plain-language-modus` | Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Präzision zu verlieren. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Open Source Startup, Gesellschafts
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Open Source Startup, Gesellschaftsgründer Plain Language Modus, Gesellschaftsgründer Registerbeanstandung Beantworten, Gesellschaftsgründer Reguliertes Geschaeftsmodell, Gesellschaftsgründer Sacheinlage Und Verdeckte Sacheinlage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-open-source-startup`
 

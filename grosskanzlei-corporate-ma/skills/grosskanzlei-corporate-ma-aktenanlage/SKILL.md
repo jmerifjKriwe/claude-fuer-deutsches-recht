@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlag
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-wi-insurance` | W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf. |
 | `grosskanzlei-ma-aktenanlage` | Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma 
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-wi-insurance`
 

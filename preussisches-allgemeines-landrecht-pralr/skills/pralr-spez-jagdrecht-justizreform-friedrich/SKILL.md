@@ -7,11 +7,11 @@ description: "Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-jagdrecht-und-fischerei` | Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix. |
 | `pralr-spez-justizreform-friedrich-grosskanzler-svarez` | Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizref
 
 ## Arbeitsweg
 
-Für **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-jagdrecht-und-fischerei`
 

@@ -7,11 +7,11 @@ description: "Joint Controller Vereinbarung, Joint Controllership En Template, K
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Joint Controller Vereinbarung, Joint Controllership En Template, Ki Verordnung Compliance, Mandantendaten Ki, Rechtsabteilung Datenpanne Mit Erpressung Und Meldelogik** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Joint Controller Vereinbarung, Joint Controllership En Template, Ki Verordnung Compliance, Mandantendaten Ki, Rechtsabteilung Datenpanne Mit Erpressung Und Meldelogik** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `joint-controller-vereinbarung` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung). |
 | `joint-controllership-en-template` | English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement template. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Joint Controller Vereinbarung, Joint Controllership En T
 
 ## Arbeitsweg
 
-Für **Joint Controller Vereinbarung, Joint Controllership En Template, Ki Verordnung Compliance, Mandantendaten Ki, Rechtsabteilung Datenpanne Mit Erpressung Und Meldelogik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Joint Controller Vereinbarung, Joint Controllership En Template, Ki Verordnung Compliance, Mandantendaten Ki, Rechtsabteilung Datenpanne Mit Erpressung Und Meldelogik** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `joint-controller-vereinbarung`
 

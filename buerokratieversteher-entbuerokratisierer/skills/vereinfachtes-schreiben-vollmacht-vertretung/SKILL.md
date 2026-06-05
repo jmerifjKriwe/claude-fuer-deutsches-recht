@@ -7,11 +7,11 @@ description: "Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vereinfachtes-schreiben-generator` | Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist. |
 | `vollmacht-und-vertretung` | Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vereinfachtes Schreiben Generator, Vollmacht Und Vertret
 
 ## Arbeitsweg
 
-Für **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vereinfachtes-schreiben-generator`
 

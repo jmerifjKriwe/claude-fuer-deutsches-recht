@@ -7,11 +7,11 @@ description: "Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition). |
 | `vendor-due-diligence-ai-act-beschaffung` | KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Be
 
 ## Arbeitsweg
 
-Für **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `triage-ki-vo-vorpruefung`
 

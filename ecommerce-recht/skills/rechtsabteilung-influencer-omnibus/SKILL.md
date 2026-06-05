@@ -7,11 +7,11 @@ description: "Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-influencer-und-affiliate-shop` | Rechtsabteilungs-Fachmodul für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` | Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabt
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-influencer-und-affiliate-shop`
 

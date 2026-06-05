@@ -15,7 +15,7 @@ Eingang ist das Portal https://www.bescheinigung-forschungszulage.de/. Der Antra
 
 - Sobald die FuE-Eigenschaft durch `fz-fue-definition-frascati-abgrenzung` plausibilisiert ist.
 - Bei BSFZ-Rückfragen zu Inhalt oder Tiefe der Projektbeschreibung.
-- Wenn mehrere verwandte Vorhaben gebündelt eingereicht werden sollen.
+- Wenn mehrere verwandte Vorhaben gebearbeitet eingereicht werden sollen.
 - Vor jedem Folgeantrag im Mehrjahresprojekt.
 
 ## Sachrahmen — was die BSFZ tatsächlich macht

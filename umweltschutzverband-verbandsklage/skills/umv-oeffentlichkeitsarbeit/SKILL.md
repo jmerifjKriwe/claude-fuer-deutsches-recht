@@ -7,11 +7,11 @@ description: "Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und Nebenbestimmungen, Umv 020 Kostenrisiko Verband, Umv 021 Windpark Beteiligung Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und Nebenbestimmungen, Umv 020 Kostenrisiko Verband, Umv 021 Windpark Beteiligung Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-018-oeffentlichkeitsarbeit-ohne-risiko` | Umweltschutzverband Verbandsklage: Öffentlichkeitsarbeit ohne Risiko. Öffentlichkeitsarbeit ohne Risiko im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-019-vergleich-und-nebenbestimmungen` | Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Verg
 
 ## Arbeitsweg
 
-Für **Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und Nebenbestimmungen, Umv 020 Kostenrisiko Verband, Umv 021 Windpark Beteiligung Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und Nebenbestimmungen, Umv 020 Kostenrisiko Verband, Umv 021 Windpark Beteiligung Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-018-oeffentlichkeitsarbeit-ohne-risiko`
 

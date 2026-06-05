@@ -1,17 +1,17 @@
 ---
 name: pe-real-estate-opco-portfolio-reporting-lp-valuation-fairness
-description: "Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-067-real-estate-pe-und-opco-propco` | Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien. |
 | `pe-069-portfolio-reporting-lp` | Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Real Estate Opco Propco / Portfolio Reporting Lp / Valua
 
 ## Arbeitsweg
 
-Für **Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Real Estate Opco Propco / Portfolio Reporting Lp / Valuation Fairness / Lpac Conflicts** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-067-real-estate-pe-und-opco-propco`
 

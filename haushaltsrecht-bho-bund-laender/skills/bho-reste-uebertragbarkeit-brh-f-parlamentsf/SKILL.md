@@ -7,11 +7,11 @@ description: "Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-212-reste-und-uebertragbarkeit-risiko-mark` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Risiko markieren. Risiko markieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-213-reste-und-uebertragbarkeit-brh-frage-f` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: BRH-Frage formulieren. BRH-Frage formulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 
 
 ## Arbeitsweg
 
-Für **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra, Bho 226 Buergschaft Und Gewährleistung Titel und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-212-reste-und-uebertragbarkeit-risiko-mark`
 

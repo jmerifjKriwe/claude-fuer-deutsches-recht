@@ -7,11 +7,11 @@ description: "Anwaelte Interessenkollision Bei Mehrfachvertretung Kammerantwo, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-interessenkollision-bei-mehrfachvertretung-kammerantwo` | Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-interessenkollision-bei-mehrfachvertretung-organisatio` | Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Interessenkollision Bei Mehrfachvertretung Kamm
 
 ## Arbeitsweg
 
-Für **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Interessenkollision Bei Mehrfachvertretung Kammerantwo, Anwälte Interessenkollision Bei Mehrfachvertretung Organisatio, Anwälte Interessenkollision Bei Mehrfachvertretung Rechtsprech, Anwälte Internationales Mandat Und Geheimnisschutz Kammerantwo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-interessenkollision-bei-mehrfachvertretung-kammerantwo`
 

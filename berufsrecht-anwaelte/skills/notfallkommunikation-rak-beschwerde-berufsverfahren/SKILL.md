@@ -1,17 +1,17 @@
 ---
 name: notfallkommunikation-rak-beschwerde-berufsverfahren
-description: "Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 weitere Module
+# Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-berufsrechtliche-notfallkommunikation-rechtsprechungsc` | Anwälte: berufsrechtliche notfallkommunikation - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-beschwerde-bei-rechtsanwaltskammer-rechtsprechungschec` | Anwälte: beschwerde bei rechtsanwaltskammer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwaelte Berufsrechtliche Notfallkommunikation Rechtspre
 
 ## Arbeitsweg
 
-Für **Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc / Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec / Anwaelte Beweisfuehrung Berufsverfahren Rechtsprechungscheck / Anwaelte Datenschutzpanne Kanzlei Rechtsprechungscheck U / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-berufsrechtliche-notfallkommunikation-rechtsprechungsc`
 

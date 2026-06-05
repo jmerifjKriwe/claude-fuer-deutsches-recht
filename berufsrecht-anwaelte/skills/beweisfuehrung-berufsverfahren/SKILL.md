@@ -7,11 +7,11 @@ description: "Anwaelte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-beweisfuehrung-im-berufsverfahren-kaltstart-und-fakten` | Anwälte: beweisfuehrung im berufsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-datenschutzpanne-in-der-kanzlei-kaltstart-und-faktenma` | Anwälte: datenschutzpanne in der kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und
 
 ## Arbeitsweg
 
-Für **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-beweisfuehrung-im-berufsverfahren-kaltstart-und-fakten`
 

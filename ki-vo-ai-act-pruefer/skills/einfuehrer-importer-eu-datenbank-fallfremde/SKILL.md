@@ -7,11 +7,11 @@ description: "Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `einfuehrer-importer-pflichten-art-23` | Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel). |
 | `eu-datenbank-registrierung-art-49-und-71` | Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. öffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Konformitätsbewertung) und hochrisiko-bestätigt-end-to-end-roadmap (Gesamt-Roadmap). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Regis
 
 ## Arbeitsweg
 
-Für **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `einfuehrer-importer-pflichten-art-23`
 

@@ -7,11 +7,11 @@ description: "Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `deliktsrecht-sonstiges-recht` | Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte. |
 | `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Un
 
 ## Arbeitsweg
 
-Für **Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `deliktsrecht-sonstiges-recht`
 

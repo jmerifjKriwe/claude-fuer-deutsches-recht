@@ -7,21 +7,21 @@ description: "Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-012-subskriptionspreis-einfuehrungspreis-und-aktion` | Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen. |
 | `verl-013-e-book-preisbindung-und-plattformrabatte` | Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung. |
 
 ## Arbeitsweg
 
-Für **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-012-subskriptionspreis-einfuehrungspreis-und-aktion`
 

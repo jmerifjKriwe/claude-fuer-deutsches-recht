@@ -7,11 +7,11 @@ description: "Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `aufsichtsrechtliche-schnellampel-kwg-zag` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. |
 | `auslandsfactoring-import-export-two-factor-system` | Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactor
 
 ## Arbeitsweg
 
-Für **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `aufsichtsrechtliche-schnellampel-kwg-zag`
 

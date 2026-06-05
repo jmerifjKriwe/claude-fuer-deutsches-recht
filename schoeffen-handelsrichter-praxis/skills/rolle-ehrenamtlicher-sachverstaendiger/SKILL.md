@@ -7,11 +7,11 @@ description: "Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rolle-ehrenamtlicher-richter` | Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `sachverstaendiger-verstehen-orientierung` | Sachverständige verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehe
 
 ## Arbeitsweg
 
-Für **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rolle-ehrenamtlicher-richter`
 

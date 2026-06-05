@@ -7,11 +7,11 @@ description: "Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss. |
 | `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonit
 
 ## Arbeitsweg
 
-Für **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-belehrungspflicht-17-beurkg`
 

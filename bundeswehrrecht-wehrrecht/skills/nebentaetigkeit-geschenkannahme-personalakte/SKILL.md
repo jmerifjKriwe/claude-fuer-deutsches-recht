@@ -7,11 +7,11 @@ description: "Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `nebentaetigkeit-geschenkannahme-compliance` | Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `personalakte-einsicht-datenschutz` | Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerecht, Löschungsansprüche und DSGVO-Rechte. Norm-/Quellenanker: § 17 SG, DSGVO, BDSG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Nebentaetigkeit Geschenkannahme Compliance, Personalakte
 
 ## Arbeitsweg
 
-Für **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nebentaetigkeit-geschenkannahme-compliance`
 

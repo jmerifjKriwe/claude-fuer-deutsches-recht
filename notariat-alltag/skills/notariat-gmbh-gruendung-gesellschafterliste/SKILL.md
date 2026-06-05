@@ -7,11 +7,11 @@ description: "Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat 006 Handelsregisteranmeldung Geschaeftsfuehrer Bestellu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat 006 Handelsregisteranmeldung Geschaeftsfuehrer Bestellu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell` | Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung. |
 | `notariat-005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu` | Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Ind
 
 ## Arbeitsweg
 
-Für **Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat 006 Handelsregisteranmeldung Geschaeftsfuehrer Bestellu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat 006 Handelsregisteranmeldung Geschaeftsfuehrer Bestellu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell`
 

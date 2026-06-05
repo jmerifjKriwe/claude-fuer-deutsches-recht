@@ -7,11 +7,11 @@ description: "Miturheber Mehrere Entwickler, Model Weights Software License, Nea
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Miturheber Mehrere Entwickler, Model Weights Software License, Nearshore Offshore Development, Nis2 Software Vendor** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Miturheber Mehrere Entwickler, Model Weights Software License, Nearshore Offshore Development, Nis2 Software Vendor** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `miturheber-mehrere-entwickler` | Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung. |
 | `model-weights-software-license` | Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Miturheber Mehrere Entwickler, Model Weights Software Li
 
 ## Arbeitsweg
 
-Für **Miturheber Mehrere Entwickler, Model Weights Software License, Nearshore Offshore Development, Nis2 Software Vendor** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Miturheber Mehrere Entwickler, Model Weights Software License, Nearshore Offshore Development, Nis2 Software Vendor** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `miturheber-mehrere-entwickler`
 

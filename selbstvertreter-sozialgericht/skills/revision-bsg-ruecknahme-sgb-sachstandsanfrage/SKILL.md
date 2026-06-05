@@ -7,11 +7,11 @@ description: "Revision Bsg 160 Sgg, Ruecknahme 48 Sgb X Aenderung, Sachstandsanf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `revision-bsg-160-sgg` | Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil. |
 | `ruecknahme-48-sgb-x-aenderung` | Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sac
 
 ## Arbeitsweg
 
-Für **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `revision-bsg-160-sgg`
 

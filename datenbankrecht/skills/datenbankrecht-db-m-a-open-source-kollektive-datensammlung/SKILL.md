@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-m-a-open-source-kollektive-datensammlung
-description: "Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-038-m-a-datenraum-datenbankrechte` | Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix. |
 | `db-039-open-source-datenbank-und-open-data-commons` | Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db M A Datenraum Datenbankrechte / Db Open Source Datenb
 
 ## Arbeitsweg
 
-Für **Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db M A Datenraum Datenbankrechte / Db Open Source Datenbank Data / Db Kollektive Datensammlung Miturheberschaftsfallen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-038-m-a-datenraum-datenbankrechte`
 

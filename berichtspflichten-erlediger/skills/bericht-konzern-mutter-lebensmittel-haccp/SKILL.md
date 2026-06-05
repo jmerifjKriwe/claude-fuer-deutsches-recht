@@ -7,11 +7,11 @@ description: "Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-konzern-mutter-tochter-matrix` | Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft. |
 | `bericht-lebensmittel-haccp-rueckverfolgung` | Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmit
 
 ## Arbeitsweg
 
-Für **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-konzern-mutter-tochter-matrix`
 

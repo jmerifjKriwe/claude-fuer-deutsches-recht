@@ -7,11 +7,11 @@ description: "Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen` | Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. |
 | `space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre` | Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und In
 
 ## Arbeitsweg
 
-Für **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen`
 

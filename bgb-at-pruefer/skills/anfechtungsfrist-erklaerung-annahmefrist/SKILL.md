@@ -7,11 +7,11 @@ description: "Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfechtungsfrist-erklaerung-bestaetigung` | Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund. |
 | `annahmefrist-verspaetung-paragraphen-147-149` | Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach § 149 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist V
 
 ## Arbeitsweg
 
-Für **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfechtungsfrist-erklaerung-bestaetigung`
 

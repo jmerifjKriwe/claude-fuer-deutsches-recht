@@ -7,11 +7,11 @@ description: "Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-aktenherausgabe-patentakten-kammerantwort-und-ve` | Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-aktenherausgabe-patentakten-organisationspflicht` | Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-aktenherausgabe-patentakten-kammerantwort-und-ve`
 

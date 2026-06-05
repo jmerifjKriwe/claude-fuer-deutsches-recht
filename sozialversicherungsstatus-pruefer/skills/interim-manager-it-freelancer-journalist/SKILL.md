@@ -7,11 +7,11 @@ description: "Interim Manager, It Freelancer Agil Projekt, Journalist Publizist,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `interim-manager` | Prüft Interim-Manager, CRO, Projektleiter und operative Leitungsrollen auf Beschäftigung oder Selbständigkeit. |
 | `it-freelancer-agil-projekt` | Prüft IT-Freelancer in Scrum/Agile-Projekten mit Teammeetings, Tickets, Product Owner, Tools und Unternehmerrisiko. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Interim Manager, It Freelancer Agil Projekt, Journalist 
 
 ## Arbeitsweg
 
-Für **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Interim Manager, It Freelancer Agil Projekt, Journalist Publizist, Kranken Pflege Arbeitslosenversicherung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `interim-manager`
 

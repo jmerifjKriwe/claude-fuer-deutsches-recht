@@ -7,27 +7,27 @@ description: "Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `mandatsannahme-und-interessenkonflikt` | AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `mar-insiderinformation` | AG/SE-Aufsichtsrat Praxis: Mar Insiderinformation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `mitbestimmungsgesetz` | AG/SE-Aufsichtsrat Praxis: Mitbestimmungsgesetz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `montan-sonderfall` | AG/SE-Aufsichtsrat Praxis: Montan Sonderfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mandatsannahme-und-interessenkonflikt` | AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mar-insiderinformation` | AG/SE-Aufsichtsrat Praxis: Mar Insiderinformation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mitbestimmungsgesetz` | AG/SE-Aufsichtsrat Praxis: Mitbestimmungsgesetz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `montan-sonderfall` | AG/SE-Aufsichtsrat Praxis: Montan Sonderfall; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandatsannahme Und Interessenkonflikt, Mar Insiderinformation, Mitbestimmungsgesetz, Montan Sonderfall** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandatsannahme-und-interessenkonflikt`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Mandatsannahme Und Interessenkonflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mandatsannahme Und Interessenkonflikt
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `mar-insiderinformation`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Mar Insiderinformation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Mar Insiderinformation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mar Insiderinformation
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `mitbestimmungsgesetz`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Mitbestimmungsgesetz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Mitbestimmungsgesetz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mitbestimmungsgesetz
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `montan-sonderfall`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Montan Sonderfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Montan Sonderfall; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Montan Sonderfall
 

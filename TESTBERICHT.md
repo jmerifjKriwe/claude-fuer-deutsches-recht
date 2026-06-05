@@ -1,16 +1,16 @@
 # Testbericht — Klotzkette German Legal Skills
 
-**Erstellt:** 2026-06-04
-**Arbeitsstand:** v210.0.0 / Konsolidierung nach Commit `1a3f44901`
+**Erstellt:** 2026-06-05
+**Arbeitsstand:** v211.0.0 / Freistehende Skilltexte nach Konsolidierungs-Politur
 **Plugins gesamt:** 210
 **Skills gesamt:** 9115
 **Testakten gesamt:** 201
 
 ## Kurzbefund
 
-Das Repository ist nach dem Skillnamen-Powersprint release- und uploadfähig. Der neue Stand bewahrt die verdichteten Inhalte, ergänzt das Fahrgastrechte-Plugin und beseitigt die verbliebenen nicht sprechenden Slugs, damit Skills in Claude/Cowork besser auffindbar sind.
+Das Repository ist nach der Politur der verdichteten Skilltexte release- und uploadfähig. Der neue Stand bewahrt die verdichteten Inhalte, entfernt aber die sichtbare Entstehungsgeschichte aus den Skills: keine Formeln wie "Dieser Skill bündelt", keine `Arbeitsmodule`-Überschriften, keine `Kompendium`-/`Sammelskill`-Artefakte und keine generischen "gehört zum Plugin"-Absätze.
 
-Die parallel eingegangenen Verbesserungen wurden vor dem Push auf `main` eingearbeitet. Insbesondere die 538 auf `origin/main` gelandeten Skill-Individualisierungen, der Word-Salat-Slug-Fix und das neue Fahrgastrechte-Plugin sind im Release-Stand enthalten.
+Die parallel eingegangenen Verbesserungen aus dem vorherigen Release bleiben erhalten. Der neue Schwerpunkt liegt darauf, dass zusammengeführte Skills für Nutzerinnen und Nutzer wieder wie eigenständige, auswählbare Fachskills wirken.
 
 ## Kennzahlen
 
@@ -20,7 +20,7 @@ Die parallel eingegangenen Verbesserungen wurden vor dem Push auf `main` eingear
 | Skill-Dateien `SKILL.md` | 9115 |
 | Testakten-Verzeichnisse | 201 |
 | Testakten mit Gesamt-PDF nach Validator | 201 |
-| Skillnamen-Scan | 0 alte Autogen-Muster, 0 `Nutze dies`, 0 Einwort-/Zahlenslugs, 0 `Kompendium`-/`Sammelskill`-Namen |
+| Skillnamen-/Artefakt-Scan | 0 alte Autogen-Muster, 0 `Nutze dies`, 0 Einwort-/Zahlenslugs, 0 `Kompendium`-/`Sammelskill`-Namen, 0 `bündelt`-/`Arbeitsmodul`-Artefakte in Skillanfängen |
 | Bewusste Ausnahmen | Einige große Fach- und Werkstattplugins bleiben umfangreicher, wo Einzelzugriff praktisch wichtiger ist als weitere Verdichtung. |
 
 ## Validatoren
@@ -41,14 +41,14 @@ Die Pflege folgt konservativen Regeln:
 - Skills mit Zusatzdateien, Assets, References oder Toolmaterial bleiben eigenständig.
 - Steuerrechtliche DBA-Skills bleiben als Einzelskills erhalten, weil hier die Einzelabkommen selbst der Arbeitsgegenstand sind.
 - Sprechende Skillnamen haben Vorrang vor technischen oder generischen Kürzeln.
-- Zusammengeführte Skills müssen freistehend bleiben und dürfen keine Artefakte wie "frühere Beschreibung" oder unspezifische Sammelüberschriften behalten.
+- Zusammengeführte Skills müssen freistehend bleiben und dürfen keine Artefakte wie "frühere Beschreibung", "Dieser Skill bündelt" oder unspezifische Sammelüberschriften behalten.
 
 Damit sinkt die Bedienlast für Nutzerinnen und Nutzer, ohne dass fachliches Material aus den alten Skills aus dem Repository verschwindet.
 
 ## Nachgezogene Meta-Pflege
 
 - Root-README auf den aktuellen Stand gebracht: 210 Plugins, 9115 Skills, 201 Testakten.
-- Testakten-README auf v210.0.0 und 201 Testakten aktualisiert.
+- Testakten-README auf v211.0.0 und 201 Testakten aktualisiert.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
 - Veraltete Angaben aus der alten 52-Plugin-/361-Skill-Phase wurden aus diesem Testbericht entfernt.
 

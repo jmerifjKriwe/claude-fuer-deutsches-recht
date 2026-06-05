@@ -7,11 +7,11 @@ description: "Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoer
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfaenger-workflow-sozialgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgeric
 
 ## Arbeitsweg
 
-Für **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfaenger-workflow-sozialgericht`
 

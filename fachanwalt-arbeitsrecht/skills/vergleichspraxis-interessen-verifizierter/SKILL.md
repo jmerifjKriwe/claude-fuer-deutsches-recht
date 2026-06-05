@@ -7,11 +7,11 @@ description: "Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifiziert
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie. |
 | `spezial-verifizierter-mandantenentscheidung` | Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidung, Informed Consent. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vergleichspraxis Mehrparteien Konflikt Und Interessen, V
 
 ## Arbeitsweg
 
-Für **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen`
 

@@ -68,7 +68,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 > Auf diesen Vertrag findet ausschliesslich deutsches Recht Anwendung unter Ausschluss des UN-Kaufrechts (CISG) und der Kollisionsnormen. Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist [Sitz der offenlegenden Partei]. Jede Partei ist berechtigt, einstweilige Massnahmen auch bei einem nach den allgemeinen Vorschriften zustaendigen Gericht zu beantragen.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

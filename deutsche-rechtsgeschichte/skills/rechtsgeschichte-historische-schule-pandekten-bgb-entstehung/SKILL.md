@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-historische-schule-pandekten-bgb-entstehung
-description: "Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 weitere Module
+# Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-012-historische-schule-und-pandekten` | Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900. |
 | `drg-013-bgb-entstehung-und-materialien` | Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Historische Schule Pandekten / BGB Entstehung Materialie
 
 ## Arbeitsweg
 
-Für **Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Historische Schule Pandekten / BGB Entstehung Materialien / BGB Soziale Frage / Handelsrecht Hgb Geschichte / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-012-historische-schule-und-pandekten`
 

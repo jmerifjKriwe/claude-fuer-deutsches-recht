@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifiziere
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-070-urteilszitate-historisch-verifizieren` | Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. |
 | `drg-071-rechtsgeschichte-im-schriftsatz` | Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch V
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-070-urteilszitate-historisch-verifizieren`
 

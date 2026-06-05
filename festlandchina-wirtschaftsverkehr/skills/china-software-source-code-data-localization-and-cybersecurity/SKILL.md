@@ -1,17 +1,17 @@
 ---
 name: china-software-source-code-data-localization-and-cybersecurity
-description: "Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-047-software-source-code-and-saas` | Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen. |
 | `chn-048-data-localization-and-crossborder-data` | Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Software Source Code And Saas / Data Localization And Cr
 
 ## Arbeitsweg
 
-Für **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Software Source Code And Saas / Data Localization And Crossborder / Cybersecurity Law Risk Map / Personal Information Protection Law Touchpoints** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-047-software-source-code-and-saas`
 

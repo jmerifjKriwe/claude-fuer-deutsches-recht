@@ -7,11 +7,11 @@ description: "Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Sourc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-006-lieferantenmapping-tier-1-bis-tier-n` | Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan. |
 | `chn-007-single-source-risk` | Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Si
 
 ## Arbeitsweg
 
-Für **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-006-lieferantenmapping-tier-1-bis-tier-n`
 

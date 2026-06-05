@@ -1,17 +1,17 @@
 ---
 name: db-open-data-geschaeftsgeheimnis
-description: "Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-010-open-data-portal-und-nutzungsbedingungen` | Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz. |
 | `db-011-datenbankrecht-und-geschaeftsgeheimnis` | Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Open Data Portal Nutzungsbedingungen / Db Datenbankre
 
 ## Arbeitsweg
 
-Für **Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Open Data Portal Nutzungsbedingungen / Db Datenbankrecht Geschaeftsgeheimnis / Db Datenbankrecht Datenschutz Personenbezogene Datensaet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-010-open-data-portal-und-nutzungsbedingungen`
 

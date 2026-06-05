@@ -7,11 +7,11 @@ description: "Subsidiary Parent Client, Success Fee Compliance, Success Probabil
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `subsidiary-parent-client` | Konzernmandat Mutter/Tochter: steuert wer ist Mandant: Mutter, Tochter, Vorstand, Projektgesellschaft oder Gruppe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `success-fee-compliance` | Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Subsidiary Parent Client, Success Fee Compliance, Succes
 
 ## Arbeitsweg
 
-Für **Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-mandant-lifecycle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-mandant-lifecycle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `subsidiary-parent-client`
 

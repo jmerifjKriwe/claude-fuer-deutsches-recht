@@ -7,11 +7,11 @@ description: "Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-090-bruecke-dashboard-erstellen` | Straßenrecht und Infrastruktur: Brücke: Dashboard erstellen. Dashboard erstellen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-091-tunnel-baulast-pruefen` | Straßenrecht und Infrastruktur: Tunnel: Baulast prüfen. Baulast prüfen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baul
 
 ## Arbeitsweg
 
-Für **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-090-bruecke-dashboard-erstellen`
 

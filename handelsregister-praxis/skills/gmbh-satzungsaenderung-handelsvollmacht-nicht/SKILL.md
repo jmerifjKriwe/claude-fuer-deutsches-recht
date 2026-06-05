@@ -7,11 +7,11 @@ description: "Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht Nicht Eint
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht Nicht Eintragungsfaehig, Hgb Publizitaet Paragraph 15** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht Nicht Eintragungsfaehig, Hgb Publizitaet Paragraph 15** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gmbh-satzungsaenderung-und-neufassung` | Prüft Beschlussmehrheit, notarielle Beurkundung, vollständige Neufassung, Gegenstand, Firma, Sitz, Kapital und Anmeldung. |
 | `handelsvollmacht-nicht-eintragungsfaehig` | Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht 
 
 ## Arbeitsweg
 
-Für **Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht Nicht Eintragungsfaehig, Hgb Publizitaet Paragraph 15** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gmbh Satzungsaenderung Und Neufassung, Handelsvollmacht Nicht Eintragungsfaehig, Hgb Publizitaet Paragraph 15** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gmbh-satzungsaenderung-und-neufassung`
 

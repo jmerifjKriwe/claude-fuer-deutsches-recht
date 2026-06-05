@@ -7,11 +7,11 @@ description: "Embargo Fristennotiz Und Naechster Schritt, Schiedsverfahren Behö
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Embargo Fristennotiz Und Naechster Schritt, Schiedsverfahren Behörden Gericht Und Registerweg, Wirtschaftsrecht Fristen Form Und Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Embargo Fristennotiz Und Naechster Schritt, Schiedsverfahren Behörden Gericht Und Registerweg, Wirtschaftsrecht Fristen Form Und Zustaendigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-embargo-fristennotiz-und-naechster-schritt` | Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-schiedsverfahren-behoerden-gericht-und-registerweg` | Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Embargo Fristennotiz Und Naechster Schritt, Schiedsverfa
 
 ## Arbeitsweg
 
-Für **Embargo Fristennotiz Und Naechster Schritt, Schiedsverfahren Behörden Gericht Und Registerweg, Wirtschaftsrecht Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Embargo Fristennotiz Und Naechster Schritt, Schiedsverfahren Behörden Gericht Und Registerweg, Wirtschaftsrecht Fristen Form Und Zustaendigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-embargo-fristennotiz-und-naechster-schritt`
 

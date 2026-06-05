@@ -7,11 +7,11 @@ description: "Sicherungskopie Und Bestimmungsgemaesse Nutzung 69d, Software Copy
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sicherungskopie-und-bestimmungsgemaesse-nutzung-69d` | Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen. |
 | `software-copyright-infringement` | Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Sof
 
 ## Arbeitsweg
 
-Für **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sicherungskopie Und Bestimmungsgemaesse Nutzung 69D, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sicherungskopie-und-bestimmungsgemaesse-nutzung-69d`
 

@@ -7,11 +7,11 @@ description: "Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, I
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inso-verteidigung-anfechtungsgegner` | Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatrix und Schriftsatzgerüst. |
 | `inso-vorsatzanfechtung-133` | Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfecht
 
 ## Arbeitsweg
 
-Für **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inso-verteidigung-anfechtungsgegner`
 

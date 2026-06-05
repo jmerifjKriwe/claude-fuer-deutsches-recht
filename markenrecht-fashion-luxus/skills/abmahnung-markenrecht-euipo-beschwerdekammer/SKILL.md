@@ -7,11 +7,11 @@ description: "Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Abs
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `abmahnung-markenrecht-uwg` | Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung. |
 | `euipo-beschwerdekammer-eu-gerichte` | EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Ger
 
 ## Arbeitsweg
 
-Für **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `abmahnung-markenrecht-uwg`
 

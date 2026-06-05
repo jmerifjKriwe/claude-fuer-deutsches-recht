@@ -7,11 +7,11 @@ description: "Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, Space 055 Internationale Kooperation Memorandum Of Understanding, Space 058 Force Majeure Im Raumfahrtprojekt, Space 059 Change Control Engineering Und Rechtsfolgen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, Space 055 Internationale Kooperation Memorandum Of Understanding, Space 058 Force Majeure Im Raumfahrtprojekt, Space 059 Change Control Engineering Und Rechtsfolgen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk` | Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. |
 | `space-055-internationale-kooperation-memorandum-of-understanding` | MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnet
 
 ## Arbeitsweg
 
-Für **Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, Space 055 Internationale Kooperation Memorandum Of Understanding, Space 058 Force Majeure Im Raumfahrtprojekt, Space 059 Change Control Engineering Und Rechtsfolgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, Space 055 Internationale Kooperation Memorandum Of Understanding, Space 058 Force Majeure Im Raumfahrtprojekt, Space 059 Change Control Engineering Und Rechtsfolgen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk`
 

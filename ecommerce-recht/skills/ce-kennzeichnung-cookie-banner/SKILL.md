@@ -7,11 +7,11 @@ description: "Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Banner Dark Pa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Banner Dark Patterns, Datenportabilitaet Kundenkonto** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Banner Dark Patterns, Datenportabilitaet Kundenkonto** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ce-kennzeichnung-produktrecht-schnittstelle` | CE-Kennzeichnung Produktrecht Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `cookie-banner-dark-patterns` | Cookie Banner dark patterns: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Bann
 
 ## Arbeitsweg
 
-Für **Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Banner Dark Patterns, Datenportabilitaet Kundenkonto** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ce Kennzeichnung Produktrecht Schnittstelle, Cookie Banner Dark Patterns, Datenportabilitaet Kundenkonto** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ce-kennzeichnung-produktrecht-schnittstelle`
 

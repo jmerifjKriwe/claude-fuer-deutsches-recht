@@ -7,11 +7,11 @@ description: "Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grund
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-lohn-statistik-meldungen-destatis` | Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung. |
 | `stb-lohn-sv-beitraege-grundlagen` | Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitr
 
 ## Arbeitsweg
 
-Für **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-lohn-statistik-meldungen-destatis`
 

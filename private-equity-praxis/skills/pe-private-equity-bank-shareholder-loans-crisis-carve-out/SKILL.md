@@ -1,17 +1,17 @@
 ---
 name: pe-private-equity-bank-shareholder-loans-crisis-carve-out
-description: "Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-089-private-equity-in-bank-restructuring` | Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung. |
 | `pe-091-shareholder-loans-in-crisis` | Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Private Equity Bank Restructuring / Shareholder Loans Cr
 
 ## Arbeitsweg
 
-Für **Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Private Equity Bank Restructuring / Shareholder Loans Crisis / Carve Out Operating Model / Regulated Bank Fintech Target** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-089-private-equity-in-bank-restructuring`
 

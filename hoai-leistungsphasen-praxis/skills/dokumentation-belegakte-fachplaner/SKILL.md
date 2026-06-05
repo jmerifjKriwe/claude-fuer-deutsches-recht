@@ -1,17 +1,17 @@
 ---
 name: dokumentation-belegakte-fachplaner
-description: "Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 weitere Module
+# Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-08-dokumentation-und-belegakte` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
 | `hoai-lph-08-fachplaner-schnittstellen` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
@@ -34,10 +34,10 @@ Dieser Skill bündelt **Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittst
 
 ## Arbeitsweg
 
-Für **Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / Hoai Genehmigungen Auflagen / 14 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-08-dokumentation-und-belegakte`
 

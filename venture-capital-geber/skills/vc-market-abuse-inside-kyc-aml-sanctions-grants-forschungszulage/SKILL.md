@@ -1,17 +1,17 @@
 ---
 name: vc-market-abuse-inside-kyc-aml-sanctions-grants-forschungszulage
-description: "Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-070-market-abuse-inside-info` | Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken. |
 | `vc-071-kyc-aml-sanctions-investor` | Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Market Abuse Inside Info / Kyc Aml Sanctions Investor / 
 
 ## Arbeitsweg
 
-Für **Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Market Abuse Inside Info / Kyc Aml Sanctions Investor / Grants Forschungszulage / Public Funding State Aid** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-070-market-abuse-inside-info`
 

@@ -7,11 +7,11 @@ description: "Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenverti
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-080-wasserentnahme-kommunikation-schaerfen` | Umweltschutzverband Verbandsklage: Wasserentnahme: Kommunikation schärfen. Kommunikation schärfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-081-hafenvertiefung-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 
 
 ## Arbeitsweg
 
-Für **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-080-wasserentnahme-kommunikation-schaerfen`
 

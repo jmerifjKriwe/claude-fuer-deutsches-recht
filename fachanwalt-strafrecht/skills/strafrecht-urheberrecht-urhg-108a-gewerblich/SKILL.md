@@ -7,11 +7,11 @@ description: "Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe` | Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG. Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwertung Vervielfaeltigung Verbreitung ohne Einwilligung. Strafrahmen bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Abgrenzung zu Paragraph 106 UrhG. Verteidigungsstrategien Schutzfrist Beweis der Inhaberschaft. |
 | `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich` | Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmaessigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, S
 
 ## Arbeitsweg
 
-Für **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 

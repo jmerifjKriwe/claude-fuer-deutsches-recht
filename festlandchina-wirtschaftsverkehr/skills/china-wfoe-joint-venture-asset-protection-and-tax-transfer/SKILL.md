@@ -1,17 +1,17 @@
 ---
 name: china-wfoe-joint-venture-asset-protection-and-tax-transfer
-description: "Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-013-wfoe-joint-venture-repraesentanz` | Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan. |
 | `chn-077-asset-protection-and-cash-repatriation` | Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wfoe Joint Venture Repraesentanz / Asset Protection And 
 
 ## Arbeitsweg
 
-Für **Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wfoe Joint Venture Repraesentanz / Asset Protection And Cash Repatriation / Tax And Transfer Pricing Touchpoints / Platform Ecommerce China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-013-wfoe-joint-venture-repraesentanz`
 

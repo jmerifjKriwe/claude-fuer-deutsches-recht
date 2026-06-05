@@ -7,11 +7,11 @@ description: "Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` | Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung). |
 | `fachanwalt-erbrecht-testamentsvollstreckung` | Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanw
 
 ## Arbeitsweg
 
-Für **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-erbrecht-pflichtteilsergaenzung-2325`
 

@@ -1,17 +1,17 @@
 ---
 name: seerecht-schifffahrtsrecht-see-binnenschiff-klagepfad-risiko
-description: "See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 weitere Module
+# See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-089-binnenschiff-klagepfad-waehlen` | Binnenschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
 | `see-090-binnenschiff-risiko-memo-schreiben` | Binnenschiff: Gesamtrisikobewertung fuer Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See Binnenschiff Klagepfad Waehlen / See Binnenschiff Ri
 
 ## Arbeitsweg
 
-Für **See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See Binnenschiff Klagepfad Waehlen / See Binnenschiff Risiko Memo Schreiben / See Kreuzfahrtschiff Register Pruefen / See Kreuzfahrtschiff Hypothek Bestellen / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-089-binnenschiff-klagepfad-waehlen`
 

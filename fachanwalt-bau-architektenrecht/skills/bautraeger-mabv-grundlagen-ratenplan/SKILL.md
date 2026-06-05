@@ -7,11 +7,11 @@ description: "Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, Bautraeger Mabv Sicherheit 2 Buergschaft, Bautraeger Mabv Vermoegenstrennung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, Bautraeger Mabv Sicherheit 2 Buergschaft, Bautraeger Mabv Vermoegenstrennung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber. |
 | `bautraeger-mabv-ratenplan-3-mabv` | MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenpla
 
 ## Arbeitsweg
 
-Für **Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, Bautraeger Mabv Sicherheit 2 Buergschaft, Bautraeger Mabv Vermoegenstrennung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, Bautraeger Mabv Sicherheit 2 Buergschaft, Bautraeger Mabv Vermoegenstrennung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-mabv-grundlagen-1-2`
 

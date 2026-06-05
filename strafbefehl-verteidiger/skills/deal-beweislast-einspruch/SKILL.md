@@ -7,11 +7,11 @@ description: "Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gege
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-deal-beweislast-und-darlegungslast` | Deal: Beweislast, Darlegungslast und Substantiierung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-einspruch-risikoampel-und-gegenargumente` | Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Deal Beweislast Und Darlegungslast, Einspruch Risikoampe
 
 ## Arbeitsweg
 
-Für **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-deal-beweislast-und-darlegungslast`
 

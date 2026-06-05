@@ -41,7 +41,7 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 
 1. **Grammatikalisch** — Wortlaut nach allgemeinem oder fachlichem Sprachgebrauch. **Äußere Grenze** der Auslegung; jenseits davon beginnt Rechtsfortbildung.
 2. **Systematisch** — Stellung im Gesetz, Verhältnis zu Nachbarnormen, Gesamtzusammenhang. Beispiel: § 280 Abs. 1 BGB im System der Schuldverhältnisse, abgegrenzt zu § 311 Abs. 2 BGB und § 823 BGB.
-3. **Historisch** — Entstehungsgeschichte, Materialien (BT-Drucks., Ausschussberichte). In der Praxis oft nachgeordnet, weil Materialien lückenhaft oder schwer zugänglich sind; bei jüngeren Reformgesetzen (Schuldrechtsmodernisierung 2002, MoMiG, KapMuG, Verbraucherrechte-RL-Umsetzung) aber regelmäßig tragfähig.
+3. **Historisch** — fachliche Einordnung, Materialien (BT-Drucks., Ausschussberichte). In der Praxis oft nachgeordnet, weil Materialien lückenhaft oder schwer zugänglich sind; bei jüngeren Reformgesetzen (Schuldrechtsmodernisierung 2002, MoMiG, KapMuG, Verbraucherrechte-RL-Umsetzung) aber regelmäßig tragfähig.
 4. **Teleologisch** — Sinn und Zweck (ratio legis). In der **anwaltlichen Praxis** häufig das **stärkste** Auslegungsargument: Gerichte argumentieren ganz überwiegend teleologisch, weil sich damit gerechte Einzelfallergebnisse begründen lassen. Wer in der Praxis ausschließlich historisch argumentiert, läuft am Gericht vorbei.
 
 **Querschnittskanones:**

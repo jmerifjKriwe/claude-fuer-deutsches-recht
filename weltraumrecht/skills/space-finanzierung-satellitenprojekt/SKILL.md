@@ -7,11 +7,11 @@ description: "Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und` | Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. |
 | `space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz` | Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 028 Finanzierung Satellitenprojekt Projektfinanzie
 
 ## Arbeitsweg
 
-Für **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und`
 

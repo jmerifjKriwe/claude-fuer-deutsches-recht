@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-inkasso-mahnung-einordnen-gewaehrleistung
-description: "Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-012-inkasso-und-mahnung-einordnen` | Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-013-gewaehrleistung-und-garantie-trennen` | Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Tre
 
 ## Arbeitsweg
 
-Für **Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inkasso Mahnung Einordnen / Gewaehrleistung Garantie Trennen / Kaufrecht Reparatur Right To Repai / Reise Flug Schnittstelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-012-inkasso-und-mahnung-einordnen`
 

@@ -1,17 +1,17 @@
 ---
 name: ifg-informationszugang-niedersachsen-livec-nordrhein-westfalen
-description: "Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-029-informationszugang-niedersachsen-livec` | Informationsfreiheit und Presseauskunft: Informationszugang Niedersachsen Livecheck. Informationszugang Niedersachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-030-informationszugang-nordrhein-westfalen` | Informationsfreiheit und Presseauskunft: Informationszugang Nordrhein-Westfalen Livecheck. Informationszugang Nordrhein-Westfalen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Informationszugang Niedersachsen Livec / Informationszug
 
 ## Arbeitsweg
 
-Für **Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationszugang Niedersachsen Livec / Informationszugang Nordrhein Westfalen / Informationszugang Rheinland Pfalz Liv / Informationszugang Saarland Livecheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-029-informationszugang-niedersachsen-livec`
 

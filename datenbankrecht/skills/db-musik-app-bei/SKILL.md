@@ -1,17 +1,17 @@
 ---
 name: db-musik-app-bei
-description: "Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-057-datenbankrecht-musik-film-bildarchiv` | Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale. |
 | `db-058-datenbankrecht-app-store-und-app-daten` | Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankre
 
 ## Arbeitsweg
 
-Für **Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Datenbankrecht Musik Film Bildarchiv / Db Datenbankrecht App Store Daten / Db Datenbankrecht Bei Finanzmarktdaten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-057-datenbankrecht-musik-film-bildarchiv`
 

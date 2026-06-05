@@ -7,11 +7,11 @@ description: "Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wertersatz-bei-dienstleistung-und-gebrauchsvorteil` | Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. |
 | `wertveraenderung-und-stichtag` | Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wert
 
 ## Arbeitsweg
 
-Für **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wertersatz-bei-dienstleistung-und-gebrauchsvorteil`
 

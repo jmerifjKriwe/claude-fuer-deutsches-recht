@@ -7,11 +7,11 @@ description: "Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Ford
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB. |
 | `abgetretene-forderung-und-zession` | Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetr
 
 ## Arbeitsweg
 
-Für **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit`
 

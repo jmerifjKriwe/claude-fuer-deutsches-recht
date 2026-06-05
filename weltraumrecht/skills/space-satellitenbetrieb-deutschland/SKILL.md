@@ -7,11 +7,11 @@ description: "Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche` | Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht. |
 | `space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision` | Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung 
 
 ## Arbeitsweg
 
-Für **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche`
 

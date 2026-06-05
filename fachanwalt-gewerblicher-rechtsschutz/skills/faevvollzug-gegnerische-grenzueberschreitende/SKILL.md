@@ -7,11 +7,11 @@ description: "Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` | Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien. |
 | `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` | Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvol
 
 ## Arbeitsweg
 
-Für **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
 

@@ -7,11 +7,11 @@ description: "Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichkeit, Presseauskunft Und Oeffentlichkeit, Protokoll Und Nachbereitung, Rechtshilfe Europaeische Ermittlungsanordnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichkeit, Presseauskunft Und Oeffentlichkeit, Protokoll Und Nachbereitung, Rechtshilfe Europaeische Ermittlungsanordnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `polizei-zusammenarbeit-ermittlungsauftrag` | Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `presse-und-oeffentlichkeit` | Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oe
 
 ## Arbeitsweg
 
-Für **Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichkeit, Presseauskunft Und Oeffentlichkeit, Protokoll Und Nachbereitung, Rechtshilfe Europaeische Ermittlungsanordnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichkeit, Presseauskunft Und Oeffentlichkeit, Protokoll Und Nachbereitung, Rechtshilfe Europaeische Ermittlungsanordnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `polizei-zusammenarbeit-ermittlungsauftrag`
 

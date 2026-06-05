@@ -7,11 +7,11 @@ description: "Solo Verbrauchervertrag B2c, Solo Vertragsdurchsetzung Ausland, So
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Solo Verbrauchervertrag B2C, Solo Vertragsdurchsetzung Ausland, Solo Beratungshaftung, Solo Geldwaesche Und Sanktionen Mini, Solo Produkthaftung Kleinhersteller und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Solo Verbrauchervertrag B2C, Solo Vertragsdurchsetzung Ausland, Solo Beratungshaftung, Solo Geldwaesche Und Sanktionen Mini, Solo Produkthaftung Kleinhersteller und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `solo-verbrauchervertrag-b2c` | Solo-Selbstständige: prüft Widerruf, Fernabsatz, Informationspflichten und Preisangaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-vertragsdurchsetzung-ausland` | Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Solo Verbrauchervertrag B2C, Solo Vertragsdurchsetzung A
 
 ## Arbeitsweg
 
-Für **Solo Verbrauchervertrag B2C, Solo Vertragsdurchsetzung Ausland, Solo Beratungshaftung, Solo Geldwaesche Und Sanktionen Mini, Solo Produkthaftung Kleinhersteller und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Solo Verbrauchervertrag B2C, Solo Vertragsdurchsetzung Ausland, Solo Beratungshaftung, Solo Geldwaesche Und Sanktionen Mini, Solo Produkthaftung Kleinhersteller und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `solo-verbrauchervertrag-b2c`
 

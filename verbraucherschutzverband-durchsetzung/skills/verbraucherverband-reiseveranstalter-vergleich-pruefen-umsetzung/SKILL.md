@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-reiseveranstalter-vergleich-pruefen-umsetzung
-description: "Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-087-reiseveranstalter-vergleich-pruefen` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Vergleich prüfen. Vergleich prüfen für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-088-reiseveranstalter-umsetzung-ueberwache` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Umsetzung überwachen. Umsetzung überwachen für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Reiseveranstalter Vergleich Pruefen / Reiseveranstalter 
 
 ## Arbeitsweg
 
-Für **Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reiseveranstalter Vergleich Pruefen / Reiseveranstalter Umsetzung Ueberwache / Reiseveranstalter Risiko Rot Markieren / Flugportal Sammelfaehigkeit Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-087-reiseveranstalter-vergleich-pruefen`
 

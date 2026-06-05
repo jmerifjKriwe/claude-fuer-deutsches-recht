@@ -7,11 +7,11 @@ description: "Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schul
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schulungsprogramm, Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle, Begrenztes Risiko Art 50 Transparenzpflichten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schulungsprogramm, Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle, Begrenztes Risiko Art 50 Transparenzpflichten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaltliche-ki-nutzung-quellencheck-brao` | Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk fuer Kanzlei und Rechtsabteilung. |
 | `art-4-ki-kompetenz-schulungsprogramm` | Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy fuer Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompe
 
 ## Arbeitsweg
 
-Für **Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schulungsprogramm, Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle, Begrenztes Risiko Art 50 Transparenzpflichten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schulungsprogramm, Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle, Begrenztes Risiko Art 50 Transparenzpflichten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaltliche-ki-nutzung-quellencheck-brao`
 

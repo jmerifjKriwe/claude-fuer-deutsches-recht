@@ -7,21 +7,21 @@ description: "Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muste
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-046-rueckruf-vergriffenes-werk-und-neuauflage` | Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag. |
 | `verl-049-muster-buchpreisfreigabe-dokumentation` | Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. |
 
 ## Arbeitsweg
 
-Für **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-046-rueckruf-vergriffenes-werk-und-neuauflage`
 

@@ -7,11 +7,11 @@ description: "Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Form
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-antworten-mehrparteien-konflikt-und-interessen` | Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-ausfuehrungen-formular-portal-und-einreichung` | Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Antworten Mehrparteien Konflikt Und Interessen, Ausfuehr
 
 ## Arbeitsweg
 
-Für **Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-antworten-mehrparteien-konflikt-und-interessen`
 

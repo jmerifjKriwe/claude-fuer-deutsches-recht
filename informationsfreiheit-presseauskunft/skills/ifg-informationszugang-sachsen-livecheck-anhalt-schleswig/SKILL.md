@@ -1,17 +1,17 @@
 ---
 name: ifg-informationszugang-sachsen-livecheck-anhalt-schleswig
-description: "Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-033-informationszugang-sachsen-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Sachsen Livecheck. Informationszugang Sachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-034-informationszugang-sachsen-anhalt-live` | Informationsfreiheit und Presseauskunft: Informationszugang Sachsen-Anhalt Livecheck. Informationszugang Sachsen-Anhalt Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Informationszugang Sachsen Livecheck / Informationszugan
 
 ## Arbeitsweg
 
-Für **Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationszugang Sachsen Livecheck / Informationszugang Sachsen Anhalt Live / Informationszugang Schleswig Holstein / Informationszugang Thueringen Livechec** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-033-informationszugang-sachsen-livecheck`
 

@@ -7,11 +7,11 @@ description: "Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 5
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
 | `oertliche-zustaendigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Fristverlaengerung Sozialgericht Laien, Oertliche Zustae
 
 ## Arbeitsweg
 
-Für **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
 

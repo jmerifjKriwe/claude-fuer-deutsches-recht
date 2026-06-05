@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-selbststaendige-mindestbeitrag
-description: "Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei` | Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen. |
 | `kv-044-kuenstlersozialkasse-und-krankenversicherung` | Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Selbststaendige Mindestbeitrag Einkommensteuerbeschei / 
 
 ## Arbeitsweg
 
-Für **Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Selbststaendige Mindestbeitrag Einkommensteuerbeschei / Kuenstlersozialkasse Krankenversicherung / Studentische Krankenversicherung Altersgrenzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei`
 

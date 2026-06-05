@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-neu-code-civil-rheinisches-recht-bremer
-description: "Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 weitere Module
+# Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb` | Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat` | Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches
 
 ## Arbeitsweg
 
-Für **Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Neu Code Civil Linksrheinische Gebiete / Neu Rheinisches Recht Gerichtsverfassung Notariat / Neu Bremer Handelsrecht Vor Hgb / Neu Hamburger Handelsrecht Kaufmannspraxis Seehandel / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb`
 

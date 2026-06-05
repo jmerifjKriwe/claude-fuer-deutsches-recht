@@ -1,17 +1,17 @@
 ---
 name: pe-healthcare-target-energy-infrastructure-real-estate-npl-cross
-description: "Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-094-healthcare-pe-target` | Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. |
 | `pe-095-energy-infrastructure-pe` | Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Healthcare Target / Energy Infrastructure / Real Estate 
 
 ## Arbeitsweg
 
-Für **Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Healthcare Target / Energy Infrastructure / Real Estate NPL / Cross Border Fund Investment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-094-healthcare-pe-target`
 
@@ -122,7 +122,7 @@ EnWG, EEG, KWKG, GEG, BImSchG, BNetzA, Konzessionsrecht.
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet Kreditkauf, Grundbuch und Enforcement.
+Der Skill bearbeitet Kreditkauf, Grundbuch und Enforcement.
 
 ## Rechts- und Praxisanker
 

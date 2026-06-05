@@ -7,11 +7,11 @@ description: "Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `amtlicher-bgb-bt-normcheck` | Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leistungsstörung, AGB, Verbraucherrecht, digitale Produkte, Kauf, Miete, Dienst, Werk, Auftrag, GoA, Bürgschaft, Bereicherung und Delikt gegen die aktuelle BGB-Fassung. |
 | `auftrag-und-unentgeltliche-taetigkeit` | Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche T
 
 ## Arbeitsweg
 
-Für **Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `amtlicher-bgb-bt-normcheck`
 

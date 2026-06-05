@@ -7,11 +7,11 @@ description: "Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Tre
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung` | AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG. |
 | `bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe` | Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung,
 
 ## Arbeitsweg
 
-Für **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung`
 

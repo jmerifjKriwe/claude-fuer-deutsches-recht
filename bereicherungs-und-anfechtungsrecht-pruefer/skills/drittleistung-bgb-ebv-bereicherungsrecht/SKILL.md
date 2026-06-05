@@ -7,11 +7,11 @@ description: "Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drittleistung-267-bgb-und-rueckgriff` | Nutze diesen Skill, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Drittleistung mit Rückgriffsweg und Anspruchsgegner. Abgrenzung: nicht echter Anweisungsfall mit Deckungsverhältnis. |
 | `ebv-und-bereicherungsrecht` | Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 812 ff. BGB konkurrieren. Normen: §§ 987 bis 1003 BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix EBV vs. Bereicherungsrecht mit Anspruchsergebnis. Abgrenzung: nicht reines Bereicherungsrecht ohne EBV-Konkurrenz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicheru
 
 ## Arbeitsweg
 
-Für **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drittleistung-267-bgb-und-rueckgriff`
 

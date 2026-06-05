@@ -1,17 +1,17 @@
 ---
 name: vc-uk-us-deal-securities-accredited-swiss-ag-startup-portfolio
-description: "UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-047-uk-us-deal-docs` | Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik. |
 | `vc-049-us-securities-accredited-investor` | Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **UK US Deal Docs / US Securities Accredited Investor / Sw
 
 ## Arbeitsweg
 
-Für **UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **UK US Deal Docs / US Securities Accredited Investor / Swiss AG Startup Investment / Portfolio Dashboard** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-047-uk-us-deal-docs`
 

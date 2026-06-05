@@ -7,11 +7,11 @@ description: "Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und G
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoa
 
 ## Arbeitsweg
 
-Für **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-betrkv-mehrparteien-konflikt-und-interessen`
 

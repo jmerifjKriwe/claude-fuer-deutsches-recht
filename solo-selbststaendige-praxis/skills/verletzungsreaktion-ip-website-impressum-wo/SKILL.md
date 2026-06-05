@@ -7,11 +7,11 @@ description: "Solo Verletzungsreaktion Ip, Solo Website Impressum Datenschutz, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Solo Verletzungsreaktion Ip, Solo Website Impressum Datenschutz, Solo Wo Bin Ich Gerade, Solo Wochenreview, Solo Wohnadresse Geschaeftsadresse und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Solo Verletzungsreaktion Ip, Solo Website Impressum Datenschutz, Solo Wo Bin Ich Gerade, Solo Wochenreview, Solo Wohnadresse Geschaeftsadresse und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `solo-verletzungsreaktion-ip` | Solo-Selbstständige: ordnet Takedown, Abmahnung, Beweise, Vergleich und Kosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-website-impressum-datenschutz` | Solo-Selbstständige: prüft Impressum, Datenschutzerklärung, Kontaktformular und Tracking; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Solo Verletzungsreaktion Ip, Solo Website Impressum Date
 
 ## Arbeitsweg
 
-Für **Solo Verletzungsreaktion Ip, Solo Website Impressum Datenschutz, Solo Wo Bin Ich Gerade, Solo Wochenreview, Solo Wohnadresse Geschaeftsadresse und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Solo Verletzungsreaktion Ip, Solo Website Impressum Datenschutz, Solo Wo Bin Ich Gerade, Solo Wochenreview, Solo Wohnadresse Geschaeftsadresse und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `solo-verletzungsreaktion-ip`
 

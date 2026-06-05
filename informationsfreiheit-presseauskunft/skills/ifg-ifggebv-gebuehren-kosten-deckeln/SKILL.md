@@ -7,11 +7,11 @@ description: "Ifg 047 Ifggebv Gebuehren Antrag Formulieren, Ifg 050 Ifggebv Gebu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-047-ifggebv-gebuehren-antrag-formulieren` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Antrag formulieren. Antrag formulieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-050-ifggebv-gebuehren-kosten-deckeln` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Kosten deckeln. Kosten deckeln für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 If
 
 ## Arbeitsweg
 
-Für **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-047-ifggebv-gebuehren-antrag-formulieren`
 

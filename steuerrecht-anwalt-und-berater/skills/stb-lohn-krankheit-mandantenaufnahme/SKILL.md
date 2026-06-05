@@ -7,11 +7,11 @@ description: "Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-lohn-krankheit-entgeltfortzahlung-efzg` | Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1. |
 | `stb-lohn-mandantenaufnahme-onboarding` | Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung Prüfungen Dokumente. Output Lohn-Mandantenakte Stammdaten startklar. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Man
 
 ## Arbeitsweg
 
-Für **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-lohn-krankheit-entgeltfortzahlung-efzg`
 

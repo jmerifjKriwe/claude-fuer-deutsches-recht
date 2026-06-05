@@ -7,28 +7,28 @@ description: "Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll, Beirat Sta
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll, Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll, Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `beirat-satzungsgrundlage` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Satzungsgrundlage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-sitzung-und-protokoll` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Sitzung Und Protokoll; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-startup-investor-director` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Startup Investor Director; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-satzungsgrundlage` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Satzungsgrundlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-sitzung-und-protokoll` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Sitzung Und Protokoll; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-startup-investor-director` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Startup Investor Director; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Streit Gesellschafter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Transaktionen M&A; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll, Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll, Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beirat-satzungsgrundlage`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Satzungsgrundlage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Satzungsgrundlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Satzungsgrundlage
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-sitzung-und-protokoll`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Sitzung Und Protokoll; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Sitzung Und Protokoll; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Sitzung Und Protokoll
 
@@ -160,7 +160,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-startup-investor-director`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Startup Investor Director; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Startup Investor Director; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Startup Investor Director
 
@@ -226,7 +226,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-streit-gesellschafter`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Streit Gesellschafter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Streit Gesellschafter
 
@@ -292,7 +292,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-transaktionen-ma`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Transaktionen M&A; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Transaktionen M&A
 

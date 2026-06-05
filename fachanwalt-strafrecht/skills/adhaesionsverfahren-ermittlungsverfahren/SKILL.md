@@ -7,11 +7,11 @@ description: "Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Er
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `fachanwalt-strafrecht-adhaesionsverfahren` | Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsver
 
 ## Arbeitsweg
 
-Für **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 

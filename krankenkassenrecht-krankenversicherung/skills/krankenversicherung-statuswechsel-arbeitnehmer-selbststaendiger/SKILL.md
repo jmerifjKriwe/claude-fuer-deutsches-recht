@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-statuswechsel-arbeitnehmer-selbststaendiger
-description: "Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student-rentn` | Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstatus – Fristen, Beitragsanpassungen, Kassenpflichten. |
 | `kv-004-beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung` | Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leistungsruhen, Schuldenbereinigung und Wiederherstellung des Versicherungsschutzes. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Statuswechsel Arbeitnehmer Selbststaendiger Student Rent
 
 ## Arbeitsweg
 
-Für **Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Statuswechsel Arbeitnehmer Selbststaendiger Student Rentn / Beitragsschuld Saeumniszuschlag Ruhen Leistung / Hilfsmittel Rollstuhl Hoergeraet Cpap Wirtschaftlichk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-003-statuswechsel-arbeitnehmer-selbststaendiger-student-rentn`
 

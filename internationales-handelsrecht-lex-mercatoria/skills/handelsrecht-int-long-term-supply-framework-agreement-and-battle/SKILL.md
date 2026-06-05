@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-long-term-supply-framework-agreement-and-battle
-description: "Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-048-long-term-supply-agreement` | Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen. |
 | `ihl-049-framework-agreement-and-call-offs` | Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Long Term Supply Agreement / Framework Agreement And Cal
 
 ## Arbeitsweg
 
-Für **Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Long Term Supply Agreement / Framework Agreement And Call Offs / Battle Of Forms International / Standard Terms Crossborder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-048-long-term-supply-agreement`
 

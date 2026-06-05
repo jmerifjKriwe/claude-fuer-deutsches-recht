@@ -7,11 +7,11 @@ description: "Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `soldatengesetz-rechtsstellung-grundpflichten` | Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `soldatenversorgungsgesetz-beschaedigtenversorgung` | Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenve
 
 ## Arbeitsweg
 
-Für **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `soldatengesetz-rechtsstellung-grundpflichten`
 

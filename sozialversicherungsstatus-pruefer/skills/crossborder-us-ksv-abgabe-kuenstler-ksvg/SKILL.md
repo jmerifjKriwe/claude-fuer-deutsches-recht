@@ -7,11 +7,11 @@ description: "Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `crossborder-us-freelancer` | Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers. |
 | `ksv-abgabe-auftraggeber` | Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuen
 
 ## Arbeitsweg
 
-Für **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `crossborder-us-freelancer`
 

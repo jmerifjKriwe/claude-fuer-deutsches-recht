@@ -7,11 +7,11 @@ description: "Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Hab
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bverfg-grenzen-richterlicher-rechtsfortbildung` | Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht. |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann). |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurst
 
 ## Arbeitsweg
 
-Für **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik, Eu Auslegung Autonom Mehrsprachig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bverfg-grenzen-richterlicher-rechtsfortbildung`
 
@@ -378,7 +378,7 @@ EU-Recht wird autonom und im Lichte aller Amtssprachen ausgelegt. Dieses Skill f
 1. Identifiziere den unionsrechtlichen Ursprung des strittigen Begriffs: Richtlinie, Verordnung, primäres Unionsrecht.
 2. Stelle fest, ob eine unionsautonome Begriffsbestimmung durch den EuGH bereits vorliegt.
 3. Prüfe alle verfügbaren Sprachfassungen auf Divergenzen — mindestens Deutsch, Englisch, Französisch und die des Mitgliedstaats, in dem der Rechtsstreit geführt wird.
-4. Wende die unionsrechtlichen Auslegungsregeln an: Wortlaut aller Fassungen, Systematik der Richtlinie oder Verordnung, Entstehungsgeschichte (Erwägungsgründe), Ziel und Zweck des Rechtsakts.
+4. Wende die unionsrechtlichen Auslegungsregeln an: Wortlaut aller Fassungen, Systematik der Richtlinie oder Verordnung, fachliche Einordnung (Erwägungsgründe), Ziel und Zweck des Rechtsakts.
 5. Prüfe, ob die nationale Umsetzung dem unionsautonomen Standard entspricht oder eine richtlinienkonforme Auslegung des nationalen Rechts notwendig ist.
 6. Erwäge Vorabentscheidungsersuchen nach Art. 267 AEUV, wenn die unionsrechtliche Auslegungsfrage nicht acte-clair oder acte-éclairé ist.
 

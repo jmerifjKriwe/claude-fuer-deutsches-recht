@@ -7,11 +7,11 @@ description: "Strong Arm 544, Structured Finance Securitization, Subchapter V Co
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strong-arm-544` | Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps. |
 | `structured-finance-securitization` | Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Strong Arm 544, Structured Finance Securitization, Subch
 
 ## Arbeitsweg
 
-Für **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strong-arm-544`
 

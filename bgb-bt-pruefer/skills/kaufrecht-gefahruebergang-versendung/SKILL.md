@@ -7,11 +7,11 @@ description: "Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nacherfuellung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nacherfuellung Rücktritt Minderung, Kaufrecht Rechtsmangel Paragraph 435** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nacherfuellung Rücktritt Minderung, Kaufrecht Rechtsmangel Paragraph 435** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf. |
 | `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nach
 
 ## Arbeitsweg
 
-Für **Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nacherfuellung Rücktritt Minderung, Kaufrecht Rechtsmangel Paragraph 435** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaufrecht Gefahruebergang Und Versendung, Kaufrecht Nacherfuellung Rücktritt Minderung, Kaufrecht Rechtsmangel Paragraph 435** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kaufrecht-gefahruebergang-und-versendung`
 

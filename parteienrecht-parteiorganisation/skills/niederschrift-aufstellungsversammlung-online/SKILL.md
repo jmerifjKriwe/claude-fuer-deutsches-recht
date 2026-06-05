@@ -7,11 +7,11 @@ description: "Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Or
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `niederschrift-aufstellungsversammlung` | Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen. |
 | `online-hybrid-parteitag` | Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Niederschrift Aufstellungsversammlung, Online Hybrid Par
 
 ## Arbeitsweg
 
-Für **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `niederschrift-aufstellungsversammlung`
 

@@ -7,11 +7,11 @@ description: "Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-bayvgh-verhandlung-vergleich-und-eskalation` | Bayvgh: Verhandlung, Vergleich und Eskalation im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bekanntmachung-beweislast-und-darlegungslast` | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmach
 
 ## Arbeitsweg
 
-Für **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-bayvgh-verhandlung-vergleich-und-eskalation`
 

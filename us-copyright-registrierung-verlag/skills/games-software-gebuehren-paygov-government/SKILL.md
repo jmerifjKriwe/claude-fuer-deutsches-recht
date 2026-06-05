@@ -7,11 +7,11 @@ description: "Games Software Av Assets, Gebuehren Paygov Deposit Account, Govern
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `games-software-av-assets` | Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. |
 | `gebuehren-paygov-deposit-account` | Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Games Software Av Assets, Gebühren Paygov Deposit Accou
 
 ## Arbeitsweg
 
-Für **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Games Software Av Assets, Gebühren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `games-software-av-assets`
 

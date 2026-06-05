@@ -7,11 +7,11 @@ description: "Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souvera
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `konfliktverteidigung-sitzung-ordnung` | Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `konfliktverteidigung-souveraen` | Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigu
 
 ## Arbeitsweg
 
-Für **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `konfliktverteidigung-sitzung-ordnung`
 

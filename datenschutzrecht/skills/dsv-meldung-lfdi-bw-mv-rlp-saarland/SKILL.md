@@ -7,11 +7,11 @@ description: "Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-meldung-lfdi-bremen` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BremDSGVOAG Bremisches Ausführungsgesetz zur DSGVO; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-lfdi-bw` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldun
 
 ## Arbeitsweg
 
-Für **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-meldung-lfdi-bremen`
 

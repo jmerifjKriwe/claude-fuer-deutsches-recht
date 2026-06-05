@@ -7,11 +7,11 @@ description: "Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststell
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `elterngeld-elterngeldstellen-beeg` | Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster. |
 | `em-rente-medizinische-feststellung` | Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische
 
 ## Arbeitsweg
 
-Für **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `elterngeld-elterngeldstellen-beeg`
 

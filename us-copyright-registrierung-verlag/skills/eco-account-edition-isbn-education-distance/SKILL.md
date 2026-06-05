@@ -7,11 +7,11 @@ description: "Eco Account Organisationskonto, Edition Isbn Title Variants, Educa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eco-account-organisationskonto` | eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. |
 | `edition-isbn-title-variants` | Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Eco Account Organisationskonto, Edition Isbn Title Varia
 
 ## Arbeitsweg
 
-Für **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eco-account-organisationskonto`
 

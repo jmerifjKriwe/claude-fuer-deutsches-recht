@@ -1,17 +1,17 @@
 ---
 name: ifg-lebensmittel-produkte-antrag-zustaend-kosten-schwaerz
-description: "Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-067-vig-lebensmittel-und-produkte-antrag-f` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Antrag formulieren. Antrag formulieren für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-068-vig-lebensmittel-und-produkte-zustaend` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Zuständigkeit prüfen. Zuständigkeit prüfen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Lebensmittel Produkte Antrag F / Lebensmittel Produkte Z
 
 ## Arbeitsweg
 
-Für **Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lebensmittel Produkte Antrag F / Lebensmittel Produkte Zustaend / Lebensmittel Produkte Kosten D / Lebensmittel Produkte Schwaerz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-067-vig-lebensmittel-und-produkte-antrag-f`
 

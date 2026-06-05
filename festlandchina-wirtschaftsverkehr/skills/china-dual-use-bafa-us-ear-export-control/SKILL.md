@@ -1,17 +1,17 @@
 ---
 name: china-dual-use-bafa-us-ear-export-control
-description: "Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-019-dual-use-bafa-check` | BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. |
 | `chn-020-us-ear-china-touchpoints` | US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dual Use Bafa Check / US Ear China Touchpoints / China E
 
 ## Arbeitsweg
 
-Für **Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dual Use Bafa Check / US Ear China Touchpoints / China Export Control Law Touchpoints / Rare Earths And Critical Raw** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-019-dual-use-bafa-check`
 

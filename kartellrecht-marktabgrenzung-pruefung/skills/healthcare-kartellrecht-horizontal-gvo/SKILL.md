@@ -7,11 +7,11 @@ description: "Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forsc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `healthcare-kartellrecht-kooperation-kliniken` | Healthcare Kartellrecht Kooperation Kliniken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `horizontal-gvo-forschung-und-entwicklung` | Horizontal-GVO Forschung und Entwicklung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Healthcare Kartellrecht Kooperation Kliniken, Horizontal
 
 ## Arbeitsweg
 
-Für **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `healthcare-kartellrecht-kooperation-kliniken`
 

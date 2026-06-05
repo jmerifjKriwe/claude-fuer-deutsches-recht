@@ -1,6 +1,6 @@
 ---
 name: rollout-monitoring-agb
-description: "Einstiegs- und Arbeitsmodul für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüffeld für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Rollout Monitoring AGB

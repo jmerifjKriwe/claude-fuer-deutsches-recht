@@ -7,11 +7,11 @@ description: "Datenschutz Kanzleibetrieb, Datev Finance Interface, Decision Log,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenschutz Kanzleibetrieb, Datev Finance Interface, Decision Log, Discount Governance** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenschutz Kanzleibetrieb, Datev Finance Interface, Decision Log, Discount Governance** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `datenschutz-kanzleibetrieb` | Prüft DMS, HR, Mandantenportale, KI-Tools, AVV und Löschung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `datev-finance-interface` | Bereitet Konten, Kostenstellen, Eingangs-/Ausgangsrechnungen und Klärfälle vor. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Datenschutz Kanzleibetrieb, Datev Finance Interface, Dec
 
 ## Arbeitsweg
 
-Für **Datenschutz Kanzleibetrieb, Datev Finance Interface, Decision Log, Discount Governance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenschutz Kanzleibetrieb, Datev Finance Interface, Decision Log, Discount Governance** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenschutz-kanzleibetrieb`
 

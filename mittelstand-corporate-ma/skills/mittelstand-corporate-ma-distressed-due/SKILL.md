@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corpora
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corporate Ma Distressed Ma, Mittelstand Corporate Ma Due Diligence Commercial Contracts, Mittelstand Corporate Ma Due Diligence Legal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corporate Ma Distressed Ma, Mittelstand Corporate Ma Due Diligence Commercial Contracts, Mittelstand Corporate Ma Due Diligence Legal** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-disclosure-schedules` | Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung. |
 | `mittelstand-corporate-ma-distressed-ma` | Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Disclosure Schedules, Mittelsta
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corporate Ma Distressed Ma, Mittelstand Corporate Ma Due Diligence Commercial Contracts, Mittelstand Corporate Ma Due Diligence Legal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corporate Ma Distressed Ma, Mittelstand Corporate Ma Due Diligence Commercial Contracts, Mittelstand Corporate Ma Due Diligence Legal** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-disclosure-schedules`
 

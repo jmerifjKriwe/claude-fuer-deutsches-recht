@@ -7,11 +7,11 @@ description: "Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel Arglist Irrtum Zwang, Pralr Spez Zinsobergrenze Und Wuchertatbestand, Pralr Spez Zivilprozess Im Alr Formstrenge, Pralr Spez Zwitterrecht Alr Ii 1 19 Bis 22** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel Arglist Irrtum Zwang, Pralr Spez Zinsobergrenze Und Wuchertatbestand, Pralr Spez Zivilprozess Im Alr Formstrenge, Pralr Spez Zwitterrecht Alr Ii 1 19 Bis 22** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-strafprozess-und-inquisition` | Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix. |
 | `pralr-spez-willensmaengel-arglist-irrtum-zwang` | Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Strafprozess Und Inquisition, Pralr Spez Will
 
 ## Arbeitsweg
 
-Für **Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel Arglist Irrtum Zwang, Pralr Spez Zinsobergrenze Und Wuchertatbestand, Pralr Spez Zivilprozess Im Alr Formstrenge, Pralr Spez Zwitterrecht Alr Ii 1 19 Bis 22** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel Arglist Irrtum Zwang, Pralr Spez Zinsobergrenze Und Wuchertatbestand, Pralr Spez Zivilprozess Im Alr Formstrenge, Pralr Spez Zwitterrecht Alr Ii 1 19 Bis 22** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-strafprozess-und-inquisition`
 

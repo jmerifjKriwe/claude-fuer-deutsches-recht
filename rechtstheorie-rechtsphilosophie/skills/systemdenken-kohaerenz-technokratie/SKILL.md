@@ -7,11 +7,11 @@ description: "Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellsc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `systemdenken-kohaerenz-widerspruch` | Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen. |
 | `technokratie-industriegesellschaft-und-grundrechte` | Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Systemdenken Kohaerenz Widerspruch, Technokratie Industr
 
 ## Arbeitsweg
 
-Für **Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `systemdenken-kohaerenz-widerspruch`
 

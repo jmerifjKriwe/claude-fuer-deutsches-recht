@@ -7,11 +7,11 @@ description: "Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt B
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachanwalt-bau-architektenrecht-abnahme-verweigerung` | Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt. |
 | `fachanwalt-bau-architektenrecht-bauablauf-vbg` | Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fa
 
 ## Arbeitsweg
 
-Für **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-abnahme-verweigerung`
 

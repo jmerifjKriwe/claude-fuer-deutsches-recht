@@ -7,11 +7,11 @@ description: "Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judika
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unbestimmte-rechtsbegriffe-pruefen` | Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen. |
 | `ungeschriebene-merkmale-judikatur` | Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich gepraegten Normen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkm
 
 ## Arbeitsweg
 
-Für **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unbestimmte-rechtsbegriffe-pruefen`
 
@@ -138,7 +138,7 @@ Die vier klassischen Auslegungsmethoden nach Savigny:
 |---|---|---|
 | Grammatisch | Was sagt der Wortlaut? | Wortsinn; Legaldefinitionen; Sprachgebrauch |
 | Systematisch | Wie fügt sich die Norm ins Gesetz ein? | Kontext, Überschriften, andere Normen |
-| Historisch | Was wollte der Gesetzgeber? | Gesetzgebungsmaterialien (BT-Drucksachen); Entstehungsgeschichte |
+| Historisch | Was wollte der Gesetzgeber? | Gesetzgebungsmaterialien (BT-Drucksachen); fachliche Einordnung |
 | Teleologisch | Welchem Zweck dient die Norm? | Normzweck; Wertungszusammenhang |
 
 Bei Widerspruch: Teleologische Auslegung hat grundsätzlich Vorrang, wenn der Wortlaut nicht eindeutig ist.

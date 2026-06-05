@@ -7,27 +7,27 @@ description: "Mandantenbrief, Mehrheit Minderheit Schnitt, Mehrheitsmacht Missbr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandantenbrief, Mehrheit Minderheit Schnitt, Mehrheitsmacht Missbrauch, Minderheitenschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandantenbrief, Mehrheit Minderheit Schnitt, Mehrheitsmacht Missbrauch, Minderheitenschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `mandantenbrief` | Gesellschaftsrechtliche Treuepflicht: Mandantenbrief; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `mehrheit-minderheit-schnitt` | Gesellschaftsrechtliche Treuepflicht: Mehrheit Minderheit Schnitt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `mehrheitsmacht-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `minderheitenschutz` | Gesellschaftsrechtliche Treuepflicht: Minderheitenschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mandantenbrief` | Gesellschaftsrechtliche Treuepflicht: Mandantenbrief; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mehrheit-minderheit-schnitt` | Gesellschaftsrechtliche Treuepflicht: Mehrheit Minderheit Schnitt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mehrheitsmacht-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `minderheitenschutz` | Gesellschaftsrechtliche Treuepflicht: Minderheitenschutz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Mandantenbrief, Mehrheit Minderheit Schnitt, Mehrheitsmacht Missbrauch, Minderheitenschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenbrief, Mehrheit Minderheit Schnitt, Mehrheitsmacht Missbrauch, Minderheitenschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandantenbrief`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mandantenbrief; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mandantenbrief; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mandantenbrief
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `mehrheit-minderheit-schnitt`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mehrheit Minderheit Schnitt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mehrheit Minderheit Schnitt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mehrheit Minderheit Schnitt
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `mehrheitsmacht-missbrauch`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mehrheitsmacht Missbrauch
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `minderheitenschutz`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Minderheitenschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Minderheitenschutz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Minderheitenschutz
 

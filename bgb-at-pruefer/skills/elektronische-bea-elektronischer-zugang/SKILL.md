@@ -7,32 +7,32 @@ description: "Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `elektronische-form-bea-qes-formfiktion` | Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `elektronische-form-bea-qes-formfiktion` | Prüffeld für elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `elektronischer-zugang-und-plattformen` | Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich. |
 | `erklaerungsbewusstsein-und-potentielles-bewusstsein` | Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung. |
 
 ## Arbeitsweg
 
-Für **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `elektronische-form-bea-qes-formfiktion`
 
-**Fokus:** Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Elektronische Form BeA QES Formfiktion
 
 ## Zweck
 
-Dieser Skill verbindet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er prüft, ob eine empfangsbedürftige Willenserklärung, die Schriftform oder elektronische Form verlangt, durch qES, beA-Einreichung, gerichtliche Zustellung oder die neue Formfiktion formwirksam zugegangen ist.
+Dieser Skill bearbeitet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er prüft, ob eine empfangsbedürftige Willenserklärung, die Schriftform oder elektronische Form verlangt, durch qES, beA-Einreichung, gerichtliche Zustellung oder die neue Formfiktion formwirksam zugegangen ist.
 
 ## Normanker
 

@@ -7,11 +7,11 @@ description: "Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `minderheitenrechte-partei` | Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung. |
 | `mitgliederdaten-dsgvo` | Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgli
 
 ## Arbeitsweg
 
-Für **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `minderheitenrechte-partei`
 

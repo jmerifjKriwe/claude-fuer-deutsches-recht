@@ -7,11 +7,11 @@ description: "Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-168-projektfoerderung-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Projektförderung: Sperre bewerten. Sperre bewerten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-169-projektfoerderung-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Projektförderung: Deckung finden. Deckung finden für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Proje
 
 ## Arbeitsweg
 
-Für **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-168-projektfoerderung-sperre-bewerten`
 

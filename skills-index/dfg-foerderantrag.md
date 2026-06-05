@@ -1,6 +1,6 @@
 # dfg-foerderantrag
 
-**70 Skills** · Stand `v210.0.0`
+**70 Skills** · Stand `v211.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/dfg-foerderantrag/README.md)

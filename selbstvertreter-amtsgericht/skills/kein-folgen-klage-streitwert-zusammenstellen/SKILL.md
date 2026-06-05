@@ -7,11 +7,11 @@ description: "Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Kl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kein-beweis-folgen-laienwarnung` | Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage. |
 | `klage-streitwert-angabe-3-zpo` | Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe
 
 ## Arbeitsweg
 
-Für **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kein-beweis-folgen-laienwarnung`
 

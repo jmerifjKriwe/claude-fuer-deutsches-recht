@@ -1,17 +1,17 @@
 ---
 name: wpk-ruege
-description: "Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-kammerantwort-u` | Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-organisationspf` | Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwor
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Wpk Ruege Berufsaufsicht Kammerantwort / Wirtschaftspruefer Wpk Ruege Berufsaufsicht Organisationspf / Zulassung Bestellung Register** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-kammerantwort-u`
 

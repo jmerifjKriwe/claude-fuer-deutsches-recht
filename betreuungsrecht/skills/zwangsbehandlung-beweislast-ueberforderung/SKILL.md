@@ -7,11 +7,11 @@ description: "Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Ver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Prüfung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Prüfung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-zwangsbehandlung-beweislast-und-darlegungslast` | Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `ueberforderung-verhinderung-und-abgabe` | Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachliche Schreiben an Gericht und Betreuungsverein. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Zwangsbehandlung Beweislast Und Darlegungslast, Ueberfor
 
 ## Arbeitsweg
 
-Für **Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Prüfung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-zwangsbehandlung-beweislast-und-darlegungslast`
 

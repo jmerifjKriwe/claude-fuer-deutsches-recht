@@ -7,11 +7,11 @@ description: "Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kanzlei-beweislast-und-darlegungslast` | Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Informationstechnologierecht Tatbestand Beweis, Kanzlei 
 
 ## Arbeitsweg
 
-Für **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-informationstechnologierecht-tatbestand-beweis`
 

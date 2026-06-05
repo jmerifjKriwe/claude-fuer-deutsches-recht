@@ -7,11 +7,11 @@ description: "Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-versicherungsbetrug-265-stgb` | Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung. |
 | `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb` | Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vore
 
 ## Arbeitsweg
 
-Für **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-versicherungsbetrug-265-stgb`
 

@@ -7,11 +7,11 @@ description: "Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agile-scrum-vertrag` | Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle. |
 | `audit-klauseln-lizenz` | Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lize
 
 ## Arbeitsweg
 
-Für **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agile-scrum-vertrag`
 

@@ -7,11 +7,11 @@ description: "Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und Quiritarisch, Rom 010 Traditio Und Uebereignung, Rom 011 Mancipatio Und In Iure Cessio, Rom 012 Usucapio Ersitzung und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und Quiritarisch, Rom 010 Traditio Und Uebereignung, Rom 011 Mancipatio Und In Iure Cessio, Rom 012 Usucapio Ersitzung und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-008-besitz-possessio-grundlagen` | Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium. |
 | `rom-009-eigentum-dominium-und-quiritarisch` | Römisches Recht: Eigentum - dominium ex iure Quiritium nach D. 41.1 und Gaius Inst. 2.40-79. Quiritisches vs. bonitarisches Eigentum, exceptio rei venditae et traditae, actio Publiciana. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Do
 
 ## Arbeitsweg
 
-Für **Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und Quiritarisch, Rom 010 Traditio Und Uebereignung, Rom 011 Mancipatio Und In Iure Cessio, Rom 012 Usucapio Ersitzung und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und Quiritarisch, Rom 010 Traditio Und Uebereignung, Rom 011 Mancipatio Und In Iure Cessio, Rom 012 Usucapio Ersitzung und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-008-besitz-possessio-grundlagen`
 
@@ -225,7 +225,7 @@ Die mancipatio ist der älteste förmliche Übereignungsakt des ius civile für 
 2. Nexum als Schuldknechtschaft: Abschaffung durch lex Poetelia Papiria 326 v.Chr.
 3. Mancipatio ficta: Nutzung für andere Zwecke (emancipatio, adoptio, testamentum)
 4. Abschaffung durch Justinian: vollständig oder Rudimente geblieben?
-5. Bedeutung für BGB-Entstehungsgeschichte und Abstraktionsprinzip
+5. Bedeutung für BGB-fachliche Einordnung und Abstraktionsprinzip
 
 ## Methodik
 

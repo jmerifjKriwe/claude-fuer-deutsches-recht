@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-baurecht-frist-strassenverkehr
-description: "Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-072-baurecht-frist-pruefen` | Ordnungswidrigkeitenrecht: Baurecht: Frist prüfen. Frist prüfen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-082-strassenverkehr-frist-pruefen` | Ordnungswidrigkeitenrecht: Straßenverkehr: Frist prüfen. Frist prüfen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist P
 
 ## Arbeitsweg
 
-Für **Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Baurecht Frist Pruefen / Owi Strassenverkehr Frist Pruefen / Owi Aussenwirtschaft Frist Pruefen / Owi Bussgeldbescheid Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-072-baurecht-frist-pruefen`
 

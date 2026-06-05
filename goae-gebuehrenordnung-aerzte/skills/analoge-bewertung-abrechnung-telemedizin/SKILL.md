@@ -7,11 +7,11 @@ description: "Analoge Bewertung Neue Verfahren Innovation, Abrechnung Telemedizi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Analoge Bewertung Neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde Goae, Abschnitt A Beratungen Und Untersuchungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Analoge Bewertung Neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde Goae, Abschnitt A Beratungen Und Untersuchungen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `analoge-bewertung-neue-verfahren-innovation` | Analoge Bewertung neue Verfahren Innovation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `abrechnung-telemedizin-videosprechstunde-goae` | Abrechnung Telemedizin Videosprechstunde GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Analoge Bewertung Neue Verfahren Innovation, Abrechnung 
 
 ## Arbeitsweg
 
-Für **Analoge Bewertung Neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde Goae, Abschnitt A Beratungen Und Untersuchungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Analoge Bewertung Neue Verfahren Innovation, Abrechnung Telemedizin Videosprechstunde Goae, Abschnitt A Beratungen Und Untersuchungen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `analoge-bewertung-neue-verfahren-innovation`
 

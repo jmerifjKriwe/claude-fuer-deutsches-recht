@@ -7,11 +7,11 @@ description: "Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsab
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-joint-controller-im-plattform-oekosystem` | Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-meta-datenminimierung-und-zweckbindung` | Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Rechtsabteilung Joint Controller Im Plattform Oekosystem
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-joint-controller-im-plattform-oekosystem`
 

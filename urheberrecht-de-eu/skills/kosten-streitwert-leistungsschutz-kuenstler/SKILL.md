@@ -7,11 +7,11 @@ description: "Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, Linking Em
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, Linking Embedding Framing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, Linking Embedding Framing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kosten-streitwert-rvg` | Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget. |
 | `leistungsschutz-kuenstler-label` | Prueft Rechte ausübender Künstler, Produzenten, Tonträgerhersteller, Sendeunternehmen und Bild-/Tonträgerrechte. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, 
 
 ## Arbeitsweg
 
-Für **Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, Linking Embedding Framing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kosten Streitwert Rvg, Leistungsschutz Kuenstler Label, Linking Embedding Framing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kosten-streitwert-rvg`
 

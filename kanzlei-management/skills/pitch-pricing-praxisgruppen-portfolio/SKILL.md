@@ -7,11 +7,11 @@ description: "Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategie, Process
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategie, Process Mining Kanzlei** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategie, Process Mining Kanzlei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pitch-pricing` | Verknüpft Pitch-Strategie mit Team, Budget, Alternativen und roten Linien. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `praxisgruppen-portfolio` | Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation und Nachfolge. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategi
 
 ## Arbeitsweg
 
-Für **Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategie, Process Mining Kanzlei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pitch Pricing, Praxisgruppen Portfolio, Pricing Strategie, Process Mining Kanzlei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pitch-pricing`
 

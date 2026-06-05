@@ -7,11 +7,11 @@ description: "Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spesen-reisekosten-policy` | Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `stammdaten-qualitaetscheck` | Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, W
 
 ## Arbeitsweg
 
-Für **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `startup-hr-personalabteilung-berlin` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spesen-reisekosten-policy`
 

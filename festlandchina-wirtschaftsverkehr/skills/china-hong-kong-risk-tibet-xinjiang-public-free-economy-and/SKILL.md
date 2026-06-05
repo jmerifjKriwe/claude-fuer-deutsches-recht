@@ -1,17 +1,17 @@
 ---
 name: china-hong-kong-risk-tibet-xinjiang-public-free-economy-and
-description: "Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-071-hong-kong-risk-scenario` | Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen. |
 | `chn-072-tibet-xinjiang-public-communications` | Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Hong Kong Risk Scenario / Tibet Xinjiang Public Communic
 
 ## Arbeitsweg
 
-Für **Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hong Kong Risk Scenario / Tibet Xinjiang Public Communications / Free Economy And Human Rights / Board Paper China Risk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-071-hong-kong-risk-scenario`
 

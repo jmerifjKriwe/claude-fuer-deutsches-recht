@@ -7,11 +7,11 @@ description: "Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 8
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mandantenbrief-verstaendlich-beamtenrecht` | Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste. |
 | `mehrarbeitsverguetung-88-bbg` | Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjaehrung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz fuer Verguetungsklage. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandantenbrief-verstaendlich-beamtenrecht`
 

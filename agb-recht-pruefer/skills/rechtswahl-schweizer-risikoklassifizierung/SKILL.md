@@ -7,24 +7,24 @@ description: "Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Am
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agb-rechtswahl-schweizer-recht-rom-i` | Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. |
-| `agb-risikoklassifizierung-ampel` | Einstiegs- und Arbeitsmodul für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `agb-risikoklassifizierung-ampel` | Einstiegs- und Prüffeld für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `agb-transparenzgebot-307-abs-1-satz-2` | AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln. Liefert Pruefraster. |
 | `agb-und-242-bgb-eingriffsnorm` | Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeutung der EuGH-Rechtsprechung zur Eingriffsnorm-Definition (Unamar Rs. C-184/12) und praktische Konsequenz fuer internationale Kanzleimandate. |
 | `agb-und-cookie-einwilligung-dsgvo` | AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformkontext. Behandelt EuGH-Linie Planet49 und Folgejudikate. Liefert Pruefraster und Bannerentwurf. |
 
 ## Arbeitsweg
 
-Für **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-rechtswahl-schweizer-recht-rom-i`
 
@@ -97,7 +97,7 @@ Für **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Ag
 
 ## 2. `agb-risikoklassifizierung-ampel`
 
-**Fokus:** Einstiegs- und Arbeitsmodul für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Prüffeld für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # AGB Risikoklassifizierung Ampel
 

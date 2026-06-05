@@ -7,11 +7,11 @@ description: "Social Media Berufsrecht Praevention, Social Media Berufsrecht Ver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Social Media Berufsrecht Praevention, Social Media Berufsrecht Verteidigung, Steuerberater 153 Ao Berichtigung Praevention, Steuerberater 153 Ao Berichtigung Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Social Media Berufsrecht Praevention, Social Media Berufsrecht Verteidigung, Steuerberater 153 Ao Berichtigung Praevention, Steuerberater 153 Ao Berichtigung Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `social-media-berufsrecht-praevention` | Social Media Berufsrecht (Präventions- und Organisationspaket): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `social-media-berufsrecht-verteidigung` | Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Social Media Berufsrecht Praevention, Social Media Beruf
 
 ## Arbeitsweg
 
-Für **Social Media Berufsrecht Praevention, Social Media Berufsrecht Verteidigung, Steuerberater 153 Ao Berichtigung Praevention, Steuerberater 153 Ao Berichtigung Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Social Media Berufsrecht Praevention, Social Media Berufsrecht Verteidigung, Steuerberater 153 Ao Berichtigung Praevention, Steuerberater 153 Ao Berichtigung Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `social-media-berufsrecht-praevention`
 

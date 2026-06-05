@@ -7,11 +7,11 @@ description: "Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Ers
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen` | Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen. |
 | `kv-057-erstattungsstreit-zwischen-leistungstraegern` | Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, 
 
 ## Arbeitsweg
 
-Für **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen`
 

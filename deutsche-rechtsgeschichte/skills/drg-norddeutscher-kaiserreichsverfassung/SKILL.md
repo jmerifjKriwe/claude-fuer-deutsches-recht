@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deut
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-neu-007-norddeutscher-bund-verfassung-1867` | Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre` | Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-neu-007-norddeutscher-bund-verfassung-1867`
 

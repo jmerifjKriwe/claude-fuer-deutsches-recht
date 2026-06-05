@@ -7,11 +7,11 @@ description: "Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringement Remedies 501 505, Injunction Impoundment 502 503** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringement Remedies 501 505, Injunction Impoundment 502 503** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ideas-facts-merger-scenes-faire` | Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act. |
 | `imports-exports-602-603` | Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ideas Facts Merger Scenes Faire, Imports Exports 602 603
 
 ## Arbeitsweg
 
-Für **Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringement Remedies 501 505, Injunction Impoundment 502 503** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringement Remedies 501 505, Injunction Impoundment 502 503** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ideas-facts-merger-scenes-faire`
 

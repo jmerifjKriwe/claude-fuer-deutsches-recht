@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-haustuergeschaeft-schlichtung-waehlen-klagepfad
-description: "Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-027-haustuergeschaeft-schlichtung-waehlen` | Verbraucherschutzrecht Prüfer: Haustürgeschäft: Schlichtung wählen. Schlichtung wählen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-028-haustuergeschaeft-klagepfad-skizzieren` | Verbraucherschutzrecht Prüfer: Haustürgeschäft: Klagepfad skizzieren. Klagepfad skizzieren für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaef
 
 ## Arbeitsweg
 
-Für **Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haustuergeschaeft Schlichtung Waehlen / Haustuergeschaeft Klagepfad Skizzieren / Haustuergeschaeft Vergleich Vorschlage / Haustuergeschaeft Behoerdenmeldung Pru** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-027-haustuergeschaeft-schlichtung-waehlen`
 

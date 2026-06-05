@@ -7,27 +7,27 @@ description: "Datenraum Nda Checkliste, Datenschutz Dsgvo Und Auftragsverarbeitu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenraum Nda Checkliste, Datenschutz Dsgvo Und Auftragsverarbeitung, Deutsches Englisches Bilinguales Nda, Dokumentenmatrix Und Anlagen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenraum Nda Checkliste, Datenschutz Dsgvo Und Auftragsverarbeitung, Deutsches Englisches Bilinguales Nda, Dokumentenmatrix Und Anlagen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `datenraum-nda-checkliste` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenraum NDA Checkliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `datenschutz-dsgvo-und-auftragsverarbeitung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenschutz DSGVO Und Auftragsverarbeitung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `deutsches-englisches-bilinguales-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Deutsches Englisches Bilinguales NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `dokumentenmatrix-und-anlagen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Dokumentenmatrix Und Anlagen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `datenraum-nda-checkliste` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenraum NDA Checkliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `datenschutz-dsgvo-und-auftragsverarbeitung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenschutz DSGVO Und Auftragsverarbeitung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `deutsches-englisches-bilinguales-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Deutsches Englisches Bilinguales NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `dokumentenmatrix-und-anlagen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Dokumentenmatrix Und Anlagen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Datenraum Nda Checkliste, Datenschutz Dsgvo Und Auftragsverarbeitung, Deutsches Englisches Bilinguales Nda, Dokumentenmatrix Und Anlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenraum Nda Checkliste, Datenschutz Dsgvo Und Auftragsverarbeitung, Deutsches Englisches Bilinguales Nda, Dokumentenmatrix Und Anlagen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenraum-nda-checkliste`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenraum NDA Checkliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenraum NDA Checkliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Datenraum NDA Checkliste
 
@@ -87,7 +87,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `datenschutz-dsgvo-und-auftragsverarbeitung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenschutz DSGVO Und Auftragsverarbeitung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenschutz DSGVO Und Auftragsverarbeitung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Datenschutz DSGVO Und Auftragsverarbeitung
 
@@ -147,7 +147,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `deutsches-englisches-bilinguales-nda`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Deutsches Englisches Bilinguales NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Deutsches Englisches Bilinguales NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Deutsches Englisches Bilinguales NDA
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dokumentenmatrix-und-anlagen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Dokumentenmatrix Und Anlagen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Dokumentenmatrix Und Anlagen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dokumentenmatrix Und Anlagen
 

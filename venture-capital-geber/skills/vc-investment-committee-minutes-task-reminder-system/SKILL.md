@@ -1,17 +1,17 @@
 ---
 name: vc-investment-committee-minutes-task-reminder-system
-description: "Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-079-investment-committee-minutes` | Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat. |
 | `vc-080-task-reminder-system` | Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Investment Committee Minutes / Task Reminder System / Re
 
 ## Arbeitsweg
 
-Für **Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Investment Committee Minutes / Task Reminder System / Relationship Map / Founder Reference Calls** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-079-investment-committee-minutes`
 

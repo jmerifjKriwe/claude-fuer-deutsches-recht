@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-lager-zolllager-transportversicherung
-description: "Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-027-lager-und-zolllager` | Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen. |
 | `ihl-028-transportversicherung` | Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Lager Zolllager / Transportversicherung / Warentransit G
 
 ## Arbeitsweg
 
-Für **Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lager Zolllager / Transportversicherung / Warentransit Gefahruebergang / Zolltarif Ursprung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-027-lager-und-zolllager`
 

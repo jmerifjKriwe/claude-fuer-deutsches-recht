@@ -7,21 +7,21 @@ description: "Finanzierung Erbbaurecht Bankfaehigkeit, Gemeinde Kirche Stiftung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Finanzierung Erbbaurecht Bankfaehigkeit, Gemeinde Kirche Stiftung Als Eigentuemer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Finanzierung Erbbaurecht Bankfaehigkeit, Gemeinde Kirche Stiftung Als Eigentuemer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `finanzierung-erbbaurecht-bankfaehigkeit` | Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen. |
 | `gemeinde-kirche-stiftung-als-eigentuemer` | Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis. |
 
 ## Arbeitsweg
 
-Für **Finanzierung Erbbaurecht Bankfaehigkeit, Gemeinde Kirche Stiftung Als Eigentuemer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Finanzierung Erbbaurecht Bankfaehigkeit, Gemeinde Kirche Stiftung Als Eigentuemer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `finanzierung-erbbaurecht-bankfaehigkeit`
 

@@ -7,11 +7,11 @@ description: "Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, .
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Rechtsberatungsstelle-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin rechtsberatungsstelle: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Allgemein, Anschluss Skills Router, Chronologie Und Bele
 
 ## Arbeitsweg
 
-Für **Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `allgemein`
 
@@ -260,7 +260,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Arbeitsmodul leitet Rechtsuchende einer niedrigschwelligen Beratungsstelle in den passenden Folgeschritt: Beratungshilfeschein-Antrag, PKH-Vorbereitung, Mietverein, Sozialverband, Verbraucherzentrale, Schuldnerberatung, Frauenberatungsstelle, Schwerbehindertenberatung oder Verweisung an Anwalt.
+Dieser Prüffeld leitet Rechtsuchende einer niedrigschwelligen Beratungsstelle in den passenden Folgeschritt: Beratungshilfeschein-Antrag, PKH-Vorbereitung, Mietverein, Sozialverband, Verbraucherzentrale, Schuldnerberatung, Frauenberatungsstelle, Schwerbehindertenberatung oder Verweisung an Anwalt.
 
 ## Routing-Heuristik
 - **Eilige Frist:** sofortige Triage; bei kurzem Zeitfenster -> Anwalt mit PKH-Antrag.

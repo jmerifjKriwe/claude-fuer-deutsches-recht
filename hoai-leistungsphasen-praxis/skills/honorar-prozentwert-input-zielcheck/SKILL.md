@@ -1,17 +1,17 @@
 ---
 name: honorar-prozentwert-input-zielcheck
-description: "Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-01-honorar-und-prozentwert` | HOAI LPH 1 Grundlagenermittlung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
 | `hoai-lph-01-input-und-zielcheck` | HOAI LPH 1 Grundlagenermittlung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai K
 
 ## Arbeitsweg
 
-Für **Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Honorar Prozentwert / Hoai Input Zielcheck / Hoai Kommunikation Baustelle Behoerde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-01-honorar-und-prozentwert`
 

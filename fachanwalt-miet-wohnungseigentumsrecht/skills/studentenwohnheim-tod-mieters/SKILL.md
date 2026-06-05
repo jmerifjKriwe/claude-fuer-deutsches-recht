@@ -7,11 +7,11 @@ description: "Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung K
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-studentenwohnheim` | Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-tod-des-mieters` | Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Um
 
 ## Arbeitsweg
 
-Für **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-studentenwohnheim`
 

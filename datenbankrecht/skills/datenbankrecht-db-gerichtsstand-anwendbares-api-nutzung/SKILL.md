@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-gerichtsstand-anwendbares-api-nutzung
-description: "Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-048-gerichtsstand-und-anwendbares-recht` | Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken. |
 | `db-007-api-nutzung-rate-limits-und-vertragsbruch` | Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate
 
 ## Arbeitsweg
 
-Für **Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Gerichtsstand Anwendbares Recht / Db Api Nutzung Rate Limits / Db Datenbanklizenz Entwurf Nutzungsumfang Audit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-048-gerichtsstand-und-anwendbares-recht`
 

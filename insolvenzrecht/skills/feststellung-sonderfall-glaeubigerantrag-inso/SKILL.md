@@ -7,11 +7,11 @@ description: "Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-feststellung-sonderfall-und-edge-case` | Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` | Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag 
 
 ## Arbeitsweg
 
-Für **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-feststellung-sonderfall-und-edge-case`
 

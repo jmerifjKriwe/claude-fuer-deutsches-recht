@@ -7,11 +7,11 @@ description: "Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtlicher Richter 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtlicher Richter Vg Orientierung, Ehrenamtlicher Richter Vg Sitzung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtlicher Richter Vg Orientierung, Ehrenamtlicher Richter Vg Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ehrenamtlicher-richter-verwaltungsgericht` | Ehrenamtlicher Richter am Verwaltungsgericht: erklärt Rolle in Tatsachen- und Rechtsfragen, Aktenstudium und Beratung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `ehrenamtlicher-richter-vg-orientierung` | Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtliche
 
 ## Arbeitsweg
 
-Für **Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtlicher Richter Vg Orientierung, Ehrenamtlicher Richter Vg Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ehrenamtlicher Richter Verwaltungsgericht, Ehrenamtlicher Richter Vg Orientierung, Ehrenamtlicher Richter Vg Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ehrenamtlicher-richter-verwaltungsgericht`
 

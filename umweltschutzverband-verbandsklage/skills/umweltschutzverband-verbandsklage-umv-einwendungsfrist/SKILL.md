@@ -1,17 +1,17 @@
 ---
 name: umweltschutzverband-verbandsklage-umv-einwendungsfrist
-description: "Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-007-einwendungsfrist-und-praeklusion` | Umweltschutzverband Verbandsklage: Einwendungsfrist und Präklusion. Einwendungsfrist und Präklusion im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-025-windpark-klagefrist-sichern` | Umweltschutzverband Verbandsklage: Windpark: Klagefrist sichern. Klagefrist sichern für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefri
 
 ## Arbeitsweg
 
-Für **Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv Einwendungsfrist Praeklusion / Umv Windpark Klagefrist Sichern / Umv Strassenbau Klagefrist Sichern / Umv Bebauungsplan Klagefrist Sichern** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-007-einwendungsfrist-und-praeklusion`
 

@@ -7,27 +7,27 @@ description: "Kartellrecht Clean Team, Kein Dealzwang No Obligation, Kein Lizenz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kartellrecht Clean Team, Kein Dealzwang No Obligation, Kein Lizenz Und Ip Vorbehalt, Ki Tools Und Confidentiality** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kartellrecht Clean Team, Kein Dealzwang No Obligation, Kein Lizenz Und Ip Vorbehalt, Ki Tools Und Confidentiality** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `kartellrecht-clean-team` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kartellrecht Clean Team; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `kein-dealzwang-no-obligation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Dealzwang No Obligation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `kein-lizenz-und-ip-vorbehalt` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Lizenz Und IP Vorbehalt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ki-tools-und-confidentiality` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: KI Tools Und Confidentiality; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kartellrecht-clean-team` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kartellrecht Clean Team; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kein-dealzwang-no-obligation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Dealzwang No Obligation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kein-lizenz-und-ip-vorbehalt` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Lizenz Und IP Vorbehalt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ki-tools-und-confidentiality` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: KI Tools Und Confidentiality; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Kartellrecht Clean Team, Kein Dealzwang No Obligation, Kein Lizenz Und Ip Vorbehalt, Ki Tools Und Confidentiality** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kartellrecht Clean Team, Kein Dealzwang No Obligation, Kein Lizenz Und Ip Vorbehalt, Ki Tools Und Confidentiality** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kartellrecht-clean-team`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kartellrecht Clean Team; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kartellrecht Clean Team; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kartellrecht Clean Team
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `kein-dealzwang-no-obligation`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Dealzwang No Obligation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Dealzwang No Obligation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kein Dealzwang No Obligation
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `kein-lizenz-und-ip-vorbehalt`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Lizenz Und IP Vorbehalt; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Lizenz Und IP Vorbehalt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kein Lizenz Und IP Vorbehalt
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `ki-tools-und-confidentiality`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: KI Tools Und Confidentiality; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: KI Tools Und Confidentiality; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # KI Tools Und Confidentiality
 

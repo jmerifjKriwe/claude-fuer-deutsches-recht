@@ -7,11 +7,11 @@ description: "Koalitions Und Listenverbindung, Kommunalmandat Und Ehrenamt, Komm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Koalitions Und Listenverbindung, Kommunalmandat Und Ehrenamt, Kommunalwahl Livecheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Koalitions Und Listenverbindung, Kommunalmandat Und Ehrenamt, Kommunalwahl Livecheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `koalitions-und-listenverbindung` | Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung. |
 | `kommunalmandat-und-ehrenamt` | Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Koalitions Und Listenverbindung, Kommunalmandat Und Ehre
 
 ## Arbeitsweg
 
-Für **Koalitions Und Listenverbindung, Kommunalmandat Und Ehrenamt, Kommunalwahl Livecheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Koalitions Und Listenverbindung, Kommunalmandat Und Ehrenamt, Kommunalwahl Livecheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `koalitions-und-listenverbindung`
 

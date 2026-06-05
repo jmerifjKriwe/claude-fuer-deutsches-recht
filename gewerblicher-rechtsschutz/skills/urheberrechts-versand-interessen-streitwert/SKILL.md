@@ -7,11 +7,11 @@ description: "Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-urheberrechts-zahlen-schwellen-und-berechnung` | Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung. |
 | `spezial-versand-mehrparteien-konflikt-und-interessen` | Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Urheberrechts Zahlen Schwellen Und Berechnung, Versand M
 
 ## Arbeitsweg
 
-Für **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-urheberrechts-zahlen-schwellen-und-berechnung`
 

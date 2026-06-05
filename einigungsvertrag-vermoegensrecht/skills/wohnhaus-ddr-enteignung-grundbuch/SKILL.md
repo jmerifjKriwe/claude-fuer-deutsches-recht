@@ -7,11 +7,11 @@ description: "Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-094-wohnhaus-ddr-enteignung-berechtigte-er` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Berechtigte ermitteln. Berechtigte ermitteln für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-096-wohnhaus-ddr-enteignung-grundbuch-ausw` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Grundbuch auswerten. Grundbuch auswerten für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 
 
 ## Arbeitsweg
 
-Für **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-094-wohnhaus-ddr-enteignung-berechtigte-er`
 

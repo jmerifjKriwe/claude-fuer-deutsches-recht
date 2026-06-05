@@ -7,11 +7,11 @@ description: "Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Doku
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-nebenfolgen-verhandlung-vergleich-und-eskalation` | Nebenfolgen: Verhandlung, Vergleich und Eskalation im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafb
 
 ## Arbeitsweg
 
-Für **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-nebenfolgen-verhandlung-vergleich-und-eskalation`
 

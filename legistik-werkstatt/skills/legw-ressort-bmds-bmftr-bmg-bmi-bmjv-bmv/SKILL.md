@@ -7,11 +7,11 @@ description: "Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ress
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-ressort-bmds` | Heranfuehrung Ressort BMDS (Bundesministerium fuer Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug. |
 | `legw-ressort-bmftr` | Heranfuehrung Ressort BMFTR (Bundesministerium fuer Forschung; Technologie und Raumfahrt). Schwerpunkt: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie. Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU). Fuenf Spezialfelder: hochschul-und-wissenschaftsrecht; raumfahrt-und-weltraumrecht-wrgg; forschungsfoerderung-und-ressortforschung; kuenstliche-intelligenz-und-technikregulierung; biotechnologie-und-laborsicherheit. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmftr und legw-bmftr-Themenslug. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg,
 
 ## Arbeitsweg
 
-Für **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-ressort-bmds`
 

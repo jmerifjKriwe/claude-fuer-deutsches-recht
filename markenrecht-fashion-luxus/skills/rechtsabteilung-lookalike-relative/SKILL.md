@@ -7,11 +7,11 @@ description: "Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Sch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Fachmodul für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `relative-schutzhindernisse-verwechslungsgefahr` | Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Re
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-lookalike-produkte-und-rufausbeutung`
 

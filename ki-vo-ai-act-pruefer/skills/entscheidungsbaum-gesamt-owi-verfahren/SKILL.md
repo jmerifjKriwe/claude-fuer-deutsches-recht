@@ -7,11 +7,11 @@ description: "Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Inte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Internal Investigation, Zeitlicher Geltungsbereich Uebergangsfristen, Provider Deployer Vertragsmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Internal Investigation, Zeitlicher Geltungsbereich Uebergangsfristen, Provider Deployer Vertragsmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `entscheidungsbaum-ki-vo-gesamt-workflow` | Master-fuer die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills. |
 | `ai-act-owi-verfahren-internal-investigation` | KI-VO-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verf
 
 ## Arbeitsweg
 
-Für **Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Internal Investigation, Zeitlicher Geltungsbereich Uebergangsfristen, Provider Deployer Vertragsmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Internal Investigation, Zeitlicher Geltungsbereich Uebergangsfristen, Provider Deployer Vertragsmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `entscheidungsbaum-ki-vo-gesamt-workflow`
 

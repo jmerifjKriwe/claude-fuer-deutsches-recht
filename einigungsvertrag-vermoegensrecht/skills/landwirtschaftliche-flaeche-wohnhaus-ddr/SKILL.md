@@ -7,11 +7,11 @@ description: "Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Dd
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-090-landwirtschaftliche-flaeche-vergleich` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Vergleich bewerten. Vergleich bewerten für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-091-wohnhaus-ddr-enteignung-anspruchspfad` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen. Anspruchspfad prüfen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 W
 
 ## Arbeitsweg
 
-Für **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-090-landwirtschaftliche-flaeche-vergleich`
 

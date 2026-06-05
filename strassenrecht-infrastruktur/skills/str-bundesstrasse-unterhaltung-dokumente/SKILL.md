@@ -7,11 +7,11 @@ description: "Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-038-bundesstrasse-unterhaltung-ruegen` | Straßenrecht und Infrastruktur: Bundesstraße: Unterhaltung rügen. Unterhaltung rügen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-039-bundesstrasse-dokumente-sortieren` | Straßenrecht und Infrastruktur: Bundesstraße: Dokumente sortieren. Dokumente sortieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bunde
 
 ## Arbeitsweg
 
-Für **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-038-bundesstrasse-unterhaltung-ruegen`
 

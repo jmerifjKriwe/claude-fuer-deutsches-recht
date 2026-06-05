@@ -1,17 +1,17 @@
 ---
 name: datenschutz-sanktion-unternehmensgruppe-federfuehrende
-description: "Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 weitere Module
+# Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht` | Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen` | Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sa
 
 ## Arbeitsweg
 
-Für **Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sanktion Unternehmensgruppe Federfuehrende Aufsicht / Sanktion Veroeffentlichung Von Bussgeldentscheidungen / Sanktion Verteidigerrolle Dsb Gf Externe / Schadensersatz Art / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht`
 

@@ -7,11 +7,11 @@ description: "Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vergleich-koexistenz-abgrenzungsvereinbarung` | Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken. |
 | `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Prüfraster: Verbotene Mindestpreise, zulässige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale 
 
 ## Arbeitsweg
 
-Für **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vergleich-koexistenz-abgrenzungsvereinbarung`
 

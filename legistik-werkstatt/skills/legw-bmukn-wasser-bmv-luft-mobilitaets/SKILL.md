@@ -7,11 +7,11 @@ description: "Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmukn-wasser-und-bodenschutzrecht` | Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Laender-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung). |
 | `legw-bmv-luft-und-luftverkehrsrecht` | Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Un
 
 ## Arbeitsweg
 
-Für **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmukn-wasser-und-bodenschutzrecht`
 

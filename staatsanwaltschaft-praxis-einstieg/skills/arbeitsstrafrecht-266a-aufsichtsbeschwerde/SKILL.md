@@ -7,11 +7,11 @@ description: "Arbeitsstrafrecht 266a Und Mindestlohn, Aufsichtsbeschwerde Und Di
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `arbeitsstrafrecht-266a-und-mindestlohn` | Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `aufsichtsbeschwerde-und-dienstweg` | Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwe
 
 ## Arbeitsweg
 
-Für **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arbeitsstrafrecht-266a-und-mindestlohn`
 

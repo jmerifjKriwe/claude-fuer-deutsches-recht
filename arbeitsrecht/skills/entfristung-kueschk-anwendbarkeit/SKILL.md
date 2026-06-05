@@ -7,11 +7,11 @@ description: "Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung El
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit. |
 | `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entf
 
 ## Arbeitsweg
 
-Für **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kueschk-anwendbarkeit-kschg-pruefen`
 

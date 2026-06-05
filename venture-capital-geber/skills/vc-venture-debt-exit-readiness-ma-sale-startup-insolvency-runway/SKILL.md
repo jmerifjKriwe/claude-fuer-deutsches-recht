@@ -1,17 +1,17 @@
 ---
 name: vc-venture-debt-exit-readiness-ma-sale-startup-insolvency-runway
-description: "Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-061-venture-debt` | Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen. |
 | `vc-063-exit-readiness` | Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Venture Debt / Exit Readiness / Ma Sale Startup / Insolv
 
 ## Arbeitsweg
 
-Für **Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Venture Debt / Exit Readiness / Ma Sale Startup / Insolvency Runway Crisis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-061-venture-debt`
 

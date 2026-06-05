@@ -7,11 +7,11 @@ description: "Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutio
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark, Bho 183 Institutionelle Foerderung Brh Frage F und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark, Bho 183 Institutionelle Foerderung Brh Frage F und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-179-institutionelle-foerderung-deckung-fin` | Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Deckung finden. Deckung finden für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-180-institutionelle-foerderung-szenario-re` | Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Szenario rechnen. Szenario rechnen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 
 
 ## Arbeitsweg
 
-Für **Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark, Bho 183 Institutionelle Foerderung Brh Frage F und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark, Bho 183 Institutionelle Foerderung Brh Frage F und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-179-institutionelle-foerderung-deckung-fin`
 

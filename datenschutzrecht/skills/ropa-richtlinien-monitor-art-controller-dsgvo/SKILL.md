@@ -7,11 +7,11 @@ description: "Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung. |
 | `ropa-art-30-controller-deutsch-vorlage` | Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel fuer Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage fuer Kanzleien und Unternehmen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorl
 
 ## Arbeitsweg
 
-Für **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `richtlinien-monitor`
 

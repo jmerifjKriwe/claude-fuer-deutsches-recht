@@ -7,11 +7,11 @@ description: "Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsulta
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsfa-restrisiko-und-art-36-konsultation` | Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist. |
 | `dsfa-stakeholder-konsultation-art-35-9` | Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholde
 
 ## Arbeitsweg
 
-Für **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsfa Restrisiko Und Art 36 Konsultation, Dsfa Stakeholder Konsultation Art 35 9, Dsfa Template Deutsch Vollvorlage, Dsfa Typische Fehler Bei Erstpruefung, Dsfa Update Bei Aenderungen Und Revision** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsfa-restrisiko-und-art-36-konsultation`
 

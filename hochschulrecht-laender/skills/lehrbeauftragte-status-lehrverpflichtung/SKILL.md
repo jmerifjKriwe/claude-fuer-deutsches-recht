@@ -7,11 +7,11 @@ description: "Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lehrbeauftragte-und-status` | Prüft Lehrbeauftragte, Honorar und Status. |
 | `lehrverpflichtung-deputat` | Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, N
 
 ## Arbeitsweg
 
-Für **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lehrbeauftragte Und Status, Lehrverpflichtung Deputat, Nebentaetigkeit Professoren, Open Access Hochschule** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lehrbeauftragte-und-status`
 

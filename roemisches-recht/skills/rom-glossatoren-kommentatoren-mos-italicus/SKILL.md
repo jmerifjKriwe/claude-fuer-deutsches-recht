@@ -7,11 +7,11 @@ description: "Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mos Gallicus, Rom 068 Usus Modernus, Rom 069 Pandektenwissenschaft, Rom 070 Rezeption In Deutschland und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mos Gallicus, Rom 068 Usus Modernus, Rom 069 Pandektenwissenschaft, Rom 070 Rezeption In Deutschland und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-066-glossatoren-und-kommentatoren` | Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik. |
 | `rom-067-mos-italicus-und-mos-gallicus` | Römisches Recht: Mos italicus (Kommentatoren-Methode) vs. mos gallicus (humanistisch-historische Methode, Budé, Cujas, Alciato) im 16. Jh. - Methodenstreit, elegante Jurisprudenz und Einfluss auf Textkritik. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Itali
 
 ## Arbeitsweg
 
-Für **Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mos Gallicus, Rom 068 Usus Modernus, Rom 069 Pandektenwissenschaft, Rom 070 Rezeption In Deutschland und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mos Gallicus, Rom 068 Usus Modernus, Rom 069 Pandektenwissenschaft, Rom 070 Rezeption In Deutschland und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-066-glossatoren-und-kommentatoren`
 
@@ -335,7 +335,7 @@ Das BGB von 1900 ist durch und durch von der römischrechtlichen Pandektistik ge
 ## Methodik
 
 - Parallel-Lektüre: BGB-Text (gesetze-im-internet.de) und Digestentexte
-- Motive zum BGB (Mugdan, 1899) für Entstehungsgeschichte
+- Motive zum BGB (Mugdan, 1899) für fachliche Einordnung
 - Windscheid Pandekten als Transmissionsriemen
 - Kaser RP I mit Verweisen auf BGB
 

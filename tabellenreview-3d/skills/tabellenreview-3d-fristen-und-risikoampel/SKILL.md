@@ -6,7 +6,7 @@ description: "Fristen- und Risikoampel: prüft Normen, Belege, Risiken, Gegenarg
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Arbeitsmodul markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
+Dieser Prüffeld markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
 
 ## Tabellen-Risikoampel
 - **Rot:** Summen-Diskrepanz zwischen Footer und Detailzeilen; doppelte Buchung; Falsch-Rundungen über mehrere Stellen.

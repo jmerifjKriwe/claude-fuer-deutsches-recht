@@ -7,11 +7,11 @@ description: "Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-033-datenschutz-telematik-im-fahrzeugleasing` | Datenschutz und Telematik im Fahrzeugleasing: DSGVO, Verarbeitungszwecke, Beschäftigtendatenschutz § 26 BDSG, Nutzungsprofile und Betriebsvereinbarung. |
 | `lease-034-esg-leasing-taxonomie-und-green-lease` | ESG und Green Lease: EU-Taxonomie, SFDR, Nachhaltigkeitsklauseln, CO2-Reporting, Green-Finance-Strukturen und ESG-Anforderungen für Leasingportfolios. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Leas
 
 ## Arbeitsweg
 
-Für **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-033-datenschutz-telematik-im-fahrzeugleasing`
 

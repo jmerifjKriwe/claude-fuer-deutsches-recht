@@ -7,11 +7,11 @@ description: "Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheidungsprogno
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheidungsprognose, Rechtssicherheit Vertrauen Rueckwirkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheidungsprognose, Rechtssicherheit Vertrauen Rueckwirkung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsbegriff-und-geltung` | Prueft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law. |
 | `rechtsrealismus-und-entscheidungsprognose` | Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das fuer Beratung, Prozessstrategie und Begründung? |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheid
 
 ## Arbeitsweg
 
-Für **Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheidungsprognose, Rechtssicherheit Vertrauen Rueckwirkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsbegriff Und Geltung, Rechtsrealismus Und Entscheidungsprognose, Rechtssicherheit Vertrauen Rueckwirkung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtstheorie-rechtsphilosophie` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsbegriff-und-geltung`
 

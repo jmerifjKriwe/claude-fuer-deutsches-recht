@@ -7,11 +7,11 @@ description: "Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-nichtigkeitsklage-mandatswechsel-kammerantwort-u` | Patentanwälte: nichtigkeitsklage mandatswechsel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-nichtigkeitsklage-mandatswechsel-organisationspf` | Patentanwälte: nichtigkeitsklage mandatswechsel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammeran
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-nichtigkeitsklage-mandatswechsel-kammerantwort-u`
 

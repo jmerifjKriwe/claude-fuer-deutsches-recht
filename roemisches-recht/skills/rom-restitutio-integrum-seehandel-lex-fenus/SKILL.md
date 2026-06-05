@@ -7,11 +7,11 @@ description: "Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 12
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz` | Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix. |
 | `rom-122-seehandel-lex-rhodia-de-iactu` | Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und Pruefraster. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschu
 
 ## Arbeitsweg
 
-Für **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz`
 

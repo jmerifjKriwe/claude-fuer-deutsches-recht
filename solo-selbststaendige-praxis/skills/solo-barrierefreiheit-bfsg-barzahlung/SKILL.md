@@ -7,11 +7,11 @@ description: "Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, Solo Behoerdenbrief Verstehen, Solo Beleganforderung, Solo Beratungsgrenze Keine Rechtsberatung und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, Solo Behoerdenbrief Verstehen, Solo Beleganforderung, Solo Beratungsgrenze Keine Rechtsberatung und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `solo-barrierefreiheit-und-bfsg` | Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-barzahlung-und-kassenrisiko` | Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kass
 
 ## Arbeitsweg
 
-Für **Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, Solo Behoerdenbrief Verstehen, Solo Beleganforderung, Solo Beratungsgrenze Keine Rechtsberatung und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, Solo Behoerdenbrief Verstehen, Solo Beleganforderung, Solo Beratungsgrenze Keine Rechtsberatung und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `solo-barrierefreiheit-und-bfsg`
 

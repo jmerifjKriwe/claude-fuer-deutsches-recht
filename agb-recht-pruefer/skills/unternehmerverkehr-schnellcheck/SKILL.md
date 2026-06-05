@@ -1,6 +1,6 @@
 ---
 name: unternehmerverkehr-schnellcheck
-description: "Einstiegs- und Arbeitsmodul für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüffeld für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Unternehmerverkehr Schnellcheck

@@ -7,11 +7,11 @@ description: "Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-zulassungsfragen-und-kanzleisitz-organisationspf` | Patentanwälte: zulassungsfragen und kanzleisitz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `protokoll-und-nachbereitung` | Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisa
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-zulassungsfragen-und-kanzleisitz-organisationspf`
 

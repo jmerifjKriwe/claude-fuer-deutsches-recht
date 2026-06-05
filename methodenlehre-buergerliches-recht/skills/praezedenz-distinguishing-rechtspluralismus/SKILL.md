@@ -7,11 +7,11 @@ description: "Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Un
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Und Mehrebenen System, Rechtsvergleichung Methodisch Sauber, Richterliche Zurueckhaltung Und Rechtsfortbildung, Richterrecht Offenlegen Statt Tarnen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Und Mehrebenen System, Rechtsvergleichung Methodisch Sauber, Richterliche Zurueckhaltung Und Rechtsfortbildung, Richterrecht Offenlegen Statt Tarnen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `praezedenz-distinguishing-overruling-deutsch` | Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen. |
 | `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Praezedenz Distinguishing Overruling Deutsch, Rechtsplur
 
 ## Arbeitsweg
 
-Für **Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Und Mehrebenen System, Rechtsvergleichung Methodisch Sauber, Richterliche Zurueckhaltung Und Rechtsfortbildung, Richterrecht Offenlegen Statt Tarnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Und Mehrebenen System, Rechtsvergleichung Methodisch Sauber, Richterliche Zurueckhaltung Und Rechtsfortbildung, Richterrecht Offenlegen Statt Tarnen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `praezedenz-distinguishing-overruling-deutsch`
 
@@ -436,7 +436,7 @@ Die Unterscheidung zwischen Auslegung und Rechtsfortbildung ist nicht nur akadem
 
 ## Erste Schritte
 
-1. Bestimme, ob die streitige Entscheidung im Bereich der Auslegung (Wortlaut, Systematik, Entstehungsgeschichte, Telos) oder der Rechtsfortbildung (praeter oder contra legem) liegt.
+1. Bestimme, ob die streitige Entscheidung im Bereich der Auslegung (Wortlaut, Systematik, fachliche Einordnung, Telos) oder der Rechtsfortbildung (praeter oder contra legem) liegt.
 2. Benenne den Legitimationsgrund des Richterrechts: Gewohnheitsrecht, konkludente Billigung des Gesetzgebers, richterliche Lückenfüllung oder unzulässige Kompetenzüberschreitung?
 3. Prüfe, ob der Gesetzgeber durch spätere Legislativakte das Richterrecht gebilligt, kodifiziert oder stillschweigend hingenommen hat.
 4. Analysiere die Konsequenzen für den Mandanten: Hat er auf das Richterrecht vertraut? Besteht Vertrauensschutz gegenüber einer möglichen Rechtsprechungsänderung?

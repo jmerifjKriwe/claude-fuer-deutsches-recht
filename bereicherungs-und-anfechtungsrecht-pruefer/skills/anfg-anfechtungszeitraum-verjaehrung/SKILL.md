@@ -7,11 +7,11 @@ description: "Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfg-fristen-und-anfechtungszeitraum` | Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO. |
 | `verjaehrung-bereicherung-anfechtung-fristen` | Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rechtshandlung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereic
 
 ## Arbeitsweg
 
-Für **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfg-fristen-und-anfechtungszeitraum`
 

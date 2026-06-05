@@ -1,17 +1,17 @@
 ---
 name: pe-wi-insurance-underwriting-merger-control-fdi-closing-cp-funds
-description: "Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-031-wi-insurance-underwriting` | Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess. |
 | `pe-032-merger-control-fdi-pe` | Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wi Insurance Underwriting / Merger Control Fdi / Closing
 
 ## Arbeitsweg
 
-Für **Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wi Insurance Underwriting / Merger Control Fdi / Closing Cp Funds Flow / Management Participation Mep** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-031-wi-insurance-underwriting`
 

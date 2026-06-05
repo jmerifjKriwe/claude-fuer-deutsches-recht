@@ -7,11 +7,11 @@ description: "Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminde
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `laienhilfe-sanktion-minderung` | Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Er
 
 ## Arbeitsweg
 
-Für **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `laienhilfe-sanktion-minderung`
 

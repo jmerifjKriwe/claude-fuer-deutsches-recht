@@ -1,17 +1,17 @@
 ---
 name: china-insurance-political-risk-force-majeure-and-supply
-description: "Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-081-insurance-political-risk` | Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken. |
 | `chn-082-force-majeure-and-change-in-law` | Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Insurance Political Risk / Force Majeure And Change Law 
 
 ## Arbeitsweg
 
-Für **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insurance Political Risk / Force Majeure And Change Law / Supply Disruption Playbook / Quality Crisis And Recall** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-081-insurance-political-risk`
 

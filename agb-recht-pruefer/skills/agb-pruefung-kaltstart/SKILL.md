@@ -1,6 +1,6 @@
 ---
 name: agb-pruefung-kaltstart
-description: "Einstiegs- und Arbeitsmodul für AGB Prüfung Kaltstart: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüffeld für AGB Prüfung Kaltstart: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # AGB Prüfung Kaltstart

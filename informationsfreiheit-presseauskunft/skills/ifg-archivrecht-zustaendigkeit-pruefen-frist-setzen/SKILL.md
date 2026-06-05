@@ -1,17 +1,17 @@
 ---
 name: ifg-archivrecht-zustaendigkeit-pruefen-frist-setzen
-description: "Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-098-archivrecht-zustaendigkeit-pruefen` | Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen. Zuständigkeit prüfen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-099-archivrecht-frist-setzen` | Informationsfreiheit und Presseauskunft: Archivrecht: Frist setzen. Frist setzen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist S
 
 ## Arbeitsweg
 
-Für **Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Archivrecht Zustaendigkeit Pruefen / Archivrecht Frist Setzen / Presseauskunft Richtig Routen / Bundesbehoerde Landesbehoerde Erk** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-098-archivrecht-zustaendigkeit-pruefen`
 

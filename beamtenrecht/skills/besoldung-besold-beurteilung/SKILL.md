@@ -7,11 +7,11 @@ description: "Besoldung Beurteilung Plausibilisierung Und Anlassbeurteilu, Besol
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu` | Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu
 
 ## Arbeitsweg
 
-Für **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu`
 

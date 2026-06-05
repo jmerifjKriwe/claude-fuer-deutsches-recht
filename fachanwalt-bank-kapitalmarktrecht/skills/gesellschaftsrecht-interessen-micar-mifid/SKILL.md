@@ -7,11 +7,11 @@ description: "Gesellschaftsrecht Mehrparteien Konflikt Und Interessen, Micar Sch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsrecht Mehrparteien Konflikt Und Interessen, Micar Schriftsatz Brief Und Memo Bausteine, Mifid Behörden Gericht Und Registerweg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsrecht Mehrparteien Konflikt Und Interessen, Micar Schriftsatz Brief Und Memo Bausteine, Mifid Behörden Gericht Und Registerweg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen` | Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-micar-schriftsatz-brief-und-memo-bausteine` | Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Gesellschaftsrecht Mehrparteien Konflikt Und Interessen,
 
 ## Arbeitsweg
 
-Für **Gesellschaftsrecht Mehrparteien Konflikt Und Interessen, Micar Schriftsatz Brief Und Memo Bausteine, Mifid Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsrecht Mehrparteien Konflikt Und Interessen, Micar Schriftsatz Brief Und Memo Bausteine, Mifid Behörden Gericht Und Registerweg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen`
 

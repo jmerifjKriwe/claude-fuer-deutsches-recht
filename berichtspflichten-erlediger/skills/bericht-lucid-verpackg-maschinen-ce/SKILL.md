@@ -7,11 +7,11 @@ description: "Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-lucid-verpackg-9-10` | VerpackG: LUCID-Registrierung, Systembeteiligung, Datenmeldung, Vollständigkeit und Marktplatz-/Fulfillment-Konstellationen. |
 | `bericht-maschinen-ce-konformitaetsakte` | Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konfor
 
 ## Arbeitsweg
 
-Für **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-lucid-verpackg-9-10`
 

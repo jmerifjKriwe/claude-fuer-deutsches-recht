@@ -7,11 +7,11 @@ description: "Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ehe-konsens-form-und-hindernisse` | Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `ehenichtigkeit-vor-dem-kirchlichen-tribunal` | Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem
 
 ## Arbeitsweg
 
-Für **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ehe-konsens-form-und-hindernisse`
 

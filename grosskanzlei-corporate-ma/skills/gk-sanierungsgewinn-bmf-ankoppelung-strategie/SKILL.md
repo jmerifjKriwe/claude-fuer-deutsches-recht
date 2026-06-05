@@ -22,7 +22,7 @@ description: "BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwal
 
 Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
 
-Dieser Skill bündelt die Strategie zur Ankoppelung an die Verwaltungsauffassung.
+Dieser Skill bearbeitet die Strategie zur Ankoppelung an die Verwaltungsauffassung.
 
 ## Wann brauchen Sie diesen Skill
 

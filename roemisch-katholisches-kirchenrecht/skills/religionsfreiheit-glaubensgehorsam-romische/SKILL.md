@@ -7,11 +7,11 @@ description: "Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikaste
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie U
 
 ## Arbeitsweg
 
-Für **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `religionsfreiheit-und-glaubensgehorsam`
 

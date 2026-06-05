@@ -1,6 +1,6 @@
 # produktrecht
 
-**28 Skills** · Stand `v210.0.0`
+**28 Skills** · Stand `v211.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/produktrecht/README.md)

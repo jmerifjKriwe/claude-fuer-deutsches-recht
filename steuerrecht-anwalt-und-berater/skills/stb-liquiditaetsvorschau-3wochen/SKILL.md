@@ -138,4 +138,4 @@ Bei roter Ampel sofort auf das Plugin `insolvenzrecht` umschwenken:
 - `antragspflicht-15a-inso` — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
 - `liquiditaetsvorschau-insolvenzrechtlich` — gerichtsfähige Liquiditätsbilanz als Beweismittel.
 
-Für die mittel- und langfristige Sicht: Schwester-Skill `stb-liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebündelt im Plugin Liquiditätsplanung (`liquiditaetsplanung`).
+Für die mittel- und langfristige Sicht: Schwester-Skill `stb-liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebearbeitet im Plugin Liquiditätsplanung (`liquiditaetsplanung`).

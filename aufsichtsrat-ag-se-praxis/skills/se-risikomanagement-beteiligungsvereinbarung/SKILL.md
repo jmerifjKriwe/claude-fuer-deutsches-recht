@@ -7,27 +7,27 @@ description: "Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `risikomanagement-und-compliance` | AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `se-beteiligungsvereinbarung` | AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `se-dualistisch` | AG/SE-Aufsichtsrat Praxis: SE Dualistisch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `se-monistisch-verwaltungsrat` | AG/SE-Aufsichtsrat Praxis: SE Monistisch Verwaltungsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `risikomanagement-und-compliance` | AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-beteiligungsvereinbarung` | AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-dualistisch` | AG/SE-Aufsichtsrat Praxis: SE Dualistisch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-monistisch-verwaltungsrat` | AG/SE-Aufsichtsrat Praxis: SE Monistisch Verwaltungsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Risikomanagement Und Compliance, Se Beteiligungsvereinbarung, Se Dualistisch, Se Monistisch Verwaltungsrat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `risikomanagement-und-compliance`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Risikomanagement Und Compliance
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `se-beteiligungsvereinbarung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Beteiligungsvereinbarung
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `se-dualistisch`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Dualistisch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Dualistisch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Dualistisch
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `se-monistisch-verwaltungsrat`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Monistisch Verwaltungsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: SE Monistisch Verwaltungsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Monistisch Verwaltungsrat
 

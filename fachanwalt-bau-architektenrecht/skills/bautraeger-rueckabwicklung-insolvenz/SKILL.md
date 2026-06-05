@@ -7,11 +7,11 @@ description: "Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahme Und Vorschussklage, Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen, Bautraeger Typische Nichtigkeitsfallen Checkliste** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahme Und Vorschussklage, Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen, Bautraeger Typische Nichtigkeitsfallen Checkliste** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-rueckabwicklung-bei-insolvenz` | Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster. |
 | `bautraeger-selbstvornahme-und-vorschussklage` | Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Sel
 
 ## Arbeitsweg
 
-Für **Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahme Und Vorschussklage, Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen, Bautraeger Typische Nichtigkeitsfallen Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahme Und Vorschussklage, Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen, Bautraeger Typische Nichtigkeitsfallen Checkliste** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-rueckabwicklung-bei-insolvenz`
 

@@ -34,7 +34,7 @@ Dieser Skill zwingt eine rechtliche Argumentation in eine nüchterne Normstruktu
 1. **Norm identifizieren:** Formuliere die behauptete Rechtsfolge als `Wenn-dann`-Satz.
 2. **Quelle benennen:** Ordne sie in die Normhierarchie ein und markiere, ob sie bindet oder nur orientiert.
 3. **Kompetenz prüfen:** Kläre Zuständigkeit, Verfahren, Form, Veröffentlichung, Inkrafttreten und Rang.
-4. **Auslegung begrenzen:** Trenne Textbefund, systematische Einordnung, Zweck, Entstehungsgeschichte und spätere Praxis.
+4. **Auslegung begrenzen:** Trenne Textbefund, systematische Einordnung, Zweck, fachliche Einordnung und spätere Praxis.
 5. **Bewertung trennen:** Sag ausdrücklich, ob ein Ergebnis rechtlich gilt, obwohl es unklug oder ungerecht erscheinen kann.
 6. **Anschluss herstellen:** Zeige, wo Moral oder Politik rechtlich relevant werden: Verfassung, Grundrechte, Generalklauseln, Verhältnismäßigkeit, Ermessen, Billigkeit.
 

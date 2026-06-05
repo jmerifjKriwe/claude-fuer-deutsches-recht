@@ -7,11 +7,11 @@ description: "Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
 | `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii,
 
 ## Arbeitsweg
 
-Für **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaltszwang-pruefen-73-sgg`
 

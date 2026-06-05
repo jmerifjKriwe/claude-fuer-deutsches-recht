@@ -1,17 +1,17 @@
 ---
 name: awv-beteiligungsmeldungen
-description: "Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `aussenwirtschaft-awv-beteiligungsmeldungen` | Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank. |
 | `aussenwirtschaft-awv-bundesbank` | Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirts
 
 ## Arbeitsweg
 
-Für **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aussenwirtschaft-zoll-sanktionen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aussenwirtschaft Awv Beteiligungsmeldungen / Aussenwirtschaft Awv Bundesbank / Aussenwirtschaft Awv Z4 Z10 Z11 / Aussenwirtschaft Bafa Elan K2 Antragspaket** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aussenwirtschaft-zoll-sanktionen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `aussenwirtschaft-awv-beteiligungsmeldungen`
 

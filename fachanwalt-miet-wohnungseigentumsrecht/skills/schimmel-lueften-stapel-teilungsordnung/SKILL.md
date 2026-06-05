@@ -7,28 +7,28 @@ description: "Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung Auslesen, Untervermietung Entscheidung, Vergleichsfenster Mietstreit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung Auslesen, Untervermietung Entscheidung, Vergleichsfenster Mietstreit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `workflow-schimmel-lueften-heizen` | Schimmel/Lüften/Heizen: Arbeitsmodul für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-schriftsatz-aus-stapel` | Schriftsatz aus Stapel: Arbeitsmodul für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-teilungsordnung-auslesen` | Teilungserklärung auslesen: Arbeitsmodul für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-untervermietung-entscheidung` | Untervermietung-Entscheidung: Arbeitsmodul für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-vergleichsfenster-mietstreit` | Vergleichsfenster Mietstreit: Arbeitsmodul für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-schimmel-lueften-heizen` | Schimmel/Lüften/Heizen: Prüffeld für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-schriftsatz-aus-stapel` | Schriftsatz aus Stapel: Prüffeld für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-teilungsordnung-auslesen` | Teilungserklärung auslesen: Prüffeld für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-untervermietung-entscheidung` | Untervermietung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vergleichsfenster-mietstreit` | Vergleichsfenster Mietstreit: Prüffeld für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung Auslesen, Untervermietung Entscheidung, Vergleichsfenster Mietstreit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung Auslesen, Untervermietung Entscheidung, Vergleichsfenster Mietstreit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-schimmel-lueften-heizen`
 
-**Fokus:** Schimmel/Lüften/Heizen: Arbeitsmodul für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Schimmel/Lüften/Heizen: Prüffeld für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Schimmel/Lüften/Heizen
 
@@ -42,7 +42,7 @@ Für **Schimmel Lueften Heizen, Schriftsatz Aus Stapel, Teilungsordnung Auslesen
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-schriftsatz-aus-stapel`
 
-**Fokus:** Schriftsatz aus Stapel: Arbeitsmodul für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Schriftsatz aus Stapel: Prüffeld für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Schriftsatz aus Stapel
 
@@ -87,7 +87,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-teilungsordnung-auslesen`
 
-**Fokus:** Teilungserklärung auslesen: Arbeitsmodul für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Teilungserklärung auslesen: Prüffeld für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Teilungserklärung auslesen
 
@@ -132,7 +132,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-untervermietung-entscheidung`
 
-**Fokus:** Untervermietung-Entscheidung: Arbeitsmodul für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Untervermietung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Untervermietung-Entscheidung
 
@@ -177,7 +177,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -208,7 +208,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-vergleichsfenster-mietstreit`
 
-**Fokus:** Vergleichsfenster Mietstreit: Arbeitsmodul für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Vergleichsfenster Mietstreit: Prüffeld für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Vergleichsfenster Mietstreit
 
@@ -222,7 +222,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

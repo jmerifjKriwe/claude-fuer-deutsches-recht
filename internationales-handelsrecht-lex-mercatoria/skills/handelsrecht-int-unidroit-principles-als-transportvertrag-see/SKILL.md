@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-unidroit-principles-als-transportvertrag-see
-description: "Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-014-unidroit-principles-als-vertragsrecht` | Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht. |
 | `ihl-022-transportvertrag-see` | Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Unidroit Principles Als Vertragsrecht / Transportvertrag
 
 ## Arbeitsweg
 
-Für **Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unidroit Principles Als Vertragsrecht / Transportvertrag See / Transportvertrag Luft / Transportvertrag Strasse Cmr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-014-unidroit-principles-als-vertragsrecht`
 

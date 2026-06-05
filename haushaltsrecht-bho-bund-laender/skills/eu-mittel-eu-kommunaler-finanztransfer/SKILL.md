@@ -7,11 +7,11 @@ description: "Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel V
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung, Bho 248 Kommunaler Finanztransfer Sperre Bewer und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung, Bho 248 Kommunaler Finanztransfer Sperre Bewer und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-244-eu-mittel-parlamentsfrage-vorbereiten` | Haushaltsrecht BHO Bund und Länder: EU-Mittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-245-eu-mittel-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: EU-Mittel: Vollzug tracken. Vollzug tracken für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 E
 
 ## Arbeitsweg
 
-Für **Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung, Bho 248 Kommunaler Finanztransfer Sperre Bewer und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung, Bho 248 Kommunaler Finanztransfer Sperre Bewer und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-244-eu-mittel-parlamentsfrage-vorbereiten`
 

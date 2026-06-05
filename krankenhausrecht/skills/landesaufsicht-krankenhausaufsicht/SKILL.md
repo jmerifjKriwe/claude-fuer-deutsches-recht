@@ -7,11 +7,11 @@ description: "Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhaus
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `landesaufsicht-krankenhausaufsicht-beanstandung` | Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz. |
 | `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhoerungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Landesaufsicht Krankenhausaufsicht Beanstandung, Landesk
 
 ## Arbeitsweg
 
-Für **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `landesaufsicht-krankenhausaufsicht-beanstandung`
 

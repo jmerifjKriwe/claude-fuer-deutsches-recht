@@ -7,11 +7,11 @@ description: "Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `saeumnis-im-termin-330-zpo` | Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis. |
 | `saeumnis-vermeiden-330-ff-zpo` | Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zp
 
 ## Arbeitsweg
 
-Für **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `saeumnis-im-termin-330-zpo`
 

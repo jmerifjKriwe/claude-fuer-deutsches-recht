@@ -7,11 +7,11 @@ description: "Verjaehrungsverkuerzung, Verkaufsbedingungen B2b, Versicherung Avb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verjaehrungsverkuerzung` | Klausel-Fachmodul für Verjaehrungsverkürzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `verkaufsbedingungen-b2b` | Branchen-Fachmodul für Verkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versic
 
 ## Arbeitsweg
 
-Für **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verjaehrungsverkuerzung`
 

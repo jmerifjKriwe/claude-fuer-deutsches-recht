@@ -7,11 +7,11 @@ description: "Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `missbrauchsverbot-modus` | Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Prüfraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung Kausalität Stellung und Missbrauch. Output Marktstellungs-Missbrauchs-Prüf-Memo mit Risikoampel und Verfahrensstrategie. Abgrenzung: paragraf-18-gwb-prüfung für isolierte Marktbeherrschungs-Prüfung. |
 | `nachhaltigkeitskooperation-wettbewerbsrecht` | Nachhaltigkeitskooperation Wettbewerbsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wett
 
 ## Arbeitsweg
 
-Für **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `missbrauchsverbot-modus`
 

@@ -1,17 +1,17 @@
 ---
 name: seerecht-schifffahrtsrecht-see-offshore-schiff-binnenschiff
-description: "See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 weitere Module
+# See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-073-offshore-schiff-kaufvertrag-scopen` | Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag fuer Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. |
 | `see-083-binnenschiff-kaufvertrag-scopen` | Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See Offshore Schiff Kaufvertrag Scopen / See Binnenschif
 
 ## Arbeitsweg
 
-Für **See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See Offshore Schiff Kaufvertrag Scopen / See Binnenschiff Kaufvertrag Scopen / See Kreuzfahrtschiff Kaufvertrag Scopen / See Konnossement Kaufvertrag Scopen / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-073-offshore-schiff-kaufvertrag-scopen`
 

@@ -7,11 +7,11 @@ description: "Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesin
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-gesindeordnung-1810-und-folgereformen` | Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix. |
 | `pralr-spez-gesinderecht-dienstvertraege-zuechtigung` | Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege fuer das Gesinde. Liefert Quellenmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr 
 
 ## Arbeitsweg
 
-Für **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung, Pralr Spez Instanzenzug Revision Historisch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-gesindeordnung-1810-und-folgereformen`
 

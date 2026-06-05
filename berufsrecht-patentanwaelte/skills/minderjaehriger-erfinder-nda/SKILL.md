@@ -7,11 +7,11 @@ description: "Patentanwaelte Minderjaehriger Erfinder Kammerantwort Und Verfa, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Minderjaehriger Erfinder Kammerantwort Und Verfa, Patentanwaelte Minderjaehriger Erfinder Organisationspflicht Un, Patentanwaelte Nda Vor Erfindungsgespraech Kammerantwort Und Ve, Patentanwaelte Nda Vor Erfindungsgespraech Organisationspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Minderjaehriger Erfinder Kammerantwort Und Verfa, Patentanwaelte Minderjaehriger Erfinder Organisationspflicht Un, Patentanwaelte Nda Vor Erfindungsgespraech Kammerantwort Und Ve, Patentanwaelte Nda Vor Erfindungsgespraech Organisationspflicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-minderjaehriger-erfinder-kammerantwort-und-verfa` | Patentanwälte: minderjaehriger erfinder - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-minderjaehriger-erfinder-organisationspflicht-un` | Patentanwälte: minderjaehriger erfinder - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwaelte Minderjaehriger Erfinder Kammerantwort Un
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Minderjaehriger Erfinder Kammerantwort Und Verfa, Patentanwaelte Minderjaehriger Erfinder Organisationspflicht Un, Patentanwaelte Nda Vor Erfindungsgespraech Kammerantwort Und Ve, Patentanwaelte Nda Vor Erfindungsgespraech Organisationspflicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Minderjaehriger Erfinder Kammerantwort Und Verfa, Patentanwaelte Minderjaehriger Erfinder Organisationspflicht Un, Patentanwaelte Nda Vor Erfindungsgespraech Kammerantwort Und Ve, Patentanwaelte Nda Vor Erfindungsgespraech Organisationspflicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-minderjaehriger-erfinder-kammerantwort-und-verfa`
 

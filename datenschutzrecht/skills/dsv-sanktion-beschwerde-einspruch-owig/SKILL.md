@@ -7,11 +7,11 @@ description: "Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sankti
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-sanktion-beschwerde-betroffener-behoerdenverfahren` | Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-einspruch-67-owig-frist-und-form` | Datenschutzrecht-Brückenskill: Einspruch § 67 OWiG Frist und Form: Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, 
 
 ## Arbeitsweg
 
-Für **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren, Dsv Sanktion Einspruch 67 Owig Frist Und Form, Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage, Dsv Sanktion Fristverlaengerung Behörde Ohne Nachteile, Dsv Sanktion Parallelverfahren Art 82 Massenklagen und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-sanktion-beschwerde-betroffener-behoerdenverfahren`
 

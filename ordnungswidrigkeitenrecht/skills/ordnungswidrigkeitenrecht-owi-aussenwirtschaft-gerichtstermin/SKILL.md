@@ -1,27 +1,27 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-aussenwirtschaft-gerichtstermin
-description: "Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-098-aussenwirtschaft-gerichtstermin-vorber` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-099-aussenwirtschaft-rechtsbeschwerde-prue` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-Für **Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Aussenwirtschaft Gerichtstermin Vorber / Owi Aussenwirtschaft Rechtsbeschwerde Prue** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-098-aussenwirtschaft-gerichtstermin-vorber`
 

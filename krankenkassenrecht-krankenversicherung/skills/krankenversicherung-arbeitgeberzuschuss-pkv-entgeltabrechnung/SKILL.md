@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung
-description: "Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-040-arbeitgeberzuschuss-pkv-und-entgeltabrechnung` | AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken. |
 | `kv-041-rentner-krankenversicherung-der-rentner-kvdr` | Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Kran
 
 ## Arbeitsweg
 
-Für **Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitgeberzuschuss Pkv Entgeltabrechnung / Rentner Krankenversicherung Kvdr / Versorgungswerk Krankenversicherung Ruhestand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-040-arbeitgeberzuschuss-pkv-und-entgeltabrechnung`
 

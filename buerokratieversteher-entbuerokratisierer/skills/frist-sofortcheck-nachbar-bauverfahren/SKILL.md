@@ -7,11 +7,11 @@ description: "Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Ge
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `frist-sofortcheck` | Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. |
 | `nachbar-im-bauverfahren` | Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anh
 
 ## Arbeitsweg
 
-Für **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `frist-sofortcheck`
 

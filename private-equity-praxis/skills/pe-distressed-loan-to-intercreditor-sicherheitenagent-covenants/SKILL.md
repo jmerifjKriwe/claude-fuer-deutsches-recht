@@ -1,17 +1,17 @@
 ---
 name: pe-distressed-loan-to-intercreditor-sicherheitenagent-covenants
-description: "Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-051-distressed-loan-to-own` | Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement. |
 | `pe-052-intercreditor-und-sicherheitenagent` | Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Distressed Loan To Own / Intercreditor Sicherheitenagent
 
 ## Arbeitsweg
 
-Für **Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Distressed Loan To Own / Intercreditor Sicherheitenagent / Covenants Defaults Waiver / Security Package Germany** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-051-distressed-loan-to-own`
 

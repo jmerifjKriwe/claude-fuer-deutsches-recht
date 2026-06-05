@@ -7,11 +7,11 @@ description: "Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, Stat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spuerbarkeit-und-zwischenstaatlichkeit` | Spürbarkeit und Zwischenstaatlichkeit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `ssnip-test-anwendung` | Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Prüfraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios für vertiefte oekonometrische Analyse. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwen
 
 ## Arbeitsweg
 
-Für **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spuerbarkeit-und-zwischenstaatlichkeit`
 

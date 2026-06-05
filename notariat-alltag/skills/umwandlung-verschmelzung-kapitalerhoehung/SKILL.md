@@ -7,11 +7,11 @@ description: "Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis` | Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen. |
 | `notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht` | Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechs
 
 ## Arbeitsweg
 
-Für **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis`
 
@@ -232,7 +232,7 @@ Der Übergeber überträgt den Anteil, behält sich aber den Nießbrauch (§ 103
 Zur Sicherung der Unternehmensführung werden Poolverträge vereinbart:
 - Stimmrechtsbindung: alle Poolmitglieder stimmen nach Mehrheitsentscheid des Pools ab
 - Verfügungsbeschränkung: Anteilsverkauf nur an Pool-Mitglieder oder mit Zustimmung
-- **Steuervorteil:** gebündelte Anteile > 25 % = Unternehmensvermögen (§ 13b ErbStG) → Begünstigung § 13a/13c ErbStG
+- **Steuervorteil:** gebearbeitete Anteile > 25 % = Unternehmensvermögen (§ 13b ErbStG) → Begünstigung § 13a/13c ErbStG
 
 ## ErbStG-Begünstigungen (§§ 13a, 13b, 13c ErbStG)
 

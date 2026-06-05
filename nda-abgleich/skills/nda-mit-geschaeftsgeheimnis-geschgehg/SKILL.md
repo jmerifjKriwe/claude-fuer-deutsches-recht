@@ -75,7 +75,7 @@ Eine vertragliche Geheimhaltungsverpflichtung (NDA) ist eine **notwendige, aber 
 > "Vertrauliche Informationen" sind alle als vertraulich gekennzeichneten Informationen sowie solche, die nach ihrer Natur als vertraulich anzusehen sind. Der Empfaenger verpflichtet sich, die Vertraulichen Informationen mit derselben Sorgfalt zu behandeln, mit der er eigene Geschaeftsgeheimnisse i.S.d. § 2 Nr. 1 GeschGehG schuetzt, mindestens jedoch durch angemessene technische und organisatorische Massnahmen (Zugangsbeschraenkung, Verschluesselung, Need-to-know-Verteilung, Loeschprotokoll). Der Empfaenger weist die Massnahmen auf Anforderung in Textform nach.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

@@ -1,6 +1,6 @@
 ---
 name: red-team-gegenargumente
-description: "Gesellschaftsrechtliche Treuepflicht: Red Team Gegenargumente; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Gesellschaftsrechtliche Treuepflicht: Red Team Gegenargumente; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Red Team Gegenargumente

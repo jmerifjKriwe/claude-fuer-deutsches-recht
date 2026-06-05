@@ -7,11 +7,11 @@ description: "Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-erfinderkommunikation-im-konzern-kaltstart-und-f` | Patentanwälte: erfinderkommunikation im konzern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-fristenkontrolle-epo-dpma-kaltstart-und-faktenma` | Patentanwälte: fristenkontrolle epo dpma - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstar
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Erfinderkommunikation Im Konzern Kaltstart Und F, Patentanwaelte Fristenkontrolle Epo Dpma Kaltstart Und Faktenma, Patentanwaelte Fristenversaeumnis Epo Restitutio Kaltstart Und, Patentanwaelte Fruehe Veroeffentlichung Konferenz Kaltstart Und, Patentanwaelte Gebühren Und Kostentransparenz Kaltstart Und Fa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-erfinderkommunikation-im-konzern-kaltstart-und-f`
 

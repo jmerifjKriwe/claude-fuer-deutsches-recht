@@ -7,11 +7,11 @@ description: "Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verband
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit` | Vermoegensschaden bei Paragraph 266 StGB Untreue. BGH-Stufenmodell und BVerfG-Vorgaben zur Bezifferbarkeit. Schadensgleiche Vermoegensgefaehrdung als Verfassungsfrage. Revisionsangriffe gegen unzureichende Schadensfeststellung. Sachverstaendigenbeweis und Bilanzierung im Strafverfahren. |
 | `strafrecht-spezial-verbandssanktionengesetz-stand-2026` | Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum fuer Compliance-Verantwortliche und Unternehmensleitung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrec
 
 ## Arbeitsweg
 
-Für **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
 

@@ -7,11 +7,11 @@ description: "Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Un
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-038-unterricht-und-seminar` | PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. |
 | `pralr-039-mueller-arnold-fall-und-justizreform` | PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arno
 
 ## Arbeitsweg
 
-Für **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-038-unterricht-und-seminar`
 

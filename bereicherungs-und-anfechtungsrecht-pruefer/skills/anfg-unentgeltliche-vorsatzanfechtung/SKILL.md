@@ -7,11 +7,11 @@ description: "Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung). |
 | `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3
 
 ## Arbeitsweg
 
-Für **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfg-unentgeltliche-leistung-4`
 

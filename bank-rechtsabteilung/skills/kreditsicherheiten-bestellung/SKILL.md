@@ -7,11 +7,11 @@ description: "Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaub
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaubnis Inhaberkontrolle, Liquiditaetsbruecke Firmenkunde Bankinstrumente, Ma Risk Compliance Funktion, Marisk Auslagerungen At9 Dora** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaubnis Inhaberkontrolle, Liquiditaetsbruecke Firmenkunde Bankinstrumente, Ma Risk Compliance Funktion, Marisk Auslagerungen At9 Dora** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kreditsicherheiten-bestellung-verwertung` | Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte. |
 | `kreditwesengesetz-erlaubnis-inhaberkontrolle` | KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kreditsicherheiten Bestellung Verwertung, Kreditwesenges
 
 ## Arbeitsweg
 
-Für **Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaubnis Inhaberkontrolle, Liquiditaetsbruecke Firmenkunde Bankinstrumente, Ma Risk Compliance Funktion, Marisk Auslagerungen At9 Dora** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaubnis Inhaberkontrolle, Liquiditaetsbruecke Firmenkunde Bankinstrumente, Ma Risk Compliance Funktion, Marisk Auslagerungen At9 Dora** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kreditsicherheiten-bestellung-verwertung`
 

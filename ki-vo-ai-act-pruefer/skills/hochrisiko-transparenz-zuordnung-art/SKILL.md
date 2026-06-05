@@ -7,11 +7,11 @@ description: "Hochrisiko Transparenz Und Informationen Für Betreiber Art 13, Ho
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hochrisiko Transparenz Und Informationen Für Betreiber Art 13, Hochrisiko Zuordnung Art 6 Und Anhang I Iii, Hochschule Ki Detektor Menschliche Prüfung, Hochschule Ki Taeuschung Anscheinsbeweis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hochrisiko Transparenz Und Informationen Für Betreiber Art 13, Hochrisiko Zuordnung Art 6 Und Anhang I Iii, Hochschule Ki Detektor Menschliche Prüfung, Hochschule Ki Taeuschung Anscheinsbeweis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13` | Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz). |
 | `hochrisiko-zuordnung-art-6-und-anhang-i-iii` | Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitenden-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Routing zu Detail-Skills. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Hochrisiko Transparenz Und Informationen Für Betreiber 
 
 ## Arbeitsweg
 
-Für **Hochrisiko Transparenz Und Informationen Für Betreiber Art 13, Hochrisiko Zuordnung Art 6 Und Anhang I Iii, Hochschule Ki Detektor Menschliche Prüfung, Hochschule Ki Taeuschung Anscheinsbeweis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hochrisiko Transparenz Und Informationen Für Betreiber Art 13, Hochrisiko Zuordnung Art 6 Und Anhang I Iii, Hochschule Ki Detektor Menschliche Prüfung, Hochschule Ki Taeuschung Anscheinsbeweis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`
 

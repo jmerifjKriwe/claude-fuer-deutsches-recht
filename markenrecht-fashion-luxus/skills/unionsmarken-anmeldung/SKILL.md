@@ -7,11 +7,11 @@ description: "Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Do
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unionsmarken-anmeldung-euipo` | Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung. |
 | `unternehmenskennzeichen-werktitel-domain` | Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen We
 
 ## Arbeitsweg
 
-Für **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unionsmarken-anmeldung-euipo`
 

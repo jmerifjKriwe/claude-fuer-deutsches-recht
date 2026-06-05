@@ -7,11 +7,11 @@ description: "Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kaufrecht-right-to-repair-und-nacherfuellung` | Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf. |
 | `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht 
 
 ## Arbeitsweg
 
-Für **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kaufrecht-right-to-repair-und-nacherfuellung`
 

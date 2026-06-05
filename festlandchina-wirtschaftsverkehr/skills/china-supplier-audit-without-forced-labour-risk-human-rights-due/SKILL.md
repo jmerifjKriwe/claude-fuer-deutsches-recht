@@ -1,17 +1,17 @@
 ---
 name: china-supplier-audit-without-forced-labour-risk-human-rights-due
-description: "Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-063-supplier-audit-without-window-dressing` | Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. |
 | `chn-064-forced-labour-risk-xinjiang` | Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Diligence-Standard Lieferkette, Zertifizierungsgrenzen. Output: XUAR-Risikoanalyse und Maßnahmenplan mit Beweisdokumentation. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Supplier Audit Without Window Dressing / Forced Labour R
 
 ## Arbeitsweg
 
-Für **Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Supplier Audit Without Window Dressing / Forced Labour Risk Xinjiang / Human Rights Due Diligence / Lksg Complaints Procedure** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-063-supplier-audit-without-window-dressing`
 

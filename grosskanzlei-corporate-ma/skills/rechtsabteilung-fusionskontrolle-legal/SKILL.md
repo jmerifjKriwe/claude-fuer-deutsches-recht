@@ -7,11 +7,11 @@ description: "Rechtsabteilung Fusionskontrolle Als Closing Condition, Rechtsabte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Fusionskontrolle Als Closing Condition, Rechtsabteilung Legal Tech Dd Mit Halluzinationsschutz, Rechtsabteilung Locked Box Leakage Aus Konzerncashpool, Rechtsabteilung Warranty And Indemnity Versicherung Im Claimfall, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Fusionskontrolle Als Closing Condition, Rechtsabteilung Legal Tech Dd Mit Halluzinationsschutz, Rechtsabteilung Locked Box Leakage Aus Konzerncashpool, Rechtsabteilung Warranty And Indemnity Versicherung Im Claimfall, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-fusionskontrolle-als-closing-condition` | Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz` | Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Rechtsabteilung Fusionskontrolle Als Closing Condition, 
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Fusionskontrolle Als Closing Condition, Rechtsabteilung Legal Tech Dd Mit Halluzinationsschutz, Rechtsabteilung Locked Box Leakage Aus Konzerncashpool, Rechtsabteilung Warranty And Indemnity Versicherung Im Claimfall, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Fusionskontrolle Als Closing Condition, Rechtsabteilung Legal Tech Dd Mit Halluzinationsschutz, Rechtsabteilung Locked Box Leakage Aus Konzerncashpool, Rechtsabteilung Warranty And Indemnity Versicherung Im Claimfall, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-fusionskontrolle-als-closing-condition`
 

@@ -7,11 +7,11 @@ description: "Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung V
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-modehaeuser-dokumentenmatrix-und-lueckenliste` | Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-uspto-verhandlung-vergleich-und-eskalation` | USPTO: Verhandlung, Vergleich und Eskalation im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Ver
 
 ## Arbeitsweg
 
-Für **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-modehaeuser-dokumentenmatrix-und-lueckenliste`
 

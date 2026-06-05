@@ -7,11 +7,11 @@ description: "Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Behörde, Ifg Uig Vig Anfrage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Behörde, Ifg Uig Vig Anfrage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gemeinderat-satzung-verstehen` | Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht. |
 | `gerichtsladung-zeuge` | Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hau
 
 ## Arbeitsweg
 
-Für **Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Behörde, Ifg Uig Vig Anfrage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Behörde, Ifg Uig Vig Anfrage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gemeinderat-satzung-verstehen`
 

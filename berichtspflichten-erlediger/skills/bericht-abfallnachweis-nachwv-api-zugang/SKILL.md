@@ -7,11 +7,11 @@ description: "Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Roll
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-abfallnachweis-nachwv-krwg` | Abfallrechtliche Nachweise: gefährliche Abfälle, eANV, Register, Entsorgungsnachweise, Begleitscheine und Abfallbilanz. |
 | `bericht-api-portal-zugang-rollen` | Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Z
 
 ## Arbeitsweg
 
-Für **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-abfallnachweis-nachwv-krwg`
 

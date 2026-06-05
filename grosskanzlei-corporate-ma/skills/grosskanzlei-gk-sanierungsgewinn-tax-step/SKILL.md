@@ -7,11 +7,11 @@ description: "Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanier
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna` | Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-tax-step-plan-restrukturierung` | Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna,
 
 ## Arbeitsweg
 
-Für **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna`
 
@@ -380,7 +380,7 @@ Nicht dieser Skill, sondern eine spezifische Steuerberatung ist primär, wenn di
 
 1. **Zuständigkeit klären.** Bei Sanierungsmaßnahmen mit Bezug auf § 3a EStG ist regelmäßig das für die Schuldnerin örtlich zuständige Finanzamt zuständig. Bei mehreren beteiligten Gesellschaften ggf. Antrag bei mehreren Finanzämtern.
 2. **Sachverhalts-Dossier zusammenstellen.** Sanierungskonzept (IDW S 6 oder gleichwertig); Plan-Dokumentation; Forderungsverzichtsverträge; Werthaltigkeitsgutachten; Bilanzen; Konzernstruktur.
-3. **Rechtsfragen präzise formulieren.** Trennscharfe Formulierung; keine pauschalen Anfragen. Mehrere Rechtsfragen können in einem Antrag gebündelt werden.
+3. **Rechtsfragen präzise formulieren.** Trennscharfe Formulierung; keine pauschalen Anfragen. Mehrere Rechtsfragen können in einem Antrag gebearbeitet werden.
 
 **Phase 2 – Antrag stellen:**
 

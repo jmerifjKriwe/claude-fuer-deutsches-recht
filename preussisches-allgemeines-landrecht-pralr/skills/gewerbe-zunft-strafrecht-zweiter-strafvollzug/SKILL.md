@@ -7,11 +7,11 @@ description: "Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-023-gewerbe-zunft-und-wirtschaftsordnung` | PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen. |
 | `pralr-024-strafrecht-zweiter-teil-zwanzigster-titel` | PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 02
 
 ## Arbeitsweg
 
-Für **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung, Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-023-gewerbe-zunft-und-wirtschaftsordnung`
 

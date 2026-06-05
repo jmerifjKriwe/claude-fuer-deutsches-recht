@@ -7,11 +7,11 @@ description: "Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangabe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-056-merch-drops-e-commerce-und-widerruf` | Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. |
 | `infl-057-preisangaben-rabatt-countdown-dark-patterns` | Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 P
 
 ## Arbeitsweg
 
-Für **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 056 Merch Drops E Commerce Und Widerruf, Infl 057 Preisangaben Rabatt Countdown Dark Patterns, Infl 058 Bewertungen Rezensionen Und Fake Reviews** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-056-merch-drops-e-commerce-und-widerruf`
 

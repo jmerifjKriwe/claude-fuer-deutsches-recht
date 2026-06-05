@@ -7,21 +7,21 @@ description: "Firma Paragraphen 17 37a Hgb, Firmenfortfuehrung Paragraphen 21 25
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `firma-paragraphen-17-37a-hgb` | Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe. |
 | `firmenfortfuehrung-paragraphen-21-25-hgb` | Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss. |
 
 ## Arbeitsweg
 
-Für **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `firma-paragraphen-17-37a-hgb`
 

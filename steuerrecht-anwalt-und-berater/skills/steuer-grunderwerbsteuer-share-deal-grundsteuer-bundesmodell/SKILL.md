@@ -1,17 +1,17 @@
 ---
 name: steuer-grunderwerbsteuer-share-deal-grundsteuer-bundesmodell
-description: "Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 weitere Module
+# Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-stu-grunderwerbsteuer-share-deal` | Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Aenderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge soll vor Closing geklaert werden. Behandelt Beteiligungsschwelle 90 Prozent Beobachtungszeitraum zehn Jahre und Folgewirkung auf den Festschreibungspreis. Output Pruefraster und Anzeigeschreiben § 19 GrEStG. Abgrenzung zu fa-stu-bewertung-immobilien-bewg. |
 | `fa-stu-grundsteuer-bundesmodell` | Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell 
 
 ## Arbeitsweg
 
-Für **Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grunderwerbsteuer Share Deal / Grundsteuer Bundesmodell / Handels Vs Steuerbilanz / International Verrechnungspreise AStG / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-stu-grunderwerbsteuer-share-deal`
 

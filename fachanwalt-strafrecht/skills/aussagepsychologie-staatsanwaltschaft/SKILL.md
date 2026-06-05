@@ -7,11 +7,11 @@ description: "Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrech
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen. |
 | `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis` | Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik,
 
 ## Arbeitsweg
 
-Für **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 

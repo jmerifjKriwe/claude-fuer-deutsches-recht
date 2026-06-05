@@ -7,11 +7,11 @@ description: "Kaufrecht Ware Mit Digitalen Elementen 475b, Leasing Bgb Bt Schnit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327 ff. BGB. |
 | `leasing-bgb-bt-schnittstelle` | Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährleistungskette und Verbraucherschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb
 
 ## Arbeitsweg
 
-Für **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kaufrecht-ware-mit-digitalen-elementen-475b`
 

@@ -1,17 +1,17 @@
 ---
 name: versicherungsrecht-vvg-anzeigepflicht-ruecktritt-arglist
-description: "Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung` | § 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen. |
 | `vvg-arglist-taeuschung-anfechtung` | Arglistanfechtung nach § 22 VVG/BGB § 123: Gesundheitsangaben, Schadenhergang, Vorschäden, subjektives Element, Indizien und Gegenbeweis. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg
 
 ## Arbeitsweg
 
-Für **Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vvg Anzeigepflicht Ruecktritt Kuendigung Anpassung / Vvg Arglist Taeuschung Anfechtung / Vvg Falligkeit Abschlagszahlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vvg-anzeigepflicht-19-ruecktritt-kuendigung-anpassung`
 

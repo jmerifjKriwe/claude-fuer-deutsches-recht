@@ -7,11 +7,11 @@ description: "Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspruch Soldat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspruch Soldat Und Fristen, Disziplinarverfahren Intake** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspruch Soldat Und Fristen, Disziplinarverfahren Intake** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `beschwerde-fristen-sofortcheck` | Beschwerde-Fristen Sofortcheck WBO: prüft Fristbeginn, Berechnung, Form, Wiedereinsetzung und Vollzugsaussetzung. Norm-/Quellenanker: §§ 6–11 und 23a WBO. |
 | `bwbes-neu-010-besoldungswiderspruch-soldat-und-fristen` | Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspr
 
 ## Arbeitsweg
 
-Für **Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspruch Soldat Und Fristen, Disziplinarverfahren Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beschwerde Fristen Sofortcheck, Bwbes Besoldungswiderspruch Soldat Und Fristen, Disziplinarverfahren Intake** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beschwerde-fristen-sofortcheck`
 

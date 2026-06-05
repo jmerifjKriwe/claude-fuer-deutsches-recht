@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-software-and-saas-agency-distribution-franchise
-description: "Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-061-software-and-saas-crossborder` | Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand. |
 | `ihl-062-agency-distribution-franchise` | Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Software And Saas Crossborder / Agency Distribution Fran
 
 ## Arbeitsweg
 
-Für **Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Software And Saas Crossborder / Agency Distribution Franchise / Exclusive Distributor / Commercial Agent EU** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-061-software-and-saas-crossborder`
 

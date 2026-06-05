@@ -1,28 +1,28 @@
 ---
 name: liquiditaetsplanung-liquiditaetsvorschau-3wochen
-description: "Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung. |
-| `liquiditaetsvorschau-insolvenzrechtlich` | Arbeitsmodul zu liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `liquiditaetsvorschau-insolvenzrechtlich` | Prüffeld für liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `spezial-ampel-zahlen-schwellen-und-berechnung` | Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `liquiditaetsplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Liquiditaetsvorschau 3wochen / Liquiditaetsvorschau Insolvenzrechtlich / Spezial Ampel Zahlen Schwellen Berechnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `liquiditaetsplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `liquiditaetsvorschau-3wochen`
 
@@ -233,7 +233,7 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 
 ## 2. `liquiditaetsvorschau-insolvenzrechtlich`
 
-**Fokus:** Arbeitsmodul zu liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
 

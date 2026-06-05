@@ -7,11 +7,11 @@ description: "Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf. |
 | `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kündigungsschutzklage Klageschrift Laie Baustein, Künd
 
 ## Arbeitsweg
 
-Für **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kueschk-klageschrift-laie-baustein`
 

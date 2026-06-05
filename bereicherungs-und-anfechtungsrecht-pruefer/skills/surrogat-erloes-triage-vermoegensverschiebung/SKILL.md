@@ -7,11 +7,11 @@ description: "Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensverschiebung Erfassen, Umfang Der Herausgabe 818 Bgb Und Entreicherung, Verfuegung Eines Nichtberechtigten 816 Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensverschiebung Erfassen, Umfang Der Herausgabe 818 Bgb Und Entreicherung, Verfuegung Eines Nichtberechtigten 816 Bgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `surrogat-erloes-versicherung-ersatzforderung` | Nutze diesen Skill, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Surrogationskette mit Erlös, Versicherungsleistung und Ersatzforderung. Abgrenzung: nicht Schadensersatzforderung gegen Schädiger direkt. |
 | `triage-vermoegensverschiebung-erfassen` | Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermögenverschiebung. Abgrenzung: nicht inhaltliche Prüfung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Surrogat Erloes Versicherung Ersatzforderung, Triage Ver
 
 ## Arbeitsweg
 
-Für **Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensverschiebung Erfassen, Umfang Der Herausgabe 818 Bgb Und Entreicherung, Verfuegung Eines Nichtberechtigten 816 Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Surrogat Erloes Versicherung Ersatzforderung, Triage Vermoegensverschiebung Erfassen, Umfang Der Herausgabe 818 Bgb Und Entreicherung, Verfuegung Eines Nichtberechtigten 816 Bgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `surrogat-erloes-versicherung-ersatzforderung`
 

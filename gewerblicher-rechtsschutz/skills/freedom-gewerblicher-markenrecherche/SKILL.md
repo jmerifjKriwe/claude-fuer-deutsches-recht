@@ -7,11 +7,11 @@ description: "Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-freedom-schriftsatz-brief-und-memo-bausteine` | Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung. |
 | `spezial-gewerblicher-erstpruefung-und-mandatsziel` | Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblich
 
 ## Arbeitsweg
 
-Für **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-freedom-schriftsatz-brief-und-memo-bausteine`
 

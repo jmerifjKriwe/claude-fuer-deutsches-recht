@@ -7,11 +7,11 @@ description: "Patentanwaelte Startup Ip Budget Warnung Rechtsprechungscheck U, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Startup Ip Budget Warnung Rechtsprechungscheck U, Patentanwaelte Uebersetzung Und Verantwortung Rechtsprechungsch, Patentanwaelte Werbung Mit Erfolgsquoten Rechtsprechungscheck U, Patentanwaelte Zulassungsfragen Und Kanzleisitz Rechtsprechungs, Quellen Und Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Startup Ip Budget Warnung Rechtsprechungscheck U, Patentanwaelte Uebersetzung Und Verantwortung Rechtsprechungsch, Patentanwaelte Werbung Mit Erfolgsquoten Rechtsprechungscheck U, Patentanwaelte Zulassungsfragen Und Kanzleisitz Rechtsprechungs, Quellen Und Rechtsprechungscheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-startup-ip-budget-warnung-rechtsprechungscheck-u` | Patentanwälte: startup ip budget warnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-uebersetzung-und-verantwortung-rechtsprechungsch` | Patentanwälte: uebersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Startup Ip Budget Warnung Rechtsprechungs
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Startup Ip Budget Warnung Rechtsprechungscheck U, Patentanwaelte Uebersetzung Und Verantwortung Rechtsprechungsch, Patentanwaelte Werbung Mit Erfolgsquoten Rechtsprechungscheck U, Patentanwaelte Zulassungsfragen Und Kanzleisitz Rechtsprechungs, Quellen Und Rechtsprechungscheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Startup Ip Budget Warnung Rechtsprechungscheck U, Patentanwaelte Uebersetzung Und Verantwortung Rechtsprechungsch, Patentanwaelte Werbung Mit Erfolgsquoten Rechtsprechungscheck U, Patentanwaelte Zulassungsfragen Und Kanzleisitz Rechtsprechungs, Quellen Und Rechtsprechungscheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-startup-ip-budget-warnung-rechtsprechungscheck-u`
 

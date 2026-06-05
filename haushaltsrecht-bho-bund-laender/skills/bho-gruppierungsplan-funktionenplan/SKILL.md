@@ -7,11 +7,11 @@ description: "Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtsch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-003-gruppierungsplan-und-funktionenplan` | Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-004-bho-7-wirtschaftlichkeit` | Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit. BHO § 7 Wirtschaftlichkeit im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho
 
 ## Arbeitsweg
 
-Für **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-003-gruppierungsplan-und-funktionenplan`
 

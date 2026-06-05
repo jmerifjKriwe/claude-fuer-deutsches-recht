@@ -7,11 +7,11 @@ description: "Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anfechtungsfolgen-paragraphen-142-122` | Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse. |
 | `anspruchsaufbau-zivilrecht-bgb-at` | Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Z
 
 ## Arbeitsweg
 
-Für **Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anfechtungsfolgen-paragraphen-142-122`
 
@@ -210,7 +210,7 @@ Der Dreiklang jeder Anspruchsprüfung:
 
 1. Natürliche Auslegung: War der gemeinsame Wille beider Parteien nachweisbar identisch? (falsa demonstratio).
 2. Normative Auslegung: Wie hätte ein verständiger Empfänger die Erklärung verstehen müssen?
-3. Wortlaut, Systematik, Entstehungsgeschichte und Zweck des Vertrags heranziehen (§ 133 BGB).
+3. Wortlaut, Systematik, fachliche Einordnung und Zweck des Vertrags heranziehen (§ 133 BGB).
 4. Treu und Glauben und Verkehrssitte bei Vertragsauslegung (§ 157 BGB).
 5. Ergänzende Vertragsauslegung: Regelungslücke festgestellt — hypothetischer Parteiwille ermitteln.
 6. Auslegung hat Vorrang vor Anfechtung und Nichtigkeit.
@@ -273,7 +273,7 @@ Ausnahme: Falsa demonstratio non nocet — wenn beide dasselbe wollten, trotz an
 ### Klausur-Checkliste Auslegung
 
 - Wortlaut der Erklärung als Ausgangspunkt bestimmt?
-- Begleitumstände, Entstehungsgeschichte und Zweck berücksichtigt?
+- Begleitumstände, fachliche Einordnung und Zweck berücksichtigt?
 - Objektiver Empfängerhorizont angelegt?
 - Falsa demonstratio: Haben beide Parteien dasselbe gemeint?
 - Ergänzende Vertragsauslegung nur bei echter Regelungslücke, nicht bei Dissens?

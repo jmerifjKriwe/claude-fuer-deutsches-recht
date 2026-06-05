@@ -1,17 +1,17 @@
 ---
 name: legistik-werkstatt-folgenabschaetzung-erfuellungsaufwand
-description: "Folgenabschaetzung Erfuellungsaufwand / Folgenabschaetzung Nachhaltigkeit / Formulierungshilfe Bauen / Gesetzgebungskompetenz Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Folgenabschaetzung Erfuellungsaufwand / Folgenabschaetzung Nachhaltigkeit / Formulierungshilfe Bauen / Gesetzgebungskompetenz Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Folgenabschaetzung Erfuellungsaufwand / Folgenabschaetzung Nachhaltigkeit / Formulierungshilfe Bauen / Gesetzgebungskompetenz Pruefen
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `folgenabschaetzung-erfuellungsaufwand` | Erfuellungsaufwand für Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll NKR-konformes Vorblatt und Begründung erhalten oder NKR verlangt Nachbesserung. Methodik Leitfaden BMJ BMI Statistisches Bundesamt Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vorschrift pro Adressat Bagatell-Schwelle KMU-Aspekt mittelstandsrelevant. One-in-one-out-Regel der Bundesregierung. Output Erfuellungsaufwand-Tabelle Vorblatt Begründung Empfehlung NKR-Vorlage. Abgrenzung zu folgenabschaetzung-nachhaltigkeit SDG-Folgen. |
 | `folgenabschaetzung-nachhaltigkeit` | Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorblatt Abschnitt G und Begründung A.VI.6 zu Nachhaltigkeitsfolgen. UN-SDGs prüfen welche betroffen Bewertung positiv neutral negativ. Demografiecheck Wirkung auf aeltere Buerger Familien. Gleichstellungspolitischer Check Art. 3 GG Equal Pay. Klimacheck Treibhausgasemissionen Ressourcenverbrauch. Soziale Folgen Inklusion Teilhabe. Output Folgenmatrix Vorblatt Abschnitt G Begründung A.VI.6. Abgrenzung zu folgenabschaetzung-erfuellungsaufwand Buerokratiekosten. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Folgenabschaetzung Erfuellungsaufwand / Folgenabschaetzung Nachhaltigkeit / Formulierungshilfe Bauen / Gesetzgebungskompetenz Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Folgenabschaetzung Erfuellungsaufwand / Folgenabschaetzung Nachhaltigkeit / Formulierungshilfe Bauen / Gesetzgebungskompetenz Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `folgenabschaetzung-erfuellungsaufwand`
 

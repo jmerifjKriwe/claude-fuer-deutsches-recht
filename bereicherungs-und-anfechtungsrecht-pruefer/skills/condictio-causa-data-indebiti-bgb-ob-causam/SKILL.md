@@ -7,11 +7,11 @@ description: "Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `condictio-causa-data-causa-non-secuta` | Nutze diesen Skill, wenn der erwartete Leistungserfolg endgültig nicht eingetreten ist. Normen: § 812 Abs. 1 S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis condictio ob rem mit Zweckverfehlung und Anspruchshöhe. Abgrenzung: nicht condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB. |
 | `condictio-indebiti-813-bgb` | Rückforderung trotz Erfüllung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporäre Einreden, Verjährungseinrede, Tatbestandsmerkmale. Output: Prüfergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Condictio Causa Data Causa Non Secuta, Condictio Indebit
 
 ## Arbeitsweg
 
-Für **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Condictio Causa Data Causa Non Secuta, Condictio Indebiti 813 Bgb, Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes, Condictio Ob Rem Zweckabrede** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `condictio-causa-data-causa-non-secuta`
 

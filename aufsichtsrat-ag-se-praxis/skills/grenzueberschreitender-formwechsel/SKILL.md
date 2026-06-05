@@ -7,27 +7,27 @@ description: "Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `grenzueberschreitender-formwechsel` | AG/SE-Aufsichtsrat Praxis: Grenzueberschreitender Formwechsel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `grossinvestition` | AG/SE-Aufsichtsrat Praxis: Grossinvestition; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hv-bericht-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: HV Bericht Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `informationsarchitektur` | AG/SE-Aufsichtsrat Praxis: Informationsarchitektur; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `grenzueberschreitender-formwechsel` | AG/SE-Aufsichtsrat Praxis: Grenzueberschreitender Formwechsel; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `grossinvestition` | AG/SE-Aufsichtsrat Praxis: Grossinvestition; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hv-bericht-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: HV Bericht Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `informationsarchitektur` | AG/SE-Aufsichtsrat Praxis: Informationsarchitektur; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grenzueberschreitender Formwechsel, Grossinvestition, Hv Bericht Aufsichtsrat, Informationsarchitektur** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grenzueberschreitender-formwechsel`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Grenzueberschreitender Formwechsel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Grenzueberschreitender Formwechsel; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Grenzueberschreitender Formwechsel
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `grossinvestition`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Grossinvestition; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Grossinvestition; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Grossinvestition
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `hv-bericht-aufsichtsrat`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: HV Bericht Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: HV Bericht Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # HV Bericht Aufsichtsrat
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `informationsarchitektur`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Informationsarchitektur; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Informationsarchitektur; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Informationsarchitektur
 

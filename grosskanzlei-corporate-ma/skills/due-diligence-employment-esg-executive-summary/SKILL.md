@@ -1,17 +1,17 @@
 ---
 name: due-diligence-employment-esg-executive-summary
-description: "Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 weitere Module
+# Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules. |
 | `grosskanzlei-corporate-ma-due-diligence-legal` | Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei C
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Due Diligence / Grosskanzlei Corporate Ma Employment Works / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-due-diligence-commercial-contracts`
 

@@ -7,11 +7,11 @@ description: "Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vorkasse-abschlag-sicherheit` | Klausel-Fachmodul für Vorkasse Abschlag Sicherheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `wartung-maintenance` | Branchen-Fachmodul für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Websi
 
 ## Arbeitsweg
 
-Für **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vorkasse-abschlag-sicherheit`
 

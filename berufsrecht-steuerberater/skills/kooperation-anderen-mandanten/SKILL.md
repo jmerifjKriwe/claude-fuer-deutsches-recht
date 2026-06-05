@@ -7,11 +7,11 @@ description: "Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommuni
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kooperation-mit-anderen-berufen` | Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kooperation mit anderen Berufen im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `mandanten-oder-beteiligtenkommunikation` | Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Steuerberater; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kooperation Mit Anderen Berufen, Mandanten Oder Beteilig
 
 ## Arbeitsweg
 
-Für **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kooperation-mit-anderen-berufen`
 

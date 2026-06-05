@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Transparenzregister Update, Gesellschaftsgru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Transparenzregister Update, Gesellschaftsgründer Ug Vorbereitung, Gesellschaftsgründer Umsatzsteuer Start, Gesellschaftsgründer Versicherungen Start, Gesellschaftsgründer Vinkulierung Und Transfer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Transparenzregister Update, Gesellschaftsgründer Ug Vorbereitung, Gesellschaftsgründer Umsatzsteuer Start, Gesellschaftsgründer Versicherungen Start, Gesellschaftsgründer Vinkulierung Und Transfer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-transparenzregister-update` | Prüft Aktualisierung wirtschaftlich Berechtigter nach Anteilserwerb, Treuhand, Pooling oder Kontrolle. |
 | `gesellschaftsgruender-ug-vorbereitung` | UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Transparenzregister Update, Gesell
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Transparenzregister Update, Gesellschaftsgründer Ug Vorbereitung, Gesellschaftsgründer Umsatzsteuer Start, Gesellschaftsgründer Versicherungen Start, Gesellschaftsgründer Vinkulierung Und Transfer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Transparenzregister Update, Gesellschaftsgründer Ug Vorbereitung, Gesellschaftsgründer Umsatzsteuer Start, Gesellschaftsgründer Versicherungen Start, Gesellschaftsgründer Vinkulierung Und Transfer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-transparenzregister-update`
 

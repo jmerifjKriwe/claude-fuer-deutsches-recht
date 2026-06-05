@@ -7,11 +7,11 @@ description: "Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwell
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahl
 
 ## Arbeitsweg
 
-Für **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen, Unterhalt Internationaler Bezug Und Schnittstellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-normen-dokumentenmatrix-und-lueckenliste`
 

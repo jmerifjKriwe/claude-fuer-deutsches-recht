@@ -1,17 +1,17 @@
 ---
 name: china-product-safety-and-market-surveillance-eu-battery-ev-solar
-description: "Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-031-product-safety-and-ce-import` | CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix. |
 | `chn-032-market-surveillance-eu-import` | EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Product Safety And Ce Import / Market Surveillance EU Im
 
 ## Arbeitsweg
 
-Für **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Product Safety And Ce Import / Market Surveillance EU Import / Battery Ev Solar Supply Chain / Machinery Import And Factory Equipment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-031-product-safety-and-ce-import`
 

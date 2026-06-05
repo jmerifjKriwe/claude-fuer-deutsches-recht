@@ -7,11 +7,11 @@ description: "Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-022-zwischenverfuegung-registergericht-antwortstrategie` | Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde. |
 | `notariat-023-identitaetspruefung-videoident-und-praesenztermin-g` | Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 022 Zwischenverfuegung Registergericht Antworts
 
 ## Arbeitsweg
 
-Für **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-022-zwischenverfuegung-registergericht-antwortstrategie`
 

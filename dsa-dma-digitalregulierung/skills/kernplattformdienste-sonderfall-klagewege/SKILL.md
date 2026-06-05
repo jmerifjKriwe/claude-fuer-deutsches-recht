@@ -7,11 +7,11 @@ description: "Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandanten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-kernplattformdienste-sonderfall-und-edge-case` | Kernplattformdienste: Sonderfall und Edge-Case-Prüfung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-klagewege-mandantenkommunikation-entscheidungsvorlage` | Klagewege: Mandantenkommunikation und Entscheidungsvorlage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kernplattformdienste Sonderfall Und Edge Case, Klagewege
 
 ## Arbeitsweg
 
-Für **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-kernplattformdienste-sonderfall-und-edge-case`
 

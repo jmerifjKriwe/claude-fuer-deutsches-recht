@@ -7,11 +7,11 @@ description: "Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt` | Rechtsabteilungs-Fachmodul für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall` | Rechtsabteilungs-Fachmodul für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, 
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt`
 

@@ -7,11 +7,11 @@ description: "Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `betreiber-deployer-pflichten-art-26` | Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance fuer allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. |
 | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` | Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenüber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und einführer-importer-pflichten-art-23. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter U
 
 ## Arbeitsweg
 
-Für **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `betreiber-deployer-pflichten-art-26`
 

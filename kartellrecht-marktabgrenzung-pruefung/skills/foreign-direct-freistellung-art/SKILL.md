@@ -7,11 +7,11 @@ description: "Foreign Direct Investment Antitrust Schnittstelle, Freistellung Ar
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `foreign-direct-investment-antitrust-schnittstelle` | FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen. |
 | `freistellung-art-101-abs-3-aeuv-effizienz-verbraucheranteil` | Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Foreign Direct Investment Antitrust Schnittstelle, Freis
 
 ## Arbeitsweg
 
-Für **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `foreign-direct-investment-antitrust-schnittstelle`
 

@@ -1,17 +1,17 @@
 ---
 name: selbstvertreter-sozialgericht-erwerbsminderungsrente
-description: "Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 weitere Module
+# Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `erwerbsminderungsrente-belegfuehrung` | Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie. |
 | `fahrtkosten-zeugen-pkh-erstattung` | Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeuge
 
 ## Arbeitsweg
 
-Für **Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erwerbsminderungsrente Belegfuehrung / Fahrtkosten Zeugen Pkh Erstattung / Feststellungsklage Sgg / Gdb Feststellung Versorgungsamt Sgb Ix / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `erwerbsminderungsrente-belegfuehrung`
 

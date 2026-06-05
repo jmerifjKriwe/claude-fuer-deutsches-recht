@@ -7,11 +7,11 @@ description: "Maklervertrag Und Provision, Mietvertrag Grundschema Paragraph 535
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Maklervertrag Und Provision, Mietvertrag Grundschema Paragraph 535, Reisevertrag Pauschalreise** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Maklervertrag Und Provision, Mietvertrag Grundschema Paragraph 535, Reisevertrag Pauschalreise** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `maklervertrag-und-provision` | Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. |
 | `mietvertrag-grundschema-paragraph-535` | Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigung, Kaution und Schönheitsreparaturen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Maklervertrag Und Provision, Mietvertrag Grundschema Par
 
 ## Arbeitsweg
 
-Für **Maklervertrag Und Provision, Mietvertrag Grundschema Paragraph 535, Reisevertrag Pauschalreise** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Maklervertrag Und Provision, Mietvertrag Grundschema Paragraph 535, Reisevertrag Pauschalreise** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `maklervertrag-und-provision`
 

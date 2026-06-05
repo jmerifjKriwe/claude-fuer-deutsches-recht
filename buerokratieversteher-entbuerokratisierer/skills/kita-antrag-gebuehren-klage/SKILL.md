@@ -7,11 +7,11 @@ description: "Kita Antrag, Kita Gebuehren, Klage Verwaltungsgericht Einfach, Kom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kita-antrag` | Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung. |
 | `kita-gebuehren` | Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Ei
 
 ## Arbeitsweg
 
-Für **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kita-antrag`
 

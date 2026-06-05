@@ -1,17 +1,17 @@
 ---
 name: ifg-umweltinformation-widerspruch-baue-klage-vorbereite
-description: "Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-063-uig-umweltinformation-widerspruch-baue` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Widerspruch bauen. Widerspruch bauen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-064-uig-umweltinformation-klage-vorbereite` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Klage vorbereiten. Klage vorbereiten für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umweltinformation Widerspruch Baue / Umweltinformation K
 
 ## Arbeitsweg
 
-Für **Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umweltinformation Widerspruch Baue / Umweltinformation Klage Vorbereite / Umweltinformation Presseantwort Na / Umweltinformation Tracking Aktuali** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-063-uig-umweltinformation-widerspruch-baue`
 

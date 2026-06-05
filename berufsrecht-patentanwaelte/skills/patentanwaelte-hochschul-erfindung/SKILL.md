@@ -7,11 +7,11 @@ description: "Patentanwaelte Hochschul Erfindung Und Ip Policy Organisationsp, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Hochschul Erfindung Und Ip Policy Organisationsp, Patentanwaelte International Filing Und Local Counsel Kammerant, Patentanwaelte International Filing Und Local Counsel Organisat, Patentanwaelte International Filing Und Local Counsel Rechtspre** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Hochschul Erfindung Und Ip Policy Organisationsp, Patentanwaelte International Filing Und Local Counsel Kammerant, Patentanwaelte International Filing Und Local Counsel Organisat, Patentanwaelte International Filing Und Local Counsel Rechtspre** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-hochschul-erfindung-und-ip-policy-organisationsp` | Patentanwälte: hochschul erfindung und ip policy - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-international-filing-und-local-counsel-kammerant` | Patentanwälte: international filing und local counsel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwaelte Hochschul Erfindung Und Ip Policy Organis
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Hochschul Erfindung Und Ip Policy Organisationsp, Patentanwaelte International Filing Und Local Counsel Kammerant, Patentanwaelte International Filing Und Local Counsel Organisat, Patentanwaelte International Filing Und Local Counsel Rechtspre** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Hochschul Erfindung Und Ip Policy Organisationsp, Patentanwaelte International Filing Und Local Counsel Kammerant, Patentanwaelte International Filing Und Local Counsel Organisat, Patentanwaelte International Filing Und Local Counsel Rechtspre** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-hochschul-erfindung-und-ip-policy-organisationsp`
 

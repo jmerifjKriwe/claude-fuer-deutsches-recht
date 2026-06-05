@@ -7,11 +7,11 @@ description: "Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `versicherung-lehnt-ab` | Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `vorladung-polizei-zeuge-beschuldigter` | Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldi
 
 ## Arbeitsweg
 
-Für **Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `versicherung-lehnt-ab`
 

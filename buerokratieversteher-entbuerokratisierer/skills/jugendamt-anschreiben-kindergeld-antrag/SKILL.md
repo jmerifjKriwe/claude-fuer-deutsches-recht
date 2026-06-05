@@ -7,11 +7,11 @@ description: "Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `jugendamt-anschreiben` | Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben. |
 | `kindergeld-antrag` | Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag
 
 ## Arbeitsweg
 
-Für **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `jugendamt-anschreiben`
 

@@ -7,11 +7,11 @@ description: "Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbed
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-kein-risiko-dokumentation` | Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der Nichtmeldung; Risikoabwägung mit Faktoren; Aufbewahrungsfristen; Vorlage für Aufsichtsbehörde auf Anforderung. Output: vollständige Dokumentationsvorlage. Abgrenzung: keine Behördenmeldung; keine Benachrichtigung. |
 | `dsv-kinderdaten-besondere-schutzbeduerftigkeit` | Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere
 
 ## Arbeitsweg
 
-Für **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Kein Risiko Dokumentation, Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-kein-risiko-dokumentation`
 

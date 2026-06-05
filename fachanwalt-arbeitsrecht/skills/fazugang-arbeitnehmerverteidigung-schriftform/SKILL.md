@@ -7,11 +7,11 @@ description: "Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne` | Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG. |
 | `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc` | Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne
 
 ## Arbeitsweg
 
-Für **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne`
 

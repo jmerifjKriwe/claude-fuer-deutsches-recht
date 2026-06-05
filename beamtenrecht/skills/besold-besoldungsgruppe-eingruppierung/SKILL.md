@@ -7,11 +7,11 @@ description: "Besoldung Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennun` | Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion,
 
 ## Arbeitsweg
 
-Für **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion`
 

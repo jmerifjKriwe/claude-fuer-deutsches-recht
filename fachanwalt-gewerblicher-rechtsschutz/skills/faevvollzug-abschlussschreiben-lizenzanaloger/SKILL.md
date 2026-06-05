@@ -7,11 +7,11 @@ description: "Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Fri
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien. |
 | `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` | Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kost
 
 ## Arbeitsweg
 
-Für **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 
@@ -31,7 +31,7 @@ Für **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Liz
 # Red-Team und Qualitätsgate
 
 ## Aufgabe
-Dieser Arbeitsmodul führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
+Dieser Prüffeld führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
 
 ## Warum Red-Team im IP-Recht?
 

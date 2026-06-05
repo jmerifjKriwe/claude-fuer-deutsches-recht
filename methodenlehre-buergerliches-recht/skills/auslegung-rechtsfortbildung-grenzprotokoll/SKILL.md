@@ -20,7 +20,7 @@ description: "Protokolliert methodisch präzise die Grenze zwischen erlaubter Au
 ## Erste Schritte
 
 1. Bestimme den Wortlaut der einschlägigen Norm in seiner engsten und weitesten vertretbaren Lesart.
-2. Prüfe alle vier klassischen Auslegungsmethoden: Wortlaut, Systematik, Entstehungsgeschichte, Telos — und notiere das Ergebnis jeder Methode.
+2. Prüfe alle vier klassischen Auslegungsmethoden: Wortlaut, Systematik, fachliche Einordnung, Telos — und notiere das Ergebnis jeder Methode.
 3. Stelle fest, ob alle Methoden innerhalb des Wortlautspektrums konvergieren: Dann liegt reine Auslegung vor.
 4. Prüfe bei Divergenz: Ergibt die Gesamtschau trotzdem eine Lösung innerhalb des Wortlauts oder muss der Wortlaut verlassen werden?
 5. Wenn Wortlautüberschreitung nötig: Begründe die Lückenfeststellung (planwidrige Regelungslücke, nachträglicher Regelungsbedarf, Kodifikationsalterung).

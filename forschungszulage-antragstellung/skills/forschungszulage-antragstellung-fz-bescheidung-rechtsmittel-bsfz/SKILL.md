@@ -1,17 +1,17 @@
 ---
 name: forschungszulage-antragstellung-fz-bescheidung-rechtsmittel-bsfz
-description: "Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fz-bescheidung-rechtsmittel` | Bescheidung Forschungszulage: Bescheinigungsbescheid BSFZ und Festsetzungsbescheid Finanzamt sind zwei getrennte Verwaltungsakte. Rechtsmittelketten: BSFZ-Widerspruch dann Verpflichtungsklage; Finanzamt-Einspruch dann Klage Finanzgericht. Fristen und Begruendungsbausteine. |
 | `fz-bsfz-bescheinigung-projektbeschreibung` | BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Portaltexte mit Zeichenbudgets, Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete, Prüferlogik, Anti-Floskel-Regeln und Strategie Einzelantrag vs. Projektbündel. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Proj
 
 ## Arbeitsweg
 
-Für **Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fz Bescheidung Rechtsmittel / Fz Bsfz Bescheinigung Projektbeschreibung / Fz Dokumentationspaket Betriebspruefung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forschungszulage-antragstellung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fz-bescheidung-rechtsmittel`
 
@@ -56,7 +56,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
@@ -92,7 +92,7 @@ Eingang ist das Portal https://www.bescheinigung-forschungszulage.de/. Der Antra
 
 - Sobald die FuE-Eigenschaft durch `fz-fue-definition-frascati-abgrenzung` plausibilisiert ist.
 - Bei BSFZ-Rückfragen zu Inhalt oder Tiefe der Projektbeschreibung.
-- Wenn mehrere verwandte Vorhaben gebündelt eingereicht werden sollen.
+- Wenn mehrere verwandte Vorhaben gebearbeitet eingereicht werden sollen.
 - Vor jedem Folgeantrag im Mehrjahresprojekt.
 
 ## Sachrahmen — was die BSFZ tatsächlich macht

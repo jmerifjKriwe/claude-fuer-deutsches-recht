@@ -7,27 +7,27 @@ description: "Einseitig Gegenseitig Multilateral, Entwerfen Oder Prüfen Router,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Einseitig Gegenseitig Multilateral, Entwerfen Oder Prüfen Router, Eu Trade Secrets Directive, Executive Summary Für Geschaeftsfuehrung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Einseitig Gegenseitig Multilateral, Entwerfen Oder Prüfen Router, Eu Trade Secrets Directive, Executive Summary Für Geschaeftsfuehrung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `einseitig-gegenseitig-multilateral` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `entwerfen-oder-pruefen-router` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `eu-trade-secrets-directive` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `executive-summary-fuer-geschaeftsfuehrung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einseitig-gegenseitig-multilateral` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `entwerfen-oder-pruefen-router` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `eu-trade-secrets-directive` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `executive-summary-fuer-geschaeftsfuehrung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Einseitig Gegenseitig Multilateral, Entwerfen Oder Prüfen Router, Eu Trade Secrets Directive, Executive Summary Für Geschaeftsfuehrung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einseitig Gegenseitig Multilateral, Entwerfen Oder Prüfen Router, Eu Trade Secrets Directive, Executive Summary Für Geschaeftsfuehrung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `einseitig-gegenseitig-multilateral`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einseitig Gegenseitig Multilateral
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `entwerfen-oder-pruefen-router`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Entwerfen Oder Pruefen Router
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `eu-trade-secrets-directive`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # EU Trade Secrets Directive
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `executive-summary-fuer-geschaeftsfuehrung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Executive Summary Fuer Geschaeftsfuehrung
 

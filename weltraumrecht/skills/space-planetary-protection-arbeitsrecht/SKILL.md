@@ -7,11 +7,11 @@ description: "Space 044 Planetary Protection Kontaminationsvermeidung, Space 046
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-044-planetary-protection-kontaminationsvermeidung` | Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen. |
 | `space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe` | Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 044 Planetary Protection Kontaminationsvermeidung,
 
 ## Arbeitsweg
 
-Für **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-044-planetary-protection-kontaminationsvermeidung`
 

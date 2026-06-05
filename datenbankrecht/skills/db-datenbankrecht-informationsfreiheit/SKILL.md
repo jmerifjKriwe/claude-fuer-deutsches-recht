@@ -7,11 +7,11 @@ description: "Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankrecht Und In
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-051-datenbankrecht-fuer-behoerden` | Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche. |
 | `db-052-datenbankrecht-und-informationsfreiheit` | Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankre
 
 ## Arbeitsweg
 
-Für **Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db 051 Datenbankrecht Für Behörden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-051-datenbankrecht-fuer-behoerden`
 

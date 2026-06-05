@@ -29,7 +29,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 | Merkmal | CNIL PIA | SDM (DSK) | BSI-Grundschutz |
 |---|---|---|---|
 | Rechtsrahmen | DSGVO (FR) | DSGVO (DE) | IT-Sicherheit primaer |
-| Werkzeug | Open-Source-Software | Methodenpapier | Kompendium |
+| Werkzeug | Open-Source-Software | Methodenpapier | Fachüberblick |
 | Risikomodell | Schadensszenarien | Schutzziele | Schutzbedarf |
 | Strukturtiefe | hoch (sehr granular) | hoch (rechtlich praezise) | mittel (technikfokus) |
 | Aufsichtsakzeptanz DE | gut | sehr gut | gut bei TOM |
@@ -87,7 +87,7 @@ Unterschrift DSB: ____________________
 
 - CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
 - SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
-- BSI-Grundschutz: Kompendium mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
+- BSI-Grundschutz: Fachüberblick mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
 - Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software fuer strukturierte Risikoszenarien, BSI fuer TOM nach Art. 32 DSGVO.
 
 ## Anwendungsfaelle
@@ -121,6 +121,6 @@ Unterschrift DSB: ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - CNIL: cnil.fr — PIA Software, Knowledge Base, Methodology, Templates
 - DSK Datenschutzkonferenz: datenschutzkonferenz-online.de — SDM V3.0
-- BSI: bsi.bund.de — Grundschutz-Kompendium, Baustein zum Datenschutz
+- BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

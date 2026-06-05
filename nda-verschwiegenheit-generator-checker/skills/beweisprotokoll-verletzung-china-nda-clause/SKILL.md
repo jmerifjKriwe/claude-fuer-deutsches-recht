@@ -7,27 +7,27 @@ description: "Beweisprotokoll Verletzung, China Nda Nnn, Clause Redline Kommenta
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beweisprotokoll Verletzung, China Nda Nnn, Clause Redline Kommentar, Cross Border Governing Law** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beweisprotokoll Verletzung, China Nda Nnn, Clause Redline Kommentar, Cross Border Governing Law** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `beweisprotokoll-verletzung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Beweisprotokoll Verletzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `china-nda-nnn` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: China NDA Nnn; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `clause-redline-kommentar` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Clause Redline Kommentar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `cross-border-governing-law` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Cross Border Governing Law; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beweisprotokoll-verletzung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Beweisprotokoll Verletzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `china-nda-nnn` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: China NDA Nnn; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `clause-redline-kommentar` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Clause Redline Kommentar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `cross-border-governing-law` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Cross Border Governing Law; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Beweisprotokoll Verletzung, China Nda Nnn, Clause Redline Kommentar, Cross Border Governing Law** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beweisprotokoll Verletzung, China Nda Nnn, Clause Redline Kommentar, Cross Border Governing Law** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beweisprotokoll-verletzung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Beweisprotokoll Verletzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Beweisprotokoll Verletzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beweisprotokoll Verletzung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `china-nda-nnn`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: China NDA Nnn; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: China NDA Nnn; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # China NDA Nnn
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `clause-redline-kommentar`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Clause Redline Kommentar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Clause Redline Kommentar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Clause Redline Kommentar
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `cross-border-governing-law`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Cross Border Governing Law; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Cross Border Governing Law; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Cross Border Governing Law
 

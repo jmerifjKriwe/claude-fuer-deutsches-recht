@@ -7,11 +7,11 @@ description: "See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrac
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-084-binnenschiff-arrest-vorbereiten` | Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. |
 | `see-085-binnenschiff-wrackpflicht-pruefen` | Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnens
 
 ## Arbeitsweg
 
-Für **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Prüfen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren, See 088 Binnenschiff Closing Planen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-084-binnenschiff-arrest-vorbereiten`
 

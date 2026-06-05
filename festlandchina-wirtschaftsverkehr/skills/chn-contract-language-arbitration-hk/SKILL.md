@@ -7,11 +7,11 @@ description: "Chn 055 Contract Language And Governing Law, Chn 056 Arbitration H
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-055-contract-language-and-governing-law` | Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln. |
 | `chn-056-arbitration-hk-siac-ciamac` | Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Chn 055 Contract Language And Governing Law, Chn 056 Arb
 
 ## Arbeitsweg
 
-Für **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-055-contract-language-and-governing-law`
 

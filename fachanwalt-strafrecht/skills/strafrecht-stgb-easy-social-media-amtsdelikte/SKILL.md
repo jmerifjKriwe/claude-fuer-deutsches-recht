@@ -7,11 +7,11 @@ description: "Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
 | `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 St
 
 ## Arbeitsweg
 
-Für **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
 

@@ -83,6 +83,6 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `tier-tiertransport-eilantrag-suchen` | Tier 089 Tiertransport Eilantrag Bauen, Tier 090 Tiertransport Vergleich Suchen, Tier 091 Schlachthof Schutzbedarf Prüfen, Tier 092 Schlachthof Behoerdenantrag Schreiben: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege... |
 | `tier-veterinaeramt-bussgeldverfahren-tierschg` | Tier 004 Veterinaeramt Zustaendigkeit, Tier 008 Bussgeldverfahren Tierschg, Tier 014 Tierheimvertrag Und Kosten, Tier 026 Hundehaltung Bussgeld Verteidigen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrun... |
 | `tierschutzrecht-kaltstart-triage` | Tierschutzrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
-| `tierschutzrecht-tier-schlachthof-halterpflichten-eilantrag` | Tier Schlachthof Halterpflichten Erklaeren / Tier Schlachthof Eilantrag Bauen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
+| `tierschutzrecht-tier-schlachthof-halterpflichten-eilantrag` | Tier Schlachthof Halterpflichten Erklaeren / Tier Schlachthof Eilantrag Bauen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

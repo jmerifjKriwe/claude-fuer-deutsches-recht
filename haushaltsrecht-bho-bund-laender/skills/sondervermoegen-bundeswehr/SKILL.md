@@ -7,11 +7,11 @@ description: "Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sonderverm
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sondervermoegen Bundeswehr Brh Frage F, Bho 104 Sondervermoegen Bundeswehr Parlamentsf, Bho 105 Sondervermoegen Bundeswehr Vollzug Tra, Bho 106 Klimafonds Titel Prüfen und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sondervermoegen Bundeswehr Brh Frage F, Bho 104 Sondervermoegen Bundeswehr Parlamentsf, Bho 105 Sondervermoegen Bundeswehr Vollzug Tra, Bho 106 Klimafonds Titel Prüfen und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-102-sondervermoegen-bundeswehr-risiko-mark` | Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren. Risiko markieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-103-sondervermoegen-bundeswehr-brh-frage-f` | Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: BRH-Frage formulieren. BRH-Frage formulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 
 
 ## Arbeitsweg
 
-Für **Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sondervermoegen Bundeswehr Brh Frage F, Bho 104 Sondervermoegen Bundeswehr Parlamentsf, Bho 105 Sondervermoegen Bundeswehr Vollzug Tra, Bho 106 Klimafonds Titel Prüfen und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sondervermoegen Bundeswehr Brh Frage F, Bho 104 Sondervermoegen Bundeswehr Parlamentsf, Bho 105 Sondervermoegen Bundeswehr Vollzug Tra, Bho 106 Klimafonds Titel Prüfen und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-102-sondervermoegen-bundeswehr-risiko-mark`
 

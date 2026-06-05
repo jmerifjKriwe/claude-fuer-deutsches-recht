@@ -7,11 +7,11 @@ description: "Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customiz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gdpr-privacy-by-design-software` | Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV. |
 | `gpl-agpl` | Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Gdpr Privacy By Design Software, Gpl Agpl, Implementatio
 
 ## Arbeitsweg
 
-Für **Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gdpr-privacy-by-design-software`
 

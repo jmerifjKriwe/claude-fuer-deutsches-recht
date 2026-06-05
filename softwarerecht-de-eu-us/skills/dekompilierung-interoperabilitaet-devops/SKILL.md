@@ -7,11 +7,11 @@ description: "Dekompilierung Interoperabilitaet 69e, Devops Cloud Control, Dual 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dekompilierung Interoperabilitaet 69E, Devops Cloud Control, Dual Licensing, Eidas Electronic Signatures Software** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dekompilierung Interoperabilitaet 69E, Devops Cloud Control, Dual Licensing, Eidas Electronic Signatures Software** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dekompilierung-interoperabilitaet-69e` | Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede. |
 | `devops-cloud-control` | Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dekompilierung Interoperabilitaet 69E, Devops Cloud Cont
 
 ## Arbeitsweg
 
-Für **Dekompilierung Interoperabilitaet 69E, Devops Cloud Control, Dual Licensing, Eidas Electronic Signatures Software** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dekompilierung Interoperabilitaet 69E, Devops Cloud Control, Dual Licensing, Eidas Electronic Signatures Software** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dekompilierung-interoperabilitaet-69e`
 

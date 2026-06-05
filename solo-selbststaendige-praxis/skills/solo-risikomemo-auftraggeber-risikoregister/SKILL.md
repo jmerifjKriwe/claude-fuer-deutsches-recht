@@ -7,11 +7,11 @@ description: "Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `solo-risikomemo-auftraggeber` | Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-risikoregister` | Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo 
 
 ## Arbeitsweg
 
-Für **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten, Solo Skalierung Ohne Chaos und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `solo-selbststaendige-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `solo-risikomemo-auftraggeber`
 

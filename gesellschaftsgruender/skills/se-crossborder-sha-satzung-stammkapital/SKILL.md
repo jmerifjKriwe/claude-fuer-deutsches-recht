@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Se Und Crossborder, Gesellschaftsgruender Sh
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-se-und-crossborder` | Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene. |
 | `gesellschaftsgruender-sha-satzung-stimmverpflichtung` | Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsg
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-se-und-crossborder`
 

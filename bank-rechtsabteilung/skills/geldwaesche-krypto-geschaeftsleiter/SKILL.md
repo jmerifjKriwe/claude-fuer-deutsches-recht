@@ -7,11 +7,11 @@ description: "Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung K
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung Krise, Geschaeftsleiter Bestellung Kwg Zag, Girokonto Firmenkunden Risk Exit, Gwg Aml Kyc Verdachtsmeldung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung Krise, Geschaeftsleiter Bestellung Kwg Zag, Girokonto Firmenkunden Risk Exit, Gwg Aml Kyc Verdachtsmeldung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `geldwaesche-krypto-wallet-screening` | Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking. |
 | `geschaeftsleiter-abberufung-krise` | Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Ab
 
 ## Arbeitsweg
 
-Für **Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung Krise, Geschaeftsleiter Bestellung Kwg Zag, Girokonto Firmenkunden Risk Exit, Gwg Aml Kyc Verdachtsmeldung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung Krise, Geschaeftsleiter Bestellung Kwg Zag, Girokonto Firmenkunden Risk Exit, Gwg Aml Kyc Verdachtsmeldung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `geldwaesche-krypto-wallet-screening`
 

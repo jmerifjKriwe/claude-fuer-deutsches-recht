@@ -7,11 +7,11 @@ description: "Datenschutz Datenpanne Art 33 34 72h Incident Response, Datenschut
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `datenschutz-datenpanne-art-33-34-72h-incident-response` | Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-fuer-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte fuer Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
 | `datenschutz-erstgespraech-mandantenmatrix-7-fragen` | Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Datenschutz Datenpanne Art 33 34 72H Incident Response, 
 
 ## Arbeitsweg
 
-Für **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenschutz-datenpanne-art-33-34-72h-incident-response`
 

@@ -7,11 +7,11 @@ description: "Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-015-grundbuchberichtigung-pruefen` | Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-016-behoerde-und-archiv-finden` | Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde 
 
 ## Arbeitsweg
 
-Für **Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 015 Grundbuchberichtigung Prüfen, Ein 016 Behörde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-015-grundbuchberichtigung-pruefen`
 

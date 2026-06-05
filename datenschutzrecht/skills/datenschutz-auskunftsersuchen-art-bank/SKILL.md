@@ -7,11 +7,11 @@ description: "Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Able
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `datenschutz-auskunftsersuchen-art-15-praxis` | Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte fuer Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit). |
 | `datenschutz-bank-ablehnung-score-beweisplan` | Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz
 
 ## Arbeitsweg
 
-Für **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenschutz-auskunftsersuchen-art-15-praxis`
 

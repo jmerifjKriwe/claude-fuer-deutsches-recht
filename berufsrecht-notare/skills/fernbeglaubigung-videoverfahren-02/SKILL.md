@@ -1,17 +1,17 @@
 ---
 name: fernbeglaubigung-videoverfahren-02
-description: "Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-fernbeglaubigung-und-videoverfahren-kammerantwort-und-ve` | Notare: fernbeglaubigung und videoverfahren - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-fernbeglaubigung-und-videoverfahren-organisationspflicht` | Notare: fernbeglaubigung und videoverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve 
 
 ## Arbeitsweg
 
-Für **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfahrens** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-fernbeglaubigung-und-videoverfahren-kammerantwort-und-ve`
 

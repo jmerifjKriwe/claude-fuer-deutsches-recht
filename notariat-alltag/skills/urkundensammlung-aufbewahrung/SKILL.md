@@ -7,11 +7,11 @@ description: "Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat 044 Notarvertretung Notariatsverwalter Und Amtsuebergab** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat 044 Notarvertretung Notariatsverwalter Und Amtsuebergab** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi` | Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen. |
 | `notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku` | Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung 
 
 ## Arbeitsweg
 
-Für **Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat 044 Notarvertretung Notariatsverwalter Und Amtsuebergab** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat 044 Notarvertretung Notariatsverwalter Und Amtsuebergab** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi`
 

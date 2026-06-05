@@ -7,11 +7,11 @@ description: "Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 09
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 093 Board Memo Raumfahrt Haftung Und Versicherung, Space 101 Space Weather Solarsturm Haftung Und Versicherung, Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 093 Board Memo Raumfahrt Haftung Und Versicherung, Space 101 Space Weather Solarsturm Haftung Und Versicherung, Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen` | Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use. |
 | `space-093-board-memo-raumfahrt-haftung-und-versicherung` | Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen
 
 ## Arbeitsweg
 
-Für **Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 093 Board Memo Raumfahrt Haftung Und Versicherung, Space 101 Space Weather Solarsturm Haftung Und Versicherung, Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 093 Board Memo Raumfahrt Haftung Und Versicherung, Space 101 Space Weather Solarsturm Haftung Und Versicherung, Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen`
 

@@ -7,11 +7,11 @@ description: "Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Frakt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-033-normtext-in-heutige-sprache-uebertragen` | PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen. |
 | `pralr-034-fraktur-lesen-und-begriffe-entschluesseln` | PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr
 
 ## Arbeitsweg
 
-Für **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen, Pralr 037 Aktenvermerk Für Gericht Oder Gutachten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-033-normtext-in-heutige-sprache-uebertragen`
 

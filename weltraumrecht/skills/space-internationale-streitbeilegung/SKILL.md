@@ -7,11 +7,11 @@ description: "Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Sp
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-087-internationale-streitbeilegung-diplomatischer-schutz` | Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht. |
 | `space-089-nationale-weltraumregister-eintragung-und-nachweise` | Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 087 Internationale Streitbeilegung Diplomatischer 
 
 ## Arbeitsweg
 
-Für **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-087-internationale-streitbeilegung-diplomatischer-schutz`
 

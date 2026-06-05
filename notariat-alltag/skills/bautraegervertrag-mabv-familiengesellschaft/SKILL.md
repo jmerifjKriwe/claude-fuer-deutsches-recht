@@ -7,11 +7,11 @@ description: "Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen` | Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber. |
 | `notariat-029-familiengesellschaft-poolvertrag-und-minderjaehrige` | Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahm
 
 ## Arbeitsweg
 
-Für **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen`
 

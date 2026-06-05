@@ -7,11 +7,11 @@ description: "Mandantenintake Risikoampel Und Gegenargumente, Mandatsuebergabe I
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandantenintake Risikoampel Und Gegenargumente, Mandatsuebergabe International Schnittstellen, Pro Bono Mandatsuebergabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandantenintake Risikoampel Und Gegenargumente, Mandatsuebergabe International Schnittstellen, Pro Bono Mandatsuebergabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-mandantenintake-risikoampel-und-gegenargumente` | Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-mandatsuebergabe-international-schnittstellen` | Mandatsuebergabe: Internationaler Bezug und Schnittstellen im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Mandantenintake Risikoampel Und Gegenargumente, Mandatsu
 
 ## Arbeitsweg
 
-Für **Mandantenintake Risikoampel Und Gegenargumente, Mandatsuebergabe International Schnittstellen, Pro Bono Mandatsuebergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenintake Risikoampel Und Gegenargumente, Mandatsuebergabe International Schnittstellen, Pro Bono Mandatsuebergabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-mandantenintake-risikoampel-und-gegenargumente`
 

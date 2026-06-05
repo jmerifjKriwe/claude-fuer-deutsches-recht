@@ -7,11 +7,11 @@ description: "Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung` | EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen. |
 | `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache` | EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvoll
 
 ## Arbeitsweg
 
-Für **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung`
 

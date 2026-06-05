@@ -7,11 +7,11 @@ description: "Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Gemeindestra
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Gemeindestrasse Kostenlast Prüfen, Str 068 Gemeindestrasse Unterhaltung Ruegen, Str 069 Gemeindestrasse Dokumente Sortieren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Gemeindestrasse Kostenlast Prüfen, Str 068 Gemeindestrasse Unterhaltung Ruegen, Str 069 Gemeindestrasse Dokumente Sortieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-066-gemeindestrasse-eilantrag-skizzieren` | Straßenrecht und Infrastruktur: Gemeindestraße: Eilantrag skizzieren. Eilantrag skizzieren für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-067-gemeindestrasse-kostenlast-pruefen` | Straßenrecht und Infrastruktur: Gemeindestraße: Kostenlast prüfen. Kostenlast prüfen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Ge
 
 ## Arbeitsweg
 
-Für **Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Gemeindestrasse Kostenlast Prüfen, Str 068 Gemeindestrasse Unterhaltung Ruegen, Str 069 Gemeindestrasse Dokumente Sortieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 066 Gemeindestrasse Eilantrag Skizzieren, Str 067 Gemeindestrasse Kostenlast Prüfen, Str 068 Gemeindestrasse Unterhaltung Ruegen, Str 069 Gemeindestrasse Dokumente Sortieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-066-gemeindestrasse-eilantrag-skizzieren`
 

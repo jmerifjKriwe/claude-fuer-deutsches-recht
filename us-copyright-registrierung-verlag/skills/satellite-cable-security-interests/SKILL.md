@@ -7,11 +7,11 @@ description: "Satellite Cable Licenses, Security Interests Copyright Assets, Sem
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Satellite Cable Licenses, Security Interests Copyright Assets, Semiconductor Chip Ch9, Serials Newsletters Database Updates** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Satellite Cable Licenses, Security Interests Copyright Assets, Semiconductor Chip Ch9, Serials Newsletters Database Updates** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `satellite-cable-licenses` | Prueft statutory licenses für Cable, Satellite, retransmission, reporting und payment issues. |
 | `security-interests-copyright-assets` | Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Satellite Cable Licenses, Security Interests Copyright A
 
 ## Arbeitsweg
 
-Für **Satellite Cable Licenses, Security Interests Copyright Assets, Semiconductor Chip Ch9, Serials Newsletters Database Updates** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Satellite Cable Licenses, Security Interests Copyright Assets, Semiconductor Chip Ch9, Serials Newsletters Database Updates** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `satellite-cable-licenses`
 

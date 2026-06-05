@@ -7,11 +7,11 @@ description: "Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht` | Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen. |
 | `fran-009-markennutzung-ci-und-qualitaetskontrolle` | Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrec
 
 ## Arbeitsweg
 
-Für **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht`
 

@@ -7,21 +7,21 @@ description: "Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Frist
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `bedingungen-aufschiebend-aufloesend-fristen` | Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen. |
 
 ## Arbeitsweg
 
-Für **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-fristen-und-risikoampel`
 
@@ -30,7 +30,7 @@ Für **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zu
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Arbeitsmodul markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
+Dieser Prüffeld markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
 
 ## Risikoampel Word-Dokumente
 - **Rot:** Tracked Changes nicht angenommen/abgelehnt -> versehentlicher Versand mit Markup; Kommentare an Mandant/Gegenseite. Vor Versand "Endgültig (mit Markup)" prüfen; "Dokument prüfen" (Inspect Document).

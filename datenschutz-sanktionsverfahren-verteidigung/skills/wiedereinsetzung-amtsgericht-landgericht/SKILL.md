@@ -7,11 +7,11 @@ description: "Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit Amtsgericht
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit Amtsgericht Landgericht 41 Bdsg, Zwischenverfahren 69 Owig, Aufsichtliche Anordnung Plus Bussgeld Doppelspur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit Amtsgericht Landgericht 41 Bdsg, Zwischenverfahren 69 Owig, Aufsichtliche Anordnung Plus Bussgeld Doppelspur** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wiedereinsetzung-nach-fristversaeumnis` | Wiedereinsetzung nach Fristversäumnis: Versäumte Einspruchs- oder Rechtsmittelfristen mit Zustellungs- und Büroorganisationsprüfung retten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `zustaendigkeit-amtsgericht-landgericht-41-bdsg` | Zuständigkeit Amtsgericht Landgericht § 41 BDSG: Prüfen, ob wegen Geldbuße über 100.000 EUR das Landgericht statt Amtsgericht entscheidet. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit A
 
 ## Arbeitsweg
 
-Für **Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit Amtsgericht Landgericht 41 Bdsg, Zwischenverfahren 69 Owig, Aufsichtliche Anordnung Plus Bussgeld Doppelspur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutz-sanktionsverfahren-verteidigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wiedereinsetzung Nach Fristversaeumnis, Zustaendigkeit Amtsgericht Landgericht 41 Bdsg, Zwischenverfahren 69 Owig, Aufsichtliche Anordnung Plus Bussgeld Doppelspur** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutz-sanktionsverfahren-verteidigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wiedereinsetzung-nach-fristversaeumnis`
 

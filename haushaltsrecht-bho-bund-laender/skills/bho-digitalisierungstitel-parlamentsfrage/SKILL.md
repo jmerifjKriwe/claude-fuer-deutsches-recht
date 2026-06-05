@@ -7,11 +7,11 @@ description: "Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 Digitalisie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 Digitalisierungstitel Vollzug Tracken, Bho 126 Zinsausgaben Titel Prüfen, Bho 127 Zinsausgaben Umschichtung Simulieren, Bho 128 Zinsausgaben Sperre Bewerten und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 Digitalisierungstitel Vollzug Tracken, Bho 126 Zinsausgaben Titel Prüfen, Bho 127 Zinsausgaben Umschichtung Simulieren, Bho 128 Zinsausgaben Sperre Bewerten und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-124-digitalisierungstitel-parlamentsfrage` | Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-125-digitalisierungstitel-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Vollzug tracken. Vollzug tracken für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 D
 
 ## Arbeitsweg
 
-Für **Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 Digitalisierungstitel Vollzug Tracken, Bho 126 Zinsausgaben Titel Prüfen, Bho 127 Zinsausgaben Umschichtung Simulieren, Bho 128 Zinsausgaben Sperre Bewerten und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 124 Digitalisierungstitel Parlamentsfrage, Bho 125 Digitalisierungstitel Vollzug Tracken, Bho 126 Zinsausgaben Titel Prüfen, Bho 127 Zinsausgaben Umschichtung Simulieren, Bho 128 Zinsausgaben Sperre Bewerten und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-124-digitalisierungstitel-parlamentsfrage`
 

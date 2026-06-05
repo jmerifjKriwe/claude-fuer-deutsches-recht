@@ -7,11 +7,11 @@ description: "Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `produzentenhaftung-und-verkehrssicherung` | Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. |
 | `schadensrecht-paragraphen-249-253` | Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Produzentenhaftung Und Verkehrssicherung, Schadensrecht 
 
 ## Arbeitsweg
 
-Für **Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `produzentenhaftung-und-verkehrssicherung`
 

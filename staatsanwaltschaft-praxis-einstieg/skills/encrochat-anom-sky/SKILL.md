@@ -7,11 +7,11 @@ description: "Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `encrochat-anom-sky-ecc-krypto` | EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `encrochat-sky-ecc-anom-beweiswert` | EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Be
 
 ## Arbeitsweg
 
-Für **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `encrochat-anom-sky-ecc-krypto`
 

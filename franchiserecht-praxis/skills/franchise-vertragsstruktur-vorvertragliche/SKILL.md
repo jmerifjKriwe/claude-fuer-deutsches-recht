@@ -7,11 +7,11 @@ description: "Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `franchise-vertragsstruktur-master-unit` | Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster. |
 | `franchise-vorvertragliche-aufklaerung-bgh` | Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Franchise Vertragsstruktur Master Unit, Franchise Vorver
 
 ## Arbeitsweg
 
-Für **Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `franchise-vertragsstruktur-master-unit`
 

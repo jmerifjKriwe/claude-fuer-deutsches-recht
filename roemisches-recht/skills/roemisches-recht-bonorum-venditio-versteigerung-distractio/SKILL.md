@@ -1,17 +1,17 @@
 ---
 name: roemisches-recht-bonorum-venditio-versteigerung-distractio
-description: "Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 weitere Module
+# Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-113-bonorum-venditio-versteigerung-und-bonorum-emptor` | Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix. |
 | `rom-114-bonorum-distractio-vermoegenseinzelverkauf` | Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Bonorum Venditio Versteigerung Emptor / Bonorum Distract
 
 ## Arbeitsweg
 
-Für **Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bonorum Venditio Versteigerung Emptor / Bonorum Distractio Vermoegenseinzelverkauf / Actio Pauliana Glaeubigeranfechtung / Actio Pauliana Voraussetzungen Beweisrecht / 4 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-113-bonorum-venditio-versteigerung-und-bonorum-emptor`
 

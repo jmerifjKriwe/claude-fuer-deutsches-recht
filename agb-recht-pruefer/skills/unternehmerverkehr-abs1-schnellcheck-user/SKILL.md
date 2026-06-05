@@ -7,24 +7,24 @@ description: "Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `unternehmerverkehr-310-abs1` | Norm- und Dogmatik-Skill für Unternehmerverkehr 310 Abs. 1: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `unternehmerverkehr-schnellcheck` | Einstiegs- und Arbeitsmodul für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `unternehmerverkehr-schnellcheck` | Einstiegs- und Prüffeld für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `user-content-moderation` | Klausel-Fachmodul für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `vdug-abhilfeklage-agb-schnittstelle` | Norm- und Dogmatik-Skill für VDuG Abhilfeklage AGB Schnittstelle: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `verbraucherbesonderheiten-310-abs3` | Norm- und Dogmatik-Skill für Verbraucherbesonderheiten 310 Abs. 3: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
 ## Arbeitsweg
 
-Für **Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `unternehmerverkehr-310-abs1`
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `unternehmerverkehr-schnellcheck`
 
-**Fokus:** Einstiegs- und Arbeitsmodul für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Prüffeld für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Unternehmerverkehr Schnellcheck
 

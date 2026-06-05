@@ -7,11 +7,11 @@ description: "Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Scheidung Han
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Scheidung Handlungsoptionen, Rentnerfall Beide Beziehen Rente, Riester Ruerup Versorgungsausgleich, Schriftsatzkern Substantiierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Scheidung Handlungsoptionen, Rentnerfall Beide Beziehen Rente, Riester Ruerup Versorgungsausgleich, Schriftsatzkern Substantiierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `red-team-va-beschluss-rechnerisch` | Red-Team VA-Beschluss rechnerisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `rentenluecke-nach-scheidung-handlungsoptionen` | Rentenlücke nach Scheidung Handlungsoptionen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Sch
 
 ## Arbeitsweg
 
-Für **Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Scheidung Handlungsoptionen, Rentnerfall Beide Beziehen Rente, Riester Ruerup Versorgungsausgleich, Schriftsatzkern Substantiierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Red Team Va Beschluss Rechnerisch, Rentenluecke Nach Scheidung Handlungsoptionen, Rentnerfall Beide Beziehen Rente, Riester Ruerup Versorgungsausgleich, Schriftsatzkern Substantiierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `red-team-va-beschluss-rechnerisch`
 

@@ -7,11 +7,11 @@ description: "Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Ds
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-art-9-besondere-kategorien` | Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizierung; Gesundheitsdaten; Daten zum Sexualleben oder zur sexuellen Orientierung. Folgen: regelmäßige Annahme hohen Risikos; Benachrichtigung Art. 34 DSGVO; Bußgeldverschärfung Art. 83 Abs. 5. Output: Memo mit Schutzbedarfsanalyse. Abgrenzung: § 203 StGB getrennt; Sozialdaten getrennt. |
 | `dsv-aufnahme-statusinformation` | Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinfor
 
 ## Arbeitsweg
 
-Für **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-art-9-besondere-kategorien`
 

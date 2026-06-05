@@ -7,21 +7,21 @@ description: "Chronologie Und Belegmatrix, Fristen Und Risikoampel: wählt den k
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chronologie Und Belegmatrix, Fristen Und Risikoampel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chronologie Und Belegmatrix, Fristen Und Risikoampel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin meinungspruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin meinungspruefer: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 
 ## Arbeitsweg
 
-Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `meinungspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
@@ -30,7 +30,7 @@ Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel** zuerst das Arbeits
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Arbeitsmodul baut zu einer streitigen Äußerung eine vollständige Chronologie und Belegmatrix: Veröffentlichung, Reichweite, Reaktionen, Kenntniserlangung des Betroffenen, anwaltliche Schritte, Plattform-Meldungen.
+Dieser Prüffeld baut zu einer streitigen Äußerung eine vollständige Chronologie und Belegmatrix: Veröffentlichung, Reichweite, Reaktionen, Kenntniserlangung des Betroffenen, anwaltliche Schritte, Plattform-Meldungen.
 
 ## Pflicht-Daten Äußerungsrecht
 - **Erstveröffentlichung:** Datum, Uhrzeit, Plattform, URL, Verfasser, Reichweite (Followerzahl, Reach).
@@ -80,7 +80,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Arbeitsmodul markiert in äußerungsrechtlichen Mandaten typische Fristen und Eskalationsrisiken: Eilantrag auf Unterlassung, Gegendarstellung, DSA/Plattform-Beschwerde, presserechtliche Auseinandersetzung.
+Dieser Prüffeld markiert in äußerungsrechtlichen Mandaten typische Fristen und Eskalationsrisiken: Eilantrag auf Unterlassung, Gegendarstellung, DSA/Plattform-Beschwerde, presserechtliche Auseinandersetzung.
 
 ## Äußerungsrechtliche Fristen
 - **Einstweilige Verfügung (§§ 935 ff., 940 ZPO):** Verfügungsgrund regelmäßig nur ca. 4 Wochen nach Kenntnis (Selbstwiderlegungsdoktrin der OLG; siehe LG/OLG Köln-/Hamburger-Linie; bitte aktuelle OLG-Rechtsprechung prüfen).

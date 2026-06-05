@@ -7,11 +7,11 @@ description: "Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 064 Checkliste Tagesstart Im Notariat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 064 Checkliste Tagesstart Im Notariat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria` | Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten. |
 | `notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und` | Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem
 
 ## Arbeitsweg
 
-Für **Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 064 Checkliste Tagesstart Im Notariat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 064 Checkliste Tagesstart Im Notariat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria`
 

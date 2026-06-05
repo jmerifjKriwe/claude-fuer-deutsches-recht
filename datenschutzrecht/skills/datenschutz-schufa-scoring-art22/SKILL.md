@@ -7,11 +7,11 @@ description: "Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
 | `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz
 
 ## Arbeitsweg
 
-Für **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenschutz-schufa-insolvenzdaten-loeschung`
 

@@ -7,11 +7,11 @@ description: "Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-rechtsprechungsgetrieben-rechtsweg-register` | Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bverfg-verfahrenssicht-und-annahmerisiko` | BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verf
 
 ## Arbeitsweg
 
-Für **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verfassungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsprechungsgetrieben Rechtsweg Register, Bverfg Verfahrenssicht Und Annahmerisiko, Grundgesetz Fristen Form Und Zustaendigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verfassungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-rechtsprechungsgetrieben-rechtsweg-register`
 

@@ -7,11 +7,11 @@ description: "Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesabl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesablehnung, Meth Anspruchsgrundlage Pyramide Bauleiter, Meth Richterrecht Rechtsfortbildung Spezial, Meth Verfassungskonforme Auslegung Spezial** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesablehnung, Meth Anspruchsgrundlage Pyramide Bauleiter, Meth Richterrecht Rechtsfortbildung Spezial, Meth Verfassungskonforme Auslegung Spezial** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `libertaere-methodenkritik-privatautonomie` | Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen. |
 | `luecke-oder-gesetzesablehnung` | Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Libertaere Methodenkritik Privatautonomie, Luecke Oder G
 
 ## Arbeitsweg
 
-Für **Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesablehnung, Meth Anspruchsgrundlage Pyramide Bauleiter, Meth Richterrecht Rechtsfortbildung Spezial, Meth Verfassungskonforme Auslegung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesablehnung, Meth Anspruchsgrundlage Pyramide Bauleiter, Meth Richterrecht Rechtsfortbildung Spezial, Meth Verfassungskonforme Auslegung Spezial** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `libertaere-methodenkritik-privatautonomie`
 

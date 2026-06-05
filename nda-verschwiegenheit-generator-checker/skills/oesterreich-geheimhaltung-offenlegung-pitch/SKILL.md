@@ -7,27 +7,27 @@ description: "Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Ope
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `oesterreich-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `offenlegung-in-pitch-und-datenraum` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `open-source-und-secret-contamination` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `patent-erfinder-und-prior-art` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `oesterreich-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `offenlegung-in-pitch-und-datenraum` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `open-source-und-secret-contamination` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `patent-erfinder-und-prior-art` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oesterreich-geheimhaltung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Oesterreich Geheimhaltung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `offenlegung-in-pitch-und-datenraum`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Offenlegung In Pitch Und Datenraum
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `open-source-und-secret-contamination`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Open Source Und Secret Contamination
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `patent-erfinder-und-prior-art`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Patent Erfinder Und Prior Art
 

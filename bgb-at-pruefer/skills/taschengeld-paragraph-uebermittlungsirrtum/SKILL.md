@@ -7,11 +7,11 @@ description: "Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Ver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `taschengeld-paragraph-110` | Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB. |
 | `uebermittlungsirrtum-paragraph-120` | Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragrap
 
 ## Arbeitsweg
 
-Für **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `taschengeld-paragraph-110`
 

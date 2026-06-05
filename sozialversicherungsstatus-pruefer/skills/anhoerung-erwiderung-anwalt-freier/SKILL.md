@@ -7,11 +7,11 @@ description: "Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueber
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anhoerung-erwiderung` | Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid. |
 | `anwalt-freier-mitarbeiter` | Prüft freie anwaltliche Mitarbeit, Kanzleieingliederung, Versorgungswerk, Weisungen, Mandatskontakt und Abrechnung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitn
 
 ## Arbeitsweg
 
-Für **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anhoerung Erwiderung, Anwalt Freier Mitarbeiter, Arbeitnehmerueberlassung Abgrenzung, Arbeitsmittel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anhoerung-erwiderung`
 

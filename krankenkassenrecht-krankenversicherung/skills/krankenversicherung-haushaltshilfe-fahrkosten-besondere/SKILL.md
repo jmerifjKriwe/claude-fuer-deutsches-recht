@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-haushaltshilfe-fahrkosten-besondere
-description: "Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen` | GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 60 SGB V) und besondere Lebenslagen: Anspruchsvoraussetzungen, Genehmigung und Widerspruch. |
 | `kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss` | Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahner
 
 ## Arbeitsweg
 
-Für **Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haushaltshilfe Fahrkosten Besondere Lebenslagen / Zahnersatz Heil Kostenplan Bonusheft Festzuschuss / Kinderleistungen Sozialpaediatrie Therapie Schulbegle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen`
 

@@ -7,11 +7,11 @@ description: "Lease 056 Mobile Work Equipment, Lease 057 Verwertung Nach Kündig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 056 Mobile Work Equipment, Lease 057 Verwertung Nach Kündigung, Lease 058 Verbraucherbeweglich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 056 Mobile Work Equipment, Lease 057 Verwertung Nach Kündigung, Lease 058 Verbraucherbeweglich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-056-mobile-work-equipment` | Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien. |
 | `lease-057-verwertung-nach-kuendigung` | Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadensminderungspflicht, Erlösoptimierung, Dokumentation und Schadensersatzberechnung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 056 Mobile Work Equipment, Lease 057 Verwertung Na
 
 ## Arbeitsweg
 
-Für **Lease 056 Mobile Work Equipment, Lease 057 Verwertung Nach Kündigung, Lease 058 Verbraucherbeweglich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 056 Mobile Work Equipment, Lease 057 Verwertung Nach Kündigung, Lease 058 Verbraucherbeweglich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-056-mobile-work-equipment`
 

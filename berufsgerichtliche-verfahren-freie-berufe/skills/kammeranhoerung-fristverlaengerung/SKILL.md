@@ -7,11 +7,11 @@ description: "Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fristverlaengerung Verteidigung, Patentanwalt Fristenversaeumnis Epo Dpma Praevention, Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fristverlaengerung Verteidigung, Patentanwalt Fristenversaeumnis Epo Dpma Praevention, Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kammeranhoerung-fristverlaengerung-praevention` | Kammeranhörung Fristverlängerung (Präventions- und Organisationspaket): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `kammeranhoerung-fristverlaengerung-verteidigung` | Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kammeranhoerung Fristverlaengerung Praevention, Kammeran
 
 ## Arbeitsweg
 
-Für **Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fristverlaengerung Verteidigung, Patentanwalt Fristenversaeumnis Epo Dpma Praevention, Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fristverlaengerung Verteidigung, Patentanwalt Fristenversaeumnis Epo Dpma Praevention, Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kammeranhoerung-fristverlaengerung-praevention`
 

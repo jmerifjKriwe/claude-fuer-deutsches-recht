@@ -7,11 +7,11 @@ description: "Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wehrpflicht-wehrdienst-reservist-routing` | Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG. |
 | `wehrpflichtgesetz-spannungs-und-verteidigungsfall` | Wehrpflichtgesetz Spannungs- und Verteidigungsfall: prüft Reaktivierung Wehrpflicht, Musterung, Heranziehung und Rechtsbehelfe. Norm-/Quellenanker: WPflG, Art. 12a GG, Art. 115a GG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtges
 
 ## Arbeitsweg
 
-Für **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wehrpflicht-wehrdienst-reservist-routing`
 

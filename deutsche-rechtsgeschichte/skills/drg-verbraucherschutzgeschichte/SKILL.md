@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschichte, Deutsch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschichte, Deutsche Rechtsgeschichte 053 Datenschutz Und Informationelle Selbstbestimmung, Deutsche Rechtsgeschichte 054 Umweltrechtliche Modernisierung, Deutsche Rechtsgeschichte 055 Medizinrecht Und Patientenrechte, Deutsche Rechtsgeschichte 056 Presserecht Und Meinungsfreiheit Historisch und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschichte, Deutsche Rechtsgeschichte 053 Datenschutz Und Informationelle Selbstbestimmung, Deutsche Rechtsgeschichte 054 Umweltrechtliche Modernisierung, Deutsche Rechtsgeschichte 055 Medizinrecht Und Patientenrechte, Deutsche Rechtsgeschichte 056 Presserecht Und Meinungsfreiheit Historisch und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-052-verbraucherschutzgeschichte` | Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien. |
 | `drg-053-datenschutz-und-informationelle-selbstbestimmung` | Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschicht
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschichte, Deutsche Rechtsgeschichte 053 Datenschutz Und Informationelle Selbstbestimmung, Deutsche Rechtsgeschichte 054 Umweltrechtliche Modernisierung, Deutsche Rechtsgeschichte 055 Medizinrecht Und Patientenrechte, Deutsche Rechtsgeschichte 056 Presserecht Und Meinungsfreiheit Historisch und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 052 Verbraucherschutzgeschichte, Deutsche Rechtsgeschichte 053 Datenschutz Und Informationelle Selbstbestimmung, Deutsche Rechtsgeschichte 054 Umweltrechtliche Modernisierung, Deutsche Rechtsgeschichte 055 Medizinrecht Und Patientenrechte, Deutsche Rechtsgeschichte 056 Presserecht Und Meinungsfreiheit Historisch und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-052-verbraucherschutzgeschichte`
 

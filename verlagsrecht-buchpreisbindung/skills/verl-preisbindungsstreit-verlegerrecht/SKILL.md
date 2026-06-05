@@ -7,21 +7,21 @@ description: "Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 V
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-042-preisbindungsstreit-unterlassung-und-auskunft` | Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie. |
 | `verl-043-verlegerrecht-historisch-und-heutige-grenzen` | Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes. |
 
 ## Arbeitsweg
 
-Für **Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-042-preisbindungsstreit-unterlassung-und-auskunft`
 

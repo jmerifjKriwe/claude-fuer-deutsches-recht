@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deuts
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-058-wahlrecht-und-repraesentation` | Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz. |
 | `drg-059-frauenrechte-und-rechtsgleichheit` | Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentat
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 058 Wahlrecht Und Repraesentation, Deutsche Rechtsgeschichte 059 Frauenrechte Und Rechtsgleichheit, Deutsche Rechtsgeschichte 060 Migrations Und Staatsangehoerigkeitsrecht, Deutsche Rechtsgeschichte 061 Kirchenrecht Und Staatskirchenrecht, Deutsche Rechtsgeschichte 062 Rechtssprache Und Begriffsgeschichte und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-058-wahlrecht-und-repraesentation`
 
@@ -270,7 +270,7 @@ Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volks
 ## Output
 
 - Rechtssprach-Entwicklung: Volkssprache, Latein, Pandektistik, BGB-Sprache
-- BGB-Schluessel-Begriffe mit Entstehungsgeschichte
+- BGB-Schluessel-Begriffe mit fachliche Einordnung
 - Kosellecks Begriffsgeschichte: Methode und Anwendungsbeispiele
 
 ## Quellenregel

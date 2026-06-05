@@ -1,17 +1,17 @@
 ---
 name: ifg-bund-widerspruch-bauen-klage-vorbereiten-presseantwort
-description: "Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-043-ifg-bund-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: IFG Bund: Widerspruch bauen. Widerspruch bauen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-044-ifg-bund-klage-vorbereiten` | Informationsfreiheit und Presseauskunft: IFG Bund: Klage vorbereiten. Klage vorbereiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund P
 
 ## Arbeitsweg
 
-Für **Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bund Widerspruch Bauen / Bund Klage Vorbereiten / Bund Presseantwort Nachfassen / Bund Tracking Aktualisieren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-043-ifg-bund-widerspruch-bauen`
 

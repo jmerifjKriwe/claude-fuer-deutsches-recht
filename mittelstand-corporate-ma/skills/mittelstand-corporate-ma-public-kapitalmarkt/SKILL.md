@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Post Closing Integration, Mittelstand Cor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Post Closing Integration, Mittelstand Corporate Ma Public Ma Kapitalmarkt Mar, Mittelstand Corporate Ma Qa Information Requests, Mittelstand Corporate Ma Regulatory Fdi Merger Control** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Post Closing Integration, Mittelstand Corporate Ma Public Ma Kapitalmarkt Mar, Mittelstand Corporate Ma Qa Information Requests, Mittelstand Corporate Ma Regulatory Fdi Merger Control** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-post-closing-integration` | Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB. |
 | `mittelstand-corporate-ma-public-ma-kapitalmarkt-mar` | Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Post Closing Integration, Mitte
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Post Closing Integration, Mittelstand Corporate Ma Public Ma Kapitalmarkt Mar, Mittelstand Corporate Ma Qa Information Requests, Mittelstand Corporate Ma Regulatory Fdi Merger Control** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Post Closing Integration, Mittelstand Corporate Ma Public Ma Kapitalmarkt Mar, Mittelstand Corporate Ma Qa Information Requests, Mittelstand Corporate Ma Regulatory Fdi Merger Control** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-post-closing-integration`
 

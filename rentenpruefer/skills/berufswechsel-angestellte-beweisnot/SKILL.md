@@ -7,21 +7,21 @@ description: "Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Ei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `berufswechsel-angestellte-selbstaendige-freiberufler` | Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge. |
 | `beweisnot-eidesstattliche-erklaerung-zeugen` | Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen. |
 
 ## Arbeitsweg
 
-Für **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Berufswechsel Angestellte Selbstaendige Freiberufler, Beweisnot Eidesstattliche Erklaerung Zeugen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rentenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `berufswechsel-angestellte-selbstaendige-freiberufler`
 

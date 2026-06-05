@@ -7,11 +7,11 @@ description: "Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `merger-talks-kanzlei` | Strukturiert Fusionsgespräche mit Kultur, Zahlen, Konflikten und Integration. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `nachfolge-in-practice-group` | Sichert Mandantenbeziehungen und Fachwissen beim Seniorpartner-Übergang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Merger Talks Kanzlei, Nachfolge In Practice Group, Offic
 
 ## Arbeitsweg
 
-Für **Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `merger-talks-kanzlei`
 

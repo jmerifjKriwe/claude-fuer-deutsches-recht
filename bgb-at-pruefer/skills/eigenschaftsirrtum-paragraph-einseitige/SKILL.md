@@ -7,11 +7,11 @@ description: "Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderja
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eigenschaftsirrtum-paragraph-119-2` | Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen. |
 | `einseitige-geschaefte-minderjaehrige-paragraph-111` | Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaeft
 
 ## Arbeitsweg
 
-Für **Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eigenschaftsirrtum-paragraph-119-2`
 

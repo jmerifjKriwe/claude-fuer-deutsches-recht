@@ -7,11 +7,11 @@ description: "Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-luxus-fristen-form-und-zustaendigkeit` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agb-haendlervertrag-luxus` | AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertr
 
 ## Arbeitsweg
 
-Für **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-luxus-fristen-form-und-zustaendigkeit`
 

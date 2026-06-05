@@ -7,11 +7,11 @@ description: "Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Verglei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `arbeitsvertrag-klauseln` | Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte. |
 | `settlement-und-aufhebungsvertrag` | Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertra
 
 ## Arbeitsweg
 
-Für **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arbeitsvertrag-klauseln`
 

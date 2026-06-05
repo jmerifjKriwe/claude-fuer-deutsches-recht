@@ -7,11 +7,11 @@ description: "Mediation Settlement 9019, Meeting Creditors 341, Nondischargeabil
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mediation-settlement-9019` | Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. |
 | `meeting-creditors-341` | Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mediation Settlement 9019, Meeting Creditors 341, Nondis
 
 ## Arbeitsweg
 
-Für **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mediation-settlement-9019`
 

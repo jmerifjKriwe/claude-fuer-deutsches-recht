@@ -7,11 +7,11 @@ description: "Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pflicht-zum-treuen-dienen-7-sg` | Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG. |
 | `politische-betaetigung-maessigung-neutralitaet` | Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung M
 
 ## Arbeitsweg
 
-Für **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pflicht-zum-treuen-dienen-7-sg`
 

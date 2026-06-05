@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-cisg-nacherfuellung-remedies-ware-dokumente-i
-description: "Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-006-cisg-nacherfuellung-und-remedies` | Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe. |
 | `ihl-009-cisg-ware-dokumente-digitalisierung` | Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digit
 
 ## Arbeitsweg
 
-Für **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cisg Nacherfuellung Remedies / Cisg Ware Dokumente Digitalisierung / I Rechtswahl / Gerichtsstand Brussels Ia Hague** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-006-cisg-nacherfuellung-und-remedies`
 

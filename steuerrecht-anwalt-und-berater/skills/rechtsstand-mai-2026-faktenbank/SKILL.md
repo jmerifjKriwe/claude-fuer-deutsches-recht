@@ -13,7 +13,7 @@ description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussage
 
 ## Zweck
 
-Dieser Skill bündelt verifizierte Rechtsstandsanker für das Steuerrecht-Plugin. Er verhindert Blindzitate und zwingt Ausgaben zu einer sauberen Quellenlage.
+Dieser Skill bearbeitet verifizierte Rechtsstandsanker für das Steuerrecht-Plugin. Er verhindert Blindzitate und zwingt Ausgaben zu einer sauberen Quellenlage.
 
 Stand dieser Faktenbank: **29.05.2026**. Vor streitentscheidenden Ausgaben immer den aktuellen Gesetzestext, BMF/BZSt-Veröffentlichungen und BFH-Volltext prüfen.
 

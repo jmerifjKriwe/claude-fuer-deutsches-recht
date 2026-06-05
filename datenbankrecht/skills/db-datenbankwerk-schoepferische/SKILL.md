@@ -7,11 +7,11 @@ description: "Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung` | Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. |
 | `db-003-datenbankherstellerrecht-wesentliche-investition` | Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG). |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnu
 
 ## Arbeitsweg
 
-Für **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung`
 

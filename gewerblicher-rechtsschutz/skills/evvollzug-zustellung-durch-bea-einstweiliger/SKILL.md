@@ -7,11 +7,11 @@ description: "Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf` | EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen. |
 | `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` | EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf
 
 ## Arbeitsweg
 
-Für **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf`
 

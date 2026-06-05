@@ -1,17 +1,17 @@
 ---
 name: strassenrecht-infrastruktur-str-baustelle-verkehrsfuehrung
-description: "Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-010-baustelle-und-verkehrsfuehrung` | Straßenrecht und Infrastruktur: Baustelle und Verkehrsführung. Baustelle und Verkehrsführung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-011-strassenentwaesserung` | Straßenrecht und Infrastruktur: Straßenentwässerung. Straßenentwässerung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str Baustelle Verkehrsfuehrung / Str Strassenentwaesseru
 
 ## Arbeitsweg
 
-Für **Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str Baustelle Verkehrsfuehrung / Str Strassenentwaesserung / Str Bruecke Tunnel / Str Rastanlage Nebenbetrieb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-010-baustelle-und-verkehrsfuehrung`
 

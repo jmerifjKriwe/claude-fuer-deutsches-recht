@@ -1,17 +1,17 @@
 ---
 name: fachanwalt-arbeitsrecht-ar-betriebsuebergang-spezial-einfuehrung
-description: "Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ar-betriebsuebergang-spezial` | Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität. |
 | `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantena
 
 ## Arbeitsweg
 
-Für **Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ar Betriebsuebergang Spezial / Ar Einfuehrung Mandantenanliegen / Ar Leiharbeit Equal Pay Spezial** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ar-betriebsuebergang-spezial`
 

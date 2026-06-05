@@ -7,11 +7,11 @@ description: "Mandantenkommunikation, Redteam Qualitygate, Jveg Fristen Erloesch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandantenkommunikation, Redteam Qualitygate, Jveg Fristen Erloeschen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandantenkommunikation, Redteam Qualitygate, Jveg Fristen Erloeschen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin jveg-kostenpruefer: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin jveg-kostenpruefer: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Mandantenkommunikation, Redteam Qualitygate, Jveg Friste
 
 ## Arbeitsweg
 
-Für **Mandantenkommunikation, Redteam Qualitygate, Jveg Fristen Erloeschen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Jveg Fristen Erloeschen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -74,7 +74,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Arbeitsmodul prüft die fertige JVEG-Kostenfestsetzung gegen typische Fehlerquellen: Honorargruppen-Fehlzuordnung, Stundenzahl-Inplausibilität, Wegegeld-Doppelung, fehlende Belege, Umsatzsteuer-Klippe (§ 12 JVEG).
+Dieser Prüffeld prüft die fertige JVEG-Kostenfestsetzung gegen typische Fehlerquellen: Honorargruppen-Fehlzuordnung, Stundenzahl-Inplausibilität, Wegegeld-Doppelung, fehlende Belege, Umsatzsteuer-Klippe (§ 12 JVEG).
 
 ## JVEG-spezifische Prüfpunkte
 - **Honorargruppe nachvollziehbar?** Anlage 1 JVEG: Gruppen 1 bis 12. Begründung im Beschluss vorhanden? (BVerwG, Beschl. v. 31.05.2022 - 9 KSt 1.22 zur Bindung an Heranziehung.)

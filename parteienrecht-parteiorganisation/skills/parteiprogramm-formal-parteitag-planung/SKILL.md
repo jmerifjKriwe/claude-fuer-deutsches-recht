@@ -7,11 +7,11 @@ description: "Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `parteiprogramm-formal` | Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. |
 | `parteitag-planung` | Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Parteiprogramm Formal, Parteitag Planung, Parteiverbot U
 
 ## Arbeitsweg
 
-Für **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `parteiprogramm-formal`
 

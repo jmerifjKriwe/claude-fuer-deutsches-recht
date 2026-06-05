@@ -1,17 +1,17 @@
 ---
 name: franchiserecht-praxis-fran-rs-ausgleichsanspruch
-description: "Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-rs-ausgleichsanspruch-nach-vertragsende-und-kundendaten` | Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-nachvertragliches-wettbewerbsverbot-im-franchise` | Fachmodul Franchiserecht für Nachvertragliches Wettbewerbsverbot im Franchise: Wettbewerbsverbote werden nach Vertragsende nicht pauschal akzeptiert, sondern räumlich, sachlich, zeitlich und systemschutzbezogen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs N
 
 ## Arbeitsweg
 
-Für **Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran Rs Ausgleichsanspruch Nach Vertragsende / Fran Rs Nachvertragliches Wettbewerbsverbot Franchise / Franchise Kuendigung Nachvertragliche Wettbewerb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-rs-ausgleichsanspruch-nach-vertragsende-und-kundendaten`
 

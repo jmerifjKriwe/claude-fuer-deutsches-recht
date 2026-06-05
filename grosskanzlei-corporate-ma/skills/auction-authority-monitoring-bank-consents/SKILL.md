@@ -1,17 +1,17 @@
 ---
 name: auction-authority-monitoring-bank-consents
-description: "Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 weitere Module
+# Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-auction-process-letter` | Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln. |
 | `grosskanzlei-corporate-ma-authority-matrix-approvals` | Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Auction Process / Grosskanzlei
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Auction Process / Grosskanzlei Corporate Ma Authority Matrix / Grosskanzlei Corporate Ma Automation Monitoring / Grosskanzlei Corporate Ma Bank Consents / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-auction-process-letter`
 

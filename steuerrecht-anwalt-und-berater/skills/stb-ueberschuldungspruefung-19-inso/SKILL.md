@@ -1,6 +1,6 @@
 ---
 name: stb-ueberschuldungspruefung-19-inso
-description: "Arbeitsmodul zu stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)

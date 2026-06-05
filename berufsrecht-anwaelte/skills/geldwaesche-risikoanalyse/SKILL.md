@@ -1,17 +1,17 @@
 ---
 name: geldwaesche-risikoanalyse
-description: "Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 weitere Module
+# Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-geldwaesche-risikoanalyse-kanzlei-rechtsprechungscheck` | Anwälte: geldwaesche risikoanalyse kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-haftpflichtversicherung-deckungsluecke-rechtsprechungs` | Anwälte: haftpflichtversicherung deckungsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechun
 
 ## Arbeitsweg
 
-Für **Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck / Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs / Anwaelte Honorarvereinbarung Rvg Transparenz Rechtsprechung / Anwaelte Kanzleinachfolge Aktenarchiv Rechtsprechungscheck / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-geldwaesche-risikoanalyse-kanzlei-rechtsprechungscheck`
 

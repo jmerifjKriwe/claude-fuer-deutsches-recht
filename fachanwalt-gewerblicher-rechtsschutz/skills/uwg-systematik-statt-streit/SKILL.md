@@ -7,11 +7,11 @@ description: "Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Ve
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine. |
 | `vergleich-statt-streit-strategie` | Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz. Wann Vergleich sinnvoll, Vergleichsoptionen (Abgrenzung, Kreuzlizenz, Einmalzahlung), Vergleichsprotokoll, RVG-Einigungsgebühr, Vergleichsklauseln und Risiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Uwg Systematik Und Anwendung, Vergleich Statt Streit Str
 
 ## Arbeitsweg
 
-Für **Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `uwg-systematik-und-anwendung`
 

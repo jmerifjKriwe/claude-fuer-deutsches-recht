@@ -7,11 +7,11 @@ description: "Patentanwaelte Patent Agent Title Und Werbung Kaltstart Und Fak, P
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwaelte Patent Agent Title Und Werbung Kaltstart Und Fak, Patentanwaelte Prior Art Fehler Und Meldepflicht Kaltstart Und, Patentanwaelte Sanktionen Und Russlandbezug Kaltstart Und Fakte, Patentanwaelte Schutzrechtsrecherche Und Haftung Kaltstart Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kaltstart Und Fakt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwaelte Patent Agent Title Und Werbung Kaltstart Und Fak, Patentanwaelte Prior Art Fehler Und Meldepflicht Kaltstart Und, Patentanwaelte Sanktionen Und Russlandbezug Kaltstart Und Fakte, Patentanwaelte Schutzrechtsrecherche Und Haftung Kaltstart Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kaltstart Und Fakt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwaelte-patent-agent-title-und-werbung-kaltstart-und-fak` | Patentanwälte: patent agent title und werbung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-prior-art-fehler-und-meldepflicht-kaltstart-und` | Patentanwälte: prior art fehler und meldepflicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Patentanwaelte Patent Agent Title Und Werbung Kaltstart 
 
 ## Arbeitsweg
 
-Für **Patentanwaelte Patent Agent Title Und Werbung Kaltstart Und Fak, Patentanwaelte Prior Art Fehler Und Meldepflicht Kaltstart Und, Patentanwaelte Sanktionen Und Russlandbezug Kaltstart Und Fakte, Patentanwaelte Schutzrechtsrecherche Und Haftung Kaltstart Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kaltstart Und Fakt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Patent Agent Title Und Werbung Kaltstart Und Fak, Patentanwaelte Prior Art Fehler Und Meldepflicht Kaltstart Und, Patentanwaelte Sanktionen Und Russlandbezug Kaltstart Und Fakte, Patentanwaelte Schutzrechtsrecherche Und Haftung Kaltstart Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kaltstart Und Fakt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-patentanwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwaelte-patent-agent-title-und-werbung-kaltstart-und-fak`
 

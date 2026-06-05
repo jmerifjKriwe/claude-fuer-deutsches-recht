@@ -7,11 +7,11 @@ description: "Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `werkvertrag-maengelrechte` | Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz. |
 | `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831` | Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Ver
 
 ## Arbeitsweg
 
-Für **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Werkvertrag Maengelrechte, Deliktsrecht Haftung Für Verrichtungen Paragraph 831, Kaufrecht Schadensersatz Aufwendungsersatz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `werkvertrag-maengelrechte`
 

@@ -7,11 +7,11 @@ description: "See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 020 Dokumenten Cockpit Schiff, See 021 Schiffshypothek Register Prüfen, See 022 Schiffshypothek Hypothek Bestellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 020 Dokumenten Cockpit Schiff, See 021 Schiffshypothek Register Prüfen, See 022 Schiffshypothek Hypothek Bestellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-018-umwelt-und-marpol` | Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste. |
 | `see-019-itlos-hamburg-und-unclos` | Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unc
 
 ## Arbeitsweg
 
-Für **See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 020 Dokumenten Cockpit Schiff, See 021 Schiffshypothek Register Prüfen, See 022 Schiffshypothek Hypothek Bestellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 020 Dokumenten Cockpit Schiff, See 021 Schiffshypothek Register Prüfen, See 022 Schiffshypothek Hypothek Bestellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-018-umwelt-und-marpol`
 

@@ -7,11 +7,11 @@ description: "Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-064-open-source-software-im-satelliten` | Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität. |
 | `space-065-ki-an-bord-autonomie-und-ai-act-schnittstelle` | Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 064 Open Source Software Im Satelliten, Space 065 
 
 ## Arbeitsweg
 
-Für **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-064-open-source-software-im-satelliten`
 

@@ -7,11 +7,11 @@ description: "Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-erstellen-fristennotiz-und-naechster-schritt` | Erstellen: Fristennotiz und nächster Schritt im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-gerichtsverfahren-fristen-form-und-zustaendigkeit` | Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsve
 
 ## Arbeitsweg
 
-Für **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-erstellen-fristennotiz-und-naechster-schritt`
 

@@ -7,11 +7,11 @@ description: "Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenza
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-016-preisvergleich-crawler-und-plattformvertrag` | Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler. |
 | `db-030-lizenzanalogie-und-unterlassungsvertrag` | Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 0
 
 ## Arbeitsweg
 
-Für **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-016-preisvergleich-crawler-und-plattformvertrag`
 

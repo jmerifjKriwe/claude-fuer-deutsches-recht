@@ -7,11 +7,11 @@ description: "Claims Trading 3001e, Confirmation 1129, Contested Matters, Conver
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Claims Trading 3001E, Confirmation 1129, Contested Matters, Conversion Dismissal** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Claims Trading 3001E, Confirmation 1129, Contested Matters, Conversion Dismissal** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `claims-trading-3001e` | Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. |
 | `confirmation-1129` | Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Claims Trading 3001E, Confirmation 1129, Contested Matte
 
 ## Arbeitsweg
 
-Für **Claims Trading 3001E, Confirmation 1129, Contested Matters, Conversion Dismissal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Claims Trading 3001E, Confirmation 1129, Contested Matters, Conversion Dismissal** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `claims-trading-3001e`
 

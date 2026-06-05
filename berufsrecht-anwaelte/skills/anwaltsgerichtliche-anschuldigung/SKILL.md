@@ -7,11 +7,11 @@ description: "Anwaelte Anwaltsgerichtliche Anschuldigung Kammerantwort Und Ve, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Anwaltsgerichtliche Anschuldigung Kammerantwort Und Ve, Anwälte Anwaltsgerichtliche Anschuldigung Organisationspflicht, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Kammerantwo, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Organisatio** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Anwaltsgerichtliche Anschuldigung Kammerantwort Und Ve, Anwälte Anwaltsgerichtliche Anschuldigung Organisationspflicht, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Kammerantwo, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Organisatio** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-anwaltsgerichtliche-anschuldigung-kammerantwort-und-ve` | Anwälte: anwaltsgerichtliche anschuldigung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-anwaltsgerichtliche-anschuldigung-organisationspflicht` | Anwälte: anwaltsgerichtliche anschuldigung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Anwaltsgerichtliche Anschuldigung Kammerantwort
 
 ## Arbeitsweg
 
-Für **Anwälte Anwaltsgerichtliche Anschuldigung Kammerantwort Und Ve, Anwälte Anwaltsgerichtliche Anschuldigung Organisationspflicht, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Kammerantwo, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Organisatio** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Anwaltsgerichtliche Anschuldigung Kammerantwort Und Ve, Anwälte Anwaltsgerichtliche Anschuldigung Organisationspflicht, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Kammerantwo, Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Organisatio** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-anwaltsgerichtliche-anschuldigung-kammerantwort-und-ve`
 

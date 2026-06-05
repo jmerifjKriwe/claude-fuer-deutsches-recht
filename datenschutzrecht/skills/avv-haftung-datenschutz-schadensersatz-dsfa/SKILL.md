@@ -7,11 +7,11 @@ description: "Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensers
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `avv-haftung-risikoallokation-art-82-dsgvo` | Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine fuer Innen- und Aussenhaftung mit Cap-Hinweisen. |
 | `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjaehrung Anspruchskonkurrenz. Schritt-fuer-Schritt fuer Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz S
 
 ## Arbeitsweg
 
-Für **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `avv-haftung-risikoallokation-art-82-dsgvo`
 
@@ -399,7 +399,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `datenschutzrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

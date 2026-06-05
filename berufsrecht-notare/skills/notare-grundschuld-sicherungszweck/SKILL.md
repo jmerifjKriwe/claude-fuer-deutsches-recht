@@ -7,11 +7,11 @@ description: "Notare Grundschuld Und Sicherungszweck Organisationspflicht Und, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Grundschuld Und Sicherungszweck Organisationspflicht Und, Notare Handelsregisteranmeldung Fehler Kammerantwort Und Verfah, Notare Handelsregisteranmeldung Fehler Organisationspflicht Und, Notare Identitaetspruefung Ausweis Organisationspflicht Und Pra, Notare Ki Im Notariat Grenzen Organisationspflicht Und Praevent** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Grundschuld Und Sicherungszweck Organisationspflicht Und, Notare Handelsregisteranmeldung Fehler Kammerantwort Und Verfah, Notare Handelsregisteranmeldung Fehler Organisationspflicht Und, Notare Identitaetspruefung Ausweis Organisationspflicht Und Pra, Notare Ki Im Notariat Grenzen Organisationspflicht Und Praevent** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-grundschuld-und-sicherungszweck-organisationspflicht-und` | Notare: grundschuld und sicherungszweck - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-handelsregisteranmeldung-fehler-kammerantwort-und-verfah` | Notare: handelsregisteranmeldung fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Grundschuld Und Sicherungszweck Organisationspfli
 
 ## Arbeitsweg
 
-Für **Notare Grundschuld Und Sicherungszweck Organisationspflicht Und, Notare Handelsregisteranmeldung Fehler Kammerantwort Und Verfah, Notare Handelsregisteranmeldung Fehler Organisationspflicht Und, Notare Identitaetspruefung Ausweis Organisationspflicht Und Pra, Notare Ki Im Notariat Grenzen Organisationspflicht Und Praevent** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Grundschuld Und Sicherungszweck Organisationspflicht Und, Notare Handelsregisteranmeldung Fehler Kammerantwort Und Verfah, Notare Handelsregisteranmeldung Fehler Organisationspflicht Und, Notare Identitaetspruefung Ausweis Organisationspflicht Und Pra, Notare Ki Im Notariat Grenzen Organisationspflicht Und Praevent** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-grundschuld-und-sicherungszweck-organisationspflicht-und`
 

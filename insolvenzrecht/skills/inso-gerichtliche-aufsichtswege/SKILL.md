@@ -7,11 +7,11 @@ description: "Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inso-gerichtliche-und-aufsichtswege-schufa` | Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast. |
 | `inso-glaeubigerausschuss-praxis` | Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubi
 
 ## Arbeitsweg
 
-Für **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inso-gerichtliche-und-aufsichtswege-schufa`
 
@@ -109,7 +109,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
@@ -170,7 +170,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

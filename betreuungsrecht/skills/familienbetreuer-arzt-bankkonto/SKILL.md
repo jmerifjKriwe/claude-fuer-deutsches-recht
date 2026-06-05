@@ -7,11 +7,11 @@ description: "Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Familienbetr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Familienbetreuer Bankkonto Und Rechnungslegung Einfach, Familienbetreuer Digitaler Betrug Fernwartung Stoppen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Familienbetreuer Bankkonto Und Rechnungslegung Einfach, Familienbetreuer Digitaler Betrug Fernwartung Stoppen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `familienbetreuer-arzt-heim-pflegekasse-kommunikation` | Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz. |
 | `familienbetreuer-bankkonto-und-rechnungslegung-einfach` | Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Fa
 
 ## Arbeitsweg
 
-Für **Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Familienbetreuer Bankkonto Und Rechnungslegung Einfach, Familienbetreuer Digitaler Betrug Fernwartung Stoppen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Familienbetreuer Arzt Heim Pflegekasse Kommunikation, Familienbetreuer Bankkonto Und Rechnungslegung Einfach, Familienbetreuer Digitaler Betrug Fernwartung Stoppen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `familienbetreuer-arzt-heim-pflegekasse-kommunikation`
 

@@ -7,11 +7,11 @@ description: "Bho 080 Bürgergeld Krankenversicherung Szenar, Bho 081 Bürgergel
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 Buergergeld Krankenversicherung Dashbo, Bho 082 Buergergeld Krankenversicherung Risiko, Bho 083 Buergergeld Krankenversicherung Brh Fr, Bho 084 Buergergeld Krankenversicherung Parlam und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 Buergergeld Krankenversicherung Dashbo, Bho 082 Buergergeld Krankenversicherung Risiko, Bho 083 Buergergeld Krankenversicherung Brh Fr, Bho 084 Buergergeld Krankenversicherung Parlam und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-080-buergergeld-krankenversicherung-szenar` | Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Szenario rechnen. Szenario rechnen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-081-buergergeld-krankenversicherung-dashbo` | Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen. Dashboard bauen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 
 
 ## Arbeitsweg
 
-Für **Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 Buergergeld Krankenversicherung Dashbo, Bho 082 Buergergeld Krankenversicherung Risiko, Bho 083 Buergergeld Krankenversicherung Brh Fr, Bho 084 Buergergeld Krankenversicherung Parlam und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 Buergergeld Krankenversicherung Dashbo, Bho 082 Buergergeld Krankenversicherung Risiko, Bho 083 Buergergeld Krankenversicherung Brh Fr, Bho 084 Buergergeld Krankenversicherung Parlam und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-080-buergergeld-krankenversicherung-szenar`
 

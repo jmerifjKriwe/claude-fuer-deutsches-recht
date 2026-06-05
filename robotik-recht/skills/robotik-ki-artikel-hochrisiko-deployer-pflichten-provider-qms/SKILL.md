@@ -1,17 +1,17 @@
 ---
 name: robotik-ki-artikel-hochrisiko-deployer-pflichten-provider-qms
-description: "KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 weitere Module
+# KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ki-vo-artikel-6-hochrisiko-robotik` | Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz. |
 | `ki-vo-deployer-pflichten-robotik` | Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Ro
 
 ## Arbeitsweg
 
-Für **KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `robotik-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ki-vo-artikel-6-hochrisiko-robotik`
 

@@ -7,11 +7,11 @@ description: "Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren Vollmacht Rechtsprechungscheck Und, Notare Datenschutzpanne Notariat Rechtsprechungscheck Und Red T** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren Vollmacht Rechtsprechungscheck Und, Notare Datenschutzpanne Notariat Rechtsprechungscheck Und Red T** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-belehrungspflicht-und-verbraucher-rechtsprechungscheck-u` | Notare: belehrungspflicht und verbraucher - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-beurkundung-im-ausland-bezug-rechtsprechungscheck-und-re` | Notare: beurkundung im ausland bezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Belehrungspflicht Und Verbraucher Rechtsprechungs
 
 ## Arbeitsweg
 
-Für **Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren Vollmacht Rechtsprechungscheck Und, Notare Datenschutzpanne Notariat Rechtsprechungscheck Und Red T** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren Vollmacht Rechtsprechungscheck Und, Notare Datenschutzpanne Notariat Rechtsprechungscheck Und Red T** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-belehrungspflicht-und-verbraucher-rechtsprechungscheck-u`
 

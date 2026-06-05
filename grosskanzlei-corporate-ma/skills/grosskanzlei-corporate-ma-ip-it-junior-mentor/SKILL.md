@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-insurance-risk-dd` | Insurance Risk DD und Policies Check: prueft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken. |
 | `grosskanzlei-corporate-ma-ip-it-data-assets-dd` | IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzle
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-insurance-risk-dd`
 

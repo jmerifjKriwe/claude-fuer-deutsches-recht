@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-zahlungsbedingungen-open-account-akkreditiv-ucp
-description: "Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-036-zahlungsbedingungen-open-account` | Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU). |
 | `ihl-037-akkreditiv-ucp-600` | Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Zahlungsbedingungen Open Account / Akkreditiv Ucp / Stan
 
 ## Arbeitsweg
 
-Für **Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zahlungsbedingungen Open Account / Akkreditiv Ucp / Standby Letter Isp98 / Bankgarantie Urgd** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-036-zahlungsbedingungen-open-account`
 

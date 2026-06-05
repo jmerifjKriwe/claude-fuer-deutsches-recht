@@ -7,11 +7,11 @@ description: "Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht, Miturhebe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht, Miturheber Band Splits** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht, Miturheber Band Splits** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lizenzanalogie-musik-tarife` | Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, Nutzungsausmaß, Reichweite, Dauer, Gebiet und Zuschläge. |
 | `mandantenmemo-urheberrecht` | Formt die Prüfung in ein klares Memo für Verlag, Label, Künstler, Plattform, Softwarehaus oder Kanzlei. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht,
 
 ## Arbeitsweg
 
-Für **Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht, Miturheber Band Splits** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lizenzanalogie Musik Tarife, Mandantenmemo Urheberrecht, Miturheber Band Splits** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urheberrecht-de-eu` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lizenzanalogie-musik-tarife`
 

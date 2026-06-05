@@ -7,11 +7,11 @@ description: "Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen Prüfen, Ein 006 Vermoegensgesetz Anspruchspfad, Ein 007 Mauergrundstuecksgesetz Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen Prüfen, Ein 006 Vermoegensgesetz Anspruchspfad, Ein 007 Mauergrundstuecksgesetz Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-004-treuhand-zuordnung-rekonstruieren` | Einigungsvertrag und Vermögensrecht: Treuhand-Zuordnung rekonstruieren. Treuhand-Zuordnung rekonstruieren im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-005-parteivermoegen-pruefen` | Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parte
 
 ## Arbeitsweg
 
-Für **Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen Prüfen, Ein 006 Vermoegensgesetz Anspruchspfad, Ein 007 Mauergrundstuecksgesetz Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen Prüfen, Ein 006 Vermoegensgesetz Anspruchspfad, Ein 007 Mauergrundstuecksgesetz Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-004-treuhand-zuordnung-rekonstruieren`
 

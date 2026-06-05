@@ -7,11 +7,11 @@ description: "Informationspflichten Vor Vertragsschluss Art 246a Egbgb, Unwirksa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `informationspflichten-vor-vertragsschluss-art-246a-egbgb` | Informationspflichten vor Vertragsschluss Art. 246a EGBGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `unwirksame-klauseln-versand-ruecksendung-gewaehrleistung` | Unwirksame Klauseln Versand Rücksendung Gewährleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Informationspflichten Vor Vertragsschluss Art 246A Egbgb
 
 ## Arbeitsweg
 
-Für **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationspflichten Vor Vertragsschluss Art 246A Egbgb, Unwirksame Klauseln Versand Ruecksendung Gewährleistung, Marktplatzhaftung Haendler Plattform** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `informationspflichten-vor-vertragsschluss-art-246a-egbgb`
 

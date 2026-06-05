@@ -7,11 +7,11 @@ description: "Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Ent
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `geringfuegigkeit-18-versausglg` | Geringfügigkeit § 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `gesetzliche-rentenversicherung-entgeltpunkte` | Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversic
 
 ## Arbeitsweg
 
-Für **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `geringfuegigkeit-18-versausglg`
 

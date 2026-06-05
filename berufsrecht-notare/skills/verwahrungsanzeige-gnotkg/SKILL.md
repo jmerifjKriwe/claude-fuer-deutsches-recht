@@ -7,11 +7,11 @@ description: "Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-verwahrungsanzeige-und-gnotkg-kammerantwort-und-verfahre` | Notare: verwahrungsanzeige und gnotkg - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-verwahrungsanzeige-und-gnotkg-organisationspflicht-und-p` | Notare: verwahrungsanzeige und gnotkg - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und V
 
 ## Arbeitsweg
 
-Für **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Verwahrungsanzeige Und Gnotkg Kammerantwort Und Verfahre, Notare Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P, Notare Vollzugsueberwachung Grundbuch Kammerantwort Und Verfahr, Notare Vollzugsueberwachung Grundbuch Organisationspflicht Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-verwahrungsanzeige-und-gnotkg-kammerantwort-und-verfahre`
 

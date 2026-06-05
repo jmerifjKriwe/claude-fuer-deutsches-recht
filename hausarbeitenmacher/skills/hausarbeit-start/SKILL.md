@@ -7,22 +7,22 @@ description: "Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix, ...: wä
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Arbeitsmodul: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Prüfraster Gesamt-sokratisch fragen gentle korrigieren amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang einbinden. Output fertige Hausarbeit Schritt für Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination). |
+| `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüffeld: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Prüfraster Gesamt-sokratisch fragen gentle korrigieren amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang einbinden. Output fertige Hausarbeit Schritt für Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination). |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin hausarbeitenmacher: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 
 ## Arbeitsweg
 
-Für **Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemein, Hausarbeit Start, Chronologie Und Belegmatrix** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `allgemein`
 
@@ -145,7 +145,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gliederung-mit-tiefenstruktur` | Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen.… |
 | `gutachtenstil-vs-urteilsstil` | Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre… |
 | `haeufige-fehler-vermeiden` | Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster… |
-| `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Arbeitsmodul: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… |
+| `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüffeld: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… |
 | `meinungsstreit-darstellen` | Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog… |
 | `methodenlehre-auslegung` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion.… |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs-… |
@@ -203,7 +203,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 
 ## Skill-Tour (was gibt es hier?)
 
-- `hausarbeit-workflow-start` — Master-Arbeitsmodul: Begleitung von Anfang bis Abgabe durch sokratischen Dialog.
+- `hausarbeit-workflow-start` — Master-Prüffeld: Begleitung von Anfang bis Abgabe durch sokratischen Dialog.
 - `aufgabenstellung-erfassen` — Sachverhalt strukturiert erfassen mit Drei-Lese-Methode.
 - `bearbeitungsplan-erstellen` — Zeitplan und Arbeitsplan fuer Recherche, Gliederung, Rohfassung, Endfassung und Korrektur erstellen.
 - `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet der Hausarbeit bestimmen: Zivilrecht, oeffentliches Recht, Strafrecht oder Mix.
@@ -257,7 +257,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 
 ## 2. `hausarbeit-workflow-start`
 
-**Fokus:** Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Arbeitsmodul: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Prüfraster Gesamt-sokratisch fragen gentle korrigieren amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang einbinden. Output fertige Hausarbeit Schritt für Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination).
+**Fokus:** Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüffeld: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Prüfraster Gesamt-sokratisch fragen gentle korrigieren amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang einbinden. Output fertige Hausarbeit Schritt für Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination).
 
 # Master-Hausarbeiten- und Seminararbeitenmacher
 

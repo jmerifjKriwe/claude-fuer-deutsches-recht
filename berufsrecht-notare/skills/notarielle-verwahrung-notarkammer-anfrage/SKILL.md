@@ -7,11 +7,11 @@ description: "Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-notarielle-verwahrung-von-daten-kaltstart-und-faktenmatr` | Notare: notarielle verwahrung von daten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-notarkammer-anfrage-kaltstart-und-faktenmatrix` | Notare: notarkammer anfrage - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Notarielle Verwahrung Von Daten Kaltstart Und Fak
 
 ## Arbeitsweg
 
-Für **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-notarielle-verwahrung-von-daten-kaltstart-und-faktenmatr`
 

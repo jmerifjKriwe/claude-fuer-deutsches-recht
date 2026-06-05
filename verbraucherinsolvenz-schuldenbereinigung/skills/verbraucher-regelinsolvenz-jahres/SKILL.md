@@ -7,11 +7,11 @@ description: "Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Res
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 
 
 ## Arbeitsweg
 
-Für **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherinsolvenz-schuldenbereinigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherinsolvenz-schuldenbereinigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verbraucher-oder-regelinsolvenz`
 

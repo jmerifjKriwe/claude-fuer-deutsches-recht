@@ -7,11 +7,11 @@ description: "Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bankrecht-buergschaft-aval-garantie-routing` | Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast. |
 | `bankrecht-garantieabruf-eilrechtsschutz` | Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht G
 
 ## Arbeitsweg
 
-Für **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bankrecht-buergschaft-aval-garantie-routing`
 

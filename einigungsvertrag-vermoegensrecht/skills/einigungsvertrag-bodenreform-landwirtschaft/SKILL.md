@@ -7,11 +7,11 @@ description: "Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtsc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-081-landwirtschaftliche-flaeche-anspruchsp` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Anspruchspfad prüfen. Anspruchspfad prüfen für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-082-landwirtschaftliche-flaeche-akte-anfor` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Akte anfordern. Akte anfordern für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 
 
 ## Arbeitsweg
 
-Für **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 081 Landwirtschaftliche Flaeche Anspruchsp, Ein 082 Landwirtschaftliche Flaeche Akte Anfor, Ein 083 Landwirtschaftliche Flaeche Chronologi, Ein 084 Landwirtschaftliche Flaeche Berechtigt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-081-landwirtschaftliche-flaeche-anspruchsp`
 

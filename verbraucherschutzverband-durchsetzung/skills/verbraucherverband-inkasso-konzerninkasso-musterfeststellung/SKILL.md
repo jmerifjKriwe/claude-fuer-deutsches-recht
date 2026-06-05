@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-inkasso-konzerninkasso-musterfeststellung
-description: "Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-102-inkasso-konzerninkasso-musterfeststellung` | Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren. |
 | `vdg-103-bestellbutton-uklag-uwg-abmahnung` | Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inkasso Konzerninkasso Musterfeststellung / Bestellbutto
 
 ## Arbeitsweg
 
-Für **Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inkasso Konzerninkasso Musterfeststellung / Bestellbutton Uklag Uwg Abmahnung / Probeabo Widerruf Verbandsstrategie / Schufa Scoring DSGVO Verbandsfall** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-102-inkasso-konzerninkasso-musterfeststellung`
 
@@ -167,7 +167,7 @@ Prüfe die Verteidigung: klare Kostenhinweise, bestätigte Nutzung, Wertersatz, 
 
 ## Zweck
 
-Dieser Skill bündelt Auskunftei-Fälle, ohne vorschnell jede schlechte Bonitätsbewertung als rechtswidrig zu bezeichnen. Entscheidend sind Datenrichtigkeit, Speicherdauer, Transparenz und die Rolle des Scores in Entscheidungen Dritter.
+Dieser Skill bearbeitet Auskunftei-Fälle, ohne vorschnell jede schlechte Bonitätsbewertung als rechtswidrig zu bezeichnen. Entscheidend sind Datenrichtigkeit, Speicherdauer, Transparenz und die Rolle des Scores in Entscheidungen Dritter.
 
 ## Rechtsanker
 

@@ -7,11 +7,11 @@ description: "Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Faktenmat, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Faktenmat, Steuerberater Datev Zugriff Nach Mandatsende Kaltstart Und Fakt, Steuerberater Fachberaterbezeichnung Kaltstart Und Faktenmatrix, Steuerberater Familiengesellschaft Conflict Check Kaltstart Und, Steuerberater Fehlerhafte Steuerschaetzung Kaltstart Und Fakten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Faktenmat, Steuerberater Datev Zugriff Nach Mandatsende Kaltstart Und Fakt, Steuerberater Fachberaterbezeichnung Kaltstart Und Faktenmatrix, Steuerberater Familiengesellschaft Conflict Check Kaltstart Und, Steuerberater Fehlerhafte Steuerschaetzung Kaltstart Und Fakten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-datenschutzpanne-lohnakte-kaltstart-und-faktenmat` | Steuerberater: datenschutzpanne lohnakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-datev-zugriff-nach-mandatsende-kaltstart-und-fakt` | Steuerberater: datev zugriff nach mandatsende - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Fa
 
 ## Arbeitsweg
 
-Für **Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Faktenmat, Steuerberater Datev Zugriff Nach Mandatsende Kaltstart Und Fakt, Steuerberater Fachberaterbezeichnung Kaltstart Und Faktenmatrix, Steuerberater Familiengesellschaft Conflict Check Kaltstart Und, Steuerberater Fehlerhafte Steuerschaetzung Kaltstart Und Fakten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Datenschutzpanne Lohnakte Kaltstart Und Faktenmat, Steuerberater Datev Zugriff Nach Mandatsende Kaltstart Und Fakt, Steuerberater Fachberaterbezeichnung Kaltstart Und Faktenmatrix, Steuerberater Familiengesellschaft Conflict Check Kaltstart Und, Steuerberater Fehlerhafte Steuerschaetzung Kaltstart Und Fakten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-datenschutzpanne-lohnakte-kaltstart-und-faktenmat`
 

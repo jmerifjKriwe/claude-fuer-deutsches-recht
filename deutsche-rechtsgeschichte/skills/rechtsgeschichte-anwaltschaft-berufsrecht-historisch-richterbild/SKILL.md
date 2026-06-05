@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-anwaltschaft-berufsrecht-historisch-richterbild
-description: "Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 weitere Module
+# Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-045-anwaltschaft-und-berufsrecht-historisch` | Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut. |
 | `drg-046-richterbild-und-justizverwaltung` | Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Anwaltschaft Berufsrecht Historisch / Richterbild Justiz
 
 ## Arbeitsweg
 
-Für **Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaltschaft Berufsrecht Historisch / Richterbild Justizverwaltung / Kolonialrecht Kritisch Einordnen / Militaerrecht Kriegsfolgen / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-045-anwaltschaft-und-berufsrecht-historisch`
 

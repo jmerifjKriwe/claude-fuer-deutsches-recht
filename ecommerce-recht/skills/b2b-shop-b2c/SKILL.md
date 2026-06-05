@@ -7,11 +7,11 @@ description: "B2b Shop Und Unternehmernachweis, B2c B2b Plattform Marktplatz Rou
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **B2B Shop Und Unternehmernachweis, B2C B2B Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **B2B Shop Und Unternehmernachweis, B2C B2B Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `b2b-shop-und-unternehmernachweis` | B2B-Shop und Unternehmernachweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `b2c-b2b-plattform-marktplatz-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **B2B Shop Und Unternehmernachweis, B2C B2B Plattform Mark
 
 ## Arbeitsweg
 
-Für **B2B Shop Und Unternehmernachweis, B2C B2B Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **B2B Shop Und Unternehmernachweis, B2C B2B Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `b2b-shop-und-unternehmernachweis`
 

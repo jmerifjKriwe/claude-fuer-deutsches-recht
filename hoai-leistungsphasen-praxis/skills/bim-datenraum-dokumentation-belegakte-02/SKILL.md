@@ -1,17 +1,17 @@
 ---
 name: bim-datenraum-dokumentation-belegakte-02
-description: "Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 weitere Module
+# Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-02-bim-und-datenraum` | HOAI LPH 2 Vorplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
 | `hoai-lph-02-dokumentation-und-belegakte` | HOAI LPH 2 Vorplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
@@ -34,10 +34,10 @@ Dieser Skill bündelt **Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai
 
 ## Arbeitsweg
 
-Für **Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Bim Datenraum / Hoai Dokumentation Belegakte / Hoai Fachplaner Schnittstellen / Hoai Foerdermittel Nachweis / 14 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-02-bim-und-datenraum`
 

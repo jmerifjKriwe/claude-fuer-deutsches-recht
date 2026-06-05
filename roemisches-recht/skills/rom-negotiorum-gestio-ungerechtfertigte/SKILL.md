@@ -7,11 +7,11 @@ description: "Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung Condictiones, Rom 034 Delikte Furtum, Rom 035 Delikte Damnum Injuria Datum, Rom 036 Iniuria Persoenlichkeitsverletzung und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung Condictiones, Rom 034 Delikte Furtum, Rom 035 Delikte Damnum Injuria Datum, Rom 036 Iniuria Persoenlichkeitsverletzung und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-032-negotiorum-gestio` | Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab. |
 | `rom-033-ungerechtfertigte-bereicherung-condictiones` | Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Ber
 
 ## Arbeitsweg
 
-Für **Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung Condictiones, Rom 034 Delikte Furtum, Rom 035 Delikte Damnum Injuria Datum, Rom 036 Iniuria Persoenlichkeitsverletzung und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung Condictiones, Rom 034 Delikte Furtum, Rom 035 Delikte Damnum Injuria Datum, Rom 036 Iniuria Persoenlichkeitsverletzung und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-032-negotiorum-gestio`
 

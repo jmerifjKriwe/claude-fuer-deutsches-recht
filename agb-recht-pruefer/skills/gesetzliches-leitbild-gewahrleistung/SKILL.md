@@ -7,11 +7,11 @@ description: "Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, G
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesetzliches-leitbild-abweichung-307` | Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `gewahrleistung-ausschluss` | Klausel-Fachmodul für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Aus
 
 ## Arbeitsweg
 
-Für **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesetzliches-leitbild-abweichung-307`
 

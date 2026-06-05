@@ -7,11 +7,11 @@ description: "Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-027-windpark-normenkontrolle-skizzieren` | Umweltschutzverband Verbandsklage: Windpark: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-028-windpark-nebenbestimmung-fordern` | Umweltschutzverband Verbandsklage: Windpark: Nebenbestimmung fordern. Nebenbestimmung fordern für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Win
 
 ## Arbeitsweg
 
-Für **Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-027-windpark-normenkontrolle-skizzieren`
 

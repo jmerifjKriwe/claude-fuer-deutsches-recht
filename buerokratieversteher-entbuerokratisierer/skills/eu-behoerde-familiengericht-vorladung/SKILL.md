@@ -7,11 +7,11 @@ description: "Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel B
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `eu-behoerde-und-solvit` | Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. |
 | `familiengericht-vorladung` | Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerd
 
 ## Arbeitsweg
 
-Für **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `eu-behoerde-und-solvit`
 

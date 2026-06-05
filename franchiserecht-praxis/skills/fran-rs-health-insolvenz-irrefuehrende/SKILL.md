@@ -7,11 +7,11 @@ description: "Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolv
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-rs-health-und-pflege-franchise-mit-hwg-risiko` | Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz` | Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran
 
 ## Arbeitsweg
 
-Für **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-rs-health-und-pflege-franchise-mit-hwg-risiko`
 

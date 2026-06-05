@@ -7,11 +7,11 @@ description: "Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundta
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestand 812 I 1 Alt 2, Nutzungen Verwendungen Gefahrtragung 818, Nutzungen Zinsen Fruechte Gebrauchsvorteile** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestand 812 I 1 Alt 2, Nutzungen Verwendungen Gefahrtragung 818, Nutzungen Zinsen Fruechte Gebrauchsvorteile** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `minderjaehrige-und-schutzwertung` | Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. |
 | `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2` | Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Minderjaehrige Und Schutzwertung, Nichtleistungskondikti
 
 ## Arbeitsweg
 
-Für **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestand 812 I 1 Alt 2, Nutzungen Verwendungen Gefahrtragung 818, Nutzungen Zinsen Fruechte Gebrauchsvorteile** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestand 812 I 1 Alt 2, Nutzungen Verwendungen Gefahrtragung 818, Nutzungen Zinsen Fruechte Gebrauchsvorteile** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `minderjaehrige-und-schutzwertung`
 

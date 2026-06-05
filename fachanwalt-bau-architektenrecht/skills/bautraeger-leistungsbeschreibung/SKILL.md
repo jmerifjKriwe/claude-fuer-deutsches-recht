@@ -7,11 +7,11 @@ description: "Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-leistungsbeschreibung-baubeschreibung` | Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster. |
 | `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht. Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Pruefberichte. Folgen bei Versaeumnis. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautra
 
 ## Arbeitsweg
 
-Für **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-leistungsbeschreibung-baubeschreibung`
 

@@ -7,11 +7,11 @@ description: "Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Ni
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `arbeitsrechtliche-ueberzahlung` | Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. |
 | `ausschluss-814-bgb-kenntnis-der-nichtschuld` | Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kennt
 
 ## Arbeitsweg
 
-Für **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `arbeitsrechtliche-ueberzahlung`
 

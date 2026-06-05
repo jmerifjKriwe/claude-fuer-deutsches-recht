@@ -7,11 +7,11 @@ description: "Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-019-sicherungsuebereignung-und-leasingregister-frage` | Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte. |
 | `lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht` | Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 019 Sicherungsuebereignung Und Leasingregister Fra
 
 ## Arbeitsweg
 
-Für **Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-019-sicherungsuebereignung-und-leasingregister-frage`
 
@@ -176,7 +176,7 @@ Folgen:
 - CPV-Codes: Leasing, Vermietung ohne Fahrer (CPV 71550000 ff.)
 
 ### Full-Service-Leasing: Gemischter Auftrag
-- Wenn Leasing + Wartung + Service gebündelt: Gemischter Auftrag (§ 110 GWB)
+- Wenn Leasing + Wartung + Service gebearbeitet: Gemischter Auftrag (§ 110 GWB)
 - Hauptleistung bestimmt anzuwendendes Vergaberegime
 
 ### Produktneutralität (§ 31 VgV)

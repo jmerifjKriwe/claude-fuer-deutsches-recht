@@ -1,19 +1,19 @@
 ---
 name: grosskanzlei-corporate-beirat-haftung-gk-sanierungsgewinn-debt
-description: "Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 weitere Module
+# Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `beirat-haftung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-haftung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik` | Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf` | Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften` | Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026. |
@@ -23,14 +23,14 @@ Dieser Skill bündelt **Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / 
 
 ## Arbeitsweg
 
-Für **Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beirat Haftung / Gk Sanierungsgewinn Debt Equity Swap / Gk Sanierungsgewinn Fruehe Mandantsteuerung Q / Gk Sanierungsgewinn Bond Restructuring Finanzgesellschaften / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beirat-haftung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -120,7 +120,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der § 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach § 9 GmbHG / § 27 AktG.
 
-Dieser Skill verbindet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
+Dieser Skill bearbeitet die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
 
 ## Wann brauchen Sie diesen Skill
 
@@ -573,7 +573,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 Sanierungen in international tätigen Konzernen unterscheiden sich strukturell von Sanierungen einzelner Gesellschaften: Forderungsverzichte erfolgen häufig **zwischen verbundenen Unternehmen**; Organschaften wirken über; ausländische Töchter sind in nationalen Sanierungsmechanismen nur eingeschränkt erfasst. Die Anforderungen an die Sanierungsabsicht der Gläubiger werden bei nahestehenden Personen besonders streng geprüft. Gleichzeitig öffnen sich grenzüberschreitende Strukturen für Verlustnutzungs- und Beihilfeprobleme.
 
-Dieser Skill bündelt diese Spezialthemen für den Großkanzlei-Konzernmandanten.
+Dieser Skill bearbeitet diese Spezialthemen für den Großkanzlei-Konzernmandanten.
 
 ## Wann brauchen Sie diesen Skill
 
@@ -711,7 +711,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
 
-Dieser Skill bündelt diese Aspekte für das PE-Team.
+Dieser Skill bearbeitet diese Aspekte für das PE-Team.
 
 ## Wann brauchen Sie diesen Skill
 

@@ -7,11 +7,11 @@ description: "Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-ki-im-notariat-grenzen-kammerantwort-und-verfahrensstrat` | Notare: ki im notariat grenzen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-kollegialitaet-und-zustaendigkeit-kammerantwort-und-verf` | Notare: kollegialitaet und zustaendigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahre
 
 ## Arbeitsweg
 
-Für **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-ki-im-notariat-grenzen-kammerantwort-und-verfahrensstrat`
 

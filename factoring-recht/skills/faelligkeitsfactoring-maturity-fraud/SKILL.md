@@ -7,11 +7,11 @@ description: "Faelligkeitsfactoring Maturity Factoring Und Mahnservice, Fraud In
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Faelligkeitsfactoring Maturity Factoring Und Mahnservice, Fraud Indikatoren Scheinforderungen Retouren Gutschriften, Full Service Factoring Inhouse Factoring Ausschnittsmodell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Faelligkeitsfactoring Maturity Factoring Und Mahnservice, Fraud Indikatoren Scheinforderungen Retouren Gutschriften, Full Service Factoring Inhouse Factoring Ausschnittsmodell** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `faelligkeitsfactoring-maturity-factoring-und-mahnservice` | Fälligkeitsfactoring Maturity Factoring und Mahnservice: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `fraud-indikatoren-scheinforderungen-retouren-gutschriften` | Fraud-Indikatoren Scheinforderungen Retouren Gutschriften: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Faelligkeitsfactoring Maturity Factoring Und Mahnservice
 
 ## Arbeitsweg
 
-Für **Faelligkeitsfactoring Maturity Factoring Und Mahnservice, Fraud Indikatoren Scheinforderungen Retouren Gutschriften, Full Service Factoring Inhouse Factoring Ausschnittsmodell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Faelligkeitsfactoring Maturity Factoring Und Mahnservice, Fraud Indikatoren Scheinforderungen Retouren Gutschriften, Full Service Factoring Inhouse Factoring Ausschnittsmodell** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `faelligkeitsfactoring-maturity-factoring-und-mahnservice`
 

@@ -7,11 +7,11 @@ description: "Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung F
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-vertragspruefung-fristennotiz-und-naechster-schritt` | Vertragspruefung: Fristennotiz und nächster Schritt im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vorpruefung-fristen-form-und-zustaendigkeit` | Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vertragspruefung Fristennotiz Und Naechster Schritt, Vor
 
 ## Arbeitsweg
 
-Für **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-vertragspruefung-fristennotiz-und-naechster-schritt`
 

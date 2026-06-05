@@ -1,17 +1,17 @@
 ---
 name: steuer-haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d
-description: "Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 weitere Module
+# Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anw-haftungswarn-15a-inso-mandant` | Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten. |
 | `fa-stu-haftungsbescheid-69-191-ao` | Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der Gesellschaft. Behandelt Tatbestandsvoraussetzungen Verschulden Kausalitaet quotale Befriedigung und Ermessensfehler. Output Pruefraster Haftung mit Erwiderungsmuster. Abgrenzung zu fa-stu-lst-haftung-42d-estg. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Ls
 
 ## Arbeitsweg
 
-Für **Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Haftungswarn 15a Inso Mandant / Haftungsbescheid AO / Lst Haftung 42d EStG / Lohn Pruefungen Drv Bp Haftung / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anw-haftungswarn-15a-inso-mandant`
 

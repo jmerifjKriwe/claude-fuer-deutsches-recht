@@ -7,11 +7,11 @@ description: "Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 00
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-006-einkommensteuer-betriebseinnahme-private-nutzung` | Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. |
 | `infl-007-kleinunternehmerregelung-und-wachstumsschmerz` | Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzun
 
 ## Arbeitsweg
 
-Für **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-006-einkommensteuer-betriebseinnahme-private-nutzung`
 

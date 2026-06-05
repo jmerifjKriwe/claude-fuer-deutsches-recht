@@ -7,11 +7,11 @@ description: "Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-neu-022-zweiter-teil-staendeordnung-adel-buerger-bauern` | PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `pralr-neu-023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei` | PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, P
 
 ## Arbeitsweg
 
-Für **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-neu-022-zweiter-teil-staendeordnung-adel-buerger-bauern`
 

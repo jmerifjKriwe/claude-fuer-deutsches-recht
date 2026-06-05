@@ -7,33 +7,33 @@ description: "Familiennachzug Start, Fiktionswirkung, First Year Associate Migra
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Familiennachzug Start, Fiktionswirkung, First Year Associate Migration, Fristen Und Risikoampel, Fristenrettung Asyl Aufenthalt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Familiennachzug Start, Fiktionswirkung, First Year Associate Migration, Fristen Und Risikoampel, Fristenrettung Asyl Aufenthalt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `workflow-familiennachzug-start` | Familiennachzug Start: Arbeitsmodul für Migrationsrecht; sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fiktionswirkung` | Fiktionswirkung: Arbeitsmodul für Migrationsrecht; prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-first-year-associate-migration` | First-Year-Associate-Coach Migration: Arbeitsmodul für Migrationsrecht; führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-familiennachzug-start` | Familiennachzug Start: Prüffeld für Migrationsrecht; sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-fiktionswirkung` | Fiktionswirkung: Prüffeld für Migrationsrecht; prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-first-year-associate-migration` | First-Year-Associate-Coach Migration: Prüffeld für Migrationsrecht; führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-migrationsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-fristenrettung-asyl-aufenthalt` | Fristenrettung Asyl/Aufenthalt: Arbeitsmodul für Migrationsrecht; priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-fristenrettung-asyl-aufenthalt` | Fristenrettung Asyl/Aufenthalt: Prüffeld für Migrationsrecht; priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Familiennachzug Start, Fiktionswirkung, First Year Associate Migration, Fristen Und Risikoampel, Fristenrettung Asyl Aufenthalt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Familiennachzug Start, Fiktionswirkung, First Year Associate Migration, Fristen Und Risikoampel, Fristenrettung Asyl Aufenthalt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-familiennachzug-start`
 
-**Fokus:** Familiennachzug Start: Arbeitsmodul für Migrationsrecht; sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Familiennachzug Start: Prüffeld für Migrationsrecht; sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Familiennachzug Start
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -62,12 +62,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-fiktionswirkung`
 
-**Fokus:** Fiktionswirkung: Arbeitsmodul für Migrationsrecht; prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Fiktionswirkung: Prüffeld für Migrationsrecht; prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Fiktionswirkung
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -96,12 +96,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-first-year-associate-migration`
 
-**Fokus:** First-Year-Associate-Coach Migration: Arbeitsmodul für Migrationsrecht; führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** First-Year-Associate-Coach Migration: Prüffeld für Migrationsrecht; führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # First-Year-Associate-Coach Migration
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -165,12 +165,12 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 5. `workflow-fristenrettung-asyl-aufenthalt`
 
-**Fokus:** Fristenrettung Asyl/Aufenthalt: Arbeitsmodul für Migrationsrecht; priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Fristenrettung Asyl/Aufenthalt: Prüffeld für Migrationsrecht; priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Fristenrettung Asyl/Aufenthalt
 
 ## Aufgabe
-Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung.
+Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:

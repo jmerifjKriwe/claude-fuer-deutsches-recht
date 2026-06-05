@@ -7,11 +7,11 @@ description: "Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderko
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `patentanwalt-erfinderkonflikt-praevention` | Patentanwalt Erfinderkonflikt (Präventions- und Organisationspaket): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `patentanwalt-erfinderkonflikt-verteidigung` | Patentanwalt Erfinderkonflikt (Verteidigungs- und Kammerantwort): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt 
 
 ## Arbeitsweg
 
-Für **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `patentanwalt-erfinderkonflikt-praevention`
 

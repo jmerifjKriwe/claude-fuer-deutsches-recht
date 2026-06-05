@@ -1,17 +1,17 @@
 ---
 name: ifg-informationszugang-baden-wuerttemberg-bayern-livecheck
-description: "Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-021-informationszugang-baden-wuerttemberg` | Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-022-informationszugang-bayern-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Bayern Livecheck. Informationszugang Bayern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Informationszugang Baden Wuerttemberg / Informationszuga
 
 ## Arbeitsweg
 
-Für **Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationszugang Baden Wuerttemberg / Informationszugang Bayern Livecheck / Informationszugang Berlin Livecheck / Informationszugang Brandenburg Liveche** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-021-informationszugang-baden-wuerttemberg`
 

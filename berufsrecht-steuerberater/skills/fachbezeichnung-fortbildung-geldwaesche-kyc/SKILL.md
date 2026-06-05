@@ -7,11 +7,11 @@ description: "Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice: wä
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fachbezeichnung` | Fachbezeichnung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fachbezeichnung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `fortbildung` | Fortbildung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fortbildung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeo
 
 ## Arbeitsweg
 
-Für **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachbezeichnung, Fortbildung, Geldwaesche Und Kyc, Homeoffice, Honorar Gebühren Vergütung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fachbezeichnung`
 

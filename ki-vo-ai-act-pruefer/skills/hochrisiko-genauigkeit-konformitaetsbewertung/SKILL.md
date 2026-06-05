@@ -7,11 +7,11 @@ description: "Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` | Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren). |
 | `hochrisiko-konformitaetsbewertung-art-43-bis-49` | Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15
 
 ## Arbeitsweg
 
-Für **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15`
 

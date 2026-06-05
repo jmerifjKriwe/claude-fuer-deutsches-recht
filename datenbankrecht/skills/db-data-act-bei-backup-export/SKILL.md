@@ -1,17 +1,17 @@
 ---
 name: db-data-act-bei-backup-export
-description: "Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-035-data-act-und-zugang-zu-iot-daten` | Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber. |
 | `db-036-datenbankrecht-bei-saas-und-cloudmigration` | Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Clou
 
 ## Arbeitsweg
 
-Für **Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Data Act Zugang Iot / Db Datenbankrecht Bei Saas Cloudmigration / Db Backup Export Vendor Lock** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-035-data-act-und-zugang-zu-iot-daten`
 

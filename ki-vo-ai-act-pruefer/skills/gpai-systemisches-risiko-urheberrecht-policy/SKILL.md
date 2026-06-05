@@ -7,11 +7,11 @@ description: "Gpai Systemisches Risiko Schwelle 10e25 Flop, Gpai Urheberrecht Po
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gpai-systemisches-risiko-schwelle-10e25-flop` | Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten). |
 | `gpai-urheberrecht-policy-art-53` | GPAI-Urheberrechtspflichten nach Art. 53 KI-VO: Copyright-Policy, Trainingsdaten-Zusammenfassung, Rechtekette, TDM/Opt-out, Output-Risiko, Anbieterkommunikation und Evidence-Pack fuer Basismodelle und darauf aufsetzende Systeme. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheb
 
 ## Arbeitsweg
 
-Für **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gpai Systemisches Risiko Schwelle 10E25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gpai-systemisches-risiko-schwelle-10e25-flop`
 

@@ -7,11 +7,11 @@ description: "Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis Heute, Ein 011 Restitution Oder Entschaedigung, Ein 013 Erbfolge Und Berechtigtenkette** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis Heute, Ein 011 Restitution Oder Entschaedigung, Ein 013 Erbfolge Und Berechtigtenkette** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-008-bodenreform-grundbuch-lesen` | Einigungsvertrag und Vermögensrecht: Bodenreform-Grundbuch lesen. Bodenreform-Grundbuch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-010-registerlage-1990-bis-heute` | Einigungsvertrag und Vermögensrecht: Registerlage 1990 bis heute. Registerlage 1990 bis heute im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlag
 
 ## Arbeitsweg
 
-Für **Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis Heute, Ein 011 Restitution Oder Entschaedigung, Ein 013 Erbfolge Und Berechtigtenkette** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 008 Bodenreform Grundbuch Lesen, Ein 010 Registerlage 1990 Bis Heute, Ein 011 Restitution Oder Entschaedigung, Ein 013 Erbfolge Und Berechtigtenkette** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-008-bodenreform-grundbuch-lesen`
 

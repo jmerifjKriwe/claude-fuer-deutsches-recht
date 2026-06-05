@@ -7,11 +7,11 @@ description: "Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vergleich-paragraph-779` | Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. |
 | `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Wer
 
 ## Arbeitsweg
 
-Für **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergleich Paragraph 779, Verjaehrung Bgb Bt Spezial, Werk Dienst Abgrenzung Erfolg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vergleich-paragraph-779`
 

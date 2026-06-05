@@ -7,11 +7,11 @@ description: "Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrag
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wahlanfechtung-intern` | Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen. |
 | `wahlkampffinanzierung` | Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter
 
 ## Arbeitsweg
 
-Für **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wahlanfechtung-intern`
 

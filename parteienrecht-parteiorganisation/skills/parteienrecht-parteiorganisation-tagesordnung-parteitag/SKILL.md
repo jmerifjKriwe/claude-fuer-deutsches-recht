@@ -1,17 +1,17 @@
 ---
 name: parteienrecht-parteiorganisation-tagesordnung-parteitag
-description: "Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tagesordnung-parteitag` | Erstellt Tagesordnung für Vorstandswahl, Anträge, Satzungsänderung, Listenaufstellung, Rechenschaft und Entlastung. |
 | `unterstuetzungsunterschriften` | Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Tagesordnung Parteitag / Unterstuetzungsunterschriften /
 
 ## Arbeitsweg
 
-Für **Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tagesordnung Parteitag / Unterstuetzungsunterschriften / Vertrauenspersonen Wahlvorschlag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `parteienrecht-parteiorganisation` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tagesordnung-parteitag`
 

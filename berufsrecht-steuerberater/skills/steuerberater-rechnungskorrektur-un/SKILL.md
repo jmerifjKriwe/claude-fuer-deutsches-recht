@@ -7,11 +7,11 @@ description: "Steuerberater Rechnungskorrektur Und Dokumentation Kaltstart Un, S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Steuerberater Rechnungskorrektur Und Dokumentation Kaltstart Un, Steuerberater Selbstanzeige Mandat Risiko Kaltstart Und Faktenm, Steuerberater Stbvv Vergütung Und Transparenz Kaltstart Und Fa, Steuerberater Steuerstrafrechtliche Schnittstelle Kaltstart Und, Steuerberater Vermoegensverfall Steuerberater Kaltstart Und Fak** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Steuerberater Rechnungskorrektur Und Dokumentation Kaltstart Un, Steuerberater Selbstanzeige Mandat Risiko Kaltstart Und Faktenm, Steuerberater Stbvv Vergütung Und Transparenz Kaltstart Und Fa, Steuerberater Steuerstrafrechtliche Schnittstelle Kaltstart Und, Steuerberater Vermoegensverfall Steuerberater Kaltstart Und Fak** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `steuerberater-rechnungskorrektur-und-dokumentation-kaltstart-un` | Steuerberater: rechnungskorrektur und dokumentation - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-selbstanzeige-mandat-risiko-kaltstart-und-faktenm` | Steuerberater: selbstanzeige mandat risiko - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Steuerberater Rechnungskorrektur Und Dokumentation Kalts
 
 ## Arbeitsweg
 
-Für **Steuerberater Rechnungskorrektur Und Dokumentation Kaltstart Un, Steuerberater Selbstanzeige Mandat Risiko Kaltstart Und Faktenm, Steuerberater Stbvv Vergütung Und Transparenz Kaltstart Und Fa, Steuerberater Steuerstrafrechtliche Schnittstelle Kaltstart Und, Steuerberater Vermoegensverfall Steuerberater Kaltstart Und Fak** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuerberater Rechnungskorrektur Und Dokumentation Kaltstart Un, Steuerberater Selbstanzeige Mandat Risiko Kaltstart Und Faktenm, Steuerberater Stbvv Vergütung Und Transparenz Kaltstart Und Fa, Steuerberater Steuerstrafrechtliche Schnittstelle Kaltstart Und, Steuerberater Vermoegensverfall Steuerberater Kaltstart Und Fak** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-steuerberater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `steuerberater-rechnungskorrektur-und-dokumentation-kaltstart-un`
 

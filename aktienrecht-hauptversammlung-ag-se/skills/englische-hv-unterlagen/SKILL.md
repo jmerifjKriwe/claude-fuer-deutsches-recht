@@ -1,6 +1,6 @@
 ---
 name: englische-hv-unterlagen
-description: "Hauptversammlung AG und SE: Englische HV Unterlagen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Hauptversammlung AG und SE: Englische HV Unterlagen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Englische HV Unterlagen

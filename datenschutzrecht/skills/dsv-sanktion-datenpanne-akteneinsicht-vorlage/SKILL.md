@@ -7,11 +7,11 @@ description: "Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv Sanktion D
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Dsv Sanktion Durchsuchung Beschlagnahme Und Datenzugriff, Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid, Dsv Sanktion Hauptverhandlung 71 Owig und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Dsv Sanktion Durchsuchung Beschlagnahme Und Datenzugriff, Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid, Dsv Sanktion Hauptverhandlung 71 Owig und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-sanktion-datenpanne-vor-bussgeld-selbstmeldung` | Datenschutzrecht-Brückenskill: Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-sanktion-dokumentenmatrix-akteneinsicht-vorlage-und-luecken` | Datenschutzrecht-Brückenskill: Dokumentenmatrix vor Akteneinsicht: VVT, DSFA, TOM, AVV, Löschkonzept, Incident-Timeline, DSB-Vermerke, Schulungen und Logs einsammeln. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv 
 
 ## Arbeitsweg
 
-Für **Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Dsv Sanktion Durchsuchung Beschlagnahme Und Datenzugriff, Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid, Dsv Sanktion Hauptverhandlung 71 Owig und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung, Dsv Sanktion Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Dsv Sanktion Durchsuchung Beschlagnahme Und Datenzugriff, Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid, Dsv Sanktion Hauptverhandlung 71 Owig und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-sanktion-datenpanne-vor-bussgeld-selbstmeldung`
 

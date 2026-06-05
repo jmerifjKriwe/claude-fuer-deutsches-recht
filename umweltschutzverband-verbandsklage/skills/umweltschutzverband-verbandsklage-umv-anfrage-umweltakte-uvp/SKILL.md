@@ -1,17 +1,17 @@
 ---
 name: umweltschutzverband-verbandsklage-umv-anfrage-umweltakte-uvp
-description: "Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-005-uig-anfrage-fuer-umweltakte` | Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-006-uvp-pflicht-und-vorpruefung` | Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / U
 
 ## Arbeitsweg
 
-Für **Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv Anfrage Umweltakte / Umv Uvp Pflicht Vorpruefung / Umv Planfeststellung Angreifen / Umv Bimschg Genehmigung Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-005-uig-anfrage-fuer-umweltakte`
 

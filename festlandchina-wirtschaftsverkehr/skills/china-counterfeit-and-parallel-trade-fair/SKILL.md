@@ -1,17 +1,17 @@
 ---
 name: china-counterfeit-and-parallel-trade-fair
-description: "Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-085-counterfeit-and-parallel-imports` | Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktpiraterie § 143 MarkenG. Output: Anti-Piraterie-Strategie und Zoll-Notifizierungsplan. |
 | `chn-087-trade-fair-china-ip-risk` | IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Counterfeit And Parallel Imports / Trade Fair China Ip R
 
 ## Arbeitsweg
 
-Für **Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Counterfeit And Parallel Imports / Trade Fair China Ip Risk / Visas Expats And Secondment / Factory Lease And Land Use** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-085-counterfeit-and-parallel-imports`
 

@@ -7,11 +7,11 @@ description: "Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwes
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwesenheitspflicht, Anwesenheitspflicht Modul** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwesenheitspflicht, Anwesenheitspflicht Modul** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anerkennung-von-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen. |
 | `anonymisierung-klausur` | Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anerkennung Von Pruefungsleistungen, Anonymisierung Klau
 
 ## Arbeitsweg
 
-Für **Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwesenheitspflicht, Anwesenheitspflicht Modul** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwesenheitspflicht, Anwesenheitspflicht Modul** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anerkennung-von-pruefungsleistungen`
 

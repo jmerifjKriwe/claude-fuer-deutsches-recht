@@ -7,11 +7,11 @@ description: "Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Flucht
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-geas-2026-umstellung` | GEAS-Umstellung 2026: Fachmodul im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-haertefallkommission` | Härtefallkommission: Fachmodul im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Geas 2026 Umstellung, Haertefallkommission, Innerstaatli
 
 ## Arbeitsweg
 
-Für **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-geas-2026-umstellung`
 

@@ -7,11 +7,11 @@ description: "Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 Bodenrefor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 Bodenreformland Fristproblem Markieren, Ein 065 Parteivermoegen Fristproblem Markieren, Ein 075 Kommunalvermoegen Fristproblem Markier** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 Bodenreformland Fristproblem Markieren, Ein 065 Parteivermoegen Fristproblem Markieren, Ein 075 Kommunalvermoegen Fristproblem Markier** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-045-mauergrundstueck-fristproblem-markiere` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Fristproblem markieren. Fristproblem markieren für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-055-bodenreformland-fristproblem-markieren` | Einigungsvertrag und Vermögensrecht: Bodenreformland: Fristproblem markieren. Fristproblem markieren für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 
 
 ## Arbeitsweg
 
-Für **Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 Bodenreformland Fristproblem Markieren, Ein 065 Parteivermoegen Fristproblem Markieren, Ein 075 Kommunalvermoegen Fristproblem Markier** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 045 Mauergrundstueck Fristproblem Markiere, Ein 055 Bodenreformland Fristproblem Markieren, Ein 065 Parteivermoegen Fristproblem Markieren, Ein 075 Kommunalvermoegen Fristproblem Markier** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-045-mauergrundstueck-fristproblem-markiere`
 

@@ -7,11 +7,11 @@ description: "Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, R
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `presse-und-offenlegung` | Bereitet Reaktion auf Presseoffenlegung vor. |
 | `produktsicherheit` | Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Presse Und Offenlegung, Produktsicherheit, Public Sector
 
 ## Arbeitsweg
 
-Für **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Presse Und Offenlegung, Produktsicherheit, Public Sector Beamte, Repressalienverbot** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `presse-und-offenlegung`
 

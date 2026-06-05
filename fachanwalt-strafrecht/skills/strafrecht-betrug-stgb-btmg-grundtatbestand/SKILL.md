@@ -7,11 +7,11 @@ description: "Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Gru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-betrug-263-stgb-grundtatbestand` | Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand fuer Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo fuer Akte und Mandanten plus Pruefraster fuer Plaedoyer. |
 | `strafrecht-spezial-btmg-29-grundtatbestand` | BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster fuer Verteidigung und Strafzumessung. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht B
 
 ## Arbeitsweg
 
-Für **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
 

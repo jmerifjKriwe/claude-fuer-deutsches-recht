@@ -1,17 +1,17 @@
 ---
 name: ifg-umweltinformation-antrag-formulier-kosten-deckeln
-description: "Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-057-uig-umweltinformation-antrag-formulier` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Antrag formulieren. Antrag formulieren für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-060-uig-umweltinformation-kosten-deckeln` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Kosten deckeln. Kosten deckeln für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umweltinformation Antrag Formulier / Umweltinformation K
 
 ## Arbeitsweg
 
-Für **Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umweltinformation Antrag Formulier / Umweltinformation Kosten Deckeln / Umweltinformation Schwaerzung Angr / Umweltinformation Drittanhoerung B** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-057-uig-umweltinformation-antrag-formulier`
 

@@ -1,17 +1,17 @@
 ---
 name: methodenlehre-buergerliches-abwaegungszustaendigkeit
-description: "Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 weitere Module
+# Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `abwaegungszustaendigkeit-institutionen` | Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution. |
 | `spezial-buergerlichen-fristen-form-und-zustaendigkeit` | Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Abwaegungszustaendigkeit Institutionen / Spezial Buerger
 
 ## Arbeitsweg
 
-Für **Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abwaegungszustaendigkeit Institutionen / Spezial Buergerlichen Fristen Form Zustaendigkeit / Spezial Verjaehrung Fristennotiz Naechster Schritt / Freiheitlicher Paternalismus Check Vertrag / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `abwaegungszustaendigkeit-institutionen`
 

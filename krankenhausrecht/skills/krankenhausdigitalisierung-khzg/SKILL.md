@@ -7,11 +7,11 @@ description: "Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krankenhausdigitalisierung-khzg-it-sicherheit` | Krankenhausdigitalisierung KHZG IT-Sicherheit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 | `krankenhausfinanzierungsgesetz-khg-grundstruktur` | Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Laender-Aufgabenteilung im Ueberblick. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenha
 
 ## Arbeitsweg
 
-Für **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krankenhausdigitalisierung-khzg-it-sicherheit`
 

@@ -1,17 +1,17 @@
 ---
 name: pe-legal-dd-red-financial-tax-commercial-contract-management
-description: "Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-023-legal-dd-red-flag` | Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. |
 | `pe-024-financial-tax-dd-legal-translation` | Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Legal DD Red Flag / Financial Tax DD Legal Translation /
 
 ## Arbeitsweg
 
-Für **Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legal DD Red Flag / Financial Tax DD Legal Translation / Commercial DD Contract Value / Management Presentation Q And A** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-023-legal-dd-red-flag`
 

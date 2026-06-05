@@ -7,11 +7,11 @@ description: "Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bere
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsgrundmangel-anfang-und-wegfall` | Nutze diesen Skill, wenn Anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung. |
 | `ruecktritt-widerruf-und-bereicherung` | Nutze diesen Skill, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerru
 
 ## Arbeitsweg
 
-Für **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsgrundmangel-anfang-und-wegfall`
 

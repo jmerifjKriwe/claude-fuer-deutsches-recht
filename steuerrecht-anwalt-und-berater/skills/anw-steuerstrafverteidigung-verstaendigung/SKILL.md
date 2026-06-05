@@ -1,6 +1,6 @@
 ---
 name: anw-steuerstrafverteidigung-verstaendigung
-description: "Arbeitsmodul zu anw steuerstrafverteidigung verstaendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für anw steuerstrafverteidigung verstaendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

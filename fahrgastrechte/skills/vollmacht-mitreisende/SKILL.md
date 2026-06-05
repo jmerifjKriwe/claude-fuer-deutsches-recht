@@ -7,7 +7,7 @@ description: "Erzeugt Vollmachten fuer Mitreisende (Familienmitglieder Freunde R
 
 ## Zweck
 
-Wenn mehrere Personen unter einer gemeinsamen Buchung gestört wurden, hat **jede:r** einen eigenen Anspruch aus Art. 19 VO (EU) 2021/782. Damit eine Hauptansprechperson alle Ansprüche gebündelt verfolgen kann (vorgerichtlich Forderung an DB / Widerspruch / Schlichtung; gerichtlich Klage), braucht es Vollmachten der Mitreisenden.
+Wenn mehrere Personen unter einer gemeinsamen Buchung gestört wurden, hat **jede:r** einen eigenen Anspruch aus Art. 19 VO (EU) 2021/782. Damit eine Hauptansprechperson alle Ansprüche gebearbeitet verfolgen kann (vorgerichtlich Forderung an DB / Widerspruch / Schlichtung; gerichtlich Klage), braucht es Vollmachten der Mitreisenden.
 
 ## Vollmacht-Inhalt (Erwachsene)
 

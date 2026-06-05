@@ -7,11 +7,11 @@ description: "Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-043-band-teil-titel-navigation` | PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren. |
 | `pralr-044-rechtsfortwirkung-in-praxis-check` | PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfo
 
 ## Arbeitsweg
 
-Für **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz, Pralr 049 Abschlussmemo Historische Tragfaehigkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-043-band-teil-titel-navigation`
 

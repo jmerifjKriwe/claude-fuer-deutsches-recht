@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-tax-vat-import-settlement-crossborder-cisg
-description: "Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-054-tax-vat-import-export` | Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax. |
 | `ihl-087-settlement-crossborder` | Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tax Vat Import Export / Settlement Crossborder / Cisg An
 
 ## Arbeitsweg
 
-Für **Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tax Vat Import Export / Settlement Crossborder / Cisg Anwendungsbereich / Cisg Ausschluss Rechtswahl** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-054-tax-vat-import-export`
 

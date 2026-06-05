@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-einspruch-fristgerecht
-description: "Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-005-einspruch-fristgerecht-einlegen` | Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `owi-016-beschlussverfahren-72-owig` | Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfa
 
 ## Arbeitsweg
 
-Für **Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Einspruch Fristgerecht Einlegen / Owi Beschlussverfahren OWiG / Owi Jugendliche Verfahren / Owi Datenschutzbussgeld Frist Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-005-einspruch-fristgerecht-einlegen`
 

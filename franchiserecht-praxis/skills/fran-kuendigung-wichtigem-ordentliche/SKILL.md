@@ -7,11 +7,11 @@ description: "Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordentliche Kün
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordentliche Kündigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenbestand** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordentliche Kündigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenbestand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-014-kuendigung-aus-wichtigem-grund` | Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive. |
 | `fran-015-ordentliche-kuendigung-laufzeit-verlaengerung` | Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordent
 
 ## Arbeitsweg
 
-Für **Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordentliche Kündigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenbestand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 014 Kündigung Aus Wichtigem Grund, Fran 015 Ordentliche Kündigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenbestand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-014-kuendigung-aus-wichtigem-grund`
 

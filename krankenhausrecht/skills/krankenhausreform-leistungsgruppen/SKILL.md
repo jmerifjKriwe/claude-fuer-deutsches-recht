@@ -7,11 +7,11 @@ description: "Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge B
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `krankenhausreform-leistungsgruppen-routing` | Routing-Skill fuer die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill. |
 | `krankenhausseelsorge-besuchsrecht-hausrecht` | Krankenhausseelsorge Besuchsrecht Hausrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Krankenhausreform Leistungsgruppen Routing, Krankenhauss
 
 ## Arbeitsweg
 
-Für **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `krankenhausreform-leistungsgruppen-routing`
 

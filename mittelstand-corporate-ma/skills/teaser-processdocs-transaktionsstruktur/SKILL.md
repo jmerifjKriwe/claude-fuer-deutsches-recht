@@ -7,11 +7,11 @@ description: "Mittelstand Corporate Ma Teaser Im Processdocs, Mittelstand Corpor
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mittelstand Corporate Ma Teaser Im Processdocs, Mittelstand Corporate Ma Transaktionsstruktur, Mittelstand Corporate Ma Translations Multijurisdictional, Mittelstand Corporate Ma Umwandlungsrecht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mittelstand Corporate Ma Teaser Im Processdocs, Mittelstand Corporate Ma Transaktionsstruktur, Mittelstand Corporate Ma Translations Multijurisdictional, Mittelstand Corporate Ma Umwandlungsrecht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-teaser-im-processdocs` | Teaser, IM und Prozessdokumente: Unterstuetzt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation. |
 | `mittelstand-corporate-ma-transaktionsstruktur` | Transaktionsstrukturierung: Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mittelstand Corporate Ma Teaser Im Processdocs, Mittelst
 
 ## Arbeitsweg
 
-Für **Mittelstand Corporate Ma Teaser Im Processdocs, Mittelstand Corporate Ma Transaktionsstruktur, Mittelstand Corporate Ma Translations Multijurisdictional, Mittelstand Corporate Ma Umwandlungsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mittelstand Corporate Ma Teaser Im Processdocs, Mittelstand Corporate Ma Transaktionsstruktur, Mittelstand Corporate Ma Translations Multijurisdictional, Mittelstand Corporate Ma Umwandlungsrecht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mittelstand-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mittelstand-corporate-ma-teaser-im-processdocs`
 

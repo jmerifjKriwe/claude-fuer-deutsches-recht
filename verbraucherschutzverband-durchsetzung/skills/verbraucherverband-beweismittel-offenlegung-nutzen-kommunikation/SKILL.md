@@ -1,17 +1,17 @@
 ---
 name: verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation
-description: "Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vdg-011-beweismittel-offenlegung-nutzen` | Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-012-kommunikation-an-verbraucher` | Verbraucherschutzverband Durchsetzung: Kommunikation an Verbraucher. Kommunikation an Verbraucher im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Beweismittel Offenlegung Nutzen / Kommunikation Verbrauc
 
 ## Arbeitsweg
 
-Für **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beweismittel Offenlegung Nutzen / Kommunikation Verbraucher / Vergleich Austritt Pruefen / Sachwalterfragen Vorbereiten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vdg-011-beweismittel-offenlegung-nutzen`
 

@@ -1,6 +1,6 @@
 ---
 name: nda-verschwiegenheit-generator-checker-kaltstart-routing
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Allgemein Kaltstart

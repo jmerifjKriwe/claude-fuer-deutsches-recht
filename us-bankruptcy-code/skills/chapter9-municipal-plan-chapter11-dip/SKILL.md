@@ -7,11 +7,11 @@ description: "Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chap
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chapter9-municipal-eligibility` | Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities. |
 | `chapter9-plan` | Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11
 
 ## Arbeitsweg
 
-Für **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chapter9-municipal-eligibility`
 

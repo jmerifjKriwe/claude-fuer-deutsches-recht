@@ -7,11 +7,11 @@ description: "Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Be
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anw-verbindliche-auskunft` | Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebührenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebührenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme,
 
 ## Arbeitsweg
 
-Für **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anw-verbindliche-auskunft`
 

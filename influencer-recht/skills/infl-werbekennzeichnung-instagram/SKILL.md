@@ -7,11 +7,11 @@ description: "Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, I
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube` | Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen. |
 | `infl-009-scheinselbststaendigkeit-creator-management-team` | Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok 
 
 ## Arbeitsweg
 
-Für **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 002 Werbekennzeichnung Instagram Story Reel Tiktok Youtube, Infl 009 Scheinselbststaendigkeit Creator Management Team, Infl 011 Brand Deal Leistungsbeschreibung Abnahme Und Nutzungsre** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube`
 

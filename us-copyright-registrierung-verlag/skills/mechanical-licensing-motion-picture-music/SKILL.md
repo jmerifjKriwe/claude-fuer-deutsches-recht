@@ -7,11 +7,11 @@ description: "Mechanical Licensing Collective, Motion Picture Audiovisual, Music
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mechanical Licensing Collective, Motion Picture Audiovisual, Music Videos Chapter11 Title17, Musical Compulsory License 115** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mechanical Licensing Collective, Motion Picture Audiovisual, Music Videos Chapter11 Title17, Musical Compulsory License 115** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mechanical-licensing-collective` | Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. |
 | `motion-picture-audiovisual` | Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Mechanical Licensing Collective, Motion Picture Audiovis
 
 ## Arbeitsweg
 
-Für **Mechanical Licensing Collective, Motion Picture Audiovisual, Music Videos Chapter11 Title17, Musical Compulsory License 115** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mechanical Licensing Collective, Motion Picture Audiovisual, Music Videos Chapter11 Title17, Musical Compulsory License 115** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mechanical-licensing-collective`
 

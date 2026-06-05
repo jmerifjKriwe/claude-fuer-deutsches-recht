@@ -7,11 +7,11 @@ description: "Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibilit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chapter13-codebtor-stay` | Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. |
 | `chapter13-discharge` | Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 
 
 ## Arbeitsweg
 
-Für **Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chapter13-codebtor-stay`
 

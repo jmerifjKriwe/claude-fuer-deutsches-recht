@@ -7,11 +7,11 @@ description: "Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-umwandlung-und-registersperre-rechtsprechungscheck-und-r` | Notare: umwandlung und registersperre - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-unparteilichkeit-bei-familiengesellschaft-rechtsprechung` | Notare: unparteilichkeit bei familiengesellschaft - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Notare Umwandlung Und Registersperre Rechtsprechungschec
 
 ## Arbeitsweg
 
-Für **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-umwandlung-und-registersperre-rechtsprechungscheck-und-r`
 

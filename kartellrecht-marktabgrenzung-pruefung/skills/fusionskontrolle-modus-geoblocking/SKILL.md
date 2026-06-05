@@ -7,11 +7,11 @@ description: "Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fusionskontrolle-modus` | Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA. |
 | `geoblocking-und-kartellrecht-schnittstelle` | Geoblocking und Kartellrecht Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Sch
 
 ## Arbeitsweg
 
-Für **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fusionskontrolle-modus`
 

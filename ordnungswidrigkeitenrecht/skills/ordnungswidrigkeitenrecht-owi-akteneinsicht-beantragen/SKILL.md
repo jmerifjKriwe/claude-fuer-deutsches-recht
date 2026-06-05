@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-akteneinsicht-beantragen
-description: "Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-006-akteneinsicht-beantragen` | Ordnungswidrigkeitenrecht: Akteneinsicht beantragen. Akteneinsicht beantragen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `owi-007-verjaehrung-und-unterbrechung` | Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrec
 
 ## Arbeitsweg
 
-Für **Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Akteneinsicht Beantragen / Owi Verjaehrung Unterbrechung / Owi Zustaendige Verwaltungsbehoerde / Owi Opportunitaet Einstellung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-006-akteneinsicht-beantragen`
 

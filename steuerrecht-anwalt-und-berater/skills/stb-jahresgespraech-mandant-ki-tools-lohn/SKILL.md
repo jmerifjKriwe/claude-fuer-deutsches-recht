@@ -7,11 +7,11 @@ description: "Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-jahresgespraech-mandant-bwa-basis` | Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier. |
 | `stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht` | KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im S
 
 ## Arbeitsweg
 
-Für **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-jahresgespraech-mandant-bwa-basis`
 

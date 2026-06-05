@@ -7,11 +7,11 @@ description: "Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauprodu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmwsb-bau-und-planungsrecht-baugb-baunvo` | Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Laender-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). |
 | `legw-bmwsb-bauproduktenrecht-und-technische-normen` | Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmws
 
 ## Arbeitsweg
 
-Für **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmwsb-bau-und-planungsrecht-baugb-baunvo`
 

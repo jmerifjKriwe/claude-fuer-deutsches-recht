@@ -7,26 +7,26 @@ description: "Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `mandantenbrief-warnung-paragraph-102-starug-template` | Arbeitsmodul zu mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `mandantenbrief-warnung-paragraph-102-starug-template` | Prüffeld für mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform. |
-| `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Arbeitsmodul zu paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Prüffeld für paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mandantenbrief-warnung-paragraph-102-starug-template`
 
-**Fokus:** Arbeitsmodul zu mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
 
@@ -515,7 +515,7 @@ Unterschriften: _________________ / _________________
 
 ## 3. `paragraph-102-starug-warnpflicht-bei-rechtsberatern`
 
-**Fokus:** Arbeitsmodul zu paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
 

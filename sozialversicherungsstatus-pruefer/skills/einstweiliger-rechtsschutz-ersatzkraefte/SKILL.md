@@ -7,11 +7,11 @@ description: "Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer, Exakt 50
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer, Exakt 50 Prozent Gf, Familien Gmbh Faktische Macht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer, Exakt 50 Prozent Gf, Familien Gmbh Faktische Macht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `einstweiliger-rechtsschutz` | Prüft Eilrechtsschutz, Aussetzung, Vollziehung und Zahlungsdruck bei Beitrags-/Statusstreit. |
 | `ersatzkraefte-subunternehmer` | Prüft Einsatz eigener Mitarbeiter/Subunternehmer als Indiz für Selbständigkeit und rechtliche Nebenrisiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer
 
 ## Arbeitsweg
 
-Für **Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer, Exakt 50 Prozent Gf, Familien Gmbh Faktische Macht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einstweiliger Rechtsschutz, Ersatzkraefte Subunternehmer, Exakt 50 Prozent Gf, Familien Gmbh Faktische Macht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `einstweiliger-rechtsschutz`
 

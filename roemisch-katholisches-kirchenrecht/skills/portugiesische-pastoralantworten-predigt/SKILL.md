@@ -7,11 +7,11 @@ description: "Portugiesische Pastoralantworten, Predigt Lehre Und Lehrbeanstandu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Portugiesische Pastoralantworten, Predigt Lehre Und Lehrbeanstandung, Publikationen Imprimatur Und Nihil Obstat, Quellenhierarchie** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Portugiesische Pastoralantworten, Predigt Lehre Und Lehrbeanstandung, Publikationen Imprimatur Und Nihil Obstat, Quellenhierarchie** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `portugiesische-pastoralantworten` | Portugiesische Pastoralantworten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `predigt-lehre-und-lehrbeanstandung` | Predigt, Lehre und Lehrbeanstandung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Portugiesische Pastoralantworten, Predigt Lehre Und Lehr
 
 ## Arbeitsweg
 
-Für **Portugiesische Pastoralantworten, Predigt Lehre Und Lehrbeanstandung, Publikationen Imprimatur Und Nihil Obstat, Quellenhierarchie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Portugiesische Pastoralantworten, Predigt Lehre Und Lehrbeanstandung, Publikationen Imprimatur Und Nihil Obstat, Quellenhierarchie** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `portugiesische-pastoralantworten`
 

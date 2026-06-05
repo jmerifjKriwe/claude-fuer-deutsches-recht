@@ -19,7 +19,7 @@ description: "Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechze
 
 
 ## Einsatz
-Vor oder nach Management Presentations sollen juristische und kommerzielle Fragen sauber gebuendelt werden.
+Vor oder nach Management Presentations sollen juristische und kommerzielle Fragen sauber gebearbeitet werden.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.

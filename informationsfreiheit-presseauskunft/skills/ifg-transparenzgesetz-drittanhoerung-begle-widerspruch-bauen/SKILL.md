@@ -1,17 +1,17 @@
 ---
 name: ifg-transparenzgesetz-drittanhoerung-begle-widerspruch-bauen
-description: "Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-092-transparenzgesetz-drittanhoerung-begle` | Informationsfreiheit und Presseauskunft: Transparenzgesetz: Drittanhörung begleiten. Drittanhörung begleiten für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-093-transparenzgesetz-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: Transparenzgesetz: Widerspruch bauen. Widerspruch bauen für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Transparenzgesetz Drittanhoerung Begle / Transparenzgese
 
 ## Arbeitsweg
 
-Für **Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Transparenzgesetz Drittanhoerung Begle / Transparenzgesetz Widerspruch Bauen / Transparenzgesetz Klage Vorbereiten / Transparenzgesetz Presseantwort Nachfa** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-092-transparenzgesetz-drittanhoerung-begle`
 

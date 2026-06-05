@@ -7,11 +7,11 @@ description: "Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `insichgeschaeft-paragraph-181` | Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit. |
 | `irrtumsanfechtung-paragraph-119-1` | Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsirrtum versus Erklärungsirrtum, Motivirrtum als unbeachtlicher Irrtum, Kausalität und Unverzüglichkeit, Schadensersatz nach § 122 BGB. Prüfraster für Examens- und Anwaltsprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragra
 
 ## Arbeitsweg
 
-Für **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `insichgeschaeft-paragraph-181`
 

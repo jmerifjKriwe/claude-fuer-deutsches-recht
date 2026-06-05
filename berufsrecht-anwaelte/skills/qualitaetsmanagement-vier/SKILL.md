@@ -7,11 +7,11 @@ description: "Anwaelte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, A
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-qualitaetsmanagement-fristen-und-vier-augen-kammerantw` | Anwälte: qualitaetsmanagement fristen und vier augen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-qualitaetsmanagement-fristen-und-vier-augen-organisati` | Anwälte: qualitaetsmanagement fristen und vier augen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kam
 
 ## Arbeitsweg
 
-Für **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwälte Qualitaetsmanagement Fristen Und Vier Augen Kammerantw, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Organisati, Anwälte Qualitaetsmanagement Fristen Und Vier Augen Rechtsprec, Anwälte Ruege Und Gegenvorstellung Kammerantwort Und Verfahren** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-qualitaetsmanagement-fristen-und-vier-augen-kammerantw`
 

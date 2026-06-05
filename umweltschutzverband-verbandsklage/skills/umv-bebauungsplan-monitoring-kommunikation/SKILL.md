@@ -7,11 +7,11 @@ description: "Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kom
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-049-bebauungsplan-monitoring-planen` | Umweltschutzverband Verbandsklage: Bebauungsplan: Monitoring planen. Monitoring planen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-050-bebauungsplan-kommunikation-schaerfen` | Umweltschutzverband Verbandsklage: Bebauungsplan: Kommunikation schärfen. Kommunikation schärfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauun
 
 ## Arbeitsweg
 
-Für **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-049-bebauungsplan-monitoring-planen`
 

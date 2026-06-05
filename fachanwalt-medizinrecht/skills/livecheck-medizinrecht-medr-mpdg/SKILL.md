@@ -7,11 +7,11 @@ description: "Livecheck Abschlussprodukt Und Uebergabe, Medizinrecht Tatbestand 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Livecheck Abschlussprodukt Und Übergabe, Medizinrecht Tatbestand Beweis Und Belege, Medr Mandantenkommunikation Entscheidungsvorlage, Mpdg Compliance Dokumentation Und Akte, Patientenrechte Behörden Gericht Und Registerweg und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Livecheck Abschlussprodukt Und Übergabe, Medizinrecht Tatbestand Beweis Und Belege, Medr Mandantenkommunikation Entscheidungsvorlage, Mpdg Compliance Dokumentation Und Akte, Patientenrechte Behörden Gericht Und Registerweg und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-medizinrecht-tatbestand-beweis-und-belege` | Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Livecheck Abschlussprodukt Und Übergabe, Medizinrecht T
 
 ## Arbeitsweg
 
-Für **Livecheck Abschlussprodukt Und Übergabe, Medizinrecht Tatbestand Beweis Und Belege, Medr Mandantenkommunikation Entscheidungsvorlage, Mpdg Compliance Dokumentation Und Akte, Patientenrechte Behörden Gericht Und Registerweg und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Livecheck Abschlussprodukt Und Übergabe, Medizinrecht Tatbestand Beweis Und Belege, Medr Mandantenkommunikation Entscheidungsvorlage, Mpdg Compliance Dokumentation Und Akte, Patientenrechte Behörden Gericht Und Registerweg und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 

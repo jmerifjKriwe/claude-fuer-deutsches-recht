@@ -7,11 +7,11 @@ description: "Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` | Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner. |
 | `konzerninsolvenz-koordination` | Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Internationales Insolvenzrecht Drittstaaten Inzidentprue
 
 ## Arbeitsweg
 
-Für **Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `internationales-insolvenzrecht-drittstaaten-inzidentpruefung`
 
@@ -177,7 +177,7 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 ### Grundregel
 
 - **Verantwortliches Gericht** für Mutter-Gesellschaft
-- Anträge weiterer Konzern-Gesellschaften können dort gebündelt werden
+- Anträge weiterer Konzern-Gesellschaften können dort gebearbeitet werden
 - Voraussetzung: gegenständliche und persönliche Verzahnung
 
 ### Antrags-Voraussetzungen

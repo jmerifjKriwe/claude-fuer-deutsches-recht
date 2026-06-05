@@ -7,27 +7,27 @@ description: "Treuepflicht Gesellschafterdarlehen, Treuepflicht In Der Liquidati
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Treuepflicht Gesellschafterdarlehen, Treuepflicht In Der Liquidation, Treuepflicht Ip Und Corporate Opportunity, Treuepflicht Ki Und Datenzugriff** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Treuepflicht Gesellschafterdarlehen, Treuepflicht In Der Liquidation, Treuepflicht Ip Und Corporate Opportunity, Treuepflicht Ki Und Datenzugriff** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `treuepflicht-gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Gesellschafterdarlehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-in-der-liquidation` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht In Der Liquidation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-ip-und-corporate-opportunity` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht IP Und Corporate Opportunity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-ki-und-datenzugriff` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Gesellschafterdarlehen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-in-der-liquidation` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht In Der Liquidation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-ip-und-corporate-opportunity` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht IP Und Corporate Opportunity; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-ki-und-datenzugriff` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Treuepflicht Gesellschafterdarlehen, Treuepflicht In Der Liquidation, Treuepflicht Ip Und Corporate Opportunity, Treuepflicht Ki Und Datenzugriff** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Treuepflicht Gesellschafterdarlehen, Treuepflicht In Der Liquidation, Treuepflicht Ip Und Corporate Opportunity, Treuepflicht Ki Und Datenzugriff** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `treuepflicht-gesellschafterdarlehen`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Gesellschafterdarlehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Gesellschafterdarlehen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Gesellschafterdarlehen
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `treuepflicht-in-der-liquidation`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht In Der Liquidation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht In Der Liquidation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht In Der Liquidation
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `treuepflicht-ip-und-corporate-opportunity`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht IP Und Corporate Opportunity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht IP Und Corporate Opportunity; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht IP Und Corporate Opportunity
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `treuepflicht-ki-und-datenzugriff`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht KI Und Datenzugriff
 

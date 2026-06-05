@@ -7,11 +7,11 @@ description: "Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-096-vertiefung-01-praxisfall-auswertung` | Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien. |
 | `ihl-097-vertiefung-01-dashboard-und-naechster-schritt` | Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Ver
 
 ## Arbeitsweg
 
-Für **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-096-vertiefung-01-praxisfall-auswertung`
 

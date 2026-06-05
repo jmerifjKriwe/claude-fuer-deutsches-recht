@@ -7,21 +7,21 @@ description: "Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verl-014-marketplace-haendler-amazon-und-preisdisziplin` | Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis. |
 | `verl-015-titelschutz-werktitel-und-reihenname` | Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschriftentitel — UrhG § 5, MarkenG § 5, UWG-Titelschutz, Kollisionsrisiken und Durchsetzung. |
 
 ## Arbeitsweg
 
-Für **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsrecht-buchpreisbindung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verl-014-marketplace-haendler-amazon-und-preisdisziplin`
 

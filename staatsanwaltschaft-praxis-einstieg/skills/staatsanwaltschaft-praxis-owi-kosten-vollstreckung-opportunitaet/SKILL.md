@@ -1,17 +1,17 @@
 ---
 name: staatsanwaltschaft-praxis-owi-kosten-vollstreckung-opportunitaet
-description: "Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 weitere Module
+# Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-kosten-vollstreckung-und-ruecknahme` | Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
 | `owi-opportunitaet-einstellung-47` | Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet 
 
 ## Arbeitsweg
 
-Für **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Kosten Vollstreckung Ruecknahme / Owi Opportunitaet Einstellung / Owi Rechtsbeschwerde / Owi Verbandsgeldbusse / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-kosten-vollstreckung-und-ruecknahme`
 

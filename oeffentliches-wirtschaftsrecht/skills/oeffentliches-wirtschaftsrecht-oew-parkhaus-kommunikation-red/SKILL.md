@@ -1,17 +1,17 @@
 ---
 name: oeffentliches-wirtschaftsrecht-oew-parkhaus-kommunikation-red
-description: "Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-089-parkhaus-kommunikation-schreiben` | Öffentliches Wirtschaftsrecht: Parkhaus: Kommunikation schreiben. Kommunikation schreiben für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-090-parkhaus-red-flags-listen` | Öffentliches Wirtschaftsrecht: Parkhaus: Red Flags listen. Red Flags listen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red 
 
 ## Arbeitsweg
 
-Für **Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew Parkhaus Kommunikation Schreiben / Oew Parkhaus Red Flags Listen / Oew Messegesellschaft Organisationsform Pr / Oew Messegesellschaft Vergabeweg Waehlen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-089-parkhaus-kommunikation-schreiben`
 

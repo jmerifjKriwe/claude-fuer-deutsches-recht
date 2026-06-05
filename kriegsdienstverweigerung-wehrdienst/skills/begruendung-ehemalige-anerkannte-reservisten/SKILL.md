@@ -7,11 +7,11 @@ description: "Begruendung Für Ehemalige Anerkannte, Begruendung Für Reserviste
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `begruendung-fuer-ehemalige-anerkannte` | Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. |
 | `begruendung-fuer-reservisten` | Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Begründung Für Ehemalige Anerkannte, Begründung Für 
 
 ## Arbeitsweg
 
-Für **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kriegsdienstverweigerung-wehrdienst` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Begründung Für Ehemalige Anerkannte, Begründung Für Reservisten, Begründung Für Ungediente, Begründung Redaktion Ohne Schablone, Beistand Kirchen Beratung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kriegsdienstverweigerung-wehrdienst` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `begruendung-fuer-ehemalige-anerkannte`
 

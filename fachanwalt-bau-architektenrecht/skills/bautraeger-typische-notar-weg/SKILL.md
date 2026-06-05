@@ -7,11 +7,11 @@ description: "Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgesc
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgeschlossenheitsbescheinigung, Bautraeger Weg Erstverwalter Bestellung, Bautraeger Weg Gemeinschaftsordnung Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgeschlossenheitsbescheinigung, Bautraeger Weg Erstverwalter Bestellung, Bautraeger Weg Gemeinschaftsordnung Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-typische-notar-fehler-checkliste` | Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung. |
 | `bautraeger-weg-abgeschlossenheitsbescheinigung` | WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Typische Notar Fehler Checkliste, Bautraeger 
 
 ## Arbeitsweg
 
-Für **Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgeschlossenheitsbescheinigung, Bautraeger Weg Erstverwalter Bestellung, Bautraeger Weg Gemeinschaftsordnung Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgeschlossenheitsbescheinigung, Bautraeger Weg Erstverwalter Bestellung, Bautraeger Weg Gemeinschaftsordnung Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-typische-notar-fehler-checkliste`
 

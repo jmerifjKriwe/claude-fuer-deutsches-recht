@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Gros
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-purchase-price-adjustment-earn-out` | Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung. |
 | `grosskanzlei-corporate-ma-real-estate-leases-sites` | Real Estate, Leases und Sites Due Diligence: prueft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-purchase-price-adjustment-earn-out`
 

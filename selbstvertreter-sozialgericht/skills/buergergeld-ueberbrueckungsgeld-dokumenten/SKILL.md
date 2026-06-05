@@ -7,11 +7,11 @@ description: "Bürgergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien So
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `buergergeld-ueberbrueckungsgeld` | Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster. |
 | `dokumenten-erzeugung-pdf-laien-sozialgericht` | PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pd
 
 ## Arbeitsweg
 
-Für **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `buergergeld-ueberbrueckungsgeld`
 

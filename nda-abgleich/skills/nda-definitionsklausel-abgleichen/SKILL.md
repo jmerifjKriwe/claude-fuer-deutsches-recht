@@ -66,7 +66,7 @@ Eine NDA-Definition ohne diese Ausnahmen ist regelmaessig zu breit und im B2B-Ko
 > Nicht als Vertrauliche Informationen gelten Informationen, die (a) bei Offenlegung allgemein bekannt waren oder ohne Verschulden der empfangenden Partei allgemein bekannt werden, (b) der empfangenden Partei vor Offenlegung nachweislich bekannt waren, (c) von der empfangenden Partei unabhaengig und ohne Bezug zur Vertraulichen Information entwickelt wurden, (d) von Dritten rechtmaessig und ohne Geheimhaltungspflicht uebermittelt wurden oder (e) aufgrund gesetzlicher, behoerdlicher oder gerichtlicher Pflicht offenzulegen sind; bei (e) wird die empfangende Partei die offenlegende Partei, soweit gesetzlich zulaessig, vorab informieren.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

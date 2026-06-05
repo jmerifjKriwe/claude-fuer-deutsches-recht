@@ -7,11 +7,11 @@ description: "Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmvg-reservisten-und-zivilschutzrecht` | Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). |
 | `legw-bmvg-verteidigungstechnologie-export` | Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Ve
 
 ## Arbeitsweg
 
-Für **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmvg-reservisten-und-zivilschutzrecht`
 

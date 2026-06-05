@@ -7,11 +7,11 @@ description: "Discovery Evidence Copyright, Distribution First Sale 109, Dmca Sa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `discovery-evidence-copyright` | Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. |
 | `distribution-first-sale-109` | Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Discovery Evidence Copyright, Distribution First Sale 10
 
 ## Arbeitsweg
 
-Für **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `discovery-evidence-copyright`
 

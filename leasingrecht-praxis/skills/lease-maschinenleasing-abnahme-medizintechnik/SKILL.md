@@ -7,11 +7,11 @@ description: "Lease 007 Maschinenleasing Abnahme Wartung Und Stillstand, Lease 0
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 007 Maschinenleasing Abnahme Wartung Und Stillstand, Lease 009 Medizintechnik Leasing Regulatorische Wartung, Lease 012 Verbraucherleasing Widerruf Und Pflichtangaben** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 007 Maschinenleasing Abnahme Wartung Und Stillstand, Lease 009 Medizintechnik Leasing Regulatorische Wartung, Lease 012 Verbraucherleasing Widerruf Und Pflichtangaben** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-007-maschinenleasing-abnahme-wartung-und-stillstand` | Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe. |
 | `lease-009-medizintechnik-leasing-regulatorische-wartung` | Medizintechnik-Leasing: MDR/IVDR-Anforderungen, Wartung, Betreiberverantwortung, Zulassung und Haftung bei Fehlfunktion. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 007 Maschinenleasing Abnahme Wartung Und Stillstan
 
 ## Arbeitsweg
 
-Für **Lease 007 Maschinenleasing Abnahme Wartung Und Stillstand, Lease 009 Medizintechnik Leasing Regulatorische Wartung, Lease 012 Verbraucherleasing Widerruf Und Pflichtangaben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 007 Maschinenleasing Abnahme Wartung Und Stillstand, Lease 009 Medizintechnik Leasing Regulatorische Wartung, Lease 012 Verbraucherleasing Widerruf Und Pflichtangaben** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-007-maschinenleasing-abnahme-wartung-und-stillstand`
 

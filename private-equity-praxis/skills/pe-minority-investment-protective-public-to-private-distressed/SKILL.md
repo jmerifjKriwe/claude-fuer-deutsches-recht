@@ -1,17 +1,17 @@
 ---
 name: pe-minority-investment-protective-public-to-private-distressed
-description: "Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-035-minority-investment-protective-rights` | Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. |
 | `pe-036-public-to-private-pe` | Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Minority Investment Protective Rights / Public To Privat
 
 ## Arbeitsweg
 
-Für **Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Minority Investment Protective Rights / Public To Private / Distressed Ma Aus Insolvenz / Portfolio Tage Plan** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-035-minority-investment-protective-rights`
 
@@ -122,7 +122,7 @@ WpÜG, WpHG/MAR, AktG, Börsenrecht, Kartell/FDI.
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet PE-Speed mit insolvenzrechtlicher Vorsicht.
+Der Skill bearbeitet PE-Speed mit insolvenzrechtlicher Vorsicht.
 
 ## Rechts- und Praxisanker
 

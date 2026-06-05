@@ -7,11 +7,11 @@ description: "Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Kon
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-hr-ai-als-hochrisikosystem` | Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand` | Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteil
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-hr-ai-als-hochrisikosystem`
 

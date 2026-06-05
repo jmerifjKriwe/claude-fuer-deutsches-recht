@@ -7,11 +7,11 @@ description: "Ifg 053 Ifggebv Gebuehren Widerspruch Bauen, Ifg 054 Ifggebv Gebue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ifg-053-ifggebv-gebuehren-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen. Widerspruch bauen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-054-ifggebv-gebuehren-klage-vorbereiten` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Klage vorbereiten. Klage vorbereiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifg
 
 ## Arbeitsweg
 
-Für **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ifg-053-ifggebv-gebuehren-widerspruch-bauen`
 

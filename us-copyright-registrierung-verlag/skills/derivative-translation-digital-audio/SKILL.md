@@ -7,11 +7,11 @@ description: "Derivative Translation Revised Edition, Digital Audio Recording Ac
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Derivative Translation Revised Edition, Digital Audio Recording Act, Digital Transmission Streaming, Digitaler Deposit Upload** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Derivative Translation Revised Edition, Digital Audio Recording Act, Digital Transmission Streaming, Digitaler Deposit Upload** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `derivative-translation-revised-edition` | Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen. |
 | `digital-audio-recording-act` | Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Derivative Translation Revised Edition, Digital Audio Re
 
 ## Arbeitsweg
 
-Für **Derivative Translation Revised Edition, Digital Audio Recording Act, Digital Transmission Streaming, Digitaler Deposit Upload** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Derivative Translation Revised Edition, Digital Audio Recording Act, Digital Transmission Streaming, Digitaler Deposit Upload** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `derivative-translation-revised-edition`
 

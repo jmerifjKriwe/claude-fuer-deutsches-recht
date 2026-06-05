@@ -7,11 +7,11 @@ description: "Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Lieferkette,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Lieferkette, Bericht Csrd Esrs Lagebericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Lieferkette, Bericht Csrd Esrs Lagebericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-chemikalien-reach-clp` | Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen. |
 | `bericht-csddd-vorschau-lieferkette` | CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Li
 
 ## Arbeitsweg
 
-Für **Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Lieferkette, Bericht Csrd Esrs Lagebericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Chemikalien Reach Clp, Bericht Csddd Vorschau Lieferkette, Bericht Csrd Esrs Lagebericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-chemikalien-reach-clp`
 

@@ -7,11 +7,11 @@ description: "See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Kl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Klagepfad Waehlen, See 080 Offshore Schiff Risiko Memo Schreiben, See 081 Binnenschiff Register Prüfen, See 082 Binnenschiff Hypothek Bestellen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Klagepfad Waehlen, See 080 Offshore Schiff Risiko Memo Schreiben, See 081 Binnenschiff Register Prüfen, See 082 Binnenschiff Hypothek Bestellen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-078-offshore-schiff-closing-planen` | Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. |
 | `see-079-offshore-schiff-klagepfad-waehlen` | Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 078 Offshore Schiff Closing Planen, See 079 Offshore
 
 ## Arbeitsweg
 
-Für **See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Klagepfad Waehlen, See 080 Offshore Schiff Risiko Memo Schreiben, See 081 Binnenschiff Register Prüfen, See 082 Binnenschiff Hypothek Bestellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Klagepfad Waehlen, See 080 Offshore Schiff Risiko Memo Schreiben, See 081 Binnenschiff Register Prüfen, See 082 Binnenschiff Hypothek Bestellen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-078-offshore-schiff-closing-planen`
 

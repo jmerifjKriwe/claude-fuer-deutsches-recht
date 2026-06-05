@@ -7,11 +7,11 @@ description: "Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsre
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-medienverfuegung-beweislast-und-darlegungslast` | Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung` | Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Medienverfuegung Beweislast Und Darlegungslast, Persoenl
 
 ## Arbeitsweg
 
-Für **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-medienverfuegung-beweislast-und-darlegungslast`
 

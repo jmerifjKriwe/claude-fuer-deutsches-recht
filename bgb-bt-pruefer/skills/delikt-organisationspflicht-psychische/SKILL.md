@@ -7,11 +7,11 @@ description: "Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Ve
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `delikt-organisationspflicht` | Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung. |
 | `delikt-psychische-schaeden` | Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Delikt Organisationspflicht, Delikt Psychische Schaeden,
 
 ## Arbeitsweg
 
-Für **Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `delikt-organisationspflicht`
 

@@ -7,11 +7,11 @@ description: "Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmigung Prüfen, Luft 086 Luftfracht Sicherheitsauflage Bewerten, Luft 087 Luftfracht Insolvenzrisiko Markieren, Luft 088 Luftfracht Local Counsel Briefen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmigung Prüfen, Luft 086 Luftfracht Sicherheitsauflage Bewerten, Luft 087 Luftfracht Insolvenzrisiko Markieren, Luft 088 Luftfracht Local Counsel Briefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `luft-084-luftfracht-pfaendung-planen` | Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjaehrung und liefert Pfaendungsplan fuer Luftfracht-Vollstreckung. |
 | `luft-085-luftfracht-genehmigung-pruefen` | Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfrach
 
 ## Arbeitsweg
 
-Für **Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmigung Prüfen, Luft 086 Luftfracht Sicherheitsauflage Bewerten, Luft 087 Luftfracht Insolvenzrisiko Markieren, Luft 088 Luftfracht Local Counsel Briefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `luftrecht-flughafenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmigung Prüfen, Luft 086 Luftfracht Sicherheitsauflage Bewerten, Luft 087 Luftfracht Insolvenzrisiko Markieren, Luft 088 Luftfracht Local Counsel Briefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `luftrecht-flughafenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `luft-084-luftfracht-pfaendung-planen`
 

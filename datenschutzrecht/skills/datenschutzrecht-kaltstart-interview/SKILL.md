@@ -23,7 +23,7 @@ Dieses Interview richtet das Plugin auf Ihre konkrete Datenschutzpraxis aus: Wer
  - Wenn befüllt (keine `[PLATZHALTER]`) und kein `--redo`: Bestätigung einholen, bevor überschrieben wird.
  - Wenn altes Cache-Profil unter `~/.claude/plugins/cache/…` vorhanden: automatisch übertragen, dem Nutzer mitteilen.
 
-2. **Organisations-Interview.** Folgende Fragen stellen (gebündelt, nicht einzeln):
+2. **Organisations-Interview.** Folgende Fragen stellen (gebearbeitet, nicht einzeln):
  - Organisations- oder Kanzleiname, Rechtsform, Hauptniederlassung (Bundesland)
  - Primär Verantwortlicher, Auftragsverarbeiter oder beides? Für welche Daten?
  - Welche Rechtsgrundlagen Art. 6 DSGVO kommen hauptsächlich zur Anwendung?

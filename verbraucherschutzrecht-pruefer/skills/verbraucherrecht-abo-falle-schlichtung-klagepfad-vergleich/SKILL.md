@@ -1,17 +1,17 @@
 ---
 name: verbraucherrecht-abo-falle-schlichtung-klagepfad-vergleich
-description: "Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vbr-067-abo-falle-schlichtung-waehlen` | Verbraucherschutzrecht Prüfer: Abo-Falle: Schlichtung wählen. Schlichtung wählen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-068-abo-falle-klagepfad-skizzieren` | Verbraucherschutzrecht Prüfer: Abo-Falle: Klagepfad skizzieren. Klagepfad skizzieren für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skiz
 
 ## Arbeitsweg
 
-Für **Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vbr-067-abo-falle-schlichtung-waehlen`
 

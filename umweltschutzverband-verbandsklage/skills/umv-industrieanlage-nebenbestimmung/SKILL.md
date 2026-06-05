@@ -7,11 +7,11 @@ description: "Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 Industriea
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 Industrieanlage Monitoring Planen, Umv 060 Industrieanlage Kommunikation Schaerfe, Umv 061 Batteriespeicher Beteiligung Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 Industrieanlage Monitoring Planen, Umv 060 Industrieanlage Kommunikation Schaerfe, Umv 061 Batteriespeicher Beteiligung Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-058-industrieanlage-nebenbestimmung-forder` | Umweltschutzverband Verbandsklage: Industrieanlage: Nebenbestimmung fordern. Nebenbestimmung fordern für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-059-industrieanlage-monitoring-planen` | Umweltschutzverband Verbandsklage: Industrieanlage: Monitoring planen. Monitoring planen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 
 
 ## Arbeitsweg
 
-Für **Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 Industrieanlage Monitoring Planen, Umv 060 Industrieanlage Kommunikation Schaerfe, Umv 061 Batteriespeicher Beteiligung Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 058 Industrieanlage Nebenbestimmung Forder, Umv 059 Industrieanlage Monitoring Planen, Umv 060 Industrieanlage Kommunikation Schaerfe, Umv 061 Batteriespeicher Beteiligung Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-058-industrieanlage-nebenbestimmung-forder`
 

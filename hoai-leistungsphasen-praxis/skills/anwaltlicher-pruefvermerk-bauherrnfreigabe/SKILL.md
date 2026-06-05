@@ -1,17 +1,17 @@
 ---
 name: anwaltlicher-pruefvermerk-bauherrnfreigabe
-description: "Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `hoai-lph-08-anwaltlicher-pruefvermerk` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
 | `hoai-lph-08-bauherrnfreigabe` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe /
 
 ## Arbeitsweg
 
-Für **Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hoai Anwaltlicher Pruefvermerk / Hoai Bauherrnfreigabe / Hoai Bim Datenraum** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `hoai-lph-08-anwaltlicher-pruefvermerk`
 

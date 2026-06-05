@@ -22,7 +22,7 @@ description: "Dieses Skill behandelt die methodisch riskante Praxis des Systemwe
 1. Identifiziere alle in der Argumentation (eigen oder gegnerisch) verwendeten Auslegungsmethoden und deren Reihenfolge.
 2. Prüfe, ob ein konsistentes Methodenprogramm verfolgt wird oder ob die Methode opportunistisch am Ergebnis ausgerichtet ist.
 3. Analysiere, ob der Methodenwechsel methodisch begründet ist: Hat die zunächst angewendete Methode zu einem offensichtlich sinnwidrigen Ergebnis geführt, das einen Wechsel rechtfertigt?
-4. Bestimme, ob die Hierarchie der Auslegungsmethoden beachtet wird (Wortlaut zuerst, dann Systematik, Entstehungsgeschichte, Telos).
+4. Bestimme, ob die Hierarchie der Auslegungsmethoden beachtet wird (Wortlaut zuerst, dann Systematik, fachliche Einordnung, Telos).
 5. Formuliere eine methodische Kritik des Methodenwechsels, wenn er nicht begründet ist, und zeige auf, welche Methode konsequent anzuwenden wäre.
 6. Wende die methodisch konsistente Auslegung auf den Sachverhalt an und begründe das Ergebnis.
 

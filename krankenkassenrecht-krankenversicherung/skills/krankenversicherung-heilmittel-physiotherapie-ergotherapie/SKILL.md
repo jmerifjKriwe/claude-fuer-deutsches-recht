@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-heilmittel-physiotherapie-ergotherapie
-description: "Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung` | Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch. |
 | `kv-008-arzneimittel-off-label-und-lifestyle-abgrenzung` | GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Heilmittel Physiotherapie Ergotherapie Genehmigung / Arz
 
 ## Arbeitsweg
 
-Für **Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Heilmittel Physiotherapie Ergotherapie Genehmigung / Arzneimittel Off Label Lifestyle Abgrenzung / Krankenhausabrechnung Zuzahlung Md Pruefung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung`
 

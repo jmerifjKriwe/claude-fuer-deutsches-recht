@@ -7,11 +7,11 @@ description: "Notariat 038 Beschwerde Gegen Register Oder Grundbuchentscheidun, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 038 Beschwerde Gegen Register Oder Grundbuchentscheidun, Notariat 040 Mandantenmail Freundlich Knapp Und Rechtssicher, Notariat 041 Konflikttraechtige Mandanten Und Neutrale Amtsfuehr** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 038 Beschwerde Gegen Register Oder Grundbuchentscheidun, Notariat 040 Mandantenmail Freundlich Knapp Und Rechtssicher, Notariat 041 Konflikttraechtige Mandanten Und Neutrale Amtsfuehr** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-038-beschwerde-gegen-register-oder-grundbuchentscheidun` | Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt. |
 | `notariat-040-mandantenmail-freundlich-knapp-und-rechtssicher` | Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 038 Beschwerde Gegen Register Oder Grundbuchent
 
 ## Arbeitsweg
 
-Für **Notariat 038 Beschwerde Gegen Register Oder Grundbuchentscheidun, Notariat 040 Mandantenmail Freundlich Knapp Und Rechtssicher, Notariat 041 Konflikttraechtige Mandanten Und Neutrale Amtsfuehr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 038 Beschwerde Gegen Register Oder Grundbuchentscheidun, Notariat 040 Mandantenmail Freundlich Knapp Und Rechtssicher, Notariat 041 Konflikttraechtige Mandanten Und Neutrale Amtsfuehr** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-038-beschwerde-gegen-register-oder-grundbuchentscheidun`
 

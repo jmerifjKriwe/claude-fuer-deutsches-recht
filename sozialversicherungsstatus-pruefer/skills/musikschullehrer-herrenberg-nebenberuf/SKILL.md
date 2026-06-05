@@ -7,11 +7,11 @@ description: "Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7 Sgbiv Abgrenzung, Persoenliche Leistungspflicht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7 Sgbiv Abgrenzung, Persoenliche Leistungspflicht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `musikschullehrer-herrenberg` | Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte. |
 | `nebenberuf-selbststaendig` | Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, 
 
 ## Arbeitsweg
 
-Für **Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7 Sgbiv Abgrenzung, Persoenliche Leistungspflicht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7 Sgbiv Abgrenzung, Persoenliche Leistungspflicht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `musikschullehrer-herrenberg`
 

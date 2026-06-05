@@ -34,9 +34,9 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 1. **Subjektive Theorie:** Massgeblich ist der Wille des historischen Gesetzgebers, wie er sich aus den Materialien ergibt. Vertreten u. a. von Ernst Forsthoff. Argumentiert demokratisch: Nur was die parlamentarische Mehrheit beschlossen hat, ist Gesetz.
 2. **Objektive Theorie:** Massgeblich ist der Wille, der dem Gesetz selbst objektiv zu entnehmen ist, unabhaengig von subjektiven Vorstellungen des historischen Gesetzgebers. Argumentiert mit Geltungsdauer: Gesetze bleiben in Geltung, auch wenn die Welt sich aendert.
 
-Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
+Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
 
-**Klassische Spannung:** Die historische Auslegung steht zwischen Entstehungsgeschichte, demokratischer Rückbindung und der Gefahr, spätere Wertungen als ursprünglichen Normzweck auszugeben.
+**Klassische Spannung:** Die historische Auslegung steht zwischen fachliche Einordnung, demokratischer Rückbindung und der Gefahr, spätere Wertungen als ursprünglichen Normzweck auszugeben.
 
 ## Anwendung im deutschen Zivilrecht
 

@@ -1,17 +1,17 @@
 ---
 name: vc-investor-reporting-family-capital-call-internal-data-room
-description: "Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-075-investor-reporting-family-office` | Erstellt Bericht für Vermögensinhaber, Investment Committee oder Familie mit Portfolio, Risiken, Cash, ESG, Lessons Learned. |
 | `vc-076-capital-call-internal-budget` | Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen und Zahlungstermine bei Club Deals oder SPVs. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Investor Reporting Family Office / Capital Call Internal
 
 ## Arbeitsweg
 
-Für **Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Investor Reporting Family Office / Capital Call Internal Budget / Data Room Index / Ic Memo Generator** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-075-investor-reporting-family-office`
 

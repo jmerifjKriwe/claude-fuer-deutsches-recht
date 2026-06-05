@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-oeffentliche-register-wissenschaftsdaten
-description: "Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-020-oeffentliche-register-handelsregister-grundbuch-transpare` | Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste. |
 | `db-021-wissenschaftsdaten-forschungsdatenbank` | Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Oeffentliche Register Handelsregister Grundbuch / Db 
 
 ## Arbeitsweg
 
-Für **Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Oeffentliche Register Handelsregister Grundbuch / Db Wissenschaftsdaten Forschungsdatenbank / Db Kartendaten Geodaten Luftbilder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-020-oeffentliche-register-handelsregister-grundbuch-transpare`
 

@@ -7,11 +7,11 @@ description: "Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec` | Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. |
 | `space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta` | Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Un
 
 ## Arbeitsweg
 
-Für **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec`
 

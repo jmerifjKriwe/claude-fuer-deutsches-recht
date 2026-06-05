@@ -7,11 +7,11 @@ description: "Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Ds
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dsv-dsfa-update-nach-vorfall` | Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hohem Risiko; Verknüpfung mit VVT und Vorfallregister. Output: DSFA-Update-Vorlage mit Pflichtfeldern. Abgrenzung: keine neue DSFA; kein Verfahrensverzeichnis. |
 | `dsv-erstgespraech-vorfallmeldung` | Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsverarbeiter-Konstellation; Konzernbezug Art. 56 DSGVO; bereits eingeleitete Sofortmaßnahmen; Beweissicherung; Pressekontakte; aufsichtsbehördliche Vorkontakte. Output: strukturiertes Gesprächsprotokoll mit Lücken-Liste. Abgrenzung: keine eigene Risikobewertung; keine Behördenmeldung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallm
 
 ## Arbeitsweg
 
-Für **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dsv-dsfa-update-nach-vorfall`
 

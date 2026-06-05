@@ -7,11 +7,11 @@ description: "Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Ris
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `associate-nicht-vergraulen` | Schützt gute Associates vor Dauerbrand, schlechter Führung und falschem Staffing. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `associate-retention-radar` | Erkennt Kündigungsrisiken aus Auslastung, Feedback, Gehalt und Perspektive. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Associate Nicht Vergraulen, Associate Retention Radar, B
 
 ## Arbeitsweg
 
-Für **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Associate Nicht Vergraulen, Associate Retention Radar, Bea Erv Risk, Benchmarking Market** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-management` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `associate-nicht-vergraulen`
 

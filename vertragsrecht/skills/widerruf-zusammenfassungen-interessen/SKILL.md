@@ -7,11 +7,11 @@ description: "Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-widerruf-internationaler-bezug-und-schnittstellen` | Widerruf: Internationaler Bezug und Schnittstellen im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zusammenfassungen-mehrparteien-konflikt-und-interessen` | Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Widerruf Internationaler Bezug Und Schnittstellen, Zusam
 
 ## Arbeitsweg
 
-Für **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-widerruf-internationaler-bezug-und-schnittstellen`
 

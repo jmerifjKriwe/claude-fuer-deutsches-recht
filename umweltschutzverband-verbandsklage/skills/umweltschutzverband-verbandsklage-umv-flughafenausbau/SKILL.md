@@ -1,27 +1,27 @@
 ---
 name: umweltschutzverband-verbandsklage-umv-flughafenausbau
-description: "Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-098-flughafenausbau-nebenbestimmung-forder` | Umweltschutzverband Verbandsklage: Flughafenausbau: Nebenbestimmung fordern. Nebenbestimmung fordern für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-099-flughafenausbau-monitoring-planen` | Umweltschutzverband Verbandsklage: Flughafenausbau: Monitoring planen. Monitoring planen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-Für **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv Flughafenausbau Nebenbestimmung Forder / Umv Flughafenausbau Monitoring Planen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-098-flughafenausbau-nebenbestimmung-forder`
 

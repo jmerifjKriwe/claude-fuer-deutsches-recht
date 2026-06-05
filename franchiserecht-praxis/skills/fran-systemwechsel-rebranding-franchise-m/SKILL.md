@@ -7,11 +7,11 @@ description: "Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Dili
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fran-047-systemwechsel-rebranding` | Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen. |
 | `fran-048-franchise-m-a-due-diligence` | M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M 
 
 ## Arbeitsweg
 
-Für **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `franchiserecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fran-047-systemwechsel-rebranding`
 

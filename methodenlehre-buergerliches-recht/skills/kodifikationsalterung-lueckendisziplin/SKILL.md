@@ -7,11 +7,11 @@ description: "Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kodifikationsalterung-und-lueckendisziplin` | Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist. |
 | `konservative-methodenkritik-gesetzesbindung` | Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Kodifikationsalterung Und Lueckendisziplin, Konservative
 
 ## Arbeitsweg
 
-Für **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kodifikationsalterung-und-lueckendisziplin`
 

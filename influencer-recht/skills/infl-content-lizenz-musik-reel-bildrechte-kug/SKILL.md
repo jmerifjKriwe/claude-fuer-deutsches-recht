@@ -7,11 +7,11 @@ description: "Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, I
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting` | Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. |
 | `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Infl 012 Content Lizenz Nutzungsdauer Media Buyout White
 
 ## Arbeitsweg
 
-Für **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `infl-012-content-lizenz-nutzungsdauer-media-buyout-whitelisting`
 

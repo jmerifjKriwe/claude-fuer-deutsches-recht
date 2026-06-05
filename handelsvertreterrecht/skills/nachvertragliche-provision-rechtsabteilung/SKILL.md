@@ -7,11 +7,11 @@ description: "Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wett
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `nachvertragliche-provision` | Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. |
 | `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb` | Rechtsabteilungs-Fachmodul für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Nachvertragliche Provision, Rechtsabteilung Nachvertragl
 
 ## Arbeitsweg
 
-Für **Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `nachvertragliche-provision`
 

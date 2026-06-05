@@ -7,11 +7,11 @@ description: "Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Z
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `beschwerde-gegen-beurteilung-und-laufbahnentscheidung` | Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `besoldung-zulagen-auslandsverwendungszuschlag` | Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, B
 
 ## Arbeitsweg
 
-Für **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beschwerde-gegen-beurteilung-und-laufbahnentscheidung`
 

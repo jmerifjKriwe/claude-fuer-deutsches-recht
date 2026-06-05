@@ -7,11 +7,11 @@ description: "Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-036-landeshaushalt-thueringen-lesen` | Haushaltsrecht BHO Bund und Länder: Landeshaushalt Thüringen lesen. Landeshaushalt Thüringen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-037-bho-1-feststellung-praktisch-anwenden` | Haushaltsrecht BHO Bund und Länder: BHO § 1 Feststellung praktisch anwenden. BHO § 1 Feststellung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 F
 
 ## Arbeitsweg
 
-Für **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden, Bho 040 Bho 6 Notwendigkeit Praktisch Anwenden und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-036-landeshaushalt-thueringen-lesen`
 

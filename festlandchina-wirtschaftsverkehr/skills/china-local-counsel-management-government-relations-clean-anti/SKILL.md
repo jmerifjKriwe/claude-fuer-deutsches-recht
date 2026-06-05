@@ -1,17 +1,17 @@
 ---
 name: china-local-counsel-management-government-relations-clean-anti
-description: "Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-059-local-counsel-management` | Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste. |
 | `chn-060-government-relations-clean-compliance` | Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Local Counsel Management / Government Relations Clean Co
 
 ## Arbeitsweg
 
-Für **Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Local Counsel Management / Government Relations Clean Compliance / Anti Bribery And Gifts / Dawn Raid Inspection Factory** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-059-local-counsel-management`
 

@@ -7,11 +7,11 @@ description: "Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-046-restrukturierung-stundung-stillhaltevereinbarung` | Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG. |
 | `lease-047-leasing-in-sanierungsgutachten` | Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 046 Restrukturierung Stundung Stillhaltevereinbaru
 
 ## Arbeitsweg
 
-Für **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-046-restrukturierung-stundung-stillhaltevereinbarung`
 

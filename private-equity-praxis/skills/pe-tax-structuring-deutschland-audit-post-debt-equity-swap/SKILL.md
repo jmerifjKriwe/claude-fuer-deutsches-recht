@@ -1,17 +1,17 @@
 ---
 name: pe-tax-structuring-deutschland-audit-post-debt-equity-swap
-description: "Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pe-020-tax-structuring-pe-deutschland` | Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. |
 | `pe-068-tax-audit-post-closing` | Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tax Structuring Deutschland / Tax Audit Post Closing / D
 
 ## Arbeitsweg
 
-Für **Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tax Structuring Deutschland / Tax Audit Post Closing / Debt Equity Swap / Rechtsabteilung Management Participation Sweet Equity** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pe-020-tax-structuring-pe-deutschland`
 
@@ -180,7 +180,7 @@ AO, KStG/GewStG/UStG, SPA Tax Covenant, Verjährung, Mitwirkungspflichten.
 
 ## Wofür dieser Skill da ist
 
-Der Skill verbindet Distressed Debt, PE-Kontrolle und Sanierung.
+Der Skill bearbeitet Distressed Debt, PE-Kontrolle und Sanierung.
 
 ## Rechts- und Praxisanker
 

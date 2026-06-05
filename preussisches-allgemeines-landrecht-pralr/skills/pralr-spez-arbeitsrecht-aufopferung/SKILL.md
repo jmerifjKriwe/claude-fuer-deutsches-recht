@@ -7,11 +7,11 @@ description: "Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-arbeitsrecht-vorgaenger-im-alr` | Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster. |
 | `pralr-spez-aufopferung-fortwirkung-bgb-und-polizei` | Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Au
 
 ## Arbeitsweg
 
-Für **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-arbeitsrecht-vorgaenger-im-alr`
 

@@ -1,17 +1,17 @@
 ---
 name: bgb-bt-kaufrecht-abweichungsvereinbarung-objektive-beweislast
-description: "Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. |
 | `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Kaufrecht Abweichungsvereinbarung Objektive Anforderunge
 
 ## Arbeitsweg
 
-Für **Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476`
 

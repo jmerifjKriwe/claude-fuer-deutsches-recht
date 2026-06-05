@@ -7,21 +7,21 @@ description: "Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bn
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tk-stoerung-minderung-ausfallentschaedigung` | Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz. |
 | `tk-streitbeilegung-bnetza` | Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung. |
 
 ## Arbeitsweg
 
-Für **Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `telekommunikationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tk-stoerung-minderung-ausfallentschaedigung`
 
@@ -31,7 +31,7 @@ Für **Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza** 
 
 ## Einsatz
 
-Der Skill verbindet juristische Rechte mit ordentlicher technischer Dokumentation.
+Der Skill bearbeitet juristische Rechte mit ordentlicher technischer Dokumentation.
 
 ## Norm- und Quellenanker
 

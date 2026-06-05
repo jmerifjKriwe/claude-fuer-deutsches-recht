@@ -7,11 +7,11 @@ description: "See 111 Charterparty Register Prüfen, See 112 Charterparty Hypoth
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `see-111-charterparty-register-pruefen` | Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prueft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. |
 | `see-112-charterparty-hypothek-bestellen` | Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **See 111 Charterparty Register Prüfen, See 112 Charterpa
 
 ## Arbeitsweg
 
-Für **See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `seerecht-schifffahrtsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `see-111-charterparty-register-pruefen`
 

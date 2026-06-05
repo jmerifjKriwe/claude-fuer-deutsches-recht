@@ -7,11 +7,11 @@ description: "Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag` | Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen. |
 | `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands` | Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag,
 
 ## Arbeitsweg
 
-Für **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag`
 

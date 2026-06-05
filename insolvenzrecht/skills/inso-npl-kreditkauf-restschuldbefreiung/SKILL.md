@@ -7,11 +7,11 @@ description: "Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagungsgruende, Inso Schufa Restschuldbefreiung Löschung, Inso Schuldschein Darlehen In Der Insolvenz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagungsgruende, Inso Schufa Restschuldbefreiung Löschung, Inso Schuldschein Darlehen In Der Insolvenz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `inso-npl-kreditkauf-krzwmg` | Prüft Kreditkauf notleidender Darlehen vor und im Insolvenzverfahren: Kreditkäufer, Kreditdienstleister, Datenschutz, Notices, Sicherheiten und Enforcement. |
 | `inso-restschuldbefreiung-und-versagungsgruende` | Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermoegensverschwendung, falsche Angaben). Pruefraster und Mandantenleitfaden. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und
 
 ## Arbeitsweg
 
-Für **Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagungsgruende, Inso Schufa Restschuldbefreiung Löschung, Inso Schuldschein Darlehen In Der Insolvenz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagungsgruende, Inso Schufa Restschuldbefreiung Löschung, Inso Schuldschein Darlehen In Der Insolvenz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `inso-npl-kreditkauf-krzwmg`
 
@@ -109,7 +109,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
 - Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.

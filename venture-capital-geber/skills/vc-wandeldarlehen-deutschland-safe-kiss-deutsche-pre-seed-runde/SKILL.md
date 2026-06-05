@@ -1,17 +1,17 @@
 ---
 name: vc-wandeldarlehen-deutschland-safe-kiss-deutsche-pre-seed-runde
-description: "Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-018-wandeldarlehen-deutschland` | Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge. |
 | `vc-019-safe-kiss-deutsche-adaption` | Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption
 
 ## Arbeitsweg
 
-Für **Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wandeldarlehen Deutschland / Safe Kiss Deutsche Adaption / Pre Seed Runde / Series A Term Sheet** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-018-wandeldarlehen-deutschland`
 

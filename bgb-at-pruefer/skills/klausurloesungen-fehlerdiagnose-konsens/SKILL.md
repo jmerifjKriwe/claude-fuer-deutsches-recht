@@ -7,11 +7,11 @@ description: "Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 1
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klausurloesungen-fehlerdiagnose` | Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge. |
 | `konsens-dissens-paragraphen-154-155` | Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: fehlende Einigung über Nebenpunkte, Vorbehalt der Beurkundung, ergänzende Vertragsauslegung als Heilungsmechanismus, Abgrenzung von Anfechtung und Dissens. Klausurfall mit Lösungsskizze. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragra
 
 ## Arbeitsweg
 
-Für **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klausurloesungen-fehlerdiagnose`
 

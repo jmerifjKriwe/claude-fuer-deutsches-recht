@@ -7,11 +7,11 @@ description: "Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-055-qualitaetsgate-vor-signatur-und-einreichung` | Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt. |
 | `notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u` | Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung
 
 ## Arbeitsweg
 
-Für **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-055-qualitaetsgate-vor-signatur-und-einreichung`
 

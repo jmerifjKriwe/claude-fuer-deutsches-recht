@@ -7,11 +7,11 @@ description: "Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Ge
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern. |
 | `originalismus-und-gesetzgebungsmaterialien-deutschland` | Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Oekonomische Analyse Des Rechts Coase Posner, Originalis
 
 ## Arbeitsweg
 
-Für **Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oekonomische-analyse-des-rechts-coase-posner`
 

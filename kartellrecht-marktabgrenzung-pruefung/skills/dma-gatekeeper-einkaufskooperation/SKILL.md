@@ -7,11 +7,11 @@ description: "Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Eins
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dma-und-gatekeeper-markt` | Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren. Verhältnis DMA zu Art 102 AEUV und Paragraf 19a GWB sowie BKartA-Designierungsverfahren. |
 | `einkaufskooperation-nachfragemacht` | Einkaufskooperation Nachfragemacht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragem
 
 ## Arbeitsweg
 
-Für **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dma-und-gatekeeper-markt`
 

@@ -1,17 +1,17 @@
 ---
 name: china-fdi-screening-deutschland-chinesische-investoren-critical
-description: "Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `chn-015-fdi-screening-deutschland-eu` | FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation. |
 | `chn-016-chinesische-investoren-in-deutschland` | Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Fdi Screening Deutschland EU / Chinesische Investoren De
 
 ## Arbeitsweg
 
-Für **Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fdi Screening Deutschland EU / Chinesische Investoren Deutschland / Critical Infrastructure Risk / Awg Awv Investitionspruefung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `festlandchina-wirtschaftsverkehr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `chn-015-fdi-screening-deutschland-eu`
 

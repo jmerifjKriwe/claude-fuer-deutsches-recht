@@ -7,11 +7,11 @@ description: "Termination Exit Migration, Trade Secret Misappropriation Code, Uk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `termination-exit-migration` | Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung. |
 | `trade-secret-misappropriation-code` | Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Termination Exit Migration, Trade Secret Misappropriatio
 
 ## Arbeitsweg
 
-Für **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Termination Exit Migration, Trade Secret Misappropriation Code, Uk Software Contracts, Us Copyright Software Title17** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `termination-exit-migration`
 

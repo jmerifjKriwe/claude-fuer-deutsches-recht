@@ -7,11 +7,11 @@ description: "Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingv
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `lease-043-leasingvertrag-redline-fuer-anbieter` | Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche. |
 | `lease-044-leasingvertrag-redline-fuer-leasingnehmer` | Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 04
 
 ## Arbeitsweg
 
-Für **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `leasingrecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `lease-043-leasingvertrag-redline-fuer-anbieter`
 

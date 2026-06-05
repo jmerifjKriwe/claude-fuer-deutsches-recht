@@ -7,11 +7,11 @@ description: "Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funkt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funktionenplan Praktisch Anwend, Bho 049 Bho 15 Bruttoveranschlagung Praktisch, Bho 050 Bho 16 Verpflichtungsermaechtigung Pra, Bho 051 Bho 17 Einzelveranschlagung Praktisch und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funktionenplan Praktisch Anwend, Bho 049 Bho 15 Bruttoveranschlagung Praktisch, Bho 050 Bho 16 Verpflichtungsermaechtigung Pra, Bho 051 Bho 17 Einzelveranschlagung Praktisch und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-047-bho-13-einzelplan-praktisch-anwenden` | Haushaltsrecht BHO Bund und Länder: BHO § 13 Einzelplan praktisch anwenden. BHO § 13 Einzelplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-048-bho-14-funktionenplan-praktisch-anwend` | Haushaltsrecht BHO Bund und Länder: BHO § 14 Funktionenplan praktisch anwenden. BHO § 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bh
 
 ## Arbeitsweg
 
-Für **Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funktionenplan Praktisch Anwend, Bho 049 Bho 15 Bruttoveranschlagung Praktisch, Bho 050 Bho 16 Verpflichtungsermaechtigung Pra, Bho 051 Bho 17 Einzelveranschlagung Praktisch und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funktionenplan Praktisch Anwend, Bho 049 Bho 15 Bruttoveranschlagung Praktisch, Bho 050 Bho 16 Verpflichtungsermaechtigung Pra, Bho 051 Bho 17 Einzelveranschlagung Praktisch und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-047-bho-13-einzelplan-praktisch-anwenden`
 

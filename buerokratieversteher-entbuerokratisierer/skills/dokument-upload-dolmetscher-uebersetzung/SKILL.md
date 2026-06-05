@@ -7,11 +7,11 @@ description: "Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `dokument-upload-erste-hilfe` | Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit. |
 | `dolmetscher-und-uebersetzung` | Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzun
 
 ## Arbeitsweg
 
-Für **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `buerokratieversteher-entbuerokratisierer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `dokument-upload-erste-hilfe`
 

@@ -7,11 +7,11 @@ description: "Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbaru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verbandsarbeit-informationsaustausch-grenzen` | Verbandsarbeit Informationsaustausch Grenzen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `vergleichsvereinbarung-patent-settlement-pay-for-delay` | Vergleichsvereinbarung Patent Settlement Pay-for-delay: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Verbandsarbeit Informationsaustausch Grenzen, Vergleichs
 
 ## Arbeitsweg
 
-Für **Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verbandsarbeit-informationsaustausch-grenzen`
 

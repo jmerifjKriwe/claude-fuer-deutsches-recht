@@ -7,11 +7,11 @@ description: "Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title Internationa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-040-dokumenteninkasso` | Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung. |
 | `ihl-041-retention-of-title-international` | Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA). |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title In
 
 ## Arbeitsweg
 
-Für **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-040-dokumenteninkasso`
 

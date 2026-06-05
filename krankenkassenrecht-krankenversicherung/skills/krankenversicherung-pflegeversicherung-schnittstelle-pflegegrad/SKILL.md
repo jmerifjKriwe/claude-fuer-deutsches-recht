@@ -1,17 +1,17 @@
 ---
 name: krankenversicherung-pflegeversicherung-schnittstelle-pflegegrad
-description: "Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kv-046-pflegeversicherung-schnittstelle-pflegegrad` | Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung. |
 | `kv-047-hospiz-palliativversorgung-und-sapv` | GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Pal
 
 ## Arbeitsweg
 
-Für **Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflegeversicherung Schnittstelle Pflegegrad / Hospiz Palliativversorgung Sapv / Krankenkassenregress Behandlungsfehler Erstattung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenkassenrecht-krankenversicherung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kv-046-pflegeversicherung-schnittstelle-pflegegrad`
 

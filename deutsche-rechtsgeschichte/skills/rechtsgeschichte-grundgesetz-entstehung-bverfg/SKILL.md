@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-grundgesetz-entstehung-bverfg
-description: "Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 weitere Module
+# Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-032-grundgesetz-entstehung-1948-49` | Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949. |
 | `drg-033-bverfg-und-nachkriegskonsolidierung` | Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung
 
 ## Arbeitsweg
 
-Für **Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grundgesetz Entstehung / Bverfg Nachkriegskonsolidierung / Ddr Recht Sozialistische Gesetzlichkeit / Treuhand Volksvermoegen / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-032-grundgesetz-entstehung-1948-49`
 

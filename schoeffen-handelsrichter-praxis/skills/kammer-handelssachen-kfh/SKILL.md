@@ -1,17 +1,17 @@
 ---
 name: kammer-handelssachen-kfh
-description: "Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `handelsrichter-kammer-fuer-handelssachen` | Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `handelsrichter-kfh-rolle-orientierung` | Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Handelsrichter Kammer Handelssachen / Handelsrichter Kfh
 
 ## Arbeitsweg
 
-Für **Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Handelsrichter Kammer Handelssachen / Handelsrichter Kfh Rolle Orientierung / Handelsrichter Kfh Rolle Sitzung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `handelsrichter-kammer-fuer-handelssachen`
 

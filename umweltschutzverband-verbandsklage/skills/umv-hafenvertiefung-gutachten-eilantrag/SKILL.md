@@ -7,11 +7,11 @@ description: "Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafenvertiefun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafenvertiefung Eilantrag Schreiben, Umv 087 Hafenvertiefung Normenkontrolle Skizzi, Umv 088 Hafenvertiefung Nebenbestimmung Forder** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafenvertiefung Eilantrag Schreiben, Umv 087 Hafenvertiefung Normenkontrolle Skizzi, Umv 088 Hafenvertiefung Nebenbestimmung Forder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `umv-084-hafenvertiefung-gutachten-zerlegen` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Gutachten zerlegen. Gutachten zerlegen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-086-hafenvertiefung-eilantrag-schreiben` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Eilantrag schreiben. Eilantrag schreiben für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafe
 
 ## Arbeitsweg
 
-Für **Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafenvertiefung Eilantrag Schreiben, Umv 087 Hafenvertiefung Normenkontrolle Skizzi, Umv 088 Hafenvertiefung Nebenbestimmung Forder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Umv 084 Hafenvertiefung Gutachten Zerlegen, Umv 086 Hafenvertiefung Eilantrag Schreiben, Umv 087 Hafenvertiefung Normenkontrolle Skizzi, Umv 088 Hafenvertiefung Nebenbestimmung Forder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltschutzverband-verbandsklage` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `umv-084-hafenvertiefung-gutachten-zerlegen`
 

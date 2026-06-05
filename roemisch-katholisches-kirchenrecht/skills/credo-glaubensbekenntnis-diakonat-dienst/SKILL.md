@@ -7,11 +7,11 @@ description: "Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof Visitation Und Leitung, Dispens Privileg Und Indult** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof Visitation Und Leitung, Dispens Privileg Und Indult** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `credo-und-glaubensbekenntnis` | Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `diakonat-und-dienst` | Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Dioze
 
 ## Arbeitsweg
 
-Für **Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof Visitation Und Leitung, Dispens Privileg Und Indult** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof Visitation Und Leitung, Dispens Privileg Und Indult** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `credo-und-glaubensbekenntnis`
 

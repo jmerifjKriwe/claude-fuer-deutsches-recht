@@ -1,17 +1,17 @@
 ---
 name: sozietaetswechsel-syndikus-terminsvertretung
-description: "Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anwaelte-sozietaetswechsel-und-mandantenmitnahme-kaltstart-und` | Anwälte: sozietaetswechsel und mandantenmitnahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-steuerliche-probleme-kanzlei-kaltstart-und-faktenmatri` | Anwälte: steuerliche probleme kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart /
 
 ## Arbeitsweg
 
-Für **Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anwaelte Sozietaetswechsel Mandantenmitnahme Kaltstart / Anwaelte Steuerliche Probleme Kanzlei Kaltstart / Anwaelte Syndikusrechtsanwalt Abgrenzung Kaltstart Faktenma / Anwaelte Terminsvertreter Untervollmacht Kaltstart Fakt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-anwaelte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anwaelte-sozietaetswechsel-und-mandantenmitnahme-kaltstart-und`
 

@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-mangelhafte-arbeitspapiere-kammerantwort-und` | Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-mangelhafte-arbeitspapiere-organisationspfli` | Wirtschaftsprüfer: mangelhafte arbeitspapiere - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantw
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-mangelhafte-arbeitspapiere-kammerantwort-und`
 

@@ -7,11 +7,11 @@ description: "Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Un
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule, Pralr 022 Gemeinderecht Und Kommunale Ordnung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule, Pralr 022 Gemeinderecht Und Kommunale Ordnung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-016-kaufrecht-miete-gefahrtragung` | PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten. |
 | `pralr-019-polizeirecht-und-wohlfahrtsstaat` | PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Poliz
 
 ## Arbeitsweg
 
-Für **Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule, Pralr 022 Gemeinderecht Und Kommunale Ordnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule, Pralr 022 Gemeinderecht Und Kommunale Ordnung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-016-kaufrecht-miete-gefahrtragung`
 

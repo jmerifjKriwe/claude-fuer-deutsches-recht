@@ -7,11 +7,11 @@ description: "Buergschaft Form Und Verbraucherbuerge, Buergschaft Grundschema Pa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Buergschaft Form Und Verbraucherbuerge, Buergschaft Grundschema Paragraph 765, Darlehen Und Finanzierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Buergschaft Form Und Verbraucherbuerge, Buergschaft Grundschema Paragraph 765, Darlehen Und Finanzierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `buergschaft-form-und-verbraucherbuerge` | Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln. |
 | `buergschaft-grundschema-paragraph-765` | Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, Inanspruchnahme und Regressanspruch des Bürgen. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Buergschaft Form Und Verbraucherbuerge, Buergschaft Grun
 
 ## Arbeitsweg
 
-Für **Buergschaft Form Und Verbraucherbuerge, Buergschaft Grundschema Paragraph 765, Darlehen Und Finanzierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Buergschaft Form Und Verbraucherbuerge, Buergschaft Grundschema Paragraph 765, Darlehen Und Finanzierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `buergschaft-form-und-verbraucherbuerge`
 

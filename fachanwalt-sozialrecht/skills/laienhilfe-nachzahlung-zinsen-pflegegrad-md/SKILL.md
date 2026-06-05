@@ -7,11 +7,11 @@ description: "Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md 
 
 ## Arbeitsweg
 
-Für **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sozialrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `laienhilfe-nachzahlung-zinsen`
 

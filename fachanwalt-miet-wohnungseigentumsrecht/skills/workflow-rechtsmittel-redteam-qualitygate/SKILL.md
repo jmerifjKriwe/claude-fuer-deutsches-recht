@@ -1,34 +1,34 @@
 ---
 name: workflow-rechtsmittel-redteam-qualitygate
-description: "Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 weitere Module
+# Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `workflow-rechtsmittel-miet-weg` | Rechtsmittel Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-redteam-miet-weg` | Red-Team Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-rechtsmittel-miet-weg` | Rechtsmittel Miet/WEG: Prüffeld für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-redteam-miet-weg` | Red-Team Miet/WEG: Prüffeld für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-restaurant-in-weg-anlage` | Restaurant in WEG-Anlage: Arbeitsmodul für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-risikoampel-raeumung` | Räumungsrisiko-Ampel: Arbeitsmodul für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-restaurant-in-weg-anlage` | Restaurant in WEG-Anlage: Prüffeld für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-risikoampel-raeumung` | Räumungsrisiko-Ampel: Prüffeld für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Redteam Qualitygate / Workflow Restaurant Weg Anlage / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `workflow-rechtsmittel-miet-weg`
 
-**Fokus:** Rechtsmittel Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Rechtsmittel Miet/WEG: Prüffeld für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Rechtsmittel Miet/WEG
 
@@ -42,7 +42,7 @@ Für **Workflow Rechtsmittel Miet Weg / Workflow Redteam Miet Weg / Workflow Red
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-redteam-miet-weg`
 
-**Fokus:** Red-Team Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Red-Team Miet/WEG: Prüffeld für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Red-Team Miet/WEG
 
@@ -87,7 +87,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -162,7 +162,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 4. `workflow-restaurant-in-weg-anlage`
 
-**Fokus:** Restaurant in WEG-Anlage: Arbeitsmodul für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Restaurant in WEG-Anlage: Prüffeld für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Restaurant in WEG-Anlage
 
@@ -176,7 +176,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-risikoampel-raeumung`
 
-**Fokus:** Räumungsrisiko-Ampel: Arbeitsmodul für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Räumungsrisiko-Ampel: Prüffeld für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Räumungsrisiko-Ampel
 
@@ -221,7 +221,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich.
+Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

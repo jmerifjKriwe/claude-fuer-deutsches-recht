@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-inspection-certificate-late-delivery-liquidated
-description: "Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-044-inspection-certificate` | Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen. |
 | `ihl-045-late-delivery-liquidated-damages` | Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Inspection Certificate / Late Delivery Liquidated Damage
 
 ## Arbeitsweg
 
-Für **Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inspection Certificate / Late Delivery Liquidated Damages / Penalty Vs Liquidated Damages / Commodity Trade** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-044-inspection-certificate`
 

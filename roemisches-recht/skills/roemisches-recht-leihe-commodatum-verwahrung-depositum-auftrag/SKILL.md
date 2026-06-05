@@ -1,17 +1,17 @@
 ---
 name: roemisches-recht-leihe-commodatum-verwahrung-depositum-auftrag
-description: "Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 weitere Module
+# Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-024-leihe-commodatum` | Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). |
 | `rom-025-verwahrung-depositum` | Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Leihe Commodatum / Verwahrung Depositum / Auftrag Mandat
 
 ## Arbeitsweg
 
-Für **Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Leihe Commodatum / Verwahrung Depositum / Auftrag Mandatum / Gesellschaft Societas / 4 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-024-leihe-commodatum`
 
@@ -304,7 +304,7 @@ Gaius Inst. 3.115-127; D. 46.1; D. 16.1 (Mommsen-Krüger). Kaser RP I. Zimmerman
 
 ## Worum es geht
 
-Realkontrakte entstehen durch Hingabe einer Sache (re contrahitur obligatio). Gaius Inst. 3.90 nennt das mutuum als Prototyp; die justinianischen Institutionen (3.14) fügen commodatum, depositum und pignus hinzu. Das konstituierende Merkmal ist die tatsächliche Übergabe der Sache; ohne Hingabe entsteht keine obligatio. Diese Systematik ist rechtshistorisch bedeutsam für die BGB-Entstehungsgeschichte (§§ 488, 598, 688ff.).
+Realkontrakte entstehen durch Hingabe einer Sache (re contrahitur obligatio). Gaius Inst. 3.90 nennt das mutuum als Prototyp; die justinianischen Institutionen (3.14) fügen commodatum, depositum und pignus hinzu. Das konstituierende Merkmal ist die tatsächliche Übergabe der Sache; ohne Hingabe entsteht keine obligatio. Diese Systematik ist rechtshistorisch bedeutsam für die BGB-fachliche Einordnung (§§ 488, 598, 688ff.).
 
 ## Kernquellen
 

@@ -7,11 +7,11 @@ description: "Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Ue
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `staatsanwalt-rolle-legalitaet-objektivitaet` | Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `staatsanwaltschaft-uebergabe-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwal
 
 ## Arbeitsweg
 
-Für **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `staatsanwalt-rolle-legalitaet-objektivitaet`
 

@@ -7,11 +7,11 @@ description: "Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `blockchain-settlement-dvp` | Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl. |
 | `buergschaft-auf-erste-anforderung-bank` | Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforde
 
 ## Arbeitsweg
 
-Für **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bank-rechtsabteilung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `blockchain-settlement-dvp`
 

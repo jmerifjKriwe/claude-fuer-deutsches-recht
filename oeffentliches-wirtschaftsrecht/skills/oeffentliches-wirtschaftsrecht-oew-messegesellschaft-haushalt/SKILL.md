@@ -1,27 +1,27 @@
 ---
 name: oeffentliches-wirtschaftsrecht-oew-messegesellschaft-haushalt
-description: "Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-098-messegesellschaft-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Haushalt anbinden. Haushalt anbinden für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-099-messegesellschaft-kommunikation-schrei` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Kommunikation schreiben. Kommunikation schreiben für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-Für **Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew Messegesellschaft Haushalt Anbinden / Oew Messegesellschaft Kommunikation Schrei** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-098-messegesellschaft-haushalt-anbinden`
 

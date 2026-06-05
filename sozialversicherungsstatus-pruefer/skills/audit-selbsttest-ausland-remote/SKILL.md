@@ -7,11 +7,11 @@ description: "Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `audit-selbsttest-unternehmen` | Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch. |
 | `ausland-remote-eu-a1` | Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Auss
 
 ## Arbeitsweg
 
-Für **Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `audit-selbsttest-unternehmen`
 

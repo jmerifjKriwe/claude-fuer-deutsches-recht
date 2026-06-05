@@ -7,11 +7,11 @@ description: "Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen,
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bericht-bauwirtschaft-soka-bau` | Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation. |
 | `bericht-behg-brennstoffemissionen` | Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffe
 
 ## Arbeitsweg
 
-Für **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berichtspflichten-erlediger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bericht-bauwirtschaft-soka-bau`
 

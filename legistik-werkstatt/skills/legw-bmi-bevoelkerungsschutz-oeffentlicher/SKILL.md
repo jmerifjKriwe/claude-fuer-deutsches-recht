@@ -7,11 +7,11 @@ description: "Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `legw-bmi-bevoelkerungsschutz-und-katastrophenrecht` | Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). |
 | `legw-bmi-oeffentlicher-dienst-und-beamtenrecht` | Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw
 
 ## Arbeitsweg
 
-Für **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `legw-bmi-bevoelkerungsschutz-und-katastrophenrecht`
 

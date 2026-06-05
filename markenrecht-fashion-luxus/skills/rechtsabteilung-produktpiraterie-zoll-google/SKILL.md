@@ -7,11 +7,11 @@ description: "Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. |
 | `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Un
 
 ## Arbeitsweg
 
-Für **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `produktpiraterie-und-zoll`
 

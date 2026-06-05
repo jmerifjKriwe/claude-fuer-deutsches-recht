@@ -1,17 +1,17 @@
 ---
 name: rechtsgeschichte-staatsrecht-kaiserreichs-weimarer
-description: "Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 weitere Module
+# Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-026-staatsrecht-des-kaiserreichs` | Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule. |
 | `drg-027-weimarer-reichsverfassung` | Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / N
 
 ## Arbeitsweg
 
-Für **Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Staatsrecht Kaiserreichs / Weimarer Reichsverfassung / Notverordnung Demokratiekrise / Ns Unrecht Rechtsperversion / 2 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-026-staatsrecht-des-kaiserreichs`
 

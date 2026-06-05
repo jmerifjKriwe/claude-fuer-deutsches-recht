@@ -7,11 +7,11 @@ description: "Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-049-weltraumdaten-datenbankrecht-und-ai-training` | Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz. |
 | `space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-n` | Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, 
 
 ## Arbeitsweg
 
-Für **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-049-weltraumdaten-datenbankrecht-und-ai-training`
 

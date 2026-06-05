@@ -1,17 +1,17 @@
 ---
 name: vc-tech-product-dd-financial-model-runway-cap-table-grundlagen
-description: "Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-014-tech-product-dd-rookie` | Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Architektur, KI-Claims und Abhängigkeiten zu hinterfragen. |
 | `vc-015-financial-model-runway` | Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzierungsbedarf und Bridge-Logik. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Tech Product DD Rookie / Financial Model Runway / Cap Ta
 
 ## Arbeitsweg
 
-Für **Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tech Product DD Rookie / Financial Model Runway / Cap Table Grundlagen / Valuation Pre Post Money** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-014-tech-product-dd-rookie`
 

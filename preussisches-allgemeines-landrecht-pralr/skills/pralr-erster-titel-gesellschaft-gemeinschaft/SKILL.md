@@ -7,11 +7,11 @@ description: "Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Erster
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und, Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh, Pralr Erster Teil Titel 17 Erbrecht Testamente Und Geset, Pralr Zweiter Teil Familienrecht Ehe Vormundschaft** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und, Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh, Pralr Erster Teil Titel 17 Erbrecht Testamente Und Geset, Pralr Zweiter Teil Familienrecht Ehe Vormundschaft** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-neu-015-erster-teil-titel-12-darlehen-verwahrung-leihe` | PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und` | PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pr
 
 ## Arbeitsweg
 
-Für **Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und, Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh, Pralr Erster Teil Titel 17 Erbrecht Testamente Und Geset, Pralr Zweiter Teil Familienrecht Ehe Vormundschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und, Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh, Pralr Erster Teil Titel 17 Erbrecht Testamente Und Geset, Pralr Zweiter Teil Familienrecht Ehe Vormundschaft** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-neu-015-erster-teil-titel-12-darlehen-verwahrung-leihe`
 

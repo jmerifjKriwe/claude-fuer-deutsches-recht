@@ -7,11 +7,11 @@ description: "Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung` | Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen. |
 | `space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe` | Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerb
 
 ## Arbeitsweg
 
-Für **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung`
 

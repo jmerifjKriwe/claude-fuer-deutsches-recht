@@ -7,27 +7,27 @@ description: "Freigabeverfahren, Fristencockpit, Spruchverfahren Schnittstelle, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Freigabeverfahren, Fristencockpit, Spruchverfahren Schnittstelle, Beherrschungs Und Gewinnabfuehrungsvertrag** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Freigabeverfahren, Fristencockpit, Spruchverfahren Schnittstelle, Beherrschungs Und Gewinnabfuehrungsvertrag** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `freigabeverfahren` | Hauptversammlung AG und SE: Freigabeverfahren; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `fristencockpit` | Hauptversammlung AG und SE: Fristencockpit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `spruchverfahren-schnittstelle` | Hauptversammlung AG und SE: Spruchverfahren Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beherrschungs-und-gewinnabfuehrungsvertrag` | Hauptversammlung AG und SE: Beherrschungs Und Gewinnabfuehrungsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `freigabeverfahren` | Hauptversammlung AG und SE: Freigabeverfahren; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `fristencockpit` | Hauptversammlung AG und SE: Fristencockpit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `spruchverfahren-schnittstelle` | Hauptversammlung AG und SE: Spruchverfahren Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beherrschungs-und-gewinnabfuehrungsvertrag` | Hauptversammlung AG und SE: Beherrschungs Und Gewinnabfuehrungsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Freigabeverfahren, Fristencockpit, Spruchverfahren Schnittstelle, Beherrschungs Und Gewinnabfuehrungsvertrag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Freigabeverfahren, Fristencockpit, Spruchverfahren Schnittstelle, Beherrschungs Und Gewinnabfuehrungsvertrag** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `freigabeverfahren`
 
-**Fokus:** Hauptversammlung AG und SE: Freigabeverfahren; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Freigabeverfahren; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Freigabeverfahren
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `fristencockpit`
 
-**Fokus:** Hauptversammlung AG und SE: Fristencockpit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Fristencockpit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Fristencockpit
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `spruchverfahren-schnittstelle`
 
-**Fokus:** Hauptversammlung AG und SE: Spruchverfahren Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Spruchverfahren Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Spruchverfahren Schnittstelle
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beherrschungs-und-gewinnabfuehrungsvertrag`
 
-**Fokus:** Hauptversammlung AG und SE: Beherrschungs Und Gewinnabfuehrungsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Beherrschungs Und Gewinnabfuehrungsvertrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beherrschungs Und Gewinnabfuehrungsvertrag
 

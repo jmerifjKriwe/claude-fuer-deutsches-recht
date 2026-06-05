@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 090 Rechtshistorische Literatur Nur Mit 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 090 Rechtshistorische Literatur Nur Mit Quelle, Deutsche Rechtsgeschichte 091 Archivfund In Heutige Argumentation, Deutsche Rechtsgeschichte 092 Fallvergleich Epochenuebergreifend, Deutsche Rechtsgeschichte 093 Gute Rechtsgeschichte Für Laien, Deutsche Rechtsgeschichte 094 Seminar Und Vortrag Rechtsgeschichte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 090 Rechtshistorische Literatur Nur Mit Quelle, Deutsche Rechtsgeschichte 091 Archivfund In Heutige Argumentation, Deutsche Rechtsgeschichte 092 Fallvergleich Epochenuebergreifend, Deutsche Rechtsgeschichte 093 Gute Rechtsgeschichte Für Laien, Deutsche Rechtsgeschichte 094 Seminar Und Vortrag Rechtsgeschichte und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-090-rechtshistorische-literatur-nur-mit-quelle` | Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe. |
 | `drg-091-archivfund-in-heutige-argumentation` | Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 090 Rechtshistorische Literatu
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 090 Rechtshistorische Literatur Nur Mit Quelle, Deutsche Rechtsgeschichte 091 Archivfund In Heutige Argumentation, Deutsche Rechtsgeschichte 092 Fallvergleich Epochenuebergreifend, Deutsche Rechtsgeschichte 093 Gute Rechtsgeschichte Für Laien, Deutsche Rechtsgeschichte 094 Seminar Und Vortrag Rechtsgeschichte und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 090 Rechtshistorische Literatur Nur Mit Quelle, Deutsche Rechtsgeschichte 091 Archivfund In Heutige Argumentation, Deutsche Rechtsgeschichte 092 Fallvergleich Epochenuebergreifend, Deutsche Rechtsgeschichte 093 Gute Rechtsgeschichte Für Laien, Deutsche Rechtsgeschichte 094 Seminar Und Vortrag Rechtsgeschichte und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-090-rechtshistorische-literatur-nur-mit-quelle`
 
@@ -95,7 +95,7 @@ Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamen
 - **Landesarchivgesetze**: Je nach Land, Sperrfristen (30 Jahre allg., 10 Jahre nach Tod)
 - **BGB § 133**: Willenserklaerung und Gesetzgeberwille als Auslegungsargument
 - **BVerfGE 62, 1 (1982)**: Historische Auslegung als Methode der Verfassungsinterpretation
-- **Mugdan, Materialien BGB** (1899): Standardreferenz fuer BGB-Entstehungsgeschichte
+- **Mugdan, Materialien BGB** (1899): Standardreferenz fuer BGB-fachliche Einordnung
 
 ## Akteure und Institutionen
 

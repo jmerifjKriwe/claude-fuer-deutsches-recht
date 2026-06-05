@@ -7,11 +7,11 @@ description: "Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindestrasse Pla
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindestrasse Planrecht Prüfen, Str 064 Gemeindestrasse Sondernutzung Formulie, Str 065 Gemeindestrasse Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindestrasse Planrecht Prüfen, Str 064 Gemeindestrasse Sondernutzung Formulie, Str 065 Gemeindestrasse Einwendung Bauen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-062-gemeindestrasse-widmung-lesen` | Straßenrecht und Infrastruktur: Gemeindestraße: Widmung lesen. Widmung lesen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-063-gemeindestrasse-planrecht-pruefen` | Straßenrecht und Infrastruktur: Gemeindestraße: Planrecht prüfen. Planrecht prüfen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindes
 
 ## Arbeitsweg
 
-Für **Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindestrasse Planrecht Prüfen, Str 064 Gemeindestrasse Sondernutzung Formulie, Str 065 Gemeindestrasse Einwendung Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 062 Gemeindestrasse Widmung Lesen, Str 063 Gemeindestrasse Planrecht Prüfen, Str 064 Gemeindestrasse Sondernutzung Formulie, Str 065 Gemeindestrasse Einwendung Bauen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-062-gemeindestrasse-widmung-lesen`
 

@@ -7,11 +7,11 @@ description: "Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Ga
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `authorschaft-work-made-for-hire-transfer-chain` | Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten. |
 | `backlist-rights-gap-audit` | Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Authorschaft Work Made For Hire Transfer Chain, Backlist
 
 ## Arbeitsweg
 
-Für **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `authorschaft-work-made-for-hire-transfer-chain`
 

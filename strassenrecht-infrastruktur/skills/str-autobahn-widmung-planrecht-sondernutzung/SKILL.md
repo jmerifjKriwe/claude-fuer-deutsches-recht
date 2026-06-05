@@ -7,11 +7,11 @@ description: "Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `str-022-autobahn-widmung-lesen` | Straßenrecht und Infrastruktur: Autobahn: Widmung lesen. Widmung lesen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-023-autobahn-planrecht-pruefen` | Straßenrecht und Infrastruktur: Autobahn: Planrecht prüfen. Planrecht prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrec
 
 ## Arbeitsweg
 
-Für **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Str 022 Autobahn Widmung Lesen, Str 023 Autobahn Planrecht Prüfen, Str 024 Autobahn Sondernutzung Formulieren, Str 025 Autobahn Einwendung Bauen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenrecht-infrastruktur` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `str-022-autobahn-widmung-lesen`
 

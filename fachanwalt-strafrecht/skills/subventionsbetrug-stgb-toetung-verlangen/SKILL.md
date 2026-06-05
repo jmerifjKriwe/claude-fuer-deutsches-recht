@@ -7,11 +7,11 @@ description: "Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetung Auf Verl
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetung Auf Verlangen 216 Stgb, Strafrecht Totschlag 212 Stgb, Strafrecht Umweltstrafrecht 324 Stgb Gewaesser, Strafrecht Umweltstrafrecht 326 Stgb Abfall und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetung Auf Verlangen 216 Stgb, Strafrecht Totschlag 212 Stgb, Strafrecht Umweltstrafrecht 324 Stgb Gewaesser, Strafrecht Umweltstrafrecht 326 Stgb Abfall und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafrecht-spezial-subventionsbetrug-264-stgb` | Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen. |
 | `strafrecht-spezial-toetung-auf-verlangen-216-stgb` | Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetun
 
 ## Arbeitsweg
 
-Für **Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetung Auf Verlangen 216 Stgb, Strafrecht Totschlag 212 Stgb, Strafrecht Umweltstrafrecht 324 Stgb Gewaesser, Strafrecht Umweltstrafrecht 326 Stgb Abfall und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Subventionsbetrug 264 Stgb, Strafrecht Toetung Auf Verlangen 216 Stgb, Strafrecht Totschlag 212 Stgb, Strafrecht Umweltstrafrecht 324 Stgb Gewaesser, Strafrecht Umweltstrafrecht 326 Stgb Abfall und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafrecht-spezial-subventionsbetrug-264-stgb`
 

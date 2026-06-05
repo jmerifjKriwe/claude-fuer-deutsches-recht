@@ -7,11 +7,11 @@ description: "Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autobahnprojekt 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autobahnprojekt Kontrolle Sichern, Oew 038 Autobahnprojekt Haushalt Anbinden, Oew 039 Autobahnprojekt Kommunikation Schreibe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autobahnprojekt Kontrolle Sichern, Oew 038 Autobahnprojekt Haushalt Anbinden, Oew 039 Autobahnprojekt Kommunikation Schreibe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `oew-035-autobahnprojekt-risiko-verteilen` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Risiko verteilen. Risiko verteilen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-037-autobahnprojekt-kontrolle-sichern` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Kontrolle sichern. Kontrolle sichern für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autoba
 
 ## Arbeitsweg
 
-Für **Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autobahnprojekt Kontrolle Sichern, Oew 038 Autobahnprojekt Haushalt Anbinden, Oew 039 Autobahnprojekt Kommunikation Schreibe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Oew 035 Autobahnprojekt Risiko Verteilen, Oew 037 Autobahnprojekt Kontrolle Sichern, Oew 038 Autobahnprojekt Haushalt Anbinden, Oew 039 Autobahnprojekt Kommunikation Schreibe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `oeffentliches-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `oew-035-autobahnprojekt-risiko-verteilen`
 

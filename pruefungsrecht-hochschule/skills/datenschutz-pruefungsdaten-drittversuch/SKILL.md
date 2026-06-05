@@ -7,11 +7,11 @@ description: "Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leistungspunkte, Eilantrag Endgueltig Nicht Bestanden** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leistungspunkte, Eilantrag Endgueltig Nicht Bestanden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `datenschutz-pruefungsdaten` | Prüft Datenschutz bei Prüfungsdaten. |
 | `drittversuch-und-haertefall` | Prüft Drittversuch, Härtefall und zusätzliche Wiederholung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Datenschutz Pruefungsdaten, Drittversuch Und Haertefall,
 
 ## Arbeitsweg
 
-Für **Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leistungspunkte, Eilantrag Endgueltig Nicht Bestanden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leistungspunkte, Eilantrag Endgueltig Nicht Bestanden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `pruefungsrecht-hochschule` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `datenschutz-pruefungsdaten`
 

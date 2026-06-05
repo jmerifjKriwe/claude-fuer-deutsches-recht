@@ -7,27 +7,27 @@ description: "Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektron
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `beweisakte-hv` | Hauptversammlung AG und SE: Beweisakte HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `boersennotierte-ag-wphg-mar` | Hauptversammlung AG und SE: Boersennotierte AG Wphg Mar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `briefwahl-und-elektronische-stimme` | Hauptversammlung AG und SE: Briefwahl Und Elektronische Stimme; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bundesanzeiger-und-medien` | Hauptversammlung AG und SE: Bundesanzeiger Und Medien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beweisakte-hv` | Hauptversammlung AG und SE: Beweisakte HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `boersennotierte-ag-wphg-mar` | Hauptversammlung AG und SE: Boersennotierte AG Wphg Mar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `briefwahl-und-elektronische-stimme` | Hauptversammlung AG und SE: Briefwahl Und Elektronische Stimme; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bundesanzeiger-und-medien` | Hauptversammlung AG und SE: Bundesanzeiger Und Medien; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beweisakte Hv, Boersennotierte Ag Wphg Mar, Briefwahl Und Elektronische Stimme, Bundesanzeiger Und Medien** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beweisakte-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Beweisakte HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Beweisakte HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beweisakte HV
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `boersennotierte-ag-wphg-mar`
 
-**Fokus:** Hauptversammlung AG und SE: Boersennotierte AG Wphg Mar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Boersennotierte AG Wphg Mar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Boersennotierte AG Wphg Mar
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `briefwahl-und-elektronische-stimme`
 
-**Fokus:** Hauptversammlung AG und SE: Briefwahl Und Elektronische Stimme; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Briefwahl Und Elektronische Stimme; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Briefwahl Und Elektronische Stimme
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `bundesanzeiger-und-medien`
 
-**Fokus:** Hauptversammlung AG und SE: Bundesanzeiger Und Medien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Bundesanzeiger Und Medien; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bundesanzeiger Und Medien
 

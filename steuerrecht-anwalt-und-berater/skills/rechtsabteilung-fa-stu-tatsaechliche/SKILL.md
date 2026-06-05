@@ -7,11 +7,11 @@ description: "Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendi
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-stu-finanzgerichtsklage-78-fgo` | Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). |
 | `fa-stu-tatsaechliche-verstaendigung` | Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche 
 
 ## Arbeitsweg
 
-Für **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-stu-finanzgerichtsklage-78-fgo`
 

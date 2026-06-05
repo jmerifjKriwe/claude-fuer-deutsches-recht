@@ -7,11 +7,11 @@ description: "Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusst
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusste Zweckgerichtete Mehrung, Leistungskondiktion Grundtatbestand 812 I 1 Alt 1, Leistungszweck Bei Vorleistung Und Anzahlung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusste Zweckgerichtete Mehrung, Leistungskondiktion Grundtatbestand 812 I 1 Alt 1, Leistungszweck Bei Vorleistung Und Anzahlung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kredit-darlehen-und-zinsenrueckforderung` | Nutze diesen Skill, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. |
 | `leistungsbegriff-bewusste-zweckgerichtete-mehrung` | Leistungsbegriff im Bereicherungsrecht bestimmen: bewusste zweckgerichtete Mehrung, Empfängerhorizont, Vermögenszuordnung und Mehrpersonenfälle. Output: Leistungskarte mit Abgrenzung zur Nichtleistungskondiktion. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegri
 
 ## Arbeitsweg
 
-Für **Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusste Zweckgerichtete Mehrung, Leistungskondiktion Grundtatbestand 812 I 1 Alt 1, Leistungszweck Bei Vorleistung Und Anzahlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusste Zweckgerichtete Mehrung, Leistungskondiktion Grundtatbestand 812 I 1 Alt 1, Leistungszweck Bei Vorleistung Und Anzahlung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bereicherungs-und-anfechtungsrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kredit-darlehen-und-zinsenrueckforderung`
 

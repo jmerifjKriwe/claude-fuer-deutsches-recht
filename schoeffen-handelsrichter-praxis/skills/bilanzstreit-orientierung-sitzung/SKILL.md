@@ -7,11 +7,11 @@ description: "Handelsrichter Bilanzstreit Orientierung, Handelsrichter Bilanzstr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Handelsrichter Bilanzstreit Orientierung, Handelsrichter Bilanzstreit Sitzung, Handelsrichter Gesellschafterstreit Orientierung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Handelsrichter Bilanzstreit Orientierung, Handelsrichter Bilanzstreit Sitzung, Handelsrichter Gesellschafterstreit Orientierung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `handelsrichter-bilanzstreit-orientierung` | Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `handelsrichter-bilanzstreit-sitzung` | Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Handelsrichter Bilanzstreit Orientierung, Handelsrichter
 
 ## Arbeitsweg
 
-Für **Handelsrichter Bilanzstreit Orientierung, Handelsrichter Bilanzstreit Sitzung, Handelsrichter Gesellschafterstreit Orientierung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Handelsrichter Bilanzstreit Orientierung, Handelsrichter Bilanzstreit Sitzung, Handelsrichter Gesellschafterstreit Orientierung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schoeffen-handelsrichter-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `handelsrichter-bilanzstreit-orientierung`
 

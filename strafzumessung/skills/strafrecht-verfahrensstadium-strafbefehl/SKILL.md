@@ -7,11 +7,11 @@ description: "Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Stra
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46A Stgb Und Schadenswiedergutmachung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46A Stgb Und Schadenswiedergutmachung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-strafrecht-fristen-form-und-zustaendigkeit` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahrensstadium-strafbefehl-bis-kammer` | Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensst
 
 ## Arbeitsweg
 
-Für **Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46A Stgb Und Schadenswiedergutmachung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46A Stgb Und Schadenswiedergutmachung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-strafrecht-fristen-form-und-zustaendigkeit`
 

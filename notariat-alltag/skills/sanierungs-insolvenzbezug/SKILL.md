@@ -7,11 +7,11 @@ description: "Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-058-sanierungs-und-insolvenzbezug-bei-anteils-und-immob` | Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten. |
 | `notariat-059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mi` | Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils U
 
 ## Arbeitsweg
 
-Für **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-058-sanierungs-und-insolvenzbezug-bei-anteils-und-immob`
 

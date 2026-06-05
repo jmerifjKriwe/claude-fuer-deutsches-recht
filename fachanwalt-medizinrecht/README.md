@@ -71,7 +71,7 @@ Automatisch generierte Komplett-Liste aller 46 Skills in diesem Plugin. Beschrei
 | `fachanwalt-medizinrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `fachanwalt-medizinrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `fachanwalt-medizinrecht-gutachterkommission` | Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung: wählt den konkreten Prüfpfad, tr... |
-| `fachanwalt-medizinrecht-medr-aufklaerung-einwilligung` | Medr Aufklaerung Einwilligung Leitfaden / Medr Aufklaerung Einwilligung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
+| `fachanwalt-medizinrecht-medr-aufklaerung-einwilligung` | Medr Aufklaerung Einwilligung Leitfaden / Medr Aufklaerung Einwilligung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
 | `fachanwalt-medizinrecht-output-waehlen` | Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `fachanwalt-medizinrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `fachanwalt-medizinrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |

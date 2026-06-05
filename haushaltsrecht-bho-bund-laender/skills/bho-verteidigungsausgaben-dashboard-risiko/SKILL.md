@@ -7,11 +7,11 @@ description: "Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigun
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigungsausgaben Risiko Markieren, Bho 093 Verteidigungsausgaben Brh Frage Formul, Bho 094 Verteidigungsausgaben Parlamentsfrage, Bho 095 Verteidigungsausgaben Vollzug Tracken und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigungsausgaben Risiko Markieren, Bho 093 Verteidigungsausgaben Brh Frage Formul, Bho 094 Verteidigungsausgaben Parlamentsfrage, Bho 095 Verteidigungsausgaben Vollzug Tracken und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-091-verteidigungsausgaben-dashboard-bauen` | Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Dashboard bauen. Dashboard bauen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-092-verteidigungsausgaben-risiko-markieren` | Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Risiko markieren. Risiko markieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 V
 
 ## Arbeitsweg
 
-Für **Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigungsausgaben Risiko Markieren, Bho 093 Verteidigungsausgaben Brh Frage Formul, Bho 094 Verteidigungsausgaben Parlamentsfrage, Bho 095 Verteidigungsausgaben Vollzug Tracken und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigungsausgaben Risiko Markieren, Bho 093 Verteidigungsausgaben Brh Frage Formul, Bho 094 Verteidigungsausgaben Parlamentsfrage, Bho 095 Verteidigungsausgaben Vollzug Tracken und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-091-verteidigungsausgaben-dashboard-bauen`
 

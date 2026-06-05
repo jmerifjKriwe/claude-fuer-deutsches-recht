@@ -7,27 +7,27 @@ description: "Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Akti
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Aktionaere, Record Date Und Nachweisstichtag, Redezeit Und Ordnungsmassnahmen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Aktionaere, Record Date Und Nachweisstichtag, Redezeit Und Ordnungsmassnahmen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `q-and-a-vorstandsantworten` | Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `rechtsmissbrauch-und-raeuberische-aktionaere` | Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `record-date-und-nachweisstichtag` | Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `redezeit-und-ordnungsmassnahmen` | Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `q-and-a-vorstandsantworten` | Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `rechtsmissbrauch-und-raeuberische-aktionaere` | Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `record-date-und-nachweisstichtag` | Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `redezeit-und-ordnungsmassnahmen` | Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Aktionaere, Record Date Und Nachweisstichtag, Redezeit Und Ordnungsmassnahmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Aktionaere, Record Date Und Nachweisstichtag, Redezeit Und Ordnungsmassnahmen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktienrecht-hauptversammlung-ag-se` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `q-and-a-vorstandsantworten`
 
-**Fokus:** Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Q&and A Vorstandsantworten
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `rechtsmissbrauch-und-raeuberische-aktionaere`
 
-**Fokus:** Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Rechtsmissbrauch Und Raeuberische Aktionaere
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `record-date-und-nachweisstichtag`
 
-**Fokus:** Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Record Date Und Nachweisstichtag
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `redezeit-und-ordnungsmassnahmen`
 
-**Fokus:** Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Redezeit Und Ordnungsmassnahmen
 

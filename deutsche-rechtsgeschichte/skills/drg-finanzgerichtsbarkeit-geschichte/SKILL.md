@@ -7,11 +7,11 @@ description: "Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, De
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drg-084-finanzgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965. |
 | `drg-111-richterbild-in-diktatur-und-rechtsstaat` | Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung. |
@@ -22,10 +22,10 @@ Dieser Skill bündelt **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Gesc
 
 ## Arbeitsweg
 
-Für **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 084 Finanzgerichtsbarkeit Geschichte, Deutsche Rechtsgeschichte 111 Richterbild In Diktatur Und Rechtsstaat, Deutsche Rechtsgeschichte 002 Quellenkritik Archiv Und Edition, Deutsche Rechtsgeschichte 003 Sachsenspiegel Und Landrechte, Deutsche Rechtsgeschichte 004 Stadtrecht Und Handelsstaedte und 1 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drg-084-finanzgerichtsbarkeit-geschichte`
 

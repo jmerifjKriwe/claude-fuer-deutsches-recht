@@ -7,11 +7,11 @@ description: "Jurisdiktion Peru Competition Authority, Jurisdiktion Philippinen 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Jurisdiktion Peru Competition Authority, Jurisdiktion Philippinen Competition Authority, Jurisdiktion Polen Competition Authority, Jurisdiktion Portugal Competition Authority, Jurisdiktion Ruanda Competition Authority und 9 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Jurisdiktion Peru Competition Authority, Jurisdiktion Philippinen Competition Authority, Jurisdiktion Polen Competition Authority, Jurisdiktion Portugal Competition Authority, Jurisdiktion Ruanda Competition Authority und 9 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `jurisdiktion-peru-competition-authority` | Jurisdiktionsskill Peru: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 | `jurisdiktion-philippinen-competition-authority` | Jurisdiktionsskill Philippinen: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
@@ -30,10 +30,10 @@ Dieser Skill bündelt **Jurisdiktion Peru Competition Authority, Jurisdiktion Ph
 
 ## Arbeitsweg
 
-Für **Jurisdiktion Peru Competition Authority, Jurisdiktion Philippinen Competition Authority, Jurisdiktion Polen Competition Authority, Jurisdiktion Portugal Competition Authority, Jurisdiktion Ruanda Competition Authority und 9 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Jurisdiktion Peru Competition Authority, Jurisdiktion Philippinen Competition Authority, Jurisdiktion Polen Competition Authority, Jurisdiktion Portugal Competition Authority, Jurisdiktion Ruanda Competition Authority und 9 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `jurisdiktion-peru-competition-authority`
 

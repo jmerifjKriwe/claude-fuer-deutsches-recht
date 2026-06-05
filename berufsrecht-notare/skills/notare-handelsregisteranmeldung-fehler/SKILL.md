@@ -7,11 +7,11 @@ description: "Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, N
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notare-handelsregisteranmeldung-fehler-rechtsprechungscheck-und` | Notare: handelsregisteranmeldung fehler - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-identitaetspruefung-ausweis-rechtsprechungscheck-und-red` | Notare: identitaetspruefung ausweis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Notare Handelsregisteranmeldung Fehler Rechtsprechungsch
 
 ## Arbeitsweg
 
-Für **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-notare` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notare-handelsregisteranmeldung-fehler-rechtsprechungscheck-und`
 

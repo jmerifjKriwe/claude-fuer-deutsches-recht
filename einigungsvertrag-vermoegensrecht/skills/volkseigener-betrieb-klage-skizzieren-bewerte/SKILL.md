@@ -7,11 +7,11 @@ description: "Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 Volkseigen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 Volkseigener Betrieb Klage Skizzieren, Ein 030 Volkseigener Betrieb Vergleich Bewerte, Ein 031 Treuhandprivatisierung Anspruchspfad P** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 Volkseigener Betrieb Klage Skizzieren, Ein 030 Volkseigener Betrieb Vergleich Bewerte, Ein 031 Treuhandprivatisierung Anspruchspfad P** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ein-028-volkseigener-betrieb-widerspruch-pruef` | Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Widerspruch prüfen. Widerspruch prüfen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-029-volkseigener-betrieb-klage-skizzieren` | Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Klage skizzieren. Klage skizzieren für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 
 
 ## Arbeitsweg
 
-Für **Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 Volkseigener Betrieb Klage Skizzieren, Ein 030 Volkseigener Betrieb Vergleich Bewerte, Ein 031 Treuhandprivatisierung Anspruchspfad P** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ein 028 Volkseigener Betrieb Widerspruch Pruef, Ein 029 Volkseigener Betrieb Klage Skizzieren, Ein 030 Volkseigener Betrieb Vergleich Bewerte, Ein 031 Treuhandprivatisierung Anspruchspfad P** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ein-028-volkseigener-betrieb-widerspruch-pruef`
 

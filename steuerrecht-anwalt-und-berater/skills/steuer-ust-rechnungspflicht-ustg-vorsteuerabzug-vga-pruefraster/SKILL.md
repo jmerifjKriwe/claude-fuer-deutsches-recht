@@ -1,17 +1,17 @@
 ---
 name: steuer-ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster
-description: "Ust Rechnungspflicht Ustg / Ust Vorsteuerabzug Ustg / Vga Pruefraster / Vorbehaltsaufgaben Stberg: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Ust Rechnungspflicht Ustg / Ust Vorsteuerabzug Ustg / Vga Pruefraster / Vorbehaltsaufgaben Stberg: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Ust Rechnungspflicht Ustg / Ust Vorsteuerabzug Ustg / Vga Pruefraster / Vorbehaltsaufgaben Stberg
 
 ## Arbeitsbereich
 
-Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; nutze ergänzende Prüffelder nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-stu-ust-rechnungspflicht-14-ustg` | Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg. |
 | `fa-stu-ust-vorsteuerabzug-15-ustg` | Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug fuer das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaengel fehlender Leistungsbeschreibung oder Verdacht auf Karussellgeschaeft. Behandelt § 15 UStG iVm § 14 UStG MwStSystRL und der nationale Ausgleich durch § 14a UStG. Output Pruefraster und Argumentationsmuster. Abgrenzung zu fa-stu-ust-rechnungspflicht-14-ustg. |
@@ -20,10 +20,10 @@ Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbare
 
 ## Arbeitsweg
 
-Für **Ust Rechnungspflicht Ustg / Ust Vorsteuerabzug Ustg / Vga Pruefraster / Vorbehaltsaufgaben Stberg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ust Rechnungspflicht Ustg / Ust Vorsteuerabzug Ustg / Vga Pruefraster / Vorbehaltsaufgaben Stberg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-stu-ust-rechnungspflicht-14-ustg`
 

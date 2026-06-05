@@ -7,11 +7,11 @@ description: "Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion Clause Unwirksam, Bautraeger Anlagen Zur Baubeschreibung, Bautraeger Aufflassungsvormerkung 883 Bgb** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion Clause Unwirksam, Bautraeger Anlagen Zur Baubeschreibung, Bautraeger Aufflassungsvormerkung 883 Bgb** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-abnahme-formgerecht-640-bgb` | Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster. |
 | `bautraeger-abnahmefiktion-clause-unwirksam` | Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnah
 
 ## Arbeitsweg
 
-Für **Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion Clause Unwirksam, Bautraeger Anlagen Zur Baubeschreibung, Bautraeger Aufflassungsvormerkung 883 Bgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion Clause Unwirksam, Bautraeger Anlagen Zur Baubeschreibung, Bautraeger Aufflassungsvormerkung 883 Bgb** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-abnahme-formgerecht-640-bgb`
 

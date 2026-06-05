@@ -7,27 +7,27 @@ description: "Schweiz Geheimhaltung, Signatur Und Vollmacht, Software Saas Und S
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schweiz Geheimhaltung, Signatur Und Vollmacht, Software Saas Und Source Code, Strafbarkeit 23 Geschgehg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schweiz Geheimhaltung, Signatur Und Vollmacht, Software Saas Und Source Code, Strafbarkeit 23 Geschgehg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `schweiz-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `signatur-und-vollmacht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Signatur Und Vollmacht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `software-saas-und-source-code` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Software Saas Und Source Code; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `strafbarkeit-23-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `schweiz-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `signatur-und-vollmacht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Signatur Und Vollmacht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `software-saas-und-source-code` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Software Saas Und Source Code; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `strafbarkeit-23-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Schweiz Geheimhaltung, Signatur Und Vollmacht, Software Saas Und Source Code, Strafbarkeit 23 Geschgehg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schweiz Geheimhaltung, Signatur Und Vollmacht, Software Saas Und Source Code, Strafbarkeit 23 Geschgehg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-verschwiegenheit-generator-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schweiz-geheimhaltung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Schweiz Geheimhaltung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `signatur-und-vollmacht`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Signatur Und Vollmacht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Signatur Und Vollmacht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Signatur Und Vollmacht
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `software-saas-und-source-code`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Software Saas Und Source Code; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Software Saas Und Source Code; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Software Saas Und Source Code
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `strafbarkeit-23-geschgehg`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Strafbarkeit 23 Geschgehg
 

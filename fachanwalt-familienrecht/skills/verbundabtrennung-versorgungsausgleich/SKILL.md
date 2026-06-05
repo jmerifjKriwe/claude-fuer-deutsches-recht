@@ -7,11 +7,11 @@ description: "Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verbundabtrennung-versorgungsausgleich` | Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg` | Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueb
 
 ## Arbeitsweg
 
-Für **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland, Versorgungsausgleich Und Versorgungsausgleichskasse** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verbundabtrennung-versorgungsausgleich`
 

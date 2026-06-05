@@ -1,17 +1,17 @@
 ---
 name: db-agb-auskunft-rechnungslegung
-description: "Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-042-datenbankrecht-in-agb-klauseln` | Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber. |
 | `db-029-auskunft-rechnungslegung-schadensschaetzung` | Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungsle
 
 ## Arbeitsweg
 
-Für **Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Datenbankrecht Agb Klauseln / Db Auskunft Rechnungslegung Schadensschaetzung / Db Datenqualitaet Haftung Gewaehrleistung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-042-datenbankrecht-in-agb-klauseln`
 

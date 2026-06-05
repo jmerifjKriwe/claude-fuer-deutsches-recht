@@ -7,11 +7,11 @@ description: "Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde U
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notfallstufen-und-sicherstellungszuschlaege` | Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung. |
 | `patientenbeschwerde-und-risikomanagement` | Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notfallstufen Und Sicherstellungszuschlaege, Patientenbe
 
 ## Arbeitsweg
 
-Für **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notfallstufen-und-sicherstellungszuschlaege`
 

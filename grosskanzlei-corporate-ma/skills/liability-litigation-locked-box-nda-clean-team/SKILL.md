@@ -1,17 +1,17 @@
 ---
 name: liability-litigation-locked-box-nda-clean-team
-description: "Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 weitere Module
+# Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-liability-limitations-basket-cap` | Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA. |
 | `grosskanzlei-corporate-ma-litigation-disputes-dd` | Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Liability Limitations / Grossk
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Liability Limitations / Grosskanzlei Corporate Ma Litigation Disputes / Grosskanzlei Corporate Ma Locked Box / Grosskanzlei Corporate Ma Look And / 3 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-liability-limitations-basket-cap`
 
@@ -589,7 +589,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 
 ## Einsatz
-Vor oder nach Management Presentations sollen juristische und kommerzielle Fragen sauber gebuendelt werden.
+Vor oder nach Management Presentations sollen juristische und kommerzielle Fragen sauber gebearbeitet werden.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.

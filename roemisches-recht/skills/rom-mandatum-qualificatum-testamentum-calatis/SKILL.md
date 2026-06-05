@@ -7,11 +7,11 @@ description: "Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rom-141-mandatum-qualificatum-buergschaftsersatz` | Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhaeltnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix. |
 | `rom-142-testamentum-calatis-comitiis-und-in-procinctu` | Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix. |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 14
 
 ## Arbeitsweg
 
-Für **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae, Rom 145 Querela Inofficiosi Testamenti Pflichtteil und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rom-141-mandatum-qualificatum-buergschaftsersatz`
 

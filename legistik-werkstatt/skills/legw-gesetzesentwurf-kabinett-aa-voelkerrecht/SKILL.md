@@ -7,11 +7,11 @@ description: "Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzg
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung. |
 | `legw-aa-voelkerrecht-und-vertragsgesetzgebung` | Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). |
@@ -24,10 +24,10 @@ Dieser Skill bündelt **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertr
 
 ## Arbeitsweg
 
-Für **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesetzesentwurf-kabinett`
 

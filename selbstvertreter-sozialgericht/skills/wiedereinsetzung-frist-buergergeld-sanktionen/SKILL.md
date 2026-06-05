@@ -7,11 +7,11 @@ description: "Wiedereinsetzung Frist 67 Sgg, Bürgergeld Sanktionen 31a Sgb Ii, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
 | `buergergeld-sanktionen-31a-sgb-ii` | Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31
 
 ## Arbeitsweg
 
-Für **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wiedereinsetzung-frist-67-sgg`
 

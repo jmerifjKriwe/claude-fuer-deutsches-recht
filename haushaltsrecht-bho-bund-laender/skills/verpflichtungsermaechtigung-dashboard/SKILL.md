@@ -7,11 +7,11 @@ description: "Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bho-201-verpflichtungsermaechtigung-dashboard` | Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Dashboard bauen. Dashboard bauen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-202-verpflichtungsermaechtigung-risiko-mar` | Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren. Risiko markieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,10 +27,10 @@ Dieser Skill bündelt **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 V
 
 ## Arbeitsweg
 
-Für **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bho-201-verpflichtungsermaechtigung-dashboard`
 

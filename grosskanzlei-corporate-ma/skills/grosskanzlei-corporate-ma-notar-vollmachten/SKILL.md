@@ -7,11 +7,11 @@ description: "Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grossk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-negotiation-strategy-battlecards` | Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege. |
 | `grosskanzlei-corporate-ma-notar-vollmachten-signaturmechanik` | Notar-, Vollmachts- und Signaturmechanik fuer Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik. |
@@ -23,10 +23,10 @@ Dieser Skill bündelt **Grosskanzlei Corporate Ma Negotiation Strategy Battlecar
 
 ## Arbeitsweg
 
-Für **Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `grosskanzlei-corporate-ma` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `grosskanzlei-corporate-ma-negotiation-strategy-battlecards`
 

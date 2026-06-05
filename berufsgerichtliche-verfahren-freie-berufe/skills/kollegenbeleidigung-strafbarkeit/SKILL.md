@@ -7,11 +7,11 @@ description: "Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidigung Und Strafbarkeit Verteidigung, Mandatskuendigung Zur Unzeit Praevention, Mandatskuendigung Zur Unzeit Verteidigung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidigung Und Strafbarkeit Verteidigung, Mandatskuendigung Zur Unzeit Praevention, Mandatskuendigung Zur Unzeit Verteidigung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `kollegenbeleidigung-und-strafbarkeit-praevention` | Kollegenbeleidigung und Strafbarkeit (Präventions- und Organisationspaket): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `kollegenbeleidigung-und-strafbarkeit-verteidigung` | Kollegenbeleidigung und Strafbarkeit (Verteidigungs- und Kammerantwort): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Kollegenbeleidigung Und Strafbarkeit Praevention, Kolleg
 
 ## Arbeitsweg
 
-Für **Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidigung Und Strafbarkeit Verteidigung, Mandatskuendigung Zur Unzeit Praevention, Mandatskuendigung Zur Unzeit Verteidigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidigung Und Strafbarkeit Verteidigung, Mandatskuendigung Zur Unzeit Praevention, Mandatskuendigung Zur Unzeit Verteidigung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsgerichtliche-verfahren-freie-berufe` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `kollegenbeleidigung-und-strafbarkeit-praevention`
 

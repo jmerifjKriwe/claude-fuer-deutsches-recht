@@ -1,6 +1,6 @@
 ---
 name: hv-red-team-generalprobe
-description: "Hauptversammlung AG und SE: HV Red Team Generalprobe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Hauptversammlung AG und SE: HV Red Team Generalprobe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # HV Red Team Generalprobe

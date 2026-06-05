@@ -7,11 +7,11 @@ description: "Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio, W
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Rechtsprech, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kammerantwort, Wirtschaftspruefer Verschwiegenheit Und Datenraum Organisations, Wirtschaftspruefer Verschwiegenheit Und Datenraum Rechtsprechun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Rechtsprech, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kammerantwort, Wirtschaftspruefer Verschwiegenheit Und Datenraum Organisations, Wirtschaftspruefer Verschwiegenheit Und Datenraum Rechtsprechun** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-organisatio` | Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-rechtsprech` | Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Orga
 
 ## Arbeitsweg
 
-Für **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Rechtsprech, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kammerantwort, Wirtschaftspruefer Verschwiegenheit Und Datenraum Organisations, Wirtschaftspruefer Verschwiegenheit Und Datenraum Rechtsprechun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Rechtsprech, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kammerantwort, Wirtschaftspruefer Verschwiegenheit Und Datenraum Organisations, Wirtschaftspruefer Verschwiegenheit Und Datenraum Rechtsprechun** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-wirtschaftspruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-organisatio`
 

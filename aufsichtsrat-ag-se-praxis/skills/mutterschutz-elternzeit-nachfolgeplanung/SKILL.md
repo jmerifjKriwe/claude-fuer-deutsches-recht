@@ -7,27 +7,27 @@ description: "Mutterschutz Elternzeit Pflege 84 Abs 3, Nachfolgeplanung, Nachhal
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mutterschutz Elternzeit Pflege 84 Abs 3, Nachfolgeplanung, Nachhaltigkeitsbericht Csrd, Pflichtverletzung 93 Aktg** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mutterschutz Elternzeit Pflege 84 Abs 3, Nachfolgeplanung, Nachhaltigkeitsbericht Csrd, Pflichtverletzung 93 Aktg** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
-| `mutterschutz-elternzeit-pflege-84-abs-3` | AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nachfolgeplanung` | AG/SE-Aufsichtsrat Praxis: Nachfolgeplanung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nachhaltigkeitsbericht-csrd` | AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `pflichtverletzung-93-aktg` | AG/SE-Aufsichtsrat Praxis: Pflichtverletzung 93 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mutterschutz-elternzeit-pflege-84-abs-3` | AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nachfolgeplanung` | AG/SE-Aufsichtsrat Praxis: Nachfolgeplanung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nachhaltigkeitsbericht-csrd` | AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `pflichtverletzung-93-aktg` | AG/SE-Aufsichtsrat Praxis: Pflichtverletzung 93 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
-Für **Mutterschutz Elternzeit Pflege 84 Abs 3, Nachfolgeplanung, Nachhaltigkeitsbericht Csrd, Pflichtverletzung 93 Aktg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mutterschutz Elternzeit Pflege 84 Abs 3, Nachfolgeplanung, Nachhaltigkeitsbericht Csrd, Pflichtverletzung 93 Aktg** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aufsichtsrat-ag-se-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mutterschutz-elternzeit-pflege-84-abs-3`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mutterschutz Elternzeit Pflege 84 Abs 3
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nachfolgeplanung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Nachfolgeplanung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Nachfolgeplanung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nachfolgeplanung
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `nachhaltigkeitsbericht-csrd`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nachhaltigkeitsbericht Csrd
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `pflichtverletzung-93-aktg`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Pflichtverletzung 93 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Pflichtverletzung 93 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Pflichtverletzung 93 Aktg
 

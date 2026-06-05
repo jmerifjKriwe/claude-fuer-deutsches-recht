@@ -7,11 +7,11 @@ description: "Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `agb-einbeziehung-schnittstelle-paragraphen-305-310` | Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. |
 | `amtlicher-bgb-zpo-normcheck` | Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtl
 
 ## Arbeitsweg
 
-Für **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `agb-einbeziehung-schnittstelle-paragraphen-305-310`
 

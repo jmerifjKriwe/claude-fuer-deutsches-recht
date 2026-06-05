@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-ag-se-praxis-kaltstart-routing
-description: "AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Allgemein Kaltstart

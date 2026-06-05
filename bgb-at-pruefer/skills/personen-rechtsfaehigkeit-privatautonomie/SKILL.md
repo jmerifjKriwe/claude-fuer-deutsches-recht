@@ -7,11 +7,11 @@ description: "Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess. |
 | `privatautonomie-trennungs-abstraktionsprinzip` | Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip im BGB: Verpflichtungsgeschäft und Verfügungsgeschäft als rechtlich selbständige Akte, Kausalität und Abstraktion, Fehleridentität als Ausnahme, Kondiktion nach § 812 BGB bei fehlerhaftem Grundgeschäft. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Priva
 
 ## Arbeitsweg
 
-Für **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-at-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `personen-rechtsfaehigkeit-und-handlungsfaehigkeit`
 

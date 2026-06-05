@@ -7,11 +7,11 @@ description: "Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleich
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stb-lohn-abfindungen-besteuerung-funftel-regel` | Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung. |
 | `stb-lohn-ausgleichszahlungen-altersteilzeit` | Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn
 
 ## Arbeitsweg
 
-Für **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stb-lohn-abfindungen-besteuerung-funftel-regel`
 

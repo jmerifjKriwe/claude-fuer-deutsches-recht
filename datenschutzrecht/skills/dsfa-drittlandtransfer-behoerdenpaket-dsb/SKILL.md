@@ -7,11 +7,11 @@ description: "Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Pr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `drittlandtransfer-behoerdenpaket-output` | Behördenfähiges Dokumentations- und Antwortpaket für Drittlandtransfers erstellen: Deckvermerk, Transferregister, DPF/SCC/TIA-Nachweise, TOMs, Subprozessoren, Maßnahmenplan und Antwort an deutsche Datenschutzaufsicht. |
 | `dsb-bestellungspflicht-pruefung` | Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO). |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungs
 
 ## Arbeitsweg
 
-Für **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `drittlandtransfer-behoerdenpaket-output`
 

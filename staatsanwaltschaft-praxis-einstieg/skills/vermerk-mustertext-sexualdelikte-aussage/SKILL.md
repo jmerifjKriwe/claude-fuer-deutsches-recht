@@ -7,11 +7,11 @@ description: "Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Au
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `sexualdelikte-aussage-gegen-aussage` | Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussag
 
 ## Arbeitsweg
 
-Für **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht, Sitzungsdienst Referendar Notfallkarte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `schriftsatz-vermerk-und-mustertext`
 

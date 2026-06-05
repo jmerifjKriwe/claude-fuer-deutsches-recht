@@ -146,7 +146,7 @@ H. ESKALATION
 ## Strategie und Praxis-Tipps
 
 - Standardisierte Onboarding-Checkliste reduziert die Fehlerquote erheblich und schuetzt vor Haftungsfaellen (§ 67 StBerG).
-- Bei Mandanten mit Konzernstruktur: zentrale Datenkonsolidierung, Konzern-Vollmachten gebuendelt erfassen.
+- Bei Mandanten mit Konzernstruktur: zentrale Datenkonsolidierung, Konzern-Vollmachten gebearbeitet erfassen.
 - Mandatsvereinbarung klar formulieren — definierter Leistungsumfang schuetzt beide Seiten und ist Voraussetzung fuer eine rechtssichere Honorarabrechnung nach StBVV.
 - BHV-Anzeige bei erkennbaren Risiken zeitnah (Haftungs-Praeventiv).
 - StBVV: Onboarding wahlweise als separater Auftrag nach § 13 StBVV (Beratungstaetigkeit), Pauschalvereinbarung nach § 14 StBVV oder als Teil der laufenden Buchfuehrungspauschale.

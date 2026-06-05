@@ -1,17 +1,17 @@
 ---
 name: ordnungswidrigkeitenrecht-owi-baurecht-mandantenbrief
-description: "Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `owi-080-baurecht-mandantenbrief-schreiben` | Ordnungswidrigkeitenrecht: Baurecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-081-strassenverkehr-tatbestand-zerlegen` | Ordnungswidrigkeitenrecht: Straßenverkehr: Tatbestand zerlegen. Tatbestand zerlegen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverk
 
 ## Arbeitsweg
 
-Für **Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Owi Baurecht Mandantenbrief Schreiben / Owi Strassenverkehr Tatbestand Zerlegen / Owi Strassenverkehr Akteneinsicht Schreibe / Owi Strassenverkehr Einspruch Begruenden** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ordnungswidrigkeitenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `owi-080-baurecht-mandantenbrief-schreiben`
 

@@ -1,17 +1,17 @@
 ---
 name: staatsanwaltschaft-praxis-wirtschaftsstrafsachen-sachleitung
-description: "Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `wirtschaftsstrafsachen-sachleitung` | Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `wohnungsdurchsuchung-gefahr-im-verzug` | Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchun
 
 ## Arbeitsweg
 
-Für **Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wirtschaftsstrafsachen Sachleitung / Wohnungsdurchsuchung Gefahr Verzug / Zeugenmanagement Ladungsrisiken / Zeugenvernehmung Zeugenrechte** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `staatsanwaltschaft-praxis-einstieg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `wirtschaftsstrafsachen-sachleitung`
 

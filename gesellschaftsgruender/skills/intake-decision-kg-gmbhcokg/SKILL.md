@@ -7,11 +7,11 @@ description: "Gesellschaftsgruender Intake Decision Tree, Gesellschaftsgruender 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-intake-decision-tree` | Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster. |
 | `gesellschaftsgruender-kg-und-gmbhcokg` | KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Gesellschaftsgründer Intake Decision Tree, Gesellschaft
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `gesellschaftsgruender-intake-decision-tree`
 

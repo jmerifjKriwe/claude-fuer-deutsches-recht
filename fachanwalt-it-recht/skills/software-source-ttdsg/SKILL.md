@@ -7,11 +7,11 @@ description: "Schnittstellen Formular Portal Und Einreichung, Software Dokumente
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Schnittstellen Formular Portal Und Einreichung, Software Dokumentenmatrix Und Lueckenliste, Source Internationaler Bezug Und Schnittstellen, Ttdsg Verhandlung Vergleich Und Eskalation, Verhandlung Abschlussprodukt Und Übergabe** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Schnittstellen Formular Portal Und Einreichung, Software Dokumentenmatrix Und Lueckenliste, Source Internationaler Bezug Und Schnittstellen, Ttdsg Verhandlung Vergleich Und Eskalation, Verhandlung Abschlussprodukt Und Übergabe** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-schnittstellen-formular-portal-und-einreichung` | Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-software-dokumentenmatrix-und-lueckenliste` | Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Schnittstellen Formular Portal Und Einreichung, Software
 
 ## Arbeitsweg
 
-Für **Schnittstellen Formular Portal Und Einreichung, Software Dokumentenmatrix Und Lueckenliste, Source Internationaler Bezug Und Schnittstellen, Ttdsg Verhandlung Vergleich Und Eskalation, Verhandlung Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schnittstellen Formular Portal Und Einreichung, Software Dokumentenmatrix Und Lueckenliste, Source Internationaler Bezug Und Schnittstellen, Ttdsg Verhandlung Vergleich Und Eskalation, Verhandlung Abschlussprodukt Und Übergabe** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-schnittstellen-formular-portal-und-einreichung`
 

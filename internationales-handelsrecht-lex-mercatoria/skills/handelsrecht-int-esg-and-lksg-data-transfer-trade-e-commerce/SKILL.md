@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-esg-and-lksg-data-transfer-trade-e-commerce
-description: "Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-057-esg-and-lksg-csddd` | Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken. |
 | `ihl-058-data-transfer-in-trade` | Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Esg And Lksg Csddd / Data Transfer Trade / E Commerce Cr
 
 ## Arbeitsweg
 
-Für **Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Esg And Lksg Csddd / Data Transfer Trade / E Commerce Crossborder B2b / Digital Products International** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-057-esg-and-lksg-csddd`
 

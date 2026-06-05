@@ -1,17 +1,17 @@
 ---
 name: handelsrecht-int-risk-dashboard-international-abschlussmemo
-description: "Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-091-risk-dashboard-international-trade` | Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen. |
 | `ihl-092-abschlussmemo-handelsrecht` | Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Risk Dashboard International Trade / Abschlussmemo Hande
 
 ## Arbeitsweg
 
-Für **Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Risk Dashboard International Trade / Abschlussmemo Handelsrecht / Vertiefung Quellenmatrix / Vertiefung Streitstand Ohne Blindzitat** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-091-risk-dashboard-international-trade`
 

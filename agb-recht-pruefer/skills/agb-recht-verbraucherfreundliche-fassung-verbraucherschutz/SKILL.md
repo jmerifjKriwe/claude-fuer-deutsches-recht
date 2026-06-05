@@ -1,30 +1,30 @@
 ---
 name: agb-recht-verbraucherfreundliche-fassung-verbraucherschutz
-description: "Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 weitere Module
+# Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `verbraucherfreundliche-fassung` | Output- und Streit-Skill für Verbraucherfreundliche Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `verbraucherschutz-schnellcheck` | Einstiegs- und Arbeitsmodul für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `verbraucherschutz-schnellcheck` | Einstiegs- und Prüffeld für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `vereinsbedingungen` | Branchen-Fachmodul für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `verfuegbarkeit-wartungsfenster` | Klausel-Fachmodul für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `verhandlungs-playbook-agb` | Output- und Streit-Skill für Verhandlungs Playbook AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
 
-Für **Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbraucherfreundliche Fassung / Verbraucherschutz Schnellcheck / Vereinsbedingungen / Verfuegbarkeit Wartungsfenster / 1 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `verbraucherfreundliche-fassung`
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `verbraucherschutz-schnellcheck`
 
-**Fokus:** Einstiegs- und Arbeitsmodul für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Prüffeld für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Verbraucherschutz Schnellcheck
 

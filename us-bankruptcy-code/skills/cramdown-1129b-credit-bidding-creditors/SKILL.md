@@ -7,11 +7,11 @@ description: "Cramdown 1129b, Credit Bidding 363k, Creditors Committee 1102, Cri
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `cramdown-1129b` | Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. |
 | `credit-bidding-363k` | Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Cramdown 1129B, Credit Bidding 363K, Creditors Committee
 
 ## Arbeitsweg
 
-Für **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cramdown 1129B, Credit Bidding 363K, Creditors Committee 1102, Critical Vendors** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `cramdown-1129b`
 

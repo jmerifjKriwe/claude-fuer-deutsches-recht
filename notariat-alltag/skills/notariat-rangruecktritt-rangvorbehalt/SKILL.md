@@ -7,11 +7,11 @@ description: "Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre` | Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen. |
 | `notariat-036-signatur-qualifizierte-elektronische-signatur-und-d` | Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und 
 
 ## Arbeitsweg
 
-Für **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre`
 

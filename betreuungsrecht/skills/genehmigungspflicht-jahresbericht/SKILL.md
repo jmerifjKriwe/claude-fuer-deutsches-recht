@@ -7,11 +7,11 @@ description: "Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Sch
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `genehmigungspflicht-pruefung` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "§ 1848 BGB", "§ 1850 BGB", "§ 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten. |
 | `jahresbericht-betreuungsgericht` | Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Familienbetreuer; trennt Bericht, Vermögensverzeichnis (§ 1835 BGB) und Rechnungslegung/Vermögensübersicht. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsge
 
 ## Arbeitsweg
 
-Für **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `genehmigungspflicht-pruefung`
 

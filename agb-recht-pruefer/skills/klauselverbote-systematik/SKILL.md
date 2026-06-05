@@ -7,11 +7,11 @@ description: "Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `klauselverbote-308-systematik` | Norm- und Dogmatik-Skill für Klauselverbote 308 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `klauselverbote-309-systematik` | Norm- und Dogmatik-Skill für Klauselverbote 309 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Klauselverbote 308 Systematik, Klauselverbote 309 System
 
 ## Arbeitsweg
 
-Für **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `agb-recht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `klauselverbote-308-systematik`
 

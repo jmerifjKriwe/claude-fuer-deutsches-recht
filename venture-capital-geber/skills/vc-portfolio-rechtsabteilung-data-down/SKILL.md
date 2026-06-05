@@ -7,11 +7,11 @@ description: "Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `vc-091-portfolio-legal-calendar` | Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden. |
 | `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Ro
 
 ## Arbeitsweg
 
-Für **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `vc-091-portfolio-legal-calendar`
 

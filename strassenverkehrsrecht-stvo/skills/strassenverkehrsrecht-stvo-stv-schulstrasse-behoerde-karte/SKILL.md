@@ -1,27 +1,27 @@
 ---
 name: strassenverkehrsrecht-stvo-stv-schulstrasse-behoerde-karte
-description: "Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `stv-098-schulstrasse-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Schulstraße: Behörde anschreiben. Behörde anschreiben für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-099-schulstrasse-karte-bauen` | Straßenverkehrsrecht StVO: Schulstraße: Karte bauen. Karte bauen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-Für **Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stv Schulstrasse Behoerde Anschreiben / Stv Schulstrasse Karte Bauen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strassenverkehrsrecht-stvo` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `stv-098-schulstrasse-behoerde-anschreiben`
 

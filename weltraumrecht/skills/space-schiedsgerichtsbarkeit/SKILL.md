@@ -7,11 +7,11 @@ description: "Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Spa
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Space Law Opinion Für Investoren, Space 062 Risikomatrix Raumfahrt Startup, Space 063 Compliance Handbuch Satellitenbetreiber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Space Law Opinion Für Investoren, Space 062 Risikomatrix Raumfahrt Startup, Space 063 Compliance Handbuch Satellitenbetreiber** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `space-060-schiedsgerichtsbarkeit-raumfahrtvertraege` | Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. |
 | `space-061-space-law-opinion-fuer-investoren` | Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Spa
 
 ## Arbeitsweg
 
-Für **Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Space Law Opinion Für Investoren, Space 062 Risikomatrix Raumfahrt Startup, Space 063 Compliance Handbuch Satellitenbetreiber** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Space Law Opinion Für Investoren, Space 062 Risikomatrix Raumfahrt Startup, Space 063 Compliance Handbuch Satellitenbetreiber** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weltraumrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `space-060-schiedsgerichtsbarkeit-raumfahrtvertraege`
 

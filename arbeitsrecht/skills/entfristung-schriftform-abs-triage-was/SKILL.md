@@ -7,11 +7,11 @@ description: "Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papierunterschrift nach § 126 BGB oder echte qualifizierte elektronische Signatur nach § 126a BGB prüfen; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet. |
 | `entfristung-triage-was-will-user` | Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung T
 
 ## Arbeitsweg
 
-Für **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `entfristung-schriftform-14-abs-4-erkennen`
 

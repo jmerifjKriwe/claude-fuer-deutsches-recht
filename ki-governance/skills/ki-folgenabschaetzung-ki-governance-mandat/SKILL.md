@@ -7,11 +7,11 @@ description: "Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Manda
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ki-folgenabschaetzung` | KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis. |
 | `ki-governance-anpassen` | Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt "ändere mein [Ding]", "Profil aktualisieren", "Konfiguration bearbeiten", "Playbook anpassen" oder "anpassen". |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Govern
 
 ## Arbeitsweg
 
-Für **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ki-folgenabschaetzung`
 

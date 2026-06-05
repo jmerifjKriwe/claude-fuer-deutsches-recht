@@ -7,11 +7,11 @@ description: "Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-weg-restaurant-geruch-laerm` | Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-weg-sondereigentum-gemeinschaftseigentum` | Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinsc
 
 ## Arbeitsweg
 
-Für **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-weg-restaurant-geruch-laerm`
 

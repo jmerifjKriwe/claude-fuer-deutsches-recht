@@ -7,11 +7,11 @@ description: "Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk Empirie Nut
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk Empirie Nutzen, Strafr Dysfunk Erklaerungsrecht 257 Stpo, Strafr Dysfunk Hinweis Auf Heilbaren Fehler, Strafr Dysfunk Institutsmissbrauch Kritik und 5 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk Empirie Nutzen, Strafr Dysfunk Erklaerungsrecht 257 Stpo, Strafr Dysfunk Hinweis Auf Heilbaren Fehler, Strafr Dysfunk Institutsmissbrauch Kritik und 5 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `strafr-dysfunk-darlegungslast-umkehren` | Darlegungs- und Substantiierungslast fuer den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen. |
 | `strafr-dysfunk-empirie-nutzen` | Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen. Praxiserhebungen an Oberlandesgerichten und Diplomarbeiten zeigen sehr geringe Fallzahlen problematischer Verteidigung. Wer Dysfunktionalitaet behauptet hat empirische Darlegungslast. Daten zu Verfahren mit hoher Beweisantragszahl Befangenheitsantraegen und tatsaechlichem Missbrauch. Argumentation in Schriftsatz und mediennaher Auseinandersetzung. Quellen vor Verwendung verifizieren. |
@@ -26,10 +26,10 @@ Dieser Skill bündelt **Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk E
 
 ## Arbeitsweg
 
-Für **Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk Empirie Nutzen, Strafr Dysfunk Erklaerungsrecht 257 Stpo, Strafr Dysfunk Hinweis Auf Heilbaren Fehler, Strafr Dysfunk Institutsmissbrauch Kritik und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafr Dysfunk Darlegungslast Umkehren, Strafr Dysfunk Empirie Nutzen, Strafr Dysfunk Erklaerungsrecht 257 Stpo, Strafr Dysfunk Hinweis Auf Heilbaren Fehler, Strafr Dysfunk Institutsmissbrauch Kritik und 5 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `strafr-dysfunk-darlegungslast-umkehren`
 

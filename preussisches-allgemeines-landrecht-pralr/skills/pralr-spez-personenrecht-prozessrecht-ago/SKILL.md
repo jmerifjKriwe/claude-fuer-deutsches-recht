@@ -7,11 +7,11 @@ description: "Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessrecht Ago 1793, Pralr Spez Sklavenrecht Alr Ii 5 196 197, Pralr Spez Sklavenrecht Rechtsvergleich Somerset Code Noir, Pralr Spez Sklaverei Aufhebung Und Edikte 1807 1857** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessrecht Ago 1793, Pralr Spez Sklavenrecht Alr Ii 5 196 197, Pralr Spez Sklavenrecht Rechtsvergleich Somerset Code Noir, Pralr Spez Sklaverei Aufhebung Und Edikte 1807 1857** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-spez-personenrecht-kuriositaeten-im-alr` | ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix. |
 | `pralr-spez-prozessrecht-ago-1793` | Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spe
 
 ## Arbeitsweg
 
-Für **Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessrecht Ago 1793, Pralr Spez Sklavenrecht Alr Ii 5 196 197, Pralr Spez Sklavenrecht Rechtsvergleich Somerset Code Noir, Pralr Spez Sklaverei Aufhebung Und Edikte 1807 1857** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessrecht Ago 1793, Pralr Spez Sklavenrecht Alr Ii 5 196 197, Pralr Spez Sklavenrecht Rechtsvergleich Somerset Code Noir, Pralr Spez Sklaverei Aufhebung Und Edikte 1807 1857** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-spez-personenrecht-kuriositaeten-im-alr`
 

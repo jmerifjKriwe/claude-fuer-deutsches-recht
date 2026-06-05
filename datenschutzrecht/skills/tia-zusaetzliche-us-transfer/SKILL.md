@@ -7,11 +7,11 @@ description: "Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` | Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung. |
 | `us-transfer-tia-dokumentation` | US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymis
 
 ## Arbeitsweg
 
-Für **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`
 

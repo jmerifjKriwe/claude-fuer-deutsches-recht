@@ -7,11 +7,11 @@ description: "Ip License 365n, Landlord Tenant Retail, Mass Tort Bankruptcy, Mea
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ip License 365N, Landlord Tenant Retail, Mass Tort Bankruptcy, Means Test 707B** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ip License 365N, Landlord Tenant Retail, Mass Tort Bankruptcy, Means Test 707B** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ip-license-365n` | Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments. |
 | `landlord-tenant-retail` | Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ip License 365N, Landlord Tenant Retail, Mass Tort Bankr
 
 ## Arbeitsweg
 
-Für **Ip License 365N, Landlord Tenant Retail, Mass Tort Bankruptcy, Means Test 707B** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ip License 365N, Landlord Tenant Retail, Mass Tort Bankruptcy, Means Test 707B** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ip-license-365n`
 

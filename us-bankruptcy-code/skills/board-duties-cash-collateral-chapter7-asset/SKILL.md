@@ -7,11 +7,11 @@ description: "Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distributio
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `board-duties-zone` | Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. |
 | `cash-collateral-363` | Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Board Duties Zone, Cash Collateral 363, Chapter7 Asset D
 
 ## Arbeitsweg
 
-Für **Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-bankruptcy-code` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `board-duties-zone`
 

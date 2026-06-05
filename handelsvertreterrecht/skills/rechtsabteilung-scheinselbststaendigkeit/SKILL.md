@@ -7,11 +7,11 @@ description: "Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Re
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters` | Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `reporting-pflichten` | Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvert
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters`
 

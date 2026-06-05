@@ -7,11 +7,11 @@ description: "Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Er
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums` | PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac` | PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums
 
 ## Arbeitsweg
 
-Für **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums`
 

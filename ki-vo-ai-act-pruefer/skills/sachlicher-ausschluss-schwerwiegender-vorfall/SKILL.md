@@ -7,11 +7,11 @@ description: "Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `sachlicher-ausschluss-art-2-abs-3-bis-12` | Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich). |
 | `schwerwiegender-vorfall-art-73-playbook` | Schwerwiegender KI-Vorfall nach Art. 73 KI-VO: Erkennen, Stabilisieren, Melden, Ursachenanalyse, Nutzerkommunikation, Marktaufsicht, Produkthaftungs-/DSGVO-Schnittstellen und Vorstandslagebild. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegende
 
 ## Arbeitsweg
 
-Für **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `sachlicher-ausschluss-art-2-abs-3-bis-12`
 

@@ -7,11 +7,11 @@ description: "Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tat
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-treuhandkonto-behoerden-gericht-und-registerweg` | Treuhandkonto: Behörden-, Gerichts- oder Registerweg im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-versteigerung-tatbestand-beweis-und-belege` | Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Treuhandkonto Behörden Gericht Und Registerweg, Verstei
 
 ## Arbeitsweg
 
-Für **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-treuhandkonto-behoerden-gericht-und-registerweg`
 

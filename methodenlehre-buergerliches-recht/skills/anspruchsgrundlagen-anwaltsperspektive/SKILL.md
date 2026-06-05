@@ -7,24 +7,24 @@ description: "Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltspers
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht. |
 | `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen. |
-| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess. |
+| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess. |
 | `spezial-buergerliches-abschlussprodukt-und-uebergabe` | Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation. |
-| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Dieses Skill verbindet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen. |
+| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen. |
 
 ## Arbeitsweg
 
-Für **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg`
 
@@ -211,7 +211,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `spezial-auslegung-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
+**Fokus:** Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
 
 # Auslegung, Verhandlung, Vergleich und Eskalation
 
@@ -234,7 +234,7 @@ Die anwaltliche Begleitung von Konflikten umfasst mehr als Rechtsprüfung: Sie v
 
 ## Erste Schritte
 
-1. Lege die Vertragsgrundlage aus: Wortlaut, Systematik, Entstehungsgeschichte und Zweck (§§ 133, 157 BGB); bestimme das Range der vertretbaren Auslegungsergebnisse.
+1. Lege die Vertragsgrundlage aus: Wortlaut, Systematik, fachliche Einordnung und Zweck (§§ 133, 157 BGB); bestimme das Range der vertretbaren Auslegungsergebnisse.
 2. Übersetze das Auslegungsergebnis in eine Verhandlungsposition: Bestimme Mindestposition, Zielposition und Konzessionsspielraum.
 3. Analysiere die BATNA (Best Alternative to a Negotiated Agreement) beider Seiten, um die Einigungszone zu bestimmen.
 4. Entwerfe einen Vergleichsentwurf, der die Interessen beider Seiten berücksichtigt und vollstreckbar formuliert ist.
@@ -396,7 +396,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `spezial-gutachtenstil-risikoampel-und-gegenargumente`
 
-**Fokus:** Dieses Skill verbindet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen.
+**Fokus:** Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen.
 
 # Gutachtenstil, Risikoampel und Gegenargumente
 
@@ -468,7 +468,7 @@ Das Skill liefert ein zweiteiliges Gutachten: Teil 1 enthält die eigene Argumen
 Die Risikoampel ist kein wissenschaftliches Instrument, sondern ein kommunikatives Hilfsmittel, das komplexe
 Rechtsunsicherheiten für Mandanten greifbar macht. Ihre Aussagekraft hängt davon ab, dass die zugrunde
 liegende Argumentation methodisch solide ist. Eine rote Ampel ohne methodische Begründung ist ebenso nutzlos
-wie eine grüne Ampel ohne Auseinandersetzung mit den stärksten Gegenargumenten. Das Skill verbindet daher
+wie eine grüne Ampel ohne Auseinandersetzung mit den stärksten Gegenargumenten. Das Skill bearbeitet daher
 immer Ampeleinstufung und methodische Begründung.
 
 ## Praktische Anwendungshinweise

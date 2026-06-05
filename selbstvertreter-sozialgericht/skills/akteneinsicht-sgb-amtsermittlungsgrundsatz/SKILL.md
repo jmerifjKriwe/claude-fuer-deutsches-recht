@@ -7,11 +7,11 @@ description: "Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtu
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `akteneinsicht-25-sgb-x` | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage. |
 | `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg
 
 ## Arbeitsweg
 
-Für **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `akteneinsicht-25-sgb-x`
 

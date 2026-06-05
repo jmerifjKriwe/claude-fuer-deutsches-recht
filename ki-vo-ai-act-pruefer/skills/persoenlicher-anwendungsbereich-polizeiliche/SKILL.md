@@ -7,11 +7,11 @@ description: "Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vert
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `persoenlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). |
 | `polizeiliche-ki-vertrauenswuerdigkeit-din-spec` | Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeilic
 
 ## Arbeitsweg
 
-Für **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `persoenlicher-anwendungsbereich-rollen-art-3`
 

@@ -7,11 +7,11 @@ description: "Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung` | Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen. |
 | `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu` | Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unte
 
 ## Arbeitsweg
 
-Für **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `notariat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung`
 

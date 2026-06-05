@@ -7,11 +7,11 @@ description: "Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kir
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `beistand-im-kirchlichen-strafverfahren` | Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `beweis-und-urkunden-im-kirchlichen-verfahren` | Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkun
 
 ## Arbeitsweg
 
-Für **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisch-katholisches-kirchenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `beistand-im-kirchlichen-strafverfahren`
 

@@ -7,11 +7,11 @@ description: "Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `software-ip-chain-of-title` | Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten. |
 | `software-mna-dd` | Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Software Ip Chain Of Title, Software Mna Dd, Software Po
 
 ## Arbeitsweg
 
-Für **Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `software-ip-chain-of-title`
 

@@ -7,11 +7,11 @@ description: "Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, 
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bafoeg-bescheide-widerspruch` | BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage. |
 | `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widersp
 
 ## Arbeitsweg
 
-Für **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bafoeg-bescheide-widerspruch`
 

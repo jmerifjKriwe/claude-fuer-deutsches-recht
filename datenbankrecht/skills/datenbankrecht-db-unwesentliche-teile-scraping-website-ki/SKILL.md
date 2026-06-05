@@ -1,17 +1,17 @@
 ---
 name: datenbankrecht-db-unwesentliche-teile-scraping-website-ki
-description: "Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
 # Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `db-005-unwesentliche-teile-wiederholte-systematische-entnahme` | Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte und systematische Entnahme unwesentlicher Teile als verbotene Umgehungsstrategie. Prüft Regelmäßigkeit, Automatisierung und wirtschaftliche Auswirkung anhand Art. 7 Abs. 5 RL 96/9/EG und EuGH-Rechtsprechung. Bewertet Crawling-Muster und erstellt Nachweisstrategie. |
 | `db-006-scraping-website-datenbank-und-robots-txt` | Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Scraper. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Db Unwesentliche Teile Wiederholte Systematische / Db Sc
 
 ## Arbeitsweg
 
-Für **Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Db Unwesentliche Teile Wiederholte Systematische / Db Scraping Website Datenbank Robots / Db KI Training Datenbankbestand** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenbankrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `db-005-unwesentliche-teile-wiederholte-systematische-entnahme`
 

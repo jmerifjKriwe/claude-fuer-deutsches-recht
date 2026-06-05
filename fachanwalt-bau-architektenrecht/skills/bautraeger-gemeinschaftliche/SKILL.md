@@ -7,11 +7,11 @@ description: "Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Gru
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `bautraeger-gemeinschaftliche-maengelverfolgung-weg` | Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster. |
 | `bautraeger-grundbuchaufflassung-925-bgb` | Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Baut
 
 ## Arbeitsweg
 
-Für **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `bautraeger-gemeinschaftliche-maengelverfolgung-weg`
 

@@ -7,11 +7,11 @@ description: "Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Expo
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `ihl-031-praeferenzursprung-und-lieferantenerklaerung` | Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX). |
 | `ihl-032-exportkontrolle-dual-use` | Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich. |
@@ -20,10 +20,10 @@ Dieser Skill bündelt **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ih
 
 ## Arbeitsweg
 
-Für **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `ihl-031-praeferenzursprung-und-lieferantenerklaerung`
 

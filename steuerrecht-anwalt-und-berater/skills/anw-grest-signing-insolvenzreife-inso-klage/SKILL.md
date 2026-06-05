@@ -7,17 +7,17 @@ description: "Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Pr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `anw-grest-signing-closing-doppelfestsetzung` | GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung. |
-| `anw-insolvenzreife-pruefung-17-19-inso` | Arbeitsmodul zu anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anw-insolvenzreife-pruefung-17-19-inso` | Prüffeld für anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `anw-klage-finanzgericht` | Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde. |
-| `anw-organschaft-konzern-grundlagen` | Arbeitsmodul zu anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `anw-tatsaechliche-verstaendigung-schlussbesprechung` | Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anw-organschaft-konzern-grundlagen` | Prüffeld für anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anw-tatsaechliche-verstaendigung-schlussbesprechung` | Prüffeld für anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fa-stu-anteilstausch-21-umwstg` | Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kapitalgesellschaft. Behandelt qualifizierter Anteilstausch Wertansatzwahl Sperrfristen § 22 Abs. 2 UmwStG sieben Jahre und Folge einer schaedlichen Veraeusserung. Output Pruefraster und Vereinbarungsmuster. Abgrenzung zu fa-stu-umwandlung-formwechsel-umwstg. |
 | `fa-stu-aussenpruefung-anordnung-pruefung` | Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung. |
 | `fa-stu-aussenwirtschaftsembargo` | Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an gelistete Personen. Behandelt Genehmigungspflichten Catch-all-Klausel und das deutsche Strafrecht § 17 § 18 AWG. Output Pruefraster und Strategie bei Ermittlungsverfahren. Abgrenzung zu fa-stu-zollwert-unionszollkodex. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolve
 
 ## Arbeitsweg
 
-Für **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `anw-grest-signing-closing-doppelfestsetzung`
 
@@ -96,7 +96,7 @@ Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der ak
 
 ## 2. `anw-insolvenzreife-pruefung-17-19-inso`
 
-**Fokus:** Arbeitsmodul zu anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
 
@@ -556,7 +556,7 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 
 ## 4. `anw-organschaft-konzern-grundlagen`
 
-**Fokus:** Arbeitsmodul zu anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
 
@@ -730,7 +730,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `anw-tatsaechliche-verstaendigung-schlussbesprechung`
 
-**Fokus:** Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüffeld für anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich
 

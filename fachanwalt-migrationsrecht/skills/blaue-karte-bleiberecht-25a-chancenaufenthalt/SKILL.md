@@ -7,11 +7,11 @@ description: "Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberec
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `spezial-blaue-karte-eu-mobilitaet` | Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-blaue-karte-gehalt-abschluss` | Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -21,10 +21,10 @@ Dieser Skill bündelt **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss,
 
 ## Arbeitsweg
 
-Für **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `spezial-blaue-karte-eu-mobilitaet`
 

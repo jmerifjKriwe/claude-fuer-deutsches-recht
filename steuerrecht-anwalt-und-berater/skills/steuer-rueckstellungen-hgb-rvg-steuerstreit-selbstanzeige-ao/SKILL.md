@@ -1,17 +1,17 @@
 ---
 name: steuer-rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao
-description: "Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 weitere Module: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
+description: "Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output."
 ---
 
-# Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 weitere Module
+# Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 ergänzende Prüffelder
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 weitere Module**. Wähle zuerst das Modul, dessen Tatsachen die Akte tragen; kombiniere weitere Module nur, wenn dieselbe Frist, Zuständigkeit, Beweislast oder derselbe Output dadurch wirklich klarer wird.
+In diesem Skill wird **Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 ergänzende Prüffelder** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `fa-stu-rueckstellungen-249-hgb` | Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz. |
 | `fa-stu-rvg-steuerstreit` | Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme. |
@@ -25,10 +25,10 @@ Dieser Skill bündelt **Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige A
 
 ## Arbeitsweg
 
-Für **Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 weitere Module** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rueckstellungen Hgb / Rvg Steuerstreit / Selbstanzeige AO / Stberg Vereinbare Taetigkeit / 5 ergänzende Prüffelder** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `steuerrecht-anwalt-und-berater` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `fa-stu-rueckstellungen-249-hgb`
 

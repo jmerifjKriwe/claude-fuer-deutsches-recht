@@ -7,11 +7,11 @@ description: "Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrig
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** zu einem konkreten Arbeitsgang. Starte mit dem Modul, das die Tatsachen der Akte trägt; weitere Module nur hinzunehmen, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output betreffen.
+In diesem Skill wird **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** als eigenständiger Arbeitsgang geprüft und in ein belastbares Arbeitsergebnis überführt. Die Prüffelder werden nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert.
 
-## Arbeitsmodule
+## Prüffelder
 
-| Arbeitsmodul | Fokus |
+| Prüffeld | Fokus |
 | --- | --- |
 | `mehrfachansatz-ausschluesse-nebeneinanderberechnung` | Mehrfachansatz Ausschlüsse Nebeneinanderberechnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `minderjaehrige-einwilligung-rechnung-schuldner` | Minderjährige Einwilligung Rechnung Schuldner: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
@@ -19,10 +19,10 @@ Dieser Skill bündelt **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Min
 
 ## Arbeitsweg
 
-Für **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mehrfachansatz Ausschluesse Nebeneinanderberechnung, Minderjaehrige Einwilligung Rechnung Schuldner, Notfall Behandlung Ausserhalb Sprechstunde** zuerst das tragende Prüffeld bestimmen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; ergänzende Prüffelder nur nutzen, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
-## Arbeitsmodule im Detail
+## Prüffelder im Detail
 
 ## 1. `mehrfachansatz-ausschluesse-nebeneinanderberechnung`
 
