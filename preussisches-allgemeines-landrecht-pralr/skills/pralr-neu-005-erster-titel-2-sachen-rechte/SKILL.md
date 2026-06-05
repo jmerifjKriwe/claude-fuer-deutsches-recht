@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-005-erster-titel-2-sachen-rechte
-description: "PrALR: Erster Teil Titel 2 Sachen und Rechte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 2 Sachen und Rechte im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 2 Sachen und Rechte im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 2 Sachen und Rechte

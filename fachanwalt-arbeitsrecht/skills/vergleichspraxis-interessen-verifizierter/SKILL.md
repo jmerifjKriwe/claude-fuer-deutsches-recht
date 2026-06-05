@@ -1,14 +1,13 @@
 ---
 name: vergleichspraxis-interessen-verifizierter
-description: "Vergleichspraxis Interessen Verifizierter: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arbeitsrecht: prüft konkret Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Vergleichspraxis Interessen Verifizierter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Vergleichspraxis Interessen Verifizierter** im Plugin Fachanwalt Arbeitsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Vergleichspraxis Interessen Verifizierter** als zusammenhängenden Arbeitsgang im Plugin Fachanwalt Arbeitsrecht. Im Mittelpunkt steht die Prüfung von Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -19,9 +18,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Vergleichsp
 
 ## Arbeitsweg
 
-Im Plugin Fachanwalt Arbeitsrecht gilt für **Vergleichspraxis Interessen Verifizierter**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen`

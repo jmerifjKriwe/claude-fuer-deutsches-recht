@@ -1,6 +1,6 @@
 ---
 name: rom-neu-030-red-team-antike-quelle-modern
-description: "Rom Red Team Antike Quelle Modern Ueberdehnt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht: prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Rom Red Team Antike Quelle Modern Ueberdehnt

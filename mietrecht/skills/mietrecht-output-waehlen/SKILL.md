@@ -1,6 +1,6 @@
 ---
 name: mietrecht-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Mietrecht: Diese Output-Weiche für Mietrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

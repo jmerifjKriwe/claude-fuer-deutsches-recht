@@ -1,14 +1,13 @@
 ---
 name: pfarrbrief-katechetisch-pfarrei-pfarrer
-description: "Pfarrbrief Katechetisch Pfarrei Pfarrer: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Pfarrbrief Katechetisch Pfarrei Pfarrer im Römisch-katholischen Kirchenrecht: prüft konkret Pfarrbrief katechetisch und lehrtreu, Pfarrei, Pfarrer und Gremien, Pfarrer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Pfarrbrief Katechetisch Pfarrei Pfarrer
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Pfarrbrief Katechetisch Pfarrei Pfarrer** im Plugin Roemisch Katholisches Kirchenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Pfarrbrief Katechetisch Pfarrei Pfarrer** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Pfarrbrief katechetisch und lehrtreu, Pfarrei, Pfarrer und Gremien und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

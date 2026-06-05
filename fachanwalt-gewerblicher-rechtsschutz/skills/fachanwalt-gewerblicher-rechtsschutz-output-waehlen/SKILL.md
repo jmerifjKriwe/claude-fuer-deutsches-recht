@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Fachanwalt Gewerblicher Rechtsschutz: Diese Output-Weiche für Fachanwalt Gewerblicher Rechtsschutz entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

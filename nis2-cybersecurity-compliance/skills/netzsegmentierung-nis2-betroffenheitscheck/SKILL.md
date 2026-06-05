@@ -1,14 +1,13 @@
 ---
 name: netzsegmentierung-nis2-betroffenheitscheck
-description: "Netzsegmentierung Nis2 Betroffenheitscheck: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Netzsegmentierung Nis2 Betroffenheitscheck im NIS2-Cybersecurity-Compliance: prüft konkret Prüft Netzsegmentierung und Trennung kritischer Systeme, Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG, Mappt NIST CSF auf deutsche und EU-Anforderungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Netzsegmentierung Nis2 Betroffenheitscheck
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Netzsegmentierung Nis2 Betroffenheitscheck** im Plugin Nis2 Cybersecurity Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Netzsegmentierung Nis2 Betroffenheitscheck** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Prüft Netzsegmentierung und Trennung kritischer Systeme, Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

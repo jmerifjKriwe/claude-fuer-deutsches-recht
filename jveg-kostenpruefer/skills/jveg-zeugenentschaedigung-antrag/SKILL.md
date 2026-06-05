@@ -1,6 +1,6 @@
 ---
 name: jveg-zeugenentschaedigung-antrag
-description: "Zeugenentschaedigung Antrag: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung: Dieser Skill arbeitet Zeugenentschaedigung Antrag als zusammenhängenden Arbeitsgang im Plugin JVEG-Kostenprüfer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zeugenentschaedigung Antrag

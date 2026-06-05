@@ -1,14 +1,13 @@
 ---
 name: schnittstelle-interessen-trade-beweislast
-description: "Schnittstelle Interessen Trade Beweislast: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Schnittstelle Interessen Trade Beweislast im Internationalen Wirtschaftsrecht: prüft konkret Schnittstelle, Trade, Uncitral. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Schnittstelle Interessen Trade Beweislast
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Schnittstelle Interessen Trade Beweislast** im Plugin Fachanwalt Internationales Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Schnittstelle Interessen Trade Beweislast** als zusammenhängenden Arbeitsgang im Internationalen Wirtschaftsrecht. Im Mittelpunkt steht die Prüfung von Schnittstelle, Trade, Uncitral. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

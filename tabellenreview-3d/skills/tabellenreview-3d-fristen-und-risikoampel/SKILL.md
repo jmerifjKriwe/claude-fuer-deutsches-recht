@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-fristen-und-risikoampel
-description: "Fristen- und Risikoampel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Fristen- und Risikoampel im Plugin Tabellenreview 3D: prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Fristen- und Risikoampel

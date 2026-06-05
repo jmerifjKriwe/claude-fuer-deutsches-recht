@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-vertragsstapel-internationaler-bezug
-description: "Vertragsstapel: Internationaler Bezug und Schnittstellen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Vertragsstapel: Internationaler Bezug und Schnittstellen im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
 ---
 
 # Vertragsstapel: Internationaler Bezug und Schnittstellen

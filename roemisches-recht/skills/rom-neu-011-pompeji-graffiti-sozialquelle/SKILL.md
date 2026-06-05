@@ -1,6 +1,6 @@
 ---
 name: rom-neu-011-pompeji-graffiti-sozialquelle
-description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht: Dieser Skill bearbeitet Pompeji Graffiti als Rechts- und Sozialquelle im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle

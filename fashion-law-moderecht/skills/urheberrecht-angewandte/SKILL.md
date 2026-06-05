@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Urheberrecht Angewandte im Fashion Law (Moderecht): Dieser Skill arbeitet Urheberrecht Angewandte als zusammenhängenden Arbeitsgang im Plugin Fashion Law Moderecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Urheberrecht Angewandte

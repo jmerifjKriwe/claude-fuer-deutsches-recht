@@ -1,6 +1,6 @@
 ---
 name: anlagen-zu-schriftsaetzen-fristen-und-risikoampel
-description: "Fristen- und Risikoampel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Fristen- und Risikoampel im Plugin Anlagen Zu Schriftsaetzen: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
 ---
 
 # Fristen- und Risikoampel

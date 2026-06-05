@@ -1,6 +1,6 @@
 ---
 name: rom-neu-012-byzantinisches-theodosianus
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Dieser Skill bearbeitet Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

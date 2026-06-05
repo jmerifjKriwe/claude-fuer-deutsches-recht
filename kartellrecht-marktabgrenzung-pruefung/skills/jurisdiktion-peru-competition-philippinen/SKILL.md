@@ -1,14 +1,13 @@
 ---
 name: jurisdiktion-peru-competition-philippinen
-description: "Jurisdiktion Peru Competition Philippinen: bündelt 14 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Jurisdiktion Peru Competition Philippinen im Kartellrecht (Marktabgrenzung): prüft konkret Jurisdiktionsskill Peru, Jurisdiktionsskill Philippinen, Jurisdiktionsskill Polen, Jurisdiktionsskill Portugal. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Jurisdiktion Peru Competition Philippinen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 14 sachlich verwandte Arbeitsschritte rund um **Jurisdiktion Peru Competition Philippinen** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Jurisdiktion Peru Competition Philippinen** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Jurisdiktionsskill Peru, Jurisdiktionsskill Philippinen, Jurisdiktionsskill Polen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

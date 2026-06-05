@@ -1,14 +1,13 @@
 ---
 name: forsch-stundenaufzeichnung-fz-ablehnung
-description: "Forsch Stundenaufzeichnung FZ Ablehnung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Forsch Stundenaufzeichnung FZ Ablehnung im Forschungszulage-Antragstellung: prüft konkret Leitfaden Stundenaufzeichnung FZulG, Ablehnung oder Nachforderung bei Forschungszulage, Bemessungsgrundlage Forschungszulage ab 2026 belastbar. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Forsch Stundenaufzeichnung FZ Ablehnung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Forsch Stundenaufzeichnung FZ Ablehnung** im Plugin Forschungszulage (FZulG). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Forsch Stundenaufzeichnung FZ Ablehnung** als zusammenhängenden Arbeitsgang im Forschungszulage-Antragstellung. Im Mittelpunkt steht die Prüfung von Leitfaden Stundenaufzeichnung FZulG, Ablehnung oder Nachforderung bei Forschungszulage, Bemessungsgrundlage Forschungszulage ab 2026 belastbar. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -19,9 +18,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Forsch Stun
 
 ## Arbeitsweg
 
-Im Plugin Forschungszulage (FZulG) gilt für **Forsch Stundenaufzeichnung FZ Ablehnung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Forschungszulage (FZulG) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: FZulG § 5 Antrag nach Ablauf des Wirtschaftsjahres, 4-jährige Festsetzungsverjährung, BSFZ-Bescheinigung Voraussetzung, Anrechnung beim FA.
+- Tragende Normen verifizieren: FZulG §§ 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG (Anrechnung), EU-AGVO (VO 651/2014), Frascati-Handbuch, BSFZ-Richtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anspruchsberechtigtes Unternehmen, Bescheinigungsstelle Forschungszulage (BSFZ), Finanzamt (Festsetzung/Verrechnung), Wirtschaftsprüfer/Steuerberater.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: BSFZ-Antrag, FuE-Projektbeschreibung, Personalstundenaufzeichnung, Auftragsforschungsvertrag, FA-Antrag auf Forschungszulage, BSFZ-Bescheinigung, FA-Bescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `forsch-stundenaufzeichnung-leitfaden`

@@ -1,14 +1,13 @@
 ---
 name: khub-kanzlei-coi-onboarding-bauleiter
-description: "Khub Kanzlei COI Onboarding Bauleiter: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Khub Kanzlei COI Onboarding Bauleiter im Kanzlei-Aufbau: prüft konkret Spezialfall Conflicts-of-Interest-Matrix in Boutique- und, Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden, Checkliste Leistungsmatrix Mandanten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Khub Kanzlei COI Onboarding Bauleiter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Khub Kanzlei COI Onboarding Bauleiter** im Plugin Kanzlei-Builder-Hub. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Khub Kanzlei COI Onboarding Bauleiter** als zusammenhängenden Arbeitsgang im Kanzlei-Aufbau. Im Mittelpunkt steht die Prüfung von Spezialfall Conflicts-of-Interest-Matrix in Boutique- und, Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden, Checkliste Leistungsmatrix Mandanten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

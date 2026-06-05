@@ -1,14 +1,13 @@
 ---
 name: risikoklassen-uebersicht-rolle-anbieter
-description: "Risikoklassen Uebersicht Rolle Anbieter: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Risikoklassen Uebersicht Rolle Anbieter im EU KI-VO (AI Act): prüft konkret Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art, Unternehmen das Software oder KI entwickelt fragt, Unternehmen kauft oder lizenziert ein KI-System von einem, Prueft nach positiver Anhang-III-Zuordnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Risikoklassen Uebersicht Rolle Anbieter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Risikoklassen Uebersicht Rolle Anbieter** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Risikoklassen Uebersicht Rolle Anbieter** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art, Unternehmen das Software oder KI entwickelt fragt, Unternehmen kauft oder lizenziert ein KI-System von einem und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

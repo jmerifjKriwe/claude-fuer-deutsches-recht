@@ -1,6 +1,6 @@
 ---
 name: rom-neu-021-roemisches-sachenrecht
-description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht: Dieser Skill bearbeitet Römisches Sachenrecht im mittelalterlichen Lehnskontext im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext

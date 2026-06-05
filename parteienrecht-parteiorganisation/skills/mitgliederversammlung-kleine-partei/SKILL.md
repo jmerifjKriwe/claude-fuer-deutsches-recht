@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-partei
-description: "Kleine Partei Praxis: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Kleine Partei Praxis im Parteienrecht: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt? 4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?"
 ---
 
 # Kleine Partei Praxis

@@ -1,6 +1,6 @@
 ---
 name: beirat-informationsrechte
-description: "Beirat Informationsrechte: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Informationsrechte im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Beirat Informationsrechte

@@ -1,14 +1,13 @@
 ---
 name: rechtsabteilung-hr-ai-ki
-description: "Rechtsabteilung HR AI KI: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Rechtsabteilung HR AI KI im EU KI-VO (AI Act): prüft konkret Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem, Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung, Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach, Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Rechtsabteilung HR AI KI
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Rechtsabteilung HR AI KI** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Rechtsabteilung HR AI KI** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem, Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung, Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

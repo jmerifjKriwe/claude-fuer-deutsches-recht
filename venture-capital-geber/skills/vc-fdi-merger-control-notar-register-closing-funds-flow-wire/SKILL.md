@@ -1,14 +1,13 @@
 ---
 name: vc-fdi-merger-control-notar-register-closing-funds-flow-wire
-description: "VC FDI Merger Control Notar Register Closing Funds Flow Wire: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC FDI Merger Control Notar Register Closing Funds Flow Wire im Venture Capital: prüft konkret Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausländische Invest. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC FDI Merger Control Notar Register Closing Funds Flow Wire
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC FDI Merger Control Notar Register Closing Funds Flow Wire** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC FDI Merger Control Notar Register Closing Funds Flow Wire** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft, wann Minderheitsrechte, Vetos und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

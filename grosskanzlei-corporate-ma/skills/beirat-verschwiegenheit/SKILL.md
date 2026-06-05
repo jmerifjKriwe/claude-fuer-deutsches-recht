@@ -1,6 +1,6 @@
 ---
 name: beirat-verschwiegenheit
-description: "Beirat Verschwiegenheit: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Verschwiegenheit im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Beirat Verschwiegenheit

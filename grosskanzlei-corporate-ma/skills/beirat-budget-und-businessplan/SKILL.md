@@ -1,6 +1,6 @@
 ---
 name: beirat-budget-und-businessplan
-description: "Beirat Budget Und Businessplan: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Budget Und Businessplan im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Beirat Budget Und Businessplan

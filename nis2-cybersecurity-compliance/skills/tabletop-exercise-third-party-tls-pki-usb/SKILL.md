@@ -1,14 +1,13 @@
 ---
 name: tabletop-exercise-third-party-tls-pki-usb
-description: "Tabletop Exercise Third Party TLS PKI USB: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Tabletop Exercise Third Party TLS PKI USB im NIS2-Cybersecurity-Compliance: prüft konkret Plant Tabletop-Übungen für Cyberkrisen, Prüft Fernwartung durch Lieferanten und Dienstleister, Kontrolliert TLS, PKI und Zertifikatslebenszyklen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Tabletop Exercise Third Party TLS PKI USB
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Tabletop Exercise Third Party TLS PKI USB** im Plugin Nis2 Cybersecurity Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Tabletop Exercise Third Party TLS PKI USB** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Plant Tabletop-Übungen für Cyberkrisen, Prüft Fernwartung durch Lieferanten und Dienstleister, Kontrolliert TLS und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

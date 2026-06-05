@@ -1,14 +1,13 @@
 ---
 name: jurisdiktion-slowakei-competition-slowenien
-description: "Jurisdiktion Slowakei Competition Slowenien: bündelt 14 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Jurisdiktion Slowakei Competition Slowenien im Kartellrecht (Marktabgrenzung): prüft konkret Jurisdiktionsskill Slowakei, Jurisdiktionsskill Slowenien, Jurisdiktionsskill Spanien, Jurisdiktionsskill Sri Lanka. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Jurisdiktion Slowakei Competition Slowenien
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 14 sachlich verwandte Arbeitsschritte rund um **Jurisdiktion Slowakei Competition Slowenien** im Plugin Kartellrecht-Marktabgrenzung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Jurisdiktion Slowakei Competition Slowenien** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Jurisdiktionsskill Slowakei, Jurisdiktionsskill Slowenien, Jurisdiktionsskill Spanien und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

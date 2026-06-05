@@ -1,14 +1,13 @@
 ---
 name: bodenreformland-klage-bewerten
-description: "Bodenreformland Klage Bewerten: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Bodenreformland Klage Bewerten im Einigungsvertrag und Vermögensrecht: prüft konkret Einigungsvertrag und Vermögensrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bodenreformland Klage Bewerten
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Bodenreformland Klage Bewerten** im Plugin Einigungsvertrag Vermoegensrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Bodenreformland Klage Bewerten** als zusammenhängenden Arbeitsgang im Einigungsvertrag und Vermögensrecht. Im Mittelpunkt steht die Prüfung von Einigungsvertrag und Vermögensrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

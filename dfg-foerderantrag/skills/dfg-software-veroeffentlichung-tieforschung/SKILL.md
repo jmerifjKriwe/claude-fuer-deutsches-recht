@@ -1,14 +1,13 @@
 ---
 name: dfg-software-veroeffentlichung-tieforschung
-description: "Software Veroeffentlichung Tieforschung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Software Veroeffentlichung Tieforschung im DFG-Förderantragstellung: prüft konkret Spezialfall Software als Forschungsergebnis, Tierversuchsethik-Pflichten in DFG-Antraegen, DFG-Ablehnung, Gutachten und Entscheidung auswerten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Software Veroeffentlichung Tieforschung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Software Veroeffentlichung Tieforschung** im Plugin DFG-Förderantrag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Software Veroeffentlichung Tieforschung** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Spezialfall Software als Forschungsergebnis, Tierversuchsethik-Pflichten in DFG-Antraegen, DFG-Ablehnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

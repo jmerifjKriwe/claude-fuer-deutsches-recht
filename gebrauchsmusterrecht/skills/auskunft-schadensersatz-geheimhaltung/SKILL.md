@@ -1,14 +1,13 @@
 ---
 name: auskunft-schadensersatz-geheimhaltung
-description: "Auskunft Schadensersatz Geheimhaltung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Auskunft Schadensersatz Geheimhaltung im Gebrauchsmusterrecht: prüft konkret Auskunft, Schadensersatz und Rechnungslegung nach, Geheimhaltung vor Anmeldung steuern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Auskunft Schadensersatz Geheimhaltung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Auskunft Schadensersatz Geheimhaltung** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Auskunft Schadensersatz Geheimhaltung** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Auskunft, Schadensersatz und Rechnungslegung nach, Geheimhaltung vor Anmeldung steuern. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

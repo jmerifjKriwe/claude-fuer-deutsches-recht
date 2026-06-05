@@ -1,14 +1,13 @@
 ---
 name: beschlussvorlagen-partei-bewerberzustimmung
-description: "Beschlussvorlagen Partei Bewerberzustimmung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Beschlussvorlagen Partei Bewerberzustimmung im Parteienrecht: prüft konkret Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Beschlussvorlagen Partei Bewerberzustimmung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Beschlussvorlagen Partei Bewerberzustimmung** im Plugin Parteienrecht Parteiorganisation. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Beschlussvorlagen Partei Bewerberzustimmung** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Formuliert Beschlüsse, Anträge, Satzungsänderungen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -19,9 +18,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Beschlussvo
 
 ## Arbeitsweg
 
-Im Plugin Parteienrecht Parteiorganisation gilt für **Beschlussvorlagen Partei Bewerberzustimmung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Parteienrecht und Parteiorganisation klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: PartG § 23 Rechenschaftsbericht bis 30.09. Folgejahr, § 19a Antrag staatliche Mittel bis 31.01., BWahlG § 18 Beteiligungsanzeige 97. Tag vor Wahl, § 21 Aufstellungsversammlung 32. Tag vor Wahl.
+- Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `beschlussvorlagen-partei`

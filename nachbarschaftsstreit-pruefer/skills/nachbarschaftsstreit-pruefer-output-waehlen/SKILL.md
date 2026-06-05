@@ -1,6 +1,6 @@
 ---
 name: nachbarschaftsstreit-pruefer-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Nachbarschaftsstreit: Diese Output-Weiche für Nachbarschaftsstreit Prüfer entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

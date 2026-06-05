@@ -1,6 +1,6 @@
 ---
 name: ki-governance-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im KI-Governance: Diese Output-Weiche für Ki Governance entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

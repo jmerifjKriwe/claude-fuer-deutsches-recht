@@ -1,14 +1,13 @@
 ---
 name: vc-data-ai-cyber-open-source-software-fintech-crypto-regulated
-description: "VC Data AI Cyber Open Source Software Fintech Crypto Regulated: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC Data AI Cyber Open Source Software Fintech Crypto Regulated im Venture Capital: prüft konkret Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC Data AI Cyber Open Source Software Fintech Crypto Regulated
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Data AI Cyber Open Source Software Fintech Crypto Regulated** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC Data AI Cyber Open Source Software Fintech Crypto Regulated** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -20,9 +19,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Data AI 
 
 ## Arbeitsweg
 
-Im Plugin Venture Capital (Geberseite) gilt für **VC Data AI Cyber Open Source Software Fintech Crypto Regulated**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Venture Capital — Investorenseite klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
+- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `vc-039-data-ai-cyber-dd`

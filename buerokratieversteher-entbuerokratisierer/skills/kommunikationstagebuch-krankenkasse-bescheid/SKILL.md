@@ -1,14 +1,13 @@
 ---
 name: kommunikationstagebuch-krankenkasse-bescheid
-description: "Kommunikationstagebuch Krankenkasse Bescheid: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Kommunikationstagebuch Krankenkasse Bescheid im Bürokratieabbau-Praxis: prüft konkret Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Kommunikationstagebuch Krankenkasse Bescheid
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Kommunikationstagebuch Krankenkasse Bescheid** im Plugin Buerokratieversteher Entbuerokratisierer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Kommunikationstagebuch Krankenkasse Bescheid** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

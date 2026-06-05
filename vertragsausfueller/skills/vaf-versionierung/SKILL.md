@@ -1,6 +1,6 @@
 ---
 name: vaf-versionierung
-description: "VAF Versionierung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "VAF Versionierung im Plugin Vertragsausfueller: Dieser Skill arbeitet VAF Versionierung als zusammenhängenden Arbeitsgang im Plugin Vertragsausfüller ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # VAF Versionierung

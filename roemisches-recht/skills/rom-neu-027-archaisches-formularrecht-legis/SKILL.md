@@ -1,6 +1,6 @@
 ---
 name: rom-neu-027-archaisches-formularrecht-legis
-description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht: Dieser Skill bearbeitet Archaisches Formularrecht legis actiones vertiefen im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Archaisches Formularrecht legis actiones vertiefen

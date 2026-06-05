@@ -1,14 +1,13 @@
 ---
 name: hager-system-internationale-country
-description: "Hager System Internationale Country: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Hager System Internationale Country im Designrecht: prüft konkret Internationale Designregistrierung über das WIPO Hague, Internationale Designstrategie für USA, China, Japan. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Hager System Internationale Country
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Hager System Internationale Country** im Plugin Designrecht / Geschmacksmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Hager System Internationale Country** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Internationale Designregistrierung über das WIPO Hague, Internationale Designstrategie für USA, China. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

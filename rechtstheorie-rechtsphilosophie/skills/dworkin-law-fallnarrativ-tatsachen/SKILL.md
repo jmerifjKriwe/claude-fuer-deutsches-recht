@@ -1,14 +1,13 @@
 ---
 name: dworkin-law-fallnarrativ-tatsachen
-description: "Dworkin LAW Fallnarrativ Tatsachen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Dworkin LAW Fallnarrativ Tatsachen im Rechtstheorie und Rechtsphilosophie: prüft konkret Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ, Tatsachen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Dworkin LAW Fallnarrativ Tatsachen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Dworkin LAW Fallnarrativ Tatsachen** im Plugin Rechtstheorie Rechtsphilosophie. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Dworkin LAW Fallnarrativ Tatsachen** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

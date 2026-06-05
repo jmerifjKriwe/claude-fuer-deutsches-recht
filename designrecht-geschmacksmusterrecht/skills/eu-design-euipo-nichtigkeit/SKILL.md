@@ -1,14 +1,13 @@
 ---
 name: eu-design-euipo-nichtigkeit
-description: "EU Design Euipo Nichtigkeit: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "EU Design Euipo Nichtigkeit im Designrecht: prüft konkret EU-Design beim EUIPO anmelden, Nichtigkeitsantrag gegen ein EU-Design beim EUIPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # EU Design Euipo Nichtigkeit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **EU Design Euipo Nichtigkeit** im Plugin Designrecht / Geschmacksmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **EU Design Euipo Nichtigkeit** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von EU-Design beim EUIPO anmelden, Nichtigkeitsantrag gegen ein EU-Design beim EUIPO. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

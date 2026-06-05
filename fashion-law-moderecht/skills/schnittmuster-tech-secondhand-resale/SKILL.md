@@ -1,14 +1,13 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Schnittmuster Tech Secondhand Resale: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Schnittmuster Tech Secondhand Resale im Fashion Law (Moderecht): prüft konkret Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen, Secondhand, Resale und Vintage rechtlich prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Schnittmuster Tech Secondhand Resale
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Schnittmuster Tech Secondhand Resale** im Plugin Fashion Law Moderecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Schnittmuster Tech Secondhand Resale** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen, Secondhand. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

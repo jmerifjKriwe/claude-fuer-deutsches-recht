@@ -1,6 +1,6 @@
 ---
 name: wissensproblem-dezentrale
-description: "Wissensproblem Dezentrale: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Wissensproblem Dezentrale im Rechtstheorie und Rechtsphilosophie: Dieser Skill arbeitet Wissensproblem Dezentrale als zusammenhängenden Arbeitsgang im Plugin Rechtstheorie Rechtsphilosophie ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Wissensproblem Dezentrale

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-009-erster-titel-6-unerlaubte
-description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

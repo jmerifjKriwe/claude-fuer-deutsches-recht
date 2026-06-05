@@ -1,14 +1,13 @@
 ---
 name: designuebertragung-portfolio-designverletzung
-description: "Designuebertragung Portfolio Designverletzung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Designuebertragung Portfolio Designverletzung im Designrecht: prüft konkret Designübertragung und Portfolio-Transaktion prüfen, Designverletzung anhand des Gesamteindrucks prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Designuebertragung Portfolio Designverletzung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Designuebertragung Portfolio Designverletzung** im Plugin Designrecht / Geschmacksmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Designuebertragung Portfolio Designverletzung** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Designübertragung und Portfolio-Transaktion prüfen, Designverletzung anhand des Gesamteindrucks prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

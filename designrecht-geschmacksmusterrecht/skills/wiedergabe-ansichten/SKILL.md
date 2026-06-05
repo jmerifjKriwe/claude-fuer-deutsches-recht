@@ -1,6 +1,6 @@
 ---
 name: wiedergabe-ansichten
-description: "Wiedergabe Ansichten: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Wiedergabe Ansichten im Designrecht: Dieser Skill arbeitet Wiedergabe Ansichten als zusammenhängenden Arbeitsgang im Plugin Designrecht / Geschmacksmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Wiedergabe Ansichten

@@ -1,14 +1,13 @@
 ---
 name: verkehr-infrastruktur-fristen-risiko-mandant
-description: "Infrastruktur Fristen Risiko Mandant: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Infrastruktur Fristen Risiko Mandant im Verkehrs- und Infrastrukturrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin verkehr-infrastrukturrecht, Red-Team Qualitygate im Plugin verkehr-infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Infrastruktur Fristen Risiko Mandant
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Infrastruktur Fristen Risiko Mandant** im Plugin Verkehr-/Infrastrukturrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Infrastruktur Fristen Risiko Mandant** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin verkehr-infrastrukturrecht, Red-Team Qualitygate im Plugin verkehr-infrastrukturrecht. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

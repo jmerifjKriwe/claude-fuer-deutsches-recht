@@ -1,14 +1,13 @@
 ---
 name: sozialer-humanoider-spielzeug-kinderroboter
-description: "Sozialer Humanoider Spielzeug Kinderroboter: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Sozialer Humanoider Spielzeug Kinderroboter im Robotik- und KI-Recht: prüft konkret Prüft soziale/humanoide Roboter, Prüft Kinder-, Lern- und Spielzeugroboter, Prüft elektrische Sicherheit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sozialer Humanoider Spielzeug Kinderroboter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Sozialer Humanoider Spielzeug Kinderroboter** im Plugin Robotik-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Sozialer Humanoider Spielzeug Kinderroboter** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft soziale/humanoide Roboter, Prüft Kinder-, Lern- und Spielzeugroboter und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

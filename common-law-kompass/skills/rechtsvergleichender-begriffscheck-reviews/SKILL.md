@@ -1,14 +1,13 @@
 ---
 name: rechtsvergleichender-begriffscheck-reviews
-description: "Rechtsvergleichender Begriffscheck Reviews: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Rechtsvergleichender Begriffscheck Reviews im Common Law (Orientierung): prüft konkret Rechtsvergleichender Begriffscheck für deutsche Juristinnen, Reviews, Suretyship. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Rechtsvergleichender Begriffscheck Reviews
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Rechtsvergleichender Begriffscheck Reviews** im Plugin Common Law Kompass. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Rechtsvergleichender Begriffscheck Reviews** als zusammenhängenden Arbeitsgang im Common Law (Orientierung). Im Mittelpunkt steht die Prüfung von Rechtsvergleichender Begriffscheck für deutsche Juristinnen, Reviews, Suretyship. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

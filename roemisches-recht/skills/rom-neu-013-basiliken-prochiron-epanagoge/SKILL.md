@@ -1,6 +1,6 @@
 ---
 name: rom-neu-013-basiliken-prochiron-epanagoge
-description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht: Dieser Skill bearbeitet Basiliken Prochiron Epanagoge und spätere Rezeption im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption

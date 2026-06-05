@@ -1,14 +1,13 @@
 ---
 name: beistand-kirchlichen-urkunden-zeitrechnung
-description: "Beistand Kirchlichen Urkunden Zeitrechnung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Beistand Kirchlichen Urkunden Zeitrechnung im Römisch-katholischen Kirchenrecht: prüft konkret Beistand im kirchlichen Strafverfahren, Beweis und Urkunden im kirchlichen Verfahren, Fristen, Zeitrechnung und Verjährung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Beistand Kirchlichen Urkunden Zeitrechnung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Beistand Kirchlichen Urkunden Zeitrechnung** im Plugin Roemisch Katholisches Kirchenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Beistand Kirchlichen Urkunden Zeitrechnung** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Beistand im kirchlichen Strafverfahren, Beweis und Urkunden im kirchlichen Verfahren, Fristen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

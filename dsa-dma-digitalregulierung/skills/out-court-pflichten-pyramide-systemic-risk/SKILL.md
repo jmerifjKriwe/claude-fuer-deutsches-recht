@@ -1,14 +1,13 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "OUT Court Pflichten Pyramide Systemic Risk: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "OUT Court Pflichten Pyramide Systemic Risk im DSA/DMA-Digitalregulierung: prüft konkret Out-of-Court-Streitbeilegung nach Art, Pflichtenpyramide DSA einfuehrend erklaeren, Spezialfall Systemic-Risk-Assessment Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # OUT Court Pflichten Pyramide Systemic Risk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **OUT Court Pflichten Pyramide Systemic Risk** im Plugin DSA/DMA Digitalregulierung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **OUT Court Pflichten Pyramide Systemic Risk** als zusammenhängenden Arbeitsgang im DSA/DMA-Digitalregulierung. Im Mittelpunkt steht die Prüfung von Out-of-Court-Streitbeilegung nach Art, Pflichtenpyramide DSA einfuehrend erklaeren, Spezialfall Systemic-Risk-Assessment Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

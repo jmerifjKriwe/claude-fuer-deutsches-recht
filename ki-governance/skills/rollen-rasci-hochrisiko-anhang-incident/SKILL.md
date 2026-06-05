@@ -1,14 +1,13 @@
 ---
 name: rollen-rasci-hochrisiko-anhang-incident
-description: "Rollen Rasci Hochrisiko Anhang Incident: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Rollen Rasci Hochrisiko Anhang Incident im KI-Governance: prüft konkret Rollen-Modell RASCI fuer KI-Governance, Hochrisiko-KI nach Anhang III KI-VO pruefen, Incident-Management nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Rollen Rasci Hochrisiko Anhang Incident
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Rollen Rasci Hochrisiko Anhang Incident** im Plugin KI-Governance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Rollen Rasci Hochrisiko Anhang Incident** als zusammenhängenden Arbeitsgang im KI-Governance. Im Mittelpunkt steht die Prüfung von Rollen-Modell RASCI fuer KI-Governance, Hochrisiko-KI nach Anhang III KI-VO pruefen, Incident-Management nach Art. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

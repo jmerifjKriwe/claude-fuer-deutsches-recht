@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-zielgruppe-zahlen-schwellen-berechnung
-description: "Zielgruppe Zahlen Schwellen Berechnung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zielgruppe Zahlen Schwellen Berechnung im Einfache und leichte Sprache im Recht: Dieser Skill arbeitet Zielgruppe Zahlen Schwellen Berechnung als zusammenhängenden Arbeitsgang im Plugin Einfache Leichte Sprache Jura ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zielgruppe Zahlen Schwellen Berechnung

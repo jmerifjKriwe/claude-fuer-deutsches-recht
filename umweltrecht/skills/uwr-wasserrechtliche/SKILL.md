@@ -1,6 +1,6 @@
 ---
 name: uwr-wasserrechtliche
-description: "UWR Wasserrechtliche: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "UWR Wasserrechtliche im Plugin Umweltrecht: Dieser Skill arbeitet UWR Wasserrechtliche als zusammenhängenden Arbeitsgang im Plugin Umweltrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # UWR Wasserrechtliche

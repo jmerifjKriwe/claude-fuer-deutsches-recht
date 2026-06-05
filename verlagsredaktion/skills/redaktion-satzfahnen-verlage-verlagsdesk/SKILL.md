@@ -1,14 +1,13 @@
 ---
 name: redaktion-satzfahnen-verlage-verlagsdesk
-description: "Redaktion Satzfahnen Verlage Verlagsdesk: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Redaktion Satzfahnen Verlage Verlagsdesk im Verlagsredaktion (Recht): prüft konkret Redaktion, Satzfahnen, Verlage, Verlagsdesk. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Redaktion Satzfahnen Verlage Verlagsdesk
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Redaktion Satzfahnen Verlage Verlagsdesk** im Plugin Verlagsredaktion. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Redaktion Satzfahnen Verlage Verlagsdesk** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Redaktion, Satzfahnen, Verlage und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

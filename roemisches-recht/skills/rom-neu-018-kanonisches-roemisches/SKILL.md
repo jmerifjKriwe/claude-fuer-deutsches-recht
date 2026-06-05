@@ -1,6 +1,6 @@
 ---
 name: rom-neu-018-kanonisches-roemisches
-description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht: Dieser Skill bearbeitet Kanonisches Recht und römisches Recht Wechselwirkung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

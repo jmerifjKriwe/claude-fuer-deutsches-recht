@@ -1,14 +1,13 @@
 ---
 name: rechtsabteilung-gesellschafterliste
-description: "Rechtsabteilung Gesellschafterliste: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Rechtsabteilung Gesellschafterliste im Plugin Gesellschaftsrecht: prüft konkret Rechtsabteilungs-Fachmodul für Gesellschafterliste und, Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit, Rechtsabteilungs-Fachmodul für Stimmbindung und, Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Rechtsabteilung Gesellschafterliste
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Rechtsabteilung Gesellschafterliste** im Plugin Gesellschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Rechtsabteilung Gesellschafterliste** als zusammenhängenden Arbeitsgang im Plugin Gesellschaftsrecht. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für Gesellschafterliste und, Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit, Rechtsabteilungs-Fachmodul für Stimmbindung und und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -21,9 +20,11 @@ Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Rechtsabtei
 
 ## Arbeitsweg
 
-Im Plugin Gesellschaftsrecht gilt für **Rechtsabteilung Gesellschafterliste**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Gesellschaftsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-gesellschafterliste-und-registerstreit`

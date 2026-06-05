@@ -1,14 +1,13 @@
 ---
 name: vc-founder-ask-response-watchlist-wiedervorlage-press-reputation
-description: "VC Founder ASK Response Watchlist Wiedervorlage Press Reputation: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC Founder ASK Response Watchlist Wiedervorlage Press Reputation im Venture Capital: prüft konkret Formuliert Antwort auf Gründerbitten, Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Trigg, Prüft VC-Kommunikation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC Founder ASK Response Watchlist Wiedervorlage Press Reputation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Founder ASK Response Watchlist Wiedervorlage Press Reputation** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC Founder ASK Response Watchlist Wiedervorlage Press Reputation** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Formuliert Antwort auf Gründerbitten, Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Trigg und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

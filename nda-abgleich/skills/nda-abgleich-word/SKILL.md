@@ -1,6 +1,6 @@
 ---
 name: nda-abgleich-word
-description: "Word: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Word im NDA-Abgleich: Dieser Skill arbeitet Word als zusammenhängenden Arbeitsgang im Plugin NDA-Abgleich ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Word

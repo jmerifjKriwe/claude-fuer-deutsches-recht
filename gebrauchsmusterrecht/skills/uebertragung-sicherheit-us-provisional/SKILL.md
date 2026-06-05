@@ -1,14 +1,13 @@
 ---
 name: uebertragung-sicherheit-us-provisional
-description: "Uebertragung Sicherheit US Provisional: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Uebertragung Sicherheit US Provisional im Gebrauchsmusterrecht: prüft konkret Übertragung, Sicherheiten und Registerumschreibung prüfen, US-Provisional, Design Patent und deutsches Gebrauchsmuster vergleichen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Uebertragung Sicherheit US Provisional
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Uebertragung Sicherheit US Provisional** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Uebertragung Sicherheit US Provisional** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Übertragung, Sicherheiten und Registerumschreibung prüfen, US-Provisional. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

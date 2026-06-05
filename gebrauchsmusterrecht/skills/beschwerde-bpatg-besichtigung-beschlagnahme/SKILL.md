@@ -1,14 +1,13 @@
 ---
 name: beschwerde-bpatg-besichtigung-beschlagnahme
-description: "Beschwerde Bpatg Besichtigung Beschlagnahme: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Beschwerde Bpatg Besichtigung Beschlagnahme im Gebrauchsmusterrecht: prüft konkret Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht, Besichtigung, Beschlagnahme und technische Beweissicherung bei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Beschwerde Bpatg Besichtigung Beschlagnahme
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Beschwerde Bpatg Besichtigung Beschlagnahme** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Beschwerde Bpatg Besichtigung Beschlagnahme** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht, Besichtigung, Beschlagnahme und technische Beweissicherung bei. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,14 +1,13 @@
 ---
 name: gutachten-rechtsbestand-insolvenz-verwertung
-description: "Gutachten Rechtsbestand Insolvenz Verwertung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Gutachten Rechtsbestand Insolvenz Verwertung im Gebrauchsmusterrecht: prüft konkret Rechtsbestands- und Verletzungsgutachten für, Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gutachten Rechtsbestand Insolvenz Verwertung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Gutachten Rechtsbestand Insolvenz Verwertung** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Gutachten Rechtsbestand Insolvenz Verwertung** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Rechtsbestands- und Verletzungsgutachten für, Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

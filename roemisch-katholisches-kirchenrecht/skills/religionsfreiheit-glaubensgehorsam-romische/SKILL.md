@@ -1,14 +1,13 @@
 ---
 name: religionsfreiheit-glaubensgehorsam-romische
-description: "Religionsfreiheit Glaubensgehorsam Romische: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Religionsfreiheit Glaubensgehorsam Romische im Römisch-katholischen Kirchenrecht: prüft konkret Religionsfreiheit und Glaubensgehorsam, Römische Kurie und Dikasterien, Sakramentenempfang nach Kirchenaustritt, Sakramentenverweigerung und Rechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Religionsfreiheit Glaubensgehorsam Romische
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Religionsfreiheit Glaubensgehorsam Romische** im Plugin Roemisch Katholisches Kirchenrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Religionsfreiheit Glaubensgehorsam Romische** als zusammenhängenden Arbeitsgang im Römisch-katholischen Kirchenrecht. Im Mittelpunkt steht die Prüfung von Religionsfreiheit und Glaubensgehorsam, Römische Kurie und Dikasterien, Sakramentenempfang nach Kirchenaustritt und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

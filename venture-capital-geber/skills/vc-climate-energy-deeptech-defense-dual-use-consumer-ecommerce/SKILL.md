@@ -1,14 +1,13 @@
 ---
 name: vc-climate-energy-deeptech-defense-dual-use-consumer-ecommerce
-description: "VC Climate Energy Deeptech Defense Dual USE Consumer Ecommerce: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC Climate Energy Deeptech Defense Dual USE Consumer Ecommerce im Venture Capital: prüft konkret Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Gen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC Climate Energy Deeptech Defense Dual USE Consumer Ecommerce
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Climate Energy Deeptech Defense Dual USE Consumer Ecommerce** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC Climate Energy Deeptech Defense Dual USE Consumer Ecommerce** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Prüft Energie-, Speicher-, Wasserstoff- und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

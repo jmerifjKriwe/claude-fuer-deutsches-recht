@@ -1,6 +1,6 @@
 ---
 name: zwangsgeld-zwangsvollstreckung
-description: "Zwangsgeld Zwangsvollstreckung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis: Dieser Skill arbeitet Zwangsgeld Zwangsvollstreckung als zusammenhängenden Arbeitsgang im Plugin Buerokratieversteher Entbuerokratisierer ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zwangsgeld Zwangsvollstreckung

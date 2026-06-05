@@ -1,14 +1,13 @@
 ---
 name: sales-katalog-satzfahne-korrekturlauf
-description: "Sales Katalog Satzfahne Korrekturlauf: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Sales Katalog Satzfahne Korrekturlauf im Verlagsredaktion (Recht): prüft konkret Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkau. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sales Katalog Satzfahne Korrekturlauf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Sales Katalog Satzfahne Korrekturlauf** im Plugin Verlagsredaktion. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Sales Katalog Satzfahne Korrekturlauf** als zusammenhängenden Arbeitsgang im Verlagsredaktion (Recht). Im Mittelpunkt steht die Prüfung von Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

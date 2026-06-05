@@ -1,14 +1,13 @@
 ---
 name: formales-einfach-ausfuellen-hilfe
-description: "Formales Einfach Ausfuellen Hilfe: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Formales Einfach Ausfuellen Hilfe im Bereich Juristische Sprache (DaZ): prüft konkret Hilft bei Formales Deutsch Zu Einfach fuer Menschen mit, Hilft bei Formular Ausfuellen Hilfe fuer Menschen mit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Formales Einfach Ausfuellen Hilfe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Formales Einfach Ausfuellen Hilfe** im Plugin Juristische Sprache Deutsch Als Zweitsprache. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Formales Einfach Ausfuellen Hilfe** als zusammenhängenden Arbeitsgang im Bereich Juristische Sprache (DaZ). Im Mittelpunkt steht die Prüfung von Hilft bei Formales Deutsch Zu Einfach fuer Menschen mit, Hilft bei Formular Ausfuellen Hilfe fuer Menschen mit. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-026-zweiter-strafrecht-20-titel
-description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Strafrecht 20 Titel quellenkritisch im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch

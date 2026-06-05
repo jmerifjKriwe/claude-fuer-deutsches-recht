@@ -1,14 +1,13 @@
 ---
 name: post-arbeitsbedingungen-postmarkt-beschwerde
-description: "Post Arbeitsbedingungen Postmarkt Beschwerde: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Post Arbeitsbedingungen Postmarkt Beschwerde im Bundesnetzagentur-Verfahren: prüft konkret Post / Arbeitsbedingungen Postmarkt Schnittstelle, Post / Beschwerde Brief Paket, Post / Grenzüberschreitende Paketzustellung, Post / Laufzeitmessung Qualität. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Post Arbeitsbedingungen Postmarkt Beschwerde
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Post Arbeitsbedingungen Postmarkt Beschwerde** im Plugin Bundesnetzagentur-Verfahren. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Post Arbeitsbedingungen Postmarkt Beschwerde** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Post / Arbeitsbedingungen Postmarkt Schnittstelle, Post / Beschwerde Brief Paket, Post / Grenzüberschreitende Paketzustellung und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

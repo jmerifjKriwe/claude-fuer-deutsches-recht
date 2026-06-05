@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-investor
-description: "Beirat Private Equity Investor: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Private Equity Investor im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Beirat Private Equity Investor

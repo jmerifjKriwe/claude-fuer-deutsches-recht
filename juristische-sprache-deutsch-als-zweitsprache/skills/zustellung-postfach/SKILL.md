@@ -1,6 +1,6 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ): Dieser Skill arbeitet Zustellung Postfach als zusammenhängenden Arbeitsgang im Plugin Juristische Sprache Deutsch Als Zweitsprache ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zustellung Postfach

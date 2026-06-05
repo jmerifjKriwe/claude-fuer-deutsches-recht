@@ -1,14 +1,13 @@
 ---
 name: hochrisiko-transparenz-zuordnung-art
-description: "Hochrisiko Transparenz Zuordnung ART: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Hochrisiko Transparenz Zuordnung ART im EU KI-VO (AI Act): prüft konkret Anbieter von Hochrisiko-KI fragt, Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art, KI-Detektoren in Schule, Hochschule und Auswahlverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Hochrisiko Transparenz Zuordnung ART
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Hochrisiko Transparenz Zuordnung ART** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Hochrisiko Transparenz Zuordnung ART** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Anbieter von Hochrisiko-KI fragt, Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art, KI-Detektoren in Schule und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG): Dieser Skill arbeitet Zwvw Versteigerung als zusammenhängenden Arbeitsgang im Plugin Zwangsverwaltung (ZVG) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zwvw Versteigerung

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-020-erster-titel-17-erbrecht
-description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge

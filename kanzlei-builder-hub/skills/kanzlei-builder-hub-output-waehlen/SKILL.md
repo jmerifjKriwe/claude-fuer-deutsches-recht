@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Kanzlei-Aufbau: Diese Output-Weiche für Kanzlei Builder Hub entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

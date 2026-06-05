@@ -1,6 +1,6 @@
 ---
 name: zoll-plattformdurchsetzung
-description: "Zoll Plattformdurchsetzung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht: Dieser Skill arbeitet Zoll Plattformdurchsetzung als zusammenhängenden Arbeitsgang im Plugin Gebrauchsmusterrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zoll Plattformdurchsetzung

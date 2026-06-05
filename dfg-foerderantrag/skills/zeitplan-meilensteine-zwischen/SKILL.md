@@ -1,14 +1,13 @@
 ---
 name: zeitplan-meilensteine-zwischen
-description: "Zeitplan Meilensteine Zwischen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Zeitplan Meilensteine Zwischen im DFG-Förderantragstellung: prüft konkret Antragszeitplan vom ersten Skizzen-Entwurf bis zur, Zwischen- und Abschlussbericht systematisch vorbereiten, Adaptive. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Zeitplan Meilensteine Zwischen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Zeitplan Meilensteine Zwischen** im Plugin DFG-Förderantrag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Zeitplan Meilensteine Zwischen** als zusammenhängenden Arbeitsgang im DFG-Förderantragstellung. Im Mittelpunkt steht die Prüfung von Antragszeitplan vom ersten Skizzen-Entwurf bis zur, Zwischen- und Abschlussbericht systematisch vorbereiten, Adaptive. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

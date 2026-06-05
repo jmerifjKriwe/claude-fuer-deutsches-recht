@@ -1,14 +1,13 @@
 ---
 name: berufsanerkennung-bescheid-ohne-betreuung
-description: "Berufsanerkennung Bescheid Ohne Betreuung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Berufsanerkennung Bescheid Ohne Betreuung im Bürokratieabbau-Praxis: prüft konkret Hilft bei Anerkennung ausländischer Abschlüsse, Anpassungslehrgang, Kenntnisprüf, Erklärt Folgen fehlender oder fehlerhafter Belehrung und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Berufsanerkennung Bescheid Ohne Betreuung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Berufsanerkennung Bescheid Ohne Betreuung** im Plugin Buerokratieversteher Entbuerokratisierer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Berufsanerkennung Bescheid Ohne Betreuung** als zusammenhängenden Arbeitsgang im Bürokratieabbau-Praxis. Im Mittelpunkt steht die Prüfung von Hilft bei Anerkennung ausländischer Abschlüsse, Anpassungslehrgang, Kenntnisprüf und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

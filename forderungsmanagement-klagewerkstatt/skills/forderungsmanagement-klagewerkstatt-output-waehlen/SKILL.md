@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement-klagewerkstatt-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Forderungsmanagement Klagewerkstatt: Diese Output-Weiche für Forderungsmanagement Klagewerkstatt entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

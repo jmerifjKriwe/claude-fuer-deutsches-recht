@@ -1,6 +1,6 @@
 ---
 name: beirat-bank-und-sanierung
-description: "Beirat Bank Und Sanierung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Bank Und Sanierung im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
 ---
 
 # Beirat Bank Und Sanierung

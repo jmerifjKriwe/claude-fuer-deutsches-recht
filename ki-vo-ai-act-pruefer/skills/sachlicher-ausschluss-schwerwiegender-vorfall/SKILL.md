@@ -1,14 +1,13 @@
 ---
 name: sachlicher-ausschluss-schwerwiegender-vorfall
-description: "Sachlicher Ausschluss Schwerwiegender Vorfall: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Sachlicher Ausschluss Schwerwiegender Vorfall im EU KI-VO (AI Act): prüft konkret Unternehmen fragt, Schwerwiegender KI-Vorfall nach Art, Shadow-AI und Off-label-Nutzung beherrschen, Mechanik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sachlicher Ausschluss Schwerwiegender Vorfall
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Sachlicher Ausschluss Schwerwiegender Vorfall** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Sachlicher Ausschluss Schwerwiegender Vorfall** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Unternehmen fragt, Schwerwiegender KI-Vorfall nach Art, Shadow-AI und Off-label-Nutzung beherrschen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

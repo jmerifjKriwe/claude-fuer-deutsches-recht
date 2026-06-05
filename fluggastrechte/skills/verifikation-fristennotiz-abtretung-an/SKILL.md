@@ -1,14 +1,13 @@
 ---
 name: verifikation-fristennotiz-abtretung-an
-description: "Verifikation Fristennotiz Abtretung AN: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Verifikation Fristennotiz Abtretung AN im Fluggastrechte: prüft konkret Verifikation, Abtretung an Fluggastrechte-Portale (Flightright, EUclaim, AirHelp). Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Verifikation Fristennotiz Abtretung AN
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Verifikation Fristennotiz Abtretung AN** im Plugin Fluggastrechte (VO 261/2004). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Verifikation Fristennotiz Abtretung AN** als zusammenhängenden Arbeitsgang im Fluggastrechte. Im Mittelpunkt steht die Prüfung von Verifikation, Abtretung an Fluggastrechte-Portale (Flightright, EUclaim. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -19,9 +18,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Verifikatio
 
 ## Arbeitsweg
 
-Im Plugin Fluggastrechte (VO 261/2004) gilt für **Verifikation Fristennotiz Abtretung AN**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Fluggastrechte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
+- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `spezial-verifikation-fristennotiz-und-naechster-schritt`

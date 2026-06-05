@@ -1,14 +1,13 @@
 ---
 name: moral-minimum-politik-abgrenzung-wissenschaft
-description: "Moral Minimum Politik Abgrenzung Wissenschaft: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Moral Minimum Politik Abgrenzung Wissenschaft im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist, Prueft die Rolle von Rechtswissenschaft. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Moral Minimum Politik Abgrenzung Wissenschaft
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Moral Minimum Politik Abgrenzung Wissenschaft** im Plugin Rechtstheorie Rechtsphilosophie. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Moral Minimum Politik Abgrenzung Wissenschaft** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

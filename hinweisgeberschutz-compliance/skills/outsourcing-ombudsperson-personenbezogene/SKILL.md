@@ -1,14 +1,13 @@
 ---
 name: outsourcing-ombudsperson-personenbezogene
-description: "Outsourcing Ombudsperson Personenbezogene: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Outsourcing Ombudsperson Personenbezogene im Hinweisgeberschutz und Compliance: prüft konkret Prüft Outsourcing an Ombudsperson oder Dienstleister, Schützt Daten Dritter in Meldungen, Prüft, ob und wie eine interne Meldestelle einzurichten ist. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Outsourcing Ombudsperson Personenbezogene
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Outsourcing Ombudsperson Personenbezogene** im Plugin Hinweisgeberschutz Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Outsourcing Ombudsperson Personenbezogene** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Prüft Outsourcing an Ombudsperson oder Dienstleister, Schützt Daten Dritter in Meldungen, Prüft und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

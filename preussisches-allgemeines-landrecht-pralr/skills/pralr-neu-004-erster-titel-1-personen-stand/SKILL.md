@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-004-erster-titel-1-personen-stand
-description: "PrALR: Erster Teil Titel 1 Personen und Stand: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 1 Personen und Stand im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 1 Personen und Stand im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 1 Personen und Stand

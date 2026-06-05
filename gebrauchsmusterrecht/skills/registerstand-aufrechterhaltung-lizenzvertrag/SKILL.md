@@ -1,14 +1,13 @@
 ---
 name: registerstand-aufrechterhaltung-lizenzvertrag
-description: "Registerstand Aufrechterhaltung Lizenzvertrag: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Registerstand Aufrechterhaltung Lizenzvertrag im Gebrauchsmusterrecht: prüft konkret Registerstand, Fälligkeiten und Aufrechterhaltung prüfen, Gebrauchsmusterlizenz prüfen oder entwerfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Registerstand Aufrechterhaltung Lizenzvertrag
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Registerstand Aufrechterhaltung Lizenzvertrag** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Registerstand Aufrechterhaltung Lizenzvertrag** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Registerstand, Fälligkeiten und Aufrechterhaltung prüfen, Gebrauchsmusterlizenz prüfen oder entwerfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

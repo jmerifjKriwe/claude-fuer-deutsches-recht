@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-022-zweiter-staendeordnung-adel
-description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Ständeordnung Adel Bürger Bauern im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

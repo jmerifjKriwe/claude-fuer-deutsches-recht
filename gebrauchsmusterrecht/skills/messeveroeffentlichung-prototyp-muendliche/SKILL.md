@@ -1,14 +1,13 @@
 ---
 name: messeveroeffentlichung-prototyp-muendliche
-description: "Messeveroeffentlichung Prototyp Muendliche: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Messeveroeffentlichung Prototyp Muendliche im Gebrauchsmusterrecht: prüft konkret Messeveröffentlichung und Prototypvorführung prüfen, Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Messeveroeffentlichung Prototyp Muendliche
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Messeveroeffentlichung Prototyp Muendliche** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Messeveroeffentlichung Prototyp Muendliche** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Messeveröffentlichung und Prototypvorführung prüfen, Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

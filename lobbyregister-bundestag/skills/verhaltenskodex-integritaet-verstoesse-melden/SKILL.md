@@ -1,14 +1,13 @@
 ---
 name: verhaltenskodex-integritaet-verstoesse-melden
-description: "Verhaltenskodex Integritaet Verstoesse Melden: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Verhaltenskodex Integritaet Verstoesse Melden im Lobbyregister Bundestag: prüft konkret Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 L, Führt durch Meldung möglicher Verstoesse gegen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Verhaltenskodex Integritaet Verstoesse Melden
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Verhaltenskodex Integritaet Verstoesse Melden** im Plugin Lobbyregister Bundestag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Verhaltenskodex Integritaet Verstoesse Melden** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 L. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,14 +1,13 @@
 ---
 name: due-diligence-ergebnis-handlungsempfehlung
-description: "DUE Diligence Ergebnis Handlungsempfehlung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "DUE Diligence Ergebnis Handlungsempfehlung im Memorandum-Erstellung: prüft konkret Memo Rechtsteil einer Due Diligence, Ergebnis und Handlungsempfehlung trennen, Memo fuer Mandanten unterscheidet sich vom internen Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # DUE Diligence Ergebnis Handlungsempfehlung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **DUE Diligence Ergebnis Handlungsempfehlung** im Plugin Memorandum-Ersteller. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **DUE Diligence Ergebnis Handlungsempfehlung** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Memo Rechtsteil einer Due Diligence, Ergebnis und Handlungsempfehlung trennen, Memo fuer Mandanten unterscheidet sich vom internen Memo. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

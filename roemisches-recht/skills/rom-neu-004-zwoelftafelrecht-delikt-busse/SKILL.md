@@ -1,6 +1,6 @@
 ---
 name: rom-neu-004-zwoelftafelrecht-delikt-busse
-description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht: Dieser Skill bearbeitet Zwölftafelrecht Delikt Buße Talion und Komposition im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition

@@ -1,6 +1,6 @@
 ---
 name: email-umformulierer-berufsrecht-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Email Umformulierer Berufsrecht: Diese Output-Weiche für Email Umformulierer Berufsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

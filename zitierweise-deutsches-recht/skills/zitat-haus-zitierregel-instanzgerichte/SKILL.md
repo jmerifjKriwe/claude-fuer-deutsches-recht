@@ -1,14 +1,13 @@
 ---
 name: zitat-haus-zitierregel-instanzgerichte
-description: "Zitat Haus Zitierregel Instanzgerichte: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Zitat Haus Zitierregel Instanzgerichte im Zitierweise im deutschen Recht: prüft konkret Kanzlei-Hauszitierweise anpassen, Instanzgerichts-Entscheidungen strategisch zitieren, Internationale Quellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Zitat Haus Zitierregel Instanzgerichte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Zitat Haus Zitierregel Instanzgerichte** im Plugin Zitierweise deutsches Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Zitat Haus Zitierregel Instanzgerichte** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Kanzlei-Hauszitierweise anpassen, Instanzgerichts-Entscheidungen strategisch zitieren, Internationale Quellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

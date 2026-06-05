@@ -1,6 +1,6 @@
 ---
 name: output-rechtstexte-risikoampel-tickets
-description: "Output Rechtstexte Risikoampel Tickets: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output Rechtstexte Risikoampel Tickets im Plugin Ecommerce Recht: Fachlicher Fokus: E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz."
 ---
 
 # Output Rechtstexte Risikoampel Tickets

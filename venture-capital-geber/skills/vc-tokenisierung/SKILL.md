@@ -1,6 +1,6 @@
 ---
 name: vc-tokenisierung
-description: "VC Tokenisierung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "VC Tokenisierung im Venture Capital: Dieser Skill arbeitet VC Tokenisierung als zusammenhängenden Arbeitsgang im Plugin Venture Capital (Geberseite) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # VC Tokenisierung

@@ -1,6 +1,6 @@
 ---
 name: output-vertragsentwurf-memo-anzeige
-description: "Output Vertragsentwurf Memo Anzeige: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output Vertragsentwurf Memo Anzeige im Plugin Factoring Recht: Fachlicher Fokus: Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung."
 ---
 
 # Output Vertragsentwurf Memo Anzeige

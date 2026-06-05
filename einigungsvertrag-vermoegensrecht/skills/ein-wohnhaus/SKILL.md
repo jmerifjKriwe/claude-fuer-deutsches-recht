@@ -1,6 +1,6 @@
 ---
 name: ein-wohnhaus
-description: "EIN Wohnhaus: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht: Dieser Skill arbeitet EIN Wohnhaus als zusammenhängenden Arbeitsgang im Plugin Einigungsvertrag Vermoegensrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # EIN Wohnhaus

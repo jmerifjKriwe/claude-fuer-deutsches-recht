@@ -1,14 +1,13 @@
 ---
 name: aufsichtsbehoerdenkommunikation-internal
-description: "Aufsichtsbehoerdenkommunikation Internal: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Aufsichtsbehoerdenkommunikation Internal im Hinweisgeberschutz und Compliance: prüft konkret Steuert Kommunikation mit Aufsichtsbehörden, Steuert interne Untersuchung praktisch, Steuert Whistleblower-Risiken in Transaktionen, Prüft Steuerhinweise und Grenzen interner Aufklärung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Aufsichtsbehoerdenkommunikation Internal
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Aufsichtsbehoerdenkommunikation Internal** im Plugin Hinweisgeberschutz Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Aufsichtsbehoerdenkommunikation Internal** als zusammenhängenden Arbeitsgang im Hinweisgeberschutz und Compliance. Im Mittelpunkt steht die Prüfung von Steuert Kommunikation mit Aufsichtsbehörden, Steuert interne Untersuchung praktisch, Steuert Whistleblower-Risiken in Transaktionen und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -20,9 +19,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Aufsichtsbe
 
 ## Arbeitsweg
 
-Im Plugin Hinweisgeberschutz Compliance gilt für **Aufsichtsbehoerdenkommunikation Internal**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Hinweisgeberschutz und Compliance klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: HinSchG § 17 Eingangsbestätigung 7 Tage, § 17 Abs. 2 Rückmeldung 3 Monate, Aufbewahrung Meldedokumentation 3 Jahre, Schulung verpflichtend.
+- Tragende Normen verifizieren: HinSchG §§ 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG § 84, BDSG § 26, DSGVO Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `aufsichtsbehoerdenkommunikation`

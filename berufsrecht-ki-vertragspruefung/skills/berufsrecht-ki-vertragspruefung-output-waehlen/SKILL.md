@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-vertragspruefung-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Berufsrecht Ki Vertragspruefung: Diese Output-Weiche für Berufsrecht Ki Vertragspruefung entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

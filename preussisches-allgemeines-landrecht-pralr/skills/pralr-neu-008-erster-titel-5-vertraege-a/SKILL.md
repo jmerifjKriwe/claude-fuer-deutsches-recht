@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-008-erster-titel-5-vertraege-a
-description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 5 Verträge allgemein Form und Auslegung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung

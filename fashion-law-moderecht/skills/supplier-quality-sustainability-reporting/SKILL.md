@@ -1,14 +1,13 @@
 ---
 name: supplier-quality-sustainability-reporting
-description: "Supplier Quality Sustainability Reporting: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Supplier Quality Sustainability Reporting im Fashion Law (Moderecht): prüft konkret Supplier-Mängel und Qualitätsprobleme prüfen, ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Supplier Quality Sustainability Reporting
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Supplier Quality Sustainability Reporting** im Plugin Fashion Law Moderecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Supplier Quality Sustainability Reporting** als zusammenhängenden Arbeitsgang im Fashion Law (Moderecht). Im Mittelpunkt steht die Prüfung von Supplier-Mängel und Qualitätsprobleme prüfen, ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

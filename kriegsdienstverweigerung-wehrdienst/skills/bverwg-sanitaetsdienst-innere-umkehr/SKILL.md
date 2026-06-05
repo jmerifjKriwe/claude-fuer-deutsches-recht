@@ -1,14 +1,13 @@
 ---
 name: bverwg-sanitaetsdienst-innere-umkehr
-description: "Bverwg Sanitaetsdienst Innere Umkehr: bündelt 5 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Bverwg Sanitaetsdienst Innere Umkehr im Kriegsdienstverweigerung und Wehrdienst: prüft konkret Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an, Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an, Bereitet persönliche gerichtliche Befragung nach BVerwG, Ordnet Eingangsnachweis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bverwg Sanitaetsdienst Innere Umkehr
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Bverwg Sanitaetsdienst Innere Umkehr** im Plugin Kriegsdienstverweigerung Wehrdienst. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Bverwg Sanitaetsdienst Innere Umkehr** als zusammenhängenden Arbeitsgang im Kriegsdienstverweigerung und Wehrdienst. Im Mittelpunkt steht die Prüfung von Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an, Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an, Bereitet persönliche gerichtliche Befragung nach BVerwG und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -21,9 +20,11 @@ Dieser Skill bündelt 5 sachlich verwandte Arbeitsschritte rund um **Bverwg Sani
 
 ## Arbeitsweg
 
-Im Plugin Kriegsdienstverweigerung Wehrdienst gilt für **Bverwg Sanitaetsdienst Innere Umkehr**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `bverwg-2012-sanitaetsdienst`

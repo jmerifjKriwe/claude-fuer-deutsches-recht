@@ -1,14 +1,13 @@
 ---
 name: vc-rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe
-description: "VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe im Venture Capital: prüft konkret Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach, Erklärt Pre-Seed, Seed, Series A/B. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach, Erklärt Pre-Seed, Seed und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -20,9 +19,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC Rechtsab
 
 ## Arbeitsweg
 
-Im Plugin Venture Capital (Geberseite) gilt für **VC Rechtsabteilung Safe Wandeldarlehen Rookie Modus Begriffe**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Venture Capital — Investorenseite klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: Term-Sheet-Exklusivität typ. 30–60 Tage, Due-Diligence-Window 4–8 Wochen, GmbHG § 16 Abs. 1 Listenwirkung nach Übermittlung, KAGB § 343 Übergangsfristen.
+- Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht`

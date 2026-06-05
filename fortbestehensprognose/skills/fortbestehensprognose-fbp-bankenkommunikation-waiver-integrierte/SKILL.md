@@ -1,14 +1,13 @@
 ---
 name: fortbestehensprognose-fbp-bankenkommunikation-waiver-integrierte
-description: "FBP Bankenkommunikation Waiver Integrierte: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "FBP Bankenkommunikation Waiver Integrierte im Plugin Fortbestehensprognose: prüft konkret Spezialfall Bankenkommunikation und Waiver / Standstill bei, Bauleiter integrierte Planung GuV, Bilanz, Cashflow fuer IDW S 11. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # FBP Bankenkommunikation Waiver Integrierte
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **FBP Bankenkommunikation Waiver Integrierte** im Plugin Fortbestehensprognose (IDW S 11). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **FBP Bankenkommunikation Waiver Integrierte** als zusammenhängenden Arbeitsgang im Plugin Fortbestehensprognose. Im Mittelpunkt steht die Prüfung von Spezialfall Bankenkommunikation und Waiver / Standstill bei, Bauleiter integrierte Planung GuV, Bilanz. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

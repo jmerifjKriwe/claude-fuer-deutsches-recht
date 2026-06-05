@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-017-erster-titel-14-gesellschaft
-description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung

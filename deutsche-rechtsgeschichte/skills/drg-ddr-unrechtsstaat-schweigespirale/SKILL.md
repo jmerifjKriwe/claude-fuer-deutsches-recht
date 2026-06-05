@@ -1,14 +1,13 @@
 ---
 name: drg-ddr-unrechtsstaat-schweigespirale
-description: "DRG DDR Unrechtsstaat Schweigespirale: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "DRG DDR Unrechtsstaat Schweigespirale im deutsche Rechtsgeschichte: prüft konkret Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderech, Untersucht Tabuisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # DRG DDR Unrechtsstaat Schweigespirale
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **DRG DDR Unrechtsstaat Schweigespirale** im Plugin Deutsche Rechtsgeschichte. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **DRG DDR Unrechtsstaat Schweigespirale** als zusammenhängenden Arbeitsgang im deutsche Rechtsgeschichte. Im Mittelpunkt steht die Prüfung von Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderech und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

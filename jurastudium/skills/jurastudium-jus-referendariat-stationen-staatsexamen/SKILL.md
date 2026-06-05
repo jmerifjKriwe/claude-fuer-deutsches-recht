@@ -1,14 +1,13 @@
 ---
 name: jurastudium-jus-referendariat-stationen-staatsexamen
-description: "JUS Referendariat Stationen Staatsexamen: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "JUS Referendariat Stationen Staatsexamen im Jurastudium: prüft konkret Spezialfall Referendariatsstationen Strafrecht / Zivilrecht, Spezialfall Staatsexamensvorbereitung, Bauleiter Studienplan Jura. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # JUS Referendariat Stationen Staatsexamen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **JUS Referendariat Stationen Staatsexamen** im Plugin Jurastudium (Klausur, AG, Examen). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **JUS Referendariat Stationen Staatsexamen** als zusammenhängenden Arbeitsgang im Jurastudium. Im Mittelpunkt steht die Prüfung von Spezialfall Referendariatsstationen Strafrecht / Zivilrecht, Spezialfall Staatsexamensvorbereitung, Bauleiter Studienplan Jura. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

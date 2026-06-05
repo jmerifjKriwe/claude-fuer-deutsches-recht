@@ -1,6 +1,6 @@
 ---
 name: einfache-leichte-sprache-jura-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Einfache und leichte Sprache im Recht: Diese Output-Weiche für Einfache Leichte Sprache Jura entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

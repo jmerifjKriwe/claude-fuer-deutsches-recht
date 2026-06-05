@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Beirat Red Team Satzung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Beirat Red Team Satzung im Corporate/M&A (Großkanzlei-Praxis): Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik."
 ---
 
 # Beirat Red Team Satzung

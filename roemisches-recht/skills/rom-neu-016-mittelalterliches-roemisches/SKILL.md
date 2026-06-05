@@ -1,6 +1,6 @@
 ---
 name: rom-neu-016-mittelalterliches-roemisches
-description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna im Römisches Recht: Dieser Skill bearbeitet Mittelalterliches römisches Recht Glossatoren Bologna im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna

@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepraevention-aml-kyc-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Geldwaeschepraevention Aml Kyc: Diese Output-Weiche für Geldwaeschepraevention Aml Kyc entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

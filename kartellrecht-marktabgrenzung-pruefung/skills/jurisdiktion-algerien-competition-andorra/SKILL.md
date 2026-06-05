@@ -1,14 +1,13 @@
 ---
 name: jurisdiktion-algerien-competition-andorra
-description: "Jurisdiktion Algerien Competition Andorra: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Jurisdiktion Algerien Competition Andorra im Kartellrecht (Marktabgrenzung): prüft konkret Jurisdiktionsskill Algerien, Jurisdiktionsskill Andorra, Jurisdiktionsskill Angola, Jurisdiktionsskill Argentinien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Jurisdiktion Algerien Competition Andorra
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Jurisdiktion Algerien Competition Andorra** im Plugin Kartellrecht Marktabgrenzung Pruefung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Jurisdiktion Algerien Competition Andorra** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Jurisdiktionsskill Algerien, Jurisdiktionsskill Andorra, Jurisdiktionsskill Angola und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,14 +1,13 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Betreiber Deployer Bevollmaechtigter: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Betreiber Deployer Bevollmaechtigter im EU KI-VO (AI Act): prüft konkret Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allge, Drittstaaten-Anbieter ohne EU-Niederlassung oder, Biometrie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Betreiber Deployer Bevollmaechtigter
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Betreiber Deployer Bevollmaechtigter** im Plugin KI-VO / AI Act-Prüfer. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Betreiber Deployer Bevollmaechtigter** als zusammenhängenden Arbeitsgang im EU KI-VO (AI Act). Im Mittelpunkt steht die Prüfung von Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allge, Drittstaaten-Anbieter ohne EU-Niederlassung oder und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

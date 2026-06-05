@@ -1,6 +1,6 @@
 ---
 name: email-umformulierer-berufsrecht-mandantenkommunikation
-description: "Mandantenkommunikation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Mandantenkommunikation im Plugin Email Umformulierer Berufsrecht: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
 ---
 
 # Mandantenkommunikation

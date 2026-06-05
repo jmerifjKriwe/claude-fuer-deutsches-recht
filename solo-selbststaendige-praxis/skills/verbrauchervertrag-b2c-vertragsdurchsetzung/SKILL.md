@@ -1,14 +1,13 @@
 ---
 name: verbrauchervertrag-b2c-vertragsdurchsetzung
-description: "Verbrauchervertrag B2C Vertragsdurchsetzung: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Verbrauchervertrag B2C Vertragsdurchsetzung im Solo-Selbstständigen-Praxis: prüft konkret Solo-Selbstständige. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Verbrauchervertrag B2C Vertragsdurchsetzung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Verbrauchervertrag B2C Vertragsdurchsetzung** im Plugin Solo-/Selbstständigenpraxis. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Verbrauchervertrag B2C Vertragsdurchsetzung** als zusammenhängenden Arbeitsgang im Solo-Selbstständigen-Praxis. Im Mittelpunkt steht die Prüfung von Solo-Selbstständige und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

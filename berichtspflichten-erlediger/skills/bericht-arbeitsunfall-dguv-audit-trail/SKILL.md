@@ -1,14 +1,13 @@
 ---
 name: bericht-arbeitsunfall-dguv-audit-trail
-description: "Bericht Arbeitsunfall Dguv Audit Trail: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Bericht Arbeitsunfall Dguv Audit Trail im Berichtspflichten-Praxis: prüft konkret Arbeitsunfall/Berufskrankheit melden, Audit-Trail für Meldungen, Amtliche Erhebungen verstehen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bericht Arbeitsunfall Dguv Audit Trail
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Bericht Arbeitsunfall Dguv Audit Trail** im Plugin Berichtspflichten Erlediger. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Bericht Arbeitsunfall Dguv Audit Trail** als zusammenhängenden Arbeitsgang im Berichtspflichten-Praxis. Im Mittelpunkt steht die Prüfung von Arbeitsunfall/Berufskrankheit melden, Audit-Trail für Meldungen, Amtliche Erhebungen verstehen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -19,9 +18,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Bericht Arb
 
 ## Arbeitsweg
 
-Im Plugin Berichtspflichten Erlediger gilt für **Bericht Arbeitsunfall Dguv Audit Trail**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Berichtspflichten (Audit/Compliance/Steuer) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff..
+- Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `bericht-arbeitsunfall-dguv`

@@ -1,14 +1,13 @@
 ---
 name: sachverhalt-fixieren-vier-teile
-description: "Sachverhalt Fixieren Vier Teile: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Sachverhalt Fixieren Vier Teile im Memorandum-Erstellung: prüft konkret Sachverhalt sauber fixieren, Vier-Teile-Memo aufbauen, Memo zu grenzueberschreitenden Faellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sachverhalt Fixieren Vier Teile
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Sachverhalt Fixieren Vier Teile** im Plugin Memorandum-Ersteller. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Sachverhalt Fixieren Vier Teile** als zusammenhängenden Arbeitsgang im Memorandum-Erstellung. Im Mittelpunkt steht die Prüfung von Sachverhalt sauber fixieren, Vier-Teile-Memo aufbauen, Memo zu grenzueberschreitenden Faellen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: anlagen-zu-sortiert-risikoampel-gegenargumente
-description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Anlagen Zu Schriftsaetzen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien

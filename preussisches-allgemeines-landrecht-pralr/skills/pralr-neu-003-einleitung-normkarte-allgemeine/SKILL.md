@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-003-einleitung-normkarte-allgemeine
-description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Einleitung Normkarte allgemeine Rechtsgrundsätze im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze

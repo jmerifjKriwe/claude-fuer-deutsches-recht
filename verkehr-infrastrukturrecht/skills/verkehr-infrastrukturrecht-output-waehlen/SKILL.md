@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Verkehrs- und Infrastrukturrecht: Diese Output-Weiche für Verkehr Infrastrukturrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

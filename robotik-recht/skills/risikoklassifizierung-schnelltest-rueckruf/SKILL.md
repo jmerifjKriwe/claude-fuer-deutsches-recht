@@ -1,14 +1,13 @@
 ---
 name: risikoklassifizierung-schnelltest-rueckruf
-description: "Risikoklassifizierung Schnelltest Rueckruf: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Risikoklassifizierung Schnelltest Rueckruf im Robotik- und KI-Recht: prüft konkret Führt durch Risikoklassen, Plant freiwillige oder behördliche Korrekturmaßnahme, Briefing für technische Sachverständige, Führt Produktteam durch Security-by-Design. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Risikoklassifizierung Schnelltest Rueckruf
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **Risikoklassifizierung Schnelltest Rueckruf** im Plugin Robotik-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Risikoklassifizierung Schnelltest Rueckruf** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Führt durch Risikoklassen, Plant freiwillige oder behördliche Korrekturmaßnahme, Briefing für technische Sachverständige und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

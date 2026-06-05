@@ -1,14 +1,13 @@
 ---
 name: mitgliedschaften-mitgliederzahl-nicht
-description: "Mitgliedschaften Mitgliederzahl Nicht: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Mitgliedschaften Mitgliederzahl Nicht im Lobbyregister Bundestag: prüft konkret Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitglieds, Prüft Kennzeichnung nicht aktualisiert, Nachholfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Mitgliedschaften Mitgliederzahl Nicht
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Mitgliedschaften Mitgliederzahl Nicht** im Plugin Lobbyregister Bundestag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Mitgliedschaften Mitgliederzahl Nicht** als zusammenhängenden Arbeitsgang im Lobbyregister Bundestag. Im Mittelpunkt steht die Prüfung von Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitglieds, Prüft Kennzeichnung nicht aktualisiert. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

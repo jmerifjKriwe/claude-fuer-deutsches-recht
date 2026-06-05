@@ -1,6 +1,6 @@
 ---
 name: zeitschriften-heftplanung
-description: "Zeitschriften Heftplanung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht): Dieser Skill arbeitet Zeitschriften Heftplanung als zusammenhängenden Arbeitsgang im Plugin Verlagsredaktion ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zeitschriften Heftplanung

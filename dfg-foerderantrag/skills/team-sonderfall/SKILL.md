@@ -1,6 +1,6 @@
 ---
 name: team-sonderfall
-description: "Team Sonderfall: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Team Sonderfall im DFG-Förderantragstellung: Dieser Skill arbeitet Team Sonderfall als zusammenhängenden Arbeitsgang im Plugin DFG-Förderantrag ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Team Sonderfall

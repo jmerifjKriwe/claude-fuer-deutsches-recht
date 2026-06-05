@@ -1,6 +1,6 @@
 ---
 name: rom-neu-017-kommentatoren-mos-italicus
-description: "Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit im Römisches Recht: Dieser Skill bearbeitet Kommentatoren mos italicus und praktische Fallarbeit im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit

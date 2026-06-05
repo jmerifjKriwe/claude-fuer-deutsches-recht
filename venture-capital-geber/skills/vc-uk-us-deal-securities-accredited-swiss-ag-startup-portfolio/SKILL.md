@@ -1,14 +1,13 @@
 ---
 name: vc-uk-us-deal-securities-accredited-swiss-ag-startup-portfolio
-description: "VC UK US Deal Securities Accredited Swiss AG Startup Portfolio: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "VC UK US Deal Securities Accredited Swiss AG Startup Portfolio im Venture Capital: prüft konkret Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # VC UK US Deal Securities Accredited Swiss AG Startup Portfolio
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **VC UK US Deal Securities Accredited Swiss AG Startup Portfolio** im Plugin Venture Capital (Geberseite). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **VC UK US Deal Securities Accredited Swiss AG Startup Portfolio** als zusammenhängenden Arbeitsgang im Venture Capital. Im Mittelpunkt steht die Prüfung von Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

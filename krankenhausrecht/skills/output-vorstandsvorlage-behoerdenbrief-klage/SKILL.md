@@ -1,6 +1,6 @@
 ---
 name: output-vorstandsvorlage-behoerdenbrief-klage
-description: "Output Vorstandsvorlage Behördenbrief Klage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output Vorstandsvorlage Behördenbrief Klage im Plugin Krankenhausrecht: Fachlicher Fokus: Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance."
 ---
 
 # Output Vorstandsvorlage Behördenbrief Klage

@@ -1,14 +1,13 @@
 ---
 name: aufgeschobene-bekanntmachung-automotive
-description: "Aufgeschobene Bekanntmachung Automotive: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Aufgeschobene Bekanntmachung Automotive im Designrecht: prüft konkret Aufgeschobene Bekanntmachung strategisch prüfen, Automotive-Design und Ersatzteile prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Aufgeschobene Bekanntmachung Automotive
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Aufgeschobene Bekanntmachung Automotive** im Plugin Designrecht / Geschmacksmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Aufgeschobene Bekanntmachung Automotive** als zusammenhängenden Arbeitsgang im Designrecht. Im Mittelpunkt steht die Prüfung von Aufgeschobene Bekanntmachung strategisch prüfen, Automotive-Design und Ersatzteile prüfen. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

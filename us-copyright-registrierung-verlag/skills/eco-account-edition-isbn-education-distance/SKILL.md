@@ -1,14 +1,13 @@
 ---
 name: eco-account-edition-isbn-education-distance
-description: "ECO Account Edition Isbn Education Distance: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "ECO Account Edition Isbn Education Distance im Plugin Us Copyright Registrierung Verlag: prüft konkret eCO-Organisationskonto für Verlage, Editionen, ISBN, Titelvarianten und Umlaute. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # ECO Account Edition Isbn Education Distance
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **ECO Account Edition Isbn Education Distance** im Plugin Us Copyright Registrierung Verlag. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **ECO Account Edition Isbn Education Distance** als zusammenhängenden Arbeitsgang im Plugin Us Copyright Registrierung Verlag. Im Mittelpunkt steht die Prüfung von eCO-Organisationskonto für Verlage, Editionen, ISBN und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -20,9 +19,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **ECO Account
 
 ## Arbeitsweg
 
-Im Plugin Us Copyright Registrierung Verlag gilt für **ECO Account Edition Isbn Education Distance**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im US-Copyright-Registrierung für Verlage klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: 17 U.S.C. § 412 Registrierung vor Verletzung für statutory damages, § 410(c) Beweisvermutung 5 Jahre nach Erstveröffentlichung, § 302 Schutzdauer 70 Jahre p.m.a..
+- Tragende Normen verifizieren: 17 U.S.C. §§ 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `eco-account-organisationskonto`

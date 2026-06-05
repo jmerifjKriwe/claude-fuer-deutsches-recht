@@ -1,14 +1,13 @@
 ---
 name: zitat-monografie-handbuch-streitstand
-description: "Zitat Monografie Handbuch Streitstand: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Zitat Monografie Handbuch Streitstand im Zitierweise im deutschen Recht: prüft konkret Monografie oder Handbuch nur bei vorliegender Quelle, Streitstand in Memo/Schriftsatz darstellen, Verbotene Zitate vermeiden. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Zitat Monografie Handbuch Streitstand
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Zitat Monografie Handbuch Streitstand** im Plugin Zitierweise deutsches Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Zitat Monografie Handbuch Streitstand** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Monografie oder Handbuch nur bei vorliegender Quelle, Streitstand in Memo/Schriftsatz darstellen, Verbotene Zitate vermeiden. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

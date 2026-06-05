@@ -1,6 +1,6 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Geheimschutzhaushalt Deckung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO): Dieser Skill arbeitet Geheimschutzhaushalt Deckung als zusammenhängenden Arbeitsgang im Plugin Haushaltsrecht (BHO Bund/Länder) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Geheimschutzhaushalt Deckung
@@ -17,9 +17,11 @@ Dieser Skill arbeitet **Geheimschutzhaushalt Deckung** als zusammenhängenden Ar
 
 ## Arbeitsweg
 
-Im Plugin Haushaltsrecht (BHO Bund/Länder) gilt für **Geheimschutzhaushalt Deckung**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Haushaltsrecht Bho Bund Laender klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung 2018/1046; HGrG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `bho-299-geheimschutzhaushalt-deckung-finden`

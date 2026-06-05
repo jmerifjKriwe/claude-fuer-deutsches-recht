@@ -1,6 +1,6 @@
 ---
 name: upc-unified
-description: "UPC Unified: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "UPC Unified im Plugin Patentrecherche: Dieser Skill arbeitet UPC Unified als zusammenhängenden Arbeitsgang im Plugin Patentrecherche (FTO, Validity) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # UPC Unified

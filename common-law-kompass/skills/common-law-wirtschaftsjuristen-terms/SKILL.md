@@ -1,6 +1,6 @@
 ---
 name: common-law-wirtschaftsjuristen-terms
-description: "Wirtschaftsjuristen Terms: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Wirtschaftsjuristen Terms im Common Law (Orientierung): Dieser Skill arbeitet Wirtschaftsjuristen Terms als zusammenhängenden Arbeitsgang im Plugin Common Law Kompass ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Wirtschaftsjuristen Terms

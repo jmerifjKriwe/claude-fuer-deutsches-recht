@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-018-erster-titel-15-buergschaft
-description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten

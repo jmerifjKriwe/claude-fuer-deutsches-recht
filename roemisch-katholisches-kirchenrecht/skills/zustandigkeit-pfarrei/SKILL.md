@@ -1,6 +1,6 @@
 ---
 name: zustandigkeit-pfarrei
-description: "Zustandigkeit Pfarrei: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: Dieser Skill arbeitet Zustandigkeit Pfarrei als zusammenhängenden Arbeitsgang im Plugin Roemisch Katholisches Kirchenrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Zustandigkeit Pfarrei

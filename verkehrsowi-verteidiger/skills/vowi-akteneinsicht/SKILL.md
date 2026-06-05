@@ -1,6 +1,6 @@
 ---
 name: vowi-akteneinsicht
-description: "Vowi Akteneinsicht: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger: Dieser Skill arbeitet Vowi Akteneinsicht als zusammenhängenden Arbeitsgang im Plugin Verkehrs-OWi-Verteidigung ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Vowi Akteneinsicht

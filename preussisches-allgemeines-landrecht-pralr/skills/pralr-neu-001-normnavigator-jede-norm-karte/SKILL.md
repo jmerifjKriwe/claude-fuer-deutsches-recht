@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-001-normnavigator-jede-norm-karte
-description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normnavigator jede PrALR-Norm als Karte erschließen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Normnavigator jede PrALR-Norm als Karte erschließen

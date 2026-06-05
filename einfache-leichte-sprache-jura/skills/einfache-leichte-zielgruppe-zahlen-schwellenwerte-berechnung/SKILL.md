@@ -1,6 +1,6 @@
 ---
 name: einfache-leichte-zielgruppe-zahlen-schwellenwerte-berechnung
-description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
 ---
 
 # Zielgruppe: Zahlen, Schwellenwerte und Berechnung

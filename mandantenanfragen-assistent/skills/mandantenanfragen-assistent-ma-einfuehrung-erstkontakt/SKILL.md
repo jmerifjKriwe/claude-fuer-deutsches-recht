@@ -1,14 +1,13 @@
 ---
 name: mandantenanfragen-assistent-ma-einfuehrung-erstkontakt
-description: "MA Einfuehrung Erstkontakt: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "MA Einfuehrung Erstkontakt im Mandantenanfragen-Triage: prüft konkret Erstkontakt-Typen einfuehrend, Erstvermerk fuer die Mandantenakte, Spezialfall Konfliktcheck im Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # MA Einfuehrung Erstkontakt
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **MA Einfuehrung Erstkontakt** im Plugin Mandantenanfragen-Assistent. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **MA Einfuehrung Erstkontakt** als zusammenhängenden Arbeitsgang im Mandantenanfragen-Triage. Im Mittelpunkt steht die Prüfung von Erstkontakt-Typen einfuehrend, Erstvermerk fuer die Mandantenakte, Spezialfall Konfliktcheck im Konzern. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-024-roemisches-byzantinisches
-description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht im Römisches Recht: Dieser Skill bearbeitet Römisches Recht und byzantinisches Sachenrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Römisches Recht und byzantinisches Sachenrecht

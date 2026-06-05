@@ -1,14 +1,13 @@
 ---
 name: europarecht-kompass-fristen-risikoampel-mandantenkommunikation
-description: "Fristen Risikoampel Mandantenkommunikation: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Fristen Risikoampel Mandantenkommunikation im Europarecht: prüft konkret Fristen- und Risikoampel im Plugin europarecht-kompass, Mandantenkommunikation im Plugin europarecht-kompass, Red-Team Qualitygate im Plugin europarecht-kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Fristen Risikoampel Mandantenkommunikation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Fristen Risikoampel Mandantenkommunikation** im Plugin Europarecht (EuGH, EU-Kommission). Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Fristen Risikoampel Mandantenkommunikation** als zusammenhängenden Arbeitsgang im Europarecht. Im Mittelpunkt steht die Prüfung von Fristen- und Risikoampel im Plugin europarecht-kompass, Mandantenkommunikation im Plugin europarecht-kompass, Red-Team Qualitygate im Plugin europarecht-kompass. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

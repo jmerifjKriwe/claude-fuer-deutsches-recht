@@ -1,6 +1,6 @@
 ---
 name: werbung-beweislast
-description: "Werbung Beweislast: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Werbung Beweislast im KI-Governance: Dieser Skill arbeitet Werbung Beweislast als zusammenhängenden Arbeitsgang im Plugin KI-Governance ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Werbung Beweislast

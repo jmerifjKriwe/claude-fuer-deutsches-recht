@@ -1,14 +1,13 @@
 ---
 name: staat-kelsen-demokratie-abwaegung-transparenz
-description: "Staat Kelsen Demokratie Abwaegung Transparenz: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Staat Kelsen Demokratie Abwaegung Transparenz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Staat Kelsen Demokratie Abwaegung Transparenz** im Plugin Rechtstheorie Rechtsphilosophie. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Staat Kelsen Demokratie Abwaegung Transparenz** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

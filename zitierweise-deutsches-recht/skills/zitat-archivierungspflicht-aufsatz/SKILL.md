@@ -1,14 +1,13 @@
 ---
 name: zitat-archivierungspflicht-aufsatz
-description: "Zitat Archivierungspflicht Aufsatz: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Zitat Archivierungspflicht Aufsatz im Zitierweise im deutschen Recht: prüft konkret Archivierungspflicht der zitierten Quelle, Aufsatz in juristischer Zeitschrift nur bei vorliegendem, Fachgerichtsbarkeit zitieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Zitat Archivierungspflicht Aufsatz
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Zitat Archivierungspflicht Aufsatz** im Plugin Zitierweise deutsches Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Zitat Archivierungspflicht Aufsatz** als zusammenhängenden Arbeitsgang im Zitierweise im deutschen Recht. Im Mittelpunkt steht die Prüfung von Archivierungspflicht der zitierten Quelle, Aufsatz in juristischer Zeitschrift nur bei vorliegendem, Fachgerichtsbarkeit zitieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

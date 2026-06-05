@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement-klagewerkstatt-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Chronologie und Belegmatrix im Plugin Forderungsmanagement Klagewerkstatt: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
 ---
 
 # Chronologie und Belegmatrix

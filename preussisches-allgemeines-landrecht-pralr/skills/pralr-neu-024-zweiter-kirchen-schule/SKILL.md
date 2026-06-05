@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-024-zweiter-kirchen-schule
-description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Kirchen Schule Armenwesen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Zweiter Teil Kirchen Schule Armenwesen

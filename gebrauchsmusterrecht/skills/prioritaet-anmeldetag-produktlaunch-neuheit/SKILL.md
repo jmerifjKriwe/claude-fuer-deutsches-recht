@@ -1,14 +1,13 @@
 ---
 name: prioritaet-anmeldetag-produktlaunch-neuheit
-description: "Prioritaet Anmeldetag Produktlaunch Neuheit: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Prioritaet Anmeldetag Produktlaunch Neuheit im Gebrauchsmusterrecht: prüft konkret Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen, Produktlaunch und Neuheit koordinieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Prioritaet Anmeldetag Produktlaunch Neuheit
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Prioritaet Anmeldetag Produktlaunch Neuheit** im Plugin Gebrauchsmusterrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Prioritaet Anmeldetag Produktlaunch Neuheit** als zusammenhängenden Arbeitsgang im Gebrauchsmusterrecht. Im Mittelpunkt steht die Prüfung von Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen, Produktlaunch und Neuheit koordinieren. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

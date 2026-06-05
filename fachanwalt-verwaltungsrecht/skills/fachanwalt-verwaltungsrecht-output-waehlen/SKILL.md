@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Plugin Fachanwalt Verwaltungsrecht: Diese Output-Weiche für Fachanwalt Verwaltungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

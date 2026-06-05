@@ -1,14 +1,13 @@
 ---
 name: oeffentliches-wirtschaftsrecht-oew-messegesellschaft-beihilfe
-description: "OEW Messegesellschaft Beihilfe: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "OEW Messegesellschaft Beihilfe im Öffentliches Wirtschaftsrecht: prüft konkret Öffentliches Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # OEW Messegesellschaft Beihilfe
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OEW Messegesellschaft Beihilfe** im Plugin Oeffentliches Wirtschaftsrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **OEW Messegesellschaft Beihilfe** als zusammenhängenden Arbeitsgang im Öffentliches Wirtschaftsrecht. Im Mittelpunkt steht die Prüfung von Öffentliches Wirtschaftsrecht und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

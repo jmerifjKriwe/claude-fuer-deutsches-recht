@@ -1,14 +1,13 @@
 ---
 name: gleichheit-praejudizien-interpretation
-description: "Gleichheit Praejudizien Interpretation: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Gleichheit Praejudizien Interpretation im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Gleichbehandlung durch Praejudizien, Prueft Text, Sprecherintention, objektivierten Sinn. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gleichheit Praejudizien Interpretation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Gleichheit Praejudizien Interpretation** im Plugin Rechtstheorie Rechtsphilosophie. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Gleichheit Praejudizien Interpretation** als zusammenhängenden Arbeitsgang im Rechtstheorie und Rechtsphilosophie. Im Mittelpunkt steht die Prüfung von Prueft Gleichbehandlung durch Praejudizien, Prueft Text, Sprecherintention. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

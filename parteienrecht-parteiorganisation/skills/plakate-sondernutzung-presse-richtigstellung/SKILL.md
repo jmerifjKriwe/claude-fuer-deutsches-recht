@@ -1,14 +1,13 @@
 ---
 name: plakate-sondernutzung-presse-richtigstellung
-description: "Plakate Sondernutzung Presse Richtigstellung: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Plakate Sondernutzung Presse Richtigstellung im Parteienrecht: prüft konkret Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Plakate Sondernutzung Presse Richtigstellung
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Plakate Sondernutzung Presse Richtigstellung** im Plugin Parteienrecht Parteiorganisation. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Plakate Sondernutzung Presse Richtigstellung** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Routet Plakatierung, Sondernutzung, kommunale Satzung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

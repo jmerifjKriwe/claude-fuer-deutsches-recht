@@ -1,6 +1,6 @@
 ---
 name: rom-neu-005-zwoelftafelrecht-schuldhaft-nexum
-description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Römisches Recht: Dieser Skill bearbeitet Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung

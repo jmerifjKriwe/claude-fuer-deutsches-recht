@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-029-normkarte-nachbarrecht-heutiger
-description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Nachbarrecht heutiger Fortwirkungscheck im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck

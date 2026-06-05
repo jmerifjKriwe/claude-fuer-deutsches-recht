@@ -1,14 +1,13 @@
 ---
 name: jurisdiktion-ungarn-competition-uruguay
-description: "Jurisdiktion Ungarn Competition Uruguay: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Jurisdiktion Ungarn Competition Uruguay im Kartellrecht (Marktabgrenzung): prüft konkret Jurisdiktionsskill Ungarn, Jurisdiktionsskill Uruguay, Jurisdiktionsskill USA, Jurisdiktionsskill Usbekistan. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Jurisdiktion Ungarn Competition Uruguay
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Jurisdiktion Ungarn Competition Uruguay** im Plugin Kartellrecht Marktabgrenzung Pruefung. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Jurisdiktion Ungarn Competition Uruguay** als zusammenhängenden Arbeitsgang im Kartellrecht (Marktabgrenzung). Im Mittelpunkt steht die Prüfung von Jurisdiktionsskill Ungarn, Jurisdiktionsskill Uruguay, Jurisdiktionsskill USA und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

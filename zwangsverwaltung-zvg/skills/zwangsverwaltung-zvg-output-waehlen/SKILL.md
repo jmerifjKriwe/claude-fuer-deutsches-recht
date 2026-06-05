@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-zvg-output-waehlen
-description: "Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "Output wählen im Zwangsverwaltung (ZVG): Diese Output-Weiche für Zwangsverwaltung Zvg entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
 ---
 
 # Output wählen

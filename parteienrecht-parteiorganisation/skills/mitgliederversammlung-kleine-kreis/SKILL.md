@@ -1,14 +1,13 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Mitgliederversammlung Kleine Kreis: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Mitgliederversammlung Kleine Kreis im Parteienrecht: prüft konkret Niedrigschwelliger für kleine Kreisverbände, Erstellt Einladung zur Kreis-/Mitgliederversammlung mit, Tagesordnung, Sat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Mitgliederversammlung Kleine Kreis
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Mitgliederversammlung Kleine Kreis** im Plugin Parteienrecht Parteiorganisation. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Mitgliederversammlung Kleine Kreis** als zusammenhängenden Arbeitsgang im Parteienrecht. Im Mittelpunkt steht die Prüfung von Niedrigschwelliger für kleine Kreisverbände, Erstellt Einladung zur Kreis-/Mitgliederversammlung mit, Tagesordnung. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

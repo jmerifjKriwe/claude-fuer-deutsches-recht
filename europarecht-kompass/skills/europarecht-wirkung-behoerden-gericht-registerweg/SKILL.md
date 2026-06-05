@@ -1,6 +1,6 @@
 ---
 name: europarecht-wirkung-behoerden-gericht-registerweg
-description: "Wirkung Behoerden Gericht Registerweg: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Wirkung Behoerden Gericht Registerweg im Europarecht: Dieser Skill arbeitet Wirkung Behoerden Gericht Registerweg als zusammenhängenden Arbeitsgang im Plugin Europarecht (EuGH, EU-Kommission) ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Wirkung Behoerden Gericht Registerweg

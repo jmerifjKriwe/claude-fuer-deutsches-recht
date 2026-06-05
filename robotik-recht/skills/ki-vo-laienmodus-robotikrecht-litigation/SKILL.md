@@ -1,14 +1,13 @@
 ---
 name: ki-vo-laienmodus-robotikrecht-litigation
-description: "KI VO Laienmodus Robotikrecht Litigation: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "KI VO Laienmodus Robotikrecht Litigation im Robotik- und KI-Recht: prüft konkret Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Näh. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # KI VO Laienmodus Robotikrecht Litigation
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 6 sachlich verwandte Arbeitsschritte rund um **KI VO Laienmodus Robotikrecht Litigation** im Plugin Robotik-Recht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **KI VO Laienmodus Robotikrecht Litigation** als zusammenhängenden Arbeitsgang im Robotik- und KI-Recht. Im Mittelpunkt steht die Prüfung von Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

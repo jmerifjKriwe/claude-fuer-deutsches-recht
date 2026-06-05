@@ -1,6 +1,6 @@
 ---
 name: vifr-planfeststellung
-description: "Vifr Planfeststellung: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat."
+description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht: Dieser Skill arbeitet Vifr Planfeststellung als zusammenhängenden Arbeitsgang im Plugin Verkehr-/Infrastrukturrecht ab — nach Aktenlage, Frist, Zuständigkeit, Beweislast und gewünschtem Output priorisiert."
 ---
 
 # Vifr Planfeststellung

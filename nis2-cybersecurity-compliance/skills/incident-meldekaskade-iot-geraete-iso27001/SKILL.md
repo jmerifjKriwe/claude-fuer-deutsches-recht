@@ -1,14 +1,13 @@
 ---
 name: incident-meldekaskade-iot-geraete-iso27001
-description: "Incident Meldekaskade IOT Geraete Iso27001: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Incident Meldekaskade IOT Geraete Iso27001 im NIS2-Cybersecurity-Compliance: prüft konkret Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussberich, Prüft IoT-Geräte im Unternehmen und Produktkontext, Mappt ISO 27001 Controls auf NIS-2. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Incident Meldekaskade IOT Geraete Iso27001
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Incident Meldekaskade IOT Geraete Iso27001** im Plugin Nis2 Cybersecurity Compliance. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Incident Meldekaskade IOT Geraete Iso27001** als zusammenhängenden Arbeitsgang im NIS2-Cybersecurity-Compliance. Im Mittelpunkt steht die Prüfung von Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussberich, Prüft IoT-Geräte im Unternehmen und Produktkontext und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

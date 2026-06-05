@@ -1,14 +1,13 @@
 ---
 name: vifr-aeg-bahnrecht-deutschlandticket
-description: "Vifr AEG Bahnrecht Deutschlandticket: bündelt 3 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Vifr AEG Bahnrecht Deutschlandticket im Verkehrs- und Infrastrukturrecht: prüft konkret Leitfaden AEG und Bahnrecht, Spezialfall Deutschlandticket und Tarifrecht OePNV, Spezialfall Luftverkehrsrecht und Flughafenausbau. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Vifr AEG Bahnrecht Deutschlandticket
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Vifr AEG Bahnrecht Deutschlandticket** im Plugin Verkehr-/Infrastrukturrecht. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Vifr AEG Bahnrecht Deutschlandticket** als zusammenhängenden Arbeitsgang im Verkehrs- und Infrastrukturrecht. Im Mittelpunkt steht die Prüfung von Leitfaden AEG und Bahnrecht, Spezialfall Deutschlandticket und Tarifrecht OePNV, Spezialfall Luftverkehrsrecht und Flughafenausbau. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-010-erster-titel-7-gewahrsam-besitz
-description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung

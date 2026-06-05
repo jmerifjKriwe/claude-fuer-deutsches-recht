@@ -1,14 +1,13 @@
 ---
 name: digital-services-algorithmen
-description: "Digital Services Algorithmen: bündelt 8 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert."
+description: "Digital Services Algorithmen im Bundesnetzagentur-Verfahren: prüft konkret Digital Services / Algorithmen Empfehlungssysteme DSA, Digital Services / Außergerichtliche Streitbeilegungsstelle, Digital Services / Dark Patterns DSA Schnittstelle, Digital Services / Datenzugang Forscher DSA. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Digital Services Algorithmen
 
 ## Arbeitsbereich
 
-Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Digital Services Algorithmen** im Plugin Bundesnetzagentur-Verfahren. Die Prüffelder bauen aufeinander auf: zuerst das tragende Feld nach der konkreten Aktenlage bestimmen, dann ergänzende Felder nur dort heranziehen, wo dieselbe Akte mehrere Punkte trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei sauber getrennt.
-
+Dieser Skill behandelt **Digital Services Algorithmen** als zusammenhängenden Arbeitsgang im Bundesnetzagentur-Verfahren. Im Mittelpunkt steht die Prüfung von Digital Services / Algorithmen Empfehlungssysteme DSA, Digital Services / Außergerichtliche Streitbeilegungsstelle, Digital Services / Dark Patterns DSA Schnittstelle und weiteren verwandten Aspekten. Die unten gelisteten Prüffelder bauen aufeinander auf: zuerst das im konkreten Fall tragende Feld identifizieren, dann ergänzend nur die Felder heranziehen, deren Tatbestand die Akte wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 ## Prüffelder
 
 | Prüffeld | Fokus |
@@ -24,9 +23,11 @@ Dieser Skill bündelt 8 sachlich verwandte Arbeitsschritte rund um **Digital Ser
 
 ## Arbeitsweg
 
-Im Plugin Bundesnetzagentur-Verfahren gilt für **Digital Services Algorithmen**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Bundesnetzagentur-Verfahren klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
+- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `digital-services-algorithmen-empfehlungssysteme-dsa`

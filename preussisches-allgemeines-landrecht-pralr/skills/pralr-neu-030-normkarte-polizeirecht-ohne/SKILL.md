@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-030-normkarte-polizeirecht-ohne
-description: "PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis."
+description: "PrALR: Normkarte Polizeirecht ohne Anachronismus im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Polizeirecht ohne Anachronismus im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird."
 ---
 
 # PrALR: Normkarte Polizeirecht ohne Anachronismus
