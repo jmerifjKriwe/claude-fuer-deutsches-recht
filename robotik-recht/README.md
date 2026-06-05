@@ -90,59 +90,59 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `accuracy-robustness-cybersecurity-ai` | Prüft Genauigkeit, Robustheit und Cybersicherheit von KI-Funktionen im Roboter mit realistischen Einsatzgrenzen. |
 | `agile-entwicklung-und-compliance-gates` | Entwirft Compliance-Gates für agile Robotikentwicklung: Definition of Done, Release-Board, Sicherheitsfreigabe und Rechtsfreigabe. |
 | `anwaltliche-quellenhygiene-robotik` | Sichert Quellenhygiene: keine Paywall-Blindzitate, keine erfundenen Rechtsprechungsfundstellen, Normen live prüfen, Aktenzeichen nur verifiziert. |
-| `arbeitsschutz-betrsichv-autonome` | Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `arbeitsschutz-betrsichv-autonome` | Arbeitsschutz Betrsichv Autonome: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `arbeitsschutz-betrsichv-robotik` | Prüft Arbeitsschutz und Betriebssicherheit bei Robotern im Betrieb: Gefährdungsbeurteilung, Unterweisung, Prüfungen, Betriebsanweisung. |
-| `arbeitswelt-cobot-beschaffung-oeffentlich` | Arbeitswelt Cobot Check, Beschaffung Öffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belas... |
+| `arbeitswelt-cobot-beschaffung-oeffentlich` | Arbeitswelt Cobot Beschaffung Oeffentlich: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `arbeitswelt-cobot-check` | Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung. |
 | `autonome-lieferroboter-oeffentlicher-raum` | Prüft autonome Lieferroboter im öffentlichen Raum: Verkehrsrecht, Sondernutzung, Haftung, Datenschutz und kommunale Genehmigungen. |
-| `barrierefreiheit-inklusion-batterie` | Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und li... |
+| `barrierefreiheit-inklusion-batterie` | Barrierefreiheit Inklusion Batterie: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `barrierefreiheit-und-inklusion-robotik` | Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedienung bei Robotikprodukten und Nutzerinterfaces. |
 | `batterie-ladeinfrastruktur-und-brandschutz` | Prüft Batterie, Ladeinfrastruktur, Brandschutz, Transport, Lagerung, Rückruf und Versicherungsfragen bei mobilen Robotern. |
 | `bau-und-inspektionsroboter` | Prüft Bau-, Inspektions- und Wartungsroboter: Baustelle, Arbeitsschutz, Drittschäden, Betreiberorganisation und Beweissicherung. |
 | `beschaeftigtendatenschutz-cobot` | Prüft Beschäftigtendatenschutz bei Cobots: Leistungsdaten, Standort, Video, Betriebsrat, Zweckbindung und Löschfristen. |
 | `beschaffung-oeffentlich-privat` | Unterstützt Beschaffung von Robotik durch Unternehmen oder öffentliche Hand: Lastenheft, Vergabe, Compliance-Kriterien, Abnahme, Gewährleistung und Exit. |
-| `betreiber-mitverschulden-betriebsanleitung` | Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `betreiber-mitverschulden-betriebsanleitung` | Betreiber Mitverschulden Betriebsanleitung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `betreiber-mitverschulden-und-fehlbedienung` | Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende Wartung, Umgehung von Schutzfunktionen, Schulungslücken und Logspuren. |
 | `betreiberpflichten-training` | Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort. |
 | `betriebsanleitung-sprache-und-warnhinweise` | Prüft Betriebsanleitung, Sicherheitsinformationen, digitale Anleitung, Sprache, Restgefahren und Verständlichkeit für Zielgruppen. |
 | `beweislast-und-offenlegung-produkthaftung` | Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, Kausalität und Schwierigkeiten komplexer Robotiksysteme. |
 | `beweismatrix-logauswertung` | Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen. |
-| `biometrie-emotion-ce-zeichen-chirurgie-op` | Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächst... |
+| `biometrie-emotion-ce-zeichen-chirurgie-op` | Biometrie Emotion CE Zeichen Chirurgie OP: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `biometrie-emotion-und-personenerkennung` | Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern. |
 | `board-c-level-briefing` | Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstands-/C-Level-Vorlagen mit Risiko, Optionen, Zeitplan und Budget. |
 | `ce-technische` | Erstellt eine CE-/Konformitätsakte mit technischer Dokumentation, EU-Konformitätserklärung, Einbauerklärung, Anleitung, Prüfprotokollen und offenen Nachweisen. |
 | `ce-zeichen-fehlgebrauch-und-abmahnung` | Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlagen, Wettbewerbsrecht und Abmahnrisiken. |
 | `chirurgie-und-op-robotik` | Prüft OP- und Chirurgierobotik: MDR-Klasse, klinische Bewertung, Vigilanz, Betreiber, Aufklärung, Wartung und Behandlungsfehlernähe. |
-| `cra-produkt-lager-intralogistikflotte` | Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `cra-produkt-lager-intralogistikflotte` | CRA Produkt Lager Intralogistikflotte: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `cra-produkt-mit-digitalen-elementen` | Prüft Cyber Resilience Act für Roboter, Steuerungssoftware, Apps, Cloud-Komponenten und Updatekanäle. |
 | `data-act-roboterdaten` | Prüft Data-Act-Fragen bei vernetzten Robotern: Nutzerdatenzugang, B2B-Datenbereitstellung, Geschäftsgeheimnisse und Cloudwechsel. |
 | `datenminimierung-edge-cloud` | Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention. |
-| `datenminimierung-edge-datensatzqualitaet-bias` | Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `datenminimierung-edge-datensatzqualitaet-bias` | Datenminimierung Edge Datensatzqualitaet Bias: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `datensatzqualitaet-und-bias-hri` | Prüft Datenqualität und Bias bei Robotern, die Menschen erkennen, unterstützen, bewerten oder priorisieren. |
-| `datenschutz-cyber-first-year-uebergangsrecht` | Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `datenschutz-cyber-first-year-uebergangsrecht` | Datenschutz Cyber First Year Uebergangsrecht: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `datenschutz-cyber-intake` | Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle. |
-| `datenschutz-kameras-digitaler-zwilling-dronen` | Datenschutz Kameras Und Sensorik, Digitaler Zwilling Und Simulation, Dronen Und Robotik Schnittstelle, Dsfa Für Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belas... |
+| `datenschutz-kameras-digitaler-zwilling-dronen` | Datenschutz Kameras Digitaler Zwilling Dronen: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `datenschutz-kameras-und-sensorik` | Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG. |
-| `datenverlust-digitaler-deliktische-haftung` | Datenverlust Und Digitaler Schaden, Deliktische Haftung Paragraph 823 Bgb, Haftung Arzt Klinik Hersteller, Schadensberechnung Produktionsausfall: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und l... |
+| `datenverlust-digitaler-deliktische-haftung` | Datenverlust Digitaler Deliktische Haftung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `datenverlust-und-digitaler-schaden` | Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden. |
 | `deliktische-haftung-paragraph-823-bgb` | Prüft deliktische Haftung nach § 823 BGB bei Robotik: Verkehrssicherung, Organisationsverschulden, Schutzgesetze, Beweis und Verschulden. |
 | `digitaler-zwilling-und-simulation` | Prüft digitalen Zwilling, Simulation, Validierung, virtuelle Inbetriebnahme und Beweiswert für Konformität und Haftung. |
 | `dronen-und-robotik-schnittstelle` | Prüft Drohnen als Robotik-Schnittstelle: EU-UAS-Regeln, Kamera, autonome Funktionen, Haftung und Einsatzplanung. |
 | `dsfa-fuer-robotik` | Erstellt Datenschutz-Folgenabschätzung für Roboter mit Sensorik, Telemetrie, KI-Auswertung oder vulnerablen Nutzergruppen. |
-| `dual-use-eu-umsetzung` | Dual Use Und Militaerische Robotik, Eu De Umsetzung Und Rechtsstand Livecheck: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `dual-use-eu-umsetzung` | Dual USE EU Umsetzung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `dual-use-und-militaerische-robotik` | Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen. |
 | `eu-de-umsetzung-und-rechtsstand-livecheck` | Prüft aktuellen Rechtsstand, Übergangsrecht, nationale Durchführungsgesetze, delegierte Rechtsakte und Leitlinien vor jeder Ausgabe. |
 | `eu-konformitaetserklaerung-einbauerklaerung` | Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge. |
-| `eu-konformitaetserklaerung-foss-open` | Eu Konformitaetserklaerung Und Einbauerklaerung, Foss Und Open Source Komponenten, Foundation Model Und Gpai Im Roboter, Funkanlagen Und Konnektivitaet: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlag... |
+| `eu-konformitaetserklaerung-foss-open` | EU Konformitaetserklaerung Foss Open: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `first-year-associate-robotik` | Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team. |
 | `foss-und-open-source-komponenten` | Prüft FOSS in Robotik: kommerzielle Bereitstellung, Hochrisiko-KI-Ausnahmen, SBOM, Lizenzen, Security und Haftungsallokation. |
 | `foundation-model-und-gpai-im-roboter` | Prüft GPAI-/Foundation-Model-Komponenten im Roboter: Anbieterrolle, Integrationspflichten, Zweckbestimmung, Logging und Instructions. |
 | `funkanlagen-und-konnektivitaet` | Prüft Funkmodule, WLAN, 5G, Bluetooth, RED, EMV, Cybersecurity und Betriebsumgebung. |
-| `geschaeftsgeheimnisse-logdaten-grundrechte` | Geschaeftsgeheimnisse Und Logdaten, Grundrechte Und Psychische Belastung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `geschaeftsgeheimnisse-logdaten-grundrechte` | Geschaeftsgeheimnisse Logdaten Grundrechte: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `geschaeftsgeheimnisse-und-logdaten` | Prüft Schutz von Geschäftsgeheimnissen in Logs, Diagnosedaten, Trainingsdaten, Quellcode, Sachverständigenverfahren und Behördenkontakten. |
 | `grundrechte-und-psychische-belastung` | Prüft grundrechtliche und soziale Risiken: Nähe, Druck, Überwachung, Pflegeabhängigkeit, Kinder, Arbeitsplatz und Würde. |
 | `haftung-arzt-klinik-hersteller` | Ordnet Haftung zwischen Arzt, Klinik, Betreiber, Hersteller, Wartung und Softwareanbieter bei Medizinrobotik. |
-| `harmonisierte-normen-human-oversight` | Harmonisierte Normen Iso Ts 15066, Human Oversight In Physischer Robotik, Importeur Haendler Fulfilment Robotik, Ki Training Mit Roboterdaten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und lief... |
+| `harmonisierte-normen-human-oversight` | Harmonisierte Normen Human Oversight: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `harmonisierte-normen-iso-ts-15066` | Plant Normenrecherche zu industrieller Robotik, kollaborierenden Robotern, Sicherheitsfunktionen und Stand der Technik. |
 | `human-oversight-in-physischer-robotik` | Prüft menschliche Aufsicht bei physischer Robotik: Not-Halt, Override, Monitoring, Kompetenz, Eskalation und Verantwortlichkeit. |
 | `human-robot-interaction` | Prüft besondere Mensch-Roboter-Interaktion: Nähe, Vertrauen, Manipulation, psychische Belastung, vulnerable Nutzer und klare Grenzen. |
@@ -154,23 +154,23 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `ki-vo-artikel-6-hochrisiko-robotik` | Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz. |
 | `ki-vo-deployer-pflichten-robotik` | Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung. |
 | `ki-vo-integrationscheck` | Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen. |
-| `ki-vo-laienmodus-robotikrecht-litigation` | Ki Vo Integrationscheck, Laienmodus Robotikrecht, Litigation Vorbereitung, Marktueberwachung Dialog: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `ki-vo-laienmodus-robotikrecht-litigation` | KI VO Laienmodus Robotikrecht Litigation: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `ki-vo-provider-qms-und-risk-management` | Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight. |
 | `ki-vo-verbotene-praktiken-robotik` | Prüft Manipulation, Vulnerabilität, Social Scoring, biometrische Kategorisierung und Emotionserkennung im Robotikkontext. |
 | `klinische-bewertung-robotik` | Prüft klinische Bewertung und Zweckbestimmung bei medizinischer Robotik mit KI-Funktion. |
 | `kollaborierende-roboter-cobot-safety` | Prüft Cobots: Kraft-/Leistungsbegrenzung, Sicherheitsabstände, Schutzräume, Betriebsarten, Validierung und Arbeitsplatzintegration. |
-| `kommunal-behoerdenrobotik` | Kommunal Und Behoerdenrobotik, Konformitaetsbescheinigung Robotik Ki, Konformitaetsbewertung Modulwahl, Landwirtschaftsroboter Und Autonome Feldtechnik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlag... |
+| `kommunal-behoerdenrobotik` | Kommunal Behoerdenrobotik: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `kommunal-und-behoerdenrobotik` | Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick. |
 | `konformitaetsbescheinigung-robotik-ki` | Erstellt interne Konformitätsbescheinigung für Robotik mit KI: Scope, Regime, Nachweise, Lücken, Restrisiko, Freigabe. |
 | `konformitaetsbewertung-modulwahl` | Wählt Konformitätsbewertungsverfahren, interne Fertigungskontrolle, Baumusterprüfung oder Qualitätssicherung mit benannter Stelle. |
 | `lager-und-intralogistikflotte` | Prüft Roboterflotten in Lager und Intralogistik: Flottensteuerung, Zonen, Mitarbeiterschutz, Telemetrie, Wartung und Incident Logs. |
 | `laienmodus-robotikrecht` | Erklärt Robotik-Recht in verständlicher Sprache für Gründer, Ingenieurinnen, Betreiber, Versicherer und Behörden, ohne juristische Genauigkeit zu verlieren. |
 | `landwirtschaftsroboter-autonome-feldtechnik` | Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung. |
-| `lieferantenqualifizierung-sensor` | Lieferantenqualifizierung Sensor Cloud, Lieferantenregress Und Indemnity: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `lieferantenqualifizierung-sensor` | Lieferantenqualifizierung Sensor: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `lieferantenqualifizierung-sensor-cloud` | Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung. |
 | `lieferantenregress-und-indemnity` | Baut Regress- und Freistellungskette gegen Zulieferer, Softwareanbieter, Sensorhersteller, Cloudprovider und Integratoren. |
 | `litigation-vorbereitung` | Bereitet Robotikstreit vor: Anspruchsgrundlagen, Beweislast, Sachverständige, Besichtigung, Geheimnisschutz, Produktakte und Vergleichsoptionen. |
-| `logging-traceability-marktueberwachung` | Logging Und Traceability Robotik, Marktueberwachung Unterlagenvorlage, Maschine Oder Unvollstaendige Maschine, Maschinenverordnung Annex Iii Hochrisiko: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlag... |
+| `logging-traceability-marktueberwachung` | Logging Traceability Marktueberwachung: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `logging-und-traceability-robotik` | Prüft Logging, Traceability, Audit Trail und forensische Nutzbarkeit bei Unfall, Datenschutzvorfall und Produkthaftung. |
 | `marktueberwachung-dialog` | Bereitet Antworten an Marktüberwachung, BAuA-/Landesbehörden, Safety-Gate-Meldungen, Unterlagenvorlage, Korrekturmaßnahmen und Rückrufkommunikation vor. |
 | `marktueberwachung-unterlagenvorlage` | Bereitet Unterlagenvorlage und Argumentation gegenüber Marktüberwachung vor: technische Dokumentation, Risikobewertung, Normen, Maßnahmen. |
@@ -178,17 +178,17 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `maschinenverordnung-annex-iii-hochrisiko` | Prüft, ob Robotik unter besondere Maschinenkategorien und strengere Konformitätsbewertung fällt. |
 | `mdr-gesundheitsrobotik` | Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen. |
 | `medizinprodukt-software-ki-roboter` | Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik. |
-| `medizinprodukt-software-mitbestimmung` | Medizinprodukt Software Ki Roboter, Mitbestimmung Betriebsrat Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `medizinprodukt-software-mitbestimmung` | Medizinprodukt Software Mitbestimmung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `mitbestimmung-betriebsrat-robotik` | Prüft Betriebsratsrechte bei Robotik, Leistungs-/Verhaltenskontrolle, Arbeitsabläufen, Schulung und Gesundheitsschutz. |
 | `mobile-roboter-amr-agv` | Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege. |
-| `mobile-roboter-nis2-betreiber` | Mobile Roboter Amr Agv, Nis2 Betreiber Kritische Sektoren, Patientenaufklaerung Robotik, Pflege Und Assistenzroboter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastba... |
+| `mobile-roboter-nis2-betreiber` | Mobile Roboter Nis2 Betreiber: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `nis2-betreiber-kritische-sektoren` | Prüft NIS2-Schnittstellen, wenn Roboter in kritischen Sektoren, Gesundheit, Logistik, Energie oder öffentlicher Verwaltung eingesetzt werden. |
 | `normen-standardrecherche` | Plant Recherche nach harmonisierten Normen, ISO/IEC-Standards, C-Normen, Stand der Technik und behördlichen Leitlinien ohne Normenblindflug. |
-| `open-source-post-market-presse` | Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `open-source-post-market-presse` | Open Source Post Market Presse: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `open-source-sbom` | Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen. |
 | `patientenaufklaerung-robotik` | Prüft Patientenaufklärung bei robotergestützter Behandlung: Behandlungsalternative, Risiken, menschliche Kontrolle und Dokumentation. |
 | `pflege-und-assistenzroboter` | Prüft Pflege- und Assistenzrobotik in Heim, Klinik und Haushalt: Würde, Aufsicht, Einwilligung, Haftung, MDR-Nähe und Datenschutz. |
-| `pilotbetrieb-beta-prodhaftg-pld` | Pilotbetrieb Und Beta Robotik, Prodhaftg Und Neue Pld Vergleich: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `pilotbetrieb-beta-prodhaftg-pld` | Pilotbetrieb Beta Prodhaftg PLD: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `pilotbetrieb-und-beta-robotik` | Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned. |
 | `post-market-monitoring` | Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review. |
 | `presse-krisenkommunikation` | Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar. |
@@ -196,7 +196,7 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `prodhaftg-und-neue-pld-vergleich` | Vergleicht deutsches ProdHaftG mit neuer EU-Produkthaftungsrichtlinie: Software, digitale Dienste, Offenlegung, Beweislast und Übergang. |
 | `produkt-rollenprofil` | Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer. |
 | `produktakte-gap-analyse` | Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards. |
-| `produktakte-gap-produktbeobachtung-field` | Produktakte Gap Analyse, Produktbeobachtung Und Field Data, Produktfehler Verbrauchererwartung Robotik, Produktsicherheit Vs Betriebssicherheit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und li... |
+| `produktakte-gap-produktbeobachtung-field` | Produktakte GAP Produktbeobachtung Field: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `produktbeobachtung-und-field-data` | Prüft Produktbeobachtungspflicht und Auswertung von Felddaten ohne Datenschutz- und Geschäftsgeheimnisfehler. |
 | `produktfehler-verbrauchererwartung-robotik` | Prüft Produktfehler bei Robotern: berechtigte Sicherheitserwartung, Lernfähigkeit, Updates, Warnungen, Autonomie und Einsatzumgebung. |
 | `produktsicherheit-vs-betriebssicherheit` | Trennt Inverkehrbringen/Produktsicherheit von Betrieb/Arbeitsschutz und verhindert falsche Verantwortungszuordnung. |
@@ -204,20 +204,20 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `qualitaetsmanagement-robotikhersteller` | Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten. |
 | `quasihersteller-private-label-robotik` | Prüft Private-Label-, Rebranding- und Quasihersteller-Konstellationen bei Robotern und KI-Komponenten. |
 | `rechtsregime-matrix` | Baut eine Regime-Matrix aus Maschinenverordnung, KI-VO, ProdSG/GPSR, ProdHaftG/PLD, MDR, DSGVO, CRA, Data Act, NIS2 und Vertrag. |
-| `rehabilitations-exoskelett-remote-update` | Rehabilitations Und Exoskelett Robotik, Remote Update Und Secure Channel, Risikobeurteilung En Iso 12100, Rollen Hersteller Anbieter Integrator: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und li... |
+| `rehabilitations-exoskelett-remote-update` | Rehabilitations Exoskelett Remote Update: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `rehabilitations-und-exoskelett-robotik` | Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle. |
 | `remote-update-und-secure-channel` | Prüft Remote-Update-Kanäle, Signaturen, Rollback, Fail-safe, Änderungsdokumentation und Verantwortung nach Update. |
 | `risikobeurteilung-en-iso-12100` | Prüft Risikobeurteilung nach Stand der Technik: Grenzen, Gefährdungen, Risikominderung, Validierung und Restgefahren. |
 | `risikoklassifizierung-schnelltest` | Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten. |
-| `risikoklassifizierung-schnelltest-rueckruf` | Risikoklassifizierung Schnelltest, Rueckruf Und Field Action, Sachverstaendigenbriefing, Security By Design Sprint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbare... |
+| `risikoklassifizierung-schnelltest-rueckruf` | Risikoklassifizierung Schnelltest Rueckruf: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `robot-as-a-service-vertrag` | Entwirft und prüft Robot-as-a-Service-Verträge: Leistungsbeschreibung, SLA, Updates, Daten, Haftung, Wartung, Exit und Versicherung. |
 | `robotik-abschluss-ce-haftung` | Red-Team-Check für jedes Ergebnis: Normenstand, Quellen, fehlende Tatsachen, Gegenargumente, technische Annahmen, Datenschutz und Haftungsfolgen. |
 | `robotik-gutachten-memo-output` | Wählt den passenden Output: Kurzvermerk, Vorstandsvorlage, Gutachten, Behördenantwort, Rückrufplan, Vertragsredline, Klageskizze oder Counsel-Briefing. |
 | `robotik-haftungsampel` | Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte. |
-| `robotik-ki-anhang-iii-artikel-system` | KI Anhang Iii Robotik Usecases / KI Artikel System Robotik: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
-| `robotik-ki-artikel-hochrisiko-deployer-pflichten-provider-qms` | KI Artikel Hochrisiko Robotik / KI Deployer Pflichten Robotik / KI Provider Qms Risk Management / KI Verbotene Praktiken Robotik / 2 ergänzende Prüffelder: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt... |
-| `robotik-produktsicherheitsrechtliche-werbung-quasihersteller` | Produktsicherheitsrechtliche Werbung / Quasihersteller Private Label Robotik: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
-| `robotik-qualitaetsmanagement-robotikhersteller-accuracy` | Qualitaetsmanagement Robotikhersteller / Accuracy Robustness Cybersecurity AI / Agile Entwicklung Compliance Gates / Anwaltliche Quellenhygiene Robotik: bearbeitet die maßgeblichen Prüffelder, setzt den passenden Prüfpfad und erzeugt den... |
+| `robotik-ki-anhang-iii-artikel-system` | KI Anhang III Artikel System: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `robotik-ki-artikel-hochrisiko-deployer-pflichten-provider-qms` | KI Artikel Hochrisiko Deployer Pflichten Provider QMS: bündelt 6 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `robotik-produktsicherheitsrechtliche-werbung-quasihersteller` | Produktsicherheitsrechtliche Werbung Quasihersteller: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `robotik-qualitaetsmanagement-robotikhersteller-accuracy` | Qualitaetsmanagement Robotikhersteller Accuracy: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `robotik-recht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `robotik-recht-dokumentenintake-datenraum` | Liest Robotik-Datenräume mit Anleitungen, CE-Unterlagen, Risikobeurteilung, Logs, Verträgen, Incident Reports und ordnet die nächsten Prüfschritte. |
 | `robotik-recht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
@@ -227,44 +227,44 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `robotik-uebergangsrecht-eu-produktsicherheit` | Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen. |
 | `rollen-hersteller-anbieter-integrator` | Prüft Hersteller-, Anbieter- und Integratorrollen bei Robotern mit Hardware, Software, KI-Modell und eigenem Markenauftritt. |
 | `rueckruf-field-action` | Plant freiwillige oder behördliche Korrekturmaßnahme: Risiko, Reichweite, Kundenliste, Software-Patch, Austausch, Stilllegung und Nachweisführung. |
-| `rueckrufpflicht-safety-gate` | Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `rueckrufpflicht-safety-gate` | Rueckrufpflicht Safety Gate: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `rueckrufpflicht-und-safety-gate` | Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. |
 | `safety-gate-und-oeffentliche-warnung` | Prüft Folgen von Safety-Gate-Warnung, öffentlicher Produktwarnung, Reputationsrisiko und Korrekturkommunikation. |
-| `sbom-cyber-serviceroboter-haushalt` | Sbom Und Cyber Dokumentation, Serviceroboter Haushalt Gpsr, Sicherheits Und Ueberwachungsroboter, Sicherheitskomponente Mit Ki: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächste... |
+| `sbom-cyber-serviceroboter-haushalt` | Sbom Cyber Serviceroboter Haushalt: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `sbom-und-cyber-dokumentation` | Prüft SBOM, Dependency-Management, CVE-Tracking, Sicherheitsanforderungen und Nachweise für Robotiksoftware. |
 | `schadensberechnung-produktionsausfall` | Prüft Schaden bei Produktionsausfall, Körperverletzung, Sachschaden, Datenverlust, Rückrufkosten und Regress. |
 | `security-by-design-sprint` | Führt Produktteam durch Security-by-Design: Bedrohungsmodell, Updatekanal, SBOM, Schwachstellenprozess, Logging und Notfallplan. |
 | `serviceroboter-haushalt-gpsr` | Prüft Service- und Haushaltsroboter: Verbraucherprodukt, GPSR, Instruktionen, Updatepflicht, Sicherheitswarnung und Rückruf. |
 | `sicherheits-und-ueberwachungsroboter` | Prüft Sicherheitsroboter, Wachroboter und Zugangskontrolle: Hausrecht, Datenschutz, Biometrie, Einsatzgrenzen und Beweisverwertung. |
 | `sicherheitskomponente-mit-ki` | Prüft KI als Sicherheitskomponente einer Maschine: Schutzfunktion, Konformitätsbewertung, Hochrisiko-KI und technische Dokumentation. |
-| `smart-factory-softwareupdate-als` | Smart Factory Und Industrie 4 0, Softwareupdate Als Produktbezogener Dienst: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `smart-factory-softwareupdate-als` | Smart Factory Softwareupdate ALS: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `smart-factory-und-industrie-4-0` | Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten. |
 | `softwareupdate-als-produktbezogener-dienst` | Prüft Update, Cloud-Funktion, Kartenmaterial, KI-Modell und andere digitale Dienste als Sicherheits- und Haftungsfaktor. |
 | `sozialer-humanoider-roboter` | Prüft soziale/humanoide Roboter: Vertrauen, Anthropomorphisierung, Manipulation, Kinder, Pflege, Transparenz und Datenschutz. |
-| `sozialer-humanoider-spielzeug-kinderroboter` | Sozialer Humanoider Roboter, Spielzeug Und Kinderroboter, Strom Emv Und Niederspannung, Systemintegrator Als Hersteller: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belas... |
+| `sozialer-humanoider-spielzeug-kinderroboter` | Sozialer Humanoider Spielzeug Kinderroboter: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `spielzeug-und-kinderroboter` | Prüft Kinder-, Lern- und Spielzeugroboter: Spielzeugrecht, GPSR, Datenschutz Minderjähriger, KI-Transparenz und Verbraucherschutz. |
 | `strom-emv-und-niederspannung` | Prüft elektrische Sicherheit, EMV, Niederspannung, Ladegeräte und Schnittstelle zur Maschinenverordnung. |
 | `systemintegrator-als-hersteller` | Bewertet, wann ein Systemintegrator durch Zusammenbau, Marke, Umbau oder Konfiguration zum verantwortlichen Hersteller wird. |
-| `technische-besichtigung-testdaten-validierung` | Technische Besichtigung Und Geheimnisschutz, Testdaten Und Validierung Vor Marktstart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `technische-besichtigung-testdaten-validierung` | Technische Besichtigung Testdaten Validierung: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `technische-besichtigung-und-geheimnisschutz` | Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll. |
 | `testdaten-und-validierung-vor-marktstart` | Prüft Testdaten, Validierungsplan, Feldtest, Pilotkunden, Beta-Betrieb und regulatorische Grenzen vor Marktstart. |
-| `transparenz-nutzerinformation-unfallanalyse` | Transparenz Und Nutzerinformation, Unfallanalyse Chain Of Custody, Vergaberecht Robotik Beschaffung, Vergleich Und Sanierung Nach Incident: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert... |
+| `transparenz-nutzerinformation-unfallanalyse` | Transparenz Nutzerinformation Unfallanalyse: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `transparenz-und-nutzerinformation` | Prüft Informationspflichten, Piktogramme, Bedienoberfläche, Datenschutzhinweise und KI-Transparenz für Mensch-Roboter-Interaktion. |
 | `unfall-incident-response` | Leitet nach Unfall, Beinaheunfall, Datenpanne oder Cybervorfall: Sicherung, Meldungen, Beweise, Kommunikation, Rückruf, Betreiber- und Herstellerfragen. |
 | `unfallanalyse-chain-of-custody` | Sichert Beweise nach Robotikunfall: Gerät, Logexport, Video, Firmware, Konfiguration, Zeugen, Wartung und Chain of Custody. |
 | `update-change-control` | Prüft Softwareupdates, KI-Modellwechsel, Fine-Tuning, Parametrisierung und wesentliche Veränderung mit Dokumentationsspur. |
 | `vergaberecht-robotik-beschaffung` | Prüft Vergabeunterlagen für Robotik: funktionale Anforderungen, Sicherheit, Daten, Barrierefreiheit, Wartung, Referenzen und Zuschlagskriterien. |
 | `vergleich-und-sanierung-nach-incident` | Entwirft Vergleichs- und Sanierungsstrategie nach Vorfall: Patch, Austausch, Entschädigung, NDA, Behördenkommunikation und Lessons Learned. |
-| `vernunftigerweise-vorhersehbarer` | Vernunftigerweise Vorhersehbarer Gebrauch, Versicherungsdeckung Robotik: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `vernunftigerweise-vorhersehbarer` | Vernunftigerweise Vorhersehbarer: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `vernunftigerweise-vorhersehbarer-gebrauch` | Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher. |
 | `versicherungs-regressakte` | Ordnet Versicherung, Produkthaftpflicht, Cyberversicherung, D&O, Regress gegen Lieferanten und Schadensdokumentation. |
-| `versicherungs-regressakte-vertrags` | Versicherungs Und Regressakte, Vertrags Und Lieferkettenintake, Zweckbestimmung Und Usecase, Robot As A Service Vertrag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belas... |
+| `versicherungs-regressakte-vertrags` | Versicherungs Regressakte Vertrags: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `versicherungsdeckung-robotik` | Prüft Produkthaftpflicht, Betriebshaftpflicht, Cyber, Rückrufkosten, D&O und Maschinenbruchversicherung für Robotikrisiken. |
 | `vertrags-lieferkettenintake` | Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster. |
 | `vigilanz-medizinrobotik` | Prüft Vigilanz und Post-Market Surveillance für Medizinrobotik nach MDR und nationalem Medizinprodukterecht. |
-| `vigilanz-medizinrobotik-vulnerability` | Vigilanz Medizinrobotik, Vulnerability Disclosure Und Reporting, Wesentliche Veraenderung Digital, Zweckbestimmung Enge Nutzungsbedingungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefer... |
+| `vigilanz-medizinrobotik-vulnerability` | Vigilanz Medizinrobotik Vulnerability: bündelt 4 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `vulnerability-disclosure-und-reporting` | Prüft Schwachstellenmanagement, Coordinated Vulnerability Disclosure, Meldepflichten, Patch-Triage und Kundeninformation. |
-| `wartungs-servicevertrag-beweislast` | Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `wartungs-servicevertrag-beweislast` | Wartungs Servicevertrag Beweislast: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 | `wartungs-und-servicevertrag-robotik` | Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation. |
 | `wesentliche-veraenderung-digital` | Prüft wesentliche physische oder digitale Veränderung durch Umbau, Retrofit, Update, Fine-Tuning oder neue Sensorik. |
 | `zweckbestimmung-enge-nutzungsbedingungen` | Bewertet enge Zweckbestimmungen, Nutzungsbedingungen, vorhersehbare Fehlanwendung und regulatorische Verlagerung auf Betreiber. |

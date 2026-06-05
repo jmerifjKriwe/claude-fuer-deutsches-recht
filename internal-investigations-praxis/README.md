@@ -45,32 +45,32 @@ Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `internal-investigations-praxis-kaltstart-triage` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `inv-014-redteam` | Stellt Gegenangriffsfragen an jede Untersuchungshypothese, deckt Beweislücken auf und prüft die Verwertbarkeit des Ermittlungsergebnisses. |
-| `inv-accounting-cyber` | Inv 032 Accounting Irregularity, Inv 033 Cyber Incident: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-audit-hr` | Inv 024 Audit Committee, Inv 025 Hr Misconduct: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-bank-gdpr` | Inv 040 Bank Regulatory Finding, Inv 041 Gdpr Fine Parallel: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-betriebsrat-datenschutz` | Inv 006 Betriebsrat, Inv 007 Datenschutz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-data-board` | Inv 022 Data Room For Counsel, Inv 023 Board Special Committee: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-document-cost` | Inv 048 Document Retention, Inv 049 Cost Recovery Employee: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-e-chat` | Inv 016 E Mail Review, Inv 017 Chat Review: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-expense-export` | Inv 028 Expense Fraud, Inv 029 Export Control Breach: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-geschaeftsgeheimnisse-stpo` | Inv 008 Geschaeftsgeheimnisse, Inv 009 Stpo Beschlagnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-honeypot-legal` | Inv 002 Honeypot Risiko, Inv 003 Legal Hold: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-insurance-press` | Inv 050 Insurance Notification, Inv 051 Press Strategy: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-lessons` | Inv 054 Lessons Learned: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-manager-dawn` | Inv 020 Manager Interview, Inv 021 Dawn Raid Playbook: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-mitarbeiterinterview-arbeitsrecht` | Inv 004 Mitarbeiterinterview, Inv 005 Arbeitsrecht Mitwirkung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-mobile-private` | Inv 018 Mobile Devices, Inv 019 Private Devices Byod: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-monitor-privilege` | Inv 046 Monitor Reporting, Inv 047 Privilege Log: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-public-healthcare` | Inv 038 Public Procurement, Inv 039 Healthcare Compliance: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-reporting-behoerdenstrategie` | Inv 011 Reporting, Inv 012 Behoerdenstrategie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-sanctions-cartel` | Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-sexual-bribery` | Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-termination-remediation` | Inv 044 Termination Strategy, Inv 045 Remediation Plan: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-third-vendor` | Inv 036 Third Party Agent, Inv 037 Vendor Kickback: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-trade-conflict` | Inv 034 Trade Secret Leak, Inv 035 Conflict Of Interest: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-us-auftrag` | Inv 010 Us Discovery, Inv 001 Auftrag Scope: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-us-settlement` | Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-whistleblower-forensic` | Inv 013 Whistleblower, Inv 015 Forensic Imaging: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `inv-works-disciplinary` | Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `inv-accounting-cyber` | INV Accounting Cyber: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-audit-hr` | INV Audit HR: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-bank-gdpr` | INV Bank Gdpr: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-betriebsrat-datenschutz` | INV Betriebsrat Datenschutz: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-data-board` | INV Data Board: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-document-cost` | INV Document Cost: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-e-chat` | INV E Chat: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-expense-export` | INV Expense Export: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-geschaeftsgeheimnisse-stpo` | INV Geschaeftsgeheimnisse Stpo: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-honeypot-legal` | INV Honeypot Legal: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-insurance-press` | INV Insurance Press: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-lessons` | INV Lessons: bearbeitet den maßgeblichen Prüfpfad und erzeugt den nächsten belastbaren Output im Mandat. |
+| `inv-manager-dawn` | INV Manager Dawn: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-mitarbeiterinterview-arbeitsrecht` | INV Mitarbeiterinterview Arbeitsrecht: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-mobile-private` | INV Mobile Private: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-monitor-privilege` | INV Monitor Privilege: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-public-healthcare` | INV Public Healthcare: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-reporting-behoerdenstrategie` | INV Reporting Behoerdenstrategie: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-sanctions-cartel` | INV Sanctions Cartel: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-sexual-bribery` | INV Sexual Bribery: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-termination-remediation` | INV Termination Remediation: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-third-vendor` | INV Third Vendor: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-trade-conflict` | INV Trade Conflict: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-us-auftrag` | INV US Auftrag: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-us-settlement` | INV US Settlement: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-whistleblower-forensic` | INV Whistleblower Forensic: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
+| `inv-works-disciplinary` | INV Works Disciplinary: bündelt 2 verwandte Prüffelder und erzeugt den nächsten belastbaren Output — nach Frist, Zuständigkeit, Beweislast und gewünschtem Ergebnis priorisiert. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
