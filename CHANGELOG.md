@@ -1,3 +1,26 @@
+# v209.0.0 — Skillnamen-Powersprint und Release-Synchronisierung
+
+## Schwerpunkt
+
+- Release-Stand auf v209.0.0 synchronisiert: 209 Plugins, 9102 Skills und 201 Testakten.
+- Powersprint gegen Autogen-Muster: alte generische Arbeitsbereich-Formeln entfernt, kurze Skills erweitert und stumpfe Einwort-Slugs durch sprechende, in Claude/Cowork auffindbare Skillnamen ersetzt.
+- Kuratierte Skillliste, Skills-Index, Plugin-README-Downloadsektionen, Marketplace und Plugin-Manifeste auf denselben Versionsstand gebracht.
+
+## Qualitätsbild
+
+- Keine Skills unter 120 Wörtern im automatischen Scan.
+- Keine `Kompendium`-/`Sammelskill`-Präfixe, keine Einwortnamen und keine alten `Nutze dies`-/Autogen-Beschreibungen.
+- Testakten bleiben als reale Arbeitsakten mit Gesamt-PDF-Regel validiert und separat von den Plugin-ZIPs.
+
+## Checks
+
+- `validate-yaml-frontmatter` OK.
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK.
+- `git diff --check` OK.
+
+---
+
 # v69.0.0 — Wahlkampfrecht Praxis
 
 ## Neu

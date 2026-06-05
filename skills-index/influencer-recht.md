@@ -1,6 +1,6 @@
 # influencer-recht
 
-**25 Skills** · Stand `v100.0.0`
+**25 Skills** · Stand `v209.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/influencer-recht/README.md)

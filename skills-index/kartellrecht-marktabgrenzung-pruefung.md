@@ -1,6 +1,6 @@
 # kartellrecht-marktabgrenzung-pruefung
 
-**59 Skills** · Stand `v100.0.0`
+**59 Skills** · Stand `v209.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/README.md)
