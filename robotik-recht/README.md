@@ -87,7 +87,6 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschlussqualitaet` | Red-Team-Check für jedes Ergebnis: Normenstand, Quellen, fehlende Tatsachen, Gegenargumente, technische Annahmen, Datenschutz und Haftungsfolgen. |
 | `accuracy-robustness-cybersecurity-ai` | Prüft Genauigkeit, Robustheit und Cybersicherheit von KI-Funktionen im Roboter mit realistischen Einsatzgrenzen. |
 | `agile-entwicklung-und-compliance-gates` | Entwirft Compliance-Gates für agile Robotikentwicklung: Definition of Done, Release-Board, Sicherheitsfreigabe und Rechtsfreigabe. |
 | `anwaltliche-quellenhygiene-robotik` | Sichert Quellenhygiene: keine Paywall-Blindzitate, keine erfundenen Rechtsprechungsfundstellen, Normen live prüfen, Aktenzeichen nur verifiziert. |
@@ -212,6 +211,7 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `risikoklassifizierung-schnelltest` | Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten. |
 | `risikoklassifizierung-schnelltest-rueckruf` | Risikoklassifizierung Schnelltest, Rueckruf Und Field Action, Sachverstaendigenbriefing, Security By Design Sprint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbare... |
 | `robot-as-a-service-vertrag` | Entwirft und prüft Robot-as-a-Service-Verträge: Leistungsbeschreibung, SLA, Updates, Daten, Haftung, Wartung, Exit und Versicherung. |
+| `robotik-abschluss-ce-haftung` | Red-Team-Check für jedes Ergebnis: Normenstand, Quellen, fehlende Tatsachen, Gegenargumente, technische Annahmen, Datenschutz und Haftungsfolgen. |
 | `robotik-gutachten-memo-output` | Wählt den passenden Output: Kurzvermerk, Vorstandsvorlage, Gutachten, Behördenantwort, Rückrufplan, Vertragsredline, Klageskizze oder Counsel-Briefing. |
 | `robotik-haftungsampel` | Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte. |
 | `robotik-ki-anhang-iii-artikel-system` | KI Anhang Iii Robotik Usecases / KI Artikel System Robotik: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren Output. |
@@ -223,11 +223,12 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `robotik-recht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `robotik-recht-export` | Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag. |
 | `robotik-recht-kaltstart-triage` | Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenklärung, Produktklassifizierung, Maschinenverordnung, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Marktüberwachung und passende Fachmodule. |
+| `robotik-sachverstaendigenbriefing-technikrecht` | Briefing für technische Sachverständige: Prüfgegenstand, Hypothesen, Logdaten, Testaufbau, Reproduzierbarkeit und Grenzen der rechtlichen Bewertung. |
+| `robotik-uebergangsrecht-eu-produktsicherheit` | Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen. |
 | `rollen-hersteller-anbieter-integrator` | Prüft Hersteller-, Anbieter- und Integratorrollen bei Robotern mit Hardware, Software, KI-Modell und eigenem Markenauftritt. |
 | `rueckruf-field-action` | Plant freiwillige oder behördliche Korrekturmaßnahme: Risiko, Reichweite, Kundenliste, Software-Patch, Austausch, Stilllegung und Nachweisführung. |
 | `rueckrufpflicht-safety-safety-gate` | Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `rueckrufpflicht-und-safety-gate` | Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. |
-| `sachverstaendigenbriefing` | Briefing für technische Sachverständige: Prüfgegenstand, Hypothesen, Logdaten, Testaufbau, Reproduzierbarkeit und Grenzen der rechtlichen Bewertung. |
 | `safety-gate-und-oeffentliche-warnung` | Prüft Folgen von Safety-Gate-Warnung, öffentlicher Produktwarnung, Reputationsrisiko und Korrekturkommunikation. |
 | `sbom-cyber-serviceroboter-haushalt` | Sbom Und Cyber Dokumentation, Serviceroboter Haushalt Gpsr, Sicherheits Und Ueberwachungsroboter, Sicherheitskomponente Mit Ki: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächste... |
 | `sbom-und-cyber-dokumentation` | Prüft SBOM, Dependency-Management, CVE-Tracking, Sicherheitsanforderungen und Nachweise für Robotiksoftware. |
@@ -249,7 +250,6 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `testdaten-und-validierung-vor-marktstart` | Prüft Testdaten, Validierungsplan, Feldtest, Pilotkunden, Beta-Betrieb und regulatorische Grenzen vor Marktstart. |
 | `transparenz-nutzerinformation-unfallanalyse` | Transparenz Und Nutzerinformation, Unfallanalyse Chain Of Custody, Vergaberecht Robotik Beschaffung, Vergleich Und Sanierung Nach Incident: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert... |
 | `transparenz-und-nutzerinformation` | Prüft Informationspflichten, Piktogramme, Bedienoberfläche, Datenschutzhinweise und KI-Transparenz für Mensch-Roboter-Interaktion. |
-| `uebergangsrecht` | Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen. |
 | `unfall-incident-response` | Leitet nach Unfall, Beinaheunfall, Datenpanne oder Cybervorfall: Sicherung, Meldungen, Beweise, Kommunikation, Rückruf, Betreiber- und Herstellerfragen. |
 | `unfallanalyse-chain-of-custody` | Sichert Beweise nach Robotikunfall: Gerät, Logexport, Video, Firmware, Konfiguration, Zeugen, Wartung und Chain of Custody. |
 | `update-change-control` | Prüft Softwareupdates, KI-Modellwechsel, Fine-Tuning, Parametrisierung und wesentliche Veränderung mit Dokumentationsspur. |

@@ -61,8 +61,8 @@ Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschrei
 | `verein-livequellen-check` | Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe. |
 | `verein-redteam-qualitygate` | Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben. |
 | `vereinsrecht-vereinsmanager-kaltstart-triage` | Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung. |
+| `vereinsrecht-zweckaenderung-satzung` | Zweckaenderung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `vereinsvermoegen-konto-versicherung-verein` | Vereinsvermoegen Und Konto, Versicherung Verein, Vorstand Rollen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `vorstandswahl-vorstandswechsel-register` | Vorstandswahl, Vorstandswechsel Register, Wirtschaftlicher Verein: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `zweckaenderung` | Zweckaenderung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

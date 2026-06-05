@@ -117,7 +117,6 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `amtlicher-zpo-proz-bauleiter-eilverfahren` | Amtlicher Zpo Verfahrenscheck, Proz Zustaendigkeit Bauleiter, Eilverfahren Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `anspruchstabelle` | Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Gru... |
 | `anspruchstabelle-gegenseite-interessen` | Anspruchstabelle Compliance Dokumentation Und Akte, Gegenseite Mehrparteien Konflikt Und Interessen, Mahnbescheid Dokumentenmatrix Und Lueckenliste: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage un... |
 | `beweissicherung-einstweilige-verfuegung` | Beweissicherung, Chronologie, Einstweilige Verfuegung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `gegenseite-status-mahnbescheid-mahnschreiben` | Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
@@ -128,6 +127,7 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `proz-beweismittel-leitfaden-mediationsklage` | Proz Beweismittel Leitfaden, Proz Mediationsklage Guete Spezial, Proz Prozessfinanzierung Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `proz-quellenkarte` | Proz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `prozessrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `prozessrecht-anspruchstabelle-beweislast` | Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Gru... |
 | `prozessrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `prozessrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `prozessrecht-kaltstart-interview` | Prozessrechtliches Erstinterview strukturiert durchführen: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Anspruchsgrundlage, Zuständigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mi... |

@@ -100,7 +100,6 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `ausgabengruppen-fristennotiz-naechster` | Ausgabengruppen: Fristennotiz und nächster Schritt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `deutschem-dokumentationspaket-excel` | Deutschem Tatbestand Beweis Und Belege, Dokumentationspaket Compliance Dokumentation Und Akte, Excel Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den... |
-| `dokumentationspaket` | Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `export-forecast-fortbestehensprognose` | Export Schriftsatz Brief Und Memo Bausteine, Forecast Risikoampel Und Gegenargumente, Fortbestehensprognose International Schnittstellen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert d... |
 | `fortbestehensprognose-international` | Fortbestehensprognose: Internationaler Bezug und Schnittstellen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `idw-s6-integrierte-sanierungsplanung` | Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu einer Sanierungsplanung auf IDW-S-6-Niveau. Prüft Maßnahmenwirkung, Fortbestehensprognose, Sanierungsfähigkeit, Szenarien, Planungsannahmen, Belegregister, kleinere Unternehmen... |
@@ -132,16 +131,17 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `liqui-sonderfall-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liqui-stundungs-strategie` | Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten: § 222 AO Stundung, Ratenzahlungsvereinbarung Krankenkasse, Lieferantenstundung. Pruefraster: wann beantragen, Mindestanforderungen Antrag, Reichweite (keine Glaeubigerbenacht... |
 | `liqui-szenarien-aufbauen` | Szenarien aufbauen: Base Case, Best Case, Worst Case (mit Stresshebel: Umsatzeinbruch, Forderungsausfaelle, Lieferantenforderungen). Empfehlung: drei Szenarien mit dokumentierten Annahmen, Sensitivitaeten in Excel. |
-| `liquiditaetsplanung` | Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-ampel-zahlen-schwellenwerte-berechnung` | Ampel: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `liquiditaetsplanung-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-deutschem-tatbestandsmerkmale-beweisfragen` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
+| `liquiditaetsplanung-dokumentationspaket-bank` | Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `liquiditaetsplanung-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `liquiditaetsplanung-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `liquiditaetsplanung-excel` | Excel: Behörden-, Gerichts- oder Registerweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-export` | Export: Schriftsatz-, Brief- und Memo-Bausteine: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-forecast-risikoampel-gegenargumente` | Forecast: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
+| `liquiditaetsplanung-forecast-wochenplanung` | Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-fristen-und-risikoampel` | Fristen- und Risikoampel: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-insolvenzrecht-formular-portal` | Insolvenzrecht: Formular, Portal und Einreichungslogik: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `liquiditaetsplanung-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Liquiditaetsplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok... |

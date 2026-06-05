@@ -66,7 +66,6 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `amtlicher-bgb-auftrag-unentgeltliche` | Amtlicher Bgb Bt Normcheck, Auftrag Und Unentgeltliche Taetigkeit, Bereicherungsrecht Entreicherung Und Saldotheorie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastba... |
 | `anfangercoach-schuldrecht-anspruchslandkarte` | Anfangercoach Schuldrecht Bt, Anspruchslandkarte, Beweislast Und Belegmatrix: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `anfangercoach-schuldrecht-bt` | Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest. |
-| `anspruchslandkarte` | Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. |
 | `arbeitsnaher-dienstvertrag-bauvertrag` | Arbeitsnaher Dienstvertrag Bgb, Bauvertrag Und Verbraucherbauvertrag, Bt Vertragsentwurf Modellvertrag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. |
 | `auftrag-und-unentgeltliche-taetigkeit` | Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung. |
@@ -74,12 +73,14 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `bereicherungsrecht-entreicherung-saldotheorie` | Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre. |
 | `bereicherungsrecht-leistungskondiktion` | Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität. |
 | `bereicherungsrecht-nichtleistungskondiktion` | Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion. |
+| `bgb-bt-anspruchslandkarte-vertragstypen` | Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. |
 | `bgb-bt-bereicherungsrecht-leistungskondiktion` | Bereicherungsrecht Leistungskondiktion / Bereicherungsrecht Nichtleistungskondiktion / Buergschaft Einreden Akzessorietaet: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belas... |
 | `bgb-bt-beweislast-belegmatrix` | Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis. |
 | `bgb-bt-kaufrecht-abweichungsvereinbarung-objektive-beweislast` | Kaufrecht Abweichungsvereinbarung Objektive Anforderungen / Kaufrecht Beweislast Verjaehrung Digitale Elemente / Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den pass... |
 | `bgb-bt-live-quellen-rechtsstand` | Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprechungsdatenbanken, Rechtsstand prüfen. |
 | `bgb-bt-pruefer-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `bgb-bt-pruefer-kaltstart-triage` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
+| `bgb-bt-verhandlungsplan-vertragsschluss` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
 | `bt-fristen-erklaerungen-zugang` | Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist. |
 | `bt-vertragsentwurf-modellvertrag` | Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle. |
 | `buergschaft-einreden-und-akzessorietaet` | Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen. |
@@ -146,7 +147,6 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
 | `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB. |
 | `vergleich-paragraph-779` | Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. |
-| `verhandlungsplan` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
 | `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
 | `vertragstypen-mischvertrag-router` | Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT. |
 | `vertragstypen-mischvertrag-werkvertrag` | Vertragstypen Mischvertrag Router, Werkvertrag Abnahme Und Faelligkeit, Werkvertrag Grundschema Paragraph 631: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Out... |

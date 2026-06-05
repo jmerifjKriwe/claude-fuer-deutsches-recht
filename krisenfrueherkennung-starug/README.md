@@ -149,8 +149,8 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `pflicht-planung-restrukturierungsplan` | Pflicht Dokumentenmatrix Und Lueckenliste, Planung Internationaler Bezug Und Schnittstellen, Restrukturierungsplan Formular Portal Und Einreichung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und... |
 | `pflichtenkollision-shift-restructuring-lounge` | Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert... |
 | `restrukturierungsplan-architektur-rollierende` | Restrukturierungsplan Architektur Paragraph 7ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage... |
-| `stabilisierungsanordnung` | Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `stabilisierungsanordnung-vollstreckungssperre` | Stabilisierungsanordnung Und Vollstreckungssperre: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `stakeholder-warnpflicht-zahlungsunfaehigkeit` | Stakeholder Abschlussprodukt Und Uebergabe, Warnpflicht Schriftsatz Brief Und Memo Bausteine, Zahlungsunfaehigkeit Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage u... |
+| `starug-stabilisierungsanordnung-vollstreckungsstopp` | Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -101,11 +101,11 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `insolvenzplan-starug-planwerkstatt-output-waehlen` | Output wählen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `insolvenzplan-starug-planwerkstatt-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `insolvenzplan-starug-planwerkstatt-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `insolvenzplan-vergleichsrechnung-quote` | Vergleichsrechnung Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `ips-kaltstart-interview` | Insolvenzplan- oder StaRUG-Mandat durch strukturiertes Erstgespraech aufgleisen wenn Unterlagen fehlen. §§ 13 15a InsO §§ 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage Sanierung... |
 | `ips-verfahrenswahl-restrukturierungsplan-ips` | Ips Verfahrenswahl, Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `ips-vergleichsrechnung-ipsplan-cram` | Ips Vergleichsrechnung, Ipsplan Cram Down Spezial, Ipsplan Gruppenbildung Leitfaden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `ipsplan-planstruktur-prepack-plan` | Ipsplan Planstruktur Bauleiter, Ipsplan Prepack Plan Spezial, Sanierungsmoderation 94 Starug: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `sanierungskonzept-starug-spezial-teil` | Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten... |
-| `vergleichsrechnung` | Vergleichsrechnung Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

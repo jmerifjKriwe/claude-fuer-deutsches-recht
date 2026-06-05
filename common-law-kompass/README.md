@@ -103,6 +103,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `common-law-kompass-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `common-law-kompass-start-chronologie-fristen` | Kaltstart, Chronologie, Belegmatrix und Fristenampel, ...: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `common-law-kompass-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `common-law-wirtschaftsjuristen-terms` | Wirtschaftsjuristen Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `contract-formation-false-friends-governing` | Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastba... |
 | `drafting-interessen-explainer-beweislast` | Drafting Mehrparteien Konflikt Und Interessen, Explainer Beweislast Und Darlegungslast, False Friends Contracts: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren O... |
 | `false-friends` | Mandantenkommunikation, Redteam Qualitygate, False Fristen Form Und Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
@@ -113,6 +114,5 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `rechtsvergleichender-begriffscheck-reviews` | Rechtsvergleichender Begriffscheck, Reviews Internationaler Bezug Und Schnittstellen, Suretyship Schriftsatz Brief Und Memo Bausteine: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den... |
 | `remedies-damages-representations-warranties` | Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belast... |
 | `surety-guarantee-ucc-sales-us-vs` | Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `wirtschaftsjuristen` | Wirtschaftsjuristen Tatbestand Beweis Und Belege: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
