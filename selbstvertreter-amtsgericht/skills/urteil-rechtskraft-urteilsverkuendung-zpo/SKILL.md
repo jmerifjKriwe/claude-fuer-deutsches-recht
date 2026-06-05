@@ -1,6 +1,6 @@
 ---
 name: urteil-rechtskraft-urteilsverkuendung-zpo
-description: "Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo: Urteil Rechtskraft 705 Zpo; Urteilsverkuendung 310 Zpo; Verbrauchergerichtsstand 29C Zpo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo prüfen.; Erstelle eine Arbeitsfassung zu Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `urteilsverkuendung-310-zpo` | Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben. |
 | `verbrauchergerichtsstand-29c-zpo` | Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

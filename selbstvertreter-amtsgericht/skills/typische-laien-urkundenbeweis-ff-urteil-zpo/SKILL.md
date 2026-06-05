@@ -1,6 +1,6 @@
 ---
 name: typische-laien-urkundenbeweis-ff-urteil-zpo
-description: "Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo: Typische Laien Fehler; Urkundenbeweis 415 Ff Zpo; Urteil Prüfen 313 Zpo. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `urkundenbeweis-415-ff-zpo` | Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten. |
 | `urteil-pruefen-313-zpo` | Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

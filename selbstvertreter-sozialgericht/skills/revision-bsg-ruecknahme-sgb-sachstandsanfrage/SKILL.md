@@ -1,6 +1,6 @@
 ---
 name: revision-bsg-ruecknahme-sgb-sachstandsanfrage
-description: "Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht: Revision Bsg 160 Sgg; Rücknahme 48 Sgb X Aenderung; Sachstandsanfrage Und Untaetigkeitsbeschwerde; Sachverstaendigen Wahlrecht 109 Sgg; Saeumnis Im Termin Sozialgericht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
 | `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

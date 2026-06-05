@@ -1,6 +1,6 @@
 ---
 name: zeugnis-notenangriff-zeugnisbemerkung-arbeits
-description: "Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten: Zeugnis Und Notenangriff; Zeugnisbemerkung Arbeits Sozialverhalten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten prüfen.; Erstelle eine Arbeitsfassung zu Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zeugnis-und-notenangriff` | Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum. |
 | `zeugnisbemerkung-arbeits-sozialverhalten` | Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zeugnis Und Notenangriff, Zeugnisbemerkung Arbeits Sozialverhalten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

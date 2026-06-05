@@ -1,6 +1,6 @@
 ---
 name: abnahme-tests-ai-code-ai-pair-api-license
-description: "Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk: Abnahme Tests Acceptance; Ai Code Generation Ip; Ai Pair Programming Employment; Api License Sdk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk prüfen.; Erstelle eine Arbeitsfassung zu Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ai-pair-programming-employment` | Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung. |
 | `api-license-sdk` | Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `softwarerecht-de-eu-us` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: see-001-kaltstart-schifffahrtsmandat
-description: 'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Flagge; Registerort; Versicherungsstatus P&I/H&M und naechste Frist. Output: Mandateroeffnungs-Checkliste und Sofortmassnahmen-Vermerk.'
+description: "'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Flagge; Registerort; Versicherungsstatus P&I/H&M und naechste Frist. Output: Mandateroeffnungs-Checkliste und Sofortmassnahmen-Vermerk.'"
 ---
 
 # Kaltstart Schifffahrtsmandat

@@ -1,6 +1,6 @@
 ---
 name: weisungsgebundenheit-widerspruch-klage
-description: "Weisungsgebundenheit, Widerspruch Klage Sozialgericht: Weisungsgebundenheit; Widerspruch Klage Sozialgericht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Weisungsgebundenheit, Widerspruch Klage Sozialgericht im Plugin Sozialversicherungsstatus Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Weisungsgebundenheit, Widerspruch Klage Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Weisungsgebundenheit, Widerspruch Klage Sozialgericht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Weisungsgebundenheit, Widerspruch Klage Sozialgericht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `weisungsgebundenheit` | Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz. |
 | `widerspruch-klage-sozialgericht` | Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Weisungsgebundenheit, Widerspruch Klage Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `sozialversicherungsstatus-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

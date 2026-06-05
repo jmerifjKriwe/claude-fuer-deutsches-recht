@@ -1,6 +1,6 @@
 ---
 name: 130a-zpo-fax-grenzen-mein-justizpostfach
-description: "Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024: Einreichung 130A Zpo Elektronisch Buerger; Einreichung Fax Und Grenzen; Einreichung Mein Justizpostfach Mjp 2024. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024 im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024 prüfen.; Erstelle eine Arbeitsfassung zu Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `einreichung-fax-und-grenzen` | Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung. |
 | `einreichung-mein-justizpostfach-mjp-2024` | Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
