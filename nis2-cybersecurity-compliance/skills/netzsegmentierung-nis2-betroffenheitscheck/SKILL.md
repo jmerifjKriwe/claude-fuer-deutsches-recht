@@ -20,9 +20,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Netzsegment
 
 ## Arbeitsweg
 
-Im Plugin Nis2 Cybersecurity Compliance gilt für **Netzsegmentierung Nis2 Betroffenheitscheck**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im NIS2-Cybersecurity-Compliance klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: NIS2 Art. 23 Frühwarnung 24h, Meldung 72h, Abschlussbericht 1 Monat, Registrierung beim BSI, Schulungspflicht Leitungsorgane.
+- Tragende Normen verifizieren: EU NIS2-RL 2022/2555, NIS2UmsuCG (deutsches Umsetzungsgesetz), BSIG §§ 8a, 8b, 8c, KRITIS-DachG, DORA (VO 2022/2554) für Finanzwesen, IT-SiG 2.0, DSGVO Art. 32 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, Informationssicherheits-Konzept, Incident-Response-Plan, BSI-Meldung, Schulungsnachweis Geschäftsleitung, Lieferkettenrisiko-Bericht, Business-Continuity-Plan — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `netzsegmentierung`

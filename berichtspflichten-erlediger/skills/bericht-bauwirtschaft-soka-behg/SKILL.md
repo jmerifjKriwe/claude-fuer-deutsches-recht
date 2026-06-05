@@ -19,9 +19,11 @@ Dieser Skill bündelt 3 sachlich verwandte Arbeitsschritte rund um **Bericht Bau
 
 ## Arbeitsweg
 
-Im Plugin Berichtspflichten Erlediger gilt für **Bericht Bauwirtschaft Soka Behg**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Berichtspflichten (Audit/Compliance/Steuer) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff..
+- Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `bericht-bauwirtschaft-soka-bau`

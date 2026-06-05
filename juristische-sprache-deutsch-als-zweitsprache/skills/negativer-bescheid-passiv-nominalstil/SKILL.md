@@ -18,9 +18,11 @@ Dieser Skill bündelt 2 sachlich verwandte Arbeitsschritte rund um **Negativer B
 
 ## Arbeitsweg
 
-Im Plugin Juristische Sprache Deutsch Als Zweitsprache gilt für **Negativer Bescheid Passiv Nominalstil**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Juristische Sprache — Deutsch als Zweitsprache klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
+- Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `negativer-bescheid-emotional`

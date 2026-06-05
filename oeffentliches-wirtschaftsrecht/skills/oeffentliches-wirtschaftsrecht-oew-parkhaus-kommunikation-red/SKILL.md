@@ -20,9 +20,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **OEW Parkhau
 
 ## Arbeitsweg
 
-Im Plugin Oeffentliches Wirtschaftsrecht gilt für **OEW Parkhaus Kommunikation RED**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Öffentliches Wirtschaftsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
+- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `oew-089-parkhaus-kommunikation-schreiben`

@@ -20,9 +20,11 @@ Dieser Skill bündelt 4 sachlich verwandte Arbeitsschritte rund um **Landwirtsch
 
 ## Arbeitsweg
 
-Im Plugin Einigungsvertrag Vermoegensrecht gilt für **Landwirtschaftliche Flaeche Wohnhaus DDR ART**: zuerst das tragende Prüffeld auswählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Ergänzende Prüffelder nur heranziehen, wenn dieselbe Akte sie trägt. Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschten Output sauber getrennt halten. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
-
-
+- Rolle und Ziel im Einigungsvertrag und Vermögensrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Fristen und Eilrisiken zuerst markieren: VermG § 30 Anmeldefrist 31.12.1992 (Mobilien) bzw. 30.06.1993 (Immobilien) — Ausschlussfrist, § 30a Wiedereinsetzung, VwGO § 74 Klagefrist 1 Monat.
+- Tragende Normen verifizieren: VermG §§ 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB §§ 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Anmeldung nach § 30 VermG, Restitutionsbescheid, Investitionsvorrangbescheid, Grundbuchauszug, Notar-Auflassung, Investitionsbescheinigung, EALG-Bescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 ## Prüffelder im Detail
 
 ## 1. `ein-085-landwirtschaftliche-flaeche-fristprobl`
