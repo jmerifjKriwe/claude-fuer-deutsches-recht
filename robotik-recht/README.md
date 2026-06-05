@@ -174,7 +174,7 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `logging-und-traceability-robotik` | Prüft Logging, Traceability, Audit Trail und forensische Nutzbarkeit bei Unfall, Datenschutzvorfall und Produkthaftung. |
 | `marktueberwachung-dialog` | Bereitet Antworten an Marktüberwachung, BAuA-/Landesbehörden, Safety-Gate-Meldungen, Unterlagenvorlage, Korrekturmaßnahmen und Rückrufkommunikation vor. |
 | `marktueberwachung-unterlagenvorlage` | Bereitet Unterlagenvorlage und Argumentation gegenüber Marktüberwachung vor: technische Dokumentation, Risikobewertung, Normen, Maßnahmen. |
-| `maschine-oder-unvollstaendige-maschine` | Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente. |
+| `maschine-oder-unvollstaendige` | Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente. |
 | `maschinenverordnung-annex-iii-hochrisiko` | Prüft, ob Robotik unter besondere Maschinenkategorien und strengere Konformitätsbewertung fällt. |
 | `mdr-gesundheitsrobotik` | Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen. |
 | `medizinprodukt-software-ki-roboter` | Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik. |
@@ -227,7 +227,7 @@ Automatisch generierte Komplett-Liste aller 182 Skills in diesem Plugin. Beschre
 | `robotik-uebergangsrecht-eu-produktsicherheit` | Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen. |
 | `rollen-hersteller-anbieter-integrator` | Prüft Hersteller-, Anbieter- und Integratorrollen bei Robotern mit Hardware, Software, KI-Modell und eigenem Markenauftritt. |
 | `rueckruf-field-action` | Plant freiwillige oder behördliche Korrekturmaßnahme: Risiko, Reichweite, Kundenliste, Software-Patch, Austausch, Stilllegung und Nachweisführung. |
-| `rueckrufpflicht-safety-safety-gate` | Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `rueckrufpflicht-safety-gate` | Rueckrufpflicht Und Safety Gate, Safety Gate Und Oeffentliche Warnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `rueckrufpflicht-und-safety-gate` | Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung. |
 | `safety-gate-und-oeffentliche-warnung` | Prüft Folgen von Safety-Gate-Warnung, öffentlicher Produktwarnung, Reputationsrisiko und Korrekturkommunikation. |
 | `sbom-cyber-serviceroboter-haushalt` | Sbom Und Cyber Dokumentation, Serviceroboter Haushalt Gpsr, Sicherheits Und Ueberwachungsroboter, Sicherheitskomponente Mit Ki: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächste... |

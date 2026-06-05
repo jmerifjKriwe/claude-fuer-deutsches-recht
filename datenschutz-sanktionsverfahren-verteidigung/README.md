@@ -92,7 +92,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anhoerung-owig-art-anordnung-art-rechtsschutz` | Anhoerung 55 Owig, Art 58 Anordnung Verwaltungsakt, Art 78 Rechtsschutz Und Betroffenenbeschwerde, Art 83 Abs 2 Kriterien Einzeln: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den näch... |
+| `anhoerung-owig-art-anordnung-rechtsschutz` | Anhoerung 55 Owig, Art 58 Anordnung Verwaltungsakt, Art 78 Rechtsschutz Und Betroffenenbeschwerde, Art 83 Abs 2 Kriterien Einzeln: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den näch... |
 | `arbeitnehmerdaten-betriebsrat` | Arbeitnehmerdaten Und Betriebsrat Im Sanktionsverfahren, Beschlussverfahren 72 Owig, Beschwerde Betroffener Behoerdenverfahren, Einspruch 67 Owig Frist Und Form: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Recht... |
 | `aufsicht-regulierten-aufsichtsbehoerden` | Aufsicht In Regulierten Branchen, Aufsichtsbehoerden Antwortschreiben, Aufsichtsbehoerden Auskunftsverlangen Art 58 1, Auslaendische Mutter Und Deutsche Tochter: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Recht... |
 | `behoerdenkommunikation-reputationsschutz` | Behoerdenkommunikation Reputationsschutz, Behoerdenstrategie Kooperation Oder Schweigen, Behoerdenuntaetigkeit Und Beschwerdegegner, Behoerdenvergleich Erledigung Und Auflagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, B... |

@@ -133,7 +133,6 @@ Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschrei
 | `anlagen-uebergabe-an-assistenz-und-legal-tech` | Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder externen Dienstleister: was umbenennen, scannen, stempeln, schwärzen, prüfen. |
 | `anlagen-uebersetzungspflicht` | Fremdsprachige Anlagen: Uebersetzungspflicht § 184 GVG. Beglaubigte oder einfache Uebersetzung? Gericht kann Uebersetzung verlangen oder Ablehnung der Beruecksichtigung androhen. Empfehlung: bei zentralen Urkunden beglaubigte Uebersetzun... |
 | `anlagen-vorlagepflicht-141-zpo` | Anordnung der Urkundenvorlage nach § 142 ZPO und § 421 ZPO: wann kann das Gericht die Vorlage einer Urkunde anordnen, wann hat ein Beweisfuehrer Anspruch auf Vorlage durch den Gegner. Pruefraster, Antragsformulierung und Folgen Nichtvorl... |
-| `anlagen-zu-anlagen-tatbestandsmerkmale-beweisfragen-beleglage` | Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `anlagen-zu-benennt-compliance-dokumentation-aktenvermerk` | Benennt: Compliance-Dokumentation und Aktenvermerk: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `anlagen-zu-bereits-abschlussprodukt-uebergabe` | Bereits: Abschlussprodukt und Übergabe: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `anlagen-zu-gerichtlichen-fristen-form-zustaendigkeit-rechtsweg` | Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
@@ -194,6 +193,7 @@ Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschrei
 | `schriftsatz-anlagen-mapping` | Schriftsatzstellen, Tatsachenbehauptungen, Beweisangebote und Anlagen in eine Matrix bringen; erkennt fehlende, doppelte und nur scheinbar belegte Anlagen. |
 | `schriftsatz-verhandlung-vergleich-und` | Schriftsatz: Verhandlung, Vergleich und Eskalation: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `sortiert-stempelt-word` | Schriftsatz Verhandlung Vergleich Und Eskalation, Sortiert Risikoampel Und Gegenargumente, Stempelt Internationaler Bezug Und Schnittstellen, Word Behörden Gericht Und Registerweg: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkei... |
+| `tatbestandsmerkmale-beweisfragen-beleglage` | Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `zeitleiste-und-belegkette` | Baut aus Anlagen eine Chronologie und zeigt zu jedem Ereignis, welcher Beleg trägt, welcher nur plausibilisiert und welcher fehlt. |
 | `zuordnung-zeitleiste-belegkette` | Zuordnung Erstpruefung Und Mandatsziel, Zeitleiste Und Belegkette: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 

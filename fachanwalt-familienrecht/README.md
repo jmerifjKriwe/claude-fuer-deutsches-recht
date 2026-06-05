@@ -77,6 +77,6 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `verbundabtrennung-versorgungsausgleich` | Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, B... |
 | `versorgungsausgleich-kaltstart` | Versorgungsausgleich Kaltstart: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `versorgungstraeger-antwort-zielversorgung` | Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
-| `zugewinn-tod-tod-umgangsregelung` | Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgru... |
+| `zugewinn-tod-umgangsregelung` | Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgru... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

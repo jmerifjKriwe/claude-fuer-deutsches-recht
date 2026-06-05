@@ -84,7 +84,6 @@ Automatisch generierte Komplett-Liste aller 71 Skills in diesem Plugin. Beschrei
 | `forschungszulage-antragstellung-adaptiver-dokumentenmatrix` | Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `forschungszulage-antragstellung-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `forschungszulage-antragstellung-antrag-zahlen-schwellenwerte` | Antrag: Zahlen, Schwellenwerte und Berechnung: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
-| `forschungszulage-antragstellung-antragstellung` | Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `forschungszulage-antragstellung-auszahlung-internationaler-bezug` | Auszahlung: Internationaler Bezug und Schnittstellen: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `forschungszulage-antragstellung-bsfz-behoerden-gerichts` | Bsfz: Behörden-, Gerichts- oder Registerweg: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `forschungszulage-antragstellung-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
@@ -138,6 +137,7 @@ Automatisch generierte Komplett-Liste aller 71 Skills in diesem Plugin. Beschrei
 | `mandantenentscheidung-einspruch-sonderfall` | Dokumentation Mandantenentscheidung, Einspruch Sonderfall Und Edge Case, Foerdercheck Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastba... |
 | `mehrjahresroadmap-fristennotiz-fz` | Mehrjahresroadmap Fristennotiz Und Naechster Schritt, Fz Auftragsforschung Vertragsgestaltung, Forsch Bsfz Prüfung Spezial: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten be... |
 | `mehrjahresroadmap-fristennotiz-naechster` | Mehrjahresroadmap: Fristennotiz und nächster Schritt: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
+| `tatbestand-beweis-belege-antragstellung` | Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft Normen, Belege, Risiken, Gegenargumente und erzeugt ein verwertbares Arbeitsergebnis. |
 | `verlust-zeichenbudgets` | Verlust Formular Portal Und Einreichung, Zeichenbudgets Verhandlung Vergleich Und Eskalation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

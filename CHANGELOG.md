@@ -1,8 +1,8 @@
-# v209.0.0 — Skillnamen-Powersprint und Release-Synchronisierung
+# v210.0.0 — Skillnamen-Powersprint und Release-Synchronisierung
 
 ## Schwerpunkt
 
-- Release-Stand auf v209.0.0 synchronisiert: 209 Plugins, 9102 Skills und 201 Testakten.
+- Release-Stand auf v210.0.0 synchronisiert: 210 Plugins, 9115 Skills und 201 Testakten.
 - Powersprint gegen Autogen-Muster: alte generische Arbeitsbereich-Formeln entfernt, kurze Skills erweitert und stumpfe Einwort-Slugs durch sprechende, in Claude/Cowork auffindbare Skillnamen ersetzt.
 - Kuratierte Skillliste, Skills-Index, Plugin-README-Downloadsektionen, Marketplace und Plugin-Manifeste auf denselben Versionsstand gebracht.
 

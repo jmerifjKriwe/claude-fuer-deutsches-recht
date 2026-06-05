@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Verbraucherakte SmartMeter-Abo** ([`testakten/verbraucherschutzrecht-smartmeter-abo-plattform/`](../testakten/verbraucherschutzrecht-smartmeter-abo-plattform/)).
-
-Direkt-Download als ZIP: [testakte-verbraucherschutzrecht-smartmeter-abo-plattform.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherschutzrecht-smartmeter-abo-plattform.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 Dieses Plugin prüft verbraucherschützende Vorschriften nicht als lose Sammlung, sondern als Schutzarchitektur: Informationspflicht, Widerruf, AGB-Kontrolle, Gewährleistung, Lauterkeit, Streitbeilegung, Plattform und Durchsetzung.
 
 ## Start
@@ -82,9 +70,9 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `vbr-online-shop-beschwerde-schreiben` | Vbr 045 Online Shop Agb Redlinen, Vbr 046 Online Shop Beschwerde Schreiben, Vbr 047 Online Shop Schlichtung Waehlen, Vbr 048 Online Shop Klagepfad Skizzieren: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgr... |
 | `vbr-saas-verbraucher-beschwerde-schre` | Vbr 085 Saas Für Verbraucher Agb Redlinen, Vbr 086 Saas Für Verbraucher Beschwerde Schre, Vbr 087 Saas Für Verbraucher Schlichtung Waeh, Vbr 088 Saas Für Verbraucher Klagepfad Skizzi: wählt den konkreten Prüfpfad, trennt Frist, Zuständig... |
 | `vbr-smart-device-agb-redlinen-beschwerde` | Vbr 094 Smart Device Beweise Sichern, Vbr 095 Smart Device Agb Redlinen, Vbr 096 Smart Device Beschwerde Schreiben, Vbr 097 Smart Device Schlichtung Waehlen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgru... |
-| `vbr-smart-vbr-verbraucherrecht-abo` | Vbr 098 Smart Device Klagepfad Skizzieren, Vbr 099 Smart Device Vergleich Vorschlagen, Verbraucherrecht Abo Kündigung Button, Verbraucherrecht Behörden Beschwerden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Re... |
-| `vbr-telekommunikation-vbr` | Vbr 017 Telekommunikation Und Laufzeit, Vbr 018 Finanzdienstleistung Fernabsatz, Vbr 020 Verbraucherbericht Erzeugen, Vbr 021 Haustuergeschaeft Anspruch Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechts... |
-| `vbr-unternehmerrolle-vbr` | Vbr 003 Unternehmerrolle Und Plattformrolle Pr, Vbr 004 Informationspflichten Matrix Bauen, Vbr 005 Widerrufsrecht Und Erloeschen Prüfen, Vbr 007 Digitale Produkte Und Updatepflichten: wählt den konkreten Prüfpfad, trennt Frist, Zuständi... |
+| `vbr-smart-verbraucherrecht-abo` | Vbr 098 Smart Device Klagepfad Skizzieren, Vbr 099 Smart Device Vergleich Vorschlagen, Verbraucherrecht Abo Kündigung Button, Verbraucherrecht Behörden Beschwerden: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Re... |
+| `vbr-telekommunikation` | Vbr 017 Telekommunikation Und Laufzeit, Vbr 018 Finanzdienstleistung Fernabsatz, Vbr 020 Verbraucherbericht Erzeugen, Vbr 021 Haustuergeschaeft Anspruch Prüfen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechts... |
+| `vbr-unternehmerrolle` | Vbr 003 Unternehmerrolle Und Plattformrolle Pr, Vbr 004 Informationspflichten Matrix Bauen, Vbr 005 Widerrufsrecht Und Erloeschen Prüfen, Vbr 007 Digitale Produkte Und Updatepflichten: wählt den konkreten Prüfpfad, trennt Frist, Zuständi... |
 | `verbraucherrecht-abo-falle-frist-digitale-inhalte-saas` | Abo Falle Frist Berechnen / Digitale Inhalte Frist Berechnen / Saas Verbraucher Frist Berechnen / Smart Device Frist Berechnen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten b... |
 | `verbraucherrecht-abo-falle-schlichtung-klagepfad-vergleich` | Abo Falle Schlichtung Waehlen / Abo Falle Klagepfad Skizzieren / Abo Falle Vergleich Vorschlagen / Abo Falle Behoerdenmeldung Pruefen: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den näc... |
 | `verbraucherrecht-abo-falle-widerruf-beweise-agb-beschwerde` | Abo Falle Widerruf Formulieren / Abo Falle Beweise Sichern / Abo Falle Agb Redlinen / Abo Falle Beschwerde Schreiben: führt durch diese fachlich verbundenen Arbeitsmodule, wählt den passenden Prüfpfad und erzeugt den nächsten belastbaren... |

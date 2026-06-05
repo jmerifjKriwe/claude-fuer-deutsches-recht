@@ -110,7 +110,7 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `wahlkampf-unterstuetzungsunterschriften` | Wahlkampf Unterstuetzungsunterschriften, Wahlkampf Urheberrecht Musik Bilder Clips, Wahlkampf Veranstaltungslogistik, Wahlkampf Vereine Unterstuetzer Dritte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgru... |
 | `wahlkampf-viraler-clip-waehlerdaten-listen` | Wahlkampf Viraler Clip Notfall, Wahlkampf Waehlerdaten Und Listen, Wahlkampf Wahl O Mat Und Thesen, Wahlkampf Wahlbeobachtung Und Wahltag: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert... |
 | `wahlkampf-wahlkampfkosten-budget-wahlprogramm` | Wahlkampf Wahlkampfkosten Budget, Wahlkampf Wahlprogramm Und Faktencheck, Wahlkampf Wahlpruefung Nachwahl, Wahlkampf Wahlraum Propagandaverbot: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und lie... |
-| `wahlkampf-wahltag-wahlkampf-war` | Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `wahlkampf-wahltag-war` | Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `wahlkampf-wahlverfahren-falschinfo` | Wahlkampf Wahlverfahren Falschinfo, Wahlkampf Wahlvorschlaege Fristen, Wahlkampf Agenturvertrag Compliance, Wahlkampf 72 Stunden Sprint: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert de... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

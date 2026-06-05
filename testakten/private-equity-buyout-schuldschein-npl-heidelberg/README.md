@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 22 KB) | PDF | [`gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf`](gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 50 KB) | PDF | [`gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf`](gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

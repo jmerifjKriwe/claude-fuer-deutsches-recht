@@ -1,5 +1,20 @@
 # Akte Knusperkrone: Franchise-Expansion, Gebietsschutz und Systemhandbuch-Streit
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 6 KB) | PDF | [`gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf`](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-franchiserecht-systemgastronomie-expansion-streit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) |
+
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Diese Akte gehört zu den Plugins `franchiserecht-praxis`, `kartellrecht`, `gesellschaftsgruender`.
 
 ## Downloads

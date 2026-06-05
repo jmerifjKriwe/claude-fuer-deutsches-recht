@@ -11,11 +11,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`europarecht-kompass`) | [`europarecht-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
 
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage** (`europarecht-kompass-beihilfe-richtlinie`) | [Gesamt-PDF lesen](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
@@ -94,7 +90,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `charta-quellenkarte` | Charta Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `er-vorlageverfahren-eur-kommissionsverfahren` | Er Kompass Vorlageverfahren, Eur Kommissionsverfahren Art 258 Spezial, Eur Mandant Uebersicht Zustaendigkeiten: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Ou... |
 | `eu-rechtsquellen-vorlageweiche` | EU-Rechtsquellen, Charta und Vorlageweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `eur-anrufung-eur-state-beihilfen-vergaben` | Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `eur-anrufung-state-beihilfen-vergaben` | Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `europarecht-delegierte-durchfuehrungsakte` | Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastba... |
 | `europarecht-grundfreiheiten-binnenmarkt` | Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `europarecht-kompass-anschluss-router` | Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix, ...: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
@@ -112,7 +108,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `kommissionsverfahren-vorlageverfahren` | Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundla... |
 | `nationales-verfahren-vorlageverfahren-art` | Europarecht Nationales Verfahren Effektivitaet, Europarecht Vorlageverfahren Art 267, Denkfehler Fristen Form Und Zustaendigkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächs... |
 | `petitionsausschuss-mandantenentscheidung` | Petitionsausschuss Mandantenentscheidung, Richtlinien Schriftsatz Brief Und Memo Bausteine, Unmittelbare Risikoampel Und Gegenargumente: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert de... |
-| `verordnungen-vorrang-vorrang-unmittelbare` | Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den... |
+| `verordnungen-vorrang-unmittelbare` | Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den... |
 | `vorrang-unmittelbare-wettbewerb-kartell` | Europarecht Vorrang Unmittelbare Wirkung, Europarecht Wettbewerb Kartell, Anrufung Red Team Und Qualitaetskontrolle: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbar... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

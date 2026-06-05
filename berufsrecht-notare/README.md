@@ -11,7 +11,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`berufsrecht-notare`) | [`berufsrecht-notare.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare.zip) |
 
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen** (`notariat-alltag-waldwinkel-gmbh-immobilien-erbfall`) | [Gesamt-PDF lesen](../testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf) | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
@@ -50,17 +54,16 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `amtsenthebung-vermoegensverfall` | Notare Amtsenthebung Vermoegensverfall Kammerantwort Verfah / Notare Amtsenthebung Vermoegensverfall Organisationspflicht / Notare Anderkonto Verwahrung Organisationspflicht Praev / Notare Auszahlungsanweisung Konflikt Kammerantwort Verf... |
 | `belehrungspflicht-verbraucher-beurkundung` | Notare Belehrungspflicht Und Verbraucher Rechtsprechungscheck U, Notare Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re, Notare Beurkundungsabbruch Rechtsprechungscheck Und Red Team, Notare Beurkundungsverfahren Vollmacht Rechts... |
 | `berufshaftpflicht-berufspflichtverletzung` | Berufshaftpflicht, Berufspflichtverletzung, Beschwerdemanagement, Cross Border: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `berufsrecht-notare-kaltstart-routing` | Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Notare; führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und näc... |
-| `berufsrecht-notare-notare-amtsenthebung-vermoegensverfall` | Notare Amtsenthebung Vermoegensverfall Kammerantwort Verfah / Notare Amtsenthebung Vermoegensverfall Organisationspflicht / Notare Anderkonto Verwahrung Organisationspflicht Praev / Notare Auszahlungsanweisung Konflikt Kammerantwort Verf... |
-| `berufsrecht-notare-notare-datenschutzpanne-notariat` | Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 wei... |
-| `berufsrecht-notare-notare-fernbeglaubigung-videoverfahren` | Notare Fernbeglaubigung Videoverfahren Rechtsprechungscheck / Notare Geldwaesche Sanktionslisten Rechtsprechungscheck Red / Notare Geldwaeschepruefung Immobilienkauf Rechtsprechungscheck / Notare Grundschuld Sicherungszweck Rechtsprechun... |
-| `berufsrecht-notare-notare-fernbeglaubigung-videoverfahren-02` | Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfah... |
-| `berufsrecht-notare-notare-urkundensammlung-verwahrung` | Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1... |
 | `beurkundung-ausland-beurkundungsabbruch` | Notare Beurkundung Im Ausland Bezug Kammerantwort Und Verfahren, Notare Beurkundungsabbruch Kammerantwort Und Verfahrensstrategi, Notare Beurkundungsverfahren Vollmacht Kammerantwort Und Verfah, Notare Beurkundungsverfahren Vollmacht Org... |
 | `datenraum-dokumentenintake-aktenlog` | Datenraum, Dokumentenintake Und Aktenlog, Entscheidungsvorlage, Fachbezeichnung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `datenschutzpanne-notariat` | Notare Datenschutzpanne Notariat Kaltstart Faktenmatrix / Notare Dienstaufsicht Beschwerde Kaltstart Faktenmatrix / Notare Disziplinarverfahren Notar Kaltstart Faktenmatrix / Notare Dolmetscher Sprachrisiko Kaltstart Faktenmatrix / 1 wei... |
 | `datenschutzpanne-notariat-dienstaufsicht` | Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisa... |
+| `fernbeglaubigung-videoverfahren` | Notare Fernbeglaubigung Videoverfahren Rechtsprechungscheck / Notare Geldwaesche Sanktionslisten Rechtsprechungscheck Red / Notare Geldwaeschepruefung Immobilienkauf Rechtsprechungscheck / Notare Grundschuld Sicherungszweck Rechtsprechun... |
+| `fernbeglaubigung-videoverfahren-02` | Notare Fernbeglaubigung Videoverfahren Kammerantwort Ve / Notare Fernbeglaubigung Videoverfahren Organisationspflicht / Notare Geldwaesche Sanktionslisten Kammerantwort Verfahrens / Notare Identitaetspruefung Ausweis Kammerantwort Verfah... |
 | `geldwaesche-kyc-homeoffice-honorar-gebuehren` | Geldwaesche Und Kyc, Homeoffice, Honorar Gebuehren Verguetung, Interessenkollision: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `geldwaesche-sanktionslisten-haftpflicht` | Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung: wählt den konkreten Prüfpfad... |
 | `grundschuld-sicherungszweck-haftpflicht` | Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltsta... |
@@ -95,6 +98,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `share-deal-umwandlung-registersperre` | Notare Share Deal Closing Notar Kaltstart Und Faktenmatrix, Notare Umwandlung Und Registersperre Kaltstart Und Faktenmatrix, Notare Unparteilichkeit Bei Familiengesellschaft Kaltstart Und, Notare Urkundenrolle Fehler Kaltstart Und Fakten... |
 | `unparteilichkeit-familiengesellschaft` | Notare Unparteilichkeit Bei Familiengesellschaft Kammerantwort, Notare Unparteilichkeit Bei Familiengesellschaft Organisationsp, Notare Urkundenrolle Fehler Organisationspflicht Und Praeventio, Notare Urkundensammlung Und Verwahrung Kamm... |
 | `urkundenrolle-fehler-werbung-amtsbezeichnung` | Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Orga... |
+| `urkundensammlung-verwahrung` | Notare Urkundensammlung Verwahrung Organisationspflicht / Notare Verbraucherwiderruf Beurkundung Kammerantwort Ve / Notare Verbraucherwiderruf Beurkundung Organisationspflicht / Notare Verschwiegenheit Datenraum Kammerantwort Verfahr / 1... |
 | `vermerk-mustertext-sitzungs` | Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbar... |
 | `verschwiegenheit-datenraum-verwahrungsanzeige` | Notare Verschwiegenheit Und Datenraum Rechtsprechungscheck Und, Notare Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R, Notare Vollzugsueberwachung Grundbuch Rechtsprechungscheck Und, Notare Werbung Und Amtsbezeichnung Rechtspre... |
 | `verschwiegenheit-geheimnisschutz-werbung` | Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |

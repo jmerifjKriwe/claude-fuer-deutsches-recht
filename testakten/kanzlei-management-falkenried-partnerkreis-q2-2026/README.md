@@ -4,13 +4,14 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 177 KB) | PDF | [`gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf`](gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) |
 
-Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version.
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

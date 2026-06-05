@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf`](gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 45 KB) | PDF | [`gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf`](gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kernfusion-transrapid-starnberger-see.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

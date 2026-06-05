@@ -113,7 +113,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `153a-stpo-iii-stpo-bewaehrung-stgb` | 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nä... |
+| `153a-stpo-iii-bewaehrung-stgb` | 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nä... |
 | `bewaehrung-auflagen-bewaehrungswiderruf-56f` | Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten bel... |
 | `bewaehrung-interessen-deutschem` | Bewaehrung Mehrparteien Konflikt Und Interessen, Deutschem Tatbestand Beweis Und Belege, Freiheitsstrafe Compliance Dokumentation Und Akte: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert... |
 | `freiheitsstrafe-strafmass-geldstrafe` | Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Out... |

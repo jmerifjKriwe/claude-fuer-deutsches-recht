@@ -1,6 +1,6 @@
 # fluggastrechte
 
-**69 Skills** · Stand `v209.0.0`
+**69 Skills** · Stand `v210.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fluggastrechte/README.md)

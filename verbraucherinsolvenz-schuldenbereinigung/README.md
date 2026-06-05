@@ -1,5 +1,25 @@
 # Verbraucherinsolvenz und Schuldenbereinigung
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`verbraucherinsolvenz-schuldenbereinigung`) | [`verbraucherinsolvenz-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan** (`verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung`) | [Gesamt-PDF lesen](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 Dieses Plugin führt durch Verbraucherinsolvenz, außergerichtlichen Einigungsversuch, Schuldenbereinigungsplan, Antrag beim Insolvenzgericht, Restschuldbefreiung, P-Konto, Pfändungsschutz und Neustart.
 
 ## Kaltstart
@@ -10,18 +30,6 @@ Dieses Plugin führt durch Verbraucherinsolvenz, außergerichtlichen Einigungsve
 4. Außergerichtlichen Einigungsversuch und Schuldenbereinigungsplan vorbereiten.
 5. Antrag, Restschuldbefreiung und Stundung mit Anlagen prüfen.
 6. Wohlverhaltensphase als Kalender mit Obliegenheiten führen.
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Plugin herunterladen
-
-| Was | Format | Quelle |
-| --- | --- | --- |
-| Plugin-ZIP | ZIP | [verbraucherinsolvenz-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
-| Testakte Reimers | ZIP | [testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
-| Testakte Reimers | PDF | [verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 ## Kernnormen
 
 InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4d, §§ 35, 36, 88, 89, §§ 174 ff.; ZPO §§ 850 ff.; DSGVO für sensible Unterlagen; SGB-Schnittstellen für Existenzsicherung.
@@ -108,6 +116,7 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `geschaeftsfuehrer-altlasten-steuerschulden` | Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `glaeubigerliste-richtig-hausrat` | Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `insolvenzeroeffnung-wirkungen-kommunikation` | Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `kaltstart-schuldenbild-glaeubiger-sofortschutz` | Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; lief... |
 | `krankenversicherung-beitraege-krankheit` | Krankenversicherung Und Beitraege, Krankheit Pflege Behinderung, Lohnpfaendung Und Arbeitgeber: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `mietkaution-genossenschaftsanteil-muster` | Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `obliegenheiten-inso-p-konto-planablehnung` | Obliegenheiten 295 Inso, P Konto Sofortschutz, Planablehnung Und Naechster Schritt: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
@@ -121,7 +130,6 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `treuhaender-rolle-unterhalt-insolvenz` | Verbraucherinsolvenz Treuhaender Rolle, Verbraucherinsolvenz Unterhalt Und Insolvenz, Verbraucherinsolvenz Versagungsgruende: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten... |
 | `unterlagen-und-schuldeninventar` | Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert k... |
 | `verbraucher-regelinsolvenz-jahres` | Verbraucher Oder Regelinsolvenz, Verbraucherinsolvenz 3 Jahres Restschuldbefreiung, Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefer... |
-| `verbraucherinsolvenz-kaltstart-verbraucherinsolvenz` | Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; lief... |
 | `vollstreckung-stoppen-vorzeitige` | Vollstreckung Stoppen, Vorzeitige Restschuldbefreiung, Wohnung Miete Energie: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `waehrend-insolvenz-verjaehrung-alttitel` | Vergleich Waehrend Insolvenz, Verjaehrung Und Alttitel, Versagung Restschuldbefreiung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 

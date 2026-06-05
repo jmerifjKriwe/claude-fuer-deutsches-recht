@@ -1,5 +1,20 @@
 # Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 46 KB) | PDF | [`gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf`](gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
+
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Diese Akte gehört zum Plugin `verbraucherinsolvenz-schuldenbereinigung`.
 
 ## Downloads

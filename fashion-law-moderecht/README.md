@@ -57,7 +57,7 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `brand-enforcement-brand-markenportfolio` | Brand Enforcement Abmahnung, Brand Und Markenportfolio: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
+| `brand-enforcement-markenportfolio` | Brand Enforcement Abmahnung, Brand Und Markenportfolio: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `confidentiality-design-counterfeit` | Confidentiality Design Leak, Counterfeit Investigation: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `crm-loyalty-designrecht-muster` | Crm Loyalty Datenschutz, Designrecht Und Muster: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |
 | `e-commerce-employment-creatives` | E Commerce Widerruf Fashion, Employment Creatives Fashion: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output. |

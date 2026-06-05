@@ -50,7 +50,7 @@ Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `bea-nicht-bea-berufsgericht` | Bea Nicht In Betrieb Praevention, Bea Nicht In Betrieb Verteidigung, Berufsgericht Anschuldigungsschrift Praevention, Berufsgericht Anschuldigungsschrift Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und... |
+| `bea-nicht-berufsgericht` | Bea Nicht In Betrieb Praevention, Bea Nicht In Betrieb Verteidigung, Berufsgericht Anschuldigungsschrift Praevention, Berufsgericht Anschuldigungsschrift Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und... |
 | `bea-nutzungspflichten-kanzleisitz` | Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren O... |
 | `berufsgericht-beweisaufnahme` | Berufsgericht Beweisaufnahme Praevention, Berufsgericht Beweisaufnahme Verteidigung, Berufsgesellschaft Compliance Praevention, Berufsgesellschaft Compliance Verteidigung: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege... |
 | `berufsgericht-freie-berufe-dokumente-aktenlog` | Dokumentenintake und Aktenlog: prüft ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmit... |

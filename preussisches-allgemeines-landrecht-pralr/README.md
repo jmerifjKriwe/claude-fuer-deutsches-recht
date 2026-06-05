@@ -1,6 +1,5 @@
 # Preußisches Allgemeines Landrecht (PrALR)
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -23,19 +22,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 Das PrALR-Plugin macht das **Allgemeine Landrecht für die Preußischen Staaten** arbeitsfähig: als historische Quelle, als Kodifikationsprojekt, als rechtsgeschichtliche Vergleichsfolie und in den seltenen Fällen, in denen Altrecht oder der Aufopferungsgedanke heute noch sauber hergeleitet werden muss.
 
 Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unterschiedlichen Jahren oder Drucktraditionen stammen können. Der erste Schritt ist deshalb immer: **Welcher Textzeuge liegt vor?** Danach kommen Systemstelle, Geltungsraum, heutige Fortwirkung und Output.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung** ([`testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/`](../testakten/preussisches-landrecht-wusterhagen-muehlenstau-aufopferung/)).
-
-Direkt-Download als ZIP: [testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 
 ## Digitale Textzeugen
 
@@ -70,7 +56,6 @@ Das PrALR umfasst eine enorme Zahl einzelner Vorschriften. Damit das Plugin im A
 
 Keine Scheinfundstellen, keine OCR-Fundstellen ohne Scan-Gegenprobe, keine Gleichsetzung verschiedener Digitalisate. Für aktuelle Rechtsanwendung: immer Live-Check mit heutiger Norm, Landesrecht und frei zugänglicher Rechtsprechung.
 
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
@@ -79,6 +64,9 @@ Automatisch generierte Komplett-Liste aller 144 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
+| `041-1792-agb-vs-1794` | PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen. |
+| `047-red-team-falsche-behauptungen` | PrALR: Falsche Behauptungen über Geltung, Modernität, Liberalität oder Norminhalt des PrALR entlarven. |
+| `050-in-anderen-plugins-routen` | PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen. |
 | `band-titel-rechtsfortwirkung-praxis` | Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege... |
 | `gewerbe-zunft-strafrecht-zweiter-strafvollzug` | Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung: wählt den konkreten Prüfpfad, trennt Frist, Z... |
 | `kaufrecht-miete-polizeirecht-wohlfahrtsstaat` | Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege... |
@@ -123,16 +111,13 @@ Automatisch generierte Komplett-Liste aller 144 Skills in diesem Plugin. Beschre
 | `pralr-038-unterricht-und-seminar` | PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. |
 | `pralr-039-mueller-arnold-fall-justizreform` | PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen. |
 | `pralr-040-carmer-svarez-klein-redaktion` | PrALR: Carmer, Svarez, Klein, Redaktionsgeschichte und Arbeitsweise ohne Personenkult einordnen. |
-| `pralr-041-1792-agb-vs-1794-pralr` | PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen. |
 | `pralr-042-drucke-pauli-decker-nauck` | PrALR: Drucke, Verleger, Schriftarten, Bandzählungen und bibliographische Identität vorsichtig unterscheiden. |
 | `pralr-043-band-teil-titel-navigation` | PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren. |
 | `pralr-044-rechtsfortwirkung-in-praxis-check` | PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern. |
 | `pralr-045-aufopferung-heutiger-schriftsatz` | PrALR: Aufopferungsgedanke in heutiger Staatshaftungsargumentation präzise und schlank verwenden. |
 | `pralr-046-nachbarrecht-heutiger-schriftsatz` | PrALR: historische Nachbarrechtsnormen in heutiger Streitakte prüfen, beweisen und abgrenzen. |
-| `pralr-047-red-team-falsche-pralr-behauptungen` | PrALR: Falsche Behauptungen über Geltung, Modernität, Liberalität oder Norminhalt des PrALR entlarven. |
 | `pralr-048-red-team-ocr-halluzinationen` | PrALR: OCR-Halluzinationen, falsch gelesene Paragraphen und Scheinfundstellen im PrALR erkennen. |
 | `pralr-049-abschlussmemo-historische` | PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen. |
-| `pralr-050-pralr-in-anderen-plugins-routen` | PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen. |
 | `pralr-anderen-plugins-normnavigator-jede` | Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze: wählt den konkreten Prüfpf... |
 | `pralr-erster-titel-eigentum-besitz` | Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A: wählt den konkreten Prüfp... |
 | `pralr-erster-titel-erwerb-eigentum` | Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un: wählt... |
