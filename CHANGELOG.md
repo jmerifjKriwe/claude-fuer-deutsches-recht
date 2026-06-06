@@ -1,3 +1,20 @@
+# v213.0.0 — Plugin-Praefix-Wiederholungen aus Skill-Slugs entfernt; forderungsmanagement-klagewerkstatt manuell veredelt
+
+## Schwerpunkt
+
+- Repo-weit alle Skills entpraefixt: 1577 Skills umbenannt + 14 als Duplikat zur Kurzform geloescht, in 192 von 210 Plugins. Pluginname als Slug-Praefix komplett eliminiert (z. B. agb-recht-pruefer-kaltstart-triage -> kaltstart-triage, gesellschaftsrecht-tabellenpruefung-cap-table -> tabellenpruefung-cap-table, bgb-at-anfechtung-vor-auslegung -> anfechtung-vor-auslegung).
+- Auch Sub-Praefixe spezial-, freigegeben-, fmkw-, workflow-und- aus den entpraefixten Slugs entfernt. Frontmatter name: synchron aktualisiert. Drei externe Link-Verweise in READMEs und einer YAML auf neue Kurzform-Slugs umgebogen.
+- Plugin forderungsmanagement-klagewerkstatt manuell konsolidiert: 84 -> 46 Skills. 38 Boilerplate-Klone und drei Meta-Workflow-Skills entfernt (klage-aus-eigenem-skill, klagevorlage-aus-eigenen-mustern, inkasso-zahlungsklage-ersteller). Alle 46 verbleibenden Skills manuell mit echtem ZPO/BGB-Wissen befuellt: Klageschrift-Pflichtbestandteile § 253 Abs. 2 ZPO, Verzug § 286 BGB, Verzugszinsen § 288 BGB inklusive B2C-5pp / B2B-9pp und 40-Euro-Pauschale § 288 Abs. 5 BGB, Verjaehrung §§ 195 199 203 204 212 BGB, Streitwertgrenzen § 23 Nr. 1 GVG 10.000 EUR ab 01.01.2026, Mahnverfahren §§ 688 ff. ZPO, Mahngerichts-Tabelle nach Bundeslaendern, Vollstreckung §§ 704 ff. ZPO inklusive Pfaendungsgrenzen § 850c ZPO, EU-Verfahren Bruessel Ia VO 1215/2012, EuMVVO VO 1896/2006, EuVTVO VO 805/2004 und EuGFVO VO 861/2007.
+
+## Qualitätsbild
+
+- Validator gruen.
+- 0 FULL_PREFIX-Treffer und 0 P2-Praefix-Treffer im repo-weiten Re-Scan.
+- 210 Plugins / 18274 Skills / 201 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, TESTBERICHT.md, README.md, testakten/README.md auf v213.0.0.
+
+---
+
 # v212.0.0 — Rest-Boilerplate aus Skillanfängen entfernt
 
 ## Schwerpunkt

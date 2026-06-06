@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v212.0.0 / Freistehende Skilltexte nach Konsolidierungs- und Boilerplate-Politur
+**Arbeitsstand:** v213.0.0 / Freistehende Skilltexte nach Konsolidierungs- und Boilerplate-Politur
 **Plugins gesamt:** 210
 **Skills gesamt:** 9115
 **Testakten gesamt:** 201
@@ -48,7 +48,7 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer, ohne dass fachliches Mat
 ## Nachgezogene Meta-Pflege
 
 - Root-README auf den aktuellen Stand gebracht: 210 Plugins, 9115 Skills, 201 Testakten.
-- Testakten-README auf v212.0.0 und 201 Testakten geprüft.
+- Testakten-README auf v213.0.0 und 201 Testakten geprüft.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
 - Veraltete Angaben aus der alten 52-Plugin-/361-Skill-Phase wurden aus diesem Testbericht entfernt.
 - Nach v211 wurden 2906 `SKILL.md`-Dateien zusätzlich sprachlich nachpoliert, damit verdichtete Skills nicht mehr wie Generator- oder Konsolidierungsartefakte starten.
