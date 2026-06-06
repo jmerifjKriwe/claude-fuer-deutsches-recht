@@ -57,14 +57,11 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `ag-vorstandsvertrag-hgr` | AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour. Liefert priorisierten Output mit Norm-Pinpoin... |
+| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `fa-handels-gesellschaft-start-chronologie-fristen` | FA Handels Gesellschaft Start Chronologie Fristen im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoamp... |
 | `fachanwalt-fao-gesellschafterstreit` | FAO Gesellschafterstreit im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Fachanwalt, FAO, Gesellschafterstreit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `fachanwalt-handels-gesellschaftsrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-handels-gesellschaftsrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `fachanwalt-handels-gesellschaftsrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-handels-gesellschaftsrecht-output-waehlen` | Output wählen im Plugin Fachanwalt Handels Gesellschaftsrecht: Diese Output-Weiche für Fachanwalt Handels Gesellschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nä... |
-| `fachanwalt-handels-gesellschaftsrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fachanwalt-handels-gesellschaftsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `geschaeftsfuehrerhaftung-holding` | Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Geschaeftsfuehrerhaftung, Holding-Strukturplanung, Gesellschafterdarlehen und Cash-Flow GmbH. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz` | Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Nor... |
 | `gesellschaftsrecht-gesellschaftervertrag-klauseln` | Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüffeld für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Output m... |
@@ -76,9 +73,12 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `hgesr-handelsvertreterausgleich-mbg` | Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis. Liefert... |
 | `hgr-dis-gesellschaftsrecht-token-fristennotiz` | HGR DIS Gesellschaftsrecht Token Fristennotiz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschafter streiten und wollen Schiedsverfahren statt, Gesellschaftsrecht, Token. Liefert priorisierten Output mit Norm-Pinp... |
 | `orientierung-hgr-dlt-hgesr` | Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende... |
+| `output-waehlen` | Output wählen im Plugin Fachanwalt Handels Gesellschaftsrecht: Diese Output-Weiche für Fachanwalt Handels Gesellschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nä... |
 | `partgg-pilotregime-sonderfall` | Partgg Pilotregime Sonderfall im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Partgg, Pilotregime, Schnittstellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `schriftsatzkern-substantiierung-aktg` | Schriftsatzkern Substantiierung Aktg im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Substantiierter Schriftsatzkern für, AktG, Beschlussanfechtung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem... |
 | `seit-fehlerkatalog` | Seit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `umwg-quellenkarte` | Umwg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

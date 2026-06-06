@@ -79,7 +79,7 @@ Apache-2.0 OR MIT.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 156 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 155 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -132,6 +132,7 @@ Automatisch generierte Komplett-Liste aller 156 Skills in diesem Plugin. Beschre
 | `entschaedigung-sgb-xiv-opferleistungen` | Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene. |
 | `erstattung-zu-unrecht-50-sgb-x` | Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine. |
 | `erwerbsminderungs-rente-streit-sgb-vi` | EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV. |
+| `erwerbsminderungsrente` | Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüft konkret Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren, Die Feststellungsklage nach § 55 SGG, GdB-Feststellung beim Ver... |
 | `erwerbsminderungsrente-belegfuehrung` | Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie. |
 | `fahrtkosten-zeugen-pkh-erstattung` | Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden. |
 | `feststellungsklage-55-sgg` | Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext. |
@@ -146,6 +147,7 @@ Automatisch generierte Komplett-Liste aller 156 Skills in diesem Plugin. Beschre
 | `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
 | `grundsicherung-sgb-xii` | Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger. |
 | `hilfe-zum-lebensunterhalt-27-sgb-xii` | Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe fuer Erwerbsfaehige ohne Anspruch auf Buergergeld und fuer voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung.... |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule vor und führt durch... |
 | `kindergeld-familienkasse-einspruch` | Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO... |
 | `klage-niederschrift-zusammenstellen-bundle` | Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am Sozialgericht: prüft konkret Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall, Wie Sie... |
 | `klage-zur-niederschrift-90-sgg` | Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger. |
@@ -203,9 +205,6 @@ Automatisch generierte Komplett-Liste aller 156 Skills in diesem Plugin. Beschre
 | `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreih... |
 | `sanity-check-sozialleistungen-uebersicht` | Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am Sozialgericht: prüft konkret Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem... |
 | `schwerbehindertenausweis-merkzeichen-pruefen` | Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub... |
-| `selbstvertreter-sozialgericht-eilantrag-buergergeld-jobcenter` | Eilantrag Buergergeld Jobcenter im Selbstvertretung am Sozialgericht: prüft konkret Eilantrag beim SG gegen Jobcenter, Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem, Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel od... |
-| `selbstvertreter-sozialgericht-erwerbsminderungsrente` | Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüft konkret Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren, Die Feststellungsklage nach § 55 SGG, GdB-Feststellung beim Ver... |
-| `selbstvertreter-sozialgericht-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule vor und führt durch... |
 | `sozialgericht-zustaendigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
 | `teilstattgabe-vollstattgabe-verstehen` | Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen. |

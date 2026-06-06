@@ -57,6 +57,7 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Verbraucherschutzrecht Prüfer: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `vbr-001-kaltstart-verbraucherfall-sortieren` | Verbraucherschutzrecht Prüfer: Kaltstart Verbraucherfall sortieren. Kaltstart Verbraucherfall sortieren im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-002-verbraucher-oder-kleines-unternehmen-e` | Verbraucherschutzrecht Prüfer: Verbraucher oder kleines Unternehmen erkennen. Verbraucher oder kleines Unternehmen erkennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeform... |
 | `vbr-004-informationspflichten-matrix-bauen` | Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbr... |
@@ -168,6 +169,5 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `verbraucherrecht-waren-digitalen-elementen-preisangaben-dark` | Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschu... |
 | `verbraucherrecht-waren-widerruf` | Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel... |
 | `verbraucherrecht-widerruf-fernabsatz` | Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaus... |
-| `verbraucherschutzrecht-pruefer-kaltstart-triage` | Verbraucherschutzrecht Prüfer: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

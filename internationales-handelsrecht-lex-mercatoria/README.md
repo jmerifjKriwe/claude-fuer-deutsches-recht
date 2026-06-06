@@ -148,6 +148,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `ihl-dokumenteninkasso-retention-title` | Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung im Internationales Handelsr... |
 | `ihl-praeferenzursprung-exportkontrolle` | Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR,... |
 | `ihl-vertiefung-praxisfall-dashboard-naechster` | Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Mater... |
-| `internationales-handelsrecht-lex-mercatoria-kaltstart-triage` | Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
+| `kaltstart-triage` | Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

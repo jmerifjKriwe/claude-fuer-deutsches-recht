@@ -59,13 +59,14 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und über
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `amtlicher-bgb-auftrag-unentgeltliche` | Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leistungsstörung, AGB, Verbraucherrecht, digitale Produkte, Kauf, Miete, Dienst, Werk, Auftrag, GoA, Bürgschaft, Bereicherung und Delikt gegen die aktuelle BGB-Fassung im BGB BT:... |
 | `anfangercoach-schuldrecht-anspruchslandkarte` | Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `anfangercoach-schuldrecht-bt` | Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest. |
+| `anspruchslandkarte-vertragstypen` | Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. |
 | `arbeitsnaher-dienstvertrag-bauvertrag` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.... |
 | `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. |
 | `auftrag-und-unentgeltliche-taetigkeit` | Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung. |
@@ -74,14 +75,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `bereicherungsrecht-entreicherung-und-saldotheorie` | Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoi... |
 | `bereicherungsrecht-leistungskondiktion` | Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität. |
 | `bereicherungsrecht-nichtleistungskondiktion` | Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion. |
-| `bgb-bt-anspruchslandkarte-vertragstypen` | Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. |
-| `bgb-bt-bereicherungsrecht-leistungskondiktion` | Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output... |
-| `bgb-bt-beweislast-belegmatrix` | Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis. |
-| `bgb-bt-kaufrecht-abweichungsvereinbarung-objektive-beweislast` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pin... |
-| `bgb-bt-live-quellen-rechtsstand` | Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprechungsdatenbanken, Rechtsstand prüfen. |
-| `bgb-bt-pruefer-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `bgb-bt-pruefer-kaltstart-triage` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
-| `bgb-bt-verhandlungsplan-vertragsschluss` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
+| `beweislast-belegmatrix` | Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis. |
 | `bt-fristen-erklaerungen-zugang` | Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist. |
 | `bt-vertragsentwurf-modellvertrag` | Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle. |
 | `buergschaft-einreden-und-akzessorietaet` | Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen. |
@@ -106,6 +100,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `deliktsrecht-sonstiges-tierhalter-gebaeude` | Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert... |
 | `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB. |
 | `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `gesamtschuld-und-regress-bgb-bt` | Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT. |
 | `geschaeftsbesorgung-auftrag-mandat` | Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler. |
 | `geschaeftsbesorgung-und-zahlungsdienste` | Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. |
@@ -114,7 +109,9 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Lief... |
 | `goa-grundschema-paragraph-677` | Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht. |
 | `gutachten-klage` | Output-Workflow: Gutachten, Klage und Brief im BGB BT – Struktur, Stil und Qualitätskontrolle. |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
 | `kaufrecht-abweichungsvereinbarung-objektive` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. |
+| `kaufrecht-abweichungsvereinbarung-objektive-beweislast` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pin... |
 | `kaufrecht-beweislast-verjaehrung-digitale` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. |
 | `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-P... |
 | `kaufrecht-dauerhafte-bereitstellung-digitaler` | Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung. |
@@ -133,6 +130,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327 ff. BGB. |
 | `kaufvertrag-grundschema-paragraph-433` | Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz. |
 | `leasing-bgb-bt-schnittstelle` | Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährleistungskette und Verbraucherschutz. |
+| `live-quellen-rechtsstand` | Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprechungsdatenbanken, Rechtsstand prüfen. |
 | `maklervertrag-provision-mietvertrag` | Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pin... |
 | `maklervertrag-und-provision` | Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. |
 | `mietrecht-mangel-minderung` | Mietrechtliche Mängel und Minderung §§ 536 ff. BGB: Anzeigepflicht, Minderungsquote, Schadensersatz, Kündigung. |
@@ -154,6 +152,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
 | `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB. |
 | `vergleich-paragraph-779` | Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. |
+| `verhandlungsplan-vertragsschluss` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
 | `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
 | `vertragstypen-mischvertrag-router` | Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT. |
 | `vertragstypen-mischvertrag-werkvertrag` | Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoi... |

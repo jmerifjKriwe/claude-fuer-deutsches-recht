@@ -48,7 +48,7 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `krankenkassenrecht-krankenversicherung-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Krankenkassen- und Krankenversicherungsrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen... |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Krankenkassen- und Krankenversicherungsrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen... |
 | `krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung` | AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
 | `krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen` | Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u... |
 | `krankenversicherung-beihilfe-beamte-pkv-beamtenanfaenger` | Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel... |

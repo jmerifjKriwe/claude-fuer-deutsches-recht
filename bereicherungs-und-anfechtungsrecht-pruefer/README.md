@@ -233,7 +233,7 @@ Klotzkette
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 141 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 139 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -262,9 +262,6 @@ Automatisch generierte Komplett-Liste aller 141 Skills in diesem Plugin. Beschre
 | `bankueberweisung-fehlbuchung-und-empfaengerhorizont` | Dieses Fachmodul greift, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg v... |
 | `bereicherung-bereicherungsausgleich` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs.... |
 | `bereicherung-eines-dritten-822-bgb` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs.... |
-| `bereicherungs-und-anfechtungsrecht-pruefer-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfechtungsrecht-Prüfer. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbe... |
-| `bereicherungs-und-eingriffskondiktion-zuweisungsgehalt` | Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgr... |
-| `bereicherungs-und-mandanteninterview-bereicherungsrecht` | Dieses Fachmodul greift, wenn die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte... |
 | `bereicherungsausgleich-bei-kettenvertraegen` | Bei vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfänge... |
 | `beweise-und-darlegungslast-bereicherungsrecht` | Bei darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erke... |
 | `boesglaeubigkeit-kenntnis-und-819-timing` | Bei der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwend... |
@@ -307,6 +304,7 @@ Automatisch generierte Komplett-Liste aller 141 Skills in diesem Plugin. Beschre
 | `inso-vorsatzanfechtung-133` | Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen u... |
 | `insolvenzrisiko-im-dreipersonenverhaeltnis` | Bei ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des En... |
 | `ip-lizenzanalogie-und-bereicherung` | Bei ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Besti... |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfechtungsrecht-Prüfer. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbe... |
 | `klageantrag-zahlung-herausgabe-zug-um-zug` | Bei aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte... |
 | `klageantrag-zahlung-kondiktion-schwarzarbeit` | Dieses Fachmodul greift, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergle... |
 | `kondiktion-bei-schwarzarbeit-und-illegalitaet` | Bei illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in S... |

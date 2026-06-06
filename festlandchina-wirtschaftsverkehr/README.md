@@ -149,6 +149,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `chn-099-abschlussmemo-china-deal` | Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notari... |
 | `chn-contract-language-arbitration-hk` | Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistu... |
 | `chn-lieferantenmapping-tier-single-source` | Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Liefera... |
-| `festlandchina-wirtschaftsverkehr-kaltstart-triage` | Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
+| `kaltstart-triage` | Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

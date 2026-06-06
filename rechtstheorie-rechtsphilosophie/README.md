@@ -76,6 +76,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `gleichheit-und-praejudizien` | Prueft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität. |
 | `institutionenrhetorik-konkrete-ordnung-red` | Red-Team gegen Institutionen-, Ordnung- und Lebenswirklichkeitsrhetorik: trennt echte soziale Struktur von normativer Bindung, Kompetenz, Grundrechten und demokratischer Verantwortung. |
 | `interpretation-und-intention` | Prueft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung. |
+| `kaltstart-triage` | Einstieg und Fallrouting fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl. |
 | `kanzlei-briefing-rechtstheorie` | Uebersetzt rechtstheoretische Probleme fuer Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen. |
 | `kelsen-demokratie-verfahren` | Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
 | `kelsen-normativismus-reine-stufenbau` | Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral, Ordnet Normen im Stufenbau. Liefert priori... |
@@ -104,7 +105,6 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `rechtsbegriff-und-geltung` | Prueft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law. |
 | `rechtsrealismus-und-entscheidungsprognose` | Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das fuer Beratung, Prozessstrategie und Begründung? |
 | `rechtssicherheit-vertrauen-rueckwirkung` | Prueft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
-| `rechtstheorie-rechtsphilosophie-kaltstart-triage` | Einstieg und Fallrouting fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl. |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-prinzipien-tacit-sprache-begriffe` | Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rechtsphilosophie: prüft konkret Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, Prueft Regeln als gespeichertes Erfahrungswissen. Liefert prio... |
 | `regeln-tacit-knowledge-kognitive-entlastung` | Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |

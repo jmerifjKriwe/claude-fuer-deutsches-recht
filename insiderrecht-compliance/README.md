@@ -100,6 +100,6 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `ins-stimmrechtsmitteilung-social` | Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale,... |
 | `ins-vorstand-berater` | Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel... |
 | `ins-vorstandswechsel-dividenden` | Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen... |
-| `insiderrecht-compliance-kaltstart-triage` | Kaltstart Insiderrecht im Insiderrecht und Compliance: Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Be... |
+| `kaltstart-triage` | Kaltstart Insiderrecht im Insiderrecht und Compliance: Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Be... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

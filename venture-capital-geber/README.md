@@ -68,6 +68,7 @@ Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor. |
 | `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capi... |
 | `rechtsabteilung-down-round-und-anti-dilution` | Rechtsabteilungs-Fachmodul für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ventu... |
 | `rechtsabteilung-founder-vesting-und-leaver-streit` | Rechtsabteilungs-Fachmodul für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Cap... |
@@ -172,6 +173,5 @@ Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschre
 | `vc-uk-us-deal-securities-accredited-swiss-ag-startup-portfolio` | Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefer... |
 | `vc-venture-debt-exit-readiness-ma-sale-startup-insolvency-runway` | Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten O... |
 | `vc-wandeldarlehen-deutschland-safe-kiss-deutsche-pre-seed-runde` | Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech... |
-| `venture-capital-geber-kaltstart-triage` | Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

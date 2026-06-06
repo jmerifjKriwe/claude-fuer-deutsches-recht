@@ -48,6 +48,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Verlagsrecht und Buchpreisbindung. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbe... |
 | `verl-001-verlagsmandat-werk-vertrag-vertrieb` | Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen. |
 | `verl-003-autor-herausgeber-mitwirkende-rechtekette` | Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägi... |
 | `verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung` | Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft im Verlagsrecht/Buchpreisbindung: prüft konkret die einsc... |
@@ -98,6 +99,5 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `verl-verlagsgesetz-kuendigung` | Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen... |
 | `verl-verlagsvertrag-redaktionsvertrag` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägig... |
 | `verl-werbung-abmahnung` | Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen und Rezensionszitaten — UWG, Irreführungsverbot, Siegel-Anforderungen und Abmahnrisiken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkma... |
-| `verlagsrecht-buchpreisbindung-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Verlagsrecht und Buchpreisbindung. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

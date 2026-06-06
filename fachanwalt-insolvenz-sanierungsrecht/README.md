@@ -58,15 +58,12 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `eroeffnung-fachanwalt-fao-glaeubigerantrag` | Eroeffnung Fachanwalt FAO Glaeubigerantrag im Insolvenz- und Sanierungsrecht: prüft konkret Eroeffnung, Fachanwalt, FAO, Glaeubigerantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `fa-inso-sanierung-quellen-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
 | `fa-schuldschein` | FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoam... |
-| `fachanwalt-insolvenz-sanierungsrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-insolvenz-sanierungsrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `fachanwalt-insolvenz-sanierungsrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-insolvenz-sanierungsrecht-output-waehlen` | Output wählen im Insolvenz- und Sanierungsrecht: Diese Output-Weiche für Fachanwalt Insolvenz Sanierungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
-| `fachanwalt-insolvenz-sanierungsrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fachanwalt-insolvenz-sanierungsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `glaeubigerantrag-insolvenzanfechtung` | Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsrecht: prüft konkret Prüffeld für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsre... |
 | `glaeubigerverhandlung-sanierung-idw-s6-krypto` | Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sanierungsrecht: prüft konkret Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüffeld für fachanwalt insolv... |
 | `insanw-fortbestehensprognose` | Insanw Fortbestehensprognose im Insolvenz- und Sanierungsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Insolvenz, Fortbestehensprognose IDW S 11 / S 6, Chronologie und Belegmatrix im Plugin. Liefert priorisie... |
@@ -102,6 +99,9 @@ Automatisch generierte Komplett-Liste aller 45 Skills in diesem Plugin. Beschrei
 | `inso-p359-schriftsatzkern-substantiierung` | Inso P359 Schriftsatzkern Substantiierung im Insolvenz- und Sanierungsrecht: prüft konkret § 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat, Substantiierter Schriftsatzkern für Insolvenzantrag, Anfechtungsklage, StaRUG-Re. Lie... |
 | `insolvenz-insolvenzanfechtung-insolvenzrecht` | Insolvenzanfechtung Insolvenzrecht im Insolvenz- und Sanierungsrecht: prüft konkret Insolvenz, Insolvenzanfechtung, Insolvenzrecht, Krypto. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `interessen-verwertung-beweislast-starug` | Interessen Verwertung Beweislast Starug im Insolvenz- und Sanierungsrecht: prüft konkret Schnittstellen, Verwertung, StaRUG-Restrukturierungsplan im Detail, Prüft Anfechtungsansprüche und Verteidigungslinien nach §§. Liefert priorisierte... |
+| `output-waehlen` | Output wählen im Insolvenz- und Sanierungsrecht: Diese Output-Weiche für Fachanwalt Insolvenz Sanierungsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist. |
+| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `starug-quellenkarte` | Starug Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

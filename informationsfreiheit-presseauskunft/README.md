@@ -156,6 +156,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `ifg-umweltinformation-antrag-formulier-kosten-deckeln` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Antrag formulieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Lief... |
 | `ifg-umweltinformation-widerspruch-baue-klage-vorbereite` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Widerspruch bauen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefe... |
 | `ifg-umweltinformationen-abgrenzen-verbraucherinformationen-nutze` | Informationsfreiheit und Presseauskunft: UIG und Umweltinformationen abgrenzen. UIG und Umweltinformationen abgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabe... |
-| `informationsfreiheit-presseauskunft-kaltstart-triage` | Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
+| `kaltstart-triage` | Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

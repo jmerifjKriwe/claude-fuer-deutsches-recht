@@ -47,6 +47,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Weltraumrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokumen... |
 | `space-001-weltraummandat-quellenkarte` | Kaltstart Weltraummandat – Quellenkarte, Risikocockpit und Akteurskarte für jede Weltraumrechts-Anfrage. |
 | `space-002-outer-space-treaty-grundprinzipien-nichtaneignung-und` | OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert prior... |
 | `space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers` | Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert pr... |
@@ -148,6 +149,5 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `space-weltraumdaten-datenbankrecht` | Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-... |
 | `space-weltraummedizin-probandenrecht-haftung` | Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit N... |
 | `space-weltraumrecht-kommunen-bergung-fremder` | Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit N... |
-| `weltraumrecht-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Weltraumrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokumen... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

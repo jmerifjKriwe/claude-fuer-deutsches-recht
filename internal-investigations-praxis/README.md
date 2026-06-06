@@ -43,7 +43,6 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `internal-investigations-praxis-kaltstart-triage` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 | `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech... |
 | `inv-003-legal-hold` | Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech... |
 | `inv-005-arbeitsrecht-mitwirkung` | Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege un... |
@@ -98,5 +97,6 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `inv-us-settlement` | Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense im Internal Investigations Praxis: prüft konkret die einschlägigen... |
 | `inv-whistleblower-forensic` | Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel... |
 | `inv-works-disciplinary` | Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz im Internal Investigations Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
+| `kaltstart-triage` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

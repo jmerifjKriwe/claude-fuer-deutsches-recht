@@ -116,6 +116,6 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `infl-vertragsarchiv-creator-hassrede` | Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr... |
 | `infl-wahlwerbung-durch-arbeitsrecht-social` | Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Recht... |
 | `infl-werbekennzeichnung-instagram` | Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen im Influencer-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Beleg... |
-| `influencer-recht-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Influencer- und Social-Media-Recht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arb... |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Influencer- und Social-Media-Recht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arb... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -48,20 +48,19 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `autonome-lkw-cmr-schadensregulierung` | Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren, Schadensregulierung im grenzüberschreitenden Gueterverkehr, Speditionshaftun... |
 | `cmr-haftung-ladungsschaden` | CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Be... |
 | `cotif-fachanwalt-haager` | Cotif Fachanwalt Haager im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Cotif, Fachanwalt, Haager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `fa-transport-spedition-mandant-redteam` | FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Liefert priorisierten Output mit Norm-Pinpoints,... |
 | `fa-transport-spedition-start-chronologie-fristen` | FA Transport Spedition Start Chronologie Fristen im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Transport, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoamp... |
-| `fachanwalt-transport-speditionsrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-transport-speditionsrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `fachanwalt-transport-speditionsrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-transport-speditionsrecht-output-waehlen` | Output wählen im Plugin Fachanwalt Transport Speditionsrecht: Diese Output-Weiche für Fachanwalt Transport Speditionsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige näch... |
-| `fachanwalt-transport-speditionsrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fachanwalt-transport-speditionsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `hgb-kabotage-beweislast-kanzlei-red` | HGB Kabotage Beweislast Kanzlei RED im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret HGB, Kabotage, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `lieferverzug-orientierung-mandat-triage` | Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- un... |
 | `marktzugang-sonderfall-montrealer` | Marktzugang Sonderfall Montrealer im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Marktzugang, Montrealer, Pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `output-waehlen` | Output wählen im Plugin Fachanwalt Transport Speditionsrecht: Diese Output-Weiche für Fachanwalt Transport Speditionsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige näch... |
+| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `regeln-interessen-schnittstelle-spedition` | Regeln Interessen Schnittstelle Spedition im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Regeln, Schnittstelle, Spedition. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `reklamationsschreiben-cmr-schriftsatzkern` | Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR, Schriftsatzkern im Transport- und Speditionsrecht, Adsp. Liefert prioris... |
 | `speditionsrecht-tio-schiedsgericht` | TIO Schiedsgericht im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Speditionsrecht, TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im, Frachtvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächst... |
@@ -71,6 +70,7 @@ Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschrei
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
 | `transr-haftungssystem-erstgespraech` | Transr Haftungssystem Erstgespraech im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Haftungssystem Grundzuege, Erstgespraeches-Aufnahme im Transport- und Speditionsrecht, Gefahrguttransport-Haftung und ADR-Verstoss klaeren.... |
 | `uebereinkommen-quellenkarte` | Uebereinkommen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

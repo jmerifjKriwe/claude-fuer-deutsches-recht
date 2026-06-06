@@ -47,6 +47,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Leasingrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument... |
 | `lease-001-leasingakte-vertrag-objekt` | Schnellanalyse einer Leasingakte: Vertragstyp, Objekt, Zahlungsstrom und Eigentumslage klären; strukturierter Einstieg mit Normencheck und Sofortmaßnahmen. |
 | `lease-002-finanzierungsleasing-oder-operating-lease-einordnen` | Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Re... |
 | `lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel` | Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechun... |
@@ -105,6 +106,5 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `lease-sicherungsuebereignung-leasingregister` | Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr... |
 | `lease-steuer-umsatzsteuer-immobilienleasing` | Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsp... |
 | `lease-unternehmerleasing-gewaehrleistung` | Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit im Leasingrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechu... |
-| `leasingrecht-praxis-kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Leasingrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

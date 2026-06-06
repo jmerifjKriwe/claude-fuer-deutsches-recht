@@ -57,6 +57,7 @@ Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
+| `kaltstart-triage` | Luftrecht und Flughafenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `luft-001-kaltstart-luftrechtsmandat` | 'Mandant erscheint erstmals mit Luftrechtsfall: Airline-Insolvenz Flugzeugbeschlagnahme Slot-Verlust oder Planfeststellungsklage. Klaert Zustaendigkeit LBA vs. Landesbehoerde vs. Gericht sichert Fristen LuftVG §§ 20 ff. und EU-Recht und... |
 | `luft-002-luftvg-anwendungsbereich` | Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulat... |
 | `luft-004-flugzeugrolle-und-register` | Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Re... |
@@ -176,6 +177,5 @@ Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschre
 | `luft-luftsicherheit-luftsig` | Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prueft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Chec... |
 | `luft-registerpfandrecht-sicherheitsauflage` | Pfandrecht-Glaeubigers Sicherheiten werden durch LuftSiG-Auflagen oder EASA-Massnahmen beeintraechtigt. Skill prueft wie Sicherheitsauflagen den Wert des Pfandobjekts beeinflussen welche Handlungsoptionen bestehen und liefert Risikobewer... |
 | `luft-slot-sicherheitsauflage-insolvenzrisiko` | Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk im... |
-| `luftrecht-flughafenrecht-kaltstart-triage` | Luftrecht und Flughafenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

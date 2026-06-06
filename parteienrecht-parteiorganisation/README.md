@@ -39,7 +39,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -63,6 +63,7 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `geheime-abstimmung-geschaeftsordnung` | Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Nor... |
 | `geschaeftsordnung-parteitag` | Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe. |
 | `infostand-versammlung` | Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung. |
+| `kaltstart-triage` | Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft. |
 | `kandidatenaufstellung-bundestag` | Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech... |
 | `kandidatenaufstellung-bundestag-kreis` | Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung. |
 | `kandidatenscreening-formal` | Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen. |
@@ -105,9 +106,6 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `parteienrecht-ordnungsmassnahmen-verfahren` | Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. |
 | `parteienrecht-parteiausschluss-parteigericht` | Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit. |
 | `parteienrecht-parteigruendung-satzung-programm` | Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. |
-| `parteienrecht-parteiorganisation-kaltstart-triage` | Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft. |
-| `parteienrecht-parteiorganisation-landtagswahl-livecheck` | Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahlleiter, Fristen, Formulare und Aufstellungsanforderungen im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert pr... |
-| `parteienrecht-parteiorganisation-tagesordnung-parteitag` | Erstellt Tagesordnung für Vorstandswahl, Anträge, Satzungsänderung, Listenaufstellung, Rechenschaft und Entlastung im Parteienrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert prioris... |
 | `parteienrecht-rechenschaftsbericht-pruefung` | Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung. |
 | `parteienrecht-unterstuetzungsunterschriften-wahl` | Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. |
 | `parteienrecht-vertreterversammlung-delegierte` | Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. |

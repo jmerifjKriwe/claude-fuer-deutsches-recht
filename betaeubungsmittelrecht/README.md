@@ -57,7 +57,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `betaeubungsmittelrecht-kaltstart-triage` | Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 | `btm-001-kaltstart-fall` | Betäubungsmittelrecht: Kaltstart BtM-Fall. Kaltstart BtM-Fall im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-003-nicht-geringe-menge-livecheck` | Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft ko... |
 | `btm-004-handeltreiben-oder-besitz` | Betäubungsmittelrecht: Handeltreiben oder Besitz. Handeltreiben oder Besitz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft konkret di... |
@@ -157,5 +156,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `btm-rezept-btmvv-arztpraxis-compliance-apotheke-dokumentation` | Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft konkret die einschlä... |
 | `btm-stoff-anlage-pruefen-nicht-geringe-menge-handeltreiben` | Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft konkret die ei... |
 | `btm-u-haft-sache-einziehung-wertersatz-jugendliche-fahrerlaubnis` | Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht: prüft konkret die einschlägi... |
+| `kaltstart-triage` | Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
