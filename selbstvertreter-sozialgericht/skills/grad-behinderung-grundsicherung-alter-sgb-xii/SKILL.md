@@ -41,7 +41,6 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Das Versorgungsamt setzt einen Grad der Behinderung (GdB) fest. Diesen brauchen Sie fuer Kuendigungsschutz, Steuerermaessigung und mehr. Sie sind nicht einverstanden? Diese Skill zeigt den Weg.
@@ -185,7 +184,6 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 
 Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zustaendigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -207,7 +205,6 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -254,7 +251,6 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -396,7 +392,6 @@ Wie bei anderen Sozialleistungen.
 
 Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst. Sozialamt-Praxis regional unterschiedlich.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -418,7 +413,6 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -472,7 +466,6 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 ## Rechtsweg-Warnung
 
 Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach der AO angegriffen; der gerichtliche Weg führt regelmäßig zum **Finanzgericht**, nicht zum Sozialgericht. BKGG-Sonderfälle können sozialrechtlich wirken, müssen aber sauber getrennt werden. Deshalb zuerst Anspruchsgrundlage (EStG oder BKGG) und Rechtsbehelfsbelehrung lesen.
-
 
 ## Anspruchsgrundlagen
 

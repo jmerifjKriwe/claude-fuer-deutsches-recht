@@ -83,7 +83,6 @@ Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Laender
 ## Quellenregel
 Landesweite Umsetzungsstaende UVgO und Wertgrenzen (z. B. NRW, BY, HE) vor Beratung in aktueller Landesfassung pruefen; OLG-/OVG-Linien ueber dejure.org / openjur.de verifizieren.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -171,7 +170,6 @@ Dokumentation: Selbstreinigungs-Memo mit Belegen zu allen drei Pflichten. Wirkun
 
 ## Quellenregel
 EuGH-Linie zu Selbstreinigung (z. B. C-41/18 Meca, C-267/18 Delta Antrepriza) vor Ausgabe ueber curia.europa.eu verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -309,7 +307,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Vertiefung: Output-Template VK-Aufklaerung
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -352,7 +349,6 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -360,7 +356,6 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -439,7 +434,6 @@ Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) str
 
 ## Quellenregel
 BGH-Linien zur LB-Verantwortung und zur Wertung Nebenangebote vor Ausgabe ueber bundesgerichtshof.de / dejure.org verifizieren; VOB-A aktuelle Fassung pruefen.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

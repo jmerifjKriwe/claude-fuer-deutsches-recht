@@ -438,7 +438,6 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -552,7 +551,6 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -660,7 +658,6 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 - Paragraph 30 OWiG Verbandsgeldbusse; Paragraph 62 BImSchG OWi-Tatbestaende.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -763,7 +760,6 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 - BGH staendige Rspr. zur Existenzvernichtungsuntreue trotz Gesellschafterzustimmung.
 - Paragraph 93 Abs 1 Satz 2 AktG Business Judgment Rule (analog GmbH).
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF.
-
 
 ## Qualitäts-Hardening
 
@@ -872,7 +868,6 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 - BGH-Linie zur Mannesmann-Entscheidung (Aufsichtsratspflicht bei Praemienentscheidungen) als Anknuepfungspunkt.
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue, gilt auch im AG-Recht).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -974,7 +969,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 - BGH staendige Rspr. zum faktischen Treueverhaeltnis.
 - Paragraph 43 GmbHG, Paragraph 93 AktG, Paragraph 1793 BGB, Paragraph 60 InsO als gesetzliche Pflichtquellen.
 - Paragraph 27 StGB Beihilfe (Schnittstelle bei Mitarbeitern ohne VBP, die dem GF helfen).
-
 
 ## Qualitäts-Hardening
 

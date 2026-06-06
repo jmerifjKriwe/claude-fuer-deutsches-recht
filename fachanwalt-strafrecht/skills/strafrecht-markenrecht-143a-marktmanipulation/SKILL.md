@@ -124,7 +124,6 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 - Paragraphen 73, 73c, 74 StGB Einziehung; Bruttoprinzip BGH; Gesamtschuldnerschaft bei Bandentaten BGH staendige Rspr.
 - VO (EU) 608/2013 und Paragraph 142a MarkenG; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -456,7 +455,6 @@ In der Praxis ist § 213 StGB der wichtigste Strafmilderungsschluessel im Toetun
 - BGH staendige Rspr. zur Affekttat und zur Eigenschuld an der Provokation.
 - BGH staendige Rspr. zum Verhaeltnis § 213 StGB / § 21 StGB (Doppelverwertungsverbot).
 - Verifizierung in amtliche Quellen und BGH-Datenbank live empfohlen.
-
 
 ## Qualitäts-Hardening
 

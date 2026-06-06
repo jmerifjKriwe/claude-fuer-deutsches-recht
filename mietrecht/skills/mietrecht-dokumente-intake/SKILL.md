@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Mietrecht** ordnet Anlagen, Registerdaten, Korre
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Mietvertrag, Mieterhöhungsverlangen, Mietspiegel, Nebenkostenabrechnung, Kündigungsschreiben, Modernisierungsankündigung, WEG-Protokoll, Beschlusssammlung.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Mietrecht und WEG-Recht-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

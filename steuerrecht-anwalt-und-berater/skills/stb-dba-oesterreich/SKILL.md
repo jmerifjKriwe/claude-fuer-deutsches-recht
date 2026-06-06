@@ -13,7 +13,6 @@ description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwe
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteiligungs- und Pensionssachverhalte massenhaft auftreten. Die Grenzgaengerregelung erfasst Arbeitnehmer, die im Inland wohnen und im Nachbarstaat in einer Grenzregion (Naehe zur Staatsgrenze) arbeiten und arbeitstaeglich zurueckkehren. Home-Office hat hier durch Konsultationsvereinbarungen Sonderbedeutung. Der Skill fuehrt durch die DBA-Pruefung mit Schwerpunkt auf den oesterreich-spezifischen Sonderregelungen.

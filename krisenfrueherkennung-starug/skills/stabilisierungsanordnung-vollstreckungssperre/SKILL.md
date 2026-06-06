@@ -1,6 +1,6 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stabilisierungsanordnung Vollstreckungssperre

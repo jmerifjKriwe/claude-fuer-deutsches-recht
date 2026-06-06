@@ -13,7 +13,6 @@ description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BE
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Die Betriebsstaette ist der Aufhaenger fuer das Besteuerungsrecht am Unternehmensgewinn (Art. 7 MA). Ihre Reichweite wurde durch BEPS Aktion 7 und das MLI deutlich erweitert: Vertreterbetriebsstaette wird auch durch Provisionsmodelle und Marktmittler ausgeloest; Hilfs- und Vorbereitungstaetigkeiten muessen "vom Charakter her" Vorbereitungs- bzw. Hilfstaetigkeit sein; Anti-Fragmentierungsregelungen verhindern Aufsplittung. Dieser Skill prueft, ob Betriebsstaette vorliegt und welche Gewinne ihr zuzurechnen sind.

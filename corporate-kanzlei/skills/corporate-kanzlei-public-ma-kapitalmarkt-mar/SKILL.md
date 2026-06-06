@@ -85,7 +85,6 @@ Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr 
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 1. **Strukturanalyse** — Kontrollschwelle, Stimmrechtsanteile; Pflichtangebot-Pflicht abchecken
 2. **Insider-Management** — Insider-Liste anlegen; Kommunikations-Protokoll; Marktmissbrauchs-Risiko
 3. **Angebotsstruktur festlegen** — Gegenleistung (Cash, Aktien, Mix); Angebotspreis; Mindestannahme-Quote
@@ -137,7 +136,6 @@ weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird fuer [QUARTAL] erwartet
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Rote Schwellen
 

@@ -39,7 +39,6 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Vertiefte Prüfung des Betriebsübergangs — von der Identitätsfrage über das Unterrichtungsschreiben bis zur Widerspruchsstrategie und den Folgen für Tarif- und Betriebsvereinbarungen. Besondere Bedeutung im M&A-Kontext (Asset-Deal).
 
@@ -159,7 +158,6 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Dieser Skill dient als Eingangsrouter und Orientierungshilfe. Er klassifiziert das Mandantenanliegen, benennt die einschlägigen Normen und Fristen auf einer ersten Ebene und leitet in die passenden Fachmodule weiter. Er ist kein Ersatz für die Fachmodule, sondern deren Startpunkt.
 
@@ -267,7 +265,6 @@ Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klass
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vertiefte Prüfung von Leiharbeitsverhältnissen — vom Equal-Pay-Anspruch über die Überlassungshöchstdauer bis zur Frage, ob ein faktisches Arbeitsverhältnis zum Entleiher entstanden ist.

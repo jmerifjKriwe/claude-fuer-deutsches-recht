@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. 
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Fluggastrechte — Allgemein
 
 ## Schnellstart-Workflow
@@ -231,7 +229,6 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
  - C-411/23 (13.6.2025) — versteckter Konstruktionsfehler
  - C-399/24 (16.10.2025) — Blitzschlag
 - Leitlinien der Kommission zur Auslegung VO 261/2004: ABl. EU C 2024/05687
-
 
 ## Qualitäts-Hardening
 

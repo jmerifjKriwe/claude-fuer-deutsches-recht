@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Aktenaufbereiter Strafrecht** benennt fehlende D
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Aktenaufbereiter Strafrecht-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.

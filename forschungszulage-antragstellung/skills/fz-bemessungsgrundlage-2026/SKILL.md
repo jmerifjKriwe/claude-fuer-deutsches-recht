@@ -172,7 +172,6 @@ FuE-Anteil ist der dokumentierte Zeitanteil aus der Stundenaufzeichnung. Pauscha
 - Steuerliches Investitionssofortprogramm 2025/2026: https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

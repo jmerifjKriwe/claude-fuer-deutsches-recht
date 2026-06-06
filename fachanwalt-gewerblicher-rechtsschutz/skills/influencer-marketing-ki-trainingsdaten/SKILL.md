@@ -389,7 +389,6 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Pruefkette vor Versand
 
 1. Antrag tenoriert (urteilstauglich, vollstreckbar)?

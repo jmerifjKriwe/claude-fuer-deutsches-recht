@@ -1,6 +1,6 @@
 ---
 name: zustandigkeit-pfarrei
-description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustandigkeit Pfarrei
@@ -31,11 +31,9 @@ description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: fachl
 # Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
 
 ## Fachkern: Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
-- **Spezialgegenstand:** Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
 - **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Auftrag
 

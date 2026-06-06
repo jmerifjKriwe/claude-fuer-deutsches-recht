@@ -133,7 +133,6 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
 Stand: 05/2026. § 144 Abs. 2 SGG aktuell.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: compilations-derivative-works-103
-description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Compilations und Derivative Works
@@ -17,14 +17,10 @@ Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Compilations und Derivative Works
-- **Spezialgegenstand:** Compilations und Derivative Works. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **Compilations und Derivative Works** eine bela
 - 17 U.S.C. § 101 definitions
 - USCO registration practice
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +42,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Sind Rechte am underlying work geklärt?
 - Soll nur neues Material registriert werden?
 
-
 ## Workflow
 
 1. Underlying material identifizieren.
 2. Claim auf neues Material beschränken.
 3. Permission- und chain-of-title-Lücken markieren.
 
-
 ## Output
 
 - Derivative-work claim memo
 - Compilation scope table
 - Permission checklist
-
 
 ## Tiefencheck für die Akte
 

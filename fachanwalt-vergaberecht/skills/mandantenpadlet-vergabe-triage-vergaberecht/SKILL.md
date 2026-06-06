@@ -79,7 +79,6 @@ Padlet-Board in Markdown, Aufgabenliste, Ampeln, Tabellen, naechste Entscheidung
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -209,7 +208,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Ausgabe
 
 - `triage-protokoll-vergaberecht.md`
@@ -262,7 +260,6 @@ Prioritaet: ROT (Sofort) / GELB / GRUEN
 Naechster Schritt: [Ruege / NPA / §181-Klage]
 =========================================
 ```
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -327,7 +324,6 @@ Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -390,7 +386,6 @@ Antrag, Sachverhalt, Zulassungsteil, Begruendung, Anlagenliste.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

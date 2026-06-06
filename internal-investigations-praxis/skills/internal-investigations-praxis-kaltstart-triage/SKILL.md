@@ -5,7 +5,6 @@ description: "Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sof
 
 # Kaltstart Internal Investigation
 
-
 ## Ziel
 
 Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.

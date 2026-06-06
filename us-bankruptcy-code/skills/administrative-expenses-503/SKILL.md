@@ -1,6 +1,6 @@
 ---
 name: administrative-expenses-503
-description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Administrative Expenses § 503
@@ -17,14 +17,9 @@ Prueft administrative expense claims, postpetition goods/services, substantial c
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Administrative Expenses § 503
-- **Spezialgegenstand:** Administrative Expenses § 503 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -38,7 +33,6 @@ Dieser Skill macht aus dem Thema **Administrative Expenses § 503** eine belastb
 - 11 U.S.C. § 507(a)(2)
 - Bankruptcy Rules
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +41,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Ordinary course or application needed?
 - Supporting invoices/orders?
 
-
 ## Workflow
 
 1. Expense category bestimmen.
 2. Benefit and timing prove.
 3. Payment priority impact prüfen.
 
-
 ## Output
 
 - 503 application checklist
 - Admin claim memo
 - Budget impact note
-
 
 ## Tiefencheck für die Akte
 

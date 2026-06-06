@@ -148,7 +148,6 @@ Stand: 05/2026.
 - StaRUG § 102.
 - RDG § 5.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

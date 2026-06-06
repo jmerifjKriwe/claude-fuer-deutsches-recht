@@ -127,7 +127,6 @@ Pflichten des Bauunternehmers:
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
 |---------|-----------|------|--------------------------|
 | 1 | VOB/B wirksam einbezogen? | § 305 BGB | VOB/B-Regelungen anwendbar |
@@ -272,7 +271,6 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 
@@ -630,7 +628,6 @@ Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit A
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
 | 1 | Werkvertrag (BGB oder VOB/B) — welche Regeln gelten? | §§ 631, 650a BGB | Grundlage |
@@ -777,7 +774,6 @@ Mit freundlichen Grüßen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Quellenregel
 

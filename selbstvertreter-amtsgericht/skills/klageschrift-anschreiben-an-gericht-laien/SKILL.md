@@ -197,7 +197,6 @@ Ich bitte den Einzelrichter, ...
 
 Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

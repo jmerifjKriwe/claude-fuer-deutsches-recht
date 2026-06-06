@@ -139,7 +139,6 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 
 Stand: 05/2026. § 24 SGB X garantiert Ihr Anhoerungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: ownership-transfer-writing
-description: "Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ownership, Assignment und Writing Requirement
@@ -17,14 +17,10 @@ Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Ownership, Assignment und Writing Requirement
-- **Spezialgegenstand:** Ownership, Assignment und Writing Requirement. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **Ownership, Assignment und Writing Requirement
 - 17 U.S.C. § 204
 - 17 U.S.C. § 205
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +42,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Gibt es schriftliche Unterschrift des Rechteinhabers?
 - Welche Rechte, Territorien, Medien und Dauer?
 
-
 ## Workflow
 
 1. Transferdokumente sammeln.
 2. Scope gegen Nutzung abgleichen.
 3. Recordation und priority prüfen.
 
-
 ## Output
 
 - Chain-of-title memo
 - Transfer gap list
 - Recordation recommendation
-
 
 ## Tiefencheck für die Akte
 

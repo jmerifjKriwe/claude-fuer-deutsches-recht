@@ -1,6 +1,6 @@
 ---
 name: schule-universitaet-schutz-vorauseilendem
-description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Junge Versammlungen brauchen klare Rollen
@@ -16,8 +16,6 @@ Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsich
 - Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Worum es geht
 Kläre, ob Versammlung auf öffentlichem Raum, Schulhof, Campus, Aula oder privatem Gelände stattfindet. Landesrecht und Hausrecht können nebeneinander stehen.
@@ -47,7 +45,6 @@ Output: Rollenkarte und sichere Einladung.
 - Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
 - Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
 
 ## Quellen- und Aktualitätsregel
 - Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.

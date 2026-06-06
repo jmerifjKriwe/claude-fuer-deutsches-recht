@@ -321,7 +321,6 @@ Vergabe: [BEZEICHNUNG]
 Halluzinations-Reparatur Bundle 026:
 -->
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -391,7 +390,6 @@ Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegri
 
 ## Quellenregel
 EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -464,7 +462,6 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 
 ## Quellenregel
 OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber dejure.org verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -555,7 +552,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Unterhalb-Schwellenwert-Verfahren | Primaerrechtsschutz; Vergabekammer nicht zustaendig |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -805,7 +801,6 @@ als Anlage K2. Frist § 160 Abs. 3 Nr. 4 GWB gewahrt.
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
 ```
-
 
 ## Vergabe-Workbench-Boost v61.2
 

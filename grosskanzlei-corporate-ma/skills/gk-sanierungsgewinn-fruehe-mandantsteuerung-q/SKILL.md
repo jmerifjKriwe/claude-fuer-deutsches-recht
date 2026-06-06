@@ -12,11 +12,9 @@ description: "Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sani
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – Frühe Mandantsteuerung Q-12
-- **Spezialgegenstand:** Sanierungsgewinn – Frühe Mandantsteuerung Q-12; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Worum geht es
 
@@ -129,7 +127,6 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Linie für die Konstellation Liquidation mit nachrangigem Gesellschafterdarlehen: rechentheoretisch im Löschungszeitpunkt entstehender Gewinn ist mangels Körperschaftsteuersubjekt nicht festsetzbar. Relevant für die strategische Alternative „Sanierung vs. Liquidation".
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 (Sanierungserlass-Beschluss) – prüfbar über bundesfinanzhof.de.
 - Weitere Rspr. sonst als „ständige Rspr." formulieren oder erst nach eigener Verifizierung in offizielle Datenbank aufnehmen.
-
 
 ## V61 Deal-OS Boost
 

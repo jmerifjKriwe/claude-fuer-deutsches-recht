@@ -141,7 +141,6 @@ Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an 
 
 Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Klaeger) bzw. B1, B2 (Beklagter) ist nicht gesetzlich vorgeschrieben, aber durchgaengig anerkannte Konvention der Gerichtspraxis.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

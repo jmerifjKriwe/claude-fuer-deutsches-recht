@@ -12,11 +12,9 @@ description: "Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschrei
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
-- **Spezialgegenstand:** Sanierungsgewinn – Vorbescheid und verbindliche Auskunft; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Worum geht es
 
@@ -140,7 +138,6 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 - AO-Anwendungserlass zu § 89 AO – Bundessteuerblatt.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur verbindlichen Auskunft – ständige Rspr.; bundesfinanzhof.de.
-
 
 ## V61 Deal-OS Boost
 

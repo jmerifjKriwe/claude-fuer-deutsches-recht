@@ -134,7 +134,6 @@ Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

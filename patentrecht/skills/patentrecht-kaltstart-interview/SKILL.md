@@ -35,7 +35,6 @@ In maximal sieben Fragen klären, welche patentrechtliche Arbeit zu leisten ist.
 - **Wichtige Fristen:** Einspruch beim DPMA 9 Monate ab Patenterteilung (§ 59 PatG); UPC-Opt-out bis Ende Übergangszeit; Jahresgebühren beim DPMA / EPA ab 3. Patentjahr.
 - Falle: Anmeldetag-Strategie missachten — Veröffentlichung auf Pitchdeck oder Crowdfunding gilt als neuheitsschädlich, auch im Inland.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

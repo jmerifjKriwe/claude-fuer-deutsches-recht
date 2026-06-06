@@ -1,6 +1,6 @@
 ---
 name: see-003-schiffsregister-und-eigentum
-description: "Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffsregister und Eigentum – Due-Diligence-Prüfung
@@ -16,8 +16,6 @@ Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine Investmentgesellschaft kauft einen gebrauchten Containerfrachter und benötigt Gewissheit über lastenfreies Eigentum vor Kaufpreiszahlung. Eine Bank prüft, ob ihr Grundpfandrecht an einem Schiff erstrangig eingetragen ist. Ein Insolvenzverwalter stellt fest, welche Schiffe der Insolvenzmasse gehören und welche Belastungen darauf ruhen.
@@ -56,7 +54,6 @@ Eine Investmentgesellschaft kauft einen gebrauchten Containerfrachter und benöt
 - Due-Diligence-Vermerk: Eigentumsklarheit; Lasten; offene Fragen
 - Checkliste Löschungsvoraussetzungen
 
-
 ## Erweiterte Normengrundlage
 
 ### Registerrecht
@@ -80,7 +77,6 @@ Eine Investmentgesellschaft kauft einen gebrauchten Containerfrachter und benöt
 - BGH zur Konstitutivwirkung der Eintragung bei Schiffseigentum; kein Eigentumsübergang ohne Eintragung.
 - OLG Hamburg zur Berichtigungsklage nach SchRG § 3 bei unrichtiger Registereintragung.
 - LG Hamburg zur Vormerkung im Schiffsregister; Schutz des Käufers vor Zwischeneintragungen.
-
 
 ## Praxishinweis
 

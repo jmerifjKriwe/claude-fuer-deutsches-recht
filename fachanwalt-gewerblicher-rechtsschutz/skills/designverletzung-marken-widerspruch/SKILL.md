@@ -391,7 +391,6 @@ Reicht der Nachweis nicht?
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 ```
 Schritt 1: Frist sichern
  → 3 Monate ab Markenblatt-Veroeffentlichung (DPMA) oder Amtsblatt (EUIPO)
@@ -498,7 +497,6 @@ Anlage W3: [Gebuehrenbeleg]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Koexistenz-Vereinbarung (Alternative)
 
 - Klassen-Abgrenzung: aeltere Marke Klasse A, juengere Marke Klasse B
@@ -568,7 +566,6 @@ Anlage W3: [Gebuehrenbeleg]
 ## Prüfschema Markenanmeldung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -724,7 +721,6 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 

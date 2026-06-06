@@ -58,7 +58,6 @@ Gib eine Ampel:
 
 Immer mit Quellenblock: BVerfG/BFH/Gesetz/Modellseite, Datum, Aktenzeichen, Link.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

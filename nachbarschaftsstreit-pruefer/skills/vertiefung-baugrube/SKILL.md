@@ -1,6 +1,6 @@
 ---
 name: vertiefung-baugrube
-description: "Vertiefung Baugrube im Nachbarschaftsstreit: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vertiefung Baugrube
@@ -71,7 +71,6 @@ Dieser Skill ist für akute Baufälle: Nachbar hebt aus, Mauer reißt, Boden sac
 - Risiko fuer Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
-
 
 ## Qualitäts-Hardening
 

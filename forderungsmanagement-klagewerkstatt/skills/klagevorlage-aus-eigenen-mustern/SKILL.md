@@ -6,11 +6,8 @@ description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwen
 # Klagewerkstatt — Lernlauf aus eigenen Mustern
 
 ## Fachkern: Klagewerkstatt — Lernlauf aus eigenen Mustern
-- **Spezialgegenstand:** Klagewerkstatt — Lernlauf aus eigenen Mustern wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
 - **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 

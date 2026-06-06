@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Verfassungsrecht** ordnet Anlagen, Registerdaten
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Verfassungsbeschwerde, Antrag auf einstweilige Anordnung, Annahmebeschluss, BVerfGE-Entscheidung.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Verfassungsrecht-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

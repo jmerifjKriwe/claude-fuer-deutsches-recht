@@ -39,7 +39,6 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Präzise Berechnung und Prüfung der betriebsverfassungsrechtlichen Schwellenwerte: BR-Größe, Freistellungen, Wahlberechtigung, Betriebsbegriff. Grundlage für die Erstprüfung bei jedem Mandat mit BR-Bezug.
 
@@ -178,7 +177,6 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Vollständiger Überblick über Verfahrenswege bei betriebsverfassungsrechtlichen Streitigkeiten — welches Verfahren vor welchem Gericht, wer ist Beteiligter, welche Fristen gelten.
 
@@ -309,7 +307,6 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Praktischer Leitfaden für die fristgerechte und formkorrekte Einreichung von Schriftsätzen, Klagen und Formularen im arbeitsrechtlichen Verfahren — von der Fristberechnung über das beA bis zu den BA-Portalen.

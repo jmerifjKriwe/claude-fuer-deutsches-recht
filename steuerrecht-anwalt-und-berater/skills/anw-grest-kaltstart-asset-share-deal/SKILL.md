@@ -13,7 +13,6 @@ description: "Grunderwerbsteuer-Kaltstart fuer Immobilien-Transaktionen: Asset D
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 
 Dieser Startcheck greift am Anfang jeder Immobilien- oder M&A-Transaktion mit inländischem Grundbesitz. Ziel: Tatbestand, Zeitachse, Steuerschuldner, Anzeige und Streitpunkte schnell sortieren.

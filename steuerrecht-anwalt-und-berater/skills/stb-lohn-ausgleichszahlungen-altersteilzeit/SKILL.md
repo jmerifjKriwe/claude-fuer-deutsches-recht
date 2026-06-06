@@ -125,7 +125,6 @@ Stand: 05/2026.
 - SvEV § 1.
 - BMAS Rundschreiben.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -354,7 +354,6 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 - BGH staendige Rspr. zur Vorsatzanfechtung (subjektive Voraussetzungen, vergleiche BGH-Linie zu Paragraph 133 InsO seit 2017 reformiert).
 - BGH staendige Rspr. zur Schnittstelle Anfechtung und Bankrott.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: see-014-insolvenz-der-reederei
-description: "Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenz der Reederei – Gläubigerrechte und Verwertung
@@ -16,8 +16,6 @@ Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsre
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine Reederei mit acht Schiffen meldet Insolvenz an; die finanzierende Bank hat auf vier Schiffen erstrangige Hypotheken und fragt nach Absonderungsrechten. Ein Bergungsunternehmen hat kurz vor der Insolvenz eine Leistung erbracht; sein Schiffsgläubigerrecht kollidiert mit der Bankhypothek. Ein Insolvenzverwalter fragt ob er Schiffe weiterbetreiben oder sofort versteigern lassen soll.
@@ -56,7 +54,6 @@ Eine Reederei mit acht Schiffen meldet Insolvenz an; die finanzierende Bank hat 
 - Verwertungsstrategie: Fortbetrieb vs. Sofortversteigerung (Kostenvergleich)
 - Schriftsatz-Baustein Absonderungsantrag der Bank
 
-
 ## Erweiterte Normengrundlage
 
 ### Insolvenzrecht
@@ -82,7 +79,6 @@ Eine Reederei mit acht Schiffen meldet Insolvenz an; die finanzierende Bank hat 
 - BGH zur Absonderung des Schiffshypothekengläubigers; InsO §§ 49-51.
 - BGH zur Anfechtung von Hypothekentilgungen in der Krise; InsO §§ 130-133.
 - OLG Hamburg zu Crew-Lohnforderungen als gesetzliche Vorrechte in der Reederei-Insolvenz.
-
 
 ## Praxishinweis
 

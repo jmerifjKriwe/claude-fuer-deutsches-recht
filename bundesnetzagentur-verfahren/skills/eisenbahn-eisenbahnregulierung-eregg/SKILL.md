@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-eisenbahnregulierung-eregg
-description: "Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
@@ -16,8 +16,6 @@ Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, B
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (ERegG). Das ERegG setzt die SERA-Richtlinie (RL 2012/34/EU) um und ordnet die regulatorische Aufsicht der Bundesnetzagentur über die Eisenbahninfrastruktur, das Trassen- und Entgeltsystem und die Wettbewerbsneutralität zwischen integrierten und nicht-integrierten EVU. Der Skill steuert die Erfassung des Mandats, die Wahl des passenden Fachmodule (Trassenzugang, Entgelte, Serviceeinrichtungen, Beschwerde EVU gegen EIU usw.) und die Sicherung der Fristen.

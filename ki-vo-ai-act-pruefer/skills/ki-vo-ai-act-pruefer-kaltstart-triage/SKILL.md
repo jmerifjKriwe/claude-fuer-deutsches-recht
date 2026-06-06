@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Pruefer-Pl
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # KI-VO AI-Act-Pruefer — Allgemein
 
 ## Schnellstart-Workflow
@@ -319,7 +317,6 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - EU KI-VO (EU 2024/1689) in der zum Stand-Datum geltenden Fassung
 - Uebergangsfristen gemaess Art. 113 KI-VO
 - GPAI Code of Practice der EU-KI-Buero (erste Fassung 2025)
-
 
 ## Qualitäts-Hardening
 

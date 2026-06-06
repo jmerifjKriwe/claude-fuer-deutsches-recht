@@ -28,7 +28,6 @@ Dieser Einstieg routet **Fachanwalt Verkehrsrecht** vom ersten Sachverhalt zu Ro
 
 ## Arbeitsweg
 
-
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Fachanwalt Verkehrsrecht sind PflVG, StVG, VVG, §§ 315c 316 StGB. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.

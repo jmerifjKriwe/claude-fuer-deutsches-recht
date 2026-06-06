@@ -70,7 +70,6 @@ Vergleichsverhandlungen im BGB-BT-Mandat vorbereiten und durchführen: Vergleich
 - workflow-output-gutachten-klage-brief
 - bt-fristen-erklaerungen-zugang
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/__779.html

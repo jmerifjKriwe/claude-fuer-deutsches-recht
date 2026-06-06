@@ -1,6 +1,6 @@
 ---
 name: see-059-yachtkauf-klagepfad-waehlen
-description: "Yachtkauf: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Motorjacht: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Yachtkauf: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Motorjacht: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Yachtkauf – Klagepfad wählen
@@ -16,8 +16,6 @@ Yachtkauf: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Mot
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine Bank will nach Kreditausfall aus der Hypothek am Segel- oder Motorjacht vollstrecken. Mehrere Gläubiger streiten um den Versteigerungserlös des Segel- oder Motorjacht. Ein Reeder prüft, ob ein freiwilliger Verkauf günstiger ist als die Zwangsversteigerung.
@@ -48,7 +46,6 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Segel- oder Motorjacht vol
 ## Output
 Klagepfad-Analyse und Erlösprognose (Tabelle Kosten vs. Erlös) für Segel- oder Motorjacht.
 
-
 ## Vertiefung: Gerichtsstand und Schiedsklauseln im Seerecht
 Im deutschen Seerecht gilt für Schiffsarrest die ZPO § 919 (Gericht am Liegeplatz). Für streitige Klagen über Schiffshypotheken gilt ZPO § 29c (besonderer Gerichtsstand) oder der allgemeine Gerichtsstand. International ist London Arbitration (LMAA-Schiedsordnung) der Marktstandard für Charterparty-Streitigkeiten; Hamburg Arbitration (DIS-Regeln) ist eine deutsche Alternative.
 
@@ -57,7 +54,6 @@ Ausländische Urteile aus EU-Staaten werden nach EuGVVO 2012 automatisch anerkan
 
 ## Kostenabwägung Klage vs. Schiedsverfahren
 Schiedsverfahren (London/Hamburg): höhere Kosten (Schiedsrichter-Honorare); aber schneller; vertraulicher; international vollstreckbarer. Ordentliches Gericht: günstigere RVG-Gebühren; aber Öffentlichkeit; Instanzenzug; schlechtere internationale Vollstreckbarkeit. Priorität: kurzfristige Sicherungsmaßnahmen (Arrest) immer vor ordentlichem Gericht; Hauptsacheverfahren nach Klausel.
-
 
 ## Checkliste Klagepfad-Entscheidung
 - [ ] Aktueller Schiffswert gutachterlich ermittelt
@@ -80,7 +76,6 @@ Schiedsverfahren (London/Hamburg): höhere Kosten (Schiedsrichter-Honorare); abe
 - InsO § 103: Wahlrecht des Insolvenzverwalters bei gegenseitigen Verträgen (Charter).
 - InsO §§ 129-147: Insolvenzanfechtung; Tilgungen in der Krise rückforderbar.
 - New Yorker Übereinkommen 1958: Anerkennung und Vollstreckung ausländischer Schiedssprüche.
-
 
 ## Vertiefung Klagepfad
 

@@ -31,8 +31,6 @@ description: "Verbraucherkredit Widerrufsjoker Wphg im Plugin Fachanwalt Bank Ka
 
 # Verbraucherkredit: Verhandlung, Vergleich und Eskalation
 
-
-
 ## Spezialwissen: Verbraucherkredit: Verhandlung, Vergleich und Eskalation
 - **Konkreter Gegenstand:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -73,8 +71,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 # Widerrufsjoker: Formular, Portal und Einreichungslogik
 
-
-
 ## Spezialwissen: Widerrufsjoker: Formular, Portal und Einreichungslogik
 - **Konkreter Gegenstand:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -114,8 +110,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 **Fokus:** Wphg: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
 # Wphg: Dokumentenmatrix, L체ckenliste und Nachforderung
-
-
 
 ## Spezialwissen: Wphg: Dokumentenmatrix, L체ckenliste und Nachforderung
 - **Konkreter Gegenstand:** Wphg: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..

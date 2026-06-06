@@ -34,7 +34,6 @@ Erzeuge zuerst eine Fristen- und Zuständigkeitsampel, dann eine Arbeitsroute mi
 - Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
 
-
 ## Quellen- und Aktualitätsregel
 - Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.

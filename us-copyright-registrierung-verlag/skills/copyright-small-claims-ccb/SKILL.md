@@ -1,6 +1,6 @@
 ---
 name: copyright-small-claims-ccb
-description: "Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Copyright Claims Board CCB
@@ -17,14 +17,10 @@ Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Copyright Claims Board CCB
-- **Spezialgegenstand:** Copyright Claims Board CCB. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **Copyright Claims Board CCB** eine belastbare 
 - Copyright Claims Board official resources
 - CASE Act
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +42,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Will Gegner opt out?
 - Ist remedy ausreichend?
 
-
 ## Workflow
 
 1. Jurisdiction and cap prüfen.
 2. Evidence and registration status mappen.
 3. Litigation alternative vergleichen.
 
-
 ## Output
 
 - CCB suitability memo
 - Opt-out strategy
 - Small-claim filing checklist
-
 
 ## Tiefencheck für die Akte
 

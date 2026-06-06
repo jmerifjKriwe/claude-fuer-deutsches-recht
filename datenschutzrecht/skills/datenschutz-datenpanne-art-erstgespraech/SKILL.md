@@ -158,7 +158,6 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 - EDSA, Leitlinien 01/2021 zu Beispielen fuer Meldungen von Datenpannen.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -288,7 +287,6 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - EDSA, Leitlinien 9/2022 zur Meldung von Verletzungen des Schutzes personenbezogener Daten, angenommen 28.03.2023.
 - BRAO § 43a, § 49b; RVG-Hinweise zur Vertretung in Datenschutzmandaten.
 - Kein Modellwissen zu konkreten Aufsatzfundstellen. Verifizierung vor Versand in amtliche Quellen.
-
 
 ## Qualitäts-Hardening
 
@@ -453,7 +451,6 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 - EuGH C-460/20 Google, Urteil 08.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -570,7 +567,6 @@ Sieben-Fragen-Diagnose:
 - StPO § 147.
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

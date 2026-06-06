@@ -1,6 +1,6 @@
 ---
 name: kv-qualitaetsgate
-description: "KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # KV Qualitaetsgate

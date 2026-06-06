@@ -109,7 +109,6 @@ Wenn die Uebermittlung versagt:
 
 Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

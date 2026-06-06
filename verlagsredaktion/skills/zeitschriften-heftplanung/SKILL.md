@@ -1,6 +1,6 @@
 ---
 name: zeitschriften-heftplanung
-description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht) im Verlagsredaktion: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeitschriften Heftplanung
@@ -65,7 +65,6 @@ description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht): fachlicher 
 ## Startfragen
 
 Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll veroeffentlicht oder uebergeben werden? Fuer wen ist es bestimmt? Bis wann muss es freigegeben sein? Danach mit einer belastbaren Arbeitsfassung beginnen.
-
 
 ## Qualitäts-Hardening
 

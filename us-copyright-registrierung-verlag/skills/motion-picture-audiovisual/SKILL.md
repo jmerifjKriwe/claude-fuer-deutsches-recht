@@ -1,6 +1,6 @@
 ---
 name: motion-picture-audiovisual
-description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Motion Pictures und Audiovisual Works
@@ -17,14 +17,10 @@ Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Motion Pictures und Audiovisual Works
-- **Spezialgegenstand:** Motion Pictures und Audiovisual Works. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **Motion Pictures und Audiovisual Works** eine 
 - 17 U.S.C. § 201(b)
 - USCO motion picture registration
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +42,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - WMFH or assignments?
 - Territories, platforms, edits?
 
-
 ## Workflow
 
 1. AV-component map bauen.
 2. Underlying rights and releases prüfen.
 3. Registration or litigation pack vorbereiten.
 
-
 ## Output
 
 - Audiovisual rights map
 - Clearance gap list
 - Registration claim notes
-
 
 ## Tiefencheck für die Akte
 

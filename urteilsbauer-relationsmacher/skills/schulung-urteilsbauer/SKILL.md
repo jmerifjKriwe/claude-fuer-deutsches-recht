@@ -7,7 +7,6 @@ description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmache
 
 Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 
-
 ## Triage zu Beginn (für Trainer)
 
 1. Wie groß ist die Gruppe und welche Vorkenntnisse haben die Teilnehmenden (Proberichter, Assessoren, Rechtspfleger)?
@@ -114,7 +113,6 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
 5. Streitwert 1577 EUR - sachlich zustaendig AG nach Paragraf 23 Nr. 1 GVG.
 6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
-
 
 ---
 

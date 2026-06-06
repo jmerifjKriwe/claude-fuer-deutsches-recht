@@ -1,6 +1,6 @@
 ---
 name: anwaelte-sanktionen-und-mandatsannahme-kaltstart-und-faktenmatr
-description: "Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
@@ -17,10 +17,7 @@ Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Konkreter Berufsrechtskern: Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
-- **Spezialgegenstand:** Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
 - **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
 - **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
 - **Spezialspur:** Sanktionslisten, Mandatsannahme, Zahlungswege, Meldepflichten und Export-/Embargobezug getrennt prüfen.

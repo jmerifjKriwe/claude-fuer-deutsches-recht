@@ -1,6 +1,6 @@
 ---
 name: agentur-abnahme-vergabe
-description: "Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnahme barrierefreier Websites. Formuliert Anforderungen, Akzeptanzkriterien, Nachweis- und Re-Test-Pflichten, Pflegeprozess und Gewährleistungsfragen. Output: Lastenheft oder Abnahmeprotokoll: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnahme barrierefreier Websites. Formuliert Anforderungen, Akzeptanzkriterien, Nachweis- und Re-Test-Pflichten, Pflegeprozess und Gewährleistungsfragen. Output: Lastenheft oder Abnahmeprotokoll im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Agentur, Abnahme, Vergabe
@@ -59,7 +59,6 @@ Accessibility-Overlay, Plugin oder Widget ersetzt keine barrierefreie Umsetzung.
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
 - Prioritaet und Nachweis fuer die Dokumentation.
-
 
 ## Qualitäts-Hardening
 

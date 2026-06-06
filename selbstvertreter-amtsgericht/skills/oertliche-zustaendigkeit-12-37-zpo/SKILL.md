@@ -110,7 +110,6 @@ Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf An
 
 Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungsort und Gerichtsstand bei Online-Delikten beachten — bei Unsicherheit Rechtsantragsstelle einschalten.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

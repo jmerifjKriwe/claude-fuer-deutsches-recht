@@ -39,7 +39,6 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Schnelle Zuordnung von Normen zu Dokumenten und Belegen für die häufigsten arbeitsrechtlichen Streitgegenstände. Das Ergebnis ist eine Matrix mit (a) erforderlichem Dokument, (b) vorhandenem Dokument, (c) fehlendem Dokument und (d) Beschaffungsweg.
 
@@ -153,7 +152,6 @@ Nach Ausfüllen der Matrix:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Systematische Aufbereitung der Quellen- und Beweislastregeln für arbeitsrechtliche Schriftsätze — von der Darlegungslastverteilung über die abgestufte BAG-Linie bis zum Quellenprotokoll für jeden zitierten Rechtssatz.
@@ -285,7 +283,6 @@ Unsichere Punkte (Live-Check erforderlich):
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Fertige und anpassbare Textbausteine für die häufigsten TzBfG-Konstellationen — Entfristungsklage, Mandantenbrief und Vergleichsformeln. Alle Bausteine sind Vorlage; anwaltliche Einzelfallprüfung bleibt erforderlich.

@@ -1,6 +1,6 @@
 ---
 name: bindungswirkung-strafurteil-23-bdg
-description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG
@@ -16,8 +16,6 @@ Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfah
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## 1. Zweck und Anwendungsfall
 

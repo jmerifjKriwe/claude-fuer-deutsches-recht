@@ -132,7 +132,6 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (MiLoV3 BGBl. 2023 I Nr. 321, 12,82 EUR eingesetzt), 1 ersetzt (2026-Wert als noch nicht festgesetzt ausgewiesen) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: 13,90 EUR (2026) und 14,60 EUR (2027) bestaetigt, BGBl. 2025 I Nr. 268/312 -->
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

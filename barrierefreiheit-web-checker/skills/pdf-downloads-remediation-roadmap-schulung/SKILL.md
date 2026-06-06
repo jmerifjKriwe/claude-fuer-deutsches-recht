@@ -1,6 +1,6 @@
 ---
 name: pdf-downloads-remediation-roadmap-schulung
-description: "Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # PDFs, Downloads und Dokumente
@@ -51,7 +51,6 @@ AGB, Preislisten, Produktinformationen, Formulare, Widerrufsbelehrung, Barrieref
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
 - Prioritaet und Nachweis fuer die Dokumentation.
-
 
 ## Qualitäts-Hardening
 

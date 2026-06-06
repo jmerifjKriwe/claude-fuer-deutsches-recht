@@ -5,8 +5,6 @@ description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im P
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien
 
-
-
 ## Spezialwissen: Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Konkreter Gegenstand:** Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

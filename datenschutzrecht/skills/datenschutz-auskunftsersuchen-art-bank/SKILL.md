@@ -141,7 +141,6 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -320,7 +319,6 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien zur Zusammenarbeit nach Art. 56 ff. DSGVO.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -474,7 +472,6 @@ Sieben-Fragen-Diagnose:
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023 (zu Art. 22 DSGVO).
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

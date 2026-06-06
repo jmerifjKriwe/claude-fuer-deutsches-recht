@@ -179,7 +179,6 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -339,7 +338,6 @@ Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hi
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -470,7 +468,6 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG unveraendert.
-
 
 ## Qualitäts-Hardening
 

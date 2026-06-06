@@ -117,7 +117,6 @@ Konkrete Vorlagen liefern die Skills:
 - EDSA: Position Paper on Article 30(5) GDPR (vom 19.04.2018).
 - Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Laender (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

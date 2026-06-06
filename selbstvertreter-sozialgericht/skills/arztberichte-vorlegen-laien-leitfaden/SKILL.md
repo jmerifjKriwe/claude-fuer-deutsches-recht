@@ -146,7 +146,6 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern, koennen aber Honorar verlangen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

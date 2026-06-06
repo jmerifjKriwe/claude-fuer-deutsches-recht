@@ -226,7 +226,6 @@ Vor Versand:
 
 Stand: 05/2026. § 138 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -375,7 +374,6 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 fuer Klaeger und KE1, KE2 fuer Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
-
 
 ## Qualitäts-Hardening
 
@@ -535,7 +533,6 @@ Skill `einreichung-mein-justizpostfach-mjp-2024`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Konvention.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: zahlungsdienste-zag
-description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung im Bank-Rechtsabteilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zahlungsdienste ZAG
@@ -31,11 +31,9 @@ description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung: fachlicher Arb
 # Zahlungsdienste und ZAG
 
 ## Fachkern: Zahlungsdienste und ZAG
-- **Spezialgegenstand:** Zahlungsdienste und ZAG. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -125,7 +123,6 @@ Wähle passend oder biete maximal drei Optionen an:
 5. **Unterlagenliste** für Fachbereich, Kanzlei, Prüfer oder Datenraum.
 6. **Red-Team-Check** gegen Aufsicht, Prozessgegner, Verwalter oder interne Revision.
 
-
 ### Anschluss-Skills
 
 - Bei ungeklärter Ausgangslage: `bankrechtsabteilung-kaltstart-routing`.
@@ -134,7 +131,6 @@ Wähle passend oder biete maximal drei Optionen an:
 - Bei Kredit- und Krisenbezug: `kreditentscheidung-weiterfinanzierung`, `stundung-standstill-waiver`, `sanierungsgutachten-idw-s6-bewertung` oder `restrukturierung-kreditengagement`.
 - Bei Gremienbezug: `vorstandsvorlage-gutachten`, `aufsichtsrat-vorlage-bank` oder `organhaftung-business-judgment`.
 - Bei Dienstleistern und Kanzleien: `outsourcing-externe-dienstleister`, `externe-anwaelte-steuerung` oder `anwaltliche-rechnungen-review`.
-
 
 ## Quellenanker
 

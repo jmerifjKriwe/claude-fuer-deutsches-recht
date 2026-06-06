@@ -135,7 +135,6 @@ Stand: 05/2026.
 - DRV-Rundschreiben.
 - BMF zu Lohnsteuer-Aussenpruefung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

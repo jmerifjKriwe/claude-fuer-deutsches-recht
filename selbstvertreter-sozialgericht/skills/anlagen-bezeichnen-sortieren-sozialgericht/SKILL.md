@@ -125,7 +125,6 @@ Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdrue
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeichnung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

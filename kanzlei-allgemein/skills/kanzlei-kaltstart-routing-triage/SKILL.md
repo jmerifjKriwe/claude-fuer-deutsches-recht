@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Kanzlei Allgemein-Plugi
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Kanzlei Allgemein — Allgemein
 
 ## Schnellstart-Workflow
@@ -307,7 +305,6 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - Gesetzesfassungen zum Stand-Datum
 - PostModG: Zustellungsfiktion vier Werktage seit 01.01.2025
 - § 23 Nr. 1 GVG: AG-Wertgrenze 10.000 EUR seit 01.01.2026
-
 
 ## Qualitäts-Hardening
 

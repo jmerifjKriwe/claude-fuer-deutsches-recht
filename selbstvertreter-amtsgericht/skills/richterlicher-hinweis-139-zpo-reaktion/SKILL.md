@@ -130,7 +130,6 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

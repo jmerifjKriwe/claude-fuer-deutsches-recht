@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Forderungsmanagement Kl
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Forderungsmanagement-Klagewerkstatt — Allgemein
 
 ## Schnellstart-Workflow
@@ -189,7 +187,6 @@ Das Plugin unterstuetzt zudem den Aufbau kanzleieigener Klagemuster und ermoegli
 - § 23 Nr. 1 GVG in der Fassung des Gesetzes zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025): Amtsgerichts-Streitwertgrenze 10.000 EUR ab 01.01.2026; § 511 Abs. 2 ZPO Berufungssumme 1.000 EUR; § 47 EGZPO Uebergangsvorschrift.
 - Basiszinssatz § 247 BGB zum 01.01.2026: 1,27 Prozent (Bundesbank-Bekanntmachung); B2C-Verzugszins 6,27 Prozent, B2B-Verzugszins 10,27 Prozent. Quelle: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
 - BGB und ZPO in aktuell geltender Fassung.
-
 
 ## Qualitäts-Hardening
 

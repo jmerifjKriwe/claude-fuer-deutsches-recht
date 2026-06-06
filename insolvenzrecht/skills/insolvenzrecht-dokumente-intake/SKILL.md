@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Insolvenzrecht** ordnet Anlagen, Registerdaten, 
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Insolvenzantrag, Gläubigerverzeichnis, Forderungsanmeldung, Insolvenztabelle, Berichts- und Schlusstermin, Insolvenzplan, Restrukturierungsplan (StaRUG).
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Insolvenzrecht-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

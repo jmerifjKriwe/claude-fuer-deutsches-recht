@@ -66,7 +66,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 1. **Umwandlungsart und Zielstruktur bestimmen** — Verschmelzung, Spaltung, Formwechsel; Steuerberatung einbeziehen (UmwStG)
 2. **Timeline aufstellen** — Gesamtdauer Verschmelzung: typisch 3-5 Monate (Vertrag → HV → Registereintragung)
 3. **Vertragsentwurf erstellen** — Verschmelzungsvertrag/Spaltungsplan; Notar einbinden
@@ -136,7 +135,6 @@ PRAEMBEL
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Rote Schwellen
 

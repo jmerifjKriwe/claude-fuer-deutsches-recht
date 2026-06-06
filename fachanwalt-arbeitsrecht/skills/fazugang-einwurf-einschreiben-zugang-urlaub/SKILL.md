@@ -39,7 +39,6 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Vollständige Analyse der Zustellungsrisiken bei Nutzung des Einschreibens zur Kündigungszustellung. Häufiger Fehler: Arbeitgeber glaubt, mit Einschreiben sei der Zugang gesichert — das Gegenteil kann der Fall sein.
 
@@ -149,7 +148,6 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Klärung des Zugangszeitpunkts bei Kündigung oder anderen fristauslösenden Erklärungen, wenn der Empfänger zum Zeitpunkt der Zustellung abwesend war. Häufig streitiger Ausgangspunkt für die Berechnung der 3-Wochen-Frist § 4 KSchG.
 
@@ -248,7 +246,6 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige Analyse, wann und wie der Inhalt eines zugestellten Umschlags zulässig bestritten werden kann — mit Blick auf Beweislast, prozessuale Konsequenzen und die Grenze zur unzulässigen Schutzbehauptung.

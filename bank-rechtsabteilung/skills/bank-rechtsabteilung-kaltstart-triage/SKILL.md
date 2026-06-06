@@ -93,7 +93,6 @@ Wähle passend oder biete maximal drei Optionen an:
 5. **Unterlagenliste** für Fachbereich, Kanzlei, Prüfer oder Datenraum.
 6. **Red-Team-Check** gegen Aufsicht, Prozessgegner, Verwalter oder interne Revision.
 
-
 ### Anschluss-Skills dieses Plugins
 
 | Skill | Schwerpunkt |

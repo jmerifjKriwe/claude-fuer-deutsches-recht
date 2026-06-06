@@ -7,7 +7,7 @@ description: "Allgemeiner Kaltstart und Routing: Praxis-Skill für neue Staatsan
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Allgemeiner Kaltstart und Routing** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus
 
@@ -27,7 +27,6 @@ Dieser Abschnitt bearbeitet **Allgemeiner Kaltstart und Routing** im Bereich **S
 - **OWiG-Routing:** Bei Ordnungswidrigkeiten nicht in Anklage- oder Strafbefehlslogik rutschen: Bußgeldbescheid, Einspruch, Zwischenverfahren, Vorlage über die Staatsanwaltschaft, gerichtliches Bußgeldverfahren und mögliche Rechtsbeschwerde getrennt prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
 
 ## Spezielle Leitplanken
 

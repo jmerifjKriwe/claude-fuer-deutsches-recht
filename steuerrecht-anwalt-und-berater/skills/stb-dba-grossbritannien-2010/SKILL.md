@@ -13,7 +13,6 @@ description: "DBA Deutschland Vereinigtes Koenigreich 2010 mit Protokollen 2014 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aenderungsprotokoll vom 17.03.2014 (BGBl. 2015 II S. 1297, in Kraft 29.12.2015) und weiterem Aenderungsprotokoll vom 12.01.2021 (BGBl. 2021 II S. 666, in Kraft 17.12.2021) regelt das Verhaeltnis zur drittwichtigsten Wirtschaftsmacht Europas. Mit Brexit (Austritt 31.01.2020, Uebergang bis 31.12.2020) wurde UK Drittstaat: Mutter-Tochter-Richtlinie, Zins-/Lizenz-Richtlinie und Fusionsrichtlinie sind seither **nicht mehr** anwendbar. DBA-Hoechstsaetze sind seither maßgeblich.

@@ -1,12 +1,11 @@
 ---
 name: patentanwaelte-einspruchsverfahren-conflict
-description: "Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
 ## Konkreter Berufsrechtskern: Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
-- **Spezialgegenstand:** Patentanwälte: einspruchsverfahren und conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
 - **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
 - **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
 - **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.

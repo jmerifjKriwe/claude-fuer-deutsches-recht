@@ -28,7 +28,6 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 
 ## Arbeitsweg
 
-
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: § 195 BGB Regelverjährung 3 Jahre, § 199 BGB Beginn Ende des Jahres der Kenntnis, § 438 BGB 2 Jahre Kaufgewährleistung, § 634a BGB Werkgewährleistung, § 286 BGB Verzug, § 314 BGB außerordentliche Kündigung.
 - Fachpfad wählen: zentrale Anker im Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht) sind BGB §§ 116–144, 145–157, 158–163, 195, 199, 241, 242, 249, 254, 273, 275, 276, 280, 281, 282, 284, 286, 288, 305–310, 311, 311a, 311b, 313, 314, 320, 323, 324, 339–345, 433 ff., 535 ff., 631 ff., 651a ff., 765 ff., 812 ff., 823 ff.. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.

@@ -135,7 +135,6 @@ Wenn die Uebermittlung versagt:
 
 Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -242,7 +241,6 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
-
 
 ## Qualitäts-Hardening
 
@@ -364,7 +362,6 @@ Pruefen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 01/2024 im Buerger-Betrieb. § 130a ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: patentsettlement-und-cross-license-litigation
-description: "Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Patentvergleich und Cross-License im Streit
@@ -16,8 +16,6 @@ Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Fi
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Aufgabe
 
@@ -40,7 +38,6 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 4. **Kartellrecht, Wettbewerberkontakt und FRAND-Risiken markieren.**
 5. **Term Sheet und Vollzugsschritte erstellen.**
 
-
 ## Prüfmatrix
 
 | Ebene | Prüffrage | Ergebnis |
@@ -59,7 +56,6 @@ Erzeuge je nach Auftrag:
 - Cross-License Matrix.
 - Red Flag List.
 - Board Memo.
-
 
 ## Anschluss-Skills
 

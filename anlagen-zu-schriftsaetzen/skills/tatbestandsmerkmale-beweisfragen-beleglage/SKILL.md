@@ -5,8 +5,6 @@ description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-
-
 ## Spezialwissen: Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Konkreter Gegenstand:** Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

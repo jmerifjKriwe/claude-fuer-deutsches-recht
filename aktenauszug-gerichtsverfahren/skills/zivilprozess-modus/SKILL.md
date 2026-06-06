@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-modus
-description: "Zivilprozess Modus im Aktenauszug-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsverfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zivilprozess Modus

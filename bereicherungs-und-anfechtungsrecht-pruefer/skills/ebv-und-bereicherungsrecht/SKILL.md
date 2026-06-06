@@ -91,7 +91,6 @@ Dieses Fachmodul greift, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit �
 
 Hinweis: Keine Rechtsberatung. Mechanische Pr체fung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollst채ndiger Sachverhalt kann das Ergebnis vollst채ndig entwerten.
 
-
 ## Qualit채ts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zust채ndigkeit und gew체nschtes Arbeitsprodukt zuerst kl채ren.

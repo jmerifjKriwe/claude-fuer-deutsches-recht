@@ -131,7 +131,6 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 
 Stand: 05/2026. § 310 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

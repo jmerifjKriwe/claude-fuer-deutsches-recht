@@ -30,7 +30,6 @@ description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüf
 
 **Fokus:** Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Usbekistan
 
 ## Aufgabe
@@ -67,7 +66,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Usbekistan**. Er 
 ## 2. `staat-vanuatu-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Vanuatu
 
@@ -106,7 +104,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vanuatu**. Er ist
 
 **Fokus:** Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Vatikanstadt
 
 ## Aufgabe
@@ -143,7 +140,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vatikanstadt**. E
 ## 4. `staat-venezuela-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Venezuela: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Venezuela
 

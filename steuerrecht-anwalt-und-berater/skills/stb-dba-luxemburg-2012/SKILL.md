@@ -13,7 +13,6 @@ description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprot
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxemburg ist Sitz vieler Investmentfonds, Holdings (SOPARFI) und Finanzgesellschaften, daher praxisrelevant fuer Beteiligungs-, Zins-, Lizenz- und Veraeusserungsfaelle. Zudem ist Luxemburg fuer Grenzgaenger aus dem Saarland und Rheinland-Pfalz von hohem Pendleraufkommen gepraegt.

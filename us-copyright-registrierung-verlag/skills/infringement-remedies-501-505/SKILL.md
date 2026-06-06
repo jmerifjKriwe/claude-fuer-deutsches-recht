@@ -1,6 +1,6 @@
 ---
 name: infringement-remedies-501-505
-description: "Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Infringement und Remedies §§ 501-505
@@ -17,14 +17,10 @@ Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Infringement und Remedies §§ 501-505
-- **Spezialgegenstand:** Infringement und Remedies §§ 501-505. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **Infringement und Remedies §§ 501-505** eine
 - 17 U.S.C. §§ 411-412
 - Federal Rules live prüfen
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -48,20 +43,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Welche remedies realistisch?
 - Registrierungsstatus?
 
-
 ## Workflow
 
 1. Standing prüfen.
 2. Remedies an registration timing koppeln.
 3. Evidence and pleading pack bauen.
 
-
 ## Output
 
 - Remedies memo
 - Standing checklist
 - Litigation readiness pack
-
 
 ## Tiefencheck für die Akte
 

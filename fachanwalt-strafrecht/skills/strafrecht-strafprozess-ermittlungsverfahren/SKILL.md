@@ -361,7 +361,6 @@ Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der 
 - Polizeigesetze der Laender (Wegweisung/Rueckkehrverbot je nach Bundesland unterschiedlich — z.B. § 31 PolG NRW).
 - BGH staend. Rspr. zu Aussage-gegen-Aussage-Konstellation; methodische Standards der Aussagepsychologie BGH 30.07.1999 - 1 StR 618/98 (BGHSt 45, 164).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

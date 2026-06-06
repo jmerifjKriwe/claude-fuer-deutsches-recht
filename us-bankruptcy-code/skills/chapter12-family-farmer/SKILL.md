@@ -1,6 +1,6 @@
 ---
 name: chapter12-family-farmer
-description: "Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chapter 12 Family Farmer Fisherman
@@ -17,14 +17,9 @@ Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Chapter 12 Family Farmer Fisherman
-- **Spezialgegenstand:** Chapter 12 Family Farmer Fisherman wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -37,7 +32,6 @@ Dieser Skill macht aus dem Thema **Chapter 12 Family Farmer Fisherman** eine bel
 - 11 U.S.C. §§ 101(18), 101(19A), 109(f), 1201-1232
 - U.S. Courts resources
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -46,20 +40,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Debt and income tests current?
 - Seasonal cash flow?
 
-
 ## Workflow
 
 1. Eligibility live prüfen.
 2. Plan cash-flow calendar.
 3. Secured and tax treatment.
 
-
 ## Output
 
 - Chapter 12 memo
 - Seasonal budget checklist
 - Plan issue list
-
 
 ## Tiefencheck für die Akte
 

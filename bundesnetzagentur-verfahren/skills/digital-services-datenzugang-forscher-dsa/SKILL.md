@@ -1,6 +1,6 @@
 ---
 name: digital-services-datenzugang-forscher-dsa
-description: "Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Datenzugang für Forschung nach Art. 40 DSA
@@ -16,8 +16,6 @@ Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeig
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Begleitung des Datenzugangsverfahrens für unabhängige Forschung gem. Art. 40 DSA gegenüber sehr großen Online-Plattformen (VLOPs) und sehr großen Online-Suchmaschinen (VLOSEs). Adressat des Antrags ist der Digital Services Coordinator (DSC) am Sitz der Plattform oder am Sitz der Forschungsorganisation. In Deutschland ist die Bundesnetzagentur DSC (§ 12 DDG). Anwaltliche Rollen: Beratung der antragstellenden Forschungseinrichtung, Beratung der angefragten Plattform (Schutz von Geschäftsgeheimnissen, Datenschutz, Sicherheit), Beratung der BNetzA-Schnittstelle (selten direkt).

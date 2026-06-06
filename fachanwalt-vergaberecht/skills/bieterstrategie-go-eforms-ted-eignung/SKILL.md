@@ -79,7 +79,6 @@ Go/No-Go-Tabelle, Risiko-/Chancenbild, Aufgabenplan, Managementsummary.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -143,7 +142,6 @@ Bekanntmachungsmatrix, Fehlerliste, Berichtigungsvorschlag, Rugefrist-Hinweis.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -206,7 +204,6 @@ Eignungsmatrix, Nachforderungscheck, Ausschlussrisiko, Ruge-/Verteidigungslinie.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -308,7 +305,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
@@ -384,7 +380,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Vertiefung: Rechtsprechung und Normen Vergaberecht Erstmandat
 
 ### Leitsaetze Erstgespräch und Fristen
@@ -435,7 +430,6 @@ Naechster Schritt: [Ruege / NPA / Klage § 181 GWB]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Vergabe-Workbench-Boost v61.2
 

@@ -1,6 +1,6 @@
 ---
 name: see-schiffbauvertrag-werft-schiffshypothek
-description: "Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffbauvertrag Werft – Risikoprüfung
@@ -16,8 +16,6 @@ Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpfl
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Reeder schließt mit einer polnischen Werft einen Vertrag über drei Mehrzweckfrachter; Lieferung in 24 Monaten; die Finanzierungsbank besteht auf Sicherheiten für die Anzahlung. Eine chinesische Werft verlangt nach Stahlpreisanstieg eine Preisanpassung; der Reeder lehnt ab. Ein Reeder nimmt ein Schiff mit erheblichen Mängelrügen ab; Werft beansprucht vollständige Zahlung.
@@ -55,7 +53,6 @@ Ein Reeder schließt mit einer polnischen Werft einen Vertrag über drei Mehrzwe
 - Verhandlungsempfehlung: Klauseln nachbessern
 - Checkliste Schiffbauhypothek und Sicherheitenpaket
 
-
 ## Erweiterte Normengrundlage
 
 ### Werkvertragsrecht
@@ -80,7 +77,6 @@ Ein Reeder schließt mit einer polnischen Werft einen Vertrag über drei Mehrzwe
 - BGH zur Haftung des Werftunternehmers für Konstruktionsfehler; BGB §§ 633-634.
 - OLG Hamburg zur Auslegung von Force-Majeure-Klauseln in Schiffbauverträgen.
 - BGH zur Sicherungszession der Refund-Guarantee durch den Kreditgeber.
-
 
 ## Praxishinweis
 

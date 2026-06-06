@@ -28,7 +28,6 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 
 ## Arbeitsweg
 
-
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: EU KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026.
 - Fachpfad wählen: zentrale Anker im Robotik- und KI-Recht sind EU KI-Verordnung 2024/1689, ProdHaftG, Produkthaftungs-Richtlinie 2024, MaschinenVO 2023/1230, BGB §§ 823, 831, 433, 631, IT-SiG, NIS2-RL. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.

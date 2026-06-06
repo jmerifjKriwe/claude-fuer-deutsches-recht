@@ -442,7 +442,6 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 - BAG staendige Rspr. zur Arbeitnehmerstellung bei faktischer GF.
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF (auch faktischer).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -557,7 +556,6 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 - BGH staendige Rspr. zur Beweiskraft oeffentlicher Urkunden im Strafrecht.
 - BGH-Linie zur Scheinehe und Aufenthaltserschleichung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -985,7 +983,6 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 - BGH staendige Rspr. zur Beguenstigungsabsicht (direkter Vorsatz erforderlich, nicht Eventualvorsatz).
 - BGH staendige Rspr. zur Inkongruenz bei Zahlung vor Faelligkeit.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -1094,7 +1091,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 - Paragraph 320 HGB Auskunftspflicht gegenueber Abschlusspruefern.
 - Paragraph 331 HGB unrichtige Darstellung im Jahresabschluss.
 - BGH staendige Rspr. zur verdeckten Sacheinlage und Hin- und Herzahlen.
-
 
 ## Qualitäts-Hardening
 

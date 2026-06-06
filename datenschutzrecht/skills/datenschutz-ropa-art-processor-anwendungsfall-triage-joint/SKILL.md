@@ -126,7 +126,6 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 - DSK-Kurzpapier Nr. 13 "Auftragsverarbeitung" (Stand 16.01.2018).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -501,7 +500,6 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -601,7 +599,6 @@ Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
 - EuGH C-40/17 (Fashion ID) – Aktenzeichen verifiziert.
 - Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.
 - Kommentar-, Handbuch- und Aufsatzfundstellen nur, wenn der Mandant die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
 
 ## Qualitäts-Hardening
 
@@ -707,7 +704,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 - Art. 29 DSGVO – Weisungsgebundenheit.
 - EDSA-Leitlinien 07/2020 – Final 07.07.2021; abrufbar ueber edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

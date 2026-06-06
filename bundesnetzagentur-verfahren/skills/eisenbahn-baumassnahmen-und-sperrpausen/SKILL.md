@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-baumassnahmen-und-sperrpausen
-description: "Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Baumaßnahmen und Sperrpausen im Schienennetz
@@ -16,8 +16,6 @@ Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Begleitung bei Streitigkeiten über Baumaßnahmen, Sperrpausen, Bauumleitungen und temporäre Kapazitätseinschränkungen ("Temporary Capacity Restrictions", TCR) im Schienennetz. Die Generalsanierung von Korridoren der DB InfraGO (z. B. Riedbahn-Konzept) hat den Streitstoff stark anwachsen lassen. Anwaltliche Mandate: Eisenbahnverkehrsunternehmen (EVU) gegen Anordnungen der Sperrpause, Kapazitätsanmelder, Halterverbände, Schienengüter-Logistiker, Trassenbörsen-Akteure. Adressat der Aufsicht ist die Bundesnetzagentur als Regulierungsbehörde Eisenbahn nach § 67 ERegG.

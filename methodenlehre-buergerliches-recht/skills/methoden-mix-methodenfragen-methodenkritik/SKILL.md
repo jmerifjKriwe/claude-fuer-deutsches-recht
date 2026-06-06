@@ -41,7 +41,6 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 In der anwaltlichen Praxis arbeitet niemand mit einer einzigen Methode. Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren werden kombiniert. Was der BGH macht und was die meisten Methodenlehre-Lehrbuecher als idealtypischen Kanon beschreiben, ist nicht dasselbe. Diese Skill macht den Methoden-Mix sichtbar und gibt konkrete Strategien fuer den Schriftsatz.
@@ -207,7 +206,6 @@ Alle anderen Skills dieses Plugins:
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -229,7 +227,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Wer die Auslegungsmethode wählt, trifft eine verfassungsrechtliche Entscheidung. Dieses Skill zeigt, dass Methodenfragen nicht nur wissenschaftliche Kontroversen sind, sondern unmittelbare verfassungsrechtliche Relevanz haben: Bestimmte Methoden sind durch das Grundgesetz geboten, andere verboten, und die falsche Wahl begründet Verfassungsrügen.
 
@@ -342,7 +339,6 @@ Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Dieser Skill verkörpert die Methodenlehre und Falllösung im deutschen bürgerlichen Recht **aus Anwaltsperspektive**: Er bildet ab, wie Gerichte tatsächlich entscheiden und wie eine anwaltliche Bewertung daran ausgerichtet wird — nicht eine rein dogmatisch-wissenschaftliche Idealmethodik. Aktiviere ihn für jede juristische Bewertung, jedes Memo, jeden Schriftsatzentwurf, jede Auslegungsentscheidung im bürgerlichen Recht (BGB, HGB, Nebengesetze).
 
@@ -502,7 +498,6 @@ Die ausführliche methodische Grundlage einschließlich der Sektionen zu Anspruc
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Ein Grundproblem juristischer Argumentation ist die retrospektive Methodenwahl: Das Ergebnis steht fest, und die Methode wird nachträglich so gewählt, dass sie zum Ergebnis führt. Dieses Skill bietet ein strukturiertes Audit-Verfahren, um Ergebnisoffenheit der Methodenwahl zu prüfen und sicherzustellen.
 

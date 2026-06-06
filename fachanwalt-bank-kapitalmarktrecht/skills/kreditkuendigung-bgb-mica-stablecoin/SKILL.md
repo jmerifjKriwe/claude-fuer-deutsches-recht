@@ -283,7 +283,6 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
 | 1 | Token-Klassifikation: ART / EMT / Utility / Security? | Art. 3 MiCA | Falsches Regime; ggf. WpPG-Prospekt nötig |
@@ -443,7 +442,6 @@ Begründung:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Fristen
 
 | Frist | Dauer | Rechtsgrundlage |
@@ -469,7 +467,6 @@ Begründung:
 - BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
 - BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
 - BaFin Aufsicht ZK 1 fuer ART/EMT — bafin.de/EN/Aufsicht/MiCAR
-
 
 ## Qualitäts-Hardening
 
@@ -523,7 +520,6 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 ## Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 ### Phase 1 — Vorgerichtliche Bank-Korrespondenz
 
@@ -653,7 +649,6 @@ Anlagen:
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 <!-- AUDIT 27.05.2026 | bundle_053
 Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)

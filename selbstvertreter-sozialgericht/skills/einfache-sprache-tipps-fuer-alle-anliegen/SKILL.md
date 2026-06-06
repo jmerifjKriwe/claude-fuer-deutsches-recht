@@ -136,7 +136,6 @@ Besser:
 
 Stand: 05/2026. Generelle gute Praxis.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

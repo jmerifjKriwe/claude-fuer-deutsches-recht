@@ -1,6 +1,6 @@
 ---
 name: see-010-bergung-und-wrack
-description: "Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bergung und Wrack – Bergungslohn und Beseitigungspflicht
@@ -16,8 +16,6 @@ Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Bergungsschlepper rettet einen havarierten Frachter in der Nordsee; der Reeder verhandelt über den Bergungslohn; der Berger droht mit Lloyd's Schiedsverfahren. Ein Schiff sinkt in der deutschen AWZ; das WSA ordnet Wrackbeseitigung an; der Eigentümer fragt nach Kostentragung. Ein P&I-Club prüft ob SCOPIC höher ist als der konventionelle Bergungslohn.
@@ -56,7 +54,6 @@ Ein Bergungsschlepper rettet einen havarierten Frachter in der Nordsee; der Reed
 - WRC-Pflichtenanalyse: Fristen; Meldewege; Versicherungsnachweis
 - Kostenrisiko-Matrix: Bergung; Wrack; Umwelt
 
-
 ## Erweiterte Normengrundlage
 
 ### Bergungsrecht
@@ -81,7 +78,6 @@ Ein Bergungsschlepper rettet einen havarierten Frachter in der Nordsee; der Reed
 - BGH zum Bergungslohn nach HGB § 578; Berücksichtigung des Erfolgs.
 - OLG Hamburg zu SCOPIC-Klauseln; Schutz für Bergungsunternehmen bei erfolgloser Bergung.
 - BGH zur Pfandhaftung des Bergungsunternehmers an Schiff und Ladung für den Bergungslohn.
-
 
 ## Praxishinweis
 

@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Weg Hausverwaltung** benennt fehlende Dokumente,
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete WEG-Hausverwaltung-Frage zwingend (Eigentümerversammlungsprotokoll, Beschlusssammlung, Jahresabrechnung, Wirtschaftsplan, Verwaltervertrag, Teilungserklärung, Gemeinschaftsordnung)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (§ 24 Abs. 4 S. 2 WEG Ladung 3 Wochen, § 28 Abs. 2 WEG Jahresabrechnung 6 Monate nach Wirtschaftsjahr, § 45 WEG Beschlussanfechtung 1 Monat), beweisrelevant, formerheblich.

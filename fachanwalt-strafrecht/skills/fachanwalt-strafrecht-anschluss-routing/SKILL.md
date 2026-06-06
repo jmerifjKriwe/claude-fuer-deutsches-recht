@@ -28,7 +28,6 @@ Dieses Anschluss-Routing für **Fachanwalt Strafrecht** wählt nach dem ersten E
 
 ## Arbeitsweg
 
-
 - Ergebnis sichten: Welche Strafrecht und Strafprozessrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
 - Anschlussweichen identifizieren: drohende Frist (§ 341 StPO Revisionseinlegung 1 Woche, § 314 StPO Berufungseinlegung 1 Woche, § 345 StPO Revisionsbegründung 1 Monat nach Urteilszustellung, § 116 StPO HBÜ-Überprüfung 3/6 Monate, § 121 StPO 6-Monats-Grenze U-Haft), notwendige Dokumente (Haftbefehl, Anklageschrift, Eröffnungsbeschluss, Protokoll der Hauptverhandlung, Urteil, Revisionsantrag, Beweisantrag, Haftbeschwerde, Akteneinsicht-Akte), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.

@@ -75,7 +75,6 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 
 ## Prüfschema in Tabellenform
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Rechtsgrundlage | Ergebnis / Konsequenz |
@@ -108,7 +107,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mandant will schnellen Schadensersatz nicht Auftrag | Schadensersatzklage § 179 GWB als Alternative zum Nachpruefungsantrag |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -205,7 +203,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 
@@ -313,7 +310,6 @@ Datum Memo: [TT.MM.JJJJ]
 =========================================
 ```
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -376,7 +372,6 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -441,7 +436,6 @@ Aktenstruktur, Dokumentationsvermerk, Lueckenliste, Haftungsampel.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -504,7 +498,6 @@ Simulationsskript, Richter-/Kammerfragen, Antwortlinien, Vergleichsoptionen.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

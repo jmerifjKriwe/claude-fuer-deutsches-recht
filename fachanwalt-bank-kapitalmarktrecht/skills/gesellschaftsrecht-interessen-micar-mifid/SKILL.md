@@ -31,8 +31,6 @@ description: "Gesellschaftsrecht Interessen Micar Mifid im Plugin Fachanwalt Ban
 
 # Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
 
-
-
 ## Spezialwissen: Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Konkreter Gegenstand:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -73,8 +71,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 # Micar: Schriftsatz-, Brief- und Memo-Bausteine
 
-
-
 ## Spezialwissen: Micar: Schriftsatz-, Brief- und Memo-Bausteine
 - **Konkreter Gegenstand:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -114,8 +110,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 **Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mifid: Behörden-, Gerichts- oder Registerweg
-
-
 
 ## Spezialwissen: Mifid: Behörden-, Gerichts- oder Registerweg
 - **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

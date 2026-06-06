@@ -13,7 +13,6 @@ description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichke
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm fuer einen sehr grossen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemaess Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.

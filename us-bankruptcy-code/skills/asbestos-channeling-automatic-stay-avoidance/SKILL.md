@@ -1,6 +1,6 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Asbestos Channeling Injunctions § 524(g)
@@ -17,14 +17,9 @@ Prueft asbestos-specific trust/channeling structure, voting, future claims repre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Asbestos Channeling Injunctions § 524(g)
-- **Spezialgegenstand:** Asbestos Channeling Injunctions § 524(g) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -38,7 +33,6 @@ Dieser Skill macht aus dem Thema **Asbestos Channeling Injunctions § 524(g)** e
 - Asbestos plan documents
 - Insurance policies
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -47,20 +41,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Future claims?
 - Trust funding and voting?
 
-
 ## Workflow
 
 1. 524(g) prerequisites map.
 2. FCR and trust issues.
 3. Insurance transfer and injunction scope.
 
-
 ## Output
 
 - Asbestos channeling memo
 - Trust funding checklist
 - Voting issue list
-
 
 ## Tiefencheck für die Akte
 

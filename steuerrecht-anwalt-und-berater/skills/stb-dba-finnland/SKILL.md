@@ -13,7 +13,6 @@ description: "DBA Deutschland Finnland 2016. Anwendungsfall Maschinenbau IT Tele
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 II S. 466/467, in Kraft 16.11.2017, anwendbar ab 01.01.2018) und loeste das DBA vom 05.07.1979 ab. Es ist OECD-MA 2014/2017-konform. Praxisrelevant sind IT-/Telekom-Beteiligungen (Nokia, Spieleentwickler), Maschinenbau und Pensionen.

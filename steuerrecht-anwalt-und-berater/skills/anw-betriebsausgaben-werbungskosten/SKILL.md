@@ -1,6 +1,6 @@
 ---
 name: anw-betriebsausgaben-werbungskosten
-description: "Prüffeld für anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüffeld für anw betriebsausgaben werbungskosten pruefraster im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

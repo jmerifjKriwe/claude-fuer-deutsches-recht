@@ -13,7 +13,6 @@ description: "DBA Deutschland Ungarn 2011. Anwendungsfall Automotive-Zulieferer 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 und folgt OECD-MA 2010. Praxisrelevant sind Automotive-Zulieferungen (Audi, Mercedes-Benz, Bosch-Werke in Ungarn), Holding-Strukturen (Ungarn als attraktiver Standort wegen 9 Prozent KSt), Beteiligungseinkuenfte. Ungarn ist EU-Mitglied.

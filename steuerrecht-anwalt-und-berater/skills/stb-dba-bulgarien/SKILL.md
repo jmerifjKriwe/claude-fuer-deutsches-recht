@@ -13,7 +13,6 @@ description: "DBA Deutschland Bulgarien 2010. Anwendungsfall Outsourcing IT Pfle
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 1987 und folgt OECD-MA 2008. Ein Aenderungsprotokoll vom 21.07.2022 ist am 13.12.2023 in Kraft getreten (BGBl. 2023 II Nr. 213). Praxisrelevant sind IT-Outsourcing (niedrige Lohnstuffe), Holding-Strukturen (bulgarische KSt 10 Prozent), Pflege-Arbeitnehmer. Bulgarien ist EU-Mitglied (Beitritt 01.01.2007).

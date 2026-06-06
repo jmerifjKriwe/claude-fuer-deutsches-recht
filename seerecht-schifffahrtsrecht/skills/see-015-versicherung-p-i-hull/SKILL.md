@@ -1,6 +1,6 @@
 ---
 name: see-015-versicherung-p-i-hull
-description: "Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versicherung P&I und Hull & Machinery – Deckungsanalyse
@@ -16,8 +16,6 @@ Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Reeder erleidet einen Maschinenschaden während einer Charter; H&M-Versicherer und P&I-Club streiten wer den Schaden deckt. Nach einer Kollision zweier Schiffe stellen beide P&I-Clubs Kreuzforderungen; die Both-to-Blame-Klausel im Konnossement führt zu Rückgriffsansprüchen. Ein Charterer fragt ob er als Time Charterer über den P&I-Club des Reeders mitversichert ist.
@@ -56,7 +54,6 @@ Ein Reeder erleidet einen Maschinenschaden während einer Charter; H&M-Versicher
 - Schadensabwicklungs-Leitfaden (Meldung; Beweissicherung; Club-Kooperation)
 - Empfehlung für Deckungslücken-Schluss (War Risk; Charterer's Liability)
 
-
 ## Erweiterte Normengrundlage
 
 ### P&I-Versicherung
@@ -81,7 +78,6 @@ Ein Reeder erleidet einen Maschinenschaden während einer Charter; H&M-Versicher
 - BGH zur Obliegenheitsverletzung (VVG § 28) bei Schiffsversicherung; Kausalitätsgegenbeweis.
 - OLG Hamburg zu P&I-Deckungsversagung bei Klassenaussetzung; Kausalitätserfordernis.
 - BGH zu Mortgagee's Interest Insurance; Schutzbereich; Verhältnis zur H&M-Police.
-
 
 ## Praxishinweis
 

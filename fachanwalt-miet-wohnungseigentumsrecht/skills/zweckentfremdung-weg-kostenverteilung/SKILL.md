@@ -30,7 +30,6 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 **Fokus:** Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-
 # Zweckentfremdung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
@@ -40,7 +39,6 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
@@ -76,7 +74,6 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 **Fokus:** Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23.
 
-
 # WEG: Kostenverteilung, Rücklage, Gewerbeprivileg und § 16 Abs. 2 WEG
 
 ## Verifizierter Kern
@@ -98,7 +95,6 @@ BGH, Urteil vom 14.02.2025 - V ZR 128/23: § 16 Abs. 2 Satz 2 WEG begründet Bes
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-
 # Vergleichsverhandlung und Einigung im Wohnraum-, Gewerberaum- und WEG-Recht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
@@ -108,7 +104,6 @@ BGH, Urteil vom 14.02.2025 - V ZR 128/23: § 16 Abs. 2 Satz 2 WEG begründet Bes
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Wann dieser Arbeitsgang greift
 
@@ -327,7 +322,6 @@ Loesung: Eintrag geloescht.
 
 **Fokus:** Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat. Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), Beschlussfaehigkeit nach WEMoG-Reform 2020. Ungueltige und nichtige Beschluesse abgrenzen. Routet in beschlussanfechtung-spezial.
 
-
 # WEG: Organe und Beschluesse
 
 ## Fachlicher Kern — Miet- und WEG-Recht
@@ -338,13 +332,8 @@ Loesung: Eintrag geloescht.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: WEG: Organe und Beschluesse
-- **Spezialgegenstand:** WEG: Organe und Beschluesse / weg einfuehrung organe beschluesse. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** WEMoG, WEG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

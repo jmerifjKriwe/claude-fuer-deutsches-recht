@@ -104,7 +104,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

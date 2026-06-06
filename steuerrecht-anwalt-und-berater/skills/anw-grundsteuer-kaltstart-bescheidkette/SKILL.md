@@ -13,7 +13,6 @@ description: "Grundsteuer-Mandat schnell aufnehmen: Grundsteuerwertbescheid, Gru
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 
 Dieses Fachmodul greift, wenn ein Grundsteuerfall neu hereinkommt. Ziel ist ein kurzer, sauberer Einstieg: Welcher Bescheid liegt vor, welche Frist läuft, welches Modell gilt, welche Datenbasis ist angreifbar und welche Folgeskills werden gebraucht.

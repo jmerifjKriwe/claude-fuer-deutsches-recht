@@ -137,7 +137,6 @@ E. V. ist haeufig die einfachste Form.
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

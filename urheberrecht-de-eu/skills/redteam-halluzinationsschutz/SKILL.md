@@ -6,11 +6,9 @@ description: "Prueft Ergebnisse auf Quellenfehler, erfundene Rechtsprechung, fal
 # Red-Team und Halluzinationsschutz
 
 ## Fachkern: Red-Team und Halluzinationsschutz
-- **Spezialgegenstand:** Red-Team und Halluzinationsschutz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -29,7 +27,6 @@ Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbe
 - freie amtliche Quellen
 - UrhG aktuelle Fassung
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -37,7 +34,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Welche Norm wurde tatsächlich geprüft?
 - Ist jede Rechtsprechung mit Datum, Aktenzeichen und Link belegbar?
 - Wo ist das Ergebnis wertend oder unsicher?
-
 
 ## Prüflogik
 
@@ -56,7 +52,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Red-Team-Kommentar
 - Quellenliste
 - Korrigiertes Ergebnis mit Unsicherheitsmarkern
-
 
 ## Qualitätsfilter
 

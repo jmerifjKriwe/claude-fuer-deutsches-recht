@@ -155,7 +155,6 @@ Stand: 05/2026.
 - IAS 7 (international).
 - InsO § 19.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

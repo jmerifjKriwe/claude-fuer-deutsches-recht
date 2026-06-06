@@ -157,7 +157,6 @@ Folge: Sie zahlen rueckwirkend.
 
 Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

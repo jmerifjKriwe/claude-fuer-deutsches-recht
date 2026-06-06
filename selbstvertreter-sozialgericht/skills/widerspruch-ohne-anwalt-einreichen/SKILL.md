@@ -121,7 +121,6 @@ Egal welcher Weg: Sie brauchen einen Beweis fuer den Tag, an dem Ihr Widerspruch
 
 Stand: 05/2026. MJP seit 2024 fuer Buerger oeffentlich. § 65a SGG fuer SG-Klagen. § 36a SGB I fuer Behoerden-Kommunikation. Pruefen Sie im Zweifel den Stand bei Ihrer Behoerde.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

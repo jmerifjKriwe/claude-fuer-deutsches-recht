@@ -1,6 +1,6 @@
 ---
 name: migr-aufenthaltstitel
-description: "Migr Aufenthaltstitel im Migrationsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Migr Aufenthaltstitel im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Migr Aufenthaltstitel
@@ -26,7 +26,6 @@ description: "Migr Aufenthaltstitel im Migrationsrecht: fachlicher Arbeitsgang m
 ## 1. `migr-aufenthaltstitel-uebersicht`
 
 **Fokus:** Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zustaendigkeit, typische Versagungsgruende.
-
 
 # Migr: Aufenthaltstitel-Uebersicht
 

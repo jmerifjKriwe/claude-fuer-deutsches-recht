@@ -28,7 +28,6 @@ Dieser Einstieg routet **Fachanwalt Handels Gesellschaftsrecht** vom ersten Sach
 
 ## Arbeitsweg
 
-
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Fachanwalt Handels Gesellschaftsrecht sind AktG, GmbHG, HGB, MoPeG, PartGG, UmwG, § 14i, § 89b HGB. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.

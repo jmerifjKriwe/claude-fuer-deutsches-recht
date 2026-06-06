@@ -39,7 +39,6 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Abschließende Qualitätskontrolle, bevor ein Produkt (Schriftsatz, Memo, Brief, Vergleich) den Skill verlässt. Dieser findet Fehler, Lücken und Scheingenauigkeiten — bevor der Gegner oder das Gericht sie findet.
 
@@ -172,7 +171,6 @@ Checkliste:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Überblick über die EuGH-Linie im Arbeitsrecht und die relevanten EU-Richtlinien mit ihren deutschen Umsetzungsgesetzen. Besondere Bedeutung: Richtlinienkonforme Auslegung, Vorabentscheidungsverfahren und direkte Anwendbarkeit von EU-Recht.
 
@@ -274,7 +272,6 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Strukturierter Prüffür die Verifikation arbeitsrechtlicher Rechtsprechungszitate — bevor sie in Schriftsätze, Memos oder Beratungshinweise einfließen. Dieser Skill verhindert Scheinzitate und stärkt die anwaltliche Glaubwürdigkeit.

@@ -13,7 +13,6 @@ description: "DBA Deutschland Slowenien 2006. Anwendungsfall Mittelstand Automot
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhaeltnis zum EU-Mitglied Slowenien. Praxisrelevant sind Mittelstandsbeziehungen, Automotive-Zulieferer, Tourismusbeteiligungen (Adria) und Holdings.

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-w
-description: "Rechtsabteilung W im Private Equity Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Rechtsabteilung W im Private Equity Praxis im Private Equity Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsabteilung W
@@ -31,11 +31,8 @@ description: "Rechtsabteilung W im Private Equity Praxis: fachlicher Arbeitsgang
 # Rechtsabteilung: W&I-Claim nach Financial Statements Breach
 
 ## Fachkern: Rechtsabteilung: W&I-Claim nach Financial Statements Breach
-- **Spezialgegenstand:** Rechtsabteilung: W&I-Claim nach Financial Statements Breach wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
 - **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Spezialkern: Rechtsabteilung: W&I-Claim nach Financial Statements Breach
 

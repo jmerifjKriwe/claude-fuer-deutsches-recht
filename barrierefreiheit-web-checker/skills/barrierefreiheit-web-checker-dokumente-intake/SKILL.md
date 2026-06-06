@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Barrierefreiheit Web Checker** ordnet Anlagen, R
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Web-Barrierefreiheit-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

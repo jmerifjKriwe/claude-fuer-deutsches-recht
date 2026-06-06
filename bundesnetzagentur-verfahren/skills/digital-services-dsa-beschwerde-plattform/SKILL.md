@@ -1,6 +1,6 @@
 ---
 name: digital-services-dsa-beschwerde-plattform
-description: "Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DSA-Beschwerde gegen eine Online-Plattform
@@ -16,8 +16,6 @@ Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeig
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Begleitung einer Beschwerde nach Art. 53 DSA i. V. m. § 18 DDG, die gegen eine Online-Plattform bei der Bundesnetzagentur als Digital Services Coordinator (DSC) eingereicht wird. Beschwerdebefugt sind nach Art. 53 DSA Empfänger des Dienstes sowie Stellen, Organisationen und Vereinigungen, die mit deren Rechten auf der Grundlage des DSA betraut sind. Anwaltliche Mandate bestehen typischerweise: Verbraucherzentralen, Mitbewerber, Verbände, betroffene Nutzer, Trusted Flagger. Der Skill leitet die Beschwerde, ihre Begründung und das spätere Aufsichtsverfahren.

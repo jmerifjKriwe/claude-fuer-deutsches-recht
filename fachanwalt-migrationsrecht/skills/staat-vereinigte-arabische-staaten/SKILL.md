@@ -30,7 +30,6 @@ description: "Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konk
 
 **Fokus:** Staaten- und Gebietscheck Vereinigte Arabische Emirate: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Vereinigte Arabische Emirate
 
 ## Aufgabe
@@ -67,7 +66,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vereinigte Arabis
 ## 2. `staat-vereinigte-staaten-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Vereinigte Staaten: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Vereinigte Staaten
 
@@ -106,7 +104,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vereinigte Staate
 
 **Fokus:** Staaten- und Gebietscheck Vereinigtes Königreich: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Vereinigtes Königreich
 
 ## Aufgabe
@@ -143,7 +140,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vereinigtes Köni
 ## 4. `staat-vietnam-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Vietnam: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Vietnam
 

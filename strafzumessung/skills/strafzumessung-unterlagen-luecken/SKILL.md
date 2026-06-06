@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Strafzumessung** benennt fehlende Dokumente, str
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Strafzumessung-Frage zwingend (Bewährungsauflage, Tatumstandskatalog, Vorstrafenregisterauszug, Sachverständigengutachten, Schuldfähigkeitsbeurteilung)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (§ 56 StGB Bewährungszeit 2–5 Jahre, § 57 StGB 2/3-Reststrafenaussetzung, § 57a StGB lebenslange Freiheitsstrafe nach 15 Jahren), beweisrelevant, formerheblich.

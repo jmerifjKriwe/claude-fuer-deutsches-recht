@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Mittelstand Corporate M
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Mittelstand Corporate M&A — Allgemein
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
@@ -23,7 +21,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Mittelstand Corporate M
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -335,7 +332,6 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (BGB, GmbHG, AktG, UmwG, InsO, StaRUG, GWB, FKVO, MAR, WpUEG, GoBD, UStG)
 - IDW S 11 (Fortbestehensprognose), IDW S 6 (Sanierungskonzept) in geltender Fassung
-
 
 ## Qualitäts-Hardening
 

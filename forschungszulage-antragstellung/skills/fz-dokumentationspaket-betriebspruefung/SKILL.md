@@ -166,7 +166,6 @@ Pflichtspalten:
 - FZulG (Belegpflichten).
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

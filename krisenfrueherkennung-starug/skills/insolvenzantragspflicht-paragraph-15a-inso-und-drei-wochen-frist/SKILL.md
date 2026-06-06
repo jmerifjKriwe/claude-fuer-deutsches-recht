@@ -1,6 +1,6 @@
 ---
 name: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist
-description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenzantragspflicht — § 15a InsO und die Drei-Wochen-Frist
@@ -214,7 +214,6 @@ NACH ANTRAGSTELLUNG:
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — persönliche Haftungsfolgen
 - → `pflichtenkollision-und-shift-of-fiduciary-duties` — Pflichtenwandel bei Insolvenzreife
 - → `restrukturierungsplan-architektur-paragraph-7ff-starug` — letzte StaRUG-Chance vor § 15a InsO
-
 
 ## Triage — Erste Einordnung
 

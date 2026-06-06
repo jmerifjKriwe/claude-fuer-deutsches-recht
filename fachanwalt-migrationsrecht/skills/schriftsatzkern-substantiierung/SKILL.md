@@ -127,7 +127,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG und ihre Substantiierungs-Anforderungen:
@@ -262,7 +261,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Eilverfahren Abschiebungsstopp | § 123 VwGO Antrag; Anordnungsanspruch und -grund |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template: Asylklage VG
 

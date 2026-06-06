@@ -6,11 +6,9 @@ description: "Prueft generative AI outputs nach USCO-Policy: human authorship, s
 # AI Output und Copyrightability
 
 ## Fachkern: AI Output und Copyrightability
-- **Spezialgegenstand:** AI Output und Copyrightability. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -23,7 +21,6 @@ Dieser Skill macht aus dem Thema **AI Output und Copyrightability** eine belastb
 - USCO AI Report Part 2 (Copyrightability)
 - USCO Policy Statement zu Werken mit KI-generiertem Material
 - 17 U.S.C. § 102
-
 
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
@@ -41,20 +38,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Was ist menschlich ausgewählt, verändert oder arrangiert?
 - Wie wird im Antrag disclaimed?
 
-
 ## Workflow
 
 1. Human contribution dokumentieren.
 2. AI material abgrenzen.
 3. Registration statement vorbereiten.
 
-
 ## Output
 
 - AI copyrightability memo
 - eCO disclosure draft
 - Evidence of human creativity
-
 
 ## Tiefencheck für die Akte
 

@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Wandeldarlehen Lebenszy
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Wandeldarlehen Lebenszyklus — Allgemein
 
 ## Schnellstart-Workflow
@@ -251,7 +249,6 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 - Stand: 05/2026
 - BGB, GmbHG, InsO, GwG, eIDAS-VO in aktuell geltender Fassung
 - SAFE-Vorlage des Y-Combinators (Post-Money SAFE, aktuelle Version 2018)
-
 
 ## Qualitäts-Hardening
 

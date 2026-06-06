@@ -13,7 +13,6 @@ description: "Generiert ein länderspezifisches DBA-Memo für jeden deutschen DB
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 
 Dieser Skill erzeugt aus jedem realistischen DBA-Sachverhalt ein verwendbares Memo, auch wenn das Land noch keinen Einzel-Skill hat.

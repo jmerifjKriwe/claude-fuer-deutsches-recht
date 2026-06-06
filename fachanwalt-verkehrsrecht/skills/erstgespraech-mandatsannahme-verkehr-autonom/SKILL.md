@@ -115,7 +115,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
@@ -627,7 +626,6 @@ Aktueller Stand Mai 2026:
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
 -->
-
 
 ## Qualitäts-Hardening
 

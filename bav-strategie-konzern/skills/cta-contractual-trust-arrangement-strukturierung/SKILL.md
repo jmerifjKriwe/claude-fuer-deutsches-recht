@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich): eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
@@ -16,8 +16,6 @@ CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmod
 - Tragende Normen verifizieren: BetrAVG §§ 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG §§ 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG § 5 (Pensionsfonds), VAG (Pensionskassen), HGB § 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (§ 87 Abs. 1 Nr. 10 BetrVG).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Versorgungsordnung, Pensionszusage, Entgeltumwandlungsvereinbarung, PSV-Anzeige, IFRS/HGB-Pensionsgutachten, versicherungsmathematisches Gutachten, Betriebsvereinbarung bAV — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Fachkern: CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
@@ -64,8 +62,6 @@ Die von bAV-Projektteam entwickelte Standardstruktur basiert auf einem **Doppelt
 - Treuhandvertrag begründet Rechte der Versorgungsberechtigten als Drittbegünstigte (§ 328 BGB)
 - Bei Insolvenz des Arbeitgebers: Versorgungsberechtigte können Aussonderung des Treuhandvermögens aus Insolvenzmasse verlangen (§ 47 InsO)
 - Treuhänder verwaltet Vermögen nach Investment Policy Statement (IPS)
-
-
 
 1. **Dingliche Übertragung:** Das Vermögen muss dinglich auf den Treuhänder übertragen sein — schuldrechtliche Zweckbindung allein genügt nicht.
 2. **Unwiderrufliche Drittbegünstigung:** Die Versorgungsberechtigten müssen als unwiderruflich Begünstigte im Treuhandvertrag genannt sein — der Arbeitgeber darf das Treuhandvermögen nicht ohne Zustimmung der Berechtigten zurückfordern können.

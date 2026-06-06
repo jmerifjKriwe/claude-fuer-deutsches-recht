@@ -106,7 +106,6 @@ Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage ei
 
 Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

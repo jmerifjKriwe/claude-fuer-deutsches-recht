@@ -108,7 +108,6 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bewehrung-verlegekontrolle
-description: "Bauueberwachung HOAI LPH 8 fuer Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Bauueberwachung HOAI LPH 8 fuer Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration im Hoai Leistungsphasen Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Bauueberwachung Bewehrungsverlegung und Verlegekontrolle

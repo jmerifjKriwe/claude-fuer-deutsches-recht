@@ -13,7 +13,6 @@ description: "DBA Deutschland USA 1989 mit Protokollen 1998 2006 2021. LOB-Klaus
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 14.12.1998, 01.06.2006 und ggf. weiteren ist eines der bedeutendsten DBA Deutschlands. Schwerpunkte sind die Limitation-on-Benefits-Klausel (LOB), Pension Protection im Protokoll 2006 (Schutz US-amerikanischer Pensionsplaene IRA und 401(k)), Branch Profits Tax, Beteiligungseinkuenfte deutscher Investoren in US-Gesellschaften und umgekehrt, Sportler/Kuenstler und Wegzugsbesteuerung. Die USA sind kein MLI-Mitglied — bilaterale Aenderungen.

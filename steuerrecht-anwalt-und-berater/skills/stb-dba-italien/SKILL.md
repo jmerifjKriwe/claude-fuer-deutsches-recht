@@ -13,7 +13,6 @@ description: "DBA Deutschland Italien aus 1989. Anwendungsfall Mittelstand Masch
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deutschlands (zweitgroesster EU-Handelspartner). Praxisrelevant sind Holding-Strukturen, Beteiligungen, Lizenzeinkuenfte (Mode, Design, Pharma), Wegzugsfaelle, Suedtirol-Pendler (kleine, aber spezifische Gruppe) und Pensionen aus INPS.

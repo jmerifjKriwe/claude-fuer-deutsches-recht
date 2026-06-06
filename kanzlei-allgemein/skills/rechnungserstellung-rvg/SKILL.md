@@ -5,7 +5,6 @@ description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG 
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)
 
-
 ## Triage zu Beginn
 1. Welche Gebuehrentatbestaende sind angefallen: Geschaeftsgebuehr (Nr. 2300 VV RVG), Verfahrensgebuehr (Nr. 3100 VV RVG), Terminsgebuehr (Nr. 3104 VV RVG)?
 2. Wie hoch ist der Gegenstandswert und nach welchem Gesetz bestimmt er sich (ZPO, GKG, FamGKG, RVG Anlage 2)?

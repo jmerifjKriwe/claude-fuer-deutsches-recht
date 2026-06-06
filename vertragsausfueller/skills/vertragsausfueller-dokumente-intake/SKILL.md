@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Vertragsausfueller** ordnet Anlagen, Registerdat
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Mustervertrag, Termsheet, Klauselkatalog, Altvertrag, Vertragsentwurf mit Track Changes.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Vertragsausfüller (Lückenschluss in Verträgen)-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

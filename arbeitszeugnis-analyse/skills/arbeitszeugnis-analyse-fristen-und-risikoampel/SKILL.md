@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-analyse-fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Arbeitszeugnis Analyse: prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
+description: "Fristen- und Risikoampel im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen- und Risikoampel

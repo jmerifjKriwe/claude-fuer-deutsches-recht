@@ -124,7 +124,6 @@ Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 
 Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

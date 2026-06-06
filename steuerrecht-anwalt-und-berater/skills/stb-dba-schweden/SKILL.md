@@ -13,7 +13,6 @@ description: "DBA Deutschland Schweden 1992. Anwendungsfall Mittelstand Maschine
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwendbar ab 01.01.1995) regelt die Beziehungen zum EU-Mitglied Schweden. Praxisrelevant sind Beteiligungen (Volvo, Ericsson, schwedische Beteiligungsgesellschaften), Maschinenbau-Mittelstand, Pensionen und Arbeitnehmer-Entsendungen.

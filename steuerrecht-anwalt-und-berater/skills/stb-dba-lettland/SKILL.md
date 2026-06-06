@@ -13,7 +13,6 @@ description: "DBA Deutschland Lettland 1997. Anwendungsfall Mittelstand IT Holdi
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhaeltnis zum EU-Mitglied Lettland (Beitritt 2004, Euro 2014). Praxisrelevant sind Mittelstand, IT, Holding und Transport-Branche.

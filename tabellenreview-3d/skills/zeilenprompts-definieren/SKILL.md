@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-definieren
-description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenreview 3d: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeilenprompts Definieren

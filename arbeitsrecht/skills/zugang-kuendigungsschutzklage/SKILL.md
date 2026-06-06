@@ -99,7 +99,6 @@ Skill fuer Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsvertrag) zur einvernehmlichen Beendigung eines Arbeitsverhältnisses. Er ist einschlägig, wenn Arbeitgeber und Arbeitnehmer das Arbeitsverhältnis ohne Kündigung zu einem bestimmten Termin beenden wollen. Kernthemen sind die Schriftform nach § 623 BGB, die sozialrechtlichen Konsequenzen (Sperrzeit § 159 SGB III), die Abfindungsgestaltung (§ 1a KSchG, Fünftelregelung § 34 EStG), die Ausgleichsklausel sowie mögliche Anfechtungs- und Widerrufsrechte. Der Skill berücksichtigt sowohl die Arbeitgeber- als auch die Arbeitnehmerperspektive.
@@ -276,7 +275,6 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -628,7 +626,6 @@ und die Empfehlung verstanden habe."
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 

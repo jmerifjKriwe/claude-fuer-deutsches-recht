@@ -199,7 +199,6 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -338,7 +337,6 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
-
 
 ## Qualitäts-Hardening
 
@@ -483,7 +481,6 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialg
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Selbstvertreter Sozialgericht — Allgemein
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
@@ -23,7 +21,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialg
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -244,7 +241,6 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 ---
 
 Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Fristen, Bescheidkette, Belege, Eilbedarf, Kosten und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zu Sozialverband, Beratungshilfe, PKH oder anwaltlicher Prüfung.
-
 
 ## Qualitäts-Hardening
 

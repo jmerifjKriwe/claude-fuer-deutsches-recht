@@ -1,6 +1,6 @@
 ---
 name: auflagenverstoss-und-owi
-description: "Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Risiko realistisch, nicht panisch
@@ -16,8 +16,6 @@ Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlunge
 - Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Worum es geht
 Unterscheide Veranstalter, Leiter, Ordner, Teilnehmer, Störer und Außenstehende. Prüfe vollziehbare Anordnung, Bekanntgabe, Bestimmtheit, Schuld und Beweisbarkeit.
@@ -47,7 +45,6 @@ Output: Verteidigungsnotiz und Anhörungserstreaktion.
 - Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
 - Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
 
 ## Quellen- und Aktualitätsregel
 - Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.

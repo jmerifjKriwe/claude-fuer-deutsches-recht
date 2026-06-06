@@ -130,7 +130,6 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 - BGH staendige Rspr. zur Formstrenge der Einberufung.
 - BGH staendige Rspr. zur Pflicht auch bei laufender Geschaeftsbeobachtung (pflichtmaesses Ermessen).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -361,7 +360,6 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - BGH staendige Rspr. zur Pflichtigkeit faktischer Geschaeftsfuehrer.
 - BGH staendige Rspr. zum Beginn der 3-Wochen-Frist (Eintritt, nicht Kenntnis).
 - StaRUG-Verfahren (Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen fuer Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.
-
 
 ## Qualitäts-Hardening
 
@@ -1124,7 +1122,6 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 - BGH staendige Rspr. zu Risikokrediten als Untreue.
 - IDW S 6-Standards zur Unternehmensbewertung; IDW PS 800-Standards zur forensischen Bewertung.
 - Paragraph 103 Abs 2 GG Bestimmtheitsgebot des Strafrechts.
-
 
 ## Qualitäts-Hardening
 

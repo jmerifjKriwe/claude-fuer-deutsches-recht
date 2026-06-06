@@ -202,7 +202,6 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 
 Stand: 05/2026. § 253 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -110,7 +110,6 @@ Prüfen Sie:
 - Bei existenzieller Not immer Eilantrag prüfen.
 - Bei BSG, Nichtzulassungsbeschwerde, schwieriger Medizin oder hoher Nachzahlung anwaltliche Hilfe/Sozialverband/PKH ansprechen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

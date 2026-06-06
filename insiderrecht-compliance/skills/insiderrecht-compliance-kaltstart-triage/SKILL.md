@@ -5,7 +5,6 @@ description: "Kaltstart Insiderrecht im Insiderrecht und Compliance: Dieser Skil
 
 # Kaltstart Insiderrecht
 
-
 ## Ziel
 
 Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.

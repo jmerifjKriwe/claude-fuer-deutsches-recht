@@ -130,7 +130,6 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 - EDSA, Leitlinien 01/2021 zu Beispielen fuer Meldungen von Datenpannen.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

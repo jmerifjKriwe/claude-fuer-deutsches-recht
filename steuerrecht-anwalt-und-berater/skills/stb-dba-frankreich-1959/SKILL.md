@@ -13,7 +13,6 @@ description: "DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anw
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deutschlands. Durch zahlreiche Protokolle (1969, 1989, 2001, 2015) wurde es aktualisiert, bleibt aber strukturell veraltet und weicht in einzelnen Punkten vom OECD-MA ab. Praxisrelevant ist insbesondere die Grenzgaengerregelung Elsass-Lothringen-Saar/Baden-Wuerttemberg mit der 20-Kilometer-Zone und die Pensionsbesteuerung mit umfassender Sonderregelung.

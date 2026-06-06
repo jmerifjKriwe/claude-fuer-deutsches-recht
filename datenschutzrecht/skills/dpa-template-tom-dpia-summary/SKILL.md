@@ -189,7 +189,6 @@ Date: Date:
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, adopted 07 July 2021.
 - Citation rules: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -343,7 +342,6 @@ ________________________________ ____________________________
 - Citation rules: `../../../references/zitierweise.md`.
 ```
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -474,7 +472,6 @@ DPO: ____________________ Date: ____________________
 - EDPB Opinion 28/2024 on AI models
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
 
 ## Qualitäts-Hardening
 
@@ -682,7 +679,6 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - SDM V3.0 (German Standard Data Protection Model) — protection goals
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
 
 ## Qualitäts-Hardening
 

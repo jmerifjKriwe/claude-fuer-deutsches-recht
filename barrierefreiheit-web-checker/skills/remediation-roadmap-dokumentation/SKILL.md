@@ -1,6 +1,6 @@
 ---
 name: remediation-roadmap-dokumentation
-description: "Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Remediation-Roadmap und Dokumentation
@@ -65,7 +65,6 @@ Ein Maßnahmenplan ist kein Ausredenpapier. Er muss zeigen, was wann behoben wir
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
 - Prioritaet und Nachweis fuer die Dokumentation.
-
 
 ## Qualitäts-Hardening
 

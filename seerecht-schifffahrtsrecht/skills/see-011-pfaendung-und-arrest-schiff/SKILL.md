@@ -1,6 +1,6 @@
 ---
 name: see-011-pfaendung-und-arrest-schiff
-description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pfändung und Arrest am Schiff
@@ -16,8 +16,6 @@ Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 9
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Konnossementsinhaber will einen in Hamburg eingelaufenen Frachter arrestieren; Reeder verweigert Frachtzahlung. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch bevor das geborgene Schiff ausfährt. Ein Gläubiger aus ausländischem Urteil will das im Hamburger Hafen liegende Schiff pfänden.
@@ -57,7 +55,6 @@ Ein Konnossementsinhaber will einen in Hamburg eingelaufenen Frachter arrestiere
 - Vollziehungsstrategie: Register-Eintragung plus physische Bewachung
 - Freigabe-Strategie: LOU; Sicherheitsleistung; Gegenantrag
 
-
 ## Erweiterte Normengrundlage
 
 ### Arrest und Pfändung
@@ -82,7 +79,6 @@ Ein Konnossementsinhaber will einen in Hamburg eingelaufenen Frachter arrestiere
 - LG Hamburg; OLG Hamburg zu Seearrest; Anforderungen an Arrestanspruch und -grund.
 - BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO § 945.
 - ITLOS Juno Trader No. 13 (Saint Vincent v. Guinea-Bissau 2004): Prompt Release; Verhältnismäßigkeit.
-
 
 ## Praxishinweis
 

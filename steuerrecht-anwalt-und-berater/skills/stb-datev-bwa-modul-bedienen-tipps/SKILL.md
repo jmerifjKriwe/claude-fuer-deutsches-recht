@@ -97,7 +97,6 @@ Stand: 05/2026.
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller DATEV-Version.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

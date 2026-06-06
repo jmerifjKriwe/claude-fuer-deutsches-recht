@@ -13,7 +13,6 @@ description: "DBA Deutschland Irland 2011. Anwendungsfall IT- und Pharma-Holding
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regelt die steuerliche Behandlung im Verhaeltnis zum EU-Mitglied Irland, das niedrige Koerperschaftsteuer (12,5 Prozent) bietet und Sitz vieler Holding-Strukturen ist (Apple, Google, Pfizer, viele Pharma- und IT-Konzerne). Praxisrelevant sind Lizenzeinkuenfte, Beteiligungs- und Zinsmodelle und die Pruefung von Substanz nach § 50d Abs. 3 EStG.

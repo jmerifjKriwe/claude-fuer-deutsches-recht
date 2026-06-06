@@ -1,6 +1,6 @@
 ---
 name: scope-bfsg-screenreader-semantik-abnahme
-description: "Prüft den Rechtsrahmen digitaler Barrierefreiheit: BFSG, BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, öffentlicher Sektor, B2C-E-Commerce, Kleinstunternehmen und freiwilliger Standard. Output: Scope-Memo: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft den Rechtsrahmen digitaler Barrierefreiheit: BFSG, BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, öffentlicher Sektor, B2C-E-Commerce, Kleinstunternehmen und freiwilliger Standard. Output: Scope-Memo im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Scope: BFSG, BITV, WAD, freiwilliger Standard
@@ -72,7 +72,6 @@ Nicht jede Website fällt automatisch unter das BFSG. Aber wenn eine Website Tei
 ## Marktüberwachung und Sanktionen
 - Zuständige Marktüberwachungsbehörde nach § 19 BFSG ist je nach Bundesland geregelt; bundesweit koordinierend ist die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für Produkte; für Dienstleistungen das Eisenbahn-Bundesamt bzw. die Landesbehörden.
 - Bußgeld nach § 37 BFSG bis 100.000 EUR; bei Verstößen gegen Kennzeichnungspflichten bis 10.000 EUR.
-
 
 ## Qualitäts-Hardening
 

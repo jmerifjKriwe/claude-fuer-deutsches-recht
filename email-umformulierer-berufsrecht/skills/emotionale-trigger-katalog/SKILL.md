@@ -6,14 +6,10 @@ description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz id
 # Emotionaler Trigger-Katalog
 
 ## Fachkern: Emotionaler Trigger-Katalog
-- **Spezialgegenstand:** Emotionaler Trigger-Katalog wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill stellt ein strukturiertes Wörterbuch typischer emotionaler und unsachlicher Formulierungen bereit, die in beruflicher Korrespondenz auftreten. Zu jedem Trigger wird eine neutrale, berufsrechtskonforme Ersatzformulierung gezeigt, die den sachlichen Kern erhält.
-
 
 ## Triage zu Beginn
 1. Welcher Trigger-Typ liegt vor: Kompetenzabsprache (A), Charakterangriff (B), Drohung (C), Pauschalurteil (D) oder Affektsprache (E)?

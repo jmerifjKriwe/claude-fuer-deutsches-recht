@@ -13,7 +13,6 @@ description: "DBA Deutschland Portugal. Anwendungsfall Pensionen Algarve NHR-Sta
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) regelt unter anderem die Renten- und Pensionsbesteuerung in der hochrelevanten Algarve-Konstellation: deutsche Rentner mit Wohnsitz Portugal und (frueher) NHR-Status (non-habitual resident). Madeira ist Sondersteuergebiet mit ermaessigten Saetzen.

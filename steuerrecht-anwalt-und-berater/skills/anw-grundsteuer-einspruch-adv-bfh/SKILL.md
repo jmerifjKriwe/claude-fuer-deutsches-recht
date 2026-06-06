@@ -72,7 +72,6 @@ Nur wenn FA ablehnt oder nicht rechtzeitig entscheidet. Dann Ablehnung, Einspruc
 
 Gib immer eine "nächste 7 Tage"-Liste: Frist, Beleg, Antrag, Zahlung, Rückfrage an Gemeinde/Finanzamt.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

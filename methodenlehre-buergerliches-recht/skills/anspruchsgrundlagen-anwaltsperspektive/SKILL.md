@@ -41,7 +41,6 @@ description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Bue
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die Durchsetzung rechtlicher Ansprüche erfordert nicht nur die Kenntnis der materiellen Anspruchsgrundlage, sondern auch die Wahl des richtigen Weges: Zivilgericht, Verwaltungsgericht, Behörde oder Registergericht. Dieses Skill trainiert die strategische Entscheidung über den Durchsetzungsweg und vermeidet kostspielige Umwege durch falsche Verfahrenswahl.
 
 ## Mandantenfall
@@ -131,7 +130,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Eine tragfähige Mandatsführung steht und fällt mit der Vollständigkeit der Dokumentenbasis. Dieses Skill strukturiert die anwaltliche Arbeit so, dass fehlende Dokumente früh identifiziert, Beweislücken erkannt und Schritte zur Schließung dieser Lücken eingeleitet werden. Die Dokumentenmatrix ist zugleich Instrument der Qualitätssicherung und der Mandantenkommunikation.
 
@@ -223,7 +221,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die anwaltliche Begleitung von Konflikten umfasst mehr als Rechtsprüfung: Sie verlangt den fließenden Übergang von der Auslegung des Streitstoffs über die Verhandlungsführung bis zur Entscheidung, ob ein Vergleich sinnvoll ist oder eine gerichtliche Eskalation unausweichlich wird. Dieses Skill verzahnt Methodik und Strategie für jeden dieser Schritte.
 
@@ -317,7 +314,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Das Ende eines Mandats ist methodisch genauso wichtig wie sein Beginn. Ein vollständiges Abschlussprodukt umfasst nicht nur das zentrale Rechtsdokument, sondern auch eine strukturierte Übergabe mit Risikohinweisen, offenen Folgeschritten und der Sicherung aller relevanten Unterlagen. Dieses Skill stellt sicher, dass kein Mandant ohne vollständige Aufklärung entlassen wird.
 
 ## Mandantenfall
@@ -408,7 +404,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Ein juristisches Gutachten ist erst dann methodisch vollständig, wenn es neben der eigenen Argumentation auch die stärksten Gegenargumente einbezieht und das Ergebnis mit einer klaren Risikoeinschätzung verbindet. Dieses Skill trainiert die Integration von Risikoampel und Gegenargumenten in den klassischen Gutachtenstil, sodass Mandanten informierte Entscheidungen treffen können.
 

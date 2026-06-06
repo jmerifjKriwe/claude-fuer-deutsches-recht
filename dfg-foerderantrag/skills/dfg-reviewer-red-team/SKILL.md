@@ -213,7 +213,6 @@ Reviewer respektieren das. Ein blinder Fleck dagegen wird kritisiert.
 
 Gutachterkriterien und Gewichtung sind in DFG-Quellen dokumentiert — vor Red-Team aktuelle Version prüfen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

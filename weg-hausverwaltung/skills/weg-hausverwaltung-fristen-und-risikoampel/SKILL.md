@@ -1,6 +1,6 @@
 ---
 name: weg-hausverwaltung-fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Weg Hausverwaltung: prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
+description: "Fristen- und Risikoampel im Plugin Weg Hausverwaltung im Weg Hausverwaltung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fristen- und Risikoampel

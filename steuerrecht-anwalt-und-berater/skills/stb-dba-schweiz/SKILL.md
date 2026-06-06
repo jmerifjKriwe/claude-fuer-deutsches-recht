@@ -13,7 +13,6 @@ description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelu
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschlands. Schwerpunkte sind die 60-Tage-Grenzgaengerregelung Art. 15a, Wegzugsfaelle nach § 6 AStG, schweizerische Pauschalbesteuerung (Forderungseinwendungen Deutschlands), Schachteldividenden mit § 8b KStG-Wechselwirkung, und Pensionen aus der zweiten und dritten Saeule. Die Schweiz ist Nicht-EU-Staat — MTRL und ZinsLizenzRL gelten nicht; nur DBA wirkt.

@@ -13,7 +13,6 @@ description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Rout
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Dieser Skill ist der Einstieg in alle DBA-Fälle, auch wenn es noch keinen länderspezifischen Einzel-Skill gibt. Er lädt bei Bedarf `references/dba-laendermatrix-2026.md`, bestimmt den Staat und zwingt danach zur konkreten DBA-Textprüfung.
@@ -116,7 +115,6 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 4. **Regionenrouter-Skill** als Pfad B nutzen.
 5. **All-Country-Memo-Generator** fuer das Memo selbst.
 6. **Querverweis auf relevante Querschnitts-Skills** (Methodenartikel, Quellensteuer, MAP).
-
 
 ## Qualitäts-Hardening
 

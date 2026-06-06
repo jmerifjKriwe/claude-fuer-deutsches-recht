@@ -13,7 +13,6 @@ description: "Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortpro
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem tarifgebundenen Metallbetrieb mit Betriebsrat ist falsch im ungebundenen Start-up mit 8 Mitarbeitern. Dieses Interview kartiert Ihren Fußabdruck: jedes Bundesland und jedes Land mit Mitarbeitern, Tarifbindung, Betriebsratssituation – und baut daraus eine Eskalationstabelle, die weiß, welche Regeln wo gelten.

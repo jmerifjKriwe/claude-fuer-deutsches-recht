@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Verfassungsrecht** benennt fehlende Dokumente, s
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Verfassungsrecht-Frage zwingend (Verfassungsbeschwerde, Antrag auf einstweilige Anordnung, Annahmebeschluss, BVerfGE-Entscheidung)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (§ 93 BVerfGG Verfassungsbeschwerde 1 Monat nach Rechtswegerschöpfung / 1 Jahr bei Gesetzen, § 32 BVerfGG einstweilige Anordnung), beweisrelevant, formerheblich.

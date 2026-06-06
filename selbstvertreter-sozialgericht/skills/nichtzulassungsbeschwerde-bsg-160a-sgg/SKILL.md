@@ -99,7 +99,6 @@ BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 
 Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

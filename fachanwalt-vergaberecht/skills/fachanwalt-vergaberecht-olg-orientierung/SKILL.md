@@ -97,7 +97,6 @@ Form: Beim OLG-Vergabesenat, beim Gericht der Vergabekammer; Beschwerdeschrift m
 ## Quellenregel
 BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und frei pruefbarer Quelle ueber dejure.org oder openjur.de zitieren.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -196,7 +195,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -315,7 +313,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Vertiefung: Leitsaetze und Output-Template
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -382,7 +379,6 @@ Mit freundlichen Gruessen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -454,7 +450,6 @@ Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist 
 
 ## Quellenregel
 EuGH- und OLG-Entscheidungen zur Sektorenabgrenzung ueber curia.europa.eu / dejure.org verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

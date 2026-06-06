@@ -13,7 +13,6 @@ description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Hold
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zur Ukraine. Praxisrelevant sind ukrainische IT-Branche (Outsourcing), Mittelstand, Pflege-Arbeitnehmer und Beteiligungen. **Seit Beginn der russischen Aggression Februar 2022** mit massiven Auswirkungen auf Mandate: Devisenkontrollen, eingeschraenkter Zahlungsverkehr, Sanktionen mit Bezug zu Russland, ukrainische Notgesetzgebung. EU-Beitrittskandidat seit 23.06.2022.

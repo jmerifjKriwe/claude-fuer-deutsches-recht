@@ -166,7 +166,6 @@ Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstre
 
 Stand: 05/2026. §§ 233 ff. ZPO unveraendert. BGH-Linie zur Eigenverantwortung stabil.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

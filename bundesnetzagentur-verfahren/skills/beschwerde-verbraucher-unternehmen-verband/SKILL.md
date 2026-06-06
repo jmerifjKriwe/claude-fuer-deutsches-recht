@@ -1,6 +1,6 @@
 ---
 name: beschwerde-verbraucher-unternehmen-verband
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
@@ -16,8 +16,6 @@ zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbr
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Dieser Skill steuert die Beschwerdearbeit bei der Bundesnetzagentur in den Rollen Verbraucher, Unternehmen und Verband. Die BNetzA betreibt eine Vielzahl gesetzlich angeordneter Beschwerde- und Schlichtungsstellen. Anwaltliche Praxis muss präzise zwischen formloser Beschwerde, Schlichtungsverfahren, Aufsichtsanzeige, Antrag auf Einleitung eines Beschlusskammerverfahrens und Auskunfts-Beschwerde unterscheiden. Anwendbar in: TK (Rufnummernmissbrauch, Rufnummernunterdrückung, Universaldienst, Endkundenrechte §§ 51 ff. TKG), Energie (Netzanschluss, Messstellen, Smart Meter), Post (Universaldienst, Postlaufzeiten), Eisenbahn (Diskriminierung Trassenzugang § 66 ERegG), DSA (Beschwerden gegen Plattformen).

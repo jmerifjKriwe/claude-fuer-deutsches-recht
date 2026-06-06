@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprach
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Einfache und Leichte Sprache Jura — Allgemein
 
 ## Schnellstart-Workflow
@@ -194,7 +192,6 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 - Gesetzesfassungen zum Stand-Datum
 - Regelwerk Leichte Sprache des Netzwerks Leichte Sprache (netzwerk-leichte-sprache.org)
 - WCAG 2.1 (Web Content Accessibility Guidelines)
-
 
 ## Qualitäts-Hardening
 

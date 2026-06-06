@@ -13,7 +13,6 @@ description: "DBA Deutschland Norwegen. Anwendungsfall Oel und Gas Offshore Schi
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) regelt insbesondere die Offshore-Branche (Nordsee-Oel und -Gas), Schifffahrt und Pensionen. Norwegen ist EWR-Mitglied (nicht EU) — Mutter-Tochter-Richtlinie und Zins-/Lizenz-Richtlinie sind **nicht** direkt anwendbar (aber teilweise durch EWR-Abkommen). Wegzugsbesteuerung wegen EWR-Status erleichtert moeglich.

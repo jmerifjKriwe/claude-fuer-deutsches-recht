@@ -5,7 +5,6 @@ description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleip
 
 # Kanzlei-Allgemein-Plugin Kaltstart
 
-
 ## Triage zu Beginn
 1. Handelt es sich um eine Ersteinrichtung oder ein Plugin-Reset (Profil loeschen und neu beginnen)?
 2. Welchen Kanzleityp haben wir: Einzelanwalt, Buerogemeinschaft, Sozietaet, PartG, GmbH, Rechtsabteilung?

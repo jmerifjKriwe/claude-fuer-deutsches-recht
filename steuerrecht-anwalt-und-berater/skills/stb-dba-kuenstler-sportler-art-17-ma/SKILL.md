@@ -13,7 +13,6 @@ description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Bes
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Einkuenfte aus persoenlich ausgeuebten kuenstlerischen oder sportlichen Taetigkeiten werden grundsaetzlich im **Auftrittsstaat** besteuert, unabhaengig von Ansaessigkeit und 183-Tage-Regel. Dies gilt auch fuer Zahlungen an dazwischengeschaltete Gesellschaften (Anti-"Star-Company"-Klausel). Praxisrelevant fuer Musiker, Schauspieler, Sportler, Sprecher, ggf. Influencer.

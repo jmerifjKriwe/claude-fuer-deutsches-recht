@@ -129,7 +129,6 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 
 Stand: 05/2026. § 517 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

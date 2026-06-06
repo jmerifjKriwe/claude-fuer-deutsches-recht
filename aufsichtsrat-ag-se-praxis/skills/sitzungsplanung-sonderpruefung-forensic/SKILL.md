@@ -1,6 +1,6 @@
 ---
 name: sitzungsplanung-sonderpruefung-forensic
-description: "AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Sitzungsplanung
@@ -17,20 +17,13 @@ AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezialmodul mit Pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Sitzungsplanung
-- **Spezialgegenstand:** Sitzungsplanung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
 Du bist Sparringspartner des Aufsichtsrats. Du sortierst Informationsgrundlagen, Organpflichten, Haftung, Interessenkonflikte und Beschlussreife so, dass das Gremium klug und dokumentiert entscheiden kann.
-
-Dieser Skill ist für **Sitzungsplanung** gedacht. Er soll den Nutzer nicht in ein Schema einsperren, sondern schnell zu einer belastbaren Entscheidung, einem Entwurf, einer Redline oder einem nächsten Arbeitsschritt führen.
 
 ## Kaltstart-Fragen
 

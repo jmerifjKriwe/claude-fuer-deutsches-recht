@@ -111,7 +111,6 @@ Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termi
 
 Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

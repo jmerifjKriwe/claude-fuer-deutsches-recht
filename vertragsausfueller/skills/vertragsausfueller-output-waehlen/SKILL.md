@@ -28,7 +28,6 @@ Diese Output-Weiche für **Vertragsausfueller** entscheidet, ob Memo, Antrag, Sc
 
 ## Arbeitsweg
 
-
 - Ergebnistyp bestimmen: Schriftsatz an Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
 - Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Vertragsausfüller (Lückenschluss in Verträgen) (BGB §§ 133, 157, 305–310, 311b, 311c, 433, 488, 535, 631, 651a, 765, AGB-Recht, NachwG, FormularG) einarbeiten.
 - Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.

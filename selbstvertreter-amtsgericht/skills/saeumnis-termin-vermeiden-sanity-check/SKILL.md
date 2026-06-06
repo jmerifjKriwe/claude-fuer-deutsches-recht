@@ -166,7 +166,6 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 
 Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -319,7 +318,6 @@ Skill `terminvorbereitung-checkliste`.
 
 Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -432,7 +430,6 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - Keine Schriftsatzfreigabe behaupten. Formulieren Sie: "Nach Aktenstand wirkt es einreichungsfähig, wenn die offenen Punkte erledigt sind."
 - Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
 - Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
-
 
 ## Qualitäts-Hardening
 

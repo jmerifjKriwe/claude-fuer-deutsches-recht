@@ -1,6 +1,6 @@
 ---
 name: kontrast-farbe-motion-responsive
-description: "Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kontrast, Farbe, Motion, Responsive
@@ -58,7 +58,6 @@ Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animati
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
 - Prioritaet und Nachweis fuer die Dokumentation.
-
 
 ## Qualitäts-Hardening
 

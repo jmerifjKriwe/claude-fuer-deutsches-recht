@@ -1,6 +1,6 @@
 ---
 name: see-016-hafenrecht-und-liegegeld
-description: "Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit
@@ -16,8 +16,6 @@ Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrun
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Exporteur streitet mit dem Reeder ob die Liegezeit begann als das Schiff die Reede erreichte oder erst beim Anlegen am Kai; 14 Wartetage stehen in Frage. Ein Charterer behauptet die NOR sei ungültig gewesen weil das Schiff noch keine Hafenerlaubnis hatte. Ein Reeder wird aus einem deutschen Hafen ausgesperrt weil ein Arrest gegen das Schiff besteht.
@@ -56,7 +54,6 @@ Ein Exporteur streitet mit dem Reeder ob die Liegezeit begann als das Schiff die
 - NOR-Wirksamkeitsprüfung Checkliste
 - Klagestrategiebaustein Demurrage vs. Gegenforderung
 
-
 ## Erweiterte Normengrundlage
 
 ### Hafenrecht
@@ -80,7 +77,6 @@ Ein Exporteur streitet mit dem Reeder ob die Liegezeit begann als das Schiff die
 - OLG Hamburg zur Berechnung von Demurrage bei GENCON-Charterparties.
 - BGH zur Haftung des Charterers für Hafengebühren; Weitergabeklauseln in Time-Charterns.
 - VG Hamburg zur Anfechtung von Hafenentgelten; Hafenordnung als Verwaltungsakt.
-
 
 ## Praxishinweis
 

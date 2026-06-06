@@ -158,7 +158,6 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

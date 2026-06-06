@@ -1,6 +1,6 @@
 ---
 name: see-006-schiffsverkauf-closing
-description: "Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffsverkauf Closing – Durchführung und Übergabe
@@ -16,8 +16,6 @@ Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein norddeutscher Schiffskapitalfonds veräußert einen Bulkcarrier an einen griechischen Käufer; das Closing soll in Piräus stattfinden; zwei Hypotheken sind abzulösen. Ein Verkäufer möchte die norwegische Saleform-MOA anwenden; deutsche Registerpflichten bestehen parallel. Ein Käufer besteht auf Lieferung mit frischer Klasse und gültigem MLC-Zertifikat.
@@ -56,7 +54,6 @@ Ein norddeutscher Schiffskapitalfonds veräußert einen Bulkcarrier an einen gri
 - Übergabe-Protokoll-Baustein (Delivery and Acceptance Certificate)
 - Ablösungsrechnung-Vorlage für Hypothekenbanken
 
-
 ## Erweiterte Normengrundlage
 
 ### Kaufrecht
@@ -82,7 +79,6 @@ Ein norddeutscher Schiffskapitalfonds veräußert einen Bulkcarrier an einen gri
 - BGH zur Wirksamkeit der NSF-Saleform-Klauseln nach deutschem Recht.
 - OLG Hamburg zur Simultanabwicklung (simultaneous closing) bei Schiffen.
 - BGH zur Haftung des Verkäufers nach Closing für gesetzliche Schiffsgläubigerrechte.
-
 
 ## Praxishinweis
 

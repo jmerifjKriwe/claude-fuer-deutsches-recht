@@ -144,7 +144,6 @@ Wenn ein Gutachter erscheint:
 
 Stand: 05/2026. Praxis-Hinweise.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

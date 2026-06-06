@@ -160,7 +160,6 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 
 Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -319,7 +318,6 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 
 Stand: 05/2026. Praxis-Skill.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -470,7 +468,6 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 33 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

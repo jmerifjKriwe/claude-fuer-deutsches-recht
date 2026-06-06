@@ -166,7 +166,6 @@ Pruefen Sie vor Klage:
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -303,7 +302,6 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG: 10.000 EUR seit 01.01.2026; Übergangsfälle und Sonderzuständigkeiten gesondert prüfen.
-
 
 ## Qualitäts-Hardening
 
@@ -454,7 +452,6 @@ Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Klaeger) bzw. B1, B2 (Beklagter) ist nicht gesetzlich vorgeschrieben, aber durchgaengig anerkannte Konvention der Gerichtspraxis.
-
 
 ## Qualitäts-Hardening
 

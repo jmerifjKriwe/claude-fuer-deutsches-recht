@@ -135,7 +135,6 @@ Stand: 05/2026.
 - IDW PS 480, IDW S 7.
 - BMF v. 28.11.2019 zu GoBD.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -116,7 +116,6 @@ Stand: 05/2026.
 - StBVV § 35.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

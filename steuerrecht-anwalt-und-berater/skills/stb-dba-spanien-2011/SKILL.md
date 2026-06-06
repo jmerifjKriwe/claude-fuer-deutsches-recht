@@ -13,7 +13,6 @@ description: "DBA Deutschland Spanien Neufassung 2011 in Kraft seit 2012. Anwend
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01.2013) loeste das DBA von 1966 ab und folgt OECD-MA 2010. Praxisrelevant sind Immobilieneinkuenfte (Mallorca, Costa del Sol — Mietobjekte deutscher Eigentuemer in Spanien), Wegzugsfaelle (Mallorca-Steuerflucht), Pensionen aus deutscher gesetzlicher Rente bei Wohnsitz Spanien, sowie Holding-Strukturen.

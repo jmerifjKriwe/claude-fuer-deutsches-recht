@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage
-description: "Widerspruch Klage im Versammlungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch Klage
@@ -58,7 +58,6 @@ Output: Rechtswegschema, Fristenplan, Eilantrag und Anlagenliste.
 - Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
 - Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
 
 ## Quellen- und Aktualitätsregel
 - Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.

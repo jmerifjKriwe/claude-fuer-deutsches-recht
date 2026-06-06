@@ -12,11 +12,9 @@ description: "Anfänger- und First-Year-Associate-Modus für Großkanzlei Corpor
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Anfänger-Modus / First-Year-Associate
-- **Spezialgegenstand:** Anfänger-Modus / First-Year-Associate; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Deal-PMO, Mandatsführung, Staffing, Billing und Kanzlei-Workflow**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -238,7 +236,6 @@ Setze ein klares Senior-Review-Gate bei:
 - Keine erfundenen Fundstellen, Closing Conditions, Registerstände oder Datenraumdokumente.
 - Bei Unsicherheit: Lücke klar benennen und den nächsten belegbaren Schritt vorschlagen.
 - Anfänger schützen: keine ungeprüfte E-Mail an Mandant, Gegenseite, Notar, Bank oder Behörde ausgeben, ohne Review-Gate.
-
 
 ## V61 Deal-OS Boost
 

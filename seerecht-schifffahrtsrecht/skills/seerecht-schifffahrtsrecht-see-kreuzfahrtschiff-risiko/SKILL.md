@@ -1,6 +1,6 @@
 ---
 name: seerecht-schifffahrtsrecht-see-kreuzfahrtschiff-risiko
-description: "Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben
@@ -16,8 +16,6 @@ Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charter
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Kreuzfahrtschiff-Flotte vor. Ein Finanzinvestor prüft den Kauf eines Kreditportfolios mit Kreuzfahrtschiff-Hypotheken. Ein Syndikat benötigt ein gemeinsames Risikodokument für alle Banken.
@@ -48,7 +46,6 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Kreuzfahr
 ## Output
 Risiko-Memo (Exekutivfassung) und Empfehlungsmatrix für Kreuzfahrtschiff oder grosses Fahrgastschiff.
 
-
 ## Vertiefung: Struktur des Risiko-Memos
 Ein hochwertiges Risiko-Memo enthält: (1) Zusammenfassung und Handlungsempfehlung (Executive Summary; max. 1 Seite); (2) Schiffsdaten und aktueller Schiffswert (mit Gutachterquelle und -datum); (3) Kreditstatus (Valutastand; Zinsen; Fälligkeiten; Default-Events); (4) Sicherheitenanalyse (Hypothekenrang; Verwertungserlös-Prognose); (5) Gläubigerrangfolge (gesetzliche Vorrechte; Hypotheken; ungesicherte Forderungen); (6) Risikoszenarien (Best Case; Base Case; Worst Case); (7) Maßnahmenplan mit Zeitlinie und Verantwortlichen.
 
@@ -57,7 +54,6 @@ Schiffswerte werden bestimmt durch: Chartermarkt (aktueller T/C-Äquivalent-Erl�
 
 ## Eskalationsweg und Zeitkritikalität
 Zeitkritische Maßnahmen müssen sofort eingeleitet werden: Arrest bei Fluchtgefahr (sofort); Versicherungsmeldung (binnen 24 Stunden); P&I-Kündigung verhindern (laufende Prämien beobachten); ISM-DOC-Ablauf prüfen (ohne DOC kein Hafenanlauf). Das Risiko-Memo soll diese Zeitlinie explizit darstellen damit Entscheidungsträger die Prioritäten erkennen.
-
 
 ## Checkliste Risiko-Memo
 - [ ] Schiffsdaten vollständig: IMO-Nummer; Flagge; Alter; BRZ; Schiffstyp; Klasse
@@ -82,7 +78,6 @@ Zeitkritische Maßnahmen müssen sofort eingeleitet werden: Arrest bei Fluchtgef
 - HGB §§ 611-617: Summenhaftung; Haftungsbeschränkung des Reeders; Limits nach LLMC 1976/1996.
 - ZPO §§ 864-871: Zwangsversteigerung; Mindestgebot; Erlösverteilung.
 - SchRG §§ 59-74: Rangfolge bei der Erlösverteilung nach Zwangsversteigerung.
-
 
 ## Vertiefung Risiko-Memo
 

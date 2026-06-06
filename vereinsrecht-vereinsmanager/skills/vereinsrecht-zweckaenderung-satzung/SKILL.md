@@ -1,6 +1,6 @@
 ---
 name: vereinsrecht-zweckaenderung-satzung
-description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Vereinsrecht Vereinsmanager: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zweckaenderung Satzung

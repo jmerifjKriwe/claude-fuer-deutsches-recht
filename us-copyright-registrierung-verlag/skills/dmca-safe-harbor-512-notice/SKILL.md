@@ -1,6 +1,6 @@
 ---
 name: dmca-safe-harbor-512-notice
-description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DMCA Safe Harbor § 512 Notice
@@ -17,14 +17,10 @@ Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notif
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: DMCA Safe Harbor § 512 Notice
-- **Spezialgegenstand:** DMCA Safe Harbor § 512 Notice. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -38,7 +34,6 @@ Dieser Skill macht aus dem Thema **DMCA Safe Harbor § 512 Notice** eine belastb
 - USCO DMCA Designated Agent Directory
 - Platform terms
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -48,20 +43,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Ist Notice ausreichend konkret?
 - Counter-notice risk?
 
-
 ## Workflow
 
 1. Provider role bestimmen.
 2. Notice formell prüfen.
 3. Repeat infringer and policy evidence sichern.
 
-
 ## Output
 
 - DMCA notice memo
 - Counter-notice checklist
 - OSP compliance gap list
-
 
 ## Tiefencheck für die Akte
 

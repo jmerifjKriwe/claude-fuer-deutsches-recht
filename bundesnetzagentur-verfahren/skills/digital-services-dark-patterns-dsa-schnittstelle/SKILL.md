@@ -1,6 +1,6 @@
 ---
 name: digital-services-dark-patterns-dsa-schnittstelle
-description: "Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle
@@ -16,8 +16,6 @@ Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren,
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Arbeit am Verbot manipulativer Schnittstellengestaltungen ("Dark Patterns") auf Online-Plattformen. Anwendbar in Konstellationen wie: irreführende Bestätigungsmuster bei Kündigung, asymmetrische Buttongröße ("Cookies akzeptieren" vs. "Ablehnen"), erschwerter Opt-Out, suggestive Voreinstellungen, FOMO-Banner, Drip-Pricing. Adressaten: BNetzA als DSC (Art. 25 DSA, § 22 DDG), Wettbewerbsbehörden, BfDI/Landesdatenschutzbehörden, Lauterkeitsgerichte. Der Skill steuert die parallele Strategie über DSA, UWG, DSGVO/TDDDG und ggf. DMA.

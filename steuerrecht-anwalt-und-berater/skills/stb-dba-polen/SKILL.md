@@ -13,7 +13,6 @@ description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeit
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), Beteiligungs- und Lizenzeinkuenfte sowie Pensionsleistungen. Polen ist EU-Mitglied — Mutter-Tochter-Richtlinie, Zins-/Lizenzgebuehren-Richtlinie und Fusionsrichtlinie sind ergaenzend anwendbar.

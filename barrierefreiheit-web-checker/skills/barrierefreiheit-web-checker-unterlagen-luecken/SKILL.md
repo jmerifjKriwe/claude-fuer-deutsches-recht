@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Barrierefreiheit Web Checker** benennt fehlende 
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Web-Barrierefreiheit-Frage zwingend (Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG), beweisrelevant, formerheblich.

@@ -142,7 +142,6 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 Stand: 05/2026. § 33 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

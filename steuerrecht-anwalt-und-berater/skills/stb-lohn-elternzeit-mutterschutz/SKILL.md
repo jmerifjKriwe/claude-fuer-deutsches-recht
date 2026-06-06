@@ -128,7 +128,6 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mutterschaftsgeld 13 EUR/Tag seit 1992 stabil), 1 ersetzt (BEEG-Einkommensgrenze 175.000 EUR ab 01.04.2024 eingesetzt) -->
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

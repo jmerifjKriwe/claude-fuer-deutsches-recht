@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-257c
-description: "Verstaendigung 257c im Plugin Strafzumessung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verstaendigung 257c

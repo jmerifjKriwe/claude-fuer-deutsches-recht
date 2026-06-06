@@ -100,7 +100,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

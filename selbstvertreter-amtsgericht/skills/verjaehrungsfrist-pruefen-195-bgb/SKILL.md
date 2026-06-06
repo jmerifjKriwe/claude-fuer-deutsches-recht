@@ -117,7 +117,6 @@ Schreiben Sie aus:
 
 Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung zur "Kenntnis und grob fahrlaessigen Unkenntnis" (§ 199 BGB).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

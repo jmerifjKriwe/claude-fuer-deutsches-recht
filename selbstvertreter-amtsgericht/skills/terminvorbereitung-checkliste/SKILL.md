@@ -143,7 +143,6 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

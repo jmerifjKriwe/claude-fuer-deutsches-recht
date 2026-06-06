@@ -13,7 +13,6 @@ description: "DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) regelt insbesondere Pendlersachverhalte im deutsch-daenischen Grenzbereich (Flensburg-Padborg-Toender), die Schifffahrt mit Anlandung in beiden Staaten, Pensionsleistungen aus der ATP (Arbejdsmarkedets Tillaegspension) und Beteiligungseinkuenfte aus daenischen Holding-Strukturen. Daenemark wendet eigene Schachtelvorschriften an und ist EU-Mitglied (MTRL anwendbar).

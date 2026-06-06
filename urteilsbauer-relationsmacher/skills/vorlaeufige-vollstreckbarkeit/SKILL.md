@@ -5,7 +5,6 @@ description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZP
 
 # Vorläufige Vollstreckbarkeit
 
-
 ## Triage zu Beginn
 
 1. Welcher Entscheidungstyp liegt vor — Endurteil, Versäumnisurteil, Anerkenntnisurteil, Beschluss?
@@ -83,7 +82,6 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
 - "Das Urteil ist vorläufig vollstreckbar."
 - Bei Schutzantrag: "Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 von hundert des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht der Kläger Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet."
-
 
 ---
 

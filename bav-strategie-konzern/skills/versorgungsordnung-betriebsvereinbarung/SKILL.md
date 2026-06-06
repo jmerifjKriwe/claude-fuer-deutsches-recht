@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-betriebsvereinbarung
-description: "Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Versorgungsordnung Betriebsvereinbarung im betriebliche Altersversorgung (bAV) im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Versorgungsordnung Betriebsvereinbarung

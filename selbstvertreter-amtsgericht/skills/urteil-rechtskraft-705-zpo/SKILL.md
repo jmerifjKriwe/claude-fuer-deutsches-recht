@@ -101,7 +101,6 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 
 Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

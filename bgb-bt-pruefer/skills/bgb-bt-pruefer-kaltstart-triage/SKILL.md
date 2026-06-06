@@ -36,8 +36,6 @@ Bei tragenden Normfragen `amtlicher-bgb-bt-normcheck` zuschalten; er nutzt den n
 - Beweis- und Lückenliste
 - Anschluss-Skill-Empfehlung
 
-
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/

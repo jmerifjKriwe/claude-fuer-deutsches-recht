@@ -95,7 +95,6 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - HGB § 257, AO § 147 (handels-/steuerrechtliche Aufbewahrung).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

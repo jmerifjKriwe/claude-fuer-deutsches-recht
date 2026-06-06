@@ -7,7 +7,6 @@ description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprach
 
 Dieses Fachmodul vor jeder Herausgabe.
 
-
 ## Triage zu Beginn
 1. In welchem Modus wurde der Text erstellt: Einfache Sprache oder Leichte Sprache?
 2. Fuer welche Zielgruppe und welches Medium ist der Text bestimmt?

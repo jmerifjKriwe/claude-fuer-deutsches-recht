@@ -6,11 +6,8 @@ description: "Prueft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß
 # Bankruptcy Red-Team Qualitygate
 
 ## Fachkern: Bankruptcy Red-Team Qualitygate
-- **Spezialgegenstand:** Bankruptcy Red-Team Qualitygate wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -24,7 +21,6 @@ Dieser Skill macht aus dem Thema **Bankruptcy Red-Team Qualitygate** eine belast
 - U.S. Courts official forms/rules
 - Local Rules live prüfen
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -34,20 +30,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Deadlines/fees/forms verified?
 - Is local counsel required?
 
-
 ## Workflow
 
 1. Output against chapter route prüfen.
 2. Stay and deadline red-team.
 3. Sources and uncertainty markieren.
 
-
 ## Output
 
 - Red-team report
 - Correction list
 - US-counsel escalation note
-
 
 ## Tiefencheck für die Akte
 

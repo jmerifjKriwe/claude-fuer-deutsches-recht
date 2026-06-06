@@ -159,7 +159,6 @@ Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / 
 
 Stand: 05/2026. SGB XI in aktueller Fassung. MD-Reform 2022 (Umbenennung MDK zu MD). Bei der Pflegegrad-Frage BSG-Linie u.a. zu Konstellation der Minutenrechnung pruefen in juris.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

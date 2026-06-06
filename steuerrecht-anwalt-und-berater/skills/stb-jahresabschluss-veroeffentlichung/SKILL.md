@@ -121,7 +121,6 @@ Stand: 05/2026.
 - BfJ-Verfahrensanweisungen zum Ordnungsgeldverfahren.
 - Unternehmensregister: www.unternehmensregister.de bzw. www.publikations-plattform.de.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

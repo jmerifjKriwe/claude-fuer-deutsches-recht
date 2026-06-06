@@ -48,7 +48,6 @@ Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest b
 - Erste-48h-Aktionsplan: Registerabfrage; Club-Meldung; Arreststrategie
 - Normpfad-Übersicht: welche HGB-/SchRG-Normen greifen
 
-
 ## Erweiterte Normengrundlage
 
 ### Registrierung und Identität

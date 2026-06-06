@@ -13,7 +13,6 @@ description: "DBA Deutschland Israel Neufassung 2014 in Kraft 21.5.2016. Anwendu
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, anwendbar ab 01.01.2017) ersetzte das DBA von 1962. Praxisrelevant sind Hightech- und IT-Branche (Israelische Startups und Software-Unternehmen), Beteiligungen, Software-Lizenzen, Pensionsfaelle (Aliyah deutscher Juden mit Wohnsitzverlagerung Israel) und Investmentstrukturen.

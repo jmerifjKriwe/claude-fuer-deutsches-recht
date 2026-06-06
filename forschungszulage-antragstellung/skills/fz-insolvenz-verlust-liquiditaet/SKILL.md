@@ -135,7 +135,6 @@ Praktisch wertvoll wird die Auszahlung bei:
 - BMF-Hinweise zur Forschungszulage.
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

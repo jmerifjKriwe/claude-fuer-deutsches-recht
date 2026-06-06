@@ -150,7 +150,6 @@ Frühere DFG-Schwellenwerte (etwa 100.000 Euro) sind nicht mehr aktuell und soll
 
 Die 200.000-Euro-Schwelle ist Ermessen der DFG, nicht Anspruch. Frühere 100.000-Euro-Werte nicht ungeprüft fortschreiben.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

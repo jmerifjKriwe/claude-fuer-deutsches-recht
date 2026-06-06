@@ -117,7 +117,6 @@ Stand: 05/2026.
 - LStR R 19.6, R 19.7.
 - BMF v. 13.04.2021 (Gutscheine).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

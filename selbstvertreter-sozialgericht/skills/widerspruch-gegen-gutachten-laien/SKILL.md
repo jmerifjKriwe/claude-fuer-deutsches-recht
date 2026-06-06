@@ -140,7 +140,6 @@ Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 
 Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

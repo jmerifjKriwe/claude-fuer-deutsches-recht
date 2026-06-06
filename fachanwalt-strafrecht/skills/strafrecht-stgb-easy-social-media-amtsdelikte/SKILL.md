@@ -283,7 +283,6 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - BVerfG-Rechtsprechung zur Polizeigewalt und Verhaeltnismaessigkeit (Art 2 II GG).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -635,7 +634,6 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -742,7 +740,6 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 - Paragraph 391 ff. ZPO Zeugenvereidigung im Zivilprozess.
 - BGH staendige Rspr. zur Voraussetzung wirksamer Vereidigung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 

@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Bereicherungs- und Anfe
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Bereicherungs- und Anfechtungsrecht-Prüfer — Allgemein
 
 ## Schnellstart-Workflow
@@ -303,7 +301,6 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 - BGB §§ 812 ff. in der geltenden Fassung
 - InsO §§ 129 ff. in der Fassung nach dem AnfRefG 2017
 - AnfG in der geltenden Fassung
-
 
 ## Qualitäts-Hardening
 

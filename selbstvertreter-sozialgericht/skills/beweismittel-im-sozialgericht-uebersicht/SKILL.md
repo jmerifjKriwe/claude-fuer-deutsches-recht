@@ -145,7 +145,6 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

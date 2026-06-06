@@ -13,7 +13,6 @@ description: "DBA Deutschland Rumaenien 2001. Anwendungsfall Automotive-Produkti
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1594) regelt Beziehungen zum EU-Mitglied Rumaenien (Beitritt 01.01.2007). Praxisrelevant sind Automotive-Produktion (Mercedes, Continental), IT-Branche, Pflege-Arbeitnehmer in Deutschland (24-Stunden-Pflege), Holding-Strukturen.

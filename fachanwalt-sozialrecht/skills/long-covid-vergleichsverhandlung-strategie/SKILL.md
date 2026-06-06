@@ -60,7 +60,6 @@ Erzeuge eine Funktionsmatrix `Symptom / objektivierbarer Befund / Alltagsfolge /
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage — kläre vor Sozialrechtsvergleich
 1. Ist ein gerichtlicher Vergleich (§ 101 SGG) möglich? Im Sozialrecht gilt Dispositionsprinzip eingeschränkt; Behörde ist an Gesetz gebunden (kein freier Vergleich über gesetzliche Ansprüche).
 2. Liegt ein Ermessensspielraum der Behörde vor (z.B. Kostensätze der Unterkunft, Zumutbarkeit)? Nur dort Vergleich durch Behörde möglich.
@@ -163,7 +162,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 3. **Mandantenfreigabe** vor Unterzeichnung schriftlich.
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
-
 
 ## Verhandlungs-Skripte
 

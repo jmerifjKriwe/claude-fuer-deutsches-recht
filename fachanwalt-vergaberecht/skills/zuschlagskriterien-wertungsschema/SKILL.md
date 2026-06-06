@@ -90,7 +90,6 @@ Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximal
 ## Quellenregel
 Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle ausgeben (dejure.org, openjur.de). EuGH-Entscheidungen ueber curia.europa.eu verifizieren.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -153,7 +152,6 @@ Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -218,7 +216,6 @@ Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -281,7 +278,6 @@ Anforderungstabelle, Neutralitaetscheck, Rugepunkte, Ueberarbeitungsvorschlag.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

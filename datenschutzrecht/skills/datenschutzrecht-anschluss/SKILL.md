@@ -40,8 +40,6 @@ description: "Anschluss im Datenschutzrecht: prüft konkret Einstieg, Schnelltri
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Datenschutzrecht — Allgemein
 
 ## Schnellstart-Workflow
@@ -264,7 +262,6 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 - TDDDG in der geltenden Fassung
 - Standardvertragsklauseln der EU-Kommission (2021/914)
 - EU-US Data Privacy Framework-Angemessenheitsbeschluss der EU-Kommission vom 10.07.2023 und offizielle DPF-Participant-Search.
-
 
 ## Qualitäts-Hardening
 

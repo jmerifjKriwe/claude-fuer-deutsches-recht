@@ -138,7 +138,6 @@ Sie koennen alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare 
 
 Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 106 SGG); falsche Antragsformulierung wird oft repariert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

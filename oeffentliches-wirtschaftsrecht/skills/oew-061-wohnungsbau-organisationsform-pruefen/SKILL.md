@@ -1,14 +1,13 @@
 ---
 name: oew-061-wohnungsbau-organisationsform-pruefen
-description: "Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform prüfen. Organisationsform prüfen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Wohnungsbau: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wohnungsbau Organisationsform Pruefen
 
 ## Arbeitsbereich
 
-Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform prüfen. Organisationsform prüfen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
+Spezialthema **Wohnungsbau Organisationsform Pruefen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,8 +15,6 @@ description: "Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform pr�
 - Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Arbeitsauftrag
 

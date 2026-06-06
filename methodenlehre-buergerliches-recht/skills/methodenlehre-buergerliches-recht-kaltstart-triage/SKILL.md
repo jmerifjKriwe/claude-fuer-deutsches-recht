@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerli
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Methodenlehre Buergerliches Recht — Allgemein
 
 ## Schnellstart-Workflow
@@ -179,7 +177,6 @@ Das Plugin enthält 20 Skills, gegliedert in fünf Blöcke. Für eine konkrete z
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
-
 
 ## Qualitäts-Hardening
 

@@ -71,7 +71,6 @@ Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhal
 - gesamtschuld-und-regress-bgb-bt
 - verjaehrung-bgb-bt-spezial
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/

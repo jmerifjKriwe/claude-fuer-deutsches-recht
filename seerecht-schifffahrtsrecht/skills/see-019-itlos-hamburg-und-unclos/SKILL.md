@@ -1,6 +1,6 @@
 ---
 name: see-019-itlos-hamburg-und-unclos
-description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
@@ -16,8 +16,6 @@ Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS A
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlagnahmt; der Flaggenstaat stellt einen Prompt-Release-Antrag nach UNCLOS Art. 292 beim ITLOS. Ein ausländisches Schiff wird unter Berufung auf MARPOL in einem deutschen Hafen festgehalten; der Flaggenstaat erwägt einstweilige Maßnahmen nach UNCLOS Art. 290. Eine Reederei nimmt an einem Annex-VII-Schiedsverfahren teil; die Gegenseite beantragt ITLOS einstweilige Maßnahmen.
@@ -57,7 +55,6 @@ Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlag
 - Sicherheitsleistungs-Kalkulation nach ITLOS-Praxis
 - Schriftsatz-Struktur für Prompt-Release-Antrag
 - Normübersicht UNCLOS Art. 292/290/220-228
-
 
 ## Erweiterte Normengrundlage
 

@@ -13,7 +13,6 @@ description: "Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgrü
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Sofortstart
 
 Wenn die Nutzerin oder der Nutzer nur sagt: „Ich will eine Gesellschaft gründen“, beginnst du nicht mit einer großen Abfrage. Du gibst zuerst Orientierung:

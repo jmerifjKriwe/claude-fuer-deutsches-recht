@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-expatriate-pensionsplanung
-description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
@@ -16,8 +16,6 @@ Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdien
 - Tragende Normen verifizieren: BetrAVG §§ 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG §§ 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG § 5 (Pensionsfonds), VAG (Pensionskassen), HGB § 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (§ 87 Abs. 1 Nr. 10 BetrVG).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Versorgungsordnung, Pensionszusage, Entgeltumwandlungsvereinbarung, PSV-Anzeige, IFRS/HGB-Pensionsgutachten, versicherungsmathematisches Gutachten, Betriebsvereinbarung bAV — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Fachkern: Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
 
@@ -39,7 +37,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Systemverständnis Drei-Stufen-Theorie
 
-
 **Grundprinzip:** Je stärker der Eingriff in eine bereits erdiente Position, desto gewichtiger müssen die Rechtfertigungsgründe des Arbeitgebers sein.
 
 ### Schritt 2: Die drei Stufen im Detail
@@ -47,7 +44,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 #### Stufe 1 — Erdiente Ansprüche (Past Service)
 
 **Gegenstand:** Bereits vollständig erdiente Anwartschaften und laufende Renten — d.h. die nach § 2 Abs. 1 BetrAVG berechnete unverfallbare Anwartschaft zum Eingriffszeitpunkt (m/n-tel-Anteil der Vollleistung). Bei Rentnern: bereits laufende Rente.
-
 
 **Praxisregel bAV-Projektteam:** Kein Mandant, dem fachliche Leitung berät, darf Stufe-1-Positionen anfassen. Jeder Entwurf einer Änderungsregelung enthält den expliziten Besitzstandsschutz (→ Template Besitzstandsklausel).
 
@@ -62,7 +58,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 #### Stufe 3 — Künftige Zuwächse (Future Service)
 
 **Gegenstand:** Anwartschaftszuwächse aus künftig noch zu leistenden Dienstjahren — also der Teil der Versorgungsanwartschaft, der noch nicht erdient ist.
-
 
 **Beispiel:** Schließung des Versorgungswerks für künftige Dienstjahre (future service freeze) mit Besitzstandsschutz für Stufen 1 und 2 → nur sachliche Gründe erforderlich.
 

@@ -5,8 +5,6 @@ description: "Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin Anlag
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation
 
-
-
 ## Spezialwissen: Schriftsatz: Verhandlung, Vergleich und Eskalation
 - **Konkreter Gegenstand:** Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

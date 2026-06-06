@@ -137,7 +137,6 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 
 Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Pruefen Sie im konkreten Fall mit Beratungsstelle.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

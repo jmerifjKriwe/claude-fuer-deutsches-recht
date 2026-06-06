@@ -8,7 +8,6 @@ description: "Kanzlei oder Behoerde will juristischen Text für normale Buerger 
 Dieses Fachmodul, wenn ein juristischer Text für ein allgemeines Publikum
 verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 
-
 ## Triage zu Beginn
 1. Welche Zielgruppe soll den Text lesen (allgemeines Publikum, Personen mit geringer Lesekompetenz, Verbraucher mit Behördenkontakt)?
 2. Welches Medium: Brief, Bescheid, Website, Formular, E-Mail?

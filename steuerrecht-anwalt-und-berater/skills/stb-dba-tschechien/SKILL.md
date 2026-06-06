@@ -13,7 +13,6 @@ description: "DBA Deutschland Tschechien aus 1980 fortgeltend gegenüber Nachfol
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982 II S. 1022) und gilt gegenueber Tschechien als Nachfolgestaat fort (Bekanntmachung BGBl. 1993 II S. 762). In Kraft 17.11.1983. Praxisrelevant sind Arbeitnehmerentsendungen (insbesondere Automotive- und Maschinenbau-Zulieferketten in Bayern und Sachsen), Bauausfuehrungen und Beteiligungseinkuenfte mit EU-MTRL-Wirkung. MLI wirksam ab 01.01.2026 (BGBl. 2025 II Nr. 179).

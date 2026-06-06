@@ -169,7 +169,6 @@ Stand: 05/2026.
 - DSGVO Art. 13, 28.
 - DStV-Praxisleitfaden Mandantenaufnahme.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

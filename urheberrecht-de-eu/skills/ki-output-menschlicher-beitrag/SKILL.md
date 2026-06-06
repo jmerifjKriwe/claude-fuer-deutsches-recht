@@ -6,11 +6,9 @@ description: "Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt
 # KI-Output und menschlicher Beitrag
 
 ## Fachkern: KI-Output und menschlicher Beitrag
-- **Spezialgegenstand:** KI-Output und menschlicher Beitrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -30,7 +28,6 @@ Dieser Skill hilft bei ersetzt die pauschale KI-Debatte durch eine Beweisprüfun
 - KI-VO Art. 53
 - DSM-RL Art. 4
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -39,7 +36,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - War das Ergebnis durch Tool, Prompt oder Zufall determiniert?
 - Welche Zwischenstände, Promptlogs, Edits, MIDI-Noten, Mixentscheidungen und Versionen gibt es?
 - Wird Schutz am Output, an Auswahl/Anordnung oder an späterer Bearbeitung beansprucht?
-
 
 ## Prüflogik
 
@@ -58,7 +54,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - KI-Schöpfungsbeitragsprotokoll
 - Beweislog mit Hashes und Versionen
 - Risikoformulierung für Vertrag, Verlag oder Plattform
-
 
 ## Qualitätsfilter
 

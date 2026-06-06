@@ -1,6 +1,6 @@
 ---
 name: db-033-datenbankrecht-und-text-and-data-mining-schranken
-description: "Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer im Datenbankrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Text- und Data-Mining-Schranken im Datenbankrecht — §§ 44b und 60d UrhG
@@ -16,8 +16,6 @@ Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schr
 - Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 

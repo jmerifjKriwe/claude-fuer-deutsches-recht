@@ -91,7 +91,6 @@ Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
 - Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.
 - Kommentar-, Handbuch- und Aufsatzfundstellen nur, wenn der Mandant die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

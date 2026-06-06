@@ -157,7 +157,6 @@ Frist: [DATUM]
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -299,7 +298,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - EuGH C-40/17 (Fashion ID) – verifiziert.
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -459,7 +457,6 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - BSI C5:2020.
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

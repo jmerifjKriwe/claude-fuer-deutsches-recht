@@ -236,7 +236,6 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 ## Prüfschema Einstweiliger Rechtsschutz
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -299,7 +298,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Eilrechtsschutz erfolglos war Hauptsache laeuft | Hauptsacheklage parallel weiter fuehren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -457,7 +455,6 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
@@ -514,7 +511,6 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 
 - **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Prüffeld für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
-
 
 ## Zweck
 

@@ -7,7 +7,6 @@ description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Inte
 
 Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf) ist ein direkt anwendbares Einheitskaufrecht und geht dem IPR vor, soweit es eingreift.
 
-
 ## Triage zu Beginn
 
 1. Sind beide Parteien Kaufleute mit Niederlassung in verschiedenen Vertragsstaaten des CISG?

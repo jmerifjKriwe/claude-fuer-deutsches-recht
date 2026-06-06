@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-nigeria-competition-authority
-description: "Jurisdiktionsskill Nigeria: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Jurisdiktionsskill Nigeria: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Jurisdiktion Nigeria: Competition Authority Check
@@ -17,10 +17,7 @@ Jurisdiktionsskill Nigeria: ermittelt und prüft die zuständige Wettbewerbsbeh�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Jurisdiktionskern: Jurisdiktion Nigeria: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Nigeria: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
 - **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
 - **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
 - **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
@@ -41,7 +38,6 @@ Jurisdiktionsskill Nigeria: ermittelt und prüft die zuständige Wettbewerbsbeh�
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
 
 ## Spezielle Leitplanken
 

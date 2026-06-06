@@ -120,7 +120,6 @@ Bei Einschreiben:
 
 Stand: 05/2026. Standard-Beweispraxis.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

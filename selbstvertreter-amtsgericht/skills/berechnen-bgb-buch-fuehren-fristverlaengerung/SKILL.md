@@ -160,7 +160,6 @@ In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als 
 
 Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -442,7 +441,6 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 224, 225 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

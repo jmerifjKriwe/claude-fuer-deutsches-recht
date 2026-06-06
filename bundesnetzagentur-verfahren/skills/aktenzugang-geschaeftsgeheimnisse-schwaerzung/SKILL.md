@@ -1,6 +1,6 @@
 ---
 name: aktenzugang-geschaeftsgeheimnisse-schwaerzung
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur
@@ -16,8 +16,6 @@ zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Gesc
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Dieser Skill steuert die anwaltliche Arbeit am Schnittpunkt von Akteneinsicht und Geheimnisschutz in Verfahren der Bundesnetzagentur (BNetzA). Typische Konstellationen: Antrag eines Wettbewerbers auf Einsicht in die Marktanalyse- oder Entgeltakte einer Beschlusskammer; Verlangen der BNetzA, Kostendaten oder Vertragsentwürfe vorzulegen; Streit über die Reichweite der Schwärzung im Tenor oder in den Anlagen eines Beschlusses; Konflikt zwischen § 29 VwVfG, § 71 TKG, § 71 EnWG, § 67 PostG, § 75 ERegG und §§ 17 ff. GeschGehG. Der Skill ist auf alle Sektoren der BNetzA anwendbar (TK, Energie, Post, Eisenbahn, Digital Services).

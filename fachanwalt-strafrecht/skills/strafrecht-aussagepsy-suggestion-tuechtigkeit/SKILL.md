@@ -893,7 +893,6 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 - Zitierregeln siehe `references/zitierweise.md`.
 - Bei jeder konkreten Fundstelle: Verifizierung in lizenzierten Datenbanken oder amtlichen Quellen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

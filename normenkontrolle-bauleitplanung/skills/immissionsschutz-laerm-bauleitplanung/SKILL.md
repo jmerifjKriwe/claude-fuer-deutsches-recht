@@ -11,7 +11,6 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Orientierungswerte (in dB(A))
@@ -224,7 +223,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Betroffener ist Gewerbetreibender selbst | Eigene Emittenten-Stellung beachten; defensivere Argumentation |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Lärm-Rüge im Schriftsatz
 

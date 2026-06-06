@@ -233,7 +233,6 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
 - VO (EU) 608/2013 (Produktpiraterieverordnung) fuer Zollverfahren; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -675,7 +674,6 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -885,7 +883,6 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - Fahrerlaubnis-Verordnung (FeV) zur Eignungsbegutachtung.
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -990,7 +987,6 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -1087,7 +1083,6 @@ Aufbewahrungspflichten: 10 Jahre fuer Handelsbuecher, Inventare, Eroeffnungsbila
 - Paragraph 264 HGB Pflicht zur Aufstellung des Jahresabschlusses bei Kapitalgesellschaften.
 - BGH staendige Rspr. zur Subsidiaritaet des Paragraph 283b StGB gegenueber Paragraph 283 Abs 1 Nr 5 bis 7 StGB.
 - BGH staendige Rspr. zur Dauerstraftat bei fortlaufender Unterlassung der Buchfuehrung.
-
 
 ## Qualitäts-Hardening
 

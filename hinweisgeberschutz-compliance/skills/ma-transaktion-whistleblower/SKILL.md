@@ -1,6 +1,6 @@
 ---
 name: ma-transaktion-whistleblower
-description: "Steuert Whistleblower-Risiken in Transaktionen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Steuert Whistleblower-Risiken in Transaktionen im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Ma Transaktion Whistleblower
@@ -16,8 +16,6 @@ Steuert Whistleblower-Risiken in Transaktionen. Die Prüfung konzentriert sich a
 - Tragende Normen verifizieren: HinSchG §§ 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG § 84, BDSG § 26, DSGVO Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Wofür dieser Arbeitsgang da ist
 Disclosure, Warranty, Indemnity, Investigation, Signing/Closing und Post-Closing-Remediation.

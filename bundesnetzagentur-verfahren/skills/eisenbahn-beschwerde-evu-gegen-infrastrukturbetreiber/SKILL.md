@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber
-description: "Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
@@ -16,8 +16,6 @@ Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfa
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) oder eines Zugangsberechtigten gegen ein Eisenbahninfrastrukturunternehmen (EIU) bei der Bundesnetzagentur nach § 66 ERegG. Typische Streitgegenstände: Diskriminierung beim Trassenzugang, beim Zugang zu Serviceeinrichtungen, beim Stationszugang, in den Schienennetz-Benutzungsbedingungen, bei Entgelten und Bonus-Malus-Anwendung. Adressat ist die BNetzA als Regulierungsstelle Eisenbahn (Spartenkammer für Eisenbahn nach BNetzAG; konkrete BK-Bezeichnung vom Anwender zu verifizieren).

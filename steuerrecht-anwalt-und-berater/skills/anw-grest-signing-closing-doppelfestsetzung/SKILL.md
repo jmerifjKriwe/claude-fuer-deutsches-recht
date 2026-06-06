@@ -51,7 +51,6 @@ Nicht blind "keine GrESt" schreiben. Besser:
 
 Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der aktuelle Stand ist differenziert und verfahrensabhängig.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

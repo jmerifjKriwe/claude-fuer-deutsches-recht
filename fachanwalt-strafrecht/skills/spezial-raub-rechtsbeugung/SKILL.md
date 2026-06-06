@@ -342,7 +342,6 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 - Paragraph 7 BRAO Sperre als Anwalt.
 - BVerfG staendige Linie zur Schutzwirkung der richterlichen Unabhaengigkeit (Art 97 GG).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -448,7 +447,6 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 - Paragraph 826 BGB sittenwidrige Schaedigung als zivilrechtliches Spiegelbild.
 - BGH staendige Rspr. zur Kenntnis als Voraussetzung (positives Wissen, nicht Eventualvorsatz).
 - BGH staendige Rspr. zur Abgrenzung Paragraph 283d StGB vs. Beihilfe nach Paragraph 27 StGB.
-
 
 ## Qualitäts-Hardening
 
@@ -1109,7 +1107,6 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 - Paragraph 73 StGB Einziehung; Paragraph 73c StGB Wertersatz.
 - Paragraph 53 AufenthG Ausweisung bei Auslaendern.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 

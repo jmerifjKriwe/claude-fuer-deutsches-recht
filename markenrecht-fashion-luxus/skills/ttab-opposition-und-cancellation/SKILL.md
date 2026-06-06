@@ -1,6 +1,6 @@
 ---
 name: ttab-opposition-und-cancellation
-description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # TTAB — Trademark Trial and Appeal Board
@@ -17,14 +17,10 @@ TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: TTAB — Trademark Trial and Appeal Board
-- **Spezialgegenstand:** TTAB — Trademark Trial and Appeal Board; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Das TTAB ist das quasi-gerichtliche Verwaltungsgericht des USPTO für Markenstreitigkeiten. J. Halston Whitman III, Esq. (Whitman Brennan Forsythe LLP, USD 1.450/h) vertritt klôtzzkètté Inc. vor dem TTAB; Steinacker Lichtenberg München koordiniert die europäische Prior-Rights-Dokumentation und strategische Positionierung.
 
@@ -172,7 +168,6 @@ Bevor die Opposition eingelegt wird, klaere:
 > **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.
-
 
 ## Qualitäts-Hardening
 

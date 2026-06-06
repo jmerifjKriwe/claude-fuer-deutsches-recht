@@ -24,7 +24,6 @@ Dieser Skill hilft bei führt vom ersten Dokument oder Satz in die richtige Prü
 - Software-RL 2009/24/EG
 - KI-VO Art. 53 für GPAI-Urheberrechtspflichten
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -33,7 +32,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Geht es um Schutzfähigkeit, Rechtekette, Nutzungserlaubnis, Schranke, Abmahnung, Beweis oder Vertragsgestaltung?
 - Welches Material liegt vor: Text, Musik, Tonaufnahme, Code, Promptlog, Lizenz, Screenshot, Vertrag, Metadaten?
 - Welche Frist, Veröffentlichung, Plattformmaßnahme oder Verhandlung läuft?
-
 
 ## Prüflogik
 
@@ -52,7 +50,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Routing-Memo mit 3 bis 7 Anschluss-Skills
 - Dokumenten- und Beweisnachforderung
 - Risikoampel und nächster belastbarer Arbeitsschritt
-
 
 ## Qualitätsfilter
 

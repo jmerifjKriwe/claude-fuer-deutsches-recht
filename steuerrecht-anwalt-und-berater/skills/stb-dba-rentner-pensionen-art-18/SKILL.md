@@ -13,7 +13,6 @@ description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzel
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht fuer Ruhegehaelter aus frueherer unselbstaendiger Taetigkeit. Bei oeffentlichem Dienst (Art. 19) regelmaessig Kassenstaat (zahlender Staat). Viele DBA enthalten Sonderregelungen: gesetzliche Sozialversicherungsrenten teils Kassenstaat-Prinzip, betriebliche Renten teils Wohnsitzstaat, Schwellenbetraege (z.B. DBA-Niederlande, DBA-Schweiz). Praxisrelevant fuer ausgewanderte Rentner (Mallorca, Algarve, Tuerkei, Schweiz, Oesterreich) und im Ausland erworbene Renten bei Wohnsitz Deutschland.

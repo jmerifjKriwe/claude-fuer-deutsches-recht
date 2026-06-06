@@ -126,7 +126,6 @@ Stand: 05/2026.
 - StBerG § 33.
 - EStG § 37.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: see-charterparty-local-closing-planen
-description: "Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Charterparty – Local Counsel instruieren
@@ -16,8 +16,6 @@ Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfrag
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Gechartertes Seeschiff unter Charterparty liegt in einem ausländischen Hafen; lokaler Arrest ist erforderlich. Eine Hypothekenbank braucht Auskunft zur Vollstreckbarkeit ihrer deutschen Sicherheit im Ausland. Ein P&I-Club braucht nach Unfall lokale Rechtsvertretung für das Gechartertes Seeschiff unter Charterparty.
@@ -48,7 +46,6 @@ Ein Gechartertes Seeschiff unter Charterparty liegt in einem ausländischen Hafe
 ## Output
 Local-Counsel-Briefing für Gechartertes Seeschiff unter Charterparty und Prioritätenliste.
 
-
 ## Vertiefung: Netzwerk-Aufbau und Koordination
 P&I-Clubs unterhalten weltweit Netzwerke von Korrespondenten und Local Counsel (LoC). Bei Arrestsachen ist der LoC am Liegeplatz des Schiffes entscheidend; er kennt lokale Verfahrensvorschriften und Richter. Bei Vollstreckungsurteilen ist der LoC im Staat des zu vollstreckenden Urteils zuständig. Für EU-Staaten erleichtert die EuGVVO 2012 die Anerkennung.
 
@@ -57,7 +54,6 @@ Ein effektives LoC-Briefing enthält: Kurzdarstellung des Sachverhalts (max. 2 S
 
 ## Kostenkontrolle und Abrechnung
 LoC-Anwälte rechnen nach nationalem Recht ab: in England nach Stundensätzen; in Deutschland nach RVG oder Stundensatz. Vorab Kostenvoranschlag und Budgetgenehmigung einholen. P&I-Club trägt die Anwaltskosten in der Regel; vorher Freigabe bestätigen lassen (Club Approval).
-
 
 ## Checkliste Local-Counsel-Beauftragung
 - [ ] Local Counsel ausgewählt (Empfehlung P&I-Club-Korrespondent)
@@ -80,7 +76,6 @@ LoC-Anwälte rechnen nach nationalem Recht ab: in England nach Stundensätzen; i
 - UNCLOS Art. 292: Prompt Release; Schiff und Crew freizulassen gegen angemessene Sicherheit.
 - ZPO §§ 722-723: Vollstreckbarerklärung ausländischer Urteile in Deutschland.
 - Anerkennungs- und Vollstreckungsausführungsgesetz (AVAG): nationale Umsetzung EuGVVO.
-
 
 ## Vertiefung Local Counsel
 

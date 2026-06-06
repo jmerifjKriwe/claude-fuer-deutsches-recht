@@ -161,7 +161,6 @@ So sollte eine fertige Anlage K1 aussehen:
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -152,7 +152,6 @@ Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt 
 
 Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -302,7 +301,6 @@ Wenn Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 274 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

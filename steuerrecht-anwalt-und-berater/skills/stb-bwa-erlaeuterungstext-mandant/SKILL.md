@@ -142,7 +142,6 @@ Stand: 05/2026.
 - StGB § 266a.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

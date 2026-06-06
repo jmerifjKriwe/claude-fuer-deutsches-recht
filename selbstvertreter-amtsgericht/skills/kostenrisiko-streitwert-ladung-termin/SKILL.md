@@ -266,7 +266,6 @@ Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termi
 
 Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -419,7 +418,6 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch fuer Selbstvertreter geeignet.
-
 
 ## Qualitäts-Hardening
 

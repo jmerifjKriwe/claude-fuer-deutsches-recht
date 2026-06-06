@@ -1,6 +1,6 @@
 ---
 name: beschreibung-zeichnungen-einspruch-epa-epo
-description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschreibung und Zeichnungen prüfen
@@ -16,8 +16,6 @@ Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele e
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Prüfpunkte
 
@@ -54,7 +52,6 @@ Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele e
 - **Klarheit Anspruch (Art. 84 EPÜ):** "Unmittelbar und eindeutig" entnehmbar; vage Begriffe wie "im Wesentlichen", "etwa" prüfen.
 - **Zeichnungen:** Bezugszeichen konsistent mit Beschreibung; nur als Erläuterung, nicht zur Anspruchsbegrenzung.
 - Tipp: Bei mehreren Ausführungsbeispielen Unteransprüche entsprechend gestaffelt anlegen — gibt im Einspruch/Nichtigkeitsverfahren Rückzugsposition.
-
 
 ## Qualitäts-Hardening
 

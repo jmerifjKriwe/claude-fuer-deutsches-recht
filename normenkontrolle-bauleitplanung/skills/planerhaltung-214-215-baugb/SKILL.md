@@ -11,7 +11,6 @@ description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Un
 
 ## Schritt 1 — § 214 Abs. 1 BauGB Verfahrens- und Formfehler
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Abschließende Liste beachtlicher Fehler
@@ -198,7 +197,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Plan noch nicht in Kraft getreten Ruege praematuer | Abwarten; Ruege erst nach Bekanntmachung des Plans |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template § 215 BauGB Rügeschreiben
 

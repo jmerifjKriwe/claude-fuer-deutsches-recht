@@ -1,6 +1,6 @@
 ---
 name: erklaerung-feedback-durchsetzung
-description: "Erstellt Barrierefreiheitserklärung, Feedbackmechanismus, Durchsetzungs- und Behördenreaktion. Trennt öffentliche Stellen, BFSG-relevante Dienste und freiwillige Erklärungen. Output: Erklärung, Antwortbrief oder Maßnahmenvermerk: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Erstellt Barrierefreiheitserklärung, Feedbackmechanismus, Durchsetzungs- und Behördenreaktion. Trennt öffentliche Stellen, BFSG-relevante Dienste und freiwillige Erklärungen. Output: Erklärung, Antwortbrief oder Maßnahmenvermerk im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Erklärung, Feedback, Durchsetzung
@@ -59,7 +59,6 @@ Vielen Dank für den Hinweis. Wir haben die gemeldete Barriere unter der Vorgang
 - Norm-/Kriteriumsbezug.
 - Konkreter Fix.
 - Prioritaet und Nachweis fuer die Dokumentation.
-
 
 ## Qualitäts-Hardening
 

@@ -199,7 +199,6 @@ Re-assess on triggers:
 - Commission Implementing Decision (EU) 2023/1795 of 10 July 2023 (EU-US DPF).
 - Articles 44–49 GDPR.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -328,7 +327,6 @@ Hinweisbaustein im TIA-Schritt 2:
 - EU-Kommission, Erster Review des EU-US DPF (Sommer 2024) – Verifikation am amtlichen Bericht.
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
-
 
 ## Qualitäts-Hardening
 
@@ -540,7 +538,6 @@ Kurzvermerk-Baustein fuer das TIA:
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -661,7 +658,6 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Empfehlung 02/2020 vom 10.11.2020 (EEG).
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
-
 
 ## Qualitäts-Hardening
 

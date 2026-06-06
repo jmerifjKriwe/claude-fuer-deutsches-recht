@@ -225,7 +225,6 @@ Stehende BGH-Linien zur Bauablaufstoerung (Aktenzeichen vor Ausgabe ueber dejure
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
 | 1 | Behinderungstatbestand vorhanden? (Störungsursache, Datum, Dauer) | § 6 Abs. 1 VOB/B | Grundlage für Anzeige |
@@ -433,7 +432,6 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 
@@ -690,7 +688,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` — bei InsO-Anfechtung
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Mangel-Konstellation
 
-
 <!-- AUDIT 27.05.2026 bundle_055
 Halluzinations-Reparatur: BGH VII ZR 141/18 (NOT_FOUND) geloescht.
 Kein Ersatz gefunden: Kein BGH-Urteil mit diesem Aktenzeichen auf dejure.org
@@ -863,7 +860,6 @@ Verifizierbare Eckentscheidungen:
 - BGH 02.06.2022, VII ZR 174/19 — Mindestsaetze in HOAI-2013-Altvertraegen weiter anwendbar (https://www.bundesgerichtshof.de Pressemitteilung 86/2022)
 
 Weitere konkrete Aktenzeichen vor Ausgabe immer per dejure.org / bundesgerichtshof.de verifizieren.
-
 
 ## Quellenregel
 

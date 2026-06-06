@@ -41,7 +41,6 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Verfassungsrechtliche Fragen sind selten auf den ersten Blick als solche erkennbar — und noch seltener von Mandanten als entscheidungsrelevant wahrgenommen. Dieses Skill trainiert die Fähigkeit, verfassungsrechtliche Dimensionen eines Mandats für Laien verständlich aufzubereiten und in eine Entscheidungsvorlage zu übersetzen, die dem Mandanten eine informierte Wahl ermöglicht.
 
 ## Mandantenfall
@@ -132,7 +131,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Wer nur die eigene Argumentation kennt, ist im Prozess überrumpelbar. Das Red-Team-Prinzip aus der Sicherheitsanalyse überträgt sich methodisch auf die juristische Qualitätskontrolle: Die eigene Position wird so hart wie möglich angegriffen, bevor der Gegner es tut. Dieses Skill gibt eine strukturierte Anleitung für diese kritische Selbstreflexion.
 
@@ -227,7 +225,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die systematische Auslegung fragt: Wo steht die Norm im Gesetz, und wie verhaelt sie sich zu den Nachbarnormen? Sie nutzt die Architektur des Gesetzbuchs als Bedeutungsquelle. Bei Savigny umfasste sie das "logische" und das "systematische" Element zugleich; heute werden beide unter "Systematik" gefuehrt.
@@ -308,7 +305,6 @@ Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das Syste
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -330,7 +326,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Juristische Begriffe tragen scheinbar klare Bedeutungen, die bei näherer Betrachtung häufig mehrschichtig, mehrdeutig oder kontextabhängig sind. "Eigentum", "Besitz", "Schaden", "Kausalität" — jeder dieser Begriffe enthält methodische Fallstricke, die bei unvorsichtiger Verwendung zu falschen Subsumtionsergebnissen führen. Dieses Skill trainiert die kritische Begriffsanalyse als methodisches Schutzinstrument.
 
@@ -423,7 +418,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Niklas Luhmann (1927-1998) hat in seinem Lebenswerk eine umfassende Theorie sozialer Systeme entwickelt. Recht ist nach Luhmann ein "operativ geschlossenes autopoietisches System" — es prozessiert seine eigenen Operationen (Rechtsakte) ueber den binaeren Code "Recht / Unrecht".
@@ -512,7 +506,6 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - §§ 138, 145 ff., 242, 280, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

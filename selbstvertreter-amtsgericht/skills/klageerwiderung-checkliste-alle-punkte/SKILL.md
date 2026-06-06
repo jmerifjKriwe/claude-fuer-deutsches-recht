@@ -200,7 +200,6 @@ Vor Versand:
 
 Stand: 05/2026. § 138 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -125,7 +125,6 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
 Stand: 05/2026. § 55 SGG aktuell.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

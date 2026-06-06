@@ -134,7 +134,6 @@ Stand: 05/2026.
 - Schweitzer/Kuepper, Systeme der Kostenrechnung (Standardlehrbuch).
 - Coenenberg, Kostenrechnung und Kostenanalyse.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

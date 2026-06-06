@@ -1,6 +1,6 @@
 ---
 name: dublin-ueberstellung
-description: "Dublin Ueberstellung im Migrationsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dublin Ueberstellung
@@ -26,7 +26,6 @@ description: "Dublin Ueberstellung im Migrationsrecht: fachlicher Arbeitsgang mi
 ## 1. `spezial-dublin-fristen-ueberstellung`
 
 **Fokus:** Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht; prüft Aufnahme-/Wiederaufnahme, Überstellungsfrist, Kirchenasyl, Aussetzung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
-
 
 # Dublin-Fristen/Überstellung
 

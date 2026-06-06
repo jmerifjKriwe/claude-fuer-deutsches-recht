@@ -107,7 +107,6 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

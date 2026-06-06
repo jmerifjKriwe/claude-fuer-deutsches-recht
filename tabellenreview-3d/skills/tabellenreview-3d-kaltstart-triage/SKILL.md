@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugi
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Tabellenreview 3D — Allgemein
 
 ## Schnellstart-Workflow
@@ -225,7 +223,6 @@ Das Ergebnis wird als Excel-Datei mit mehreren Arbeitsblaettern exportiert, enth
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
-
 
 ## Qualitäts-Hardening
 

@@ -60,7 +60,6 @@ Erstelle:
 
 Keine "gefühlten" Flächenwerte als feststehend ausgeben. Bei streitiger Wohnfläche immer Belege oder Messung verlangen. Rechtsprechung nur aus geöffneten freien Quellen zitieren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

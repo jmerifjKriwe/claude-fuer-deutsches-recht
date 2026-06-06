@@ -116,7 +116,6 @@ Ergebnisse verwendbar für:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Rote Schwellen
 
 - Nicht verifizierte Fundstelle → als UNVERIFIED markieren; nicht in Schriftsatz oder Board Paper verwenden.

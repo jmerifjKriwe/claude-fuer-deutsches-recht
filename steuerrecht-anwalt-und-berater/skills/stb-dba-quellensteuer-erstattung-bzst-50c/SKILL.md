@@ -13,7 +13,6 @@ description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt fü
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) muessen bei Zahlungen ins Ausland Quellensteuer einbehalten und an das Finanzamt bzw. das BZSt abfuehren (§§ 43 ff. EStG, § 50a EStG, § 50c EStG). Im Geltungsbereich eines DBA hat der auslaendische Empfaenger das Recht auf Entlastung — vorab (Freistellungsbescheinigung) oder rueckwirkend (Erstattungsantrag). Dieser Skill fuehrt durch das BZSt-Verfahren und beachtet Anti-Missbrauchsregelungen § 50d Abs. 3 EStG und § 50j EStG.

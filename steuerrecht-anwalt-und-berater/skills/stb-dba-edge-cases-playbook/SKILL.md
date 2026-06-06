@@ -13,7 +13,6 @@ description: "DBA-Edge-Case-Playbook für realistische Sonderlagen: doppelte Ans
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fälle, bei denen DBA-Antworten oft schiefgehen
 
 1. **Doppelte Ansässigkeit:** Person mit Wohnung in zwei Staaten oder Gesellschaft mit Sitz und Geschäftsleitung in verschiedenen Staaten.
@@ -131,7 +130,6 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 - `stb-dba-map-eu-streitbeilegung` — bei Doppelbesteuerung.
 - `stb-dba-rentner-pensionen-art-18` — Pension-Edge-Cases.
 - `stb-dba-kuenstler-sportler-art-17-ma` — Kuenstler/Sportler-Edge-Cases.
-
 
 ## Qualitäts-Hardening
 

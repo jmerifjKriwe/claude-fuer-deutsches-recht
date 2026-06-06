@@ -154,7 +154,6 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 
 Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

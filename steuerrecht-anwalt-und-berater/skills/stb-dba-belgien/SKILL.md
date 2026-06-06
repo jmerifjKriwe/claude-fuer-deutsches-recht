@@ -13,7 +13,6 @@ description: "DBA Deutschland Belgien aktuelle Fassung. Anwendungsfall Eupen Mal
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, Malmedy, St. Vith) und ihre besondere Pendler-Konstellation. Praxisrelevant sind Lohneinkuenfte, Beteiligungs- und Lizenzeinkuenfte, sowie die Holdingaktivitaeten belgischer Gesellschaften (DBI-Regelung in Belgien als Aequivalent zur deutschen Schachtelprivilegierung).

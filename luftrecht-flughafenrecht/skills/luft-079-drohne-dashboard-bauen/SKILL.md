@@ -1,6 +1,6 @@
 ---
 name: luft-079-drohne-dashboard-bauen
-description: "Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Drohne – Dashboard bauen
@@ -16,8 +16,6 @@ Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrie
 - Tragende Normen verifizieren: LuftVG; LuftSiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 

@@ -64,7 +64,6 @@ Gib immer drei Dinge aus:
 - Keine Platzhalterlawine. Höchstens wenige eckige Platzhalter, die wirklich ausgefüllt werden müssen.
 - Immer den nächsten konkreten Arbeitsschritt nennen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

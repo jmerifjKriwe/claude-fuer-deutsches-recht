@@ -5,8 +5,6 @@ description: "Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung im Plugin Anlag
 
 # Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung
 
-
-
 ## Spezialwissen: Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung
 - **Konkreter Gegenstand:** Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

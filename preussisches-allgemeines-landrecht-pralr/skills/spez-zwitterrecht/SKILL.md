@@ -1,6 +1,6 @@
 ---
 name: spez-zwitterrecht
-description: "Spez Zwitterrecht im Preußisches Allgemeines Landrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Spez Zwitterrecht im Preußisches Allgemeines Landrecht im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Spez Zwitterrecht

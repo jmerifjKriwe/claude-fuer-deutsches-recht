@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Aktenauszug Gerichtsverfahren** ordnet Anlagen, 
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Aktenauszug Gerichtsverfahren-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

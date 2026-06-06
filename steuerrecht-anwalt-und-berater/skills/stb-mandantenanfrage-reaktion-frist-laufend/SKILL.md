@@ -120,7 +120,6 @@ Stand: 05/2026.
 - StBVV § 4.
 - BGB §§ 199, 280.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

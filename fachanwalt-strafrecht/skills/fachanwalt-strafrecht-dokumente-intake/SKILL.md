@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Fachanwalt Strafrecht** ordnet Anlagen, Register
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Haftbefehl, Anklageschrift, Eröffnungsbeschluss, Protokoll der Hauptverhandlung, Urteil, Revisionsantrag, Beweisantrag, Haftbeschwerde, Akteneinsicht-Akte.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Strafrecht und Strafprozessrecht-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

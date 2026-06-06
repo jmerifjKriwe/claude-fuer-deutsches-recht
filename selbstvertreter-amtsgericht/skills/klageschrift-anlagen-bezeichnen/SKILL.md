@@ -150,7 +150,6 @@ Skill `einreichung-mein-justizpostfach-mjp-2024`.
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Konvention.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

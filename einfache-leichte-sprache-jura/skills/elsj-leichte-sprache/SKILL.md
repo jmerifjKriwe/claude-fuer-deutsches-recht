@@ -8,7 +8,6 @@ description: "Kanzlei oder Behoerde will juristischen Text für Menschen mit Ler
 Dieses Fachmodul, wenn ein juristischer Text für Menschen mit sehr geringer
 Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 
-
 ## Triage zu Beginn
 1. Wurde sichergestellt, dass Leichte Sprache (nicht Einfache Sprache) der richtige Modus ist?
 2. Gibt es eine Pruefgruppe aus der Zielgruppe — oder bleibt es beim Entwurf-Status?

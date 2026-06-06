@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher
-description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vorher Nachher
@@ -31,14 +31,10 @@ description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht: fachlich
 # Vorher-Nachher-Tabelle
 
 ## Fachkern: Vorher-Nachher-Tabelle
-- **Spezialgegenstand:** Vorher-Nachher-Tabelle wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umformulierungen. Er stellt sicher, dass jede Überarbeitung transparent, nachvollziehbar und lehrreich ist: Der Nutzer sieht nicht nur das Ergebnis, sondern versteht auch, warum jede Änderung vorgenommen wurde.
-
 
 ## Triage zu Beginn
 1. Welche Berufsgruppe ist der Absender: Rechtsanwalt, Steuerberater, Notar oder allgemeines Unternehmen?

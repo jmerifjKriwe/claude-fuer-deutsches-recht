@@ -96,7 +96,6 @@ Stand: 05/2026.
 - DSGVO Art. 28.
 - BMF v. 28.11.2019 zu GoBD.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

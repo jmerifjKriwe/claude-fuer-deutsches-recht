@@ -6,14 +6,10 @@ description: "Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsr
 # Anrede und Grußformeln
 
 ## Fachkern: Anrede und Grußformeln
-- **Spezialgegenstand:** Anrede und Grußformeln wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in beruflicher Korrespondenz. Die richtige Anrede signalisiert Respekt und Professionalität — eine falsche oder zu lässige Anrede kann den gesamten Ton eines Schreibens beschädigen, noch bevor der eigentliche Inhalt gelesen wird.
-
 
 ## Triage zu Beginn
 1. Ist der Name des Empfaengers bekannt oder unbekannt?

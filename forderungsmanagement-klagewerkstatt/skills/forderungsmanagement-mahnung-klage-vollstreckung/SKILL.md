@@ -6,11 +6,8 @@ description: "Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Belegl
 # Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Fachkern: Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
 - **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

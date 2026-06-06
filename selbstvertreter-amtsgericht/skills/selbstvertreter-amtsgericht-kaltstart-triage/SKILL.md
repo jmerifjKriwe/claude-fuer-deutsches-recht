@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsger
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Selbstvertreter Amtsgericht — Allgemein
 
 ## Schnellstart-Workflow
@@ -241,7 +239,6 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 ---
 
 Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Workflow, Fristen, Zuständigkeit, Beweis und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zur Rechtsantragsstelle, Beratungshilfe oder anwaltlichen Prüfung.
-
 
 ## Qualitäts-Hardening
 

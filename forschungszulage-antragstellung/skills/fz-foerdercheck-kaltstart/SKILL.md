@@ -130,7 +130,6 @@ Die Antworten geben in Verbindung mit der 7-Fragen-Diagnose oben ein belastbares
 - KMU-Definition Empfehlung 2003/361/EG (vom Antragsteller live zu prüfen)
 - `references/forschungszulage-quellen-und-zahlen.md`
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

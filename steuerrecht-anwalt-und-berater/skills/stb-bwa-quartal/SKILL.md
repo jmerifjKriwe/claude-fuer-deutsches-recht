@@ -190,7 +190,6 @@ Stand: 05/2026.
 - RDG § 5.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

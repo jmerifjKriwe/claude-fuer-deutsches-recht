@@ -13,7 +13,6 @@ description: "DBA Deutschland Zypern 2011. Anwendungsfall Holding-Konstruktionen
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) ersetzte das aeltere DBA und folgt OECD-MA 2010. Zypern ist EU-Mitglied (Beitritt 01.05.2004, Euro 01.01.2008) und Standort fuer Holding-Konstruktionen, Schifffahrt und Investmentstrukturen. Zypriotische Koerperschaftsteuer: 12,5 Prozent (Pillar-Two-Mindeststeuer 15 Prozent ab 01.01.2024 verschiebt die Vorteilhaftigkeit).

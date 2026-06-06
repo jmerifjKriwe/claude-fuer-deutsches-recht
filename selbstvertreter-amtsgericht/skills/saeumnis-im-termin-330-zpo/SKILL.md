@@ -140,7 +140,6 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 
 Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

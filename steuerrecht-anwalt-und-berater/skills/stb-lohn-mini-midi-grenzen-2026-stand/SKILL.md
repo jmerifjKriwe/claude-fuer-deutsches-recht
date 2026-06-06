@@ -128,7 +128,6 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: MiLo 13,90 (2026) / 14,60 (2027); Minijob-Grenze 603 (2026) / voraussichtlich 633 (2027) ergaenzt -->
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

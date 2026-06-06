@@ -94,7 +94,6 @@ DPF-und-Fallback-Klausel:
 - DPF-Listing ueber dataprivacyframework.gov pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

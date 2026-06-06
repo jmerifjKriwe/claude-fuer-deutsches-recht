@@ -130,7 +130,6 @@ Stand: 05/2026.
 - DATEV Praesentations-Modul.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

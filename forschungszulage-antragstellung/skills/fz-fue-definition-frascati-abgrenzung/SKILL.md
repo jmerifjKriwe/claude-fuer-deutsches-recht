@@ -137,7 +137,6 @@ FuE-Memo mit:
 - BSFZ-Hilfen zur Antragstellung: https://www.bescheinigung-forschungszulage.de/hilfen-zur-antragstellung
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

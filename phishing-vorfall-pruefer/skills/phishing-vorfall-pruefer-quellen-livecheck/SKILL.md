@@ -28,7 +28,6 @@ Dieser Quellen-Livecheck für **Phishing Vorfall Prüfer** trennt amtliche Normf
 
 ## Arbeitsweg
 
-
 - Tragende Normen (BGB, § 675u,, § 675v,, § 675w, pushTAN, Call) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
 - Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
 - Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.

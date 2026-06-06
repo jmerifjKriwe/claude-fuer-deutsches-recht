@@ -39,7 +39,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Strukturierte Aufbereitung des Sachverhalts in einer zeitlichen Abfolge mit Belegzuordnung — Grundlage für Schriftsatz, Prüfvermerk und Mandantengespräch. Verhindert, dass wichtige Ereignisse vergessen oder falsch eingeordnet werden.
 
@@ -153,7 +152,6 @@ BESCHAFFUNGSWEGE:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige Fristenkontrolle für alle laufenden und entstehenden Fristen im Arbeitsrechtsmandat — mit Ampelbewertung nach Dringlichkeit. Grundlage für Wiedervorlagenkalender und Mandantenkommunikation.
@@ -282,7 +280,6 @@ ERLEDIGT:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Strukturierte Kommunikation mit Mandanten im Arbeitsrechtsmandat — von der Mandantsaufnahme bis zum Abschluss. Sicherstellt, dass Informationspflichten erfüllt werden und der Mandant informiert und eingebunden bleibt.

@@ -112,7 +112,6 @@ Mit freundlichen Gruessen
 
 Stand: 05/2026. § 110a SGG. Praxis variiert je SG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -270,7 +270,6 @@ Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "dem
 
 Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -440,7 +439,6 @@ So sollte eine fertige Anlage K1 aussehen:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
-
 
 ## Qualitäts-Hardening
 

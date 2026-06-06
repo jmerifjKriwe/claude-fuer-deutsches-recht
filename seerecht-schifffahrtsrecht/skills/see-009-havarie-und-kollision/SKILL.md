@@ -1,6 +1,6 @@
 ---
 name: see-009-havarie-und-kollision
-description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung
@@ -16,8 +16,6 @@ Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §�
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben Schäden; der Kapitän steht im Verdacht der Trunkenheit. Ein Reeder fordert nach Sturm-Notfall auf See eine Große-Havarie-Verteilung: Ladung wurde über Bord geworfen um das Schiff zu retten. Ein Schiff erleidet bei Nebel eine Kollision mit einem unbekannten Fahrzeug.
@@ -57,7 +55,6 @@ Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben S
 - Klagestrategie-Vermerk
 - Checkliste Sofortmaßnahmen Unfallort und Versicherung
 
-
 ## Erweiterte Normengrundlage
 
 ### Kollisionsrecht
@@ -83,7 +80,6 @@ Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben S
 - BGH zur Abgrenzung von kleiner und großer Havarie; Opfertheorie nach YAR.
 - OLG Hamburg zur Kollisionshaftung; COLREG-Verletzung als Indiz für Verschulden.
 - BGH zu Average-Guarantee-Klauseln; Bindungswirkung des Dispache-Beschlusses.
-
 
 ## Praxishinweis
 

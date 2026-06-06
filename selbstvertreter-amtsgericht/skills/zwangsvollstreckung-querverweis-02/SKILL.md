@@ -123,7 +123,6 @@ Wenn Vollstreckung erfolglos:
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -143,7 +143,6 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

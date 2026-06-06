@@ -73,7 +73,6 @@ Wenn der Nutzer nur Dateien hochlädt:
 
 Keine ungeprüften Registerstände und keine erfundenen Fundstellen. Wenn ein Ergebnis an Patentstatus, Jahresgebühr, Einspruch, nationaler Validierung oder UPC-Zuständigkeit hängt, live über amtliche Register oder frei zugängliche Quellen prüfen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

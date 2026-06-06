@@ -13,7 +13,6 @@ description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-R
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant fuer Software, Patente, Markenrechte, Franchise.
@@ -192,7 +191,6 @@ Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50
 Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: see-054-yachtkauf-arrest-vorbereiten
-description: "Yachtkauf: Glaeubiger sichert Anspruch an Segel- oder Motorjacht durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Yachtkauf: Glaeubiger sichert Anspruch an Segel- oder Motorjacht durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Yachtkauf – Arrest vorbereiten
@@ -16,8 +16,6 @@ Yachtkauf: Glaeubiger sichert Anspruch an Segel- oder Motorjacht durch dingliche
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Hypothekengläubiger will ein Segel- oder Motorjacht arrestieren; Kredit ist ausgefallen. Ein Konnossementsinhaber hat Schadensansprüche und arretiert das Segel- oder Motorjacht im Hafen. Ein Bergungsunternehmen sichert seinen Bergungslohnanspruch durch Arrest.
@@ -48,7 +46,6 @@ Ein Hypothekengläubiger will ein Segel- oder Motorjacht arrestieren; Kredit ist
 ## Output
 Arrestantrags-Baustein (ZPO § 920) und Vollziehungs-Zeitplan für Segel- oder Motorjacht.
 
-
 ## Vertiefung: Internationale Seearrestpraxis
 International koordinieren sich Gläubiger häufig über die 1952 Brüsseler Seearrest-Konvention (ISAC 1952) und über P&I-Club-Korrespondenten. In der EU gilt ergänzend die EuGVVO 2012 (Brüssel Ia-VO) für Vollstreckung und gegenseitige Anerkennung von Arrestbeschlüssen. In Drittstaaten gelten nationaler Seearrest-Regeln; Koordination mit Local Counsel ist unverzichtbar.
 
@@ -59,7 +56,6 @@ Zum Arrest berechtigende Seeforderungen umfassen: Schiffsbau- und -reparaturkost
 - **Letter of Undertaking (LOU)**: P&I-Club stellt ein formelles Versprechen aus das Schiff zu stellen; Arrest wird aufgehoben; Rechtsstreit geht weiter.
 - **Gegenklage nach § 945 ZPO**: bei unberechtigtem Arrest; Schadensersatz für Liegekosten; entgangene Fracht; Reparaturkosten.
 - **Sofortige Sicherheitsleistung**: Zahlung unter Vorbehalt; Bankbürgschaft; Schuldschein.
-
 
 ## Checkliste Arrest-Vorbereitung
 - [ ] Seeforderung nach ISAC 1952 Art. 1 identifiziert und dokumentiert
@@ -84,7 +80,6 @@ Zum Arrest berechtigende Seeforderungen umfassen: Schiffsbau- und -reparaturkost
 - ZPO § 945: Schadensersatz bei unberechtigtem oder wirkungslos gewordenem Arrest.
 - SchRegO § 67: Eintragung von Pfändungs- und Arrestvermerken im Schiffsregister.
 - ISAC 1952 Art. 1-8: Seeforderungen; Arrest an Schwesterschiffen; Verfahren.
-
 
 ## Vertiefung Arrest
 

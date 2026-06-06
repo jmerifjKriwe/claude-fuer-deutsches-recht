@@ -121,7 +121,6 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 - IDW S 6-Standards zur Unternehmensbewertung.
 - IDW PS 800-Standards zur Schadensbewertung im Strafverfahren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -417,7 +416,6 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 - BGH staendige Rspr. zur Strafzumessung bei Steuerhinterziehung.
 - BGH staendige Rspr. zum Vorsatzerfordernis bei komplexen Steuersachverhalten.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 

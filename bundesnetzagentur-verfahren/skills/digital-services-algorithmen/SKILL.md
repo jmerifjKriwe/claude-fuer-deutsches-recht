@@ -1,6 +1,6 @@
 ---
 name: digital-services-algorithmen
-description: "Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Algorithmen und Empfehlungssysteme nach dem Digital Services Act
@@ -16,8 +16,6 @@ Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahr
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Arbeit zu Transparenz- und Risikopflichten von Anbietern von Online-Plattformen und Suchmaschinen bezüglich algorithmischer Empfehlungssysteme. Adressat: Bundesnetzagentur als Digital Services Coordinator (DSC) nach § 12 DDG, daneben Europäische Kommission für VLOPs und VLOSEs. Typische Konstellationen: Plattform muss Empfehlungslogik in den AGB beschreiben (Art. 27 DSA); VLOP muss Systemrisiken bewerten (Art. 34 DSA) und Minderungsmaßnahmen ergreifen (Art. 35 DSA); Beschwerde gegen voreingestellte personalisierte Empfehlung; Auskunftsersuchen der BNetzA als DSC nach Art. 67 DSA.

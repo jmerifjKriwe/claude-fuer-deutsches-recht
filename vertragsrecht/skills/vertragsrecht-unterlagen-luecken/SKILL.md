@@ -28,7 +28,6 @@ Diese Unterlagenprüfung für **Vertragsrecht** benennt fehlende Dokumente, stre
 
 ## Arbeitsweg
 
-
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht)-Frage zwingend (Vertragsurkunde, AGB, Anbot/Annahme, Mahnschreiben, Rücktrittserklärung, Kündigungsschreiben, Anfechtungserklärung)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (§ 195 BGB Regelverjährung 3 Jahre, § 199 BGB Beginn Ende des Jahres der Kenntnis, § 438 BGB 2 Jahre Kaufgewährleistung, § 634a BGB Werkgewährleistung, § 286 BGB Verzug, § 314 BGB außerordentliche Kündigung), beweisrelevant, formerheblich.

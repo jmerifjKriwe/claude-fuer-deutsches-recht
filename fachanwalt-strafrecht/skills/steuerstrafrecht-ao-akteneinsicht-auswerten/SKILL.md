@@ -131,7 +131,6 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 - BGH staendige Rspr. zum Vollstaendigkeitsgebot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -779,7 +778,6 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - § 207 StPO — Eroffnungsbeschluss mit Aenderungen
 - § 153 StPO — Einstellung Geringfuegigkeit
 - § 153a StPO — Einstellung gegen Auflage
-
 
 ## Qualitäts-Hardening
 

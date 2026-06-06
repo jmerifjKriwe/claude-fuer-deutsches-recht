@@ -85,7 +85,6 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 
 Stand: Mai 2026. Wortlaut-Fragen koennen sich durch Gesetzesreformen jederzeit verschieben; bei Streitfragen aktuelle Norm- und Rechtsprechungslage pruefen. Bei zweifelhaften Begriffen empfiehlt sich der parallele Blick in Grueneberg, MueKo-BGB oder BeckOK, soweit lizenziert verfuegbar.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: see-066-containerschiff-versicherung-melden
-description: "Containerschiff: Schadensereignis an Containerlinienfrachtschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Containerschiff: Schadensereignis an Containerlinienfrachtschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Containerschiff – Schadensfall bei Versicherung melden
@@ -16,8 +16,6 @@ Containerschiff: Schadensereignis an Containerlinienfrachtschiff melden: P&I-Clu
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Containerlinienfrachtschiff erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert. Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG § 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Containerlinienfrachtschiff.
@@ -48,7 +46,6 @@ Ein Containerlinienfrachtschiff erleidet Kollisionsschäden; P&I-Club und H&M-Ve
 ## Output
 Meldecheckliste (P&I/H&M/MII) und Fristenübersicht für Containerlinienfrachtschiff.
 
-
 ## Vertiefung: P&I-Club-Meldesystem
 P&I-Clubs arbeiten nach dem Mutual-Insurance-Prinzip: Mitglieder (Reeder) sichern sich gegenseitig ab; Prämien werden nachträglich angepasst. Für die Deckungsauslösung entscheidend ist die prompte Meldung an den zuständigen Club-Korrespondenten im Hafenstaat. Alle 13 IG-Clubs haben weltweite Korrespondentennetzwerke; im Schadenfall sofort aktivieren.
 
@@ -57,7 +54,6 @@ Bei einem Schiffsunfall sind typischerweise beteiligt: H&M-Versicherer (Schaden 
 
 ## Beweissicherung nach Schadensereignis
 Unmittelbare Maßnahmen: Unfallstelle fotografieren; beschädigte Teile sichern; Zeugenaussagen protokollieren; Logbücher und Stundenbücher sofort sichern und beglaubigen lassen. Externe Gutachter (Havariekommissar; Klasseninspektor; P&I-Club-Surveyor) sind unverzüglich zu bestellen. Digitale Daten (AIS; VDR; ECDIS) sichern und auf Backup-Medien kopieren.
-
 
 ## Checkliste Schadensmeldung
 - [ ] P&I-Club-Korrespondent am Schadensort informiert (innerhalb 24 Stunden)
@@ -80,7 +76,6 @@ Unmittelbare Maßnahmen: Unfallstelle fotografieren; beschädigte Teile sichern;
 - VVG § 82: Schadensminderungsobliegenheit; Aufwendungsersatz für Rettungskosten.
 - VVG §§ 130-136: Haftpflichtversicherung; Direktklagerecht des Geschädigten.
 - DTV-Klauseln Kasko 2009 § 2: versicherte Gefahren und Schäden; Selbstbehalte.
-
 
 ## Vertiefung Schadensmeldung
 

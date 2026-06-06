@@ -41,7 +41,6 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die historische Auslegung fragt nach dem Willen des Gesetzgebers zur Zeit der Normsetzung. Sie nutzt Materialien wie Entwuerfe, Begruendungen, Ausschussberichte und Plenardebatten, um zu bestimmen, was der Gesetzgeber meinte. In Savignys Vierer-Liste das dritte Element ("historisches Element"), heute zwischen subjektivem und objektivem Pol diskutiert.
@@ -126,7 +125,6 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 
 Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Original pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -148,7 +146,6 @@ Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Origin
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die historische Auslegung steht am Beginn jeder seriösen Norminterpretation. Sie fragt, welchen Regelungszweck der Gesetzgeber zum Zeitpunkt der Normgebung verfolgte, welche Probleme er lösen wollte und welche Fallgruppen er vor Augen hatte. Dieses Skill führt durch die methodisch korrekte Ermittlung des historischen Normzwecks als Fundament für die weitere Auslegung.
 
@@ -237,7 +234,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Jede Auslegungsentscheidung ist auch eine institutionelle Entscheidung: Sie setzt einen Präzedenzfall, beeinflusst das Verhalten künftiger Akteure und kann das Vertrauen in die Vorhersehbarkeit des Rechts stärken oder erschüttern. Dieses Skill lehrt, institutionelle Folgen methodisch zu durchdenken und zu entscheiden, wann strikte Regelbindung geboten und wann Einzelfallflexibilität zulässig ist.
 
@@ -328,7 +324,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die Interessenjurisprudenz ist die methodische Gegenbewegung zur Begriffsjurisprudenz, entwickelt vor allem von Philipp Heck (1858-1943) und der Tuebinger Schule (Heinrich Stoll, Max Ruemelin). Sie wendet sich gegen die Vorstellung, Recht sei aus Begriffen logisch ableitbar, und stellt Wertungen, Interessen und ratio legis in den Mittelpunkt.
@@ -412,7 +407,6 @@ Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens daru
 - BVerfGE 89, 214 — Buergschaft (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2089%2C%20214).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

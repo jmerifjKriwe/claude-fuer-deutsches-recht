@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Ber
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # E-Mail-Umformulierer Berufsrecht — Allgemein
 
 ## Schnellstart-Workflow
@@ -223,7 +221,6 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - Stand: 05/2026
 - BRAO und BORA in aktuell geltender Fassung
 - BNotO und BNotK-Richtlinien; StBerG in aktuell geltender Fassung
-
 
 ## Qualitäts-Hardening
 

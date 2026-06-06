@@ -1,6 +1,6 @@
 ---
 name: zweigniederlassung-auslaendische
-description: "Zweigniederlassung Auslaendische im Handelsregister-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zweigniederlassung Auslaendische im Handelsregister-Praxis im Handelsregister Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zweigniederlassung Auslaendische

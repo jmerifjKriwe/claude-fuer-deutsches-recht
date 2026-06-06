@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im BGB-AT-Prüfer. Fragt F
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Allgemein
 
 ## Zweck
@@ -65,7 +63,6 @@ BGB AT insgesamt. Bei tragenden Normen `amtlicher-bgb-zpo-normcheck` zuschalten 
 - elektronische-form-bea-qes-formfiktion
 - verjaehrung-grundschema-paragraphen-194-218
 - amtlicher-bgb-zpo-normcheck
-
 
 ## Qualitäts-Hardening
 

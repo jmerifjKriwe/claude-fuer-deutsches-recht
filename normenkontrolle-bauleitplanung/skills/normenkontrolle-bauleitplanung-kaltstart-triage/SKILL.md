@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleit
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Normenkontrolle Bauleitplanung — Allgemein
 
 ## Schnellstart-Workflow
@@ -249,7 +247,6 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 - BauNVO in der geltenden Fassung
 - VwGO § 47 in der geltenden Fassung
 - BNatSchG §§ 44 und 45 in der geltenden Fassung
-
 
 ## Qualitäts-Hardening
 

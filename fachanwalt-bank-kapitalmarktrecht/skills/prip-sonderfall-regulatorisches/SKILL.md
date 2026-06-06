@@ -31,8 +31,6 @@ description: "Prip Sonderfall Regulatorisches im Plugin Fachanwalt Bank Kapitalm
 
 # Prip: Sonderfall und Edge-Case-Pr체fung
 
-
-
 ## Spezialwissen: Prip: Sonderfall und Edge-Case-Pr체fung
 - **Konkreter Gegenstand:** Prip: Sonderfall und Edge-Case-Pr체fung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -73,8 +71,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 # Regulatorisches: Internationaler Bezug und Schnittstellen
 
-
-
 ## Spezialwissen: Regulatorisches: Internationaler Bezug und Schnittstellen
 - **Konkreter Gegenstand:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -114,8 +110,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 **Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
 # Schnittstellen: Compliance-Dokumentation und Aktenvermerk
-
-
 
 ## Spezialwissen: Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 - **Konkreter Gegenstand:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..

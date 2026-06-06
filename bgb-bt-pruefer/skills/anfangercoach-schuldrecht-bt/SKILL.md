@@ -70,7 +70,6 @@ Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Kl
 - deliktsrecht-paragraph-823-1
 - werkvertrag-grundschema-paragraph-631
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/

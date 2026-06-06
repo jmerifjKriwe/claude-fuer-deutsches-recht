@@ -1,6 +1,6 @@
 ---
 name: weg-hausverwaltung-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Plugin Weg Hausverwaltung: prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
+description: "Chronologie und Belegmatrix im Plugin Weg Hausverwaltung im Weg Hausverwaltung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Chronologie und Belegmatrix

@@ -143,7 +143,6 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

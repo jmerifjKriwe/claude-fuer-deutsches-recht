@@ -164,7 +164,6 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 
 Stand: 05/2026. § 278 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -316,7 +315,6 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
-
 
 ## Qualitäts-Hardening
 

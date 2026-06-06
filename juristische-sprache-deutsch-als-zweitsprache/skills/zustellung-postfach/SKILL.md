@@ -1,6 +1,6 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustellung Postfach
@@ -69,7 +69,6 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 ## Qualitaetsgate
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
 
 ## Qualitäts-Hardening
 

@@ -30,7 +30,6 @@ description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkre
 
 **Fokus:** Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Westsahara
 
 ## Aufgabe
@@ -69,7 +68,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Westsahara**. Er 
 
 **Fokus:** Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Zentralafrikanische Republik
 
 ## Aufgabe
@@ -107,7 +105,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zentralafrikanisc
 
 **Fokus:** Staaten- und Gebietscheck Zypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Zypern
 
 ## Aufgabe
@@ -144,7 +141,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist 
 ## 4. `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024`
 
 **Fokus:** GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Eilantrag Identitätsprüfung Verfahrensgarantien.
-
 
 # GEAS-Reform: EU-Grenzverfahren 2024
 
@@ -231,7 +227,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Unbegleiteter Minderjaehriger | Besondere Garantien Art. 24 VerfahrensVO; Vormundschaft |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

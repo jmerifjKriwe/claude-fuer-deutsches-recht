@@ -155,7 +155,6 @@ Stand: 05/2026.
 - InsO § 19.
 - DATEV BAB-Modul.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

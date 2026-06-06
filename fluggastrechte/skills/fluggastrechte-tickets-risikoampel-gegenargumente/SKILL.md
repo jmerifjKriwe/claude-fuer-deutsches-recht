@@ -6,11 +6,7 @@ description: "Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fl
 # Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Tickets: Risikoampel, Gegenargumente und Verteidigungslinien / tickets risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

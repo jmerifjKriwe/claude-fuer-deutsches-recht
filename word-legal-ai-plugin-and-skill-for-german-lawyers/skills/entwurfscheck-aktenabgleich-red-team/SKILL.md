@@ -49,7 +49,6 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **KI-Halluzinationen suchen:** jede zitierte Rspr. live verifiziert?
 - Falle: Vorgaben des Mandanten ignoriert (z. B. Vergleichsangebot nicht erwaehnt) — Mandantenwillen explizit zu Aktennotiz nehmen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

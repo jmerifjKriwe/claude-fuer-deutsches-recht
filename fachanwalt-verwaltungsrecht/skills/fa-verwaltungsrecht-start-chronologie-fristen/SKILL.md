@@ -38,8 +38,6 @@ description: "FA Verwaltungsrecht Start Chronologie Fristen im Plugin Fachanwalt
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Fachanwalt Verwaltungsrecht — Allgemein
 
 ## Schnellstart-Workflow

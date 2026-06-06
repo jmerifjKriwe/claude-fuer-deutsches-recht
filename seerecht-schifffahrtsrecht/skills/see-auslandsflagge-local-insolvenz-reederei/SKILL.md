@@ -1,6 +1,6 @@
 ---
 name: see-auslandsflagge-local-insolvenz-reederei
-description: "Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
@@ -16,8 +16,6 @@ Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port-State-Control-Mängel; Local Counsel in Panama City soll koordiniert werden. Ein Schiff unter Marshall-Islands-Flagge soll in Deutschland mit einer Hypothek belastet werden. Ein Reeder möchte von der Panama-Flagge zur Deutschen Flagge wechseln; Kosten und Anforderungen sind unklar.
@@ -56,7 +54,6 @@ Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port
 - Flaggenstaat-Compliance-Checkliste (SOLAS/ISM/MARPOL/MLC/ISPS)
 - Flaggenwechsel-Zeitplan
 
-
 ## Checkliste Local-Counsel-Beauftragung
 - [ ] Local Counsel ausgewählt (Empfehlung P&I-Club-Korrespondent)
 - [ ] Erfahrung des LoC mit Seerecht im Hafenstaat bestätigt
@@ -78,7 +75,6 @@ Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port
 - UNCLOS Art. 292: Prompt Release; Schiff und Crew freizulassen gegen angemessene Sicherheit.
 - ZPO §§ 722-723: Vollstreckbarerklärung ausländischer Urteile in Deutschland.
 - Anerkennungs- und Vollstreckungsausführungsgesetz (AVAG): nationale Umsetzung EuGVVO.
-
 
 ## Erweiterte Normengrundlage
 

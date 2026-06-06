@@ -6,15 +6,12 @@ description: "Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt:
 # Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt
 
 ## Fachkern: Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt
-- **Spezialgegenstand:** Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** AO, Steuerhinterziehung, Selbstanzeige, Steuerberechnung und Aktenführung
 

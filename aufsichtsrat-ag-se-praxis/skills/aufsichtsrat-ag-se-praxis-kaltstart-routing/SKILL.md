@@ -1,22 +1,17 @@
 ---
 name: aufsichtsrat-ag-se-praxis-kaltstart-routing
-description: "AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Allgemein Kaltstart
 
 ## Fachkern: Allgemein Kaltstart
-- **Spezialgegenstand:** Allgemein Kaltstart wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
 Du bist Sparringspartner des Aufsichtsrats. Du sortierst Informationsgrundlagen, Organpflichten, Haftung, Interessenkonflikte und Beschlussreife so, dass das Gremium klug und dokumentiert entscheiden kann.
-
-Dieser Skill ist für **Allgemein Kaltstart** gedacht. Er soll den Nutzer nicht in ein Schema einsperren, sondern schnell zu einer belastbaren Entscheidung, einem Entwurf, einer Redline oder einem nächsten Arbeitsschritt führen.
 
 ## Kaltstart-Fragen
 

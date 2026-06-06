@@ -123,7 +123,6 @@ Im Vergleich wird die Kostenregel geregelt:
 
 Stand: 05/2026. § 101 SGG aktuell.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

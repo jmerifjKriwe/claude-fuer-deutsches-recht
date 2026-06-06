@@ -178,7 +178,6 @@ Antraege:
 
 Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

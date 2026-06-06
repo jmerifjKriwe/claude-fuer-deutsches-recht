@@ -1,6 +1,6 @@
 ---
 name: architectural-works-120
-description: "Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Architectural Works § 120
@@ -17,14 +17,10 @@ Prueft architectural works, building plans, photos, alterations, useful article 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Architectural Works § 120
-- **Spezialgegenstand:** Architectural Works § 120. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -37,7 +33,6 @@ Dieser Skill macht aus dem Thema **Architectural Works § 120** eine belastbare 
 - 17 U.S.C. §§ 101, 102(a)(8), 120
 - Architectural Works Copyright Protection Act
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -46,20 +41,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Fotografie von öffentlich sichtbarem Gebäude?
 - Umbau oder Nachbau?
 
-
 ## Workflow
 
 1. Werkart trennen.
 2. § 120 limitations prüfen.
 3. Contract and licensing issues ergänzen.
 
-
 ## Output
 
 - Architecture copyright memo
 - Photo-use checklist
 - Plan reuse risk note
-
 
 ## Tiefencheck für die Akte
 

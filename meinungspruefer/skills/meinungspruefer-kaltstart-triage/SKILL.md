@@ -87,7 +87,6 @@ Wenn der Nutzer nur Screenshots, Mails oder Chatverläufe hochlädt, arbeite sof
 
 Stand: 05/2026. Kernnormen: Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, §§ 185-188, 193, 194 StGB, §§ 823, 824, 1004 BGB analog. Leitentscheidungen im Skill `rechtsprechungsbank-verifiziert`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

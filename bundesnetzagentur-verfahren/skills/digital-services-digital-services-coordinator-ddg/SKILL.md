@@ -1,6 +1,6 @@
 ---
 name: digital-services-digital-services-coordinator-ddg
-description: "Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
@@ -16,8 +16,6 @@ Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Steuerung von anwaltlichen Verfahren gegenüber der Bundesnetzagentur in ihrer Rolle als Digital Services Coordinator (DSC) nach § 12 DDG. Der DSC ist die zentrale Stelle für die Durchsetzung des Digital Services Act in Deutschland und koordiniert mit der Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ), der/dem Bundesbeauftragten für den Datenschutz (BfDI), den Landesmedienanstalten und der EU-Kommission. Typische Anwendungen: Eingaben gegen rechtswidrige Aufsichtsverfügungen, Stellungnahmen in Verfahren nach Art. 51 DSA, Auskunftsersuchen § 18 DDG, Anhörung vor Bußgeldverhängung § 24 DDG, Klagen vor dem VG Köln.

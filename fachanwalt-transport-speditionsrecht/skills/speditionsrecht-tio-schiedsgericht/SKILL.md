@@ -32,11 +32,7 @@ description: "TIO Schiedsgericht im Plugin Fachanwalt Transport Speditionsrecht:
 # Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / speditionsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, HG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -187,11 +183,7 @@ Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer �
 # Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien / frachtvertrag risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

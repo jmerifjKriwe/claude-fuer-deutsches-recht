@@ -144,7 +144,6 @@ Stand: 05/2026.
 - SGB IV § 23.
 - DStV-Praxisleitfaden Kanzleiorganisation.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

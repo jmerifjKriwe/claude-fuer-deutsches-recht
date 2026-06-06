@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-serviceeinrichtungen
-description: "Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Eisenbahn: Serviceeinrichtungen
@@ -17,10 +17,7 @@ Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Eisenbahn: Serviceeinrichtungen
-- **Spezialgegenstand:** Eisenbahn: Serviceeinrichtungen - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
 - **Normen- und Behördenanker:** ERegG, AEG, Nutzungsbedingungen, Trassen-/Serviceeinrichtungszugang, Entgeltkontrolle, Diskriminierungsverbot und Beschwerdeverfahren.
 - **Spezifische Weiche:** Kläre Infrastrukturbetreiber, Zugangsprodukt, Fahrplan-/Trassenperiode, Entgeltbestandteil, Nutzungsbedingung und ob vorab eine Unterrichtung oder nachträglich eine Beschwerde läuft.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.

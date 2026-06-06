@@ -71,7 +71,6 @@ Wenn der Wert falsch ist, nicht bei der Gemeinde "korrigieren" wollen. Dann `anw
 - Rechtsbehelf gegen Hebesatzbescheid wird als Angriff auf den Grundsteuerwert geführt; die Gemeinde verweist auf den Grundlagenbescheid nach § 351 Abs. 2 AO - dort muss der Einspruch laufen.
 - Zahlung "unter Vorbehalt" eingestellt, ohne förmliche AdV beim Finanzamt; Folge: Mahn- und Vollstreckungsverfahren der Gemeinde.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

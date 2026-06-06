@@ -1,6 +1,6 @@
 ---
 name: uk-patentrecht-patents-court-ipec-ukipo
-description: "Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UK: UKIPO, Patents Court und IPEC
@@ -16,8 +16,6 @@ Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, r
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Aufgabe
 
@@ -40,7 +38,6 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 4. **UK Opinions Service als Vorstufe prüfen.**
 5. **Costs, disclosure und injunction risk in Mandantenampel bringen.**
 
-
 ## Prüfmatrix
 
 | Ebene | Prüffrage | Ergebnis |
@@ -59,7 +56,6 @@ Erzeuge je nach Auftrag:
 - IPEC/Patents Court Comparison.
 - UKIPO Opinion Checklist.
 - DE/EN Client Brief.
-
 
 ## Anschluss-Skills
 

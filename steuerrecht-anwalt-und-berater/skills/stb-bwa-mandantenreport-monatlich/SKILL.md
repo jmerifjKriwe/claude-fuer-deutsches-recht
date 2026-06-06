@@ -147,7 +147,6 @@ Stand: 05/2026.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

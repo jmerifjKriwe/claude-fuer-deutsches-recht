@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Liquiditaetsplanung-Plu
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Liquiditaetsplanung — Allgemein
 
 ## Schnellstart-Workflow
@@ -195,7 +193,6 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - Stand: 05/2026
 - InsO in der Fassung des SanInsFoG (in Kraft seit 01.01.2021); § 15b InsO ersetzt § 64 GmbHG a.F.
 - BGH-Urteil zur Passiva-II-Methode (Leitsatz: Deckungsluecke dauerhaft ueber 10 Prozent indiziert Zahlungsunfaehigkeit)
-
 
 ## Qualitäts-Hardening
 

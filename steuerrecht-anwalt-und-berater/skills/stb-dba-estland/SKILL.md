@@ -13,7 +13,6 @@ description: "DBA Deutschland Estland 1996. Anwendungsfall IT-Branche E-Residenc
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum EU-Mitglied Estland (Beitritt 2004, Euro 2011). Praxisrelevant sind IT-Branche, E-Residency-Modelle (estnische Gesellschaftsgruendungen ohne physischen Sitz), Holdings. Besonderheit Estlands: Koerperschaftsteuer wird nur bei Ausschuettung erhoben (Distribution Tax statt klassische KSt).

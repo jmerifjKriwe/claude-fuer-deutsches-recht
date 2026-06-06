@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte im Fashion Law (Moderecht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urheberrecht Angewandte

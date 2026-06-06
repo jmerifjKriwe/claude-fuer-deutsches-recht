@@ -13,7 +13,6 @@ description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Rege
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung fuer jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschaeftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.
@@ -198,7 +197,6 @@ Pruefungskaskade in dieser Reihenfolge:
 Stand: 05/2026. Art. 4 OECD-MA 2017. §§ 8, 9, 10, 11 AO. §§ 1, 1a, 6 EStG. § 1 KStG. § 6 AStG nach ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). MLI Art. 4. Aktuelle BFH-Rechtsprechung zu Art. 4 OECD-MA in freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 1 belegt (Fundstelle/Datum bestaetigt), 6 ersetzt (Az nicht belegbar, Satz neu formuliert) -->
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: verl-qualitaetsgate
-description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Verl Qualitaetsgate

@@ -30,7 +30,6 @@ description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Ert
 
 **Fokus:** Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung.
 
-
 # Aufenthaltstitel-Antrag
 
 ## Kaltstart-Rückfragen
@@ -113,7 +112,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Familienachzug | §§ 27 ff. AufenthG; Visums-Antrag bei Botschaft pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -389,7 +387,6 @@ Anlagen: 1 Vollmacht, 2 Einkommensnachweise, 3 Reisepass, 4 Fuehrungszeugnis,
 
 **Fokus:** Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung.
 
-
 # Ausweisung-Widerspruch § 53 AufenthG
 
 ## Zweck
@@ -566,7 +563,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template: Widerspruch gegen Ausweisungsverfuegung
 
 **Adressat:** Auslaenderbehoerde [ORT] / Widerspruchsbehoerde
@@ -630,7 +626,6 @@ Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
 ## 3. `fachanwalt-migrationsrecht-bamf-anhoerung-strategie`
 
 **Fokus:** Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
-
 
 # BAMF-Anhörung / Ausländerbehörde-Kommunikation
 
@@ -843,7 +838,6 @@ die Formulierung bleibt unveraendert.
 
 **Fokus:** Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO.
 
-
 # Einbürgerung
 
 ## Kaltstart-Rückfragen
@@ -902,7 +896,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Einbuergerung beschleunigt erwaegen | § 10 Abs. 3 StAG besondere Integrationsleistungen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

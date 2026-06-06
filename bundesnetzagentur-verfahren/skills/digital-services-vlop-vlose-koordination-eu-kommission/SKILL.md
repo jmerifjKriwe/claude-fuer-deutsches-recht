@@ -1,6 +1,6 @@
 ---
 name: digital-services-vlop-vlose-koordination-eu-kommission
-description: "Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
@@ -16,8 +16,6 @@ Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verf
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Steuerung von Mandaten an der Schnittstelle zwischen ausschließlicher Kommissionszuständigkeit (Sehr-große-Online-Plattformen und Suchmaschinen, Art. 33 ff. DSA) und nationaler DSC-Zuständigkeit. Die EU-Kommission setzt das DSA gegenüber VLOPs/VLOSEs in Bezug auf die Pflichten aus Kapitel III Abschnitt 5 DSA (Art. 34–48) ausschließlich um (Art. 56 Abs. 2 und Art. 64 ff. DSA). Die BNetzA als DSC bleibt für die übrigen Pflichten zuständig und nimmt unterstützende Funktionen wahr (Art. 60 DSA, gemeinsame Untersuchungen). Mandate erfordern parallele Verteidigungs- und Compliance-Strategien.

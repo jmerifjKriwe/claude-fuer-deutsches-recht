@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Weg Hausverwaltung** ordnet Anlagen, Registerdat
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Eigentümerversammlungsprotokoll, Beschlusssammlung, Jahresabrechnung, Wirtschaftsplan, Verwaltervertrag, Teilungserklärung, Gemeinschaftsordnung.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die WEG-Hausverwaltung-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

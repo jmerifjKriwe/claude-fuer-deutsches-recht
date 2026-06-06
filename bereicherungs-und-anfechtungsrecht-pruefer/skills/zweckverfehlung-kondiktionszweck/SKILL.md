@@ -1,6 +1,6 @@
 ---
 name: zweckverfehlung-kondiktionszweck
-description: "Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zweckverfehlung Kondiktionszweck
@@ -105,7 +105,6 @@ Sachverhalt: [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

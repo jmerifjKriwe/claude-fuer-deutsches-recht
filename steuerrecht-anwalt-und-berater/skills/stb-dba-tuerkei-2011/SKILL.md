@@ -13,7 +13,6 @@ description: "DBA Deutschland Tuerkei Neufassung 2011 in Kraft seit 1.8.2012 anw
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwendbar fuer Veranlagungssteuern rueckwirkend ab VZ 2011) loeste das DBA von 1985 ab. Praxisrelevant sind die enormen Personenbezuege Deutschland-Tuerkei (Tuerkische Diaspora, Doppelansaessigkeit), Bauausfuehrungen tuerkischer Unternehmen in Deutschland und umgekehrt, Pensionen deutscher Rentner mit Wohnsitz Tuerkei und Beteiligungseinkuenfte.

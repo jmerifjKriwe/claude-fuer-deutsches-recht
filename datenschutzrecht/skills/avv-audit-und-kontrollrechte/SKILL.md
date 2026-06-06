@@ -109,7 +109,6 @@ Audit-Klausel:
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

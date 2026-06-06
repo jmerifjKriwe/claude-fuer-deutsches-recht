@@ -1,6 +1,6 @@
 ---
 name: ein-wohnhaus
-description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EIN Wohnhaus

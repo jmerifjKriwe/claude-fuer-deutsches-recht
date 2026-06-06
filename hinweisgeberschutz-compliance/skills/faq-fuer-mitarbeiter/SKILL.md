@@ -1,6 +1,6 @@
 ---
 name: faq-fuer-mitarbeiter
-description: "Schreibt verständliche Mitarbeiter-FAQ: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # FAQ Fuer Mitarbeiter
@@ -16,8 +16,6 @@ Schreibt verständliche Mitarbeiter-FAQ. Die Prüfung konzentriert sich auf dies
 - Tragende Normen verifizieren: HinSchG §§ 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG § 84, BDSG § 26, DSGVO Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung, Eingangsbestätigung, Untersuchungsbericht, Maßnahmenkatalog, Schulungsnachweis, Risikoanalyse, Meldestelle-Konzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Wofür dieser Arbeitsgang da ist
 Was melden, wie melden, Schutz, Vertraulichkeit, falsche Meldungen, Rückmeldung und Beispiele.

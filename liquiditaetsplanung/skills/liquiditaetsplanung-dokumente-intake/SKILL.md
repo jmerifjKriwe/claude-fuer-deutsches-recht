@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Liquiditaetsplanung** ordnet Anlagen, Registerda
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Liquiditätsstatus, Finanzplan, Liquiditätsvorschau 3 Wochen / 3–6–12 Monate, Fortbestehensprognose, Sanierungsgutachten IDW S 6.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Liquiditätsplanung und Insolvenzrecht-Schnittstelle-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

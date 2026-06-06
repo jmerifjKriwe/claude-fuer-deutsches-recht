@@ -5,8 +5,6 @@ description: "Stempelt: Internationaler Bezug und Schnittstellen im Plugin Anlag
 
 # Stempelt: Internationaler Bezug und Schnittstellen
 
-
-
 ## Spezialwissen: Stempelt: Internationaler Bezug und Schnittstellen
 - **Konkreter Gegenstand:** Stempelt: Internationaler Bezug und Schnittstellen im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

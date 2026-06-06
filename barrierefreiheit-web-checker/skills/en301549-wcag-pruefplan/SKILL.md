@@ -1,6 +1,6 @@
 ---
 name: en301549-wcag-pruefplan
-description: "Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan im Barrierefreiheit Web Checker: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # EN 301 549 und WCAG-Prüfplan
@@ -57,7 +57,6 @@ Pro Befund: Erfolgskriterium (z. B. WCAG 2.1 SC 1.4.3 Contrast Minimum AA), EN-3
 
 ## Trade-off
 Reine Tool-Audits (Axe, Lighthouse, Wave) decken nur ca. 30-40 % der WCAG-Verstöße ab. Tastatur- und Screenreader-Manualtests bleiben unverzichtbar; nutzungsorientierte Tests mit Betroffenen sind das Gold-Standard.
-
 
 ## Qualitäts-Hardening
 

@@ -6,14 +6,10 @@ description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und 
 # Frist und Mahnung höflich formulieren
 
 ## Fachkern: Frist und Mahnung höflich formulieren
-- **Spezialgegenstand:** Frist und Mahnung höflich formulieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristsetzungen bereit. Auch rechtlich verbindliche Aufforderungen können höflich formuliert werden — und wirken dann oft wirksamer, weil sie die Kooperationsbereitschaft des Adressaten erhalten.
-
 
 ## Triage zu Beginn
 1. In welcher Mahnstufe befinden wir uns: erste Erinnerung, qualifizierte Mahnung oder letzte Fristsetzung?
@@ -77,7 +73,6 @@ Mit freundlichen Gruessen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Die drei Mahnstufen
 

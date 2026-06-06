@@ -155,7 +155,6 @@ Wenn im Termin neuer Vortrag der Gegenseite kommt:
 
 Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -268,7 +267,6 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). § 495a ZPO: Wertgrenze 1.000 EUR (Anhebung von 600 EUR). § 511 II Nr. 1 ZPO: Berufungs-Beschwer 1.000 EUR (Anhebung von 600 EUR). MJP (Mein Justizpostfach) ist seit 2024 im Buerger-Betrieb.
-
 
 ## Qualitäts-Hardening
 
@@ -385,7 +383,6 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

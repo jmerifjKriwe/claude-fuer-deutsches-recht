@@ -1,6 +1,6 @@
 ---
 name: post-grenzueberschreitende-paketzustellung
-description: "Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Post: Grenzüberschreitende Paketzustellung
@@ -17,10 +17,7 @@ Post / Grenzüberschreitende Paketzustellung: anwaltlicher für Verfahren, Anzei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Post: Grenzüberschreitende Paketzustellung
-- **Spezialgegenstand:** Post: Grenzüberschreitende Paketzustellung - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
 - **Normen- und Behördenanker:** PostG, Universaldienst, Entgelt-/Teilleistungszugang, Qualitätsvorgaben, Beschwerde- und Schlichtungsstrukturen sowie aktuelle BNetzA-Festlegungen.
 - **Spezifische Weiche:** Trenne Universaldienst, Lizenz-/Anzeige, Netzzugang, Entgelt, Zustellqualität und Verbraucherbeschwerde; bei Postverfahren sind Tatsachenprotokolle zu Laufzeiten, Einlieferung und Zustellung zentral.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.

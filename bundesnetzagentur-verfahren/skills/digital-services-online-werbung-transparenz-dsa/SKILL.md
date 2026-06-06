@@ -1,6 +1,6 @@
 ---
 name: digital-services-online-werbung-transparenz-dsa
-description: "Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
@@ -16,8 +16,6 @@ Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, 
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Arbeit an den DSA-Transparenzpflichten für Online-Werbung. Plattformen müssen jede Werbung als solche kennzeichnen, den Werbetreibenden offenlegen, die Hauptparameter der Zielausrichtung erklären (Art. 26 DSA) und – im Fall sehr großer Online-Plattformen und Suchmaschinen – ein durchsuchbares, mindestens ein Jahr archiviertes Werbe-Repository unterhalten (Art. 39 DSA). Daneben gelten Verbote für werbliche Profilbildung bei Minderjährigen (Art. 28 Abs. 2 DSA) und für die Nutzung sensibler personenbezogener Daten (Art. 26 Abs. 3 DSA).

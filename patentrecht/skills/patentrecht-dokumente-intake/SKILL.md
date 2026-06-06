@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Kor
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Patentrecht-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

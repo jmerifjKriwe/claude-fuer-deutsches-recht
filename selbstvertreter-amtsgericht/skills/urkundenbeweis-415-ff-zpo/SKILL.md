@@ -133,7 +133,6 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -119,7 +119,6 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 
 Stand: 05/2026. SGG aktuell.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

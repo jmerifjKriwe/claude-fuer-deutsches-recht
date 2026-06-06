@@ -115,7 +115,6 @@ Stand: 05/2026.
 - BMF v. 17.11.2017, v. 09.01.2020.
 - Verifikations-Hinweis: § 3 Nr. 37 EStG gueltig bis 31.12.2030.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

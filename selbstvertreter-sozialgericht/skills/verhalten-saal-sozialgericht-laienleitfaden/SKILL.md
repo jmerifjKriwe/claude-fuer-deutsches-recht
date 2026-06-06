@@ -134,7 +134,6 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 
 Stand: 05/2026. Praxis-Hinweise.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

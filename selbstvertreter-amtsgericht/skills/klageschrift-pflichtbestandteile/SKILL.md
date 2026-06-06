@@ -228,7 +228,6 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 
 Stand: 05/2026. § 253 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -419,7 +418,6 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -570,7 +568,6 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

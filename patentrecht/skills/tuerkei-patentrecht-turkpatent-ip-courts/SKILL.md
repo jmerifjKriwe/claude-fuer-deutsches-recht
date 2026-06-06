@@ -1,6 +1,6 @@
 ---
 name: tuerkei-patentrecht-turkpatent-ip-courts
-description: "Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Türkei: TURKPATENT und IP-Gerichte
@@ -16,8 +16,6 @@ Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Aufgabe
 
@@ -40,7 +38,6 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 4. **PI, Zollmaßnahmen und Beweissicherung als Eiloptionen markieren.**
 5. **Lokale Counsel-Anfrage mit Produkt- und Patentunterlagen bauen.**
 
-
 ## Prüfmatrix
 
 | Ebene | Prüffrage | Ergebnis |
@@ -59,7 +56,6 @@ Erzeuge je nach Auftrag:
 - Customs/PI Option Note.
 - Invalidity/Infringement Matrix.
 - Counsel Questions.
-
 
 ## Anschluss-Skills
 

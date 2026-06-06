@@ -117,7 +117,6 @@ Stand: 05/2026.
 - EStG §§ 41b, 41c.
 - DEUEV.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

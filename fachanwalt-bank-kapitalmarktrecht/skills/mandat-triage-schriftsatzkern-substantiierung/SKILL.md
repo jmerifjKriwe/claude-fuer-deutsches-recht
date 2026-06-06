@@ -215,7 +215,6 @@ Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 
 Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgerichtshof.de, dejure.org, curia.europa.eu) verifiziert. Frühere Modellwissen-Platzhalter sind durch belegte Aktenzeichen ersetzt. Vor Versand vom Anwalt erneut zu prüfen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -323,7 +322,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Bank-, Kapitalmarkt- und Wertpapierrecht
 
@@ -437,8 +435,6 @@ Vor Versand:
 **Fokus:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-
 
 ## Spezialwissen: Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Konkreter Gegenstand:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

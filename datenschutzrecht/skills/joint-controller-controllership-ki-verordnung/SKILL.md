@@ -627,7 +627,6 @@ Date: Date:
 - Citation rules: `../../../references/zitierweise.md`.
 ```
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

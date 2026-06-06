@@ -57,7 +57,6 @@ Ob ein Anbieter solche Zusätze akzeptiert, muss am konkreten Vertragsstand live
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Punkt | Status | Ampel | Bemerkung |
 |---|---|---|---|
 | Sitz Anbieter (Hauptvertragspartei) | | | |
@@ -117,7 +116,6 @@ Anbieter Sitz EU/EWR?
  → Vergleichbarkeitsnachweis positiv erforderlich → i.d.R. rote Ampel
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

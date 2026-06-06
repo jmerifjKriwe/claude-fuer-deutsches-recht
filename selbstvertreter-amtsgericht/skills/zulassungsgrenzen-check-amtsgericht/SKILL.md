@@ -94,7 +94,6 @@ Nach Urteil:
 - Bei knappem Streitwert nicht kreativ kleinrechnen. Teilklage nur mit deutlichem Hinweis auf Risiken.
 - Bei Berufung nie verschweigen, dass vor dem Landgericht Anwaltszwang besteht.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

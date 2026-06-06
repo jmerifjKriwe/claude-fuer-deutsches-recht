@@ -41,7 +41,6 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die libertäre Methodenkritik stellt die Vertragsfreiheit ins Zentrum und sieht staatliche und richterliche Eingriffe in Vertragsinhalt und -auslegung als Übergriff auf die autonome Selbstbestimmung der Parteien. Dieses Skill systematisiert diese Position und hilft, ihre methodische Tragfähigkeit kritisch zu bewerten.
 
 ## Mandantenfall
@@ -130,7 +129,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die wichtigste Vorfrage jeder Analogie ist die Lückenfeststellung. Wer einer Analogie bedarf, muss zuerst beweisen, dass eine planwidrige Regelungslücke und keine bewusste Gesetzesablehnung vorliegt. Dieses Skill systematisiert diese Unterscheidung und schützt vor dem häufigsten methodischen Fehler bei der Rechtsfortbildung.
 
 ## Mandantenfall
@@ -218,7 +216,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Das Bauleitungsrecht zeichnet sich durch ein Zusammenspiel vertraglicher, deliktischer und bereicherungsrechtlicher Ansprüche aus, die methodisch in einer strukturierten Pyramide aufgebaut werden müssen. Dieses Skill führt durch die systematische Anspruchsprüfung im Bau- und Architektenrecht.
 
@@ -309,7 +306,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Das Richterrecht ist eine faktische Rechtsquelle im deutschen Zivilrecht, die methodisch strenge Anforderungen an ihre Entstehung und Fortgeltung stellt. Dieses Skill analysiert die Grundlagen des Richterrechts, seine demokratische Legitimation, die Behandlung von Präjudizien und die methodischen Anforderungen an distinguishing und overruling.
 
 ## Mandantenfall
@@ -397,7 +393,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die verfassungskonforme Auslegung ist das vornehmste Instrument der Normerhaltung: Sie bewahrt eine Norm, die bei einer Lesart verfassungswidrig wäre, durch Wahl der verfassungskonformen Auslegungsalternative. Dieses Skill vermittelt die Methodik, zeigt die Voraussetzungen und markiert die Grenzen des Instruments.
 

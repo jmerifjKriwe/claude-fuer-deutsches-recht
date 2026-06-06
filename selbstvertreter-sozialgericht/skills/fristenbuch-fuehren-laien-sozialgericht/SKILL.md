@@ -128,7 +128,6 @@ Wer mehrere Sachen hat:
 
 Stand: 05/2026. Praxis-Tipps.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

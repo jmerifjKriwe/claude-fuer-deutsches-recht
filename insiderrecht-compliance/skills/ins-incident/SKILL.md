@@ -1,6 +1,6 @@
 ---
 name: ins-incident
-description: "INS Incident im Insiderrecht und Compliance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # INS Incident

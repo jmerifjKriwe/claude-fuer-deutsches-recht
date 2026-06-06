@@ -165,7 +165,6 @@ Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-an
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -311,7 +310,6 @@ E. V. ist haeufig die einfachste Form.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: whistleblowing-hinschg
-description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin im Startup-HR Berlin: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Whistleblowing Hinschg
@@ -31,11 +31,8 @@ description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berl
 # Whistleblowing HinSchG HR Schnittstelle
 
 ## Fachkern: Whistleblowing HinSchG HR Schnittstelle
-- **Spezialgegenstand:** Whistleblowing HinSchG HR Schnittstelle wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.
 - **Entscheidende Weiche:** Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Rolle
 

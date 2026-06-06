@@ -13,7 +13,6 @@ description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassung
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller deutschen Doppelbesteuerungsabkommen. Mit den BEPS-Anpassungen 2017 und dem Multilateralen Instrument (MLI) seit 2018 wurden zentrale Vorschriften modifiziert, ohne dass alle bilateralen Abkommen neu verhandelt werden mussten. Dieser Skill bildet das Pruefungsraster, das in jedem laenderspezifischen Skill vorausgesetzt wird, und ist Einstiegspunkt fuer jeden grenzueberschreitenden Steuerfall.

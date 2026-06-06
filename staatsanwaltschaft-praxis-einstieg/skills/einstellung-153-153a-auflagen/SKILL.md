@@ -6,15 +6,12 @@ description: "Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: P
 # Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
 
 ## Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
-- **Spezialgegenstand:** Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Geringfügigkeit, öffentliches Interesse, Zustimmung, Auflagenhöhe und Opferinteressen
 

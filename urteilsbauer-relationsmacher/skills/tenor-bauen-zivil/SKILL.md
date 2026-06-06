@@ -7,7 +7,6 @@ description: "Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Ent
 
 Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 
-
 ## Triage zu Beginn
 
 1. Welche Anträge wurden gestellt — Hauptantrag, Hilfsantrag, Widerklage?

@@ -143,7 +143,6 @@ Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinande
 
 Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prüfen — Verfahrensregeln ändern sich.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

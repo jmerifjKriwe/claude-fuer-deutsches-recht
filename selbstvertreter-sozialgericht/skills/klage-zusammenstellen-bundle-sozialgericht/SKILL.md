@@ -123,7 +123,6 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 
 Stand: 05/2026. Praxis der Sozialgerichte.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -13,7 +13,6 @@ description: "DBA Deutschland Island. Anwendungsfall Fischerei Geothermie Touris
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, jedoch durch Protokoll vom 20.06.1996 modernisiert. Praxisrelevant sind Fischerei (Trawler-Aktivitaeten), Geothermie/Energie, Tourismusinvestitionen. Island ist EWR-Mitglied — keine direkte MTRL-Anwendung.

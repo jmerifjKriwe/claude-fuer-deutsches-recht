@@ -5,7 +5,6 @@ description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: 
 
 # Clean-Output
 
-
 ## Triage zu Beginn
 
 1. Sind alle Pflichtfelder gefüllt und alle Platzhalter aufgelöst?

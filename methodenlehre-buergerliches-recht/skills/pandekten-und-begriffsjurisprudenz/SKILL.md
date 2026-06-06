@@ -106,7 +106,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

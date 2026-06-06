@@ -100,7 +100,6 @@ Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

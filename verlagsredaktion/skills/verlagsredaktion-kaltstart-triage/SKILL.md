@@ -63,7 +63,6 @@ Wenn nur Dateien kommen:
 - Fremdmaterial vorsichtig behandeln.
 - Immer nächste Aktion liefern.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

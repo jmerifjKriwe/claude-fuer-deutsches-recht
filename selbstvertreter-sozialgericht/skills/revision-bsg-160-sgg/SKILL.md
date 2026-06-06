@@ -95,7 +95,6 @@ Oft im schriftlichen Verfahren. Bei muendlicher Verhandlung: Anwalt vertritt Sie
 
 Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.bund.de.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

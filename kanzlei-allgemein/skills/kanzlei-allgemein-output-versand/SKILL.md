@@ -5,7 +5,6 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 
 # Output und Versandsteuerung
 
-
 ## Triage zu Beginn
 1. Welcher Versandkanal ist fuer diesen Ausgang vorgesehen: beA, Brief, Fax, E-Mail, Mandantenportal?
 2. Ist der Entwurf vom Anwalt freigegeben (persoenliche Freigabe Pflicht bei beA-Versand)?

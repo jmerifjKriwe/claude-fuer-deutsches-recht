@@ -147,7 +147,6 @@ Die gesamte Skill ist eine Aufzaehlung typischer Fehler — siehe oben Fehler 1 
 
 Stand: 05/2026. Praxis-Erfahrung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

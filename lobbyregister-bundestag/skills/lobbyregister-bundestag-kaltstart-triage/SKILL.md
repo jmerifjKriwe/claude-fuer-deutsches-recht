@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Lobbyregister Bundestag
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Lobbyregister Bundestag — Allgemein
 
 ## Schnellstart-Workflow
@@ -322,7 +320,6 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - Handbuch der registerfuehrenden Stelle des Deutschen Bundestags
 - Bundestag Hinweise zur Rechtslage ab 01.03.2024: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-zur-neuen-rechtslage-ab-dem-1-maerz-2024-955618
 - Lobbyregister-Portal: https://www.lobbyregister.bundestag.de
-
 
 ## Qualitäts-Hardening
 

@@ -161,7 +161,6 @@ Arbeite daher immer zweistufig:
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
 - AGVO Art. 2 Nr. 84 bis 86 (vom Antragsteller mit konsolidierter Fassung zu prüfen).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

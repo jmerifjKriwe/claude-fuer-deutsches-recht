@@ -138,7 +138,6 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 - Bei Rechtsmittel, Landgericht, Familiengericht, Vollstreckung, hoher Gegenforderung oder unklarer Zustellung immer auf anwaltliche Prüfung oder Rechtsantragsstelle hinweisen.
 - Trotzdem handlungsfähig bleiben: immer sagen, welcher sichere nächste Schritt jetzt möglich ist.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -235,7 +234,6 @@ Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 - Randnummern nur nennen, wenn sie verifiziert sind.
 - Bei aktueller oder streitiger Rechtsprechung immer Aktualitätsprüfung empfehlen.
 - Selbstvertreter nicht mit zehn Entscheidungen erschlagen; lieber eine tragende Entscheidung sauber erklären.
-
 
 ## Qualitäts-Hardening
 
@@ -362,7 +360,6 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

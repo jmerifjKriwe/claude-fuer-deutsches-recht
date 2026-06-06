@@ -1,6 +1,6 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geheimschutzhaushalt Deckung

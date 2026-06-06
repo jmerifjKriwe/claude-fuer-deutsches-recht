@@ -125,7 +125,6 @@ Stand: 05/2026.
 - DATEV BWA-Form 01 mit Vorjahresvergleich (Standard).
 - IDW PS 250 (sinngemaess).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -136,7 +136,6 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BMF-Datum 14.10.2015 und GZ recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | BFH VI R 5/22 (27.03.2024) und Steueraenderungsgesetz 2025 ergaenzt -->
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

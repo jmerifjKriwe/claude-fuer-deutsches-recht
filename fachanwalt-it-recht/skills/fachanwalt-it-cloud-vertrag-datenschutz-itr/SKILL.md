@@ -85,7 +85,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schreibvorlage Geltendmachung der Vertragsstrafe
 
 ```
@@ -179,7 +178,6 @@ Weitergehende Schadensersatzansprueche bleiben vorbehalten (§ 340 Abs. 2 BGB).
 Mit freundlichen Gruessen
 [KANZLEI]
 ```
-
 
 <!-- AUDIT 27.05.2026 bundle_055
 Halluzinations-Reparatur: BGH VII ZR 117/15 (NOT_FOUND) geloescht.
@@ -325,7 +323,6 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 - NIS-2 Richtlinie (EU) 2022/2555 vom 14.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -442,7 +439,6 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 07/2020 zu den Begriffen Verantwortlicher und Auftragsverarbeiter, Version 2.0, angenommen 07.07.2021.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -458,11 +454,7 @@ Sieben-Fragen-Diagnose:
 # IT: KI-Systeme Vertragsklausel
 
 ## Spezialwissen: IT: KI-Systeme Vertragsklausel
-- **Spezialgegenstand:** IT: KI-Systeme Vertragsklausel / itr ki systeme vertragsklausel leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, IT.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -511,11 +503,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 # IT: SaaS-Vertrag Bauleiter
 
 ## Spezialwissen: IT: SaaS-Vertrag Bauleiter
-- **Spezialgegenstand:** IT: SaaS-Vertrag Bauleiter / itr saas vertrag bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** IT.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

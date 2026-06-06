@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-warnung-paragraph-starug
-description: "Prüffeld für mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüffeld für mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
@@ -323,7 +323,6 @@ _______________________________ _______________________________
 - → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht der GF
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO-Hinweis im Template
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftungsfolgen
-
 
 ## Weitere Leitentscheidungen (Stand Mai 2026)
 

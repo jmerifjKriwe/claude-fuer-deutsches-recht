@@ -28,7 +28,6 @@ Dieser Quellen-Livecheck für **Fachanwalt Insolvenz Sanierungsrecht** trennt am
 
 ## Arbeitsweg
 
-
 - Tragende Normen (InsO, StaRUG, § 14, § 14 InsO, § 15a Gl, §§ 129 ff) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
 - Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
 - Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.

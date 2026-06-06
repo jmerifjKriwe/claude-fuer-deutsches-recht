@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Vertragsrecht** ordnet Anlagen, Registerdaten, K
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Vertragsurkunde, AGB, Anbot/Annahme, Mahnschreiben, Rücktrittserklärung, Kündigungsschreiben, Anfechtungserklärung.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Vertragsrecht (BGB Allgemeiner Teil und Schuldrecht)-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

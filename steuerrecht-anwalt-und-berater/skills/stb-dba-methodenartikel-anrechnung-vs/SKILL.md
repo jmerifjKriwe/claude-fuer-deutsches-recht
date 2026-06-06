@@ -13,7 +13,6 @@ description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird die im Ausland besteuerte Einkunft im Wohnsitzstaat behandelt? Deutsche DBA verwenden ueberwiegend die Freistellungsmethode mit Progressionsvorbehalt (Art. 23A MA), in bestimmten Faellen die Anrechnungsmethode (Art. 23B MA). Daneben greifen nationale Rueckfallklauseln (§ 50d Abs. 8, 9 EStG) und der Switch-Over (§ 20 Abs. 2 AStG). Dieser Skill fuehrt durch die Methoden-Pruefung und liefert das Berechnungsschema.

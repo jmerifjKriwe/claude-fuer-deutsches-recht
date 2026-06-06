@@ -1,6 +1,6 @@
 ---
 name: jveg-zeugenentschaedigung-antrag
-description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zeugenentschaedigung Antrag
@@ -31,11 +31,8 @@ description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung: fachlicher Arb
 # Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Fachkern: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

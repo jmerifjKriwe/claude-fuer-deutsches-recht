@@ -13,7 +13,6 @@ description: "DBA Deutschland Kroatien 2006. Anwendungsfall Tourismus Mittelstan
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Kroatien vom 06.02.2006 (BGBl. 2006 II S. 1112) regelt das Verhaeltnis zum EU-Mitglied Kroatien (Beitritt 01.07.2013, Euro-Mitglied seit 01.01.2023). Praxisrelevant sind Tourismusinvestitionen (Adria, Istrien), Mittelstandsbeziehungen, Pensionen kroatischer Pensionaere mit Wohnsitz Deutschland.

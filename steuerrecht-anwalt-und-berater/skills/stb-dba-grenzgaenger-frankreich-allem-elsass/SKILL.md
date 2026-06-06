@@ -13,7 +13,6 @@ description: "Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothrin
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsprotokoll und in der Verwaltungsvereinbarung vom 16.02.2006 geregelt und unterscheidet sich von OECD-Standard. Sie erfasst Arbeitnehmer mit Wohnsitz in der Grenzzone einer Vertragsseite (in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt) und Taetigkeitsort in der Grenzzone der anderen Vertragsseite, die arbeitstaeglich zurueckkehren. Folge ist die ausschliessliche Besteuerung im Wohnsitzstaat. Schaedlichkeit greift bei Ueberschreitung der zulaessigen Nicht-Rueckkehrtage (in der Literatur regelmaessig mit 45 Tagen pro Jahr referenziert — **Schwelle, Zaehlweise und Sonderregeln strikt aus Verwaltungsvereinbarung 16.02.2006 und einschlaegigem BMF-Schreiben uebernehmen, nicht aus diesem Skill**).

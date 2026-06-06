@@ -13,7 +13,6 @@ description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf fü
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Dieser Skill führt alle Bausteine des KüSchK-Laien-Workflows zu einem vollständigen, druckfertigen Klageschrift-Entwurf zusammen — inklusive Pflicht-Disclaimer-Kopf.

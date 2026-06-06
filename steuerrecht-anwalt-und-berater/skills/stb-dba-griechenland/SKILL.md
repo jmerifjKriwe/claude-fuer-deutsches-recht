@@ -13,7 +13,6 @@ description: "DBA Deutschland Griechenland 1966. Anwendungsfall Schifffahrt Tour
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltesten DBA und wurde nie grundlegend neu verhandelt. Praxisrelevant sind griechische Reedereien (Schifffahrt), Tourismusbeteiligungen, Pensionen (insbesondere deutsche Rentner mit Wohnsitz Griechenland nach Beendigung der Erwerbstaetigkeit) und Verlassenschaften.

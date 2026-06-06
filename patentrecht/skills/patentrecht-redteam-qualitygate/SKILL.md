@@ -44,7 +44,6 @@ description: "Red-Team- und Qualitätsgate für patentrechtliche Outputs: prüft
 - **Erfinderbenennung § 37 PatG:** richtig benannt? Sonst Vindikationsanspruch § 8 PatG.
 - **Strategische Falle:** "Hat man auch an Vorbenutzungsrecht § 12 PatG gedacht?" — oft Schlüssel bei Verletzung gegen langjährig benutzte Lehre.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

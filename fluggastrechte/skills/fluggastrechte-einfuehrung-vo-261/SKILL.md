@@ -6,11 +6,7 @@ description: "Einfuehrung VO (EG) 261/2004: Anwendungsbereich (Abflug aus EU, An
 # Fluggastrechte VO 261: Einfuehrung
 
 ## Spezialwissen: Fluggastrechte VO 261: Einfuehrung
-- **Spezialgegenstand:** Fluggastrechte VO 261: Einfuehrung / fluggastrechte einfuehrung vo 261. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG, EU, Art. 9.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

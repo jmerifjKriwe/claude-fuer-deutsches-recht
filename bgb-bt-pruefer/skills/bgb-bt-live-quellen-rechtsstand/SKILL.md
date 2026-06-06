@@ -71,7 +71,6 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 - bt-fristen-erklaerungen-zugang
 - amtlicher-bgb-bt-normcheck
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/

@@ -1,6 +1,6 @@
 ---
 name: zitierweise-anwenden-02
-description: "Anwenden 02 im Zitierweise im deutschen Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Anwenden 02 im Zitierweise im deutschen Recht im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwenden 02

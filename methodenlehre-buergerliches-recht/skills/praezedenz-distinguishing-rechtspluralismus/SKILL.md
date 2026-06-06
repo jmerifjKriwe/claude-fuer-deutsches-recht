@@ -41,7 +41,6 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Das deutsche Recht kennt keine formelle Stare-decisis-Doktrin, aber eine starke faktische Bindungswirkung von BGH-Entscheidungen. Dieses Skill systematisiert, wie mit Präzedenzfällen methodisch korrekt umgegangen wird, wann distinguishing zulässig ist und unter welchen Voraussetzungen overruling methodisch legitimiert werden kann.
 
 ## Mandantenfall
@@ -129,7 +128,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -223,7 +221,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -245,7 +242,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Rechtsvergleichung ist eine anerkannte Erkenntnisquelle in der deutschen Methodenlehre. Dieses Skill zeigt, wann und wie ausländisches Recht methodisch korrekt als Auslegungshilfe oder Rechtsfortbildungsargument eingesetzt werden kann und wo die Grenzen liegen, die eine unkritische Übernahme fremder Rechtslösungen unzulässig machen.
 
@@ -335,7 +331,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Richterliche Zurückhaltung ist keine Feigheit, sondern institutionelle Klugheit: In bestimmten Situationen gebietet das Demokratieprinzip, dass Gerichte normative Entscheidungen dem Gesetzgeber überlassen. Dieses Skill systematisiert die Bedingungen richterlicher Zurückhaltung und hilft, die Grenze zwischen gebotener Zurückhaltung und unzulässiger Entscheidungsverweigerung zu ziehen.
 
 ## Mandantenfall
@@ -423,7 +418,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Gerichte entwickeln das Recht fort — doch häufig geschieht dies verdeckt unter dem Deckmantel der "Auslegung". Methodisch redliches Arbeiten erfordert, diese Rechtsschöpfung offen zu benennen, ihren Geltungsgrund zu prüfen und ihre Grenzen zu benennen. Dieses Skill schärft den Blick für richterliche Rechtsfortbildung und stärkt die Fähigkeit, solche Entscheidungen argumentativ einzuordnen.
 

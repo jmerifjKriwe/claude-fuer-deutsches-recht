@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeu
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Arbeitszeugnis-Analyse - Allgemein
 
 Dieser Skill ist der Eingang in das Plugin. Er soll nicht wie ein Formular wirken, sondern wie eine gute erste Durchsicht in der Kanzlei: Was liegt vor, was ist gefährlich, was ist nur ungeschickt formuliert, und welcher nächste Arbeitsschritt bringt den Fall wirklich weiter?

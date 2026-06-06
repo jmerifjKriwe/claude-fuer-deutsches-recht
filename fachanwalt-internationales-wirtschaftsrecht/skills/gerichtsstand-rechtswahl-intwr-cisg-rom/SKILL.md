@@ -100,7 +100,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatz-Bausteine
 
 ### Gerichtsstands- und Rechtswahlklausel (B2B, Deutschland als Gerichtsstand)

@@ -156,7 +156,6 @@ Stand: 05/2026.
 - IDW PS 480, IDW PS 305, DRS 17.
 - DStV-Praxisleitfaden.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

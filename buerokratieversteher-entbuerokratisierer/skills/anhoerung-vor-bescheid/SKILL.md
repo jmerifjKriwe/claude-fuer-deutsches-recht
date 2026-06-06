@@ -1,6 +1,6 @@
 ---
 name: anhoerung-vor-bescheid
-description: "Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anhoerung vor Bescheid
@@ -16,8 +16,6 @@ Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt e
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Worum geht es konkret
 Vor jedem belastenden Verwaltungsakt muss die Behoerde grundsaetzlich anhoeren — § 28 VwVfG. Die Anhoerung ist die letzte Chance, Sachverhalt und Argumente einzubringen, bevor der Bescheid ergeht. Wer nicht reagiert, kann meist nur noch im Widerspruch/Klage agieren.

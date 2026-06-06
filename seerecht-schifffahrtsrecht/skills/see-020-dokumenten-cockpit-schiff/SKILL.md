@@ -1,6 +1,6 @@
 ---
 name: see-020-dokumenten-cockpit-schiff
-description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
@@ -16,8 +16,6 @@ Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein neuer Schiffsfinancier übernimmt ein Schiffsportfolio und benötigt eine sofortige Übersicht aller schiffsrelevanten Dokumente und deren Laufzeiten. Eine Reederei bereitet ein Schiff auf eine Charter vor und muss gegenüber dem Charterer alle Zertifikate nachweisen. Ein Port-State-Control-Inspektor hat Mängel festgestellt; welche Dokumente fehlen oder sind abgelaufen?
@@ -57,7 +55,6 @@ Ein neuer Schiffsfinancier übernimmt ein Schiffsportfolio und benötigt eine so
 - Checkliste Dokumente für PSC-Inspektion
 - Lücken-Report mit Maßnahmenplan
 
-
 ## Erweiterte Normengrundlage
 
 ### Zertifizierungspflichten
@@ -83,7 +80,6 @@ Ein neuer Schiffsfinancier übernimmt ein Schiffsportfolio und benötigt eine so
 - OLG Hamburg zur Haftung des Reeders bei Ablauf des SMC; ISM-Code als Sorgfaltsmaßstab.
 - BGH zur Relevanz des Klassenzertifikats für die H&M-Versicherungsdeckung.
 - BVerwG zur Befugnis des BSH; abgelaufene Zertifikate führen zum Anhalten des Schiffes.
-
 
 ## Praxishinweis
 

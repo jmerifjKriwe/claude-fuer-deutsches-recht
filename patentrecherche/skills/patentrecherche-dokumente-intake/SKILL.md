@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Patentrecherche** ordnet Anlagen, Registerdaten,
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Patentrecherche und FTO-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

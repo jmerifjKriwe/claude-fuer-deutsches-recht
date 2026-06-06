@@ -1,6 +1,6 @@
 ---
 name: restructuring-lounge-impulsvortrag-toolkit
-description: "Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung
@@ -196,7 +196,6 @@ Veranstaltungsformate, bei denen Impulsgespräche zu Restrukturierungsthemen im 
 - → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW S 6 Stadienmodell als Folie 3
 - → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Ampel als Anschauungsbeispiel
 - → `mandantenbrief-warnung-paragraph-102-starug-template` — Take-away für Berater im Publikum
-
 
 ## Triage — Erste Einordnung
 

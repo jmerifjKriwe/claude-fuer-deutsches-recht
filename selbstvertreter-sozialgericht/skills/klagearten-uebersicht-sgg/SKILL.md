@@ -128,7 +128,6 @@ Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage s
 
 Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft das Gericht oft (Hinweispflicht, § 106 SGG).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

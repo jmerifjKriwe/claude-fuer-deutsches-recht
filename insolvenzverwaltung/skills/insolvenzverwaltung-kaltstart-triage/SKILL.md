@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzverwaltung-Plu
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Insolvenzverwaltung — Allgemein
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
@@ -23,7 +21,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzverwaltung-Plu
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -294,7 +291,6 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - Gesetzesfassungen zum Stand-Datum
 - InsO in der geltenden Fassung; bei Anfechtung zusätzlich Reform 2017 und Übergangsrecht prüfen
 - StaRUG (Gesetz zur Fortentwicklung des Sanierungs- und Insolvenzrechts)
-
 
 ## Qualitäts-Hardening
 

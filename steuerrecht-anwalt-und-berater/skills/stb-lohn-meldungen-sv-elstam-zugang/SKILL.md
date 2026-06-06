@@ -129,7 +129,6 @@ Stand: 05/2026.
 - BMF-Rundschreiben ELStAM.
 - ITSG-Spezifikation.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

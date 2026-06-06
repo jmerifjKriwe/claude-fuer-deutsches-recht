@@ -119,7 +119,6 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -39,7 +39,6 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Strategische Begleitung bei Vergleichen mit mehreren Beteiligten oder komplexen Interessenlagen — insbesondere bei Restrukturierungen, Sozialplan-Verhandlungen und kollektivrechtlichen Einigungen mit individualrechtlichen Folgen.
 
@@ -146,7 +145,6 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Sicherstellung, dass der Mandant eine informierte, eigenverantwortliche Entscheidung trifft, bevor der Anwalt rechtsverbindliche Schritte unternimmt. Dieser Skill schützt vor Haftungsrisiken und stärkt die Vertrauensbasis.

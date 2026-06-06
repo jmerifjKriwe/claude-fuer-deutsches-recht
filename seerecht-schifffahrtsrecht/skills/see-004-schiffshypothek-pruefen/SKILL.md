@@ -1,6 +1,6 @@
 ---
 name: see-004-schiffshypothek-pruefen
-description: "Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schiffshypothek prüfen
@@ -16,8 +16,6 @@ Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Eine Schiffsfinanzierungsbank prüft, ob ihre erstrangige Schiffshypothek noch valutiert und durchsetzbar ist, nachdem der Reeder in Zahlungsschwierigkeiten geraten ist. Ein Käufer möchte wissen, welchen Wert eine eingetragene Höchstbetragshypothek in der Zwangsvollstreckung hat. Ein Insolvenzverwalter prüft, welche Schiffshypotheken absonderungsberechtigt sind.
@@ -58,7 +56,6 @@ Eine Schiffsfinanzierungsbank prüft, ob ihre erstrangige Schiffshypothek noch v
 - Freigabestrategie-Empfehlung (Ablösung; Umschuldung; Vollstreckung)
 - Checkliste Kreditkündigungsvoraussetzungen
 
-
 ## Erweiterte Normengrundlage
 
 ### Hypothekenrecht
@@ -83,7 +80,6 @@ Eine Schiffsfinanzierungsbank prüft, ob ihre erstrangige Schiffshypothek noch v
 - BGH zur Valutierung der Schiffshypothek; Nachweis gegenüber Drittgläubigern.
 - OLG Hamburg zur Rangverschiebung (SchRG § 59) bei simultanen Anträgen.
 - BGH zur Absonderung in der Reederei-Insolvenz; InsO §§ 49-51.
-
 
 ## Praxishinweis
 

@@ -5,7 +5,6 @@ description: "Kaltstart-Interview für den 3D-Tabellenreview: Fallkategorie, Tab
 
 # /tabellenreview-3d:tabellenreview-3d-kaltstart-interview
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Kaltstart-Interview für den 3D-Tabellenreview: Fallkategorie, Tab
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Ablauf
 

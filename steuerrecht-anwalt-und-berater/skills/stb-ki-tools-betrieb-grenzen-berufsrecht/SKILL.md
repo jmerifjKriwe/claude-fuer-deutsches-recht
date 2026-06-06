@@ -130,7 +130,6 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Output-Verantwortungs-Satz ohne Marker neu formuliert; KI-VO-Anwendungsstufen mit konkreten Daten aus VO 2024/1689 belegt) -->
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: rom-136-intercessio-frauen-senatusconsultum-velleianum
-description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix im Römisches Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum
@@ -16,8 +16,6 @@ Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergscha
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Aufgabe
 

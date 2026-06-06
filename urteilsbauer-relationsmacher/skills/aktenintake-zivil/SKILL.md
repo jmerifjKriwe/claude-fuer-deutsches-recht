@@ -5,7 +5,6 @@ description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter od
 
 # Aktenintake Zivilprozess
 
-
 ## Triage zu Beginn
 
 1. Welche Schriftsätze liegen vor — Klagschrift, Klageerwiderung, Replik, Duplik, Nachreichungen?

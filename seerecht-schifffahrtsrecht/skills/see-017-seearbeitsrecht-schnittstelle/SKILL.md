@@ -1,6 +1,6 @@
 ---
 name: see-017-seearbeitsrecht-schnittstelle
-description: "Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seearbeitsrecht – Heurvertrag und MLC-Compliance
@@ -16,8 +16,6 @@ Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein philippinischer Kapitän wird während einer Reise erkrankt und repatriiert; er fordert Krankenlohn für 16 Wochen; der Reeder bestreitet die Höhe. Ein Seemann beschwert sich beim Flaggenstaatinspektor weil Ruhezeiten systematisch unterschritten werden; MLC-Beschwerdeverfahren wird eingeleitet. Eine Reederei möchte ihre Crew unter deutschem Recht beschäftigen und fragt nach Mindestlöhnen.
@@ -56,7 +54,6 @@ Ein philippinischer Kapitän wird während einer Reise erkrankt und repatriiert;
 - MLC-Compliance-Check Tabelle (Titel 1-4)
 - Repatriierungsrecht-Vermerk
 - Musterbeschwerdeschreiben MLC-Verfahren
-
 
 ## Erweiterte Normengrundlage
 

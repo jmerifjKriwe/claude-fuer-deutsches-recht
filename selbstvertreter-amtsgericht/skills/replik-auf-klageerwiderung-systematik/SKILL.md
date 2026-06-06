@@ -173,7 +173,6 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

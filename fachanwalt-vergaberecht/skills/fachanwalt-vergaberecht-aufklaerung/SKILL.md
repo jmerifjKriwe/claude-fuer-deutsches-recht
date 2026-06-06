@@ -92,7 +92,6 @@ Konsequenz fuer die Klageschrift:
 ## Quellenregel
 BGH-Entscheidungen vor Ausgabe ueber dejure.org oder bundesgerichtshof.de verifizieren (Gericht, Datum, Aktenzeichen, tragende Aussage).
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -155,7 +154,6 @@ Nachforderungsschema, Aufklaerungsfragen, Risikoampel, Vermerk.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -311,7 +309,6 @@ Schritt 5: Zuschlag erteilt?
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -374,7 +371,6 @@ Markterkundungsplan, Vorbefassungscheck, Neutralisierungsmassnahmen, Textbaustei
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

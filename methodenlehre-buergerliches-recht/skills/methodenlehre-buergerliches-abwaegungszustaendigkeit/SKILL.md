@@ -41,7 +41,6 @@ description: "Abwaegungszustaendigkeit im Plugin Methodenlehre Buergerliches Rec
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Abwägungsentscheidungen sind nicht beliebig delegierbar. Dieses Skill klärt, wer im demokratischen Rechtsstaat für welche Abwägungsentscheidung zuständig ist und wo die Grenzen richterlicher Abwägungsautonomie gegenüber dem Gesetzgeber verlaufen. Es ist unverzichtbar überall dort, wo Gerichte in gesetzgeberisches Ermessen einzugreifen drohen.
 
 ## Mandantenfall
@@ -130,7 +129,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Einhaltung von Fristen, die Beachtung von Formvorschriften und die Wahl des zuständigen Forums sind Grundbedingungen jeder erfolgreichen Rechtsdurchsetzung. Ein methodisch sicherer Umgang mit diesen Grundlagen schützt vor folgenreichen Fehlern. Dieses Skill bietet eine strukturierte Prüfanleitung für alle drei Bereiche.
 
@@ -226,7 +224,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Verjährte Ansprüche sind für den Mandanten verloren — und für den Anwalt ein Haftungsfall. Die methodisch saubere Berechnung und Überwachung aller Verjährungsfristen ist daher eine Kernkompetenz der anwaltlichen Praxis. Dieses Skill liefert die Prüfstruktur und die Werkzeuge für eine lückenlose Fristensicherung.
 
 ## Mandantenfall
@@ -317,7 +314,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Staatliche Eingriffe in Vertragsinhalte und Vertragsfreiheit sind nur gerechtfertigt, wenn sie eine nachweisbare Schutzlücke schließen und das mildeste verfügbare Mittel darstellen. Dieses Skill prüft zivilrechtliche Schutzregelungen auf ihren paternalistischen Gehalt und bewertet, ob der Eingriff in die Privatautonomie methodisch und verfassungsrechtlich legitimiert ist.
 
 ## Mandantenfall
@@ -405,7 +401,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Generalklauseln wie § 242 BGB und § 138 BGB sind keine Freifahrtscheine für beliebige richterliche Wertung. Dieses Skill systematisiert die normative Steuerungsfunktion von Generalklauseln und zeigt, wie sie die Abwägung in strukturierten Bahnen halten und Richter dabei an den gesetzgeberischen Willen rückbinden.
 

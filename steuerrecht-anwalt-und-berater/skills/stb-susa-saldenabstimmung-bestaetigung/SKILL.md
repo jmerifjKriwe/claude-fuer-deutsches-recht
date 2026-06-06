@@ -145,7 +145,6 @@ Stand: 05/2026.
 - StBerG § 33.
 - IDW PS 302, IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

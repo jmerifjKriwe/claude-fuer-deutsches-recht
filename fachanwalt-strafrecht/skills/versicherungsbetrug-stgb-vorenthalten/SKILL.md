@@ -241,7 +241,6 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - BGH staendige Rspr. zur Strafbarkeit auch verspaeteter Zahlung.
 - BSG-Linie zur Beitragspflicht bei Scheinwerkvertraegen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -480,7 +479,6 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - Hinweis: Paragraph 244 I Nr 1 a StGB Diebstahl mit Waffe; Paragraph 244 I Nr 2 StGB Bandendiebstahl. Paragraph 244 IV StGB existiert nicht; das ist ein gelegentlicher Irrtum.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -701,7 +699,6 @@ Sonderregel fuer Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 - BGH staendige Rspr. zum ex ante-Sorgfaltsmassstab.
 - BGH staendige Rspr. zur Pflichtenkollision Steuerzahlung vs. Massesicherung.
 - BGH staendige Rspr. zum Sanierungsfenster der 3-Wochen-Frist nach Paragraph 15b Abs 2 Nr 2 InsO.
-
 
 ## Qualitäts-Hardening
 

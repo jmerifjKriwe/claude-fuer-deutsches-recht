@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Berufsrecht Ki Vertragspruefung** ordnet Anlagen
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Berufsrecht Ki Vertragspruefung-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

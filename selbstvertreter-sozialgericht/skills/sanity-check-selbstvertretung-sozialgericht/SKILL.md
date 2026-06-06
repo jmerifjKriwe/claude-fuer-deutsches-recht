@@ -114,7 +114,6 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 - Bei Eilrechtsschutz immer Anordnungsanspruch und Anordnungsgrund trennen.
 - Keine ärztlichen Diagnosen erfinden; medizinische Angaben nur aus Unterlagen übernehmen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

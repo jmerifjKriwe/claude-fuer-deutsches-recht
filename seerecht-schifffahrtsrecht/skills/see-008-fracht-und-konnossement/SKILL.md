@@ -1,6 +1,6 @@
 ---
 name: see-008-fracht-und-konnossement
-description: "Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung
@@ -16,8 +16,6 @@ Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; In
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Importeur erhält beschädigte Ware; das Konnossement ist geklauselt; er fragt ob und wie er den Verfrachter in Anspruch nehmen kann. Eine Bank hält ein Orderkonnossement als Kreditsicherheit und fragt nach Schutz bei Insolvenz des Abladers. Ein Verfrachter wird mit einer Schadensklage konfrontiert; das Konnossement enthält den Vermerk 'said to contain'.
@@ -57,7 +55,6 @@ Ein Importeur erhält beschädigte Ware; das Konnossement ist geklauselt; er fra
 - Haftungsgrenzen-Berechnung
 - Musterbrief Schadensmeldung an Verfrachter
 
-
 ## Erweiterte Normengrundlage
 
 ### Konnossementsrecht
@@ -83,7 +80,6 @@ Ein Importeur erhält beschädigte Ware; das Konnossement ist geklauselt; er fra
 - BGH zur Haftung des Verfrachters nach Haager-Visby-Regeln; Haftungsausschlüsse Art. IV.
 - OLG Hamburg zu Claused Bills of Lading; Haftung des Verfrachters gegenüber Indossatar.
 - BGH zum Rückgriff des Verfrachters auf den Ablader bei unrichtigen Konnossementsangaben.
-
 
 ## Praxishinweis
 

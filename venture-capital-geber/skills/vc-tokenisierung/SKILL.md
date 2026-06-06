@@ -1,6 +1,6 @@
 ---
 name: vc-tokenisierung
-description: "VC Tokenisierung im Venture Capital: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # VC Tokenisierung

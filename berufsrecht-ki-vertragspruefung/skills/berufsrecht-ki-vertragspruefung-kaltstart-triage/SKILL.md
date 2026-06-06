@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Berufsrecht KI Vertrags
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Berufsrecht KI-Vertragspruefung — Allgemein
 
 ## Schnellstart-Workflow
@@ -216,7 +214,6 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - Gesetzesfassungen zum Stand-Datum
 - aktueller berufsrechtlicher Debattenstand zur Einordnung von KI-Tools
 - BRAK-Hinweise 12/2024
-
 
 ## Qualitäts-Hardening
 

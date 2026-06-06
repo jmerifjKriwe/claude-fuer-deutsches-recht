@@ -127,7 +127,6 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 
 Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -268,7 +267,6 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 
 Stand: 05/2026. § 310 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -362,7 +360,6 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
-
 
 ## Qualitäts-Hardening
 

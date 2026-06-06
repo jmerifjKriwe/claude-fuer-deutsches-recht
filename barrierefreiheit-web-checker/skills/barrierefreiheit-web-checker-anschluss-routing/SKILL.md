@@ -28,7 +28,6 @@ Dieses Anschluss-Routing für **Barrierefreiheit Web Checker** wählt nach dem e
 
 ## Arbeitsweg
 
-
 - Ergebnis sichten: Welche Web-Barrierefreiheit-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
 - Anschlussweichen identifizieren: drohende Frist (BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG), notwendige Dokumente (Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.

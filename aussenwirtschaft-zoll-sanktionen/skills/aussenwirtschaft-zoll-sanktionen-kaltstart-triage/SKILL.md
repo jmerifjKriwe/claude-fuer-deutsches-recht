@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll S
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Aussenwirtschaft, Zoll und Sanktionen — Allgemein
 
 ## Schnellstart-Workflow
@@ -227,7 +225,6 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 - Stand: 05/2026
 - AWG, AWV, UZK, Dual-Use-VO (EU) 2021/821, CBAM-VO (EU) 2023/956, GwG in aktuell geltender Fassung
 - BAFA-Merkblaetter und TARIC-Datenbank (Stand 05/2026)
-
 
 ## Qualitäts-Hardening
 

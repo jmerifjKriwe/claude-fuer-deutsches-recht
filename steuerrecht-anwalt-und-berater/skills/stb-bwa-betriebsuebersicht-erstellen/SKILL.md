@@ -159,7 +159,6 @@ Stand: 05/2026.
 - DATEV BWA-Form 21, Kontenuebersicht.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

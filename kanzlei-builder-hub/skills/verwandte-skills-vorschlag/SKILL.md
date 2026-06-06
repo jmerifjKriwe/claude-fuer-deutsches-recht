@@ -5,7 +5,6 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung
 
-
 ## Triage zu Beginn
 1. Welche Aufgabe wurde gerade abgeschlossen, fuer die eine Skill-Empfehlung relevant sein koennte?
 2. Ist die Benachrichtigungseinstellung im Kanzleiprofil auf 'alle', 'passend zum Profil' oder 'keine' gesetzt?

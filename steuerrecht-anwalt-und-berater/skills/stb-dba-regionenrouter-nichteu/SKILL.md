@@ -13,7 +13,6 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 
 Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogenen Prüfpfad aus Matrix, DBA-Text und Einkunftsart.
@@ -139,7 +138,6 @@ Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogene
 | Apostille / Konsularbeglaubigung | Apostille | nein (Haager Konvention) | nein | je nach Verwendung | Konsularbeglaubigung |
 | Bearbeitungszeit | 6-8 Wochen | 4-6 Wochen | 2-4 Wochen | variabel | 4-8 Wochen |
 | Online-Antrag | Form 8802 elektronisch | HMRC-Portal | kantonal variabel | TIN-Portal | nicht standardisiert |
-
 
 ## Qualitäts-Hardening
 

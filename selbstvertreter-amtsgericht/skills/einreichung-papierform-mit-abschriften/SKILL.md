@@ -112,7 +112,6 @@ Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "dem
 
 Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

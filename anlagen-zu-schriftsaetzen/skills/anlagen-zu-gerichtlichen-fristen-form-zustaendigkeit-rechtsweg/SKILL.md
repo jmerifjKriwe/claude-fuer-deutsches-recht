@@ -5,8 +5,6 @@ description: "Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plug
 
 # Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg
 
-
-
 ## Spezialwissen: Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Konkreter Gegenstand:** Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.

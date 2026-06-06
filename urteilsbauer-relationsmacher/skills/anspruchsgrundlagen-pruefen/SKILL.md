@@ -7,7 +7,6 @@ description: "Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestim
 
 Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie schemamaessig.
 
-
 ## Triage zu Beginn
 
 1. Welches Schuldverhältnis liegt zugrunde — Vertrag, Gesetz, Bereicherung, Delikt?

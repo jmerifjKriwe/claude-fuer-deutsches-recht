@@ -1,6 +1,6 @@
 ---
 name: aktenabschluss-archivierung
-description: "Aktenabschluss Archivierung im Plugin Notariat Alltag: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Aktenabschluss Archivierung im Plugin Notariat Alltag im Notariat: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Aktenabschluss Archivierung

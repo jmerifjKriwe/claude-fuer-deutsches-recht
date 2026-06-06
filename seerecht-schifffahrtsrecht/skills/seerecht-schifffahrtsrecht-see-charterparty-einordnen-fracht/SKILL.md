@@ -1,6 +1,6 @@
 ---
 name: seerecht-schifffahrtsrecht-see-charterparty-einordnen-fracht
-description: "Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Charterparty einordnen – Vertragstyp und Haftungsmatrix
@@ -16,8 +16,6 @@ Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter ode
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time Charterer für Kollisionsschäden haftet die der Kapitän verursacht hat. Ein Finanzinvestor plant den Kauf eines Schiffes und möchte es sofort verbareboaten; die Bank fragt nach ISM-Code-Pflichten. Ein Reeder prüft, ob ein Voyage Charter oder Time Charter für eine Einmalfracht vorteilhafter ist.
@@ -57,7 +55,6 @@ Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time 
 - Haftungsmatrix: Reeder vs. Charterer nach Schadensart
 - Red-Flag-Liste für kritische Vertragsklauseln
 
-
 ## Erweiterte Normengrundlage
 
 ### Charterrecht
@@ -83,7 +80,6 @@ Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time 
 - BGH zur Anwendung englischen Rechts auf Charter-Parteien bei LMAA-Klausel.
 - OLG Hamburg zur Demurrage-Berechnung bei verzögerter Abfertigung im deutschen Hafen.
 - BGH zur Kündigung der Time-Charter bei Zahlungsverzug des Charterers.
-
 
 ## Praxishinweis
 

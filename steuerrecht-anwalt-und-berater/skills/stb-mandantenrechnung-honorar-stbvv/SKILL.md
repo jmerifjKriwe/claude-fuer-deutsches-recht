@@ -156,7 +156,6 @@ Stand: 05/2026.
 - BStBK Honorartabellen.
 - UStG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-querverweis
-description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht im Selbstvertreter Amtsgericht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsvollstreckung Querverweis
@@ -147,7 +147,6 @@ Wenn Vollstreckung erfolglos:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
-
 
 ## Qualitäts-Hardening
 

@@ -134,7 +134,6 @@ Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin.
 
 Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laien-freundlich.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

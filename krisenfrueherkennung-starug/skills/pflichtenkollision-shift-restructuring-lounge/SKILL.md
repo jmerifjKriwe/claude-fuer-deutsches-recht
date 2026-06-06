@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-shift-restructuring-lounge
-description: "Prüffeld für pflichtenkollision und shift of fiduciary duties: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Prüffeld für pflichtenkollision und shift of fiduciary duties: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
@@ -183,7 +183,6 @@ Erstellt von: ___________________
 - → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — Krisenstadien-Diagnostik
 - → `fortbestehensprognose-zweistufig` — Fortführungsprognose als Pflichtanker
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Beweissicherung
-
 
 ## Triage — Erste Einordnung
 

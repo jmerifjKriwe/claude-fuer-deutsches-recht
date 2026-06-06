@@ -114,7 +114,6 @@ Stand: 05/2026.
 - EStG §§ 5, 6.
 - IDW PS 480.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

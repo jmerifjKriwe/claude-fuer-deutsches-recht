@@ -142,7 +142,6 @@ Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen g
 
 Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

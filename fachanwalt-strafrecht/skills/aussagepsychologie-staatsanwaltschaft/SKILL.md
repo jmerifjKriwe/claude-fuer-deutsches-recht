@@ -557,7 +557,6 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - BGH staendige Rspr. zum Verhaeltnis Bankrott und Untreue bei eigennuetzigem Handeln des GF in der GmbH-Krise.
 - BVerfG staendige Linie zur Bestimmtheitspflicht der Tatbestandsmerkmale (Paragraph 103 Abs 2 GG).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -697,7 +696,6 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - Gesetz zur Reform der strafrechtlichen Vermoegensabschoepfung (in Kraft 01.07.2017) - Bruttoprinzip.
 - BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zum Verhaeltnis Einziehung und zivilrechtlicher Schaden.
-
 
 ## Qualitäts-Hardening
 
@@ -902,7 +900,6 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - Paragraph 70 StGB Berufsverbot.
 - Paragraph 73 StGB Einziehung des Erlangten.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Inhabilitaet.
-
 
 ## Qualitäts-Hardening
 

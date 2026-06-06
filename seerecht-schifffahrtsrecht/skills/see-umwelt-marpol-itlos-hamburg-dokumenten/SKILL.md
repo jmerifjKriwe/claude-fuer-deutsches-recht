@@ -1,6 +1,6 @@
 ---
 name: see-umwelt-marpol-itlos-hamburg-dokumenten
-description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung
@@ -16,8 +16,6 @@ Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgelds
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache hat das Oil Record Book beschlagnahmt; Strafanzeige läuft. Eine Reederei erhält nach Anlaufen eines US-Hafens eine Klagekopie wegen falscher ORB-Einträge; US-Attorney ermittelt wegen magic-pipe-Manipulationen. Ein Tanker verliert nach Grundberührung Rohöl in der Nordsee.
@@ -56,7 +54,6 @@ Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache 
 - Strafverteidigungs-Vermerk: Tatbestand; Verteidigungsansätze; Beweislage
 - Beweissicherungs-Checkliste (ORB; Logbücher; GPS; AIS)
 - Meldepflichten-Übersicht nach MARPOL und SeeUG
-
 
 ## Erweiterte Normengrundlage
 

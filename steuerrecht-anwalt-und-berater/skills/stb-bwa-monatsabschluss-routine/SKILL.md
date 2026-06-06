@@ -127,7 +127,6 @@ Stand: 05/2026.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
 - Verifikations-Hinweis: GoBD-Update bei BMF-Anpassungen jaehrlich pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

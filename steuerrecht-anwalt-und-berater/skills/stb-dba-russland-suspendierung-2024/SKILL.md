@@ -13,7 +13,6 @@ description: "DBA Deutschland Russland Suspendierung wesentlicher Verguenstigung
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Russland hat mit Verbalnote vom 08.08.2023 die Anwendung der Art. 5 bis 22 und 24 sowie der Nummern 2 bis 7 des Protokolls zum DBA Deutschland-Russland vom 29.05.1996 von russischer Seite suspendiert. Deutschland hat als Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056) die Russische Foederation durch die Zweite Verordnung zur Aenderung der Steueroasen-Abwehrverordnung (BGBl. 2023 I Nr. 375) in die Liste nicht kooperativer Steuerhoheitsgebiete der StAbwV (BGBl. 2021 I S. 5236) aufgenommen. Der konsolidierte BMF-Stand der DBA zum 01.01.2024 (BMF-Schreiben vom 15.01.2024, GZ IV B 2 - S 1301/21/10048 :003) dokumentiert die Suspendierung. Das DBA besteht formell weiter ist aber in seinen praxisrelevanten Teilen ausser Vollzug. Die Folgen sind tiefgreifend fuer laufende Mandate mit Russlandbezug.

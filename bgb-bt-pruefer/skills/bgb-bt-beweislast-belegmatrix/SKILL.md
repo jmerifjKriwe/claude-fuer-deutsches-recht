@@ -70,7 +70,6 @@ Beweislastverteilung im BGB Besonderer Teil systematisch aufarbeiten: Grundregel
 - dienstvertrag-und-behandlungsvertrag
 - deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/__477.html

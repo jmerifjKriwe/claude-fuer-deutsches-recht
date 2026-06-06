@@ -38,7 +38,6 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutschen Privatrechtslehre. Sie ist Weiterentwicklung der Interessenjurisprudenz Hecks (siehe Skill `interessenjurisprudenz-heck`), aber mit zwei wesentlichen Verfeinerungen:
@@ -128,7 +127,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -150,7 +148,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -225,7 +222,6 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - Quellenpflicht: `references/zitierweise.md`.
 
 Stand: Mai 2026. Wortlaut-Fragen koennen sich durch Gesetzesreformen jederzeit verschieben; bei Streitfragen aktuelle Norm- und Rechtsprechungslage pruefen. Bei zweifelhaften Begriffen empfiehlt sich der parallele Blick in Grueneberg, MueKo-BGB oder BeckOK, soweit lizenziert verfuegbar.
-
 
 ## Qualitäts-Hardening
 

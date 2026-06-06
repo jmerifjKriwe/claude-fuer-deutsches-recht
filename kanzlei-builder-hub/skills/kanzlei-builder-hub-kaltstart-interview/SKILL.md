@@ -5,7 +5,6 @@ description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, R
 
 # /kaltstart-interview — Kanzleiprofil-Interview
 
-
 ## Triage zu Beginn
 1. Handelt es sich um eine Ersteinrichtung oder ein Wiederholungsinterview (--redo oder --check-integrations)?
 2. Welche Rechtsform und welcher Kanzleityp liegen vor (Einzelanwalt, PartG, GmbH, Rechtsabteilung)?

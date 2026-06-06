@@ -28,7 +28,6 @@ Dieser Dokumenten-Intake für **Krisenfrueherkennung Starug** ordnet Anlagen, Re
 
 ## Arbeitsweg
 
-
 - Eingangsdokumente nach Typ ordnen: Frühwarnsystem-Bericht, Restrukturierungsanzeige, Restrukturierungsplan, Sanierungsmoderation-Antrag, Stabilisierungsanordnung.
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Krisenfrüherkennung und StaRUG-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.

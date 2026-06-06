@@ -1,6 +1,6 @@
 ---
 name: it-cloud-ki-und-outsourcing
-description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # IT, Cloud, KI und Outsourcing
@@ -17,18 +17,14 @@ IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Steuerberater;
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: IT, Cloud, KI und Outsourcing
-- **Spezialgegenstand:** IT, Cloud, KI und Outsourcing; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** StBerG, BOStB, StBVV, AO, GwG, Verschwiegenheit, Interessenkollision, Fristenorganisation und Berufsgerichtsbarkeit.
 - **Entscheidende Weiche:** Mandatsannahme, Frist, Erklärung/Berichtigung, Steuerstrafnähe, Gebühren, Kammerkommunikation und Haftungsvermeidung trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: IT, Cloud, KI und Outsourcing** im Bereich **Berufsrecht Steuerberater**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln
 
@@ -47,7 +43,6 @@ Dieser Abschnitt bearbeitet **Fachkern: IT, Cloud, KI und Outsourcing** im Berei
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
 
 ## Spezielle Leitplanken
 

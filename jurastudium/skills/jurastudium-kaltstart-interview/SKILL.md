@@ -5,7 +5,6 @@ description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Stude
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)
 
-
 ## Triage zu Beginn
 1. Ist dies das erste Einrichtungsgesprach oder eine Neueinrichtung (Profil zuruecksetzen)?
 2. In welchem Semester befindet sich der Nutzer und welches Bundesland?

@@ -133,7 +133,6 @@ Stand: 05/2026.
 - AO §§ 152, 240.
 - StGB § 266a.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

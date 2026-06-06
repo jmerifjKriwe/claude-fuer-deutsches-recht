@@ -53,7 +53,6 @@ Prüfe Rückgängigmachung, Aufhebung, Nichtdurchführung, Herabsetzung und beso
 
 GrEStG, AO, FGO und BFH-Volltexte öffnen. BFH-AdV-Beschlüsse als Eilverfahren kennzeichnen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

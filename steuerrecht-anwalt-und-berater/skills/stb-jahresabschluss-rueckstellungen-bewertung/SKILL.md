@@ -121,7 +121,6 @@ Stand: 05/2026.
 - IDW PS 480; IDW RH HFA 1.009.
 - BFH-Rechtsprechung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

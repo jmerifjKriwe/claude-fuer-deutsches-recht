@@ -129,7 +129,6 @@ Wenn im Termin neuer Vortrag der Gegenseite kommt:
 
 Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -13,7 +13,6 @@ description: "DBA Deutschland Kanada 2001. Anwendungsfall RRSP RRIF Pensionen Be
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu Kanada (G7-Staat). Praxisrelevant sind Pensionen (RRSP/RRIF und Canada Pension Plan), Beteiligungen, Branch Profits Tax, sowie Auswanderung Deutsch-Kanadischer Doppelstaatsbuerger (insbesondere Quebec mit franzoesischer Steuerregelung).

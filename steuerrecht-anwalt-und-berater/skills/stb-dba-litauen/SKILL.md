@@ -13,7 +13,6 @@ description: "DBA Deutschland Litauen 1997. Anwendungsfall Mittelstand Logistik 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum EU-Mitglied Litauen (Beitritt 2004, Euro 2015). Praxisrelevant sind Logistikbranche (Hafen Klaipeda), Fintech (litauische E-Money-Lizenzen), Holding-Strukturen.

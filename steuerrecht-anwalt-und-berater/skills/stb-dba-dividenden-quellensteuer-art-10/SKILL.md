@@ -13,7 +13,6 @@ description: "Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein (in Deutschland 25 Prozent Kapitalertragsteuer plus Solidaritaetszuschlag — also 26,375 Prozent); DBA-Hoechstsatz ermaessigt typ. auf 5/15 Prozent, Mutter-Tochter-Richtlinie reduziert auf 0 Prozent bei Schachtel innerhalb EU. § 8b KStG befreit auf Empfaengerseite zu 95 Prozent. Dieser Skill fuehrt durch die DBA-Anwendung im konkreten Fall und beachtet Anti-Missbrauchsregelungen.

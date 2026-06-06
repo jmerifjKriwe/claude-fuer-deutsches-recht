@@ -1,6 +1,6 @@
 ---
 name: see-002-seeschiff-oder-binnenschiff
-description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Seeschiff oder Binnenschiff – Klassifizierungsprüfung
@@ -16,8 +16,6 @@ Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fu
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Mandantenfall
 Ein Reeder betreibt eine Fähre zwischen Rügen und dem Festland und fragt, ob sie im Seeschiffs- oder Binnenschiffsregister einzutragen ist. Eine Bank fragt, ob ein auf dem Rhein eingesetzter seetüchtiger Frachter als Seeschiffshypothek oder Binnenschiffshypothek zu besichern ist. Ein Charterer fragt, welches Haftungsregime für eine Küstenfahrt in der Nordsee gilt.
@@ -57,7 +55,6 @@ Ein Reeder betreibt eine Fähre zwischen Rügen und dem Festland und fragt, ob s
 - Empfehlung Register-/Hypothekenweg
 - Checkliste Registereintragung
 
-
 ## Erweiterte Normengrundlage
 
 ### Abgrenzungsnormen
@@ -81,7 +78,6 @@ Ein Reeder betreibt eine Fähre zwischen Rügen und dem Festland und fragt, ob s
 - BGH zur Abgrenzung Seeschiff/Binnenschiff bei gemischter Fahrt; maßgeblich ist geplante Nutzung.
 - OLG Karlsruhe zur Haftungsdivergenz zwischen BinSchG und HGB bei Grenzgewässern.
 - BVerwG zur Zuständigkeit von BSH vs. Wasserstraßen- und Schifffahrtsamt.
-
 
 ## Praxishinweis
 

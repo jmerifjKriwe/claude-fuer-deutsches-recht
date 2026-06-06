@@ -1,6 +1,6 @@
 ---
 name: digital-services-nationale-koordinierung-dsa-behoerden
-description: "Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Nationale Koordinierung der DSA-Behörden in Deutschland
@@ -16,8 +16,6 @@ Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verf
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Steuerung anwaltlicher Verfahren entlang der zersplitterten Zuständigkeitsstruktur in Deutschland zur Durchsetzung des DSA. Während die Bundesnetzagentur Digital Services Coordinator (DSC) ist, sind weitere Behörden für spezifische DSA-Pflichten zuständig: Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ) für jugendschutzbezogene Pflichten; Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) für datenschutzbezogene Pflichten; Landesmedienanstalten für medienrechtliche Bezüge (JMStV, MStV). Mandate erfordern oft parallele Anzeigen und Stellungnahmen.

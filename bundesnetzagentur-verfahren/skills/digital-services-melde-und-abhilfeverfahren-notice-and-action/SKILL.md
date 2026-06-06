@@ -1,6 +1,6 @@
 ---
 name: digital-services-melde-und-abhilfeverfahren-notice-and-action
-description: "Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA
@@ -16,8 +16,6 @@ Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher f
 - Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
 
 ## Zweck und Anwendungsfall
 Anwaltliche Arbeit am Art. 16 DSA-Verfahren ("Notice and Action"), d. h. der Pflicht von Hosting-Anbietern, leicht zugängliche und nutzerfreundliche Meldekanäle für mutmaßlich illegale Inhalte bereitzustellen und diese unverzüglich zu bearbeiten. Dieser Skill begleitet drei Rollen: (1) Hosting-Anbieter bei der Compliance-Implementierung; (2) Meldende (Verbraucher, Verbände, Rechteinhaber, Trusted Flagger) bei der Erstellung wirksamer Meldungen; (3) Beschwerdeführer bei der Anrufung der BNetzA als DSC bei mangelhafter Plattform-Bearbeitung.

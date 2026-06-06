@@ -117,7 +117,6 @@ Stand: 05/2026.
 - SGB IV § 7c.
 - EStG §§ 19, 34.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

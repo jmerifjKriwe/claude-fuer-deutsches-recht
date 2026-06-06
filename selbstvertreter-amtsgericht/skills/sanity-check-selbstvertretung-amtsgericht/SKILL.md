@@ -104,7 +104,6 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
 - Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

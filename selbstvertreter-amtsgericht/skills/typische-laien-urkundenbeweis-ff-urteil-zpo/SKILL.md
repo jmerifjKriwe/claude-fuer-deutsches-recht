@@ -145,7 +145,6 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 
 Stand: 05/2026. Praxis-Skill.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -287,7 +286,6 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -455,7 +453,6 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

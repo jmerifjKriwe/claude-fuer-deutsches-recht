@@ -174,7 +174,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Vertiefung: Output-Template de-facto-Vergabe
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -214,7 +213,6 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -301,7 +299,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Selbstreinigung nach Ausschlussgrund | § 125 GWB Selbstreinigung nachweisen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -527,7 +524,6 @@ Vergabeverfahren [BEZEICHNUNG]
  rechtswidrig und aufzuheben.
 ```
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -595,7 +591,6 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 ## Quellenregel
 EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.de verifizieren; HOAI 2021 i. d. F. der aktuellen Verordnung pruefen.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -658,7 +653,6 @@ Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: best
 
 ## Quellenregel
 EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere BGH/OLG-Entscheidungen vor Ausgabe ueber curia.europa.eu und dejure.org verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 

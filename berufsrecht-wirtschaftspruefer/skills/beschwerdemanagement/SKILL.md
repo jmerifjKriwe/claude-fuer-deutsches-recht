@@ -1,6 +1,6 @@
 ---
 name: beschwerdemanagement
-description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Beschwerdemanagement im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung: eigenständiges Prüffeld mit Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Beschwerdemanagement im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beschwerdemanagement
@@ -17,18 +17,14 @@ Beschwerdemanagement: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
-
 ## Fachkern: Beschwerdemanagement
-- **Spezialgegenstand:** Beschwerdemanagement; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfung, EU-Abschlussprüferrecht, APAS/WPK, Unabhängigkeit, Rotation und Qualitätskontrolle.
 - **Entscheidende Weiche:** Prüfungsauftrag, Unabhängigkeit, Dokumentation, Wesentlichkeit, Berichterstattung, Aufsicht und Verteidigungslinie trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Beschwerdemanagement** im Bereich **Berufsrecht Wirtschaftsprüfer**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Beschwerdemanagement im Berufsrecht für Wirtschaftsprüfer
 
@@ -47,7 +43,6 @@ Dieser Abschnitt bearbeitet **Fachkern: Beschwerdemanagement** im Bereich **Beru
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
 
 ## Spezielle Leitplanken
 

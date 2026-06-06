@@ -17,7 +17,6 @@ Dieser Skill macht aus dem Thema **US Bankruptcy Code Kaltstart** eine belastbar
 - U.S. Courts Bankruptcy Basics
 - Federal Rules of Bankruptcy Procedure
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -26,20 +25,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Welches Chapter or pre-bankruptcy scenario?
 - Welche Frist, stay, sale, financing, claim or plan issue?
 
-
 ## Workflow
 
 1. Rolle and chapter route bestimmen.
 2. Critical dates, court, debtor, case number, assets and claims erfassen.
 3. Passende Fachmodule vorschlagen.
 
-
 ## Output
 
 - Bankruptcy route memo
 - Urgent action list
 - US-counsel briefing
-
 
 ## Tiefencheck für die Akte
 

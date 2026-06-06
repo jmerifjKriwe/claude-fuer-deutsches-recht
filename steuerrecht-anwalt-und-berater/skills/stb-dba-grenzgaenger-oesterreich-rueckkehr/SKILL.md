@@ -13,7 +13,6 @@ description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaeh
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungsprotokoll 29.12.2010 und Zweites Protokoll 21.08.2023, anwendbar ab 01.01.2024) erfasst Arbeitnehmer, die in einer Gemeinde innerhalb einer Grenzzone von **30 km Luftlinie** zur jeweils anderen Seite wohnen und in der Grenzzone der anderen Seite ueblicherweise taetig sind. Folge ist Wohnsitzstaat-Besteuerung. Die Konsultationsvereinbarung vom 20.12.2023 reguliert die Schaedlichkeitsgrenzen.

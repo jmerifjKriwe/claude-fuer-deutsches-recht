@@ -167,7 +167,6 @@ Sub-AVs mit Drittlandexposure?
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-
 ## Output-Template — AVV-Review-Ergebnis
 
 **Adressat:** Datenschutzbeauftragter / Rechtsabteilung — Tonfall: sachlich-juristisch

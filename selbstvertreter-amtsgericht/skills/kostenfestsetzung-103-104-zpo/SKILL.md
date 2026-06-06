@@ -142,7 +142,6 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

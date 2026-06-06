@@ -137,7 +137,6 @@ Audit-Klausel:
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -241,7 +240,6 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 - EDSA-Empfehlungen 01/2020 zur Transferfolgenabschaetzung (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -344,7 +342,6 @@ DPF-und-Fallback-Klausel:
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - DPF-Listing ueber dataprivacyframework.gov pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -458,7 +455,6 @@ Konzern-AVV-Klauseln (Auszug):
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -635,7 +631,6 @@ Sub-AVs mit Drittlandexposure?
  Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
 
 ## Output-Template — AVV-Review-Ergebnis
 

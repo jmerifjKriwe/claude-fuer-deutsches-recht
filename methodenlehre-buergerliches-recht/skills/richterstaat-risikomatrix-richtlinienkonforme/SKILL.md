@@ -41,7 +41,6 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Der Begriff "Richterstaat" bezeichnet Situationen, in denen Gerichte faktisch rechtsgestaltend tätig werden und Rechtssicherheit durch Einzelfallentscheidungen ersetzt wird. Für die anwaltliche Praxis ist es entscheidend, dieses Risiko systematisch zu erfassen und Mandanten handlungsfähig zu halten. Dieses Skill liefert eine methodische Risikomatrix, die judizielle Gestaltungsmacht einpreist.
 
 ## Mandantenfall
@@ -135,7 +134,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration des EU-Sekundärrechts in das nationale Privatrecht. Sie verpflichtet Gerichte, nationales Recht so auszulegen, dass es dem Ziel einer EU-Richtlinie entspricht — doch dies darf nicht zu einer Auslegung contra legem führen. Dieses Skill systematisiert Anwendungsbereich, Reichweite und Grenzen dieser Methodik für die tägliche Praxis.
 
 ## Mandantenfall
@@ -227,7 +225,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Einsatz
 
 Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
@@ -270,7 +267,6 @@ Erstelle eine Chronologie mit Vertrauensschutzampel und einem Schriftsatzbaustei
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Jede Sachverhaltsdarstellung enthält implizite Wertungen: Welche Tatsachen werden aufgenommen? Welche Formulierungen wählt man? Welche Kausalverläufe werden als relevant eingestuft? Dieses Skill macht diese Wertungsebene sichtbar und lehrt, Sachverhalte methodisch sauber zu erfassen, ohne die rechtliche Analyse durch unbewusste Vorentscheidungen zu präjudizieren.
 
@@ -362,7 +358,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 

@@ -13,7 +13,6 @@ description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 20
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. Es loeste das alte DBA von 1959 ab und passte den Vertragstext den OECD-Standards 2010 an. Praxisrelevant fuer den deutsch-niederlaendischen Mittelstand sind Logistik-Betriebsstaetten, Holding-Strukturen, grenznahe Arbeitsverhaeltnisse (insbesondere im Rheinland) und Pensionsfaelle.

@@ -12,8 +12,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsm
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Urteilsbauer und Relationsmacher — Allgemein
 
 ## Schnellstart-Workflow
@@ -237,7 +235,6 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - Stand: 05/2026
 - ZPO, FamFG, CISG, Rom I-VO, Rom II-VO in aktuell geltender Fassung
 - § 511 Abs. 2 Nr. 1 ZPO: Berufungsbeschwer 1.000 EUR (Anhebung durch Justizstandort-Staerkungsgesetz, ab 01.01.2026)
-
 
 ## Qualitäts-Hardening
 

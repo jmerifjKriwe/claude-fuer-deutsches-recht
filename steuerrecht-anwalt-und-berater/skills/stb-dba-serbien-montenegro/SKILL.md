@@ -13,7 +13,6 @@ description: "Nachfolge-DBA Jugoslawien für Serbien und Montenegro. Anwendungsf
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA Deutschland-Jugoslawien vom 26.03.1987 (BGBl. 1988 II S. 745) gilt nach Notenwechsel als Nachfolge-DBA fuer Serbien und Montenegro (sowie bis zur Neuregelung fuer einige andere Nachfolgestaaten Jugoslawiens). Praxisrelevant sind Diaspora-Faelle (Wanderbewegung 1960er-2000er Jahre), Pensionen (Wohnsitz Serbien/Montenegro nach Berufsleben in DE), Bauausfuehrungen und Beteiligungen.

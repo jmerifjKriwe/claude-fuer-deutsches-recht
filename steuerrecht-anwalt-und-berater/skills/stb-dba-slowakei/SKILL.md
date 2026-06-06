@@ -13,7 +13,6 @@ description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenüber Nachfolge
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Das DBA Deutschland-CSSR vom 19.12.1980 (BGBl. 1982 II S. 1023) gilt nach Notenwechsel auch gegenueber der Slowakei als Nachfolgestaat. Praxisrelevant sind Automotive-Werke (VW Bratislava, Kia, PSA), Maschinenbau und Holding-Strukturen. Slowakei EU-Mitglied (Beitritt 2004), Euro-Mitglied seit 2009.

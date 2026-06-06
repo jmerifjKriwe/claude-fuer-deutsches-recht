@@ -128,7 +128,6 @@ Stand: 05/2026.
 - SGB V.
 - BMAS eAU-Verfahren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

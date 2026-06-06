@@ -223,7 +223,6 @@ Ich bitte den Einzelrichter, ...
 
 Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -410,7 +409,6 @@ Antraege:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -600,7 +598,6 @@ Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Kl
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht unveraendert.
-
 
 ## Qualitäts-Hardening
 

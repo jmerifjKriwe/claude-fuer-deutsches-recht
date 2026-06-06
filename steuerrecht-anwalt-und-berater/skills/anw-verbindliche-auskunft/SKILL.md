@@ -161,7 +161,6 @@ Präzise Fragen z. B.:
 - `anw-selbstanzeige-371` — bei nachträglichem Bezug
 - `fachanwalt-handels-gesellschaftsrecht` — bei Holding-Strukturplanung
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

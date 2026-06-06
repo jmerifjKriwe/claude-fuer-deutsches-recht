@@ -1,6 +1,6 @@
 ---
 name: drg-historische
-description: "DRG Historische im deutsche Rechtsgeschichte: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsgeschichte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # DRG Historische

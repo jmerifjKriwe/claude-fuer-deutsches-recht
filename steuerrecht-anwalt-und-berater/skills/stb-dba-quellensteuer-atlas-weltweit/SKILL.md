@@ -13,7 +13,6 @@ description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln und Entlastungsverfahren getrennt laufen. Dieser Skill erzwingt die Dreiteilung.
@@ -121,7 +120,6 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 | PPT (MLI) | DBA | [Hauptzweck Vorteil?] | [Vorteil zu versagen / nicht] |
 | LOB (US-DBA, ggf. andere) | DBA Art. [...] | [Qualified Person?] | [ja / nein] |
 | § 4j EStG Lizenzschranke | EStG | [schaedliche IP-Box im Quellenstaat?] | [Abzug eingeschraenkt / nicht] |
-
 
 ## Qualitäts-Hardening
 

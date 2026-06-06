@@ -186,7 +186,6 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 
 Stand: 05/2026. § 92 SGG aktuell. § 106 SGG verpflichtet das Gericht, Sie bei Formfehlern zu unterstuetzen. Bei komplexen Faellen ist Anwalt mit PKH erwaegen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

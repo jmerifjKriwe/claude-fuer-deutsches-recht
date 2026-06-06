@@ -13,7 +13,6 @@ description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pande
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kernsachverhalt
 
 Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachbarstaaten Konsultationsvereinbarungen, damit Arbeitnehmer durch Home-Office nicht ihren steuerlichen Status (Grenzgaenger oder Wohnsitz-/Taetigkeitsstaat-Zuordnung) verloren. Mit Ende der Pandemie wurden viele dieser Vereinbarungen in Folgeregelungen ueberfuehrt — teils befristet, teils dauerhaft (Anhebung von Toleranzschwellen). Der Arbeitsgang ordnet die wichtigsten Konsultationsvereinbarungen und führt durch die Prüfung.
@@ -169,7 +168,6 @@ Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jah
 Stand: 05/2026. Konsultationsvereinbarungen Home-Office DE-CH, DE-AT, DE-LU (Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334), DE-NL, DE-FR, DE-BE (Pandemie 2020/2021 und Folgeregelungen). Aktualitaet jeder Vereinbarung, Toleranzschwellen und Anwendungszeitraeume im jeweiligen BMF-Schreiben vor Anwendung pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 belegt (DBA-LU Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
-
 
 ## Qualitäts-Hardening
 

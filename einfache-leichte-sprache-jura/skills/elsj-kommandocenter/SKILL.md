@@ -8,7 +8,6 @@ description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristis
 Dieser Einstieg führt in jede Übertragung juristischer Texte in
 Einfache Sprache oder Leichte Sprache.
 
-
 ## Triage zu Beginn
 1. Einfache Sprache oder Leichte Sprache — Zielgruppe bekannt?
 2. Welches Format: Brief, Bescheid, Formular, Website, Flyer, Gerichtsinformation?

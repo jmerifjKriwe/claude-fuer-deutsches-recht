@@ -79,7 +79,6 @@ Beschwerdebriefing, Fristenplan, Argumentmatrix, Entwurfsgliederung.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -142,7 +141,6 @@ Risikomatrix, Sicherheitsanforderungen, Beleglogik, Ruge-/Verteidigungslinien.
 - `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
 - `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
 - `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -582,7 +580,6 @@ R U E G E nach § 160 Abs. 3 GWB
 Halluzinations-Reparatur Bundle 026:
 -->
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -692,7 +689,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
@@ -808,7 +804,6 @@ Vor Versand:
 - § 181 GWB — Schadensersatzklage
 - § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
 - § 135 GWB — Unwirksamkeit Zuschlag
-
 
 ## Vergabe-Workbench-Boost v61.2
 
