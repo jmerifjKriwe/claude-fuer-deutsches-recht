@@ -33,7 +33,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [berufsrecht-wirtschaftspruefer](./berufsrecht-wirtschaftspruefer.md) (200 Skills)
 - [betaeubungsmittelrecht](./betaeubungsmittelrecht.md) (100 Skills)
 - [betreuungsrecht](./betreuungsrecht.md) (116 Skills)
-- [bgb-at-pruefer](./bgb-at-pruefer.md) (85 Skills)
+- [bgb-at-pruefer](./bgb-at-pruefer.md) (84 Skills)
 - [bgb-bt-pruefer](./bgb-bt-pruefer.md) (101 Skills)
 - [buerokratieversteher-entbuerokratisierer](./buerokratieversteher-entbuerokratisierer.md) (100 Skills)
 - [bundesnetzagentur-verfahren](./bundesnetzagentur-verfahren.md) (221 Skills)
