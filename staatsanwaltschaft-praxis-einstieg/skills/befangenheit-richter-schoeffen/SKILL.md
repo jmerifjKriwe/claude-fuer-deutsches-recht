@@ -37,6 +37,18 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 24, 26 StPO (Ablehnung)
+- § 31 StPO (Schöffen)
+- § 338 Nr. 3 StPO (absoluter Revisionsgrund)
+- BGHSt 21, 334 (objektiver Maßstab)
+- §§ 31-45 GVG (Schöffen)
+- § 76 GVG (Mitwirkung)
+- BVerfGE 14, 56
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

@@ -46,6 +46,20 @@ Anwälte: fremdgeld und anderkonto - Kammerantwort mit Verfahrensstrategie, Tonl
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 4 BORA (Fremdgeld auf Anderkonto)
+- § 43a Abs. 5 BRAO
+- § 246 StGB (Unterschlagung)
+- § 4 BORA
+- § 14 BNotO (entspr.)
+- BGH StV 2017, 800
+- § 73 BRAO (Aufgaben der Kammer)
+- § 76 BRAO (Vorstand)
+- § 113 ff. BRAO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

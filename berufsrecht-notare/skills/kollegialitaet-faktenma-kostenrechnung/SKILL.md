@@ -45,6 +45,13 @@ Notare: kollegialitaet und zustaendigkeit - Kaltstart mit Faktenmatrix, Risikoam
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 19, 23 GNotKG
+- § 127 GNotKG (Beschwerde)
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

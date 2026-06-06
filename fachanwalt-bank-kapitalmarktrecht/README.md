@@ -53,8 +53,8 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anlageberatung-fehlerhaft-cybertrading` | Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-... |
-| `anlageberatungsfehler-bankrecht-akkreditiv` | Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft od... |
+| `anlageberatung-fehlerhaft-cybertrading` | Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm... |
+| `anlageberatungsfehler-bankrecht-akkreditiv` | Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft o... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `bankaufsicht-erlaubnis-emissionsprospekt` | Bankaufsicht Erlaubnis Emissionsprospekt im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt, Fachanwalt. Liefert priorisierten Output mit Norm-P... |
 | `bankrecht-buergschaft-aval-garantieabruf` | Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf er... |

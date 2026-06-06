@@ -45,6 +45,14 @@ Notare: dolmetscher und sprachrisiko - Rechtsprechungscheck, stärkste Gegenansi
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 14 BNotO (Amtspflichten)
+- § 17 BeurkG (Belehrungspflicht)
+- § 95 BNotO (Disziplinarmaßnahmen)
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

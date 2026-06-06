@@ -45,6 +45,22 @@ Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Kammerantwort mit Verfahre
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 60-91 BRAO
+- § 73 BRAO
+- § 76a BRAO (Beschwerdeverfahren)
+- § 160a Abs. 1 StPO (absolutes Verbot)
+- § 53 StPO (Zeugnisverweigerung)
+- § 97 StPO (Beschlagnahmeverbot)
+- BVerfGE 113, 29
+- § 43a Abs. 2 BRAO
+- § 53 StPO
+- § 97 StPO
+- § 160a Abs. 1 StPO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

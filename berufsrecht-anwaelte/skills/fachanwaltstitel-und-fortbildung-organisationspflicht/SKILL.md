@@ -45,6 +45,16 @@ Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 6 BRAO
+- § 15 FAO (Fachanwaltsfortbildung)
+- § 43c BRAO
+- §§ 2-15 FAO
+- § 5 FAO (Fallzahlen)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

@@ -45,6 +45,18 @@ Notare: verbraucherwiderruf und beurkundung - Organisationspflichten, Präventio
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 6-35 BeurkG
+- § 17 BeurkG (Belehrungspflicht)
+- § 17 Abs. 2a BeurkG
+- § 312g BGB
+- § 355 BGB
+- § 26 BNotO (Geschäftsstelle)
+- DONot
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

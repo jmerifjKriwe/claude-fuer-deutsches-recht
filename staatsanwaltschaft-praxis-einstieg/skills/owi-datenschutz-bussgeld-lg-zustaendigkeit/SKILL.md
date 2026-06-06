@@ -50,6 +50,15 @@ Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder ver
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 7-21 StPO (örtliche Zuständigkeit)
+- §§ 24-25 GVG (Amtsgericht)
+- § 74 GVG (Strafkammern)
+- §§ 142, 143 GVG (StA-Zuständigkeit)
 ## Quellenhygiene
 
 Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

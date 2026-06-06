@@ -45,6 +45,13 @@ Anwälte: sozietaetswechsel und mandantenmitnahme - Kaltstart mit Faktenmatrix, 
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 46-46c BRAO
+- § 6 SGB VI (Befreiung Rentenversicherung)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

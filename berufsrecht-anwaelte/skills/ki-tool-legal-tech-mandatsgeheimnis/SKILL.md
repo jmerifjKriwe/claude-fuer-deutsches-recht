@@ -45,6 +45,19 @@ Anwälte: ki tool in der kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und f
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 2 BRAO (Verschwiegenheit)
+- Art. 6 AI-Act (Hochrisiko-KI Justiz)
+- DSGVO Art. 5, 6
+- § 203 StGB
+- § 43a Abs. 2 BRAO
+- § 53 StPO
+- § 97 StPO
+- § 160a Abs. 1 StPO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

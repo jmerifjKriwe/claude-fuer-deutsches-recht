@@ -45,6 +45,15 @@ Anwälte: geldwaesche risikoanalyse kanzlei - Organisationspflichten, Präventio
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 Abs. 1 Nr. 10 GwG (Anwälte als Verpflichtete)
+- § 11 GwG (Identifizierung)
+- §§ 43, 261 StGB
+- EuGH C-694/20 (Orde van Vlaamse Balies)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

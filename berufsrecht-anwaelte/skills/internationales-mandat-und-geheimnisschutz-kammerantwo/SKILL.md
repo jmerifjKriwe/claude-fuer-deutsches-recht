@@ -45,6 +45,14 @@ Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahr
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 60-91 BRAO
+- § 73 BRAO
+- § 76a BRAO (Beschwerdeverfahren)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

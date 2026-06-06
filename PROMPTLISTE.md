@@ -45,7 +45,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 |---|---|---|---|
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 | [Sportrecht](#sportrecht) | 1 |
 | [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 | [Strafrecht](#strafrecht) | 9 |
-| [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 4 |
+| [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Arbeitsrecht](#arbeitsrecht) | 7 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 | [Vergaberecht](#vergaberecht) | 1 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 5 | [Verkehrsrecht](#verkehrsrecht) | 2 |
@@ -241,6 +241,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 ## Transport- und Speditionsrecht
 
 - **[fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht)** — Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff
+- **[fahrgastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fahrgastrechte)** — Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende
 - **[fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte)** — Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz…
 - **[luftrecht-flughafenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/luftrecht-flughafenrecht)** — Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance
 - **[seerecht-schifffahrtsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/seerecht-schifffahrtsrecht)** — See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS

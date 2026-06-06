@@ -37,6 +37,18 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 15a InsO (Antragspflicht, Strafbarkeit)
+- § 283 StGB (Bankrott)
+- § 283b StGB (Buchführungspflichtverletzung)
+- BGHSt 55, 107 (3-Wochen-Frist)
+- § 283 StGB (Bankrotthandlungen)
+- § 283a StGB (besonders schwere Fälle)
+- § 14 StGB (Vertreterhaftung)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -45,6 +45,15 @@ Anwälte: gebuehrenunterschreitung und pro bono - Kaltstart mit Faktenmatrix, Ri
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 49b BRAO
+- §§ 3, 4 RVG
+- § 13 RVG (Wertgebühren)
+- VV RVG
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

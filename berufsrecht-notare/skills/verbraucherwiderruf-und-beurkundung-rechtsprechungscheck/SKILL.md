@@ -45,6 +45,16 @@ Notare: verbraucherwiderruf und beurkundung - Rechtsprechungscheck, stärkste Ge
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 6-35 BeurkG
+- § 17 BeurkG (Belehrungspflicht)
+- § 17 Abs. 2a BeurkG
+- § 312g BGB
+- § 355 BGB
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

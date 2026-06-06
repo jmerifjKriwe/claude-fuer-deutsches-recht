@@ -45,6 +45,16 @@ Notare: werbung und amtsbezeichnung - Kammerantwort mit Verfahrensstrategie, Ton
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 29 BNotO
+- § 6 BeurkG
+- § 1 BNotO
+- § 65 BNotO (Notarkammer)
+- § 92 BNotO (Aufsicht)
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

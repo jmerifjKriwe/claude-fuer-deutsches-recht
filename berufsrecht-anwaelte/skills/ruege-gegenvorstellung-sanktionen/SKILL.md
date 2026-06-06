@@ -45,6 +45,14 @@ Anwälte: ruege und gegenvorstellung - Rechtsprechungscheck, stärkste Gegenansi
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 74 BRAO (Rüge durch Vorstand)
+- § 74a BRAO (Einspruch)
+- § 113 BRAO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

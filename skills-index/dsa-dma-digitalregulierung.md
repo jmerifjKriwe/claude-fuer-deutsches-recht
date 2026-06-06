@@ -1,6 +1,6 @@
 # dsa-dma-digitalregulierung
 
-**53 Skills** · Stand `v220.0.0`
+**53 Skills** · Stand `v230.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/dsa-dma-digitalregulierung/README.md)

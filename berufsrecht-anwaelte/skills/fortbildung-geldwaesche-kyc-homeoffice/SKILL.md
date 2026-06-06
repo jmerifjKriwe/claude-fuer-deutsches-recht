@@ -50,6 +50,18 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 Abs. 1 Nr. 10 GwG (Anwälte als Verpflichtete)
+- § 11 GwG (Identifizierung)
+- §§ 43, 261 StGB
+- EuGH C-694/20 (Orde van Vlaamse Balies)
+- § 43a Abs. 6 BRAO
+- § 15 FAO (Fachanwaltsfortbildung)
+- § 43c BRAO
 ## Output
 
 Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

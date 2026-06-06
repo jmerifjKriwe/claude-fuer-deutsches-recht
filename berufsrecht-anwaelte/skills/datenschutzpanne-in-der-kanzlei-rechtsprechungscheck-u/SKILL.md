@@ -45,6 +45,14 @@ Anwälte: datenschutzpanne in der kanzlei - Rechtsprechungscheck, stärkste Gege
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 2 BRAO
+- Art. 5, 6, 32 DSGVO
+- § 203 StGB
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

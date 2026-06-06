@@ -45,6 +45,21 @@ Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrenss
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 49b BRAO
+- § 4 RVG (Vergütungsvereinbarung)
+- § 14 RVG (Rahmengebühr)
+- BGH NJW 2017, 2336
+- § 73 BRAO (Aufgaben der Kammer)
+- § 76 BRAO (Vorstand)
+- § 113 ff. BRAO
+- §§ 60-91 BRAO
+- § 73 BRAO
+- § 76a BRAO (Beschwerdeverfahren)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

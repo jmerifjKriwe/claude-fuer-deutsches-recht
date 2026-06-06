@@ -45,6 +45,18 @@ Anwälte: ruege und gegenvorstellung - Organisationspflichten, Prävention, Team
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 2 BRAO (Verschwiegenheit)
+- Art. 6 AI-Act (Hochrisiko-KI Justiz)
+- DSGVO Art. 5, 6
+- § 203 StGB
+- § 74 BRAO (Rüge durch Vorstand)
+- § 74a BRAO (Einspruch)
+- § 113 BRAO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

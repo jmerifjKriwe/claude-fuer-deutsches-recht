@@ -45,6 +45,14 @@ Anwälte: beweisfuehrung im berufsverfahren - Organisationspflichten, Präventio
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 4 BORA (Fremdgeld auf Anderkonto)
+- § 43a Abs. 5 BRAO
+- § 246 StGB (Unterschlagung)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

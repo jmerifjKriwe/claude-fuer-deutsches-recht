@@ -45,6 +45,14 @@ Notare: disziplinarverfahren notar - Kaltstart mit Faktenmatrix, Risikoampel und
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 95 BNotO (Disziplinarmaßnahmen)
+- §§ 96-101 BNotO
+- § 92 BNotO (Aufsicht)
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

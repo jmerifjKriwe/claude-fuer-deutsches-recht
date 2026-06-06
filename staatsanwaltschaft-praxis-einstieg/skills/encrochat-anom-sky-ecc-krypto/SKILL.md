@@ -37,6 +37,21 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 100b, § 100e Abs. 6 StPO
+- EuGH C-670/22 (M.N., Encrochat)
+- BGHSt 67, 29 (Encrochat-Verwertbarkeit)
+- BVerfG 2 BvR 1832/22 v. 1.11.2023
+- § 100a StPO (TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- § 100g StPO (Verkehrsdaten)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- §§ 202a, 202c StGB
+- BVerfGE 125, 260; BVerfGE 154, 152
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

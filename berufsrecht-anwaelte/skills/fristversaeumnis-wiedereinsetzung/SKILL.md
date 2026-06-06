@@ -45,6 +45,14 @@ Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Ri
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 233 ZPO (Wiedereinsetzung)
+- § 234 ZPO
+- BVerfGE 41, 332
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

@@ -37,6 +37,19 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 112 Abs. 1, 2 StPO (Haftgründe)
+- § 112a StPO (Wiederholungsgefahr)
+- § 116 StPO (Außervollzugsetzung)
+- BVerfGE 19, 342 (Verhältnismäßigkeit U-Haft)
+- RB 2002/584/JI
+- §§ 79 ff. IRG
+- EuGH C-216/18 PPU (LM)
+- BVerfGE 156, 182 (EuHb III)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

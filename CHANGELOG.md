@@ -1,3 +1,46 @@
+# v230.0.0 — Bug-Hunt, Praefix-Sweep, Skill-Veredelung, Grammatik-Fix
+
+## Schwerpunkt
+
+- **Grammatik-Fix nach Codex-Polish v216:** 13.346 SKILL.md-Dateien mit grammatischen Folgefehlern der `Prueffeld -> Pruefungslinie`-Substitution korrigiert. Insgesamt rund 13.300 Sprachstellen geheilt: `dieses Pruefungslinie -> diese Pruefungslinie` (~12.993), `Dieser Pruefungslinie -> Diese Pruefungslinie`, `beim sachtragenden -> bei der sachtragenden`, `konkret Pruefungslinie -> konkrete Pruefungslinie`, `in das tragende -> in die tragende`, `zum richtigen -> zur richtigen`, `Passenden -> Passende`.
+- **Truncation-Fix V4:** 80 Skill-Slugs mit abgeschnittenen Endungen rekonstruiert.
+  - `-un` (Tail-Drop nach `-und`) entfernt fuer 30+ Skills.
+  - `-red` -> `-red-team-korrektur` fuer 14 Skills.
+  - `-sta` -> `-staatsanwaeltinnen` (StA-Plugin) bzw. `-staatshaftung` (Weltraumrecht).
+  - `-fak` -> `-faktenmatrix`, `-ve` -> `-verhaeltnismaessigkeit`.
+  - Hardcoded Fixes fuer Spezialfaelle (gesellschafterstreit, rechnungskorrektur etc.).
+- **Aspekt-Suffix-Sweep:** 7 Skills mit doppeldeutigen Aspekt-Suffixen `-re/-or/-ka/-2/-3/-4` auf sprechende Vollform gebracht (z. B. `-rechtsprechungscheck`, `-organisationspflicht`, `-kaltstart`, `-kammerantwort`). Slug-Laengen-Limit 64 Zeichen beachtet, wo noetig Kurzform (z. B. `-orgapflicht`, `-rspr-check`).
+- **marktmac/energie-Renames:** 5 Slugs aus bundesnetzagentur-verfahren rekonstruiert (`-marktmacht-...`, `-unbundling-...`, `-messstellenbetrieb-...`).
+- **Doppel-Skill-Renames:** `interessenkollision-ehegatten-gesellschafter-*` und `honorarabhaengigkeit-non-audit-services-*` auf sprechende Suffixe gebracht.
+
+## Skill-Veredelung mit konkreten Norm-Zitaten
+
+- **535 Skills** in drei Plugins mit dedizierter `## Normen & Rechtsprechung`-Sektion versehen, die konkrete §§, Verordnungs-Artikel und Leitentscheidungen enthaelt.
+  - `staatsanwaltschaft-praxis-einstieg` (142 Skills): StPO/StGB/GVG/RiStBV/JGG/BtMG/KCanG mit BVerfG- und BGH-Leitentscheidungen.
+  - `berufsrecht-anwaelte` (197 Skills): BRAO/BORA/RVG/GwG mit § 160a StPO und BVerfGE 113, 29.
+  - `berufsrecht-notare` (196 Skills): BNotO/BeurkG/GNotKG/DONot mit DNotZ-Rechtsprechung.
+
+## Bug-Hunt-Ergebnisse
+
+- Slug-Laengen alle <=64 Zeichen (Validator-Regel).
+- Keine ungueltigen Zeichen in Slugs (nur `[a-z0-9-]`).
+- Frontmatter `name` = Verzeichnis-Slug fuer alle 18240 Skills.
+- Keine Stub-Skills mehr (Min ~1300 Bytes).
+
+## Konsistenz
+
+- README.md, TESTBERICHT.md, testakten/README.md auf `v230.0.0` gebumpt.
+- PROMPTLISTE.md ergaenzt: `fahrgastrechte` in Transport-/Speditionsrecht (5 statt 4 Plugins) nachgetragen.
+- SKILLS.md und alle 210 skills-index-Detailseiten regeneriert.
+- ASSET_INDEX.md auf 210 Plugins / 201 Testakten / `v230.0.0` regeneriert.
+- Plugin-Versionen aller 210 plugin.json und marketplace.json auf `230.0.0`.
+
+## Validator
+
+- `node scripts/validate-plugin-structure.mjs` -> `validate-plugin-structure OK`.
+
+---
+
 # v220.0.0 — Repo-weiter Qualitaets-Sweep: Praefix-Cleanup, Wortsalat-Slugs entwortsalatet, Truncations gefixt, Codex-Polish uebernommen
 
 ## Schwerpunkt

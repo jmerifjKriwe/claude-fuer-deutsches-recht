@@ -45,6 +45,15 @@ Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstr
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 39 BNotO (Notarvertretung)
+- § 40 BNotO (Notariatsverwaltung)
+- § 65 BNotO (Notarkammer)
+- § 92 BNotO (Aufsicht)
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

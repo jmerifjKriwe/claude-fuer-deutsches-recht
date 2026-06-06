@@ -45,6 +45,17 @@ Notare: kostenrechnung gnotkg beschwerde - Rechtsprechungscheck, stärkste Gegen
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 8 BNotO (Nebentätigkeit – Verbote)
+- § 14 BNotO
+- §§ 19, 23 GNotKG
+- § 127 GNotKG (Beschwerde)
+- §§ 19, 23, 127 GNotKG
+- Anlage 1 KV-GNotKG
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

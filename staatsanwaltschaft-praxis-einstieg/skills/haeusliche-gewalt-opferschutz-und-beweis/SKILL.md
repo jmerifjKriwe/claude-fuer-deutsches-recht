@@ -37,6 +37,20 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 223, 224 StGB (Körperverletzung)
+- § 238 StGB (Nachstellung)
+- § 4 GewSchG
+- § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
+- § 247 StPO
+- §§ 406d-406l StPO (Verletztenrechte)
+- §§ 397 ff. StPO (Nebenklage)
+- § 68b StPO (Zeugenbeistand)
+- RL 2012/29/EU (Opferschutzrichtlinie)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

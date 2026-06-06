@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v221.0.0 / Repo-weiter Qualitäts-Sweep: ~2400 Skills entpräfixt, ~100 Wortsalat-Slugs entwortsalatet, 71 Truncations gefixt, Codex-Polish v216 (Prüffeld -> Prüfungslinie) übernommen
+**Arbeitsstand:** v230.0.0 / Repo-weiter Qualitäts-Sweep: ~2400 Skills entpräfixt, ~100 Wortsalat-Slugs entwortsalatet, 71 Truncations gefixt, Codex-Polish v216 (Prüffeld -> Prüfungslinie) übernommen
 **Plugins gesamt:** 210
 **Skills gesamt:** 18240
 **Testakten gesamt:** 201
@@ -48,7 +48,7 @@ Damit sinkt die Bedienlast für Nutzerinnen und Nutzer, ohne dass fachliches Mat
 ## Nachgezogene Meta-Pflege
 
 - Root-README auf den aktuellen Stand gebracht: 210 Plugins, 18271 Skills, 201 Testakten. Fehlendes Plugin `fahrgastrechte` in der alphabetischen Plugin-Tabelle nachgetragen.
-- Testakten-README auf v221.0.0 und 201 Testakten geprüft.
+- Testakten-README auf v230.0.0 und 201 Testakten geprüft.
 - In 52 Plugins wurden generische Kurz-Präfixe aus Skill-Slugs entfernt (z. B. `dsv-`, `kom-`, `btm-`, `ifg-`, `owi-`, `hoai-`, `bho-`, `stb-`, `legw-`, `solo-`, `pe-`, `vc-`, `tk-`, `vbr-`, `vdg-`, `db-`, `kv-`, `lease-`, `ins-`, `verl-`, `inv-`, `iv-`, `nkr-`, `inso-`, `ips-`, `vaf-`, `spez-`, `elsj-`, `ifap-`, `jveg-`, `liqui-`, `zvg-`, `zv-` und je nach Plugin weitere). Semantische Präfixe (`lph-` HOAI-Leistungsphasen, `bess-` Battery Storage, `plan-` Insolvenzplan) bleiben erhalten.
 - `SKILLS.md` und `skills-index/` wurden mit den Generatoren neu aufgebaut.
 - Veraltete Angaben aus der alten 52-Plugin-/361-Skill-Phase wurden aus diesem Testbericht entfernt.

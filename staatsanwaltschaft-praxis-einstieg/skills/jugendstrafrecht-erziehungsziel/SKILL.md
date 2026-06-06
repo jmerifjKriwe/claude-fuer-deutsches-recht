@@ -37,6 +37,16 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 1 Abs. 2 JGG, § 105 JGG (Heranwachsende)
+- § 2 JGG (Erziehungsgedanke)
+- §§ 9-16a JGG (Erziehungsmaßregeln)
+- § 17 JGG (Jugendstrafe)
+- § 45 JGG (Diversion)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

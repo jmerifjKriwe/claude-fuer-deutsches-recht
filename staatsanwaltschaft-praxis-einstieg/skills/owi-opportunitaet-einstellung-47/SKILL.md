@@ -50,6 +50,18 @@ Dieser Skill erklärt den wichtigsten Mentalitätswechsel: Ordnungswidrigkeiten 
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
+- § 170 Abs. 1 StPO (Anklageerhebung)
+- Nr. 88 ff. RiStBV
+- § 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
+- § 153a StPO (Einstellung unter Auflagen und Weisungen)
+- Nr. 75-80 RiStBV (Opportunitätsprinzip)
+- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen § 153a StPO)
 ## Quellenhygiene
 
 Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

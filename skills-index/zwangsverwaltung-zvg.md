@@ -1,6 +1,6 @@
 # zwangsverwaltung-zvg
 
-**54 Skills** · Stand `v220.0.0`
+**54 Skills** · Stand `v230.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/zwangsverwaltung-zvg/README.md)

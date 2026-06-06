@@ -74,7 +74,7 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `gerechtigkeit-verteilung-effizienz` | Prueft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen. |
 | `gleichheit-praejudizien-interpretation` | Gleichheit Praejudizien Interpretation im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Gleichbehandlung durch Praejudizien, Prueft Text, Sprecherintention, objektivierten Sinn. Liefert priorisierten Output mit Norm-Pinpoints... |
 | `gleichheit-und-praejudizien` | Prueft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität. |
-| `institutionenrhetorik-konkrete-ordnung-red` | Red-Team gegen Institutionen-, Ordnung- und Lebenswirklichkeitsrhetorik: trennt echte soziale Struktur von normativer Bindung, Kompetenz, Grundrechten und demokratischer Verantwortung. |
+| `institutionenrhetorik-konkrete-ordnung-red-team-korrektur` | Red-Team gegen Institutionen-, Ordnung- und Lebenswirklichkeitsrhetorik: trennt echte soziale Struktur von normativer Bindung, Kompetenz, Grundrechten und demokratischer Verantwortung. |
 | `interpretation-und-intention` | Prueft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung. |
 | `kaltstart-triage` | Einstieg und Fallrouting fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl. |
 | `kanzlei-briefing-rechtstheorie` | Uebersetzt rechtstheoretische Probleme fuer Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen. |

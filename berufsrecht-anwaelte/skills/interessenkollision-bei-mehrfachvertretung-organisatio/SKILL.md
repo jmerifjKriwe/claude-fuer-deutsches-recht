@@ -45,6 +45,15 @@ Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, P
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 4 BRAO
+- § 3 BORA
+- § 356 StGB (Parteiverrat)
+- BGH NJW 2008, 1591
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

@@ -45,6 +45,15 @@ Anwälte: anwaltsgerichtliche anschuldigung - Organisationspflichten, Präventio
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43 BRAO (allgemeine Berufspflicht)
+- § 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision)
+- § 113 ff. BRAO (anwaltsgerichtliches Verfahren)
+- §§ 1-30 BORA (Berufsordnung)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

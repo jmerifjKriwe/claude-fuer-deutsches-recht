@@ -37,6 +37,17 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 258 StPO (Schlussvorträge)
+- Nr. 138 RiStBV (Antrag der StA)
+- BGHSt 26, 80
+- §§ 226 ff. StPO (Hauptverhandlung)
+- § 176 GVG (Sitzungspolizei)
+- Nr. 126-138 RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -49,6 +49,22 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 100a StPO (TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- § 100g StPO (Verkehrsdaten)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- §§ 202a, 202c StGB
+- BVerfGE 125, 260; BVerfGE 154, 152
+- § 100j StPO (Bestandsdaten)
+- § 113 TKG
+- BVerfGE 154, 152 (Bestandsdatenauskunft II)
+- Art. 18 DSA
+- § 22 TTDSG (Auskunft)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

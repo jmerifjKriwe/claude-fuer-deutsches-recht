@@ -37,6 +37,19 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 130 StGB (Volksverhetzung)
+- §§ 185, 188 StGB
+- § 46 Abs. 2 S. 2 StGB (menschenverachtende Beweggründe)
+- NetzDG §§ 3a, 3b
+- § 100j StPO (Bestandsdaten)
+- § 100g StPO (Verkehrsdaten)
+- Art. 18 DSA
+- § 22 TTDSG (Auskunft)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -45,6 +45,21 @@ Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verfahrensstrategi
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43b BRAO
+- §§ 6-10 BORA
+- BVerfGE 76, 196
+- BGH NJW 2018, 798
+- § 73 BRAO (Aufgaben der Kammer)
+- § 76 BRAO (Vorstand)
+- § 113 ff. BRAO
+- §§ 60-91 BRAO
+- § 73 BRAO
+- § 76a BRAO (Beschwerdeverfahren)
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

@@ -45,6 +45,16 @@ Anwälte: verschwiegenheit cloud outsourcing - Kammerantwort mit Verfahrensstrat
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 2 BRAO
+- § 2 BORA
+- § 203 Abs. 1 Nr. 3 StGB
+- § 53 Abs. 1 Nr. 3 StPO
+- BVerfGE 113, 29
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

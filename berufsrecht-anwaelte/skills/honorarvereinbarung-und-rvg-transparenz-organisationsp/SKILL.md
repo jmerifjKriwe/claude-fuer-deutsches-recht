@@ -45,6 +45,15 @@ Anwälte: honorarvereinbarung und rvg transparenz - Organisationspflichten, Prä
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 49b BRAO
+- § 4 RVG (Vergütungsvereinbarung)
+- § 14 RVG (Rahmengebühr)
+- BGH NJW 2017, 2336
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

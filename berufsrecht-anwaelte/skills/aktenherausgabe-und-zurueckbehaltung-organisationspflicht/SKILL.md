@@ -45,6 +45,14 @@ Anwälte: aktenherausgabe und zurueckbehaltung - Organisationspflichten, Präven
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 50 BRAO
+- § 675 BGB i.V.m. § 667 BGB (Herausgabepflicht)
+- § 17 BORA
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

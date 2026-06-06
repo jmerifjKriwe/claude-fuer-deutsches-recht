@@ -45,6 +45,16 @@ Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 Abs. 1 Nr. 10 GwG
+- §§ 10-13 GwG (Sorgfaltspflichten)
+- § 43 GwG (Meldepflicht)
+- § 95 BNotO
+- § 43 GwG
 ## Output
 
 Erzeuge Dienstaufsichtsantwort, Beurkundungscheck, Urkundsvermerk, Amtsenthebungsrisiko-Memo, Organisationsanweisung oder Verteidigungslinie.

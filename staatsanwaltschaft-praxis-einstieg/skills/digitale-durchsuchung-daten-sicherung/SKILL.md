@@ -37,6 +37,20 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 102 StPO (Durchsuchung beim Verdächtigen)
+- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
+- BVerfGE 96, 44 (Verhältnismäßigkeit)
+- § 110 Abs. 3 StPO (elektronische Speichermedien, Netzwerkdurchsicht)
+- § 100a StPO (Quellen-TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- BVerfGE 120, 274 (IT-Grundrecht)
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

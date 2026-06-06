@@ -45,6 +45,19 @@ Anwälte: fachanwaltstitel und fortbildung - Kammerantwort mit Verfahrensstrateg
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43a Abs. 6 BRAO
+- § 15 FAO (Fachanwaltsfortbildung)
+- § 43c BRAO
+- §§ 2-15 FAO
+- § 5 FAO (Fallzahlen)
+- § 73 BRAO (Aufgaben der Kammer)
+- § 76 BRAO (Vorstand)
+- § 113 ff. BRAO
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

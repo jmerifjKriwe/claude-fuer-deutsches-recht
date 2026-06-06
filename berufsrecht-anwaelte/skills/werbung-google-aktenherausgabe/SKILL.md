@@ -45,6 +45,18 @@ Anwälte: werbung google ads und linkedin - Kaltstart mit Faktenmatrix, Risikoam
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43b BRAO
+- §§ 6-10 BORA
+- BVerfGE 76, 196
+- BGH NJW 2018, 798
+- § 50 BRAO
+- § 675 BGB i.V.m. § 667 BGB (Herausgabepflicht)
+- § 17 BORA
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
