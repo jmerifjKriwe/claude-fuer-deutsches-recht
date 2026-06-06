@@ -1,49 +1,43 @@
 ---
 name: zahlungsklage-behoerden-register
-description: "Zahlungsklage: Behörden-, Gerichts- oder Registerweg im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Hilfe bei Klagen gegen Behoerden und juristische Personen des oeffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klaegervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 fuer fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routing und Schriftsatzhinweise."
 ---
 
-# Zahlungsklage: Behörden-, Gerichts- oder Registerweg
+# Zahlungsklage gegen Behoerden und juristische Personen oeffentlichen Rechts
 
-## Fachkern: Zahlungsklage: Behörden-, Gerichts- oder Registerweg
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Klagen gegen die oeffentliche Hand sind nicht generell Verwaltungsgerichtssache. Es kommt auf die Natur des Anspruchs an.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Routing-Logik
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Anspruchsnatur | Rechtsweg | Norm |
+|---|---|---|
+| oeffentlich-rechtlich z B Abgabenrueckforderung | Verwaltungsgericht | VwGO 40 Abs. 1 |
+| fiskalisches Handeln z B Lieferung an Stadtverwaltung | ordentliches Gericht Zivilkammer | GVG 13 |
+| Amtshaftung BGB 839 | ordentliches Gericht | GVG 13 ZPO |
+| Sozialleistungen | Sozialgericht | SGG 51 |
+| Steuersachen | Finanzgericht | FGO 33 |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zahlungsklage** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Klagen aus fiskalischem Handeln
 
-## Materielle Weichen Zahlungsklage
-- **Sachliche Zuständigkeit:** AG bis 5.000 Euro Streitwert (§ 23 Nr. 1 GVG); LG ab 5.000,01 Euro (§ 71 GVG). Mietsachen unabhängig vom Streitwert AG (§ 23 Nr. 2 lit. a GVG).
-- **Örtliche Zuständigkeit:** Allgemeiner Gerichtsstand des Beklagten (§§ 12, 13 ZPO). Besondere Gerichtsstände: Erfüllungsort (§ 29 ZPO), unerlaubte Handlung (§ 32 ZPO), Verbrauchersachen (§ 29c ZPO). Bei B2C: Gerichtsstandsvereinbarung nur in Schranken zulässig (§ 38 ZPO).
-- **Klageschriftliche Pflichtangaben (§§ 253 Abs. 2, 130, 130a ZPO):** Bezeichnung der Parteien mit Anschrift, bestimmter Klageantrag, Tatsachen und Beweismittel, Rechtsbehauptungen, Unterschrift oder qeS bei eEB. Bei Anwalt: zwingend elektronische Einreichung (§ 130d ZPO).
-- **Streitwert (§ 3 ZPO):** Geldforderungen nach Nennwert; Zinsen, Nebenforderungen und Kosten erhöhen den Streitwert nicht (§ 4 ZPO). Bei wiederkehrenden Leistungen: Jahresbetrag bzw. 3,5-facher Jahresbetrag.
-- **Verzug und Zinsen (§§ 286, 288 BGB):** Verzug ab Mahnung oder kalendermäßiger Bestimmung der Leistungszeit. Verzugszinsen: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BGB - B2C), 9 Prozentpunkte über Basiszins (§ 288 Abs. 2 BGB - B2B Geldforderungen). Basiszinssatz aktuell prüfen über bundesbank.de.
-- **Mahnkosten:** Erste Mahnung im Verzug ist ohne weiteres erstattbar; nachfolgende Mahnkosten nach § 286 Abs. 1 BGB als Verzugsschaden. Inkassoauslagen bis Höhe RVG (BGH, Urteil vom 17.09.2015 - IX ZR 280/14).
-- **Klage und Mahnverfahren - Verhältnis:** Klage hemmt Verjährung (§ 204 Abs. 1 Nr. 1 BGB) mit Klageerhebung (Zustellung). Bei Mahnverfahren: bereits Eingang des Antrags hemmt (§ 204 Abs. 1 Nr. 3 BGB).
-- **Säumnisurteil (§ 331 ZPO):** Bei Nichterscheinen oder mangelhafter Verteidigung des Beklagten - Antrag des Klägers erforderlich. Einspruch innerhalb von zwei Wochen ab Zustellung (§ 339 ZPO).
-- **Stolperfalle:** Bei B2B-Forderungen seit 28.07.2014 zusätzliche Pauschale 40 Euro nach § 288 Abs. 5 BGB; muss konkret beantragt werden, sonst keine Berücksichtigung.
+Wenn die Stadt eine Maschine kauft und nicht zahlt liegt zivilrechtlicher Kaufpreisanspruch vor. Klage wie gegen jeden anderen Beklagten beim AG oder LG.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Vorverfahren
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Vor verwaltungsgerichtlicher Leistungsklage ist haeufig kein Vorverfahren noetig wenn es um Geldleistung geht. Bei Bescheidaufhebung mit Folgenbeseitigung anders VwGO 68.
+
+## Vertretung der Behoerde
+
+Behoerden vertreten sich oft selbst durch eigenes Justitiariat. Zustellung an Anschrift der Behoerde nicht an den Behoerdenleiter persoenlich.
+
+## Norm-Pinpoints
+
+- GVG 13 ordentlicher Rechtsweg
+- VwGO 40 oeffentlich-rechtliche Streitigkeit
+- BGB 839 Amtshaftung
+- SGG 51 Sozialgerichte
+
+## Quellen
+
+- [GVG 13](https://www.gesetze-im-internet.de/gvg/__13.html)
+- [VwGO 40](https://www.gesetze-im-internet.de/vwgo/__40.html)
+- [BGB 839](https://www.gesetze-im-internet.de/bgb/__839.html)

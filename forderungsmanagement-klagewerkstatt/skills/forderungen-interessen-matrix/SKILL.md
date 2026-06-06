@@ -1,38 +1,52 @@
 ---
 name: forderungen-interessen-matrix
-description: "Forderungen: Mehrparteienkonflikt und Interessenmatrix im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjaehrung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnungswiderklage BGB 366 Tilgungsreihenfolge. Liefert priorisierte Liste mit Empfehlung welche Forderung zuerst klagen und welche bundeln."
 ---
 
-# Forderungen: Mehrparteienkonflikt und Interessenmatrix
+# Forderungen-Interessen-Matrix
 
-## Fachkern: Forderungen: Mehrparteienkonflikt und Interessenmatrix
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Wenn Mandant mehrere Forderungen gegen denselben oder verschiedene Schuldner hat braucht es eine Reihung und Bundelungs-Entscheidung.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Matrix-Schema
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Forderung | Hauptsumme Euro | Faellig seit | Verjaehrung in Monaten | Beleg | Aussicht | Kostenprognose | Empfehlung |
+|---|---|---|---|---|---|---|---|
+| Werklohn Bauvorhaben A | 24500 | 2024-09-15 | 18 | Rechnung Abnahme | hoch | mittel | sofort Klage |
+| Restkaufpreis Maschine | 8200 | 2025-03-01 | 26 | Kaufvertrag Lieferschein | hoch | gering | Mahnbescheid |
+| Schadensersatz Stornogebuehr | 3100 | 2024-12-10 | 9 | E-Mail-Kette | mittel | gering | erst aussergerichtlich |
+| Honorar Beratung 2022 | 4800 | 2022-10-01 | -2 verjaehrt | Rechnung | aussichtslos | hoch | nicht klagen |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forderungen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Bundelungs-Optionen
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Konstellation | Werkzeug | Norm |
+|---|---|---|
+| Mehrere Anspruchsgruende gegen denselben Beklagten | Objektive Klagehaeufung | ZPO 260 |
+| Mehrere Beklagte aus derselben Lieferkette | Streitgenossenschaft | ZPO 59 ZPO 60 |
+| Gegenforderung Beklagter | Widerklage | ZPO 33 |
+| Tilgungsverrechnung bei mehreren Forderungen | Tilgungsreihenfolge | BGB 366 BGB 367 |
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Kostenmehrwert pruefen
+
+Bundelung lohnt wenn alle Forderungen in dieselbe Zustaendigkeit fallen GVG 23 oder GVG 71. Bei Mischung von AG- und LG-Forderungen kann Zusammenrechnung der Streitwerte nach ZPO 5 ein einheitliches LG-Verfahren ergeben.
+
+## Tilgungsreihenfolge ohne Bestimmung BGB 366 Abs. 2
+
+1. Faellige Schuld vor nicht faelliger
+2. Unter mehreren faelligen die geringer gesicherte
+3. Unter gleich gesicherten die laestigere
+4. Bei gleicher Laestigkeit die aeltere
+5. Bei gleichem Alter anteilig
+6. Innerhalb einer Forderung Kosten vor Zinsen vor Hauptforderung BGB 367
+
+## Norm-Pinpoints
+
+- ZPO 5 Wertaddition mehrere Anspruechen
+- ZPO 33 Widerklage
+- ZPO 59 60 Streitgenossen
+- ZPO 260 Klagenhaeufung
+- BGB 366 367 Tilgung
+
+## Quellen
+
+- [ZPO 260](https://www.gesetze-im-internet.de/zpo/__260.html)
+- [BGB 366](https://www.gesetze-im-internet.de/bgb/__366.html)

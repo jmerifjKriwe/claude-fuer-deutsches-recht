@@ -1,45 +1,65 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Strukturierte Aufnahme aller Mandantendokumente bei Eingang einer Forderungssache. Trennt Vertragsunterlagen Lieferbelege Rechnungen Mahnungen Schuldnerkommunikation und Drittunterlagen. Pinpoints ZPO 142 Urkundenvorlage ZPO 422 Vorlagepflicht BGB 810 Einsichtsanspruch. Liefert Intake-Checkliste und Aktenstruktur."
 ---
 
-# Dokumentenintake
+# Dokumente Intake
 
-## Einsatzlage
+Eingang einer Forderungssache ohne saubere Aktenstruktur fuehrt zwei Wochen spaeter zum Belegchaos. Dieser Skill normiert die Aufnahme.
 
-Dieser Dokumenten-Intake für **Forderungsmanagement Klagewerkstatt** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+## Intake-Checkliste
 
-## Fachlandkarte dieses Plugins
+| Kategorie | Typische Dokumente | Pflicht |
+|---|---|---|
+| Vertragsunterlagen | Angebot Annahme Bestellung AGB Auftragsbestaetigung | ja |
+| Leistungsnachweis | Lieferschein Abnahmeprotokoll Stundenzettel Zeitnachweis | ja |
+| Rechnung | Rechnung Schlussrechnung Gutschrift Korrektur | ja |
+| Mahnungen | Erstmahnung Zweitmahnung Anwaltsschreiben | ja |
+| Schuldnerkommunikation | E-Mails Briefe Telefonvermerke | ja sofern vorhanden |
+| Zahlungsbelege | Kontoauszug Verrechnungen Teilzahlungen | ja sofern vorhanden |
+| Drittunterlagen | Handelsregister Auskunft Schufa SCHUFA-Auskunft | wenn vorhanden |
+| Verfahrensunterlagen | bisheriger Schriftverkehr Gegenseitige Anwaltsbriefe | ja sofern vorhanden |
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `belegte-faellige-fmkw` — Belegte Faellige Fmkw
-- `bgb-zpo-fmkw-saumselig-fmkw-titulierung` — Bgb Zpo Fmkw Saumselig Fmkw Titulierung
-- `fmkw-mahnverfahren-bauleiter` — Fmkw Mahnverfahren Bauleiter
-- `fmkw-saumselig-streitig-erfahrung-spezial` — Fmkw Saumselig Streitig Erfahrung Spezial
-- `fmkw-titulierung-streckung-leitfaden` — Fmkw Titulierung Streckung Leitfaden
-- `fmkw-verbraucherklage-cookies-rdg-spezial` — Fmkw Verbraucherklage Cookies Rdg Spezial
-- `fmkw-verbraucherklage-forderung-anwaltshonorar-forderung` — Fmkw Verbraucherklage Forderung Anwaltshonorar Forderung
-- `forderung-anwaltshonorar-rvg` — Forderung Anwaltshonorar Rvg
-- `forderung-arzthonorar-goae` — Forderung Arzthonorar Goae
-- `forderung-aus-werkvertrag-bgb-bau` — Forderung Aus Werkvertrag Bgb Bau
-- `forderung-gegen-gesellschafter-13-gmbhg` — Forderung Gegen Gesellschafter 13 Gmbhg
-- `forderung-gegen-gesellschafter-insolventen-schuldner-ausland` — Forderung Gegen Gesellschafter Insolventen Schuldner Ausland
-- `forderung-gegen-insolventen-schuldner` — Forderung Gegen Insolventen Schuldner
+## Aktenstruktur
 
-## Arbeitsweg
+```
+[Aktenzeichen]/
+  01_Mandat/
+    Vollmacht.pdf
+    Auftragsbestaetigung.pdf
+  02_Vertrag/
+    Vertrag.pdf
+    AGB.pdf
+  03_Leistung/
+    Lieferschein.pdf
+  04_Rechnung/
+    Rechnung_2024-117.pdf
+  05_Mahnung/
+    Mahnung_01.pdf
+    Mahnung_02_Anwalt.pdf
+  06_Kommunikation/
+    E-Mails.pdf
+  07_Schriftsatz/
+    Klage.docx
+  08_Belege_Anlagen_K/
+    K_01.pdf
+```
 
-- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Forderungsmanagement Klagewerkstatt-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+## Einsichtsanspruch BGB 810
 
-## Output
+Mandantin kann von Dritten Einsicht in Urkunden verlangen die in ihrem Interesse errichtet wurden oder ein Rechtsverhaeltnis dokumentieren. Bei Werkvertraegen wichtig fuer Massenermittlung.
 
-Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Gläubiger.
+## Vorlagepflicht im Prozess
 
-## Qualitätsanker
+- ZPO 142 das Gericht kann Vorlage anordnen
+- ZPO 422 423 Vorlagepflicht der Gegenpartei
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Norm-Pinpoints
+
+- ZPO 142 422 423
+- BGB 810
+
+## Quellen
+
+- [ZPO 142](https://www.gesetze-im-internet.de/zpo/__142.html)
+- [BGB 810](https://www.gesetze-im-internet.de/bgb/__810.html)

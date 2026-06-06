@@ -1,45 +1,44 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Forderungsmanagement Klagewerkstatt: Diese Output-Weiche für Forderungsmanagement Klagewerkstatt entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Bestimmt fuer einen Forderungsfall das passende Ausgabeprodukt aussergerichtliche Mahnung Mahnbescheidsantrag Klageschrift Vollstreckungsauftrag Aktenvermerk oder Vergleichsentwurf. Beruecksichtigt Mandantenziel Kostenrisiko Eilbeduerftigkeit und Beweislage. Pinpoints ZPO 690 Antragsinhalt ZPO 253 Klageinhalt BGB 779 Vergleich. Liefert Format und Mindestbestandteile."
 ---
 
-# Output wählen
+# Output waehlen
 
-## Einsatzlage
+Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende Produkt.
 
-Diese Output-Weiche für **Forderungsmanagement Klagewerkstatt** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+## Produktkatalog
 
-## Fachlandkarte dieses Plugins
+| Output | Wann | Mindestinhalt | Norm |
+|---|---|---|---|
+| Aussergerichtliche Mahnung | Schuldner noch nicht in Verzug oder zur Verzugsbegruendung | Forderung Faelligkeit Zahlungsfrist Verzugsfolgenhinweis | BGB 286 Abs. 1 |
+| Anwaltliches Forderungsschreiben | Zweite Eskalationsstufe Inkassokostenanspruch wecken | wie oben plus Vollmacht Hinweis Kostenfolge | RDG 13b |
+| Mahnbescheidsantrag online | unstrittig faellig kein Widerspruch erwartet | Glaeubiger Schuldner Anspruchsgrund Hauptforderung Nebenforderungen Zinsen | ZPO 690 |
+| Klageschrift Zahlungsklage | Streit erwartet oder Mahnverfahren ausgeschlossen | Parteien Antrag Tatsachen Beweis Streitwert | ZPO 253 Abs. 2 |
+| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermoegen | Glaeubiger Schuldner Titel Forderung Hoehe | ZPO 753 ZPO 754 |
+| Pfaendungs- und Ueberweisungsbeschluss | Titel Drittschuldner bekannt | Drittschuldnerdaten Forderungsbezeichnung | ZPO 829 ZPO 835 |
+| Forderungsanmeldung InsO | Schuldner insolvent | Forderung Grund Beleg Rangstufe Vorrechte | InsO 174 |
+| Vergleichsentwurf | beide Seiten verhandlungsbereit | Forderungshoehe Ratenplan Verzichtsklausel Vollstreckungsklausel | BGB 779 ZPO 794 Abs. 1 Nr. 1 |
+| Aktenvermerk Nichtaufnahme | Forderung verjaehrt unwirtschaftlich oder Konflikt | Sachverhalt Pruefergebnis Mandantenbeschluss Wiedervorlage | BORA 50 Aktenpflicht |
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `belegte-faellige-fmkw` — Belegte Faellige Fmkw
-- `bgb-zpo-fmkw-saumselig-fmkw-titulierung` — Bgb Zpo Fmkw Saumselig Fmkw Titulierung
-- `fmkw-mahnverfahren-bauleiter` — Fmkw Mahnverfahren Bauleiter
-- `fmkw-saumselig-streitig-erfahrung-spezial` — Fmkw Saumselig Streitig Erfahrung Spezial
-- `fmkw-titulierung-streckung-leitfaden` — Fmkw Titulierung Streckung Leitfaden
-- `fmkw-verbraucherklage-cookies-rdg-spezial` — Fmkw Verbraucherklage Cookies Rdg Spezial
-- `fmkw-verbraucherklage-forderung-anwaltshonorar-forderung` — Fmkw Verbraucherklage Forderung Anwaltshonorar Forderung
-- `forderung-anwaltshonorar-rvg` — Forderung Anwaltshonorar Rvg
-- `forderung-arzthonorar-goae` — Forderung Arzthonorar Goae
-- `forderung-aus-werkvertrag-bgb-bau` — Forderung Aus Werkvertrag Bgb Bau
-- `forderung-gegen-gesellschafter-13-gmbhg` — Forderung Gegen Gesellschafter 13 Gmbhg
-- `forderung-gegen-gesellschafter-insolventen-schuldner-ausland` — Forderung Gegen Gesellschafter Insolventen Schuldner Ausland
-- `forderung-gegen-insolventen-schuldner` — Forderung Gegen Insolventen Schuldner
+## Entscheidungslogik
 
-## Arbeitsweg
+1. Eilbeduerftigkeit Verjaehrung naht in unter sechzig Tagen Mahnbescheid oder Klage sofort
+2. Beweislage stark Urkundenprozess pruefen
+3. Schuldner zahlungsbereit aber liquide schwach Vergleich mit Vollstreckungsunterwerfung ZPO 794 Abs. 1 Nr. 5
+4. Schuldner schweigt nach zwei Mahnungen Mahnbescheid
+5. Streit ueber Existenz oder Hoehe Zahlungsklage
 
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Forderungsmanagement Klagewerkstatt (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+## Norm-Pinpoints
 
-## Output
+- ZPO 253 Klage
+- ZPO 690 Mahnantrag
+- ZPO 753 754 Gerichtsvollzieher
+- ZPO 794 Titel-Katalog
+- BGB 779 Vergleich
 
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Forderungsmanagement Klagewerkstatt sofort: Mahnung oder Mahnbescheid online (zentrales MB-Gericht).
+## Quellen
 
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- [ZPO 690](https://www.gesetze-im-internet.de/zpo/__690.html)
+- [ZPO 794](https://www.gesetze-im-internet.de/zpo/__794.html)
+- [BGB 779](https://www.gesetze-im-internet.de/bgb/__779.html)

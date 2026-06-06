@@ -1,45 +1,47 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing nach erfolgter Triage oder abgeschlossenem Arbeitsschritt. Entscheidet auf Basis des bisherigen Akteninhalts welcher Folgeskill aus dem Plugin als naechstes zu starten ist. Beruecksichtigt Mahnstatus Faelligkeit Titel Vollstreckung und Insolvenz. Pinpoints ZPO 688 ZPO 794 ZPO 808 InsO 174. Liefert Entscheidungsbaum mit zwei oder drei Optionen und einer Empfehlung."
 ---
 
 # Anschluss-Routing
 
-## Einsatzlage
+Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungsschritt. Er liefert nicht das ganze Universum sondern genau zwei oder drei Folgeoptionen.
 
-Dieses Anschluss-Routing für **Forderungsmanagement Klagewerkstatt** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+## Routing-Matrix
 
-## Fachlandkarte dieses Plugins
+| Zustand der Akte | Empfohlener Folgeskill | Alternative |
+|---|---|---|
+| Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjaehrung droht |
+| Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
+| Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
+| Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-ueberblick |
+| Urteil rechtskraeftig | zwangsvollstreckung-ueberblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |
+| Schuldner zahlungsunfaehig Insolvenzantrag bekannt | forderung-gegen-insolventen-schuldner | InsO-Anmeldung 174 |
+| Forderung aus Urkunde Vertrag oder Scheck | urkundenprozess-pruefen | zahlungsklage-erstellen |
+| Werkvertragsforderung Bau | forderung-werkvertrag-bau | mahnverfahren-bauleiter |
+| Anwaltshonorar Streit ueber RVG-Rechnung | forderung-anwaltshonorar-rvg | klagefreigabe-belegte-forderung |
+| Arzthonorar GOAE-Streit | forderung-arzthonorar-goae | klagefreigabe-belegte-forderung |
+| Mietrueckstand | forderung-mietrueckstand-zahlungsklage | mahnbescheid-online bei reinem Zahlungsanspruch |
+| Forderung gegen GmbH Geschaeftsfuehrer | forderung-gegen-gmbh-gesellschafter | zahlungsklage-erstellen |
+| Auslandsbezug Schuldner im EU-Ausland | forderung-im-ausland-vollstrecken | EuMVVO oder EuGFVO via forderung-internationaler-bezug |
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `belegte-faellige-fmkw` — Belegte Faellige Fmkw
-- `bgb-zpo-fmkw-saumselig-fmkw-titulierung` — Bgb Zpo Fmkw Saumselig Fmkw Titulierung
-- `fmkw-mahnverfahren-bauleiter` — Fmkw Mahnverfahren Bauleiter
-- `fmkw-saumselig-streitig-erfahrung-spezial` — Fmkw Saumselig Streitig Erfahrung Spezial
-- `fmkw-titulierung-streckung-leitfaden` — Fmkw Titulierung Streckung Leitfaden
-- `fmkw-verbraucherklage-cookies-rdg-spezial` — Fmkw Verbraucherklage Cookies Rdg Spezial
-- `fmkw-verbraucherklage-forderung-anwaltshonorar-forderung` — Fmkw Verbraucherklage Forderung Anwaltshonorar Forderung
-- `forderung-anwaltshonorar-rvg` — Forderung Anwaltshonorar Rvg
-- `forderung-arzthonorar-goae` — Forderung Arzthonorar Goae
-- `forderung-aus-werkvertrag-bgb-bau` — Forderung Aus Werkvertrag Bgb Bau
-- `forderung-gegen-gesellschafter-13-gmbhg` — Forderung Gegen Gesellschafter 13 Gmbhg
-- `forderung-gegen-gesellschafter-insolventen-schuldner-ausland` — Forderung Gegen Gesellschafter Insolventen Schuldner Ausland
-- `forderung-gegen-insolventen-schuldner` — Forderung Gegen Insolventen Schuldner
+## Stop-Bedingungen
 
-## Arbeitsweg
+| Stop wenn | Begruendung |
+|---|---|
+| Forderung verjaehrt nach Pruefung in verjaehrung-pruefen | Klage waere unbegruendet wenn Einrede erhoben wird |
+| Schuldner verstorben Erben unklar | erst Erbenermittlung dann gesonderter Skill |
+| Mandant ohne Klagewunsch trotz Aussicht | Aktenvermerk nach belegte-compliance-aktenvermerk dann Wiedervorlage |
 
-- Ergebnis sichten: Welche Forderungsmanagement Klagewerkstatt-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+## Norm-Pinpoints
 
-## Output
+- ZPO 688 Mahnverfahren
+- ZPO 794 Vollstreckungstitel-Katalog
+- ZPO 808 Sachpfaendung
+- InsO 174 Forderungsanmeldung
+- BGB 195 Verjaehrung
 
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Forderungsmanagement Klagewerkstatt.
+## Quellen
 
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- [ZPO 794](https://www.gesetze-im-internet.de/zpo/__794.html)
+- [InsO 174](https://www.gesetze-im-internet.de/inso/__174.html)

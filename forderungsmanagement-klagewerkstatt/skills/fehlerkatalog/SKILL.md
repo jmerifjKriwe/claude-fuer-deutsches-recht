@@ -1,36 +1,56 @@
 ---
 name: fehlerkatalog
-description: "Freigegeben Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Katalog typischer Fehler im Forderungsmanagement und Klageweg. Sortiert nach Phase Antrag Mahnbescheid Klage Urteil Vollstreckung. Pinpoints ZPO 690 falscher Antragstyp ZPO 167 verspaetete Vorschusszahlung BGB 286 fehlende Mahnung ZPO 850c Pfaendungsgrenze. Liefert Liste mit Folgen und Praevention."
 ---
 
-# Freigegeben Fehlerkatalog
+# Fehlerkatalog Forderungsmanagement
 
-## Einsatzlage
+Eine Sammlung der haeufigsten Fehler aus der Praxis.
 
-Dieser Fehlerkatalog prüft im Bereich **Forderungsmanagement Klagewerkstatt** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+## Phase Mahnvorlauf
 
-## Fachspezifische Fehlerachsen
+| Fehler | Folge | Praevention |
+|---|---|---|
+| Mahnung ohne klare Fristsetzung | Verzugsbeginn umstritten | konkretes Datum |
+| Kein Zugang nachweisbar | Verzug nicht bewiesen | Einschreiben Rueckschein |
+| Verbraucherrechnung ohne Hinweis nach BGB 286 Abs. 3 | kein automatischer Verzug nach 30 Tagen | Hinweistext einfuegen |
+| Falscher Schuldner adressiert | Mahnung wirkungslos | Handelsregisterauszug pruefen |
 
-- `allgemein-workflow-chronologie-workflow-fristen`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `belegte-faellige-fmkw`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `bgb-zpo-fmkw-saumselig-fmkw-titulierung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fmkw-mahnverfahren-bauleiter`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fmkw-saumselig-streitig-erfahrung-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fmkw-titulierung-streckung-leitfaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fmkw-verbraucherklage-cookies-rdg-spezial`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `fmkw-verbraucherklage-forderung-anwaltshonorar-forderung`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forderung-anwaltshonorar-rvg`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `forderung-arzthonorar-goae`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+## Phase Mahnbescheid
 
-## Red-Team-Fragen
+| Fehler | Folge | Praevention |
+|---|---|---|
+| Forderung nicht hinreichend bezeichnet | Zurueckweisung | Anspruchsgrund mit Vertragsdatum |
+| Zinsen falsch eingegeben | Korrekturbescheid | korrekt B2B oder B2C |
+| Streitwert falsch | Gerichtskostenproblem | nochmal pruefen |
+| Antrag an unzustaendiges Mahngericht | Verzoegerung | Tabelle ZPO 689 nutzen |
 
-1. Ist die richtige Rolle, Zuständigkeit und Verfahrensart gewählt?
-2. Sind Fristbeginn, Fristende, Form, Zugang und Beweislast getrennt dokumentiert?
-3. Gibt es eine Spezialnorm, die die allgemeine Lösung verdrängt?
-4. Sind tatsächliche Annahmen als Annahmen markiert und Belege benannt?
-5. Enthält der Output unnötige Zugeständnisse, vertrauliche Daten oder ungeprüfte Fundstellen?
-6. Ist der nächste Schritt praktisch ausführbar: wer tut was bis wann mit welchem Dokument?
+## Phase Klage
 
-## Heilung
+| Fehler | Folge | Praevention |
+|---|---|---|
+| Klage nicht ueber beA eingereicht | Unwirksamkeit ZPO 130d | beA-Pflicht beachten |
+| Gerichtskostenvorschuss zu spaet | keine Rueckwirkung ZPO 167 | sofort einzahlen |
+| Streitwert falsch sachliche Zustaendigkeit | Verweisung Verzoegerung | GVG 23 71 pruefen |
+| Pauschal-Bestreiten ohne Substanz | Folge fuer Beklagte | substantiiert ZPO 138 Abs. 2 |
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+## Phase Urteil und Vollstreckung
+
+| Fehler | Folge | Praevention |
+|---|---|---|
+| Vollstreckungsklausel nicht beantragt | keine Vollstreckung | Klausel beim Gericht beantragen |
+| Pfaendungsgrenze ZPO 850c nicht beruecksichtigt | unzulaessige Pfaendung | Tabelle nutzen |
+| Pfaendung gegen Insolvenzschuldner nach Eroeffnung | unwirksam InsO 89 | InsO-Pruefung vor Vollstreckung |
+| Verjaehrung Titel BGB 197 dreissig Jahre verkannt | unnoetige Eile | aber Hemmungshandlung dokumentieren |
+
+## Norm-Pinpoints
+
+- ZPO 130d 167 689 690 850c
+- BGB 197 286
+- InsO 89
+
+## Quellen
+
+- [ZPO 850c](https://www.gesetze-im-internet.de/zpo/__850c.html)
+- [BGB 197](https://www.gesetze-im-internet.de/bgb/__197.html)
+- [InsO 89](https://www.gesetze-im-internet.de/inso/__89.html)

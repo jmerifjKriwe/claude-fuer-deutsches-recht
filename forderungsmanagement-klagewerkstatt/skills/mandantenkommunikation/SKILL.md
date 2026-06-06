@@ -1,35 +1,70 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im Plugin Forderungsmanagement Klagewerkstatt: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
+description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form fuer Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadensersatz aus Beratungsvertrag. Liefert E-Mail-Vorlagen mit Pflichtinhalten."
 ---
 
 # Mandantenkommunikation
 
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin forderungsmanagement-klagewerkstatt: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
+Maendel der Mandantenpflicht endet jedes Forderungsmandat in Aerger. Dieser Skill regelt Anlaesse Form und Mindestinhalt.
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+## Pflicht-Anlaesse
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+| Anlass | Frist | Form | Mindestinhalt |
+|---|---|---|---|
+| Mandatsannahme | sofort | Textform | Auftragsbestaetigung Honorarbasis Vollmacht Datenschutz |
+| Wesentliche Schritte | unverzueglich | Textform oder Telefon mit Vermerk | was wann mit welcher Erfolgsaussicht |
+| Eingang Schuldner-Brief | innerhalb drei Werktagen | Textform | Sachstand Optionen Empfehlung |
+| Vergleichsangebot Gegenseite | unverzueglich | Textform | Wortlaut Bewertung Vorschlag |
+| Klageeinreichung | vorher | Textform | Risikohinweis Kostenrisiko Streitwert Gerichtskostenvorschuss |
+| Urteil oder Vollstreckungsbescheid | spaetestens drei Tage | Textform | Tenor Rechtsmittelhinweis Folgeschritte |
+| Mandatsende | sofort | Textform | Abschluss Aktenrueckgabe Aufbewahrungspflicht |
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Pflicht-Hinweise
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+- Risiko des Unterliegens Kostenfolge ZPO 91
+- Streitwertabhaengige Gebuehren RVG 13
+- Vorschusspflicht des Glaeubigers fuer Gerichtskosten GKG 12
+- Hemmungs- und Verjaehrungswirkung der Klageerhebung BGB 204
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## E-Mail-Muster Mandantensachstand
+
+```
+Betreff Sachstand Forderungssache [Name Schuldner] - Aktenzeichen [...]
+
+Sehr geehrte Frau Sehr geehrter Herr [Mandant]
+
+zur Forderung ueber [Hauptsumme] Euro gegen [Schuldner] berichten wir Folgendes.
+
+Aktueller Stand
+- [eingegangene Zahlung Verzug Schuldnerbrief]
+- [eigene Massnahme letzte Frist]
+
+Naechster Schritt
+- [Mahnbescheid Klage Vollstreckung]
+- voraussichtliche Frist bis [Datum]
+
+Risiko und Kosten
+- Aussicht [hoch mittel gering]
+- Gerichtskosten ca [Betrag] Anwaltskosten ca [Betrag]
+
+Wir bitten um Ihre Zustimmung bis [Datum].
+
+Mit freundlichen Gruessen
+```
+
+## Schweigepflicht
+
+- BRAO 43a Abs. 2 Verschwiegenheit
+- StGB 203 Strafbarkeit der Verletzung
+- DSGVO Art 6 Art 9 bei Verarbeitung
+
+## Norm-Pinpoints
+
+- BRAO 43a 49b
+- BORA 11
+- RVG 13 49b
+
+## Quellen
+
+- [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)
+- [BORA 11](https://www.gesetze-im-internet.de/bora/__11.html)

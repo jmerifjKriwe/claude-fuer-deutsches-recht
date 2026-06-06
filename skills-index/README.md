@@ -83,7 +83,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (50 Skills)
 - [festlandchina-wirtschaftsverkehr](./festlandchina-wirtschaftsverkehr.md) (101 Skills)
 - [fluggastrechte](./fluggastrechte.md) (84 Skills)
-- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (84 Skills)
+- [forderungsmanagement-klagewerkstatt](./forderungsmanagement-klagewerkstatt.md) (50 Skills)
 - [forschungszulage-antragstellung](./forschungszulage-antragstellung.md) (86 Skills)
 - [fortbestehensprognose](./fortbestehensprognose.md) (54 Skills)
 - [franchiserecht-praxis](./franchiserecht-praxis.md) (78 Skills)

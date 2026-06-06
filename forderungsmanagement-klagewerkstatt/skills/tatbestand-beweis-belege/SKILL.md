@@ -1,38 +1,68 @@
 ---
 name: tatbestand-beweis-belege
-description: "Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Schluessige Tatbestandsdarstellung in einer Klage oder einem Schriftsatz mit Verknuepfung zu Beweisen und Belegen. Verlangt zeitliche Reihenfolge konkrete Tatsachen mit Beweismitteln Anlagenverweis. Pinpoints ZPO 138 Wahrheitspflicht ZPO 137 Verhandlungsgrundsatz ZPO 138 Abs. 2 substantiiertes Bestreiten. Liefert Tatbestandsmuster und Lex-fori-Regeln."
 ---
 
-# Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Tatbestand Beweis Belege
 
-## Fachkern: Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Der Tatbestand muss konkret datiert beweisangebotenen Tatsachen enthalten. Pauschalsaetze fallen durch.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Tatbestand-Muster
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+```
+I. Sachverhalt
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forderungsmanagement** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Am [Datum] schlossen die Parteien einen
+[Vertragstyp] ueber [Leistungsgegenstand]
+zum Preis von [Hauptsumme] Euro. Beweis
+Anlage K 1 Vertragsurkunde.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+2. Die Klaegerin lieferte die geschuldete
+Leistung am [Datum] vollstaendig. Beweis
+Anlage K 2 Lieferschein gezeichnet von
+[Empfaenger]. Zeuge [Name Anschrift].
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+3. Die Klaegerin stellte unter dem [Datum]
+Rechnung Nr [Rechnungsnummer]. Beweis Anlage
+K 3.
+
+4. Die Beklagte erhielt die Rechnung
+spaetestens am [Datum]. Beweis Anlage K 4
+Sendungsverlauf.
+
+5. Mit Schreiben vom [Datum] mahnte die
+Klaegerin die Zahlung mit Fristsetzung bis
+[Datum]. Beweis Anlage K 5.
+
+6. Eine Zahlung erfolgte bis heute nicht.
+Beweis Kontoauszug Anlage K 6.
+```
+
+## Substantiierungsanforderungen
+
+| Anforderung | Inhalt |
+|---|---|
+| Vollstaendigkeit | jeder anspruchsbegruendende Punkt |
+| Zeitliche Reihenfolge | Datum bei jedem Schritt |
+| Beweismittel | je Tatsache mindestens eines |
+| Bezugnahme Anlage | im Text mit Anlagen-Nummer |
+| Tatsachen nicht Wertungen | wer was wann wo |
+
+## Bestreiten durch Beklagte
+
+| Form | Wirkung |
+|---|---|
+| Substantiiertes Bestreiten | Klaeger trifft Beweislast voll |
+| Pauschales Bestreiten unzulaessig | gilt als zugestanden ZPO 138 Abs. 3 |
+| Nichtwissen ZPO 138 Abs. 4 | nur bei Tatsachen ausserhalb eigener Wahrnehmung |
+
+## Norm-Pinpoints
+
+- ZPO 137 Verhandlungsgrundsatz
+- ZPO 138 Wahrheitspflicht Substantiierung
+- ZPO 286 freie Beweiswuerdigung
+
+## Quellen
+
+- [ZPO 138](https://www.gesetze-im-internet.de/zpo/__138.html)
+- [ZPO 286](https://www.gesetze-im-internet.de/zpo/__286.html)

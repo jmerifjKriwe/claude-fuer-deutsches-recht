@@ -1,50 +1,67 @@
 ---
 name: titulierung-streckung-leitfaden
-description: "Leitfaden Titulierung mit Ratenzahlung und Streckung: Anerkenntnis, Schuldanerkenntnis, Ratenvereinbarung mit Vollstreckungsmoeglichkeit. Pruefraster fuer Inkassoanwalt."
+description: "Strategie zur Titulierung einer Forderung und Streckung der Vollstreckung durch Ratenzahlungsvereinbarung notarielle Schuldanerkenntnis oder vollstreckbare Urkunde. Pinpoints ZPO 794 Abs. 1 Nr. 1 Vergleich Nr. 5 notarielle Urkunde BGB 781 Schuldanerkenntnis BGB 311 b. Liefert Vertragsmuster und Vor- und Nachteile."
 ---
 
-# FMKW: Titulierung Streckung
+# Titulierung und Streckung
 
-## Fachkern: FMKW: Titulierung Streckung
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Statt eines Urteils kann auch ein Prozessvergleich oder eine notarielle Urkunde Titel werden. Das ist oft schneller und billiger.
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Titel-Katalog ZPO 794
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+| Titel | Erlangung | Vollstreckbar |
+|---|---|---|
+| Endurteil | Klageverfahren | rechtskraeftig oder vorlaeufig |
+| Versaeumnisurteil | Beklagter saeumig ZPO 330 | ja nach Einspruchsfrist |
+| Vollstreckungsbescheid | Mahnverfahren ZPO 699 | sofort vorlaeufig |
+| Prozessvergleich | im Termin oder schriftlich ZPO 794 Abs. 1 Nr. 1 | sofort |
+| Aussergerichtlicher Vergleich vor Anwalt mit Vollstreckungsunterwerfung | ZPO 796a | sofort |
+| Notarielle Urkunde mit Unterwerfung | Notar ZPO 794 Abs. 1 Nr. 5 | sofort |
+| Kostenfestsetzungsbeschluss | nach Hauptsache | sofort |
 
-## Pruefraster
+## Notarielle Schuldanerkenntnisurkunde
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+Vorteile
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- spaerend Klage Gerichtskosten und Anwaltsgebuehren
+- sofort vollstreckbar
+- klarer Tilgungsplan moeglich
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Nachteile
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Notarkosten
+- Schuldner muss mitwirken
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+## Muster Tilgungsvereinbarung
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+```
+1. Der Schuldner erkennt die Hauptforderung von
+[Hauptsumme] Euro nebst Zinsen in Hoehe von
+[Zinssatz] aus Paragraph 288 BGB an.
+
+2. Der Schuldner verpflichtet sich zur Zahlung
+in [Anzahl] monatlichen Raten zu [Ratensumme]
+Euro jeweils zum [Tag] eines jeden Monats
+beginnend am [Datum].
+
+3. Bei Verzug mit zwei aufeinanderfolgenden
+Raten wird der gesamte Restbetrag ohne weitere
+Mahnung sofort faellig.
+
+4. Der Schuldner unterwirft sich wegen der
+Anspruechen aus dieser Urkunde der sofortigen
+Zwangsvollstreckung in sein gesamtes Vermoegen.
+
+[Ort Datum Unterschrift Notar]
+```
+
+## Norm-Pinpoints
+
+- BGB 781 Schuldanerkenntnis
+- ZPO 794 Titel-Katalog
+- ZPO 796a anwaltlicher Vergleich
+
+## Quellen
+
+- [ZPO 794](https://www.gesetze-im-internet.de/zpo/__794.html)
+- [BGB 781](https://www.gesetze-im-internet.de/bgb/__781.html)

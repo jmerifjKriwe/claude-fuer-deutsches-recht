@@ -1,49 +1,143 @@
 ---
 name: forderung-gegen-gmbh-gesellschafter
-description: "Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster."
+description: "Forderung gegen GmbH-Gesellschafter persoenlich: § 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. Durchgriff bei § 19 GmbHG (Einlagepflicht) § 31 GmbHG (verbotene Auszahlung), existenzvernichtender Eingriff BGH II ZR 256/02 (Trihotel) und BGH II ZR 3/04 (Bremer Vulkan). Output: Pruefraster Anspruchsgrund + Beweislast."
 ---
 
-# Forderung gegen Gesellschafter
+# Forderung gegen GmbH-Gesellschafter
 
-## Fachkern: Forderung gegen Gesellschafter
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Ausgangslage: GmbH zahlt nicht, Forderung steht. Frage: kann der Gesellschafter persoenlich in Anspruch genommen werden?
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Grundsatz Trennungsprinzip § 13 Abs. 2 GmbHG
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+GmbH haftet **allein mit ihrem Gesellschaftsvermoegen**. Gesellschafter haftet **nicht** persoenlich fuer Schulden der Gesellschaft. Das Stammkapital ist als Mindesthaftsumme (§ 5 Abs. 1 GmbHG: 25.000 EUR; UG 1 EUR).
 
-## Pruefraster
+## Ausnahmen – wann haftet der Gesellschafter doch?
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### 1. § 19 GmbHG Einlagepflicht (Differenzhaftung)
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+Gesellschafter haftet auf Erbringung der **gezeichneten Einlage**, soweit nicht vollstaendig geleistet:
+| Tatbestand | Norm | Folge |
+|---|---|---|
+| Ausstehende Einlage | § 19 Abs. 1 GmbHG | Anspruch GmbH auf Volleinzahlung |
+| Differenz Sacheinlage / Bewertung | § 9 Abs. 1 GmbHG | Differenzhaftung in Geld |
+| Verdeckte Sacheinlage | § 19 Abs. 4 GmbHG (seit MoMiG 2008) | bei Anrechnung: Wert pruefen |
+| Hin- und Herzahlung | § 19 Abs. 5 GmbHG | bestehende Forderung der GmbH |
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+### 2. § 31 GmbHG Rueckzahlung verbotener Auszahlung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+| Voraussetzung | Folge |
+|---|---|
+| Auszahlung an Gesellschafter | Pruefung § 30 GmbHG (Stammkapital-Auszehrung) |
+| Verstoss gegen Kapitalerhaltung | Rueckforderungsanspruch GmbH |
+| Verjaehrung | 10 Jahre § 31 Abs. 5 GmbHG |
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammkapitals nicht an Gesellschafter ausschuetten.
+
+### 3. Existenzvernichtender Eingriff (Haftung wegen § 826 BGB)
+
+**BGH II ZR 256/02 Trihotel** und **II ZR 3/04 Bremer Vulkan**:
+- Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermoegen entzieht und damit die Existenz der GmbH gefaehrdet.
+- Schadensersatz an die GmbH (nicht direkt an Glaeubiger).
+- In der Insolvenz: Anspruch des Insolvenzverwalters; ohne Insolvenz Pfaendung des Anspruchs der GmbH.
+
+### 4. Materielle Unterkapitalisierung
+
+BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur ueber § 826 BGB / existenzvernichtenden Eingriff.
+
+### 5. Sittenwidrige vorsaetzliche Schaedigung § 826 BGB
+
+Wenn Gesellschafter direkt den Glaeubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Glaeubigers gegen den Gesellschafter persoenlich.
+
+### 6. Persoenliche Buergschaft, Schuldbeitritt, Garantie
+
+Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Pruefung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
+
+### 7. Haftung Geschaeftsfuehrer (nicht Gesellschafter, aber oft personenidentisch)
+
+| Anspruchsgrundlage | Norm |
+|---|---|
+| Steuerhaftung | § 69, § 34 AO |
+| Sozialversicherungsbeitraege | § 823 Abs. 2 BGB i.V.m. § 266a StGB |
+| Insolvenzverschleppung | § 823 Abs. 2 BGB i.V.m. § 15a InsO |
+| Verletzung Vorsorgepflichten | § 43 GmbHG (gegenueber GmbH) |
+| Drittschadensliquidation | bei Sonderverbindung Glaeubiger |
+
+### 8. Strohmanngeschaeft / Treuhand
+
+Wenn Gesellschafter wirtschaftlich agiert und GmbH nur Mantel ist: gerichtliche Wertung "Strohmanngeschaeft", direkte Haftung. Sehr enger Anwendungsbereich.
+
+### 9. Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO
+
+In der Insolvenz nachrangig. Vorher zurueckgezahltes Gesellschafterdarlehen kann angefochten werden (§ 135 InsO 1 Jahr).
+
+## Pruefraster Forderung gegen GmbH-Gesellschafter
+
+| Schritt | Frage | Beweislast |
+|---|---|---|
+| 1 | Gegen welche Person Klage – GmbH oder Gesellschafter? | Glaeubiger |
+| 2 | Vertragliche Haftung Gesellschafter (Buergschaft, Beitritt)? | Glaeubiger |
+| 3 | Einlage vollstaendig erbracht? | GmbH/Insolvenzverwalter |
+| 4 | Verbotene Auszahlung § 30, 31 GmbHG erfolgt? | Insolvenzverwalter |
+| 5 | Existenzvernichtender Eingriff (§ 826 BGB)? | Glaeubiger/InsVerw |
+| 6 | Strohmann/Treuhand? | Glaeubiger |
+| 7 | Insolvenz GmbH eroeffnet → Anspruchsverlagerung an Insolvenzverwalter | nachpruefen |
+
+## Praxisfall – Inkasso-Strategie
+
+```
+Schritt 1: HRB-Auszug Gesellschafter und Geschaeftsfuehrer
+Schritt 2: Bilanz pruefen (Bundesanzeiger) -> Eigenkapitalstand
+Schritt 3: Insolvenzbekanntmachungen pruefen
+Schritt 4: Sofort:
+   - GmbH verklagen (Hauptanspruch)
+   - bei Insolvenz: § 174 InsO anmelden, an Insolvenzverwalter wenden
+Schritt 5: Parallel:
+   - Buergschaft/Beitritt pruefen -> Klage Gesellschafter
+   - Auffaellige Auszahlungen vor Insolvenz -> Hinweis Insolvenzverwalter
+Schritt 6: Bei Verdacht Insolvenzverschleppung
+   - Anzeige Staatsanwaltschaft § 15a InsO
+   - Schadensersatz § 823 Abs. 2 BGB GfFhr
+```
+
+## Insolvenz-Anfechtung Sondervermoegens-Verschiebungen
+
+| Anfechtungsgrund | Norm |
+|---|---|
+| Vorsaetzliche Glaeubigerbenachteiligung | § 133 InsO (10 J., 4 J. Verkuerzung 2017) |
+| Unentgeltliche Leistung | § 134 InsO (4 J.) |
+| Gesellschafterdarlehen | § 135 InsO (1 J.) |
+| Inkongruente Deckung | § 131 InsO (3 Monate) |
+| Kongruente Deckung | § 130 InsO (3 Monate) |
+
+## Klageantrag-Muster gegen Gesellschafter aus Buergschaft
+
+```
+Es wird beantragt:
+1. Der Beklagte wird verurteilt, an die Klaegerin EUR 12.500,00
+   aus der Buergschaftsurkunde vom 03.02.2024 (Anlage K2)
+   nebst Zinsen in Hoehe von 9 Prozentpunkten ueber dem
+   Basiszinssatz seit dem 15.05.2026 zu zahlen.
+2. Hilfsweise: Der Beklagte wird verurteilt, an die Klaegerin
+   EUR 12.500,00 nebst Zinsen ... aus existenzvernichtendem
+   Eingriff (§ 826 BGB) zu zahlen.
+3. Der Beklagte traegt die Kosten des Rechtsstreits.
+```
+
+## Typische Fehler
+
+- Klage gegen Gesellschafter ohne Anspruchsgrundlage neben § 13 Abs. 2 GmbHG.
+- Buergschaft formunwirksam (§ 766 BGB Schriftform).
+- Existenzvernichtenden Eingriff zu pauschal vorgetragen; Beweislast hoch.
+- Insolvenz uebersehen; danach nur Insolvenzverwalter aktivlegitimiert fuer Gesellschafteranspruch.
+
+## Quellen
+- GmbHG § 13 Trennungsprinzip [gesetze-im-internet.de/gmbhg/__13.html](https://www.gesetze-im-internet.de/gmbhg/__13.html)
+- GmbHG § 19 Einlage [gesetze-im-internet.de/gmbhg/__19.html](https://www.gesetze-im-internet.de/gmbhg/__19.html)
+- GmbHG § 30, § 31 Kapitalerhaltung [gesetze-im-internet.de/gmbhg/__30.html](https://www.gesetze-im-internet.de/gmbhg/__30.html)
+- BGB § 826 [gesetze-im-internet.de/bgb/__826.html](https://www.gesetze-im-internet.de/bgb/__826.html)
+- InsO § 15a Insolvenzverschleppung [gesetze-im-internet.de/inso/__15a.html](https://www.gesetze-im-internet.de/inso/__15a.html)
+- InsO §§ 129-147 Anfechtung [gesetze-im-internet.de/inso/__129.html](https://www.gesetze-im-internet.de/inso/__129.html)
+- BGH II ZR 256/02 Trihotel [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- BGH II ZR 3/04 Bremer Vulkan [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

@@ -1,38 +1,67 @@
 ---
 name: klage-einreichungslogik
-description: "Klage: Formular, Portal und Einreichungslogik im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Praktische Einreichungslogik einer Zahlungsklage. Klaert Zustaendigkeit Gerichtskostenvorschuss beA-Pflicht Anzahl Abschriften Anlagenbezeichnung und Zustellung. Pinpoints ZPO 130d beA-Pflicht ZPO 253 Klageinhalt ZPO 167 Rueckwirkung Zustellung GKG 12 Vorschuss. Liefert Checkliste fuer die Einreichung."
 ---
 
-# Klage: Formular, Portal und Einreichungslogik
+# Klage-Einreichungslogik
 
-## Fachkern: Klage: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die Einreichung Schritt fuer Schritt durch.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Einreichungs-Checkliste
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Punkt | Pruefung | Norm |
+|---|---|---|
+| Sachliche Zustaendigkeit | Streitwert ueber zehntausend Euro LG sonst AG | GVG 23 Nr. 1 GVG 71 |
+| Oertliche Zustaendigkeit | Wohnsitz Beklagter Erfuellungsort Verbrauchergerichtsstand | ZPO 12 13 29 29c |
+| Streitwertangabe | konkrete Eurozahl im Schriftsatz | GKG 39 |
+| beA-Pflicht | Rechtsanwalt muss elektronisch einreichen | ZPO 130d |
+| Anlagen | nummeriert K eins K zwei Bezugnahme im Text | ZPO 131 |
+| Abschriften | bei Papier so viele wie Beklagte plus eine fuer Gericht | ZPO 133 |
+| Vollmacht | original oder beglaubigte Abschrift mit Klage | ZPO 80 |
+| Gerichtskostenvorschuss | nach Eingang Rechnung sofort einzahlen | GKG 12 |
+| Zustellung | Gericht von Amts wegen an Beklagten | ZPO 271 |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Klage** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## beA-Pflicht ZPO 130d
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+Seit 1.1.2022 muessen Rechtsanwaeltinnen Schriftsaetze elektronisch einreichen. Verstoss fuehrt zu Unwirksamkeit. Ausnahme nur bei voruebergehender technischer Stoerung mit Glaubhaftmachung ZPO 130d Satz 2 und Satz 3.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Gerichtskostenvorschuss
+
+Nach Eingang der Klage versendet das Gericht eine Kostenrechnung. Erst nach Eingang des Vorschusses wird die Klage zugestellt. Wer Verjaehrungshemmung will muss demnaechst zahlen ZPO 167. In der Praxis innerhalb von zwei Wochen.
+
+## Streitwert und Gebuehren Beispiele 2026
+
+| Streitwert | Gerichtsgebuehr drei-Wert | Anwaltsgebuehr 1,3 Verfahren |
+|---|---|---|
+| 2000 | 267 | 261 |
+| 10000 | 723 | 798 |
+| 25000 | 1149 | 1268 |
+| 50000 | 1719 | 1841 |
+
+Werte gerundet ohne Auslagen ohne USt.
+
+## Anlagen Bezeichnung
+
+```
+Anlage K 1 Rechnung vom 12.03.2025
+Anlage K 2 Lieferschein vom 14.03.2025
+Anlage K 3 Mahnschreiben vom 28.04.2025
+```
+
+Im Text Bezugnahme z B Anlage K 1.
+
+## Norm-Pinpoints
+
+- ZPO 80 Vollmacht
+- ZPO 130 Form
+- ZPO 130d beA
+- ZPO 133 Abschriften
+- ZPO 167 Rueckwirkung
+- ZPO 253 271
+- GKG 12 39
+
+## Quellen
+
+- [ZPO 130d](https://www.gesetze-im-internet.de/zpo/__130d.html)
+- [ZPO 167](https://www.gesetze-im-internet.de/zpo/__167.html)
+- [GKG 12](https://www.gesetze-im-internet.de/gkg_2004/__12.html)

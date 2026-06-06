@@ -1,39 +1,62 @@
 ---
 name: quellenkarte
-description: "Klare Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Kuratierte Quellenkarte fuer Forderungsmanagement Klagewerkstatt. Sortiert nach Gesetzen Rechtsprechung Verordnungen EU-Recht und Praxis-Literatur. Pinpoints ZPO BGB GVG GKG RVG InsO und EU-Verordnungen Brüssel Ia EuMVVO EuVTVO EuGFVO. Liefert Linkliste auf gesetze-im-internet.de bundesgerichtshof.de eur-lex.europa.eu."
 ---
 
-# Klare Quellenkarte
+# Quellenkarte
 
-## Einsatzlage
+Quellen die in diesem Plugin durchgaengig zitiert werden.
 
-Diese Quellenkarte sichert im Bereich **Forderungsmanagement Klagewerkstatt** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+## Nationale Gesetze
 
-## Suchraster
+| Norm | Bereich | Link |
+|---|---|---|
+| BGB 195 199 203 204 212 | Verjaehrung Hemmung Neubeginn | [BGB 195](https://www.gesetze-im-internet.de/bgb/__195.html) |
+| BGB 286 288 | Verzug und Zinsen | [BGB 286](https://www.gesetze-im-internet.de/bgb/__286.html) |
+| BGB 631 641 650a ff | Werkvertrag Bau | [BGB 631](https://www.gesetze-im-internet.de/bgb/__631.html) |
+| ZPO 130 130d 138 142 253 | Form und Schriftsatz | [ZPO 253](https://www.gesetze-im-internet.de/zpo/__253.html) |
+| ZPO 688 ff | Mahnverfahren | [ZPO 688](https://www.gesetze-im-internet.de/zpo/__688.html) |
+| ZPO 704 ff | Vollstreckung | [ZPO 704](https://www.gesetze-im-internet.de/zpo/__704.html) |
+| GVG 23 71 | Sachliche Zustaendigkeit | [GVG 23](https://www.gesetze-im-internet.de/gvg/__23.html) |
+| GKG 12 39 | Gerichtskosten | [GKG 12](https://www.gesetze-im-internet.de/gkg_2004/__12.html) |
+| RVG 13 14 49b | Anwaltsgebuehren | [RVG 13](https://www.gesetze-im-internet.de/rvg/__13.html) |
+| InsO 14 17 174 | Insolvenzantrag Anmeldung | [InsO 174](https://www.gesetze-im-internet.de/inso/__174.html) |
 
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `belegte-faellige-fmkw`
-- `bgb-zpo-fmkw-saumselig-fmkw-titulierung`
-- `fmkw-mahnverfahren-bauleiter`
-- `fmkw-saumselig-streitig-erfahrung-spezial`
-- `fmkw-titulierung-streckung-leitfaden`
-- `fmkw-verbraucherklage-cookies-rdg-spezial`
-- `fmkw-verbraucherklage-forderung-anwaltshonorar-forderung`
-- `forderung-anwaltshonorar-rvg`
-- `forderung-arzthonorar-goae`
-- `forderung-aus-werkvertrag-bgb-bau`
-- `forderung-gegen-gesellschafter-13-gmbhg`
+## Rechtsprechung Quellen
 
-## Prüfroute
+| Gericht | Link |
+|---|---|
+| Bundesgerichtshof | [bundesgerichtshof.de](https://www.bundesgerichtshof.de) |
+| Bundesverwaltungsgericht | [bverwg.de](https://www.bverwg.de) |
+| Bundesverfassungsgericht | [bverfg.de](https://www.bverfg.de) |
+| dejure Datenbank | [dejure.org](https://www.dejure.org) |
+| openJur | [openjur.de](https://openjur.de) |
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+## EU-Recht
 
-## Fehlerbremse
+| Norm | Bereich |
+|---|---|
+| VO 1215/2012 Brüssel Ia | Zustaendigkeit Anerkennung Vollstreckung |
+| VO 1896/2006 EuMVVO | Europaeisches Mahnverfahren |
+| VO 805/2004 EuVTVO | Europaeischer Vollstreckungstitel |
+| VO 861/2007 EuGFVO | Europaeisches Verfahren fuer geringfuegige Forderungen |
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+Quelle [eur-lex.europa.eu](https://eur-lex.europa.eu)
+
+## Praxis-Materialien
+
+- Bundesanzeiger fuer Basiszinssatz [bundesanzeiger.de](https://www.bundesanzeiger.de)
+- Online-Mahnverfahren der Laender [online-mahnantrag.de](https://www.online-mahnantrag.de)
+- e-Justice Portal EU [e-justice.europa.eu](https://e-justice.europa.eu)
+
+## Zitierhinweise
+
+- BGH-Entscheidungen mit Aktenzeichen und Datum
+- BVerfGE Band X Rn Y
+- ZPO und BGB ohne Klammerzitate
+
+## Quellen
+
+- [gesetze-im-internet.de](https://www.gesetze-im-internet.de)
+- [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- [eur-lex.europa.eu](https://eur-lex.europa.eu)

@@ -1,62 +1,55 @@
 ---
 name: verbraucherklage-rdg-grenzen
-description: "Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte im Forderungsmanagement: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefung was Inkassodienstleister und Rechtsanwaelte gegenueber Verbrauchern duerfen und was nicht. Trennt Inkassoerlaubnis von anwaltlicher Vertretung. Pinpoints RDG 2 RDG 10 RDG 11a Hinweispflicht BGB 312j AGB-Kontrolle 305 ff. Liefert Pruefraster Hinweistexte und Klagestrategie."
 ---
 
-# FMKW: Verbraucherinkasso RDG
+# Verbraucherklage RDG-Grenzen
 
-## Arbeitsbereich
+Wenn Glaeubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenzen gegenueber Verbrauchern.
 
-Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Was Inkasso darf RDG 10
 
-## Arbeitsweg
+| Taetigkeit | Erlaubt |
+|---|---|
+| Aussergerichtliche Forderungseinziehung | ja mit Registrierung RDG 10 Abs. 1 Nr. 1 |
+| Mahnverfahren beantragen | ja |
+| Vertretung im Klageverfahren | nein nur Rechtsanwaeltin |
+| Rechtsberatung im Forderungsfall | begrenzt |
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Hinweispflichten gegenueber Verbrauchern
 
-## Fachkern: FMKW: Verbraucherinkasso RDG
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+- Bezeichnung als Inkassodienstleister
+- Auftraggeber benennen
+- Forderungsgrund nennen
+- Inkassokostenstruktur offenlegen RDG 13a
+- Hinweis auf Rechte des Schuldners RDG 13a Abs. 1 Nr. 6
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Inkassokosten bei Verbrauchern
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+RDG 13c hat die Hoehe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwanzig Komma drei Euro. Bei groesseren Forderungen Schwellen nach Streitwert. Pauschale 40 Euro BGB 288 Abs. 5 gilt nicht im Verhaeltnis zu Verbrauchern.
 
-## Pruefraster
+## AGB-Kontrolle in Verbrauchervertraegen
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+- BGB 305 Einbeziehung
+- BGB 305c ueberraschende Klausel
+- BGB 308 309 verbotene Klauseln
+- BGB 310 Abs. 3 besonderer Verbraucherschutz
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Klagestrategie
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+| Konstellation | Empfehlung |
+|---|---|
+| Inkasso ohne klare RDG-Registrierung | erst Klagefreigabe pruefen |
+| Verbraucher hat Schluessigkeit bestritten | Substanzpruefung vorm Mahnbescheid |
+| Schuldner ist Verbraucher mit Wohnsitzwechsel ins Ausland | Brüssel Ia VO Verbrauchergerichtsstand |
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Norm-Pinpoints
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+- RDG 2 10 11a 13a 13c
+- BGB 305 ff
+- BGB 312j Verbraucher-Schalterpflicht
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Quellen
+
+- [RDG 10](https://www.gesetze-im-internet.de/rdg/__10.html)
+- [BGB 305](https://www.gesetze-im-internet.de/bgb/__305.html)

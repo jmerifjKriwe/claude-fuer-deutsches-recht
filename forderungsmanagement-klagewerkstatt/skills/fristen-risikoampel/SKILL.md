@@ -1,47 +1,61 @@
 ---
 name: fristen-risikoampel
-description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Forderungsmanagement: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjaehrung Klagefrist Einspruchsfrist Beschwerdefrist bis Vollstreckungsfristen. Pinpoints BGB 195 199 ZPO 339 Einspruchsfrist Versaeumnisurteil ZPO 700 Einspruch Vollstreckungsbescheid ZPO 222 Fristberechnung. Liefert Ampel-Logik und Wiedervorlage-Trigger."
 ---
 
-# Fristen- und Risikoampel
+# Fristen-Risikoampel
 
-## Arbeitsbereich
+Fristverletzungen sind eine der haeufigsten Haftungsquellen. Diese Ampel hilft beim Frueherkennen.
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Fristen-Katalog
 
-## Arbeitsweg
+| Frist | Norm | Dauer |
+|---|---|---|
+| Regelverjaehrung | BGB 195 | drei Jahre |
+| Verjaehrungsbeginn | BGB 199 Abs. 1 | Schluss des Jahres der Entstehung und Kenntnis |
+| Hoechstverjaehrung subjektiv | BGB 199 Abs. 4 | zehn Jahre ab Entstehung |
+| Verjaehrung Werkmaengel bei Bauwerken | BGB 634a Abs. 1 Nr. 2 | fuenf Jahre |
+| Mahnbescheid Widerspruchsfrist | ZPO 692 Abs. 1 Nr. 3 | zwei Wochen |
+| Vollstreckungsbescheid Einspruchsfrist | ZPO 700 ZPO 339 | zwei Wochen |
+| Versaeumnisurteil Einspruch | ZPO 339 Abs. 1 | zwei Wochen |
+| Berufung Einlegen | ZPO 517 | ein Monat |
+| Berufungsbegruendung | ZPO 520 Abs. 2 | zwei Monate |
+| Beschwerde sofortige | ZPO 569 | zwei Wochen |
+| Kostenfestsetzung Beschwerde | ZPO 11 RpflG | zwei Wochen |
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Ampel-Logik
 
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin forderungsmanagement-klagewerkstatt: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
+| Ampel | Auslöser |
+|---|---|
+| gruen | naechste Frist mehr als sechzig Tage in der Zukunft |
+| gelb | naechste Frist zwischen vierzehn und sechzig Tagen |
+| rot | naechste Frist binnen vierzehn Tagen oder unklar |
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+Rote Ampel verlangt Sofortbearbeitung und Aktennotiz.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+## Fristberechnung ZPO 222 BGB 187 ff
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+- Tag des Ereignisses zaehlt nicht mit ausser bei Stunden- oder Geburtsfristen
+- Tag des Endes wenn Sonn- oder Feiertag verschiebt sich auf den naechsten Werktag
+- Monatsfrist endet am gleichen Tag des Folgemonats fehlt der Tag am letzten Tag des Monats
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## Hemmung und Neubeginn
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+| Tatbestand | Wirkung | Norm |
+|---|---|---|
+| Verhandlungen | Hemmung | BGB 203 |
+| Klageerhebung | Hemmung | BGB 204 Nr. 1 |
+| Mahnbescheid | Hemmung mit Zustellung | BGB 204 Nr. 3 |
+| Anerkenntnis | Neubeginn | BGB 212 Abs. 1 Nr. 1 |
+| Vollstreckungshandlung | Neubeginn | BGB 212 Abs. 1 Nr. 2 |
+
+## Norm-Pinpoints
+
+- ZPO 222 339 517 520 569
+- BGB 195 199 203 204 212
+
+## Quellen
+
+- [ZPO 339](https://www.gesetze-im-internet.de/zpo/__339.html)
+- [BGB 203](https://www.gesetze-im-internet.de/bgb/__203.html)
+- [BGB 212](https://www.gesetze-im-internet.de/bgb/__212.html)

@@ -1,51 +1,71 @@
 ---
 name: faellige-zahlen-schwellen
-description: "Faellige: Zahlen, Schwellenwerte und Berechnung im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Zahlentabellen fuer Faelligkeit Verzug Zinsen Pauschalen Streitwerte und Gebuehren in Forderungsverfahren. Liefert aktuelle Basiszinssatz-Werte Verzugszinssaetze Pauschalen B2B Streitwertgrenzen und Gebuehrentabellen. Pinpoints BGB 247 Basiszinssatz BGB 288 Verzugszinsen BGB 288 Abs. 5 Pauschale 40 GVG 23 GVG 71 Streitwertgrenzen ab 2026. Liefert Referenzwerte."
 ---
 
-# Faellige: Zahlen, Schwellenwerte und Berechnung
+# Faellige Zahlen und Schwellen
 
-## Fachkern: Faellige: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Zentrale Sammelstelle fuer Betraege Schwellen Zinsen und Gebuehren in Forderungssachen.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Basiszinssatz BGB 247
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller Stand zum 1.1.2026 ist beim BMF abrufbar. Veroeffentlichung im Bundesanzeiger.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Faellige** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Verzugszinsen BGB 288
 
-## Materielle Weichen Fälligkeit
-- **Fälligkeit (§ 271 BGB):** Im Zweifel sofort fällig (§ 271 Abs. 1 BGB). Konkret bestimmte Leistungszeit durch Vertrag, Verkehrssitte, gesetzliche Regelung. Bei Rechnung: typischerweise Fälligkeit gemäß Zahlungsbedingungen (z. B. "binnen 14 Tagen").
-- **B2B-Zahlungsfristen (§ 271a BGB):** Vereinbarte Zahlungsfrist darf grundsätzlich 60 Tage nicht überschreiten (§ 271a Abs. 1 S. 1 BGB); bei Verbraucher als Schuldner sogar 30 Tage (§ 271a Abs. 1 S. 2 BGB). Überschreitung führt zur Reduktion auf das gesetzliche Maß.
-- **Verzug ohne Mahnung (§ 286 Abs. 2 BGB):** Wenn (1) Leistungszeit kalendermäßig bestimmt, (2) Mahnung ist entbehrlich, (3) Schuldner ernsthaft verweigert, (4) 30 Tage nach Fälligkeit und Zugang Rechnung bei Verbrauchern bzw. ab Rechnungsdatum bei B2B (§ 286 Abs. 3 BGB).
-- **Verzugszinsen:**
- - B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
- - B2B: 9 Prozentpunkte über Basiszinssatz (§ 288 Abs. 2 BGB).
- - Aktuelle Werte halbjährlich (1. Januar / 1. Juli) auf bundesbank.de prüfen.
-- **40-Euro-Pauschale (§ 288 Abs. 5 BGB):** Bei B2B-Geldforderungen ohne Verbraucher als Gläubiger: 40 Euro je Forderung pauschal als Verzugsschaden, anrechenbar auf weitergehende Schadensersatzkosten (z. B. Inkasso/Anwalt). Greift bei jeder verzögerten Zahlung neu.
-- **Rechnungs-Anforderungen (§ 14 UStG bei B2B):** Vollständige Rechnung mit Pflichtangaben (Anschriften, Steuernummer/USt-IdNr., Datum, Leistungsbeschreibung, Entgelt, Steuersatz, Steuerbetrag). Bei Mängeln häufig Berufung auf fehlende Fälligkeit; gerichtlich aber strikt zu trennen: Mängel der Rechnung berühren in der Regel nicht die Fälligkeit der zugrundeliegenden Forderung.
-- **Verjährung (§ 195 BGB):** Regelmäßig 3 Jahre, Beginn mit Schluss des Jahres, in dem Anspruch entstanden und Kenntnis besteht (§ 199 BGB). Bei Mietzinsen: 3 Jahre. Bei Werklohn: 3 Jahre ab Abnahme.
-- **Praktiker-Tipp:** Klare Zahlungsbedingungen vereinbaren ("netto Kasse innerhalb von 14 Tagen ohne Abzug ab Rechnungsdatum"); damit ist Fälligkeit kalendermäßig bestimmt und Verzug tritt ohne Mahnung ein. Verspätete Rechnungsstellung verzögert nur den B2C-Verzug (§ 286 Abs. 3 BGB), nicht den B2B-Verzug (zwischen Unternehmern stets ab kalendarisch bestimmtem Termin).
+| Verhaeltnis | Zinssatz |
+|---|---|
+| B2C Verbraucher als Schuldner | fuenf Prozentpunkte ueber Basiszinssatz |
+| B2B Entgeltforderung kein Verbraucher beteiligt | neun Prozentpunkte ueber Basiszinssatz |
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Verzugskostenpauschale BGB 288 Abs. 5
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+| Anwendung | Hoehe |
+|---|---|
+| B2B Entgeltforderung Hauptforderung | 40 Euro je Forderung |
+| B2C | nicht anwendbar |
+
+## Streitwertgrenzen sachliche Zustaendigkeit
+
+| Gericht | Streitwert |
+|---|---|
+| Amtsgericht GVG 23 Nr. 1 ab 1.1.2026 | bis zehntausend Euro |
+| Landgericht GVG 71 ab 1.1.2026 | ueber zehntausend Euro |
+| Mietsachen GVG 23 Nr. 2a | streitwertunabhaengig AG |
+| Wohnungseigentum GVG 23 Nr. 2c | streitwertunabhaengig AG |
+
+## Berufungs- und Beschwerdesumme
+
+| Verfahren | Summe |
+|---|---|
+| Berufung ZPO 511 Abs. 2 | mehr als sechshundert Euro |
+| Beschwerde ZPO 567 Abs. 2 | mehr als zweihundert Euro |
+| Revision ZPO 543 | Zulassung erforderlich |
+
+## Beispiel Gerichts- und Anwaltsgebuehren 2026
+
+| Streitwert | Verfahrensgebuehr Anwalt 1,3 | Gerichtsgebuehr 3-fach |
+|---|---|---|
+| 1000 | 114 | 159 |
+| 5000 | 412 | 438 |
+| 10000 | 798 | 723 |
+| 25000 | 1268 | 1149 |
+| 50000 | 1841 | 1719 |
+| 100000 | 2393 | 2934 |
+
+Werte gerundet ohne Auslagen und USt.
+
+## Norm-Pinpoints
+
+- BGB 247 288
+- ZPO 511 543 567
+- GVG 23 71
+- GKG Anlage 1
+- RVG Anlage 2
+
+## Quellen
+
+- [BGB 247](https://www.gesetze-im-internet.de/bgb/__247.html)
+- [BGB 288](https://www.gesetze-im-internet.de/bgb/__288.html)
+- [GVG 23](https://www.gesetze-im-internet.de/gvg/__23.html)
+- [GVG 71](https://www.gesetze-im-internet.de/gvg/__71.html)

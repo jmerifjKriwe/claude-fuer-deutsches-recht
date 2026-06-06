@@ -1,50 +1,67 @@
 ---
 name: belegte-compliance-aktenvermerk
-description: "Belegte: Compliance-Dokumentation und Aktenvermerk im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forderungsmanagement: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Pruefraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Muster."
 ---
 
-# Belegte: Compliance-Dokumentation und Aktenvermerk
+# Belegte Compliance Aktenvermerk
 
-## Arbeitsbereich
+Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenvermerk. Das schuetzt Mandant Mandantin und Kanzlei.
 
-Belegte: Compliance-Dokumentation und Aktenvermerk im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Wann Aktenvermerk Pflicht
 
-## Arbeitsweg
+| Anlass | Inhalt |
+|---|---|
+| Klage nicht aufgenommen wegen Aussichtslosigkeit | Aussichtspruefung Begruendung Mandantenhinweis |
+| Mandantin verzichtet auf Klage | Schreiben Mandant Datum Belehrung erfolgt |
+| Verjaehrung eingetreten | Pruefung BGB 195 199 Belege Mandantenhinweis |
+| Verzicht auf Zwangsvollstreckung | Schuldnerlage Mandantenentscheid |
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Pflicht-Inhalte
 
-## Fachkern: Belegte: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+1. Sachverhalt knapp
+2. Pruefraster mit Norm-Pinpoints
+3. Aussichtsbewertung mit Begruendung
+4. Mandantenhinweis und Belehrung
+5. Mandantenentscheidung mit Datum und Unterschrift
+6. Wiedervorlage
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Muster Vermerk
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+```
+Aktenvermerk zu Akte [Aktenzeichen]
+Mandant [Name]
+Schuldner [Name]
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Belegte** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Sachverhalt
+[zwei bis vier Saetze]
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+2. Pruefung
+- Anspruchsgrund Paragraph [Norm]
+- Faelligkeit am [Datum]
+- Verjaehrung [Status]
+- Belegstand [hoch mittel gering]
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+3. Bewertung
+Aussicht [gering mittel]. Begruendung [...].
+
+4. Belehrung Mandantin
+Mandantin wurde am [Datum] schriftlich
+auf Risiko und Kostenfolge nach
+Paragraph 91 ZPO hingewiesen.
+
+5. Entscheidung
+Mandantin verzichtet auf Klage Schreiben
+vom [Datum] Anlage [Nr]. Wiedervorlage
+[Datum].
+```
+
+## Norm-Pinpoints
+
+- BORA 50 Aktenpflicht
+- BRAO 43a Verschwiegenheit
+- BGB 280 Beratungsschaden
+
+## Quellen
+
+- [BORA 50](https://www.gesetze-im-internet.de/bora/__50.html)
+- [BRAO 43a](https://www.gesetze-im-internet.de/brao/__43a.html)

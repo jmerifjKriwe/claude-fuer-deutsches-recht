@@ -1,38 +1,76 @@
 ---
 name: gatekeeper-verhandlung-vergleich
-description: "Gatekeeper: Verhandlung, Vergleich und Eskalation im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Pruefraster vor Eintritt in Vergleichsverhandlungen. Erhebt Mandantenziel Untergrenzen Sicherheitsbedarf Vollstreckbarkeit. Pinpoints BGB 779 Vergleich ZPO 794 Abs. 1 Nr. 1 Prozessvergleich ZPO 796a anwaltlicher Vergleich. Liefert Verhandlungsmandat-Vorlage und Untergrenzen-Tabelle."
 ---
 
-# Gatekeeper: Verhandlung, Vergleich und Eskalation
+# Gatekeeper Verhandlung und Vergleich
 
-## Fachkern: Gatekeeper: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Vor jedem Vergleichsgespraech braucht es ein klares Mandatsmandat mit Untergrenzen und roten Linien.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Verhandlungsmandat
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Punkt | Inhalt |
+|---|---|
+| Mandanten-Untergrenze Hauptsumme | Mindestbetrag absolut |
+| Mandanten-Untergrenze Zinsen | Verzicht moeglich oder nicht |
+| Ratenzahlungsbereitschaft | maximale Laufzeit |
+| Sicherheitserfordernis | Buergschaft Sicherungsuebereignung notarielle Unterwerfung |
+| Verzichtsklausel | Vergleich umfasst alle Anspruche |
+| Verfall-Klausel | Saumzuschlag bei zwei aufeinanderfolgenden Saumnissen |
+| Vollstreckungsweg | Prozessvergleich notarielle Urkunde |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gatekeeper** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Vergleich als Titel
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Variante | Titel | Kosten |
+|---|---|---|
+| Prozessvergleich | ZPO 794 Abs. 1 Nr. 1 | Verfahrensgebuehr Anwalt erhoeht Einigungsgebuehr |
+| Anwaltsvergleich mit Unterwerfung | ZPO 796a | nur Anwaltsgebuehren |
+| Notarielle Urkunde | ZPO 794 Abs. 1 Nr. 5 | Notarkosten |
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Aufrechnung beruecksichtigen
+
+Wenn Beklagte Gegenforderungen behauptet pruefen ob Aufrechnungserklaerung BGB 387 ff schon erfolgt ist und ob sich Hauptforderung tatsaechlich reduziert.
+
+## Muster Vergleich
+
+```
+1. Hauptsache
+Die Parteien sind sich einig dass die Beklagte
+an die Klaegerin einen Betrag von [Summe]
+Euro schuldet.
+
+2. Tilgung
+Die Beklagte zahlt diese Summe in [Anzahl]
+Monatsraten zu je [Rate] Euro beginnend am
+[Datum].
+
+3. Verfall
+Bei Verzug mit zwei aufeinanderfolgenden
+Raten wird der gesamte Restbetrag sofort
+faellig.
+
+4. Erledigung
+Mit Erfuellung dieses Vergleichs sind alle
+gegenseitigen Anspruechen aus dem
+[Vertragsverhaeltnis] erledigt.
+
+5. Kostenregelung
+Die Kosten des Rechtsstreits werden
+gegeneinander aufgehoben.
+
+6. Vollstreckung
+Die Beklagte unterwirft sich der sofortigen
+Zwangsvollstreckung aus diesem Vergleich.
+```
+
+## Norm-Pinpoints
+
+- BGB 779 Vergleich
+- BGB 387 ff Aufrechnung
+- ZPO 794 Titel
+- ZPO 796a anwaltlicher Vergleich
+
+## Quellen
+
+- [BGB 779](https://www.gesetze-im-internet.de/bgb/__779.html)
+- [ZPO 796a](https://www.gesetze-im-internet.de/zpo/__796a.html)

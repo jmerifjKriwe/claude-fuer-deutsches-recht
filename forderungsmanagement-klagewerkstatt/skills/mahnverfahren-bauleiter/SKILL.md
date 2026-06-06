@@ -1,50 +1,48 @@
 ---
 name: mahnverfahren-bauleiter
-description: "Bauleiter automatisiertes Mahnverfahren §§ 688 ff. ZPO: Mahnbescheid, Widerspruch, Vollstreckungsbescheid. Pruefraster fuer Glaeubiger und Inkassodienstleister."
+description: "Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Pruefliste fuer MB-Antrag und typische Stolpersteine."
 ---
 
-# FMKW: Mahnverfahren Bauleiter
+# Mahnverfahren bei Bauforderungen
 
-## Fachkern: FMKW: Mahnverfahren Bauleiter
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Bau-Werklohnforderungen sind im Mahnverfahren machbar wenn Faelligkeit klar dokumentiert und kein Maengelstreit zu erwarten ist.
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Faelligkeit Werklohn
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+Werklohn ist faellig nach Abnahme BGB 641 Abs. 1. Bei BGB 650g Abs. 4 gilt Schlussrechnungsfaelligkeit dreissig Tage nach Zugang einer pruefbaren Schlussrechnung. Ohne Faelligkeit kein Mahnbescheid.
 
-## Pruefraster
+## Bauhandwerkersicherung BGB 650f
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+Bauunternehmerin kann Sicherheit verlangen. Wird Sicherheit nicht gestellt darf Unternehmerin Vertrag kuendigen. Erfolgt Kuendigung haben sich die Anspruchsgrundlagen veraendert.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Pruefliste MB-Antrag Bau
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+| Punkt | Pruefung |
+|---|---|
+| Abnahme erfolgt | foermlich oder konkludent BGB 640 |
+| Schlussrechnung pruefbar | Massenauszug Belege |
+| Faelligkeit | nach Abnahme oder 30 Tage nach Schlussrechnung |
+| Maengelstreit zu erwarten | wenn ja Klage statt MB |
+| Bauhandwerkersicherung gefordert | dokumentieren |
+| Streitwert | brutto inklusive USt wenn faellig |
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Typische Stolpersteine
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+- Abnahme nicht dokumentiert dann keine Faelligkeit
+- Auftraggeber bestreitet pruefbare Schlussrechnung Mahnbescheid waere unhaltbar
+- Maengel und Abschlagsrechnungen vermischen sich Klage statt MB
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Norm-Pinpoints
+
+- BGB 631 Werkvertrag
+- BGB 640 Abnahme
+- BGB 641 Faelligkeit
+- BGB 650a ff Bauvertrag
+- BGB 650f Bauhandwerkersicherung
+- BGB 650g Schlussrechnung
+
+## Quellen
+
+- [BGB 641](https://www.gesetze-im-internet.de/bgb/__641.html)
+- [BGB 650f](https://www.gesetze-im-internet.de/bgb/__650f.html)
+- [BGB 650g](https://www.gesetze-im-internet.de/bgb/__650g.html)

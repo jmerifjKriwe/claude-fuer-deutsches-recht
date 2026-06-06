@@ -1,49 +1,122 @@
 ---
 name: forderung-werkvertrag-bau
-description: "Forderung aus Werk-/Bauvertrag: Faelligkeit § 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module."
+description: "Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen § 632a BGB, Sicherheit § 650f BGB. Mangelhaftigkeit § 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Pruefung Faelligkeit und Abnahme."
 ---
 
-# Werk-/Bauwerklohn-Forderung
+# Werklohnforderung – BGB und Bau
 
-## Fachkern: Werk-/Bauwerklohn-Forderung
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
+Geltendmachung von Werklohn aus Werkvertrag (§§ 631 ff. BGB) und Bauvertrag (§§ 650a ff. BGB), beruecksichtigt insb. die Abnahme als Faelligkeitsausloeser.
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## Anspruchsgrundlage
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+| Vertragstyp | Norm | Besonderheit |
+|---|---|---|
+| Reiner Werkvertrag | § 631 Abs. 1 BGB | Erfolg geschuldet, kein Dienst |
+| Bauvertrag | § 650a BGB (seit 2018) | Spezialregeln Abnahme, Sicherheit |
+| Verbraucherbauvertrag | § 650i BGB | Erweiterte Schutzrechte Verbraucher |
+| Architektenvertrag | § 650p BGB | Stufen Leistungsphasen HOAI |
+| Bautraegervertrag | § 650u BGB | Eigentumserwerb Bauwerk |
+| VOB/B-Vertrag | AGB (§ 305 BGB) | nur wenn vereinbart, inhaltlich beschraenkt |
 
-## Pruefraster
+## Faelligkeit § 641 BGB – die zentrale Regel
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+**Grundsatz § 641 Abs. 1 BGB:** Werklohn ist bei **Abnahme** faellig.
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+Abnahmevarianten:
+| Variante | Norm | Praxis |
+|---|---|---|
+| Ausdrueckliche Abnahme | § 640 Abs. 1 BGB | Abnahmeprotokoll |
+| Konkludente Abnahme | § 640 Abs. 1 BGB | Nutzung Werk, Schlusszahlung |
+| Fiktive Abnahme | § 640 Abs. 2 BGB | nach Fristsetzung ohne Maengelruege |
+| Abnahmefiktion B2C-Bauvertrag | § 640 Abs. 2 BGB | mit Belehrung |
+| Vorbehalt Abnahme | § 640 Abs. 3 BGB | bei bekannten Maengeln |
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+**Wichtig**: Vor Abnahme keine Faelligkeit, kein Verzug, keine Verzugszinsen.
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Abschlagszahlungen § 632a BGB
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Anspruch auf Abschlagszahlung in Hoehe wertmaessig erbrachter Leistungen.
+- Voraussetzung: vertragsgemaesse Leistung erbracht.
+- Sicherheit Bauhandwerker § 650f BGB: Klaeger kann Sicherheit verlangen.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Schlussrechnung
+
+| Voraussetzung | Folge |
+|---|---|
+| Pruefbare Schlussrechnung | Faelligkeit Werklohn |
+| Pruefungsfrist Auftraggeber | Regel 30 Tage |
+| Keine Schlussrechnung | Klage nur eingeschraenkt zulaessig |
+
+§ 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei oeffentlichem Auftraggeber.
+
+## Klageantrag-Muster
+
+```
+Es wird beantragt:
+1. Die Beklagte wird verurteilt, an die Klaegerin EUR 28.456,80
+   nebst Zinsen in Hoehe von 9 Prozentpunkten ueber dem
+   Basiszinssatz aus EUR 28.456,80 seit dem 15.05.2026 zu zahlen.
+2. Die Beklagte wird verurteilt, an die Klaegerin eine
+   Verzugspauschale in Hoehe von EUR 40,00 zu zahlen.
+3. Die Beklagte traegt die Kosten des Rechtsstreits.
+```
+
+Klagegrund-Schluessel:
+- Vertragsdatum, Vertragstyp (Werk-/Bauvertrag).
+- Leistungspflichten (Gewerk, Aufmass).
+- Erfuellung Klaeger (Abnahmeprotokoll als K2).
+- Schlussrechnung (Datum, Pruefbarkeit).
+- Faelligkeit.
+
+## Sicherungsmittel
+
+| Sicherungsmittel | Norm | Wirkung |
+|---|---|---|
+| Sicherheit Bauhandwerker | § 650f BGB | Sicherheit fuer Werklohn |
+| Bauhandwerker-Sicherungshypothek | § 650e BGB | Eintragung Grundbuch |
+| Werkunternehmerpfandrecht | § 647 BGB | bewegliche Sache |
+
+## Maengelrechte des Bestellers vs. Faelligkeit
+
+| Sachverhalt | Folge fuer Werklohn |
+|---|---|
+| Werk maengelfrei | Voller Werklohn faellig |
+| Unwesentliche Maengel | Abnahme nicht verweigerbar (§ 640 Abs. 1 S. 2 BGB), Werklohn faellig |
+| Wesentliche Maengel | Abnahmeverweigerung zulaessig, Werklohn nicht faellig |
+| Maengelbeseitigungskosten | Zurueckbehaltungsrecht § 641 Abs. 3 BGB (doppelte Kosten) |
+| Minderung erklaert | § 638 BGB Werklohn anteilig |
+
+## VOB/B-Besonderheiten
+
+VOB/B nur als AGB wirksam; gilt nur, wenn dem Vertragspartner zumutbar gemacht (BGH VII ZR 162/00). Bei Verbraucherbauvertrag in der Regel unwirksam.
+
+Wesentliche VOB/B-Klauseln:
+- § 8 VOB/B Kuendigung Auftraggeber (jederzeit ohne Grund moeglich)
+- § 9 VOB/B Kuendigung Auftragnehmer (nur aus wichtigem Grund)
+- § 13 VOB/B Maengelhaftung (Frist 4 Jahre bei Bauwerken)
+- § 14 VOB/B Schlussrechnung
+- § 17 VOB/B Sicherheitsleistung
+- § 18 VOB/B Streitigkeiten Schiedsklausel
+
+## Sonderfall Architektenhonorar (HOAI)
+
+- HOAI 2021 als reine Preisempfehlung (EuGH C-377/17), Mindest-/Hoechstsaetze nicht bindend.
+- Honorarvereinbarung schriftlich (§ 7 HOAI 2021).
+- Leistungsphasen 1-9, anteilige Honorierung bei Vertragsbeendigung.
+
+## Typische Fehler
+
+- Klage vor Abnahme = unzulaessig wegen fehlender Faelligkeit.
+- Schlussrechnung nicht pruefbar → keine Faelligkeit.
+- VOB/B als AGB beim Verbraucher verwendet → unwirksam.
+- Vorgerichtliche Anwaltskosten ohne Verzugseintritt geltend gemacht.
+- Sicherungshypothek § 650e BGB nicht beantragt (verschenkt Sicherheit).
+
+## Quellen
+- BGB § 631 [gesetze-im-internet.de/bgb/__631.html](https://www.gesetze-im-internet.de/bgb/__631.html)
+- BGB § 640 Abnahme [gesetze-im-internet.de/bgb/__640.html](https://www.gesetze-im-internet.de/bgb/__640.html)
+- BGB § 641 Faelligkeit [gesetze-im-internet.de/bgb/__641.html](https://www.gesetze-im-internet.de/bgb/__641.html)
+- BGB § 650a-u Bauvertrag [gesetze-im-internet.de/bgb/__650a.html](https://www.gesetze-im-internet.de/bgb/__650a.html)
+- BGH VII ZR 162/00 VOB/B AGB [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- EuGH C-377/17 HOAI [curia.europa.eu](https://curia.europa.eu)
+- HOAI 2021 [gesetze-im-internet.de/hoai_2021/](https://www.gesetze-im-internet.de/hoai_2021/)
