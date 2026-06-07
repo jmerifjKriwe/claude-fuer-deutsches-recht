@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 121 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 188 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -72,6 +72,16 @@ Großbatteriespeicher 200 MW / 400 MWh auf Konversionsfläche neben Kraftwerk J�
 31. RVG-Zwischenrechnung Pohlmann und Pohlmann (Streitwert 11,9 Mio EUR, 1,3-Gebühr)
 32. Klarstellungsschreiben an LEAG zur Pacht-Genehmigungsregime (Frist 23.06.2026)
 33. Step-Plan v2 — Änderungslog und Ampelfortschritt (rot 10 → 3)
+34. Sicherheitenpoolvertrag NordCap ∕ ILB ∕ LausitzStorage (Linklaters als Security Agent, Rangfolge)
+35. Kontoverpfändungsvertrag Commerzbank Cottbus (§ 1280 BGB, Anzeige bei Commerzbank am 09.09.2025)
+36. Globalzessionsvertrag Pachtforderungen LEAG (stiller Globalzessionsvertrag, nicht angezeigt)
+37. Anteilsverpfändungsurkunde UR 388⁄2025 Notar Dr. Albers (§ 15 Abs. 3 GmbHG, Stimmrechte beim Verpfänder, Gesellschafterliste § 40 GmbHG)
+38. Gesellschafterstreit — Antrag NordCap auf außerordentliche Versammlung und Abberufung Bauernfeind (§§ 38 Abs. 2, 50 Abs. 1 GmbHG)
+39. Anwaltsschreiben Lindenthal — Notarprotest gegen Cap Table V2 und Forderung Klarstellung (§§ 51a, 46 Nr. 6 GmbHG)
+40. Einberufung Versammlung 24.06.2026 und Gegen-Stellungnahme Bauernfeind (CRO-Vorschlag Schöneberger)
+41. EPC-Anzahlungsrechnung Sungrow über 18 Mio EUR aus Tranche 2 (Vorauszahlungsbond Bank of China)
+42. Zugangsbestätigung Anlage 4 Stadtwerke Cottbus — Drawstop-Punkt (iii) geheilt
+43. Forensik-Protokoll Cap-Table V2 (Inkubator-IT Cottbus, keine Außenverwendung der V2-Linie nachgewiesen)
 
 ## Anhänge – Step-Plan-Excel und PDF
 - `25_step_plan_excel_lausitzstorage.xlsx` – ausgefülltes Excel-Template gemäß Plugin-Vorlage (4 Reiter: Übersicht / Verfügbar / Fehlend / Erstellung u. Beschaffung) mit Ampelfärbung

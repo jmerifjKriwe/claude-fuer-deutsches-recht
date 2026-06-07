@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-05
-**Arbeitsstand:** v237.0.0 / Testakten LausitzStorage (27 → 33 Aktenstücke) und Polizeiverfügung-Forst (20 → 26 Aktenstücke) erweitert, Gesamt-PDFs neu gebaut, Repo-Sweep ohne Funde. 212 Plugins, 18.536 Skills, 203 Testakten.
+**Arbeitsstand:** v238.0.0 / LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert (Sicherheitenpoolvertrag, Kontoverpfändung Commerzbank, Globalzession LEAG-Pacht, Anteilsverpfändung UR 388⁄2025, Antrag Abberufung Bauernfeind, Lindenthal-Notarprotest, Einberufung 24.06.2026, EPC-Anzahlung Sungrow, Anlage 4 Stadtwerke, Forensik Cap-Table V2). 33 → 43 Aktenstücke; Gesamt-PDF 188 KB. 212 Plugins, 18.536 Skills, 203 Testakten.
 **Plugins gesamt:** 212
 **Skills gesamt:** 18536
 **Testakten gesamt:** 203

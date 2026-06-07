@@ -1,3 +1,48 @@
+# v238.0.0 — LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert
+
+## Schwerpunkt
+
+Die Testakte `status-navigator-batteriespeicher-jaenschwalde-peitz` ist um zehn weitere Originaldokumente von 33 auf **43 Aktenstuecke** angewachsen. Schwerpunkt: vollstaendige Finanzierungs- und Sicherheitenarchitektur (NordCap 96 Mio Senior + 18 Mio Wandel, ILB Avalrahmen 10 Mio, Linklaters als Security Agent) und ein realer Gesellschafterstreit auf Basis der bereits angelegten Drawstop-Krise.
+
+### Finanzierungs- und Sicherheitendokumente
+
+- `34_sicherheitenpoolvertrag_nordcap_ilb.md` — Pool-Vertrag NordCap ∕ ILB ∕ LausitzStorage mit Linklaters LLP als Security Agent, sechs Sicherheitsarten, Rangfolge der Befriedigung, Pari-passu-Klausel.
+- `35_kontoverpfaendungsvertrag_commerzbank.md` — Kontoverpfaendung der drei Commerzbank-Konten (Betriebs-, Projekt-, Liquiditaetsreserve), Anzeige nach § 1280 BGB an Commerzbank am 09.09.2025 nachweisbar zugegangen, Verfuegungsfreiheit bis Sicherungsfall.
+- `36_globalzession_pachtforderungen_leag.md` — Stiller Globalzessionsvertrag aller LEAG-Pachtforderungen, Bestimmtheitsgrundsatz § 398 BGB, Anzeige nach § 407 BGB bewusst unterlassen.
+- `37_anteilsverpfaendungsurkunde_ur_388_2025.md` — Notarielle Anteilsverpfaendung aller 100 % der Gesellschaftsanteile (Bauernfeind 51, Lindenthal 9, NordCap 30, Stadtwerke 10), Form § 15 Abs. 3 GmbHG, Stimmrechte beim Verpfaender bis Sicherungsfall, Gesellschafterliste § 40 GmbHG am 16.09.2025 beim HR Cottbus eingereicht.
+
+### Gesellschafterstreit (drei Aktenstuecke)
+
+- `38_gesellschafterstreit_antrag_nordcap_abberufung_bauernfeind.md` — Einberufungsverlangen NordCap nach § 50 Abs. 1 GmbHG mit Abberufungsantrag gegen Geschaeftsfuehrer Bauernfeind aus wichtigem Grund (§ 38 Abs. 2 GmbHG); fuenf Vorwuerfe (Documentation Gap, Cap-Table-V2, Verschleppung Wandeldarlehens-Reparatur, Genehmigungsregime-Konflikt LEAG, Berichtspflichten LEAG); Stimmverbot § 47 Abs. 4 Satz 2 GmbHG.
+- `39_anwaltsschreiben_lindenthal_notarprotest_cap_table.md` — RAin Schweikart-Boeßer namens Mitgesellschafterin Lindenthal protestiert formell gegen Cap Table V2, fordert Klarstellung bis 20.06.2026, kuendigt Enthaltung beim Abberufungsantrag und Sonderpruefungs-Antrag nach § 46 Nr. 6 GmbHG an.
+- `40_einberufung_und_stellungnahme_bauernfeind.md` — Einberufung außerordentliche Versammlung 24.06.2026 (Notarbuero Albers Berlin, UR 423/2026); Gegen-Stellungnahme Bauernfeind zu allen NordCap-Vorwuerfen; eigener CRO-Vorschlag Dr. Schoeneberger als Vergleichsweg.
+
+### Operative Originale
+
+- `41_epc_anzahlungsrechnung_sungrow.md` — EPC-Anzahlungsrechnung Sungrow Deutschland 18 Mio EUR aus Tranche 2 (Bezugsrechnung SDE-2025-09-LSS200-A1) mit Advance Payment Bond Bank of China BOC-FRA-2025-09-187.
+- `42_zugangsbestaetigung_anlage_4_stadtwerke_cottbus.md` — Stadtwerke Cottbus uebergeben die fehlende Anlage 4 zum Konsortialvertrag (24-seitiger Investorenrechte-Katalog) mit Haftungsfreistellung 25.000 EUR fuer die Fehlheftung; Drawstop-Punkt (iii) damit geheilt.
+- `43_forensik_protokoll_cap_table_v2.md` — IT-Forensik Inkubator-IT Cottbus belegt, dass Cap-Table V2 in 18.247 Mailpostfacher- und 8.412 Dateianhangs-Pruefungen niemals in der Außenkommunikation verwendet wurde — Entlastung Bauernfeind fuer die Abberufungs-Versammlung.
+
+## Inhaltliche Verzahnung
+
+Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Nummern (387/2025, 388/2025, 423/2026), Einschreiben-Belegnummern (RM 4274 8842 1 DE, RM 5117 9026 4 DE, RM 4517 8829 3 DE) und Posteingangsdaten mit der bestehenden Akte verzahnt. Die Drawstop-Krise NordCap vom 22.05.2026 wird durch die neue Welle vollstaendig: Drawstop-Punkt (iii) ist mit Akte 42 geheilt, Punkt (ii) durch die Reparaturvereinbarung (Akte 22), Punkte (iv) und (v) sind im Step-Plan (Akte 33) gelb.
+
+## Gesamt-PDF
+
+- LausitzStorage Gesamt-PDF: **188 KB / 43 Quelldateien** (vorher 121 KB / 33).
+
+## Counts (unveraendert ggue. v237)
+
+- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur eine Testakte gewachsen (33 → 43 Aktenstuecke).
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: gruen.
+- `python3 scripts/validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: gruen (203 Testakten).
+
+---
+
 # v237.0.0 — Testakten LausitzStorage und Polizeiverfuegung-Forst erweitert, Repo-Sweep clean
 
 ## Schwerpunkt
